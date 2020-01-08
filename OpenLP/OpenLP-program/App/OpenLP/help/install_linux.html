@@ -1,0 +1,315 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=cp1252" />
+    
+    <title>Installing OpenLP on Linux</title>
+    
+    <link rel="stylesheet" href="_static/openlp_qthelp.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="_static/print.css" type="text/css" />
+    <link rel="top" title="OpenLP 2.4 Reference Manual" href="index.html" />
+    <link rel="next" title="Installing OpenLP on BSD" href="install_bsd.html" />
+    <link rel="prev" title="Installing OpenLP on Microsoft Windows" href="install_windows_mac.html" /> 
+  </head>
+  <body role="document">
+      <!-- div class="header"><img class="rightlogo" src="_static/logo.png" alt="Logo"/><h1 class="heading"><a href="index.html">
+          <span>OpenLP 2.4 Reference Manual</span></a></h1>
+        <h2 class="heading"><span>Installing OpenLP on Linux</span></h2>
+      </div -->
+      <div class="topnav">
+      
+        <p>
+        «&#160;&#160;<a href="install_windows_mac.html">Installing OpenLP on Microsoft Windows</a>
+        &#160;&#160;::&#160;&#160;
+        <a class="uplink" href="index.html">Contents</a>
+        &#160;&#160;::&#160;&#160;
+        <a href="install_bsd.html">Installing OpenLP on BSD</a>&#160;&#160;»
+        </p>
+
+      </div>
+      <div class="content">
+        
+        
+  <div class="section" id="installing-openlp-on-linux">
+<h1>Installing OpenLP on Linux</h1>
+<p>Setting up OpenLP varies by distribution. We have included documentation on
+popular distributions or distributions that have OpenLP available from their
+package managers. It should be possible to get OpenLP running on
+nearly any Linux distribution.</p>
+<div class="section" id="ubuntu">
+<h2>Ubuntu</h2>
+<p>Installation of OpenLP on Ubuntu can either be done through the Software Center
+or the command line. Command line instructions will be included at the end of
+this section on Ubuntu and its variants.</p>
+<p>OpenLP 2.4 supports Ubuntu 14.04 or later versions. There is currently an older
+version of OpenLP available in the official Ubuntu repositories, which can be
+found using the Software Center, but to get OpenLP 2.4 it is necessary to add
+the OpenLP Personal Package Archive (PPA) to your system.</p>
+<div class="section" id="ubuntu-ubuntu-gnome-xubuntu">
+<h3>Ubuntu, Ubuntu GNOME, Xubuntu</h3>
+<p>Open up the software center using <span class="menuselection">Applications</span>
+and select the Software Center from the bottom of the menu. You will need to
+be the administrator of the system to install OpenLP and will be asked for the
+administrator password several times through this process.</p>
+<p>Then go to <span class="menuselection">Edit &#8227; Software Sources</span></p>
+<img alt="_images/1softwaresources.png" src="_images/1softwaresources.png" />
+<p>Click on the <span class="menuselection">Other Software</span> tab then click on the
+<span class="guilabel">Add...</span> button to add the new software source.</p>
+<img alt="_images/2othersoftware.png" src="_images/2othersoftware.png" />
+<p>Add the APT line:</p>
+<div class="highlight-python"><div class="highlight"><pre>ppa:openlp-core/release
+</pre></div>
+</div>
+<p>Click <span class="guilabel">Add Source</span></p>
+<img alt="_images/3aptline.png" src="_images/3aptline.png" />
+<p>You now need to restart the Software Center to refresh the package list. When
+you have the Software Center running simply search for OpenLP and click
+<span class="guilabel">Install</span>.</p>
+<img alt="_images/4searchopenlp.png" src="_images/4searchopenlp.png" />
+<p>You will see the install progress as OpenLP and the dependencies required for
+it to run are downloaded.</p>
+<img alt="_images/5installprogressubuntu.png" src="_images/5installprogressubuntu.png" />
+<p>After installation you should see that OpenLP is installed.</p>
+<img alt="_images/6installcompleteubuntu.png" src="_images/6installcompleteubuntu.png" />
+<p>You can now run OpenLP by either searching for it in the <em>Dash</em>, or clicking on
+the category <em>Media Apps</em> in Unity. If you are running the Classic Desktop you
+will have OpenLP available by clicking
+<span class="menuselection">Applications &#8227; Sound and Video &#8227; OpenLP</span></p>
+</div>
+<div class="section" id="kubuntu">
+<h3>Kubuntu</h3>
+<p>From the Kickoff Menu click <span class="guilabel">System Settings</span> Then click on
+<span class="guilabel">Software Management</span>.</p>
+<img alt="_images/kubuntusystemsettings.png" src="_images/kubuntusystemsettings.png" />
+<p>Click on settings in the left hand column.</p>
+<img alt="_images/kubuntugetremovesoftware.png" src="_images/kubuntugetremovesoftware.png" />
+<p>Click on the <span class="guilabel">Edit Origins</span> button.</p>
+<img alt="_images/kubuntuaddremovesettings.png" src="_images/kubuntuaddremovesettings.png" />
+<p>Click on the <span class="guilabel">Other Software</span> tab.</p>
+<img alt="_images/kubuntusoftwaresources.png" src="_images/kubuntusoftwaresources.png" />
+<p>Click the <span class="guilabel">Add</span> button.</p>
+<img alt="_images/kubuntuothersoftware.png" src="_images/kubuntuothersoftware.png" />
+<p>Type the following in the text box:</p>
+<div class="highlight-python"><div class="highlight"><pre>ppa:openlp-core/release
+</pre></div>
+</div>
+<img alt="_images/kubuntuaddapt.png" src="_images/kubuntuaddapt.png" />
+<p>After clicking <span class="guilabel">OK</span> you should now see new entries for OpenLP</p>
+<img alt="_images/kubuntusoftwareopenlpadded.png" src="_images/kubuntusoftwareopenlpadded.png" />
+<p>Click <span class="guilabel">Close</span> when given the option to reload the software
+information click the <span class="guilabel">Reload</span> button.</p>
+<img alt="_images/kubuntureloadsources.png" src="_images/kubuntureloadsources.png" />
+<p>Click on <span class="guilabel">Get and Remove Software</span> in the left column. Type openlp in
+the search box. Next, click on <span class="guilabel">Find by name</span>. Once OpenLP is located
+click on the search result and click on <span class="guilabel">Install</span>. Click the
+<span class="guilabel">Apply</span> button to install OpenLP</p>
+<img alt="_images/kubuntuopenlpsearch.png" src="_images/kubuntuopenlpsearch.png" />
+<p>You should now see the progress of the download.</p>
+<img alt="_images/kubuntudownloadprogress.png" src="_images/kubuntudownloadprogress.png" />
+<p>Once completed you may have the option to start OpenLP from the window pictured
+below. If this feature is not enabled, you can start OpenLP from the Kickoff
+menu.</p>
+<img alt="_images/kubuntuopenlplaunch.png" src="_images/kubuntuopenlplaunch.png" />
+</div>
+<div class="section" id="ubuntu-command-line-install">
+<h3>Ubuntu Command Line Install</h3>
+<p>First you will need to add the Personal Package Archive (PPA) to Ubuntu&#8217;s
+software sources. From a terminal type:</p>
+<div class="highlight-python"><div class="highlight"><pre>user@ubuntu:~$ sudo add-apt-repository ppa:openlp-core/release
+</pre></div>
+</div>
+<p>Now you need to refresh the package list:</p>
+<div class="highlight-python"><div class="highlight"><pre>user@ubuntu:~$ sudo apt-get update
+</pre></div>
+</div>
+<p>Install OpenLP:</p>
+<div class="highlight-python"><div class="highlight"><pre>user@ubuntu:~$ sudo apt-get install openlp
+</pre></div>
+</div>
+<p>OpenLP should now be available in your desktop&#8217;s menu system, but if you wish
+to run OpenLP from the command line type:</p>
+<div class="highlight-python"><div class="highlight"><pre>user@ubuntu:~$ openlp
+</pre></div>
+</div>
+</div>
+</div>
+<div class="section" id="fedora">
+<h2>Fedora</h2>
+<p>To install OpenLP on Fedora follow the instructions below. The instructions
+describes how to do the install when using GNOME, KDE or the command line.</p>
+<p><strong>Note</strong> When installing OpenLP you will need to have administrator privileges.
+You will be asked for the administrator password to install.</p>
+<div class="section" id="fedora-gnome">
+<h3>Fedora (GNOME)</h3>
+<p>Installing with Fedora you will use the default Add/Remove Programs available
+from <span class="menuselection">System &#8227; Administration &#8227; Add/Remove Programs</span> in
+Fedora 14 and below or in <span class="menuselection">Applications &#8227; System Tools &#8227;
+Add/Remove Programs</span></p>
+<img alt="_images/1fedoraaddremove.png" src="_images/1fedoraaddremove.png" />
+<p>Search for OpenLP in the search box</p>
+<img alt="_images/2fedoraaddremove.png" src="_images/2fedoraaddremove.png" />
+<p>Check the check box for OpenLP then click <span class="guilabel">Apply</span></p>
+<img alt="_images/3fedoraaddremove.png" src="_images/3fedoraaddremove.png" />
+<p>Click <span class="guilabel">Continue</span> to confirm installing any additional software.</p>
+<img alt="_images/4fedoraadditionalconfirm.png" src="_images/4fedoraadditionalconfirm.png" />
+<p>You should now see the packages downloading in the lower left corner.</p>
+<img alt="_images/5fedoraaddremove.png" src="_images/5fedoraaddremove.png" />
+<p>Click <span class="guilabel">Run</span> to run OpenLP now, or <span class="guilabel">Close</span> to run OpenLP
+later.</p>
+<img alt="_images/6fedoracomplete.png" src="_images/6fedoracomplete.png" />
+<p>OpenLP will be available in <span class="menuselection">Applications &#8227; Sound &amp; Video &#8227; OpenLP</span></p>
+</div>
+<div class="section" id="fedora-kde">
+<h3>Fedora (KDE)</h3>
+<p>From the Kickoff open <em>Software Management</em>. Type OpenLP into the search
+box. Then click <span class="guilabel">Find by name</span> or press <code class="kbd docutils literal"><span class="pre">Enter</span></code>.</p>
+<img alt="_images/1fedoragetremove.png" src="_images/1fedoragetremove.png" />
+<p>Select OpenLP from the search results. Next, click <span class="guilabel">Apply</span></p>
+<img alt="_images/2fedoragetremove.png" src="_images/2fedoragetremove.png" />
+<p>Now give permission to install other software dependencies that are needed by
+clicking <span class="guilabel">Continue</span></p>
+<img alt="_images/3fedoraadditionalchanges.png" src="_images/3fedoraadditionalchanges.png" />
+<p>Once completed you can run OpenLP by clicking on its logo in the completed
+install notification, or from the Kickoff menu.</p>
+<img alt="_images/4fedoracompleted.png" src="_images/4fedoracompleted.png" />
+</div>
+<div class="section" id="fedora-command-line-install">
+<h3>Fedora Command Line Install</h3>
+<p>To install OpenLP from the command line type:</p>
+<div class="highlight-python"><div class="highlight"><pre>user@fedora:~$ sudo yum install openlp
+</pre></div>
+</div>
+<p>OpenLP should now be available in your desktop&#8217;s menu system, but if you wish
+to run OpenLP from the command line type:</p>
+<div class="highlight-python"><div class="highlight"><pre>user@fedora:~$ openlp
+</pre></div>
+</div>
+</div>
+</div>
+<div class="section" id="linux-mint">
+<h2>Linux Mint</h2>
+<p>The following instructions are for a standard Linux Mint install. These
+instructions will not work with Linux Mint Debian Edition. Most users should
+be able to follow the instructions for <a class="reference internal" href="#mint-softman"><span>Software Manager Install</span></a>, but if your are
+running Linux Mint without the standard desktop please see the
+<a class="reference internal" href="#mint-command"><span>Linux Mint Command Line Install</span></a> install instructions.</p>
+<div class="section" id="software-manager-install">
+<span id="mint-softman"></span><h3>Software Manager Install</h3>
+<p>The administrator password will be required several times during the
+installation. To install OpenLP open the Software Manager from the Mint Menu.</p>
+<img alt="_images/mint1.png" src="_images/mint1.png" />
+<p>The OpenLP personal package archive (PPA) will need to be added. Click on
+<span class="menuselection">Edit &#8227; Software Sources</span></p>
+<img alt="_images/mint2.png" src="_images/mint2.png" />
+<p>Click on the <span class="guilabel">Other Software</span> tab.</p>
+<img alt="_images/mint3.png" src="_images/mint3.png" />
+<p>Click on the <span class="guilabel">Add...</span> button to add the new software source.</p>
+<img alt="_images/mint4.png" src="_images/mint4.png" />
+<p>Add the APT line:</p>
+<div class="highlight-python"><div class="highlight"><pre>ppa:openlp-core/release
+</pre></div>
+</div>
+<p>Click <span class="guilabel">Add Source</span>.</p>
+<img alt="_images/mint5.png" src="_images/mint5.png" />
+<p>Click <span class="guilabel">Reload</span> to reload your software sources.</p>
+<img alt="_images/mint6.png" src="_images/mint6.png" />
+<p>Type OpenLP into the search box to locate the OpenLP package.</p>
+<img alt="_images/mint7.png" src="_images/mint7.png" />
+<p>Click on OpenLP from the results then click <span class="guilabel">Install</span>.</p>
+<img alt="_images/mint8.png" src="_images/mint8.png" />
+<p>After OpenLP is installed you can close the Software Manager and start OpenLP
+from the <em>Sound and Video</em> section of the Mint Menu.</p>
+</div>
+<div class="section" id="linux-mint-command-line-install">
+<span id="mint-command"></span><h3>Linux Mint Command Line Install</h3>
+<p>You will need to add the Personal Package Archive (PPA) to Linux Mint&#8217;s
+software sources. From a terminal type:</p>
+<div class="highlight-python"><div class="highlight"><pre>user@mint:~$ sudo add-apt-repository ppa:openlp-core/release
+</pre></div>
+</div>
+<p>Now you need to refresh the package list:</p>
+<div class="highlight-python"><div class="highlight"><pre>user@mint:~$ sudo apt-get update
+</pre></div>
+</div>
+<p>Install OpenLP:</p>
+<div class="highlight-python"><div class="highlight"><pre>user@mint:~$ sudo apt-get install openlp
+</pre></div>
+</div>
+<p>OpenLP should now be available in your desktop&#8217;s menu system, but if you wish
+to run OpenLP from the command line type:</p>
+<div class="highlight-python"><div class="highlight"><pre>user@mint:~$ openlp
+</pre></div>
+</div>
+</div>
+</div>
+<div class="section" id="opensuse">
+<h2>openSUSE</h2>
+<p>OpenLP is available using 1-Click Install on the openSUSE Build Service
+website. Go to the <a class="reference external" href="http://software.opensuse.org">openSUSE Build Service site</a>
+and type <code class="kbd docutils literal"><span class="pre">openlp</span></code> into the search box.</p>
+<img alt="_images/suse1.png" src="_images/suse1.png" />
+<p>Then click <span class="guilabel">1-Click Install</span></p>
+<img alt="_images/suse2.png" src="_images/suse2.png" />
+<p>Select <span class="guilabel">Open with YaST 1-Click Install</span> then click <span class="guilabel">OK</span></p>
+<img alt="_images/suse3.png" src="_images/suse3.png" />
+<p>Additional repositories may need to be enabled. This will be performed
+automatically. Accept the default options by clicking <span class="guilabel">Next</span></p>
+<img alt="_images/suse5.png" src="_images/suse5.png" />
+<p>Confirm you want to install OpenLP and click <span class="guilabel">Next</span></p>
+<img alt="_images/suse6.png" src="_images/suse6.png" />
+<p>Before the installation takes place confirm adding the repositories and
+installing the software again. Click <span class="guilabel">Next</span> to continue.</p>
+<img alt="_images/suse7.png" src="_images/suse7.png" />
+<p>Since this is a third party application the software key will have to be
+accepted. Click <span class="guilabel">Trust</span> to accept the software key.</p>
+<img alt="_images/suse8.png" src="_images/suse8.png" />
+<p>OpenLP will now be installed. When the install process is completed click
+<span class="guilabel">Finish</span>.</p>
+<img alt="_images/suse9.png" src="_images/suse9.png" />
+<p>OpenLP will now be available for use.</p>
+</div>
+<div class="section" id="arch-linux">
+<h2>Arch Linux</h2>
+<p>OpenLP is available on Arch Linux through the Arch User Repository, or AUR. Info
+on the AUR can be found <a class="reference external" href="https://wiki.archlinux.org/index.php/Arch_User_Repository">at the Arch wiki</a>.</p>
+<p>There are a variety of tools and methods to install from the AUR. For this
+example we will demonstrate using Yaourt. For more info on Yaourt please see
+the <a class="reference external" href="https://wiki.archlinux.org/index.php/Yaourt">Yaourt documentation</a>.</p>
+<p>From a terminal type:</p>
+<div class="highlight-python"><div class="highlight"><pre>user@arch:~$ yaourt -S openlp
+</pre></div>
+</div>
+<p>OpenLP should now be available in your desktop&#8217;s menu system, but if you wish
+to run OpenLP from the command line type:</p>
+<div class="highlight-python"><div class="highlight"><pre>user@arch:~$ openlp
+</pre></div>
+</div>
+</div>
+</div>
+
+
+      </div>
+      <div class="bottomnav">
+      
+        <p>
+        «&#160;&#160;<a href="install_windows_mac.html">Installing OpenLP on Microsoft Windows</a>
+        &#160;&#160;::&#160;&#160;
+        <a class="uplink" href="index.html">Contents</a>
+        &#160;&#160;::&#160;&#160;
+        <a href="install_bsd.html">Installing OpenLP on BSD</a>&#160;&#160;»
+        </p>
+
+      </div>
+
+    <div class="footer" role="contentinfo">
+        &copy; Copyright 2004 - 2015, Raoul Snyman.
+      Last updated on Mar 31, 2017.
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.3.3.
+    </div>
+  </body>
+</html>

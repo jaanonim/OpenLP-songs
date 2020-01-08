@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-07-14T11:32:44">
+  <properties>
+    <titles>
+      <title>Chwały Dźwięk</title>
+    </titles>
+    <authors>
+      <author>Planetscheakers</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesteś tu gdy wielbimy Cię<br/>Ty przychodzisz w chwale swej<br/>Twoja moc ponad wszystkim jest<br/>Ty królujesz w chwale swej</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Nadchodzi nowe tak wyraźnie czuję że<br/>Gdy czcimy Cię atmosfera zmienia się<br/>Czas by każdy z nas całym sercem śpiewał tak<br/>Wielbię Cię</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Niech już dziś ten chwały dźwięk<br/>Zabrzmi głośniej niż wszystko wokół<br/>Imię Twe wykrzyczeć chcę<br/>Wielbię Cię!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jestem tu w obecności Twej<br/>Wszystko znów możliwe jest<br/>Więzień drzwi otwierają się<br/>Słychać już wolności dźwięk</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Wznosimy cześć Ty zsyłasz deszcz<br/><br/>Z okrzykiem czci śpiewamy dziś<br/>Królem chwały jesteś Ty<br/>To dla Ciebie chcemy żyć<br/>Panie nasz</lines>
+    </verse>
+  </lyrics>
+</song>

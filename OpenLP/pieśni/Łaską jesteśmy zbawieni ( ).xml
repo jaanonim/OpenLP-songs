@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-04-13T07:35:41">
+  <properties>
+    <titles>
+      <title>Łaską jesteśmy zbawieni</title>
+    </titles>
+    <authors>
+      <author> </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Łaską jesteśmy zbawieni <br/> z łaski możemy tu stać<br/> Łaską usprawiedliwieni <br/> i przez Baranka krew </lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/> Wzywasz nas Panie do siebie <br/> przed Twój w niebie tron<br/> My łaską obdarzeni<br/> Tobie składamy hołd </lines>
+    </verse>
+  </lyrics>
+</song>

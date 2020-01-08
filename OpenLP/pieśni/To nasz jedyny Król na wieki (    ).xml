@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-07-18T08:00:41">
+  <properties>
+    <titles>
+      <title>To nasz jedyny Król na wieki</title>
+    </titles>
+    <authors>
+      <author>    </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nasz Bóg jest naszą skałą<br/>Jedynym fundamentem On<br/>Niepewność wokół nas<br/>Królestwa tracą chwałę<br/>Lecz my składamy ufność swą<br/>W imieniu Jezus<br/>Jezu ufamy Tobie!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>To nasz jedyny Król na wieki<br/>Potężny więc Go wywyższamy<br/>To nasz jedyny Król na wieki<br/>Odwieczny Pan niezwyciężony</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mądrości w nim jest pełnia <br/>Prawy i kochający Bóg<br/>Kolana ugną się<br/>Marzenia i nadzieje<br/>Składamy dziś w imieniu Twym<br/>W imieniu Jezus<br/>Jezu ufamy Tobie!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Wznosimy ręce swe<br/>Chwalimy imię Jezus<br/>Królestwo Twoje trwa<br/>Na wieki Boże nasz</lines>
+    </verse>
+  </lyrics>
+</song>

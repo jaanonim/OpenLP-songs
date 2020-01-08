@@ -1,0 +1,193 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=cp1252" />
+    
+    <title>Bibles</title>
+    
+    <link rel="stylesheet" href="_static/openlp_qthelp.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="_static/print.css" type="text/css" />
+    <link rel="top" title="OpenLP 2.4 Reference Manual" href="index.html" />
+    <link rel="next" title="Custom Slides" href="custom_slides.html" />
+    <link rel="prev" title="Songs" href="songs.html" /> 
+  </head>
+  <body role="document">
+      <!-- div class="header"><img class="rightlogo" src="_static/logo.png" alt="Logo"/><h1 class="heading"><a href="index.html">
+          <span>OpenLP 2.4 Reference Manual</span></a></h1>
+        <h2 class="heading"><span>Bibles</span></h2>
+      </div -->
+      <div class="topnav">
+      
+        <p>
+        «&#160;&#160;<a href="songs.html">Songs</a>
+        &#160;&#160;::&#160;&#160;
+        <a class="uplink" href="index.html">Contents</a>
+        &#160;&#160;::&#160;&#160;
+        <a href="custom_slides.html">Custom Slides</a>&#160;&#160;»
+        </p>
+
+      </div>
+      <div class="content">
+        
+        
+  <div class="section" id="bibles">
+<span id="id1"></span><h1>Bibles</h1>
+<p>This section describes the use of the various converters built into OpenLP for
+managing and importing Bibles from other formats.</p>
+<div class="section" id="bible-import-wizard">
+<span id="import-bibles"></span><h2>Bible Import Wizard</h2>
+<p>If you are using an earlier version of OpenLP or, come from another software
+package, you may be able to convert your existing database to work in OpenLP
+2.0. To access the Bible Importer <span class="menuselection">File &#8227; Import &#8227; Bible</span>.
+You may also enter the Bible Importer by clicking the <span class="guilabel">Import Icon:</span></p>
+<dl class="docutils">
+<dt><img alt="IMPORTICON" src="_images/theme_import.png" /> Import Bibles</dt>
+<dd>Click on the <span class="guilabel">Import Bibles</span> icon to start the Bible import wizard.</dd>
+</dl>
+<p>You will see the Bible Importer window, click <span class="guilabel">Next</span>.</p>
+<img alt="_images/import_bible_start.png" src="_images/import_bible_start.png" />
+<p>After clicking <span class="guilabel">Next</span> you can select from the various types of
+software that OpenLP will convert Bibles from. Click on the file folder icon to
+choose the file(s) of the Bible database you want to import. See the sections
+below for more information on the different formats that OpenLP will import.
+Click <span class="guilabel">Next</span> to continue.</p>
+<img alt="_images/import_bible_dropdown.png" src="_images/import_bible_dropdown.png" />
+<p>After selecting your file(s), you&#8217;ll be asked to fill in the details of the
+Bible you are importing. Remember to check what information you need to display
+for your Bible&#8217;s translation, as some of them have strict rules around the
+copyright notice. Click <span class="guilabel">Next</span> to continue.</p>
+<p><strong>Note:</strong> You can use one blank space using the space bar in the copyright field
+to continue if you do not have or need copyright information.</p>
+<img alt="_images/import_bible_license.png" src="_images/import_bible_license.png" />
+<p>After entering the license details, OpenLP will start to import your Bible.
+It may take some time to import your Bible so please be patient.</p>
+<img alt="_images/import_bible_finished.png" src="_images/import_bible_finished.png" />
+<p>When the import has finished click <span class="guilabel">Finish</span> and you should be
+ready to use your Bible in OpenLP.</p>
+<div class="section" id="importing-osis-bibles">
+<h3>Importing OSIS Bibles</h3>
+<p>Importing OSIS files is very simple. Select OSIS as your import source, select
+your OSIS Bible file and continue the import process.</p>
+<img alt="_images/import_bible_osis.png" src="_images/import_bible_osis.png" />
+<p><strong>About OSIS Formatted Bibles</strong></p>
+<p>The OSIS XML standard was designed to provide a common format for distribution
+of electronic Bibles. More information can be found out at the <a class="reference external" href="http://www.bibletechnologies.net/">Bible Technologies website</a>.</p>
+<p>If you have any software installed that is part of the <a class="reference external" href="http://www.crosswire.org/sword/index.jsp">Sword Project</a> it can be easily converted.</p>
+<p>You can use the commands below convert Bibles from that software to OSIS format.</p>
+<p>The following commands are used in all platforms and the commands are case
+sensitive across all platforms. To convert a Bible using the command prompt in
+Windows or a terminal in Linux or Mac OS X you would type:</p>
+<div class="highlight-python"><div class="highlight"><pre>mod2osis biblename &gt; biblename.osis
+</pre></div>
+</div>
+<p>For example: if I wanted to convert a King James Version Bible I would type
+something similar to this:</p>
+<div class="highlight-python"><div class="highlight"><pre>mod2osis KJV &gt; kjv.osis
+</pre></div>
+</div>
+<p>You may also wish to dictate a file location for the conversion to place the
+osis file for example:</p>
+<div class="highlight-python"><div class="highlight"><pre>mod2osis KJV &gt; /home/user/bibles/kjv.osis
+</pre></div>
+</div>
+</div>
+<div class="section" id="importing-opensong-bibles">
+<h3>Importing OpenSong Bibles</h3>
+<p>Converting from OpenSong you will need to locate your Bibles database. In the
+later versions of OpenSong you are asked to define the location of this. The
+songs will be located in a folder named <span class="guilabel">Bibles</span>. This folder should
+contain files with all your Bibles in them without a file extension. (file.xmms).
+When you have located this folder you will need to select the Bible from the
+folder.</p>
+<p>You may also import downloaded Bibles from <a class="reference external" href="http://opensong.org/pages/downloads.html">OpenSongs webpage (scroll down to
+find bibles)</a>. The process is the same,
+except you will need to extract the Bible from a zip file. This is usually done
+by right clicking on the downloaded file and select <cite>Extract</cite> or <cite>Extract Here</cite>.
+Note that some of the bibles on OpenSongs webpage are actually in the Zefania
+format, which OpenLP can also import, see <a class="reference internal" href="#zefaniaimport"><span>Importing Zefania Bibles</span></a>.</p>
+<img alt="_images/import_bible_opensong.png" src="_images/import_bible_opensong.png" />
+<p>After selecting the OpenSong Bibles you want to import, follow the rest of the
+import process. When the import has finished you should be ready to use your
+OpenSong Bibles.</p>
+</div>
+<div class="section" id="importing-web-download-bibles">
+<h3>Importing Web Download Bibles</h3>
+<p><strong>About Web Download</strong></p>
+<p>OpenLP provides a Web Download method to import Bibles when you do not have a
+locally installed Bible available. The Web Download method registers the Bible
+in OpenLP like the other Bibles only it downloads the verses as you need them.
+This import is not meant to be used as your sole source for Bibles, but rather
+as another option and does require an internet connection.</p>
+<p>To use the web download feature select web download from the import wizard.</p>
+<img alt="_images/import_bible_web1.png" src="_images/import_bible_web1.png" />
+<p>First click <span class="guilabel">Download bible list</span> to download a list of available
+bibles.</p>
+<img alt="_images/import_bible_web2.png" src="_images/import_bible_web2.png" />
+<p>This will take a few moments depending on your internet connection and load on
+the servers.</p>
+<img alt="_images/import_bible_web3.png" src="_images/import_bible_web3.png" />
+<p>When the download is complete you can select from 3 different sources to
+download from: <a class="reference external" href="http://www.biblestudytools.com/">Crosswalk</a>, <a class="reference external" href="http://www.bibleserver.com/">BibleServer</a> and <a class="reference external" href="https://www.biblegateway.com/">BibleGateway</a>. From each source there are many Bible
+translations available, so there is a good chance that you will find what you
+need.</p>
+<p>You can also select a proxy server if needed from the <cite>Proxy Server</cite> tab. Your
+network administrator will know if this is necessary. In most cases this will
+not be needed.</p>
+<img alt="_images/import_bible_web_proxy.png" src="_images/import_bible_web_proxy.png" />
+<p>After selecting your download location and the Bible you wish to use, click
+<span class="guilabel">Next</span> to continue the import process. When your import is completed
+you should now be ready to use the web Bible.</p>
+</div>
+<div class="section" id="importing-csv-formatted-bibles">
+<h3>Importing CSV formatted Bibles</h3>
+<p>If you have a Bible in .csv format OpenLP can import it. If you wish to create
+a bible in the CSV format yourself the format is documented in the
+<a class="reference external" href="http://api.openlp.io/api/openlp/plugins/bibles/lib/csvbible.html#module-openlp.plugins.bibles.lib.csvbible">OpenLP API documentation</a>.</p>
+<p>CSV Bibles will consist of two files a <cite>books</cite> file and a <cite>verse</cite> file.
+Select CSV from the list of Bible types to import.</p>
+<p>You are now ready to select your .csv files. You will need to select both your
+books and verse file location.</p>
+<img alt="_images/import_bible_csv.png" src="_images/import_bible_csv.png" />
+<p>After you have selected the file locations you can continue with the import
+process. Once it is complete you should be ready to use your imported CSV Bible.</p>
+</div>
+<div class="section" id="importing-zefania-bibles">
+<span id="zefaniaimport"></span><h3>Importing Zefania Bibles</h3>
+<p>The Zefania project has many Bibles available from <a class="reference external" href="http://sourceforge.net/projects/zefania-sharp/files/Bibles/">their website</a>.
+Find the Bible you would like to import and download the file. The downloaded
+file is a zip-file from which the Bible must be extracted. This is usually done
+by right clicking on the downloaded file and select <cite>Extract</cite> or <cite>Extract Here</cite>.</p>
+<img alt="_images/import_bible_zefania.png" src="_images/import_bible_zefania.png" />
+<p>You can now simply select the extracted file for import and click
+<span class="guilabel">Next</span> to continue the import process. When your import is completed
+you should now be ready to use the imported Zefania Bible.</p>
+</div>
+</div>
+</div>
+
+
+      </div>
+      <div class="bottomnav">
+      
+        <p>
+        «&#160;&#160;<a href="songs.html">Songs</a>
+        &#160;&#160;::&#160;&#160;
+        <a class="uplink" href="index.html">Contents</a>
+        &#160;&#160;::&#160;&#160;
+        <a href="custom_slides.html">Custom Slides</a>&#160;&#160;»
+        </p>
+
+      </div>
+
+    <div class="footer" role="contentinfo">
+        &copy; Copyright 2004 - 2015, Raoul Snyman.
+      Last updated on Mar 31, 2017.
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.3.3.
+    </div>
+  </body>
+</html>

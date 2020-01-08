@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-07-14T11:39:40">
+  <properties>
+    <titles>
+      <title>Jak wielki jest Bóg</title>
+    </titles>
+    <authors>
+      <author>    </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To On, nasz Pan i Król<br/> odziany w majestat Swój,<br/> Ziemio, raduj się,<br/> Ziemio, raduj się.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Okrywa światłość Go,<br/>ucieka ciemność i zło<br/> i drży na Jego głos,<br/> i drży na Jego głos </lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jak wielki jest Bóg, <br/>śpiewaj ze mną, <br/>wielki jest Bóg, <br/>Świat ujrzy to <br/>Jak wielki jest nasz Bóg </lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>On czas w swej dłoni ma, <br/>od wieków na wieki trwa, <br/>początkiem, końcem On, <br/>początkiem, końcem On.<br/> Jedyny w Trójcy Bóg, Ojciec, Syn i Duch</lines>
+    </verse>
+  </lyrics>
+</song>

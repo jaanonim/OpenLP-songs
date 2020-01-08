@@ -1,0 +1,255 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=cp1252" />
+    
+    <title>Projector Manager</title>
+    
+    <link rel="stylesheet" href="_static/openlp_qthelp.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="_static/print.css" type="text/css" />
+    <link rel="top" title="OpenLP 2.4 Reference Manual" href="index.html" />
+    <link rel="next" title="Plugin List" href="plugin_list.html" />
+    <link rel="prev" title="Print Service" href="print_service.html" /> 
+  </head>
+  <body role="document">
+      <!-- div class="header"><img class="rightlogo" src="_static/logo.png" alt="Logo"/><h1 class="heading"><a href="index.html">
+          <span>OpenLP 2.4 Reference Manual</span></a></h1>
+        <h2 class="heading"><span>Projector Manager</span></h2>
+      </div -->
+      <div class="topnav">
+      
+        <p>
+        «&#160;&#160;<a href="print_service.html">Print Service</a>
+        &#160;&#160;::&#160;&#160;
+        <a class="uplink" href="index.html">Contents</a>
+        &#160;&#160;::&#160;&#160;
+        <a href="plugin_list.html">Plugin List</a>&#160;&#160;»
+        </p>
+
+      </div>
+      <div class="content">
+        
+        
+  <div class="section" id="projector-manager">
+<span id="projector"></span><h1>Projector Manager</h1>
+<p>The Projector Manager allows you to remotely control a network-connected
+projector that conforms to the Japan Business Machine and Information System
+Association (JBMIA) PJLink specification. Available in OpenLP v2.2.</p>
+<div class="section" id="projector-configuration">
+<span id="projector-settings"></span><h2>Projector Configuration</h2>
+<p>The available projector options can be changed using the main settings menu by
+going to <span class="guilabel">Settings</span> -&gt; <span class="guilabel">Configure OpenLP</span> -&gt; <span class="guilabel">Projectors</span> tab.
+See <a class="reference internal" href="configure.html#configure-projectors"><span>Projectors</span></a>.</p>
+</div>
+<div class="section" id="id1">
+<span id="id2"></span><h2>Projector Manager</h2>
+<p>The Projector Manager is the interface to controlling your projector(s). It is
+located on the bottom-right corner of OpenLP just below the Theme Manager.</p>
+<p><img alt="PROJECTOR_MANAGER" src="_images/projector_manager.png" /></p>
+<p>The icons on the Projector Manager tab will depend on projector entries as well
+as how many projectors are selected at once.</p>
+<p>A list of possible projector icons are:</p>
+<dl class="docutils">
+<dt><img alt="PROJECTOR_NEW" src="_images/projector_new.png" /> <strong>New Projector:</strong></dt>
+<dd>Choosing this option will open the &#8220;Create New Projector&#8221; dialog so you can enter
+a new projector item.</dd>
+<dt><img alt="PROJECTOR_EDIT" src="_images/general_edit.png" /> <strong>Edit Projector:</strong></dt>
+<dd>When you have selected a projector item, this option will open the &#8220;Edit Projector&#8221;
+dialog so you can make changes to that projector item.</dd>
+<dt><img alt="PROJECTOR_SOURCE" src="_images/projector_hdmi.png" /> <strong>Select Projector Input:</strong></dt>
+<dd>When you have selected a projector item and it is connected and power is ON, this
+option will give you a dialog that allows you to select the video source the
+projector will use.</dd>
+<dt><img alt="PROJECTOR_DELETE" src="_images/custom_delete.png" /> <strong>Delete Projector:</strong></dt>
+<dd>When you have selected a projector item, this option will allow you to delete
+the projector item from the Projector manager list.</dd>
+<dt><img alt="PROJECTOR_INFO" src="_images/system_about.png" /> <strong>Projector Information:</strong></dt>
+<dd>When you have selected a projector item and it is connected to the projector, this
+option will give you an information box with extra information about the projector.</dd>
+<dt><img alt="PROJECTOR_CONNECT" src="_images/projector_connect.png" /> <strong>Connect to Projector:</strong></dt>
+<dd>When you have selected a projector item, this option will allow you to connect to
+the projector.</dd>
+<dt><img alt="PROJECTOR_CONNECT_TILED" src="_images/projector_connect_tiled.png" /> <strong>Connect to Multiple Projectors:</strong></dt>
+<dd>When you have multiple projector items selected, this option will allow to to
+connect to multiple projectors at once.</dd>
+<dt><img alt="PROJECTOR_DISCONNECT" src="_images/projector_disconnect.png" /> <strong>Disconnect from Projector:</strong></dt>
+<dd>When you have a projector item selected, this option will allow you to disconnect
+from the projector.</dd>
+<dt><img alt="PROJECTOR_DISCONNECT_TILED" src="_images/projector_disconnect_tiled.png" /> <strong>Disconnect from Multiple Projectors:</strong></dt>
+<dd>When you have multiple projector items selected, this option will allow to
+disconnect from multiple projectors at once.</dd>
+<dt><img alt="PROJECTOR_POWER_ON" src="_images/projector_power_on.png" /> <strong>Power On Projector:</strong></dt>
+<dd>When you have selected a projector item and it is connected, this option will allow
+you to turn the projector to  &#8220;Power ON&#8221;.</dd>
+<dt><img alt="PROJECTOR_POWER_ON_TILED" src="_images/projector_power_on_tiled.png" /> <strong>Power On Multiple Projectors:</strong></dt>
+<dd>When you have selected multiple projector items and they are connected, this option will allow
+you to turn the projectors to  &#8220;Power ON&#8221;.</dd>
+<dt><img alt="PROJECTOR_POWER_OFF" src="_images/projector_power_off.png" /> <strong>Power Off Projector:</strong></dt>
+<dd>When you have selected a projector item and it is connected, this option will allow
+you to turn the projector to  &#8220;Power STANDBY&#8221;.</dd>
+<dt><img alt="PROJECTOR_POWER_OFF_TILED" src="_images/projector_power_off_tiled.png" /> <strong>Power Off Multiple Projectors:</strong></dt>
+<dd>When you have selected multiple projector items and they are connected, this option will allow
+you to turn the projectors to  &#8220;Power STANDBY&#8221;.</dd>
+<dt><img alt="PROJECTOR_BLANK" src="_images/projector_blank.png" /> <strong>Blank Projector Screen:</strong></dt>
+<dd>When you have a projector item selected and it is powered ON, this option will allow
+you to blank the projector screen so no video is shown.</dd>
+<dt><img alt="PROJECTOR_BLANK_TILED" src="_images/projector_blank_tiled.png" /> <strong>Blank All Projector Screens:</strong></dt>
+<dd>When you have multiple projector items selected and they are powered ON, this option will allow
+you to blank the projector screens so no video is shown.</dd>
+<dt><img alt="PROJECTOR_SHOW" src="_images/projector_show.png" /> <strong>Show Projector Screen:</strong></dt>
+<dd>When you have a projector item selected and it is powered ON, this option will allow
+you to unblank the projector screen so video is shown.</dd>
+<dt><img alt="PROJECTOR_SHOW_TILED" src="_images/projector_show_tiled.png" /> <strong>Show All Projector Screens:</strong></dt>
+<dd>When you have multiple projector items selected and they are powered ON, this option will allow
+you to unblank the projector screens so video is shown.</dd>
+</dl>
+</div>
+<div class="section" id="adding-a-projector">
+<span id="projector-add"></span><h2>Adding a Projector</h2>
+<p>To add a new projector, click on the <span class="guilabel">Add New Projector</span> icon on the Projector
+Manager tab bar. You will be given an input dialog box like the below image.</p>
+<p><img alt="PROJECTOR_ADD_NEW" src="_images/projector_add_new.png" /></p>
+<p>The required information are &#8220;IP Address&#8221;, &#8220;Port Number&#8221;, and &#8220;Name&#8221; entries.
+The port number is already set with the default PJLink port.</p>
+<p>The &#8220;PIN&#8221; entry is only needed if the projector you are connecting to has the
+PJLink PIN set. Be careful, since most projectors have a separate entry for
+the PJLink PIN, any other network PIN or password, as well as a separate entry
+for any HTML access name/password settings (if the projector has HTML webpage
+access). The PIN setting here is ONLY used if the projector has a &#8220;PJLink access
+code&#8221; or &#8220;PJLink PIN&#8221; setting.</p>
+<p>For information on what the fields are, you can click on <span class="guilabel">Help</span> button for some information
+about what is expected for each field.</p>
+<p>Once you are done entering the new information, click on <span class="guilabel">Save</span> to save the entry
+and add it to the projector manager list. If you decide to not add a new entry, click the
+<span class="guilabel">Cancel</span> button to close the dialog without saving.</p>
+<p>Congratulations, you now have your first projector entry in the list and ready for control.</p>
+<p><img alt="PROJECTOR_MANAGER_LIST" src="_images/projector_manager_list.png" /></p>
+<p>When you have multiple projector entries selected, the projector manager toolbar
+will change to the following:</p>
+<p><img alt="PROJECTOR_ITEM_MULTIPLE_SELECTION" src="_images/projector_multiple_selection.png" /></p>
+<p>Once you select a projector, the icons will also change based on the status of
+the projector.</p>
+</div>
+<div class="section" id="view-projector-information">
+<span id="projector-view"></span><h2>View Projector Information</h2>
+<p>After you have a projector item added and it&#8217;s connected, you can view the current status of the projector
+by clicking on the <span class="guilabel">View Projector Information</span> icon. You will see a pop-up box that looks
+similar to the following: (NOTE: Example information only - the information you see will depend on the
+projector that you are connected to)</p>
+<p><img alt="PROJECTOR_ITEM_VIEW" src="_images/projector_item_view.png" /></p>
+</div>
+<div class="section" id="projector-status-icons">
+<span id="projector-status"></span><h2>Projector Status Icons</h2>
+<p>The icons next to the projector entry in the projector manager list give you a
+quick visual status of the projector.</p>
+<p>The icons you will see for the projector are:</p>
+<p><img alt="PROJECTOR_ITEM_DISCONNECT" src="_images/projector_item_disconnect.png" /> Projector is disconnected</p>
+<p><img alt="PROJECTOR_ITEM_CONNECT" src="_images/projector_item_connect.png" /> Attempting to connect to projector</p>
+<p><img alt="PROJECTOR_NOT_CONNECTED_ERROR" src="_images/projector_not_connected_error.png" /> There was an error connecting to projector</p>
+<p><img alt="PROJECTOR_ITEM_OFF" src="_images/projector_off.png" /> The projector power is OFF (Standby)</p>
+<p><img alt="PROJECTOR_ITEM_WARMUP" src="_images/projector_warmup.png" /> The projector is warming up</p>
+<p><img alt="PROJECTOR_ITEM_ON" src="_images/projector_on.png" /> The projector is on</p>
+<p><img alt="PROJECTOR_ITEM_COOLDOWN" src="_images/projector_cooldown.png" /> The projector is cooling down before power off (standby)</p>
+<p><img alt="PROJECTOR_ITEM_ERROR" src="_images/projector_error.png" /> The projector is reporting an error</p>
+</div>
+<div class="section" id="projector-menus">
+<span id="projector-menu"></span><h2>Projector Menus</h2>
+<p>The projector menu items will vary depending on what the status is of the selected projector.
+The icons/options available are the same as described above in the icon description section.</p>
+<div class="section" id="initial-menu">
+<span id="projector-menu-initial"></span><h3>Initial Menu</h3>
+<p>When you first enter a projector or when you first start OpenLP, you will select
+from the following menu items:</p>
+<p><img alt="PROJECTOR_ITEM_NOT_CONNECTED_MENU" src="_images/projector_item_not_connected.png" /></p>
+</div>
+<div class="section" id="projector-connected-in-standby-mode">
+<span id="projector-menu-connected-standby"></span><h3>Projector Connected in Standby Mode</h3>
+<p>Once the projector has been connected, and if the projector is not powered on,
+you get the below menu list:</p>
+<p><img alt="PROJECTOR_ITEM_CONNECTED_OFF" src="_images/projector_item_connected_off.png" /></p>
+</div>
+<div class="section" id="projector-connected-in-warmup-mode">
+<span id="projector-menu-connected-warmup"></span><h3>Projector Connected in Warmup Mode</h3>
+<p>Once the projector is in warming up, you will see the following menu:</p>
+<p><img alt="PROJECTOR_ITEM_CONNECTED_WARMUP_MENU" src="_images/projector_item_connected_warmup.png" /></p>
+</div>
+<div class="section" id="projector-connected-and-power-on">
+<span id="projector-menu-connected-on"></span><h3>Projector Connected and Power On</h3>
+<p>Once the projector is on, you will see the following menu:</p>
+<p><img alt="PROJECTOR_ITEM_POWER_ON_MENU" src="_images/projector_item_power_on.png" /></p>
+</div>
+<div class="section" id="projector-connected-and-in-cooldown-mode">
+<span id="projector-menu-connected-cooldown"></span><h3>Projector Connected and in Cooldown Mode</h3>
+<p>When the projector is cooling down, you will see the following menu:</p>
+<p><img alt="PROJECTOR_ITEM_COOLDOWN_MENU" src="_images/projector_item_connected_cooldown.png" /></p>
+</div>
+</div>
+<div class="section" id="video-source-options">
+<span id="projector-video-source"></span><h2>Video Source Options</h2>
+<p>The video source options allow you to tell the projector to change it&#8217;s video
+source input, as well as allowing you to personalize what the video settings
+options.</p>
+<div class="section" id="video-source-input-select-options">
+<span id="projector-video-source-select"></span><h3>Video Source Input Select Options</h3>
+<p>If you want to change the video source the projector uses, click on the
+<span class="guilabel">Select Source</span> option, then select from the pop-up window which video source
+you want to use. You can access the <span class="guilabel">Select Source</span> option from either the
+projector manager toolbar or from the right-click pop-up menu.</p>
+<p>You have an option of setting two different styles for the video source window.
+The default option is all entries on one radio button dialog. The other option
+is to have the selections grouped by type. This option is available in the
+<span class="guilabel">Settings</span> -&gt; <span class="guilabel">Configure OpenLP</span> -&gt; <span class="guilabel">Projectors</span> tab under
+the &#8220;Source Select dialog interface&#8221; option.</p>
+<p>NOTE: These images are examples only - what options you will have will vary
+depending on the projector you have. These images show the default PJLink text.</p>
+<p><img alt="PROJECTOR_SOURCE_SELECT_TABBED" src="_images/projector_source_select_tabbed.png" /></p>
+</div>
+<div class="section" id="video-source-input-edit-options">
+<span id="projector-video-source-edit"></span><h3>Video Source Input Edit Options</h3>
+<p>When you want to customize how the video source select text looks, click on the
+<span class="guilabel">Edit Input Source</span> icon in the right-click menu. This will
+bring up the source edit dialog box.</p>
+<p>NOTE: These images are examples only - what options you will have will vary
+depending on the projector you have. These images show the default PJLink text.</p>
+<p><img alt="PROJECTOR_SOURCE_EDIT_TABBED" src="_images/projector_source_edit_tabbed.png" /></p>
+<p>Once you are satisfied, you can click on the <span class="guilabel">OK</span> button to save the changes,
+or click on the <span class="guilabel">Cancel</span> button to discard these changes and continue to use
+the previously saved user-defined text (or the PJLink defaults if you have no
+previously saved user-defined text).</p>
+<p>If you don&#8217;t like the changes, the <span class="guilabel">Reset</span> button will reset the text back to
+the previously saved text (or PJLink defaults if you have no previously saved
+user-defined text) and allow you to continue editing.</p>
+<p>If you _really_ don&#8217;t like the text, you can select the <span class="guilabel">Discard</span> button and
+remove all entries from the database. WARNING: This will delete _all_ of the
+user-defined entries for this projector in the database and return them to the
+PJLink defaults.</p>
+</div>
+</div>
+</div>
+
+
+      </div>
+      <div class="bottomnav">
+      
+        <p>
+        «&#160;&#160;<a href="print_service.html">Print Service</a>
+        &#160;&#160;::&#160;&#160;
+        <a class="uplink" href="index.html">Contents</a>
+        &#160;&#160;::&#160;&#160;
+        <a href="plugin_list.html">Plugin List</a>&#160;&#160;»
+        </p>
+
+      </div>
+
+    <div class="footer" role="contentinfo">
+        &copy; Copyright 2004 - 2015, Raoul Snyman.
+      Last updated on Mar 31, 2017.
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.3.3.
+    </div>
+  </body>
+</html>

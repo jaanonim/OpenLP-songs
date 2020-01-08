@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-04-13T07:46:23">
+  <properties>
+    <titles>
+      <title>WSZYSTKO MOGĘ W TYM, KTÓRY MNIE UMACNIA</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wszystko mogę w Tym, który mnie umacnia.<br/>Wszystko mogę w Tym, który kocha mnie.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>On drogą mą, którą kroczyć mam,<br/>nadzieją, bez której nie mogę żyć.<br/>On wiara jest co uskrzydla mnie,<br/>miłością, miłością!</lines>
+    </verse>
+  </lyrics>
+</song>

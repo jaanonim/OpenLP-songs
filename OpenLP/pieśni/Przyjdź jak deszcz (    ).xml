@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-04-13T08:02:29">
+  <properties>
+    <titles>
+      <title>Przyjdź jak deszcz</title>
+    </titles>
+    <authors>
+      <author>    </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przyjdź jak deszcz, ożyw dziś,<br/>Suchą ziemię naszych serc,<br/>Przyjdź jak deszcz, na spragniony świat<br/>Dotknij nas, tak jak wiatr<br/>Rozpędź smutek, otrzyj łzy,<br/>Zabierz tam, gdzie się w radość zmienia strach.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Wszystko dziś nowe staje się<br/>Panie, przyjdź i napełnij mnie!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Przyjdź jak deszcz do spragnionych serc<br/>Tak pragniemy Ciebie, Panie.<br/>Niech Twa moc dziś objawi się<br/>Pokaż swoją chwałę!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przyjdź jak deszcz, Panie nasz<br/>Obmyj gorycz, żal i ból<br/>Pozwól dziś, niech nadzieja kwitnie w nas.<br/>To, co złe zniknie gdzieś nowy dzień nastaje już<br/>Jesteś, jak słońca blask w pochmurny czas</lines>
+    </verse>
+  </lyrics>
+</song>

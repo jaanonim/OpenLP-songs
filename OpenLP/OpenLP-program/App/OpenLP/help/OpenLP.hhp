@@ -1,0 +1,70 @@
+[OPTIONS]
+Binary TOC=No
+Binary Index=No
+Compiled file=OpenLP.chm
+Contents file=OpenLP.hhc
+Default Window=OpenLP
+Default topic=index.html
+Display compile progress=No
+Full text search stop list file=OpenLP.stp
+Full-text search=Yes
+Index file=OpenLP.hhk
+Language=0x409
+Title=OpenLP 2.4 Reference Manual
+
+[WINDOWS]
+OpenLP="OpenLP 2.4 Reference Manual","OpenLP.hhc","OpenLP.hhk","index.html","index.html",,,,,0x63520,220,0x10384e,[0,0,1024,768],,,,,,,0
+
+[FILES]
+alert.html
+android.html
+backing_up.html
+bibles.html
+configure.html
+configure_shortcuts.html
+creating_service.html
+custom_slides.html
+display_tags.html
+dualmonitors.html
+export_songs.html
+faq.html
+genindex.html
+glossary.html
+index.html
+install_bsd.html
+install_linux.html
+install_windows_mac.html
+introduction.html
+mediamanager.html
+menu_items.html
+plugin_list.html
+print_service.html
+projector.html
+songs.html
+song_usage.html
+stage_view.html
+system_requirements.html
+themes.html
+troubleshooting.html
+web_remote.html
+wizard.html
+_static\ajax-loader.gif
+_static\alert_info_32.png
+_static\alert_warning_32.png
+_static\basic.css
+_static\bg-page.png
+_static\bullet_orange.png
+_static\comment-bright.png
+_static\comment-close.png
+_static\comment.png
+_static\down-pressed.png
+_static\down.png
+_static\file.png
+_static\logo.png
+_static\minus.png
+_static\openlp.ico
+_static\openlp_qthelp.css
+_static\plus.png
+_static\pygments.css
+_static\up-pressed.png
+_static\up.png

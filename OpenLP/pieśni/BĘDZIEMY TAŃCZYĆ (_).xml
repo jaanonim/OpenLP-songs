@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-07-13T19:07:05">
+  <properties>
+    <titles>
+      <title>BĘDZIEMY TAŃCZYĆ</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Będziemy tańczyć, będziemy śpiewać,<br/>Będziemy klaskać w dłonie swe,<br/>Kiedy nasz Pan stanie z nami twarzą w twarz<br/>Spotkamy się w Nowym Jeruzalem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Będziemy tańczyć, będziemy śpiewać, <br/>Będziemy klaskać w dłonie swe,<br/>Kiedy nasz Pan w białych szatach stawi nas<br/>Przed Ojcem swym, przed Adonai.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Nadejdzie dzień, w którym wszystko spełni się, <br/>Co dawno już objawił Bóg, <br/>Więc mocno trwaj, nigdy nie poddawaj się,<br/>Nie poddawaj się.</lines>
+    </verse>
+  </lyrics>
+</song>

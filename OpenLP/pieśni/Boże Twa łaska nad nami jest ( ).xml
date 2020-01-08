@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-04-13T07:35:40">
+  <properties>
+    <titles>
+      <title>Boże Twa łaska nad nami jest</title>
+    </titles>
+    <authors>
+      <author> </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boże Twa łaska nad nami jest <br/> Twoja miłość przychodzi wciąż <br/> Działasz z mocą pośród nas<br/> Przenikasz serca gładzisz grzech </lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/> My chcemy więcej Ciebie<br/> więcej łaski Twej <br/> Pragniemy więcej mocy <br/>więcej miłości Twojej </lines>
+    </verse>
+  </lyrics>
+</song>

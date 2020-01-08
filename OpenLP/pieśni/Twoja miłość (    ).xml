@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-07-18T14:56:42">
+  <properties>
+    <titles>
+      <title>Twoja miłość</title>
+    </titles>
+    <authors>
+      <author>    </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesteś blisko mnie,<br/>a tęsknię za Duchem Twym<br/>kocham kroki Twe<br/>i wiem jak pukasz do drzwi.<br/>Przychodzisz jak ciepły wiatr.<br/>Otwieram się i czuję znów, że…</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Twoja miłość jak ciepły deszcz.<br/>Twoja miłość jak morze gwiazd za dnia.<br/>Twoja miłość sprawia, że<br/>nieskończenie dobry Święty Duch<br/>ogarnia mnie. </lines>
+    </verse>
+  </lyrics>
+</song>

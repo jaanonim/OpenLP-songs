@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-04-13T07:35:41">
+  <properties>
+    <titles>
+      <title>Każdy spragniony i słaby dziś</title>
+    </titles>
+    <authors>
+      <author> </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Każdy spragniony i słaby dziś  <br/> niech przyjdzie do źródła   <br/> W strumieniu życia zanurzy się</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/> Wszelki ból i cierpienie <br/> niech odpłyną w dal <br/> W morzu Jego miłości <br/> Serca uleczy dzisiaj Pan </lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Panie Jezu Przyjdź /x4 </lines>
+    </verse>
+  </lyrics>
+</song>

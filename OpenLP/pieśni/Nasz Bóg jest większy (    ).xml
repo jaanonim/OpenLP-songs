@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-07-16T07:49:36">
+  <properties>
+    <titles>
+      <title>Nasz Bóg jest większy</title>
+    </titles>
+    <authors>
+      <author>    </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z prochu podnosisz, bym żył <br/>Duch Twój dodaje mi sił<br/>Nie dorówna Tobie nikt <br/>Światło Twe oddala mrok <br/>Cudem przywracasz nam wzrok <br/>Nie dorówna Tobie nikt</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nasz Bóg jest większy<br/>On jest silniejszy<br/>Nie ma nikogo równego Tobie<br/>Nasz Bóg uzdrawia<br/>Wielki i mocny nasz Bóg, nasz Bóg</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bo jeśli Bóg jest z nami<br/>To nikt nas nie powstrzyma<br/>Bo jeśli Bóg jest z nami<br/>To któż pokona nas?</lines>
+    </verse>
+  </lyrics>
+</song>

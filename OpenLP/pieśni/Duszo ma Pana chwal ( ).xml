@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-04-13T07:35:40">
+  <properties>
+    <titles>
+      <title>Duszo ma Pana chwal</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author> </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Duszo ma Pana chwal, <br/>oddaj Bogu cześć<br/>Świętemu śpiewaj pieśń. <br/>Z mocą wywyższaj Go, duszo ma <br/>Uwielbiam Boże Cię </lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nowy dzień wraz ze wschodem słońca<br/>Znów nadszedł czas, by śpiewać Ci <br/>Cokolwiek jest za mną i to wszystko,<br/>co przede mną Wiem będę śpiewać, <br/>gdy nadejdzie zmrok.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bogaty w miłość, gniew oddalasz Panie <br/>Twe serce miłe, wielkie imię Twe <br/>Ze względu na Twą dobroć <br/>Będę śpiewać Tobie pieśni<br/>Wiele powodów, by uwielbiać Cię</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nadejdzie dzień, gdy bez sił zostanę,<br/>Nadejdzie czas mego końca tu<br/>Dusza ma będzie na zawsze Cię uwielbiać <br/>W wieczności z Tobą piękna zabrzmi pieśń</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Uwielbiam Boże Cię /x2</lines>
+    </verse>
+  </lyrics>
+</song>

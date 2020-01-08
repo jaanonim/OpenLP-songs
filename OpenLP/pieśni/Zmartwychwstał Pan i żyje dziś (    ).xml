@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-04-27T14:18:46">
+  <properties>
+    <titles>
+      <title>Zmartwychwstał Pan i żyje dziś</title>
+    </titles>
+    <authors>
+      <author>    </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Zmartwychwstał Pan i żyje dziś, blaskiem jaśnieje noc <br/>Nie umrę, nie, lecz będę żył, Bóg okazał swą moc <br/>Krzyż to jest brama Pana, jeśli chcesz przez nią wejdź <br/>Zbliżmy się do ołtarza Bogu oddajmy cześć! </lines>
+    </verse>
+    <verse name="v1">
+      <lines>Dzięki składajmy Mu, bo wieczna jest jego łaska <br/>Z grobu powstał dziś Pan, a noc jest pełna blasku <br/>Chcę dziękować mu i chcę Go dziś błogosławić <br/>Jezus mój Pan i Bóg, On przyszedł, aby nas zbawić! </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lepiej się uciec do Pana niż zaufać książętom <br/>Pan - moja moc i pieśń, podtrzymał, gdy mnie popchnięto <br/>Już nie będę się bać, cóż może zrobić mi śmierć <br/>Nie, nie lękam się i śpiewam chwały pieśń!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Odrzucony Pan, stał się kamieniem węgielnym <br/>Pan wysłuchał mnie, On jest zbawieniem mym <br/>Cudem staje się noc, gdy w dzień jest przemieniona <br/>Tańczmy dla niego dziś, prawica Pańska wzniesiona!</lines>
+    </verse>
+  </lyrics>
+</song>

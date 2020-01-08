@@ -1,0 +1,366 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=cp1252" />
+    
+    <title>Print Service</title>
+    
+    <link rel="stylesheet" href="_static/openlp_qthelp.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="_static/print.css" type="text/css" />
+    <link rel="top" title="OpenLP 2.4 Reference Manual" href="index.html" />
+    <link rel="next" title="Projector Manager" href="projector.html" />
+    <link rel="prev" title="Service Manager" href="creating_service.html" /> 
+  </head>
+  <body role="document">
+      <!-- div class="header"><img class="rightlogo" src="_static/logo.png" alt="Logo"/><h1 class="heading"><a href="index.html">
+          <span>OpenLP 2.4 Reference Manual</span></a></h1>
+        <h2 class="heading"><span>Print Service</span></h2>
+      </div -->
+      <div class="topnav">
+      
+        <p>
+        «&#160;&#160;<a href="creating_service.html">Service Manager</a>
+        &#160;&#160;::&#160;&#160;
+        <a class="uplink" href="index.html">Contents</a>
+        &#160;&#160;::&#160;&#160;
+        <a href="projector.html">Projector Manager</a>&#160;&#160;»
+        </p>
+
+      </div>
+      <div class="content">
+        
+        
+  <div class="section" id="print-service">
+<span id="id1"></span><h1>Print Service</h1>
+<p>OpenLP provides the ability to print the service order. This can be useful for
+a variety of reasons, such as giving the printed service to your music team so
+they have the song order, or so pastors or speakers can have the flow of the
+service.</p>
+<p>To print your service go to <span class="menuselection">File &#8227; Print Service</span> or press
+<code class="kbd docutils literal"><span class="pre">Control</span> <span class="pre">+</span> <span class="pre">P</span></code>.</p>
+<img alt="_images/printservice1.png" src="_images/printservice1.png" />
+<p>This will bring up a window with the service order for review and printing.</p>
+<img alt="_images/printservice2.png" src="_images/printservice2.png" />
+<div class="section" id="toolbar">
+<h2>Toolbar</h2>
+<dl class="docutils">
+<dt><img alt="printbutton" src="_images/general_print.png" /> <strong>Print:</strong></dt>
+<dd>This will print the service bringing up the system&#8217;s print options. Use
+this when you are ready to print.</dd>
+<dt><img alt="optionbutton" src="_images/system_configure.png" /> <strong>Options:</strong></dt>
+<dd>This gives you a series of ways to customize the service order before
+printing. See the section on <a class="reference internal" href="#options"><span>Options</span></a> for more information.</dd>
+<dt><img alt="copybutton" src="_images/system_edit_copy.png" /> <strong>Copy:</strong></dt>
+<dd>Copy the text of the preview window to your clipboard. You can then paste the
+text into other documents or applications.</dd>
+<dt><img alt="copybutton" src="_images/system_edit_copy.png" /> <strong>Copy HTML:</strong></dt>
+<dd>Copy html code to your clipboard. You can then paste this in a text editor
+and save as .html. This can then be used to post your service details on a
+website or anywhere an html document can be used.</dd>
+<dt><img alt="zoomin" src="_images/general_zoom_in.png" /> <strong>Zoom in:</strong></dt>
+<dd>Zooms in on your preview.</dd>
+<dt><img alt="zoomout" src="_images/general_zoom_out.png" /> <strong>Zoom out:</strong></dt>
+<dd>Zooms out to make more of your preview visible.</dd>
+<dt><img alt="zoomoriginal" src="_images/general_zoom_original.png" /> <strong>Zoom to original:</strong></dt>
+<dd>Restores the preview to its original size.</dd>
+</dl>
+</div>
+<div class="section" id="options">
+<span id="id2"></span><h2>Options</h2>
+<img alt="_images/printservice3.png" src="_images/printservice3.png" />
+<dl class="docutils">
+<dt><strong>Title:</strong></dt>
+<dd>Gives you the ability to change the title of the printed document.</dd>
+<dt><strong>Custom Footer Text:</strong></dt>
+<dd>Add text to the footer of the printed document.</dd>
+</dl>
+<p><strong>Other Options</strong></p>
+<dl class="docutils">
+<dt><strong>Include slide text if available:</strong></dt>
+<dd>Check this to include all the text from songs or scripture.</dd>
+<dt><strong>Add page break before each text item:</strong></dt>
+<dd>If you have checked <em>include slide text if available</em> you can select this
+option to put each text item (songs, custom slides, scripture) on a
+separate page.</dd>
+<dt><strong>Include service item notes:</strong></dt>
+<dd>This option will include any notes you have added to the service items.</dd>
+<dt><strong>Include play length of media items:</strong></dt>
+<dd>This option will print the length of media items in the service.</dd>
+</dl>
+</div>
+<div class="section" id="customizing-with-css-advanced">
+<h2>Customizing with CSS (Advanced)</h2>
+<p>It is possible to customize the printed service using CSS. To do this go to
+<span class="menuselection">Tools &#8227; Open Data Folder</span> If you have a file named
+servicePrint.css delete it. In the open folder create a file named
+service_print.css containing your customizations. Paste the following into
+service_print.css:</p>
+<div class="highlight-python"><div class="highlight"><pre>/*
+Edit this service_print.css file to customize the service order print. Note, that not all CSS
+properties are supported. See:
+http://doc.trolltech.com/4.7/richtext-html-subset.html#css-properties
+*/
+
+.serviceTitle {
+   font-weight:600;
+   font-size:x-large;
+   color:black;
+}
+
+.item {
+   color:black;
+}
+
+.itemTitle {
+   font-weight:600;
+   font-size:large;
+}
+
+.itemText {}
+
+.itemFooter {
+   font-size:8px;
+}
+
+.itemNotes {}
+
+.itemNotesTitle {
+   font-weight:bold;
+   font-size:12px;
+}
+
+.itemNotesText {
+   font-size:11px;
+}
+
+.media {}
+
+.mediaTitle {
+        font-weight:bold;
+        font-size:11px;
+}
+
+.mediaText {}
+
+.imageList {}
+
+.customNotes {
+   margin-top: 10px;
+}
+
+.customNotesTitle {
+   font-weight:bold;
+   font-size:11px;
+}
+
+.customNotesText {
+   font-size:11px;
+}
+
+.newPage {
+        page-break-before:always;
+}
+</pre></div>
+</div>
+<p>The HTML layout should look something like this:</p>
+<div class="highlight-python"><div class="highlight"><pre>&lt;html&gt;
+&lt;head&gt;
+  &lt;title&gt;Service Order Sheet&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;h1 class=&quot;serviceTitle&quot;&gt;Service Order Sheet&lt;/h1&gt;
+  &lt;div class=&quot;item&quot;&gt;
+        &lt;h2 class=&quot;itemTitle&quot;&gt;
+           &lt;img src=&quot;:/plugins/plugin_songs.png&quot;&gt;
+           &lt;span&gt; Amazing Grace&lt;/span&gt;
+        &lt;/h2&gt;
+        &lt;div class=&quot;itemText&quot;&gt;
+          &lt;p&gt;Amazing grace how sweet the sound that saved a wretch like me&lt;br&gt;
+          I once was lost but now I&#39;m found, was blind but now I see.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;itemText&quot;&gt;
+          &lt;p&gt;Twas grace that taught my heart to fear, and grace my fears relieved&lt;br&gt;
+          How precious did that grace appear the hour I first believed!&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;itemFooter&quot;&gt;
+          John Newton&lt;br&gt;
+          1982 Jubilate Hymns Limited
+        &lt;/div&gt;
+        &lt;div class=&quot;itemNotes&quot;&gt;
+          &lt;span class=&quot;itemNotesTitle&quot;&gt;Notes:&lt;/span&gt;
+          &lt;span class=&quot;itemNotesText&quot;&gt;Song Notes&lt;br&gt;
+          More Notes&lt;/span&gt;
+        &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;item newPage&quot;&gt;
+        &lt;h2 class=&quot;itemTitle&quot;&gt;
+           &lt;img src=&quot;:/plugins/plugin_songs.png&quot;&gt;
+           &lt;span&gt; And Can It Be&lt;/span&gt;
+        &lt;/h2&gt;
+        &lt;div class=&quot;itemText&quot;&gt;
+          &lt;p&gt;And can be that I should gain,&lt;br&gt;
+          an interest in my Savior&#39;s blood?&lt;br&gt;
+          Died He for me, who caused His pain?&lt;br&gt;
+          For me, who Him to death pursued?&lt;br&gt;
+          Amazing love, how can it be&lt;br&gt;
+          That thou my Lord should die for me?&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;itemText&quot;&gt;
+          &lt;p&gt;Amazing love, how can it be&lt;br&gt;
+          That thou my God should die for me?&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;itemFooter&quot;&gt;
+          Lindell Cooley&lt;br&gt;
+          Public Domain
+        &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;item&quot;&gt;
+        &lt;h2 class=&quot;itemTitle&quot;&gt;
+           &lt;img src=&quot;:/plugins/plugin_media.png&quot;&gt;
+           &lt;span&gt; Wildlife.wmv&lt;/span&gt;
+        &lt;/h2&gt;
+        &lt;div class=&quot;itemNotes&quot;&gt;
+          &lt;span class=&quot;itemNotesTitle&quot;&gt;Notes:&lt;/span&gt;
+          &lt;span class=&quot;itemNotesText&quot;&gt;Movie Notes&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;media&quot;&gt;
+          &lt;span class=&quot;mediaTitle&quot;&gt;Playing time:&lt;/span&gt;
+          &lt;span class=&quot;mediaText&quot;&gt;0:00:00&lt;/span&gt;
+        &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;item newPage&quot;&gt;
+        &lt;h2 class=&quot;itemTitle&quot;&gt;
+           &lt;img src=&quot;:/plugins/plugin_bibles.png&quot;&gt;
+           &lt;span&gt; John 3:16-17 (ASV)&lt;/span&gt;
+        &lt;/h2&gt;
+        &lt;div class=&quot;itemText&quot;&gt;
+          &lt;p&gt;&lt;sup&gt;3:16&lt;/sup&gt; For God so loved the world, that he gave his only begotten Son, that whosoever believeth on him should not perish, but have eternal life.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;itemText&quot;&gt;
+          &lt;p&gt;&lt;sup&gt;3:17&lt;/sup&gt; For God sent not the Son into the world to judge the world; but that the world should be saved through him.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;itemFooter&quot;&gt;
+          ASV, Copyright, Permissions
+        &lt;/div&gt;
+        &lt;div class=&quot;itemNotes&quot;&gt;
+          &lt;span class=&quot;itemNotesTitle&quot;&gt;Notes:&lt;/span&gt;
+          &lt;span class=&quot;itemNotesText&quot;&gt;Bible reading notes&lt;/span&gt;
+        &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;item&quot;&gt;
+        &lt;h2 class=&quot;itemTitle&quot;&gt;
+           &lt;img src=&quot;:/plugins/plugin_images.png&quot;&gt;
+           &lt;span&gt; Images&lt;/span&gt;
+        &lt;/h2&gt;
+        &lt;ol class=&quot;imageList&quot;&gt;
+          &lt;li&gt;Winter.jpg&lt;/li&gt;
+          &lt;li&gt;Sunset.jpg&lt;/li&gt;
+        &lt;/ol&gt;
+        &lt;div class=&quot;itemNotes&quot;&gt;
+          &lt;span class=&quot;itemNotesTitle&quot;&gt;Notes:&lt;/span&gt;
+          &lt;span class=&quot;itemNotesText&quot;&gt;Image notes&lt;/span&gt;
+        &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;item newPage&quot;&gt;
+        &lt;h2 class=&quot;itemTitle&quot;&gt;
+           &lt;img src=&quot;:/plugins/plugin_custom.png&quot;&gt;
+           &lt;span&gt; Lord&#39;s Prayer Traditional&lt;/span&gt;
+        &lt;/h2&gt;
+        &lt;div class=&quot;itemText&quot;&gt;
+          &lt;p&gt;Our Father,&lt;br&gt;
+          who art in heaven,&lt;br&gt;
+          hallowed be thy name.&lt;br&gt;
+          Thy Kingdom come,&lt;br&gt;
+          thy will be done,&lt;br&gt;
+          on earth as it is in heaven&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;itemText&quot;&gt;
+          &lt;p&gt;Give us this day our daily bread.&lt;br&gt;
+          And forgive us our trespasses,&lt;br&gt;
+          as we forgive those&lt;br&gt;
+          who trespass against us.&lt;br&gt;
+          And lead us not into temptation,&lt;br&gt;
+          but deliver us from evil.&lt;br&gt;
+          For thine is the kingdom,&lt;br&gt;
+          the power and the glory,&lt;br&gt;
+          for ever and ever. Amen&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;itemNotes&quot;&gt;
+          &lt;span class=&quot;itemNotesTitle&quot;&gt;Notes:&lt;/span&gt;
+          &lt;span class=&quot;itemNotesText&quot;&gt;Custom Item Notes&lt;/span&gt;
+        &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;item&quot;&gt;
+        &lt;h2 class=&quot;itemTitle&quot;&gt;
+           &lt;img src=&quot;:/plugins/plugin_presentations.png&quot;&gt;
+           &lt;span&gt; Sermon Presentation.pptx&lt;/span&gt;
+        &lt;/h2&gt;
+        &lt;div class=&quot;itemNotes&quot;&gt;
+          &lt;span class=&quot;itemNotesTitle&quot;&gt;Notes:&lt;/span&gt;
+          &lt;span class=&quot;itemNotesText&quot;&gt;Presentation notes&lt;/span&gt;
+        &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;customNotes&quot;&gt;
+        &lt;span class=&quot;customNotesTitle&quot;&gt;Custom Service Notes:&lt;/span&gt;
+        &lt;span class=&quot;customNotesText&quot;&gt;Custom Footer Text Goes here like this&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</pre></div>
+</div>
+<p>Edit the CSS file to produce the required style.</p>
+<p><strong>Note:</strong> not all CSS properties are supported. See
+<a class="reference external" href="http://doc.trolltech.com/4.7/richtext-html-subset.html#css-properties">Qt4 CSS subset</a>
+for more information.</p>
+<p><strong>Example:</strong> Item titles with notes on right hand side.</p>
+<p>This service_print.css assumes the slide text will not be included.:</p>
+<div class="highlight-python"><div class="highlight"><pre>.itemTitle {
+   font-weight:bold;
+   font-size:large;
+   margin: 0px;
+}
+.itemNotes {
+   margin-left: 300px;
+   margin-top: 0px;
+}
+.itemNotesTitle {
+   font-weight:bold;
+}
+</pre></div>
+</div>
+</div>
+</div>
+
+
+      </div>
+      <div class="bottomnav">
+      
+        <p>
+        «&#160;&#160;<a href="creating_service.html">Service Manager</a>
+        &#160;&#160;::&#160;&#160;
+        <a class="uplink" href="index.html">Contents</a>
+        &#160;&#160;::&#160;&#160;
+        <a href="projector.html">Projector Manager</a>&#160;&#160;»
+        </p>
+
+      </div>
+
+    <div class="footer" role="contentinfo">
+        &copy; Copyright 2004 - 2015, Raoul Snyman.
+      Last updated on Mar 31, 2017.
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.3.3.
+    </div>
+  </body>
+</html>

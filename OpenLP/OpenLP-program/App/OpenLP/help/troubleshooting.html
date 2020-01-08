@@ -1,0 +1,408 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=cp1252" />
+    
+    <title>Troubleshooting</title>
+    
+    <link rel="stylesheet" href="_static/openlp_qthelp.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="_static/print.css" type="text/css" />
+    <link rel="top" title="OpenLP 2.4 Reference Manual" href="index.html" />
+    <link rel="prev" title="Frequently Asked Questions" href="faq.html" /> 
+  </head>
+  <body role="document">
+      <!-- div class="header"><img class="rightlogo" src="_static/logo.png" alt="Logo"/><h1 class="heading"><a href="index.html">
+          <span>OpenLP 2.4 Reference Manual</span></a></h1>
+        <h2 class="heading"><span>Troubleshooting</span></h2>
+      </div -->
+      <div class="topnav">
+      
+        <p>
+        «&#160;&#160;<a href="faq.html">Frequently Asked Questions</a>
+        &#160;&#160;::&#160;&#160;
+        <a class="uplink" href="index.html">Contents</a>
+        </p>
+
+      </div>
+      <div class="content">
+        
+        
+  <div class="section" id="troubleshooting">
+<span id="id1"></span><h1>Troubleshooting</h1>
+<div class="section" id="something-has-gone-wrong-what-should-i-do-to-help-get-it-fixed">
+<h2>Something has gone wrong, what should I do to help get it fixed?</h2>
+<p>If you have found an error in the program (what we call a bug) you should report
+this to us so that OpenLP can be improved. Before reporting any bugs please
+first make sure that there is not already a bug report about your problem:</p>
+<ol class="arabic simple">
+<li>Check the <a class="reference external" href="https://bugs.launchpad.net/openlp">Launchpad bug list</a></li>
+<li><a class="reference external" href="http://support.openlp.org/">OpenLP support System</a></li>
+<li>Check the <a class="reference external" href="http://forums.openlp.org/">http://forums.openlp.org/</a> forum</li>
+</ol>
+<p>If there <strong>is already a bug report</strong>, you may be able to help by providing
+further information. However, <strong>if no one else has reported</strong> it yet, then
+please post a new bug report.</p>
+<ol class="arabic simple">
+<li>The <strong>preferred place</strong> for reporting bugs is the
+<a class="reference external" href="https://bugs.launchpad.net/openlp">bugs list</a> on Launchpad.</li>
+<li>Alternatively, if you do not have a Launchpad account and do not want to sign
+up for one, you can post in the
+<a class="reference external" href="http://support.openlp.org/">bug reports forum</a>.</li>
+<li>If none of these ways suits you, you can send an email to
+<code class="docutils literal"><span class="pre">support</span> <span class="pre">(at)</span> <span class="pre">openlp.org</span></code>.</li>
+</ol>
+</div>
+<div class="section" id="what-information-should-i-include-in-a-bug-report">
+<h2>What information should I include in a bug report?</h2>
+<p>Since OpenLP 1.9.4, there is a bug report dialog which automatically opens when
+OpenLP hits a serious bug. However, this does not appear all the time, and in
+some behavioural bugs, you will have to file a bug report yourself. The following
+items are information the developers need in order to reproduce the bug.</p>
+<dl class="docutils">
+<dt>Operating System</dt>
+<dd>Include information such as the version of your operating system, the
+distribution (e.g. Ubuntu, Fedora, etc.) if you are using Linux, or the
+edition (e.g. Home, Basic, Business, etc.) if you are using Windows.</dd>
+<dt>Version of OpenLP</dt>
+<dd>You can find out the version of OpenLP by going to <span class="menuselection">Help &#8227; About</span></dd>
+<dt>Steps to Reproduce</dt>
+<dd>The exact steps the developers need to follow in order to reproduce the bug.</dd>
+<dt>Version of MS Office or LibreOffice</dt>
+<dd>If you are using the song imports or the presentation plugin, you will need to
+supply the version of Office or LibreOffice.</dd>
+<dt>Bible Translation and Source</dt>
+<dd>If the bug occurred while you were working with Bibles, specify the
+translation of the Bible, and the source format if you imported it yourself.</dd>
+<dt><strong>Any</strong> Other Information</dt>
+<dd>Often bugs are caused by something that might not seem to be directly
+related to the bug itself. If you have any other information with regards to
+actions you performed or other activities when the bug occurred, it would be
+welcomed by the developers.</dd>
+</dl>
+<p>The more information you give us, the better we can help you.</p>
+</div>
+<div class="section" id="i-have-been-asked-to-email-a-debug-log-where-do-i-find-this">
+<h2>I have been asked to email a debug log, where do I find this?</h2>
+<p>We may need a debug log to help pin-point the issue. A new log file is created
+each time you start OpenLP so copy the file before you run the software a second
+time. On Windows a Debug option is available in the start menu. On other systems,
+you will need to run OpenLP from the command line, with the following
+option: <code class="docutils literal"><span class="pre">`-l</span> <span class="pre">debug`</span></code>. Please note, that is a lowercase <strong>L</strong>.</p>
+<p>If you have not been given a specific email address to send it to, then please do
+not paste the log contents straight into a forum post. Instead, open the log
+file in a text editor (such as notepad on Windows) and copy and paste the
+contents into somewhere like <a class="reference external" href="http://pastebin.com">pastebin.com</a>. Then give us
+the link to the page that is created.</p>
+<div class="section" id="windows">
+<h3>Windows</h3>
+<p>Find the OpenLP 2.4 folder in your Start menu. Choose the &#8220;OpenLP (Debug)&#8221; option.</p>
+<p>OpenLP will start up. Go to the <span class="menuselection">Tools &#8227; Open Data Folder</span> menu
+option, and an Explorer window will appear containing folders such as alerts,
+bibles, custom etc. Keep this Explorer window open.</p>
+<p>Now repeat the steps you need to take in OpenLP to reproduce the problem you had,
+and then close down OpenLP.</p>
+<p>In the Explorer window you left open, navigate up one level into the openlp
+folder. You will see the <code class="docutils literal"><span class="pre">openlp.log</span></code> file. This is the file to e-mail.</p>
+</div>
+<div class="section" id="linux-freebsd">
+<h3>Linux/FreeBSD</h3>
+<p>If you installed OpenLP from a package:</p>
+<div class="highlight-python"><div class="highlight"><pre>@:~$ openlp -l debug
+</pre></div>
+</div>
+<p>Alternately, if you are running OpenLP from source:</p>
+<div class="highlight-python"><div class="highlight"><pre>@:~$ ./openlp.pyw -l debug
+</pre></div>
+</div>
+<p>If your Linux distribution supports the XDG standard, you will find the log in:</p>
+<div class="highlight-python"><div class="highlight"><pre>~/.cache/openlp/openlp.log
+</pre></div>
+</div>
+<p>Otherwise, you will find the log file in:</p>
+<div class="highlight-python"><div class="highlight"><pre>~/.openlp/openlp.log
+</pre></div>
+</div>
+</div>
+<div class="section" id="mac-os-x">
+<h3>Mac OS X</h3>
+<p>Open Terminal.app and navigate to where you installed OpenLP, usually
+<code class="docutils literal"><span class="pre">/Applications</span></code>:</p>
+<div class="highlight-python"><div class="highlight"><pre>@:~$ cd /Applications
+</pre></div>
+</div>
+<p>Then go into the OpenLP.app directory, down to the OpenLP executable:</p>
+<div class="highlight-python"><div class="highlight"><pre>@:~$ cd OpenLP.app/Contents/MacOS
+</pre></div>
+</div>
+<p>And then run OpenLP in debug mode:</p>
+<div class="highlight-python"><div class="highlight"><pre>@:~$ ./openlp -l debug
+</pre></div>
+</div>
+<p>Once you have done that, you need to get the log file. In your home directory,
+open the Library directory, and the Application Support directory within that.
+Then open the openlp directory, and you should find the openlp.log file in that
+directory:</p>
+<div class="highlight-python"><div class="highlight"><pre>/Users/&lt;username&gt;/Library/Application Support/openlp/openlp.log
+</pre></div>
+</div>
+<p><code class="docutils literal"><span class="pre">&lt;username&gt;</span></code> is your username.</p>
+</div>
+</div>
+<div class="section" id="i-can-not-play-videos-or-other-media">
+<span id="t-no-media"></span><h2>I can not play videos or other media</h2>
+<p>If you can not play video or audio through OpenLP, the problem is most likely
+that the media players have not be properly configured. The recommended media
+player for OpenLP is VLC, see the manual for <a class="reference internal" href="configure.html#config-players"><span>Players</span></a> for how to
+setup VLC as your default player.</p>
+<p>If you want to use the System player, but it cannot play your media files, you
+can look below for how best to set it up.</p>
+<div class="section" id="codecs">
+<h3>Codecs</h3>
+<p>You may need to install codecs for certain files to play. Most newer versions
+of Windows and OS X will support most media types. Most Linux distributions
+will require a little more help to get certain media types to play.</p>
+</div>
+<div class="section" id="microsoft-windows">
+<h3>Microsoft Windows</h3>
+<p>Later versions of Microsoft Windows (Vista, Windows 7) generally come with
+everything you need to play most media formats. If for some reason you need
+additional codecs we have seen success from the <a class="reference external" href="http://www.cccp-project.net/">Combined Community Codec Pack
+(CCCP)</a>.  You might also wish to check out the
+K-Lite Codec Pack. If you are having issues, results do seem to vary with the
+different options. What works for some may not for others, so some trial and
+error may be required.</p>
+</div>
+<div class="section" id="mac">
+<h3>Mac</h3>
+<p>If you are using a Mac. You may wish to play Windows formats. flip4mac enables
+you to use popular Windows formats such as .wmv on your Mac. You can get it
+<a class="reference external" href="http://dynamic.telestream.net/downloads/download-flip4macwmv.htm">from here</a>.</p>
+</div>
+<div class="section" id="ubuntu-linux-and-variants">
+<h3>Ubuntu Linux (and variants)</h3>
+<p>If you are using Ubuntu Linux, or one of its variants (Kubuntu, Edubuntu, etc...)
+it is a fairly quick and easy process to get all the codecs you need to make
+things work. You will need to install two meta-packages that contain all the
+multimedia codecs that you will generally need. From the Software Center install
+ubuntu-restricted-extras and Kubuntu-restricted-extras, or from the terminal:</p>
+<div class="highlight-python"><div class="highlight"><pre>user@linux:~ $ sudo apt-get install ubuntu-restricted-extras kubuntu-restricted-extras
+</pre></div>
+</div>
+<p><strong>Note</strong> if you are running Kubuntu there is no need to install the
+ubuntu-restricted-extras meta-package</p>
+<p>For more information on Ubuntu and multimedia issues please check out the
+<a class="reference external" href="https://help.ubuntu.com/community/RestrictedFormats/">community documentation</a>.</p>
+</div>
+<div class="section" id="arch-linux">
+<h3>Arch Linux</h3>
+<p>The following command provides the most complete solution for codecs on Arch
+Linux:</p>
+<div class="highlight-python"><div class="highlight"><pre>root@linux:~ # pacman -S gstreamer0.10-{base,good,bad,ugly}-plugins gstreamer0.10-ffmpeg
+</pre></div>
+</div>
+<p>If you need more help with Arch Linux and multimedia please see the <a class="reference external" href="https://wiki.archlinux.org/index.php/Codecs">Arch Linux
+documentation</a>.</p>
+</div>
+<div class="section" id="debian-linux">
+<h3>Debian Linux</h3>
+<p>You will need to add the Debian Multimedia Repository. So add the folowing to
+/etc/apt/sources.list:</p>
+<div class="highlight-python"><div class="highlight"><pre>deb http://www.debian-multimedia.org testing main non-free
+</pre></div>
+</div>
+<p>Then update the repository info:</p>
+<div class="highlight-python"><div class="highlight"><pre>root@linux:~ # apt-get update
+</pre></div>
+</div>
+<p>Then install the following packages:</p>
+<div class="highlight-python"><div class="highlight"><pre>root@linux:~ # apt-get install gstreamer0.10-ffmpeg gstreamer0.10-lame gstreamer0.10-plugins-really-bad gstreamer0.10-plugins-bad gstreamer0.10-plugins-ugly gstreamer0.10-plugins-good gstreamer0.10-x264
+</pre></div>
+</div>
+</div>
+<div class="section" id="fedora-linux">
+<h3>Fedora Linux</h3>
+<p>You will need to set up Fedora to play most media formats. This is accomplished
+using the rpmfusion repository.</p>
+<p><strong>Note</strong> the following commands will enable a third party repository to your
+system. Please check out <a class="reference external" href="http://rpmfusion.org">the RPM Fusion site</a> for more information.</p>
+<p>To enable both the free and nonfree components for any Fedora official release
+enter the following commands:</p>
+<div class="highlight-python"><div class="highlight"><pre>su -c &#39;yum localinstall --nogpgcheck http://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-stable.noarch.rpm http://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-stable.noarch.rpm&#39;
+</pre></div>
+</div>
+<p>After enabling the rpmfusion repository you will want to refresh your package
+list, perform any updates and search for gstreamer-good, bad, and ugly and
+install.</p>
+<p>Follow the tutorial <a class="reference external" href="http://www.linuxjournal.com/video/getting-mp3-support-fedora-using-rpmfusion-repositories">using the rpmfusion repository</a>
+to enable extra audio and video formats on Fedora</p>
+</div>
+</div>
+<div class="section" id="the-media-manager-appears-to-be-missing-some-features">
+<span id="t-no-media-items"></span><h2>The Media Manager appears to be missing some features</h2>
+<p>If you do not see all the features listed in the Media Manager, you may need
+to enable them.</p>
+<p>To enable the plugins navigate to <span class="menuselection">Settings &#8227; Plugins</span> or
+press <code class="kbd docutils literal"><span class="pre">Alt+F7</span></code>. You will want to click on the plugin to the left that you
+would like to enable and select <strong>active</strong> from the drop down box to the right.</p>
+<img alt="_images/plugin_list_main.png" src="_images/plugin_list_main.png" />
+<p>By default all plugins should be enabled during the first run wizard except the
+remotes plugin, unless you specify differently.</p>
+</div>
+<div class="section" id="i-can-not-see-the-book-chapter-and-verse-when-i-display-scripture">
+<h2>I can not see the book, chapter, and verse when I display scripture</h2>
+<p>The book, chapter, and verse should be displayed when you display scripture. If
+you can not see this your theme probably has the text size too small for the
+info to be seen. See the section of the manual on <a class="reference internal" href="themes.html#themes"><span>Themes</span></a> if you need more info
+on text sizes in themes.</p>
+</div>
+<div class="section" id="i-am-using-powerpoint-2010-or-powerpoint-viewer-2010-and-presentations-do-not-work">
+<h2>I am using PowerPoint 2010 or PowerPoint Viewer 2010 and presentations do not work</h2>
+<p>Currently OpenLP does not support PowerPoint Viewer 2010. PowerPoint 2010 should
+work correctly, although some users have reported problems. If you have issues
+with PowerPoint 2010 or PowerPoint Viewer 2010 try the PowerPoint 2003 or 2007
+Viewers. <a class="reference external" href="http://www.microsoft.com/downloads/en/details.aspx?FamilyID=048dc840-14e1-467d-8dca-19d2a8fd7485&amp;displaylang=en">Download the PowerPoint 2007 viewer for free</a>.</p>
+</div>
+<div class="section" id="i-have-powerpoint-installed-but-it-does-not-show-as-a-presentation-option">
+<h2>I have PowerPoint installed but it does not show as a presentation option</h2>
+<p>Installing the <a class="reference external" href="http://www.microsoft.com/downloads/en/details.aspx?FamilyID=9b2da534-3e03-4391-8a4d-074b9f2bc1bf&amp;displaylang=en">Visual C++ Runtime Redistributable.</a>
+has fixed this problem according to some of our users.</p>
+</div>
+<div class="section" id="i-am-running-a-linux-distro-and-cannot-see-the-menu-icons">
+<h2>I am running a Linux Distro and cannot see the menu icons</h2>
+<p>This seems to be a problem with XFCE and some versions of Gnome too. To correct
+this problem, open  a terminal and type in the following commands:</p>
+<div class="highlight-python"><div class="highlight"><pre>gconftool-2 --type boolean --set /desktop/gnome/interface/buttons_have_icons true
+
+gconftool-2 --type boolean --set /desktop/gnome/interface/menus_have_icons true
+</pre></div>
+</div>
+</div>
+<div class="section" id="i-chose-to-use-a-web-bible-but-it-did-not-download-the-entire-bible">
+<h2>I chose to use a web Bible but it did not download the entire Bible</h2>
+<p>Due to copyright restrictions OpenLP cannot download an entire Bible. It can
+only download the section you search for. If you do not have an internet
+connection where you intend to use OpenLP you will need another scripture
+source. For more information about acquiring Bibles please see the section on
+the <a class="reference internal" href="bibles.html#import-bibles"><span>Bible Import Wizard</span></a>.</p>
+</div>
+<div class="section" id="openlp-is-using-a-large-amount-of-ram-when-showing-a-presentation">
+<h2>OpenLP is using a large amount of RAM when showing a presentation</h2>
+<p>OpenLP uses a large amount of RAM when showing a presentation due to the way it
+handles presentations. OpenLP itself is unable to show those presentations or
+load the presentation files, so it interacts with the presentation through
+either Microsoft PowerPoint or LibreOffice Impress. In order to show the slides
+in the slide controller, OpenLP requests that the presentation application
+export the slides to images, and then uses those images as slides. This results
+in a large amount of RAM being used, especially in presentations with more than
+about 20 slides.</p>
+</div>
+<div class="section" id="openlp-is-not-displaying-correctly-or-is-not-on-the-correct-screen">
+<h2>OpenLP is not displaying correctly, or is not on the correct screen</h2>
+<p>Please read the documentation on <a class="reference internal" href="dualmonitors.html#dualmonitors"><span>Dual Monitor Setup</span></a>. It is very important to
+have dual monitors setup properly for OpenLP to function as expected.</p>
+</div>
+<div class="section" id="previews-are-slow-to-load-when-using-a-theme-with-an-image-background">
+<h2>Previews are slow to load when using a theme with an image background</h2>
+<p>If you are using a JPG formatted image for your background try converting it
+to another format. There is a notable performance difference between JPG and
+a format such as PNG. Other formats work in OpenLP but PNG is the preferred
+image format and yields the best performance. Images should also be sized to
+the size of your output. For example, if your output screen is 1024x768 you
+should size your background image to 1024x768 also. OpenLP does not scale
+images.</p>
+</div>
+<div class="section" id="openlp-crashes-on-startup-on-windows">
+<h2>OpenLP crashes on startup on Windows</h2>
+<p>If Windows is missing a proper driver for the graphics card on the computer, it
+might cause OpenLP to crash on startup, resulting in a message saying
+<span class="guilabel">OpenLP has stopped working</span>. To fix this find, download and install
+the newest driver for your graphics card.</p>
+</div>
+<div class="section" id="i-saved-service-files-in-the-servicemanager-folder-but-now-they-are-gone">
+<h2>I saved service-files in the servicemanager folder but now they are gone</h2>
+<p>The <cite>servicemanager</cite> folder which can be found in OpenLP&#8217;s data folder is used
+internally by OpenLP for temporary files and anything in there can and will be
+deleted by OpenLP. In general you should not modify or create files in OpenLP&#8217;s
+data folder unless you know what you are doing.</p>
+</div>
+<div class="section" id="openlp-freezes-on-xfce4-in-a-dual-monitor-setup">
+<h2>OpenLP freezes on Xfce4 in a dual monitor setup</h2>
+<p>There is an issue with the Xfce4 compositor that makes OpenLP freeze when using
+a dual monitor setup. See configuration of dual monitor for <a class="reference internal" href="dualmonitors.html#xfce4display"><span>Xfce4</span></a>
+for a solution.</p>
+</div>
+<div class="section" id="mp3-s-and-other-audio-formats-do-not-work">
+<h2>MP3&#8217;s and other audio formats do not work</h2>
+<p>This is a known issue on some systems, and we have no solution at the moment.</p>
+</div>
+<div class="section" id="videos-can-be-slow-or-pixelated-background-videos-are-very-slow">
+<h2>Videos can be slow or pixelated. Background Videos are very slow</h2>
+<p>If you are just playing videos from the Media plugin, try selecting the
+<span class="guilabel">Use System for Video playback</span> option in the Media configuration,
+accessible by going to <span class="menuselection">Settings &#8227; Configure OpenLP &#8227; Media</span>.
+As for text over video, we have no solution for speeding this up. Reducing the
+monitor resolution and avoiding shadows and outline text will help. We are
+hoping a future release of the toolkit we are using (QtWebKit) will help improve
+this, but there is no timeframe at present.</p>
+</div>
+<div class="section" id="why-do-live-backgrounds-not-work-in-openlp-2-4-on-windows-mac-os-x">
+<h2>Why do live backgrounds not work in OpenLP 2.4 on Windows &amp; Mac OS X</h2>
+<p>Due to issues in one of the underlying frameworks that OpenLP uses (Qt5),
+live backgrounds do not work in OpenLP 2.4. We aim to fix this in OpenLP 2.6.</p>
+</div>
+<div class="section" id="downgrade-guide-how-to-restore-a-backup">
+<h2>Downgrade guide (how to restore a backup)</h2>
+<p>In some cases new versions of OpenLP can contain bugs that was not discovered
+during testing, which in some cases can mean that OpenLP cannot function
+probably and the only way out is to downgrade to the previous version.</p>
+<p>Since the OpenLP 2.2 release, new versions of OpenLP always ask if a backup
+should be made of the data on the first run. It is always recommend to create
+this backup, since OpenLPs data format often changes between versions, which
+means that older OpenLP versions cannot read the data created by newer versions.
+In case of downgrading this backup can be restored. To perform a downgrade
+follow these steps:</p>
+<ol class="arabic simple">
+<li>Open OpenLP and in the menu go to <span class="menuselection">Tools &#8227; Open Data</span> Folder
+to open the current data folder in a fileexplorer. If OpenLP cannot open due
+to a bug see <a class="reference internal" href="faq.html#data-folder"><span>Where do I find the data folder?</span></a>.</li>
+<li>Keep the fileexplorer window open and close OpenLP</li>
+<li>Uninstall OpenLP and install the old version (if you have not done this
+already). Do not run OpenLP when the installation completes.</li>
+<li>In the fileexplorer go up one folder-level. You should now see a lot of
+folders, find the folders that starts with <code class="docutils literal"><span class="pre">openlp</span></code>. Depending on how many
+upgrades you have done you will see some folders looking like
+<code class="docutils literal"><span class="pre">openlp-20160128-185424</span></code>. These folders are the backups made by OpenLP on
+upgrade. The numbers are a timestamp that you can use to find the backup with
+the you wish to restore.</li>
+<li>Rename the <code class="docutils literal"><span class="pre">openlp</span></code> folder to <code class="docutils literal"><span class="pre">openlp-broken-update</span></code> or similar.</li>
+<li>Rename the backup folder you wish to restore to <code class="docutils literal"><span class="pre">openlp</span></code>.</li>
+<li>Start OpenLP and watch it load your restored data.</li>
+</ol>
+<p>Note: This does not restore your settings!</p>
+</div>
+</div>
+
+
+      </div>
+      <div class="bottomnav">
+      
+        <p>
+        «&#160;&#160;<a href="faq.html">Frequently Asked Questions</a>
+        &#160;&#160;::&#160;&#160;
+        <a class="uplink" href="index.html">Contents</a>
+        </p>
+
+      </div>
+
+    <div class="footer" role="contentinfo">
+        &copy; Copyright 2004 - 2015, Raoul Snyman.
+      Last updated on Mar 31, 2017.
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.3.3.
+    </div>
+  </body>
+</html>

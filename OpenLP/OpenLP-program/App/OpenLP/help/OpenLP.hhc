@@ -1,0 +1,1410 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+        <param name="Window Styles" value="0x801227">
+        <param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="OpenLP 2.4 Reference Manual">
+    <param name="Local" value="index.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Introduction">
+    <param name="Local" value="introduction.html">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="About">
+    <param name="Local" value="introduction.html#about">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="GNU General Public License">
+    <param name="Local" value="introduction.html#gnu-general-public-license">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Minimum System Requirements">
+    <param name="Local" value="system_requirements.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Installing OpenLP on Microsoft Windows">
+    <param name="Local" value="install_windows_mac.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Installing OpenLP on Mac OS X">
+    <param name="Local" value="install_windows_mac.html#installing-openlp-on-mac-os-x">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Version 10.8 (Mountain Lion) and Newer">
+    <param name="Local" value="install_windows_mac.html#version-10-8-mountain-lion-and-newer">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Installing OpenLP on Linux">
+    <param name="Local" value="install_linux.html">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Ubuntu">
+    <param name="Local" value="install_linux.html#ubuntu">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Ubuntu, Ubuntu GNOME, Xubuntu">
+    <param name="Local" value="install_linux.html#ubuntu-ubuntu-gnome-xubuntu">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Kubuntu">
+    <param name="Local" value="install_linux.html#kubuntu">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Ubuntu Command Line Install">
+    <param name="Local" value="install_linux.html#ubuntu-command-line-install">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Fedora">
+    <param name="Local" value="install_linux.html#fedora">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Fedora (GNOME)">
+    <param name="Local" value="install_linux.html#fedora-gnome">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Fedora (KDE)">
+    <param name="Local" value="install_linux.html#fedora-kde">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Fedora Command Line Install">
+    <param name="Local" value="install_linux.html#fedora-command-line-install">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Linux Mint">
+    <param name="Local" value="install_linux.html#linux-mint">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Software Manager Install">
+    <param name="Local" value="install_linux.html#software-manager-install">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Linux Mint Command Line Install">
+    <param name="Local" value="install_linux.html#linux-mint-command-line-install">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="openSUSE">
+    <param name="Local" value="install_linux.html#opensuse">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Arch Linux">
+    <param name="Local" value="install_linux.html#arch-linux">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Installing OpenLP on BSD">
+    <param name="Local" value="install_bsd.html">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="PC-BSD">
+    <param name="Local" value="install_bsd.html#pc-bsd">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="First Time Wizard">
+    <param name="Local" value="wizard.html">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Select Translation">
+    <param name="Local" value="wizard.html#select-translation">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Activate Required Plugins">
+    <param name="Local" value="wizard.html#activate-required-plugins">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Sample Songs">
+    <param name="Local" value="wizard.html#sample-songs">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Sample Bibles">
+    <param name="Local" value="wizard.html#sample-bibles">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Sample Themes">
+    <param name="Local" value="wizard.html#sample-themes">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Default Settings">
+    <param name="Local" value="wizard.html#default-settings">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Default Display Monitor">
+    <param name="Local" value="wizard.html#default-display-monitor">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Default Theme">
+    <param name="Local" value="wizard.html#default-theme">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Re-run First Time Wizard">
+    <param name="Local" value="wizard.html#re-run-first-time-wizard">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Menu Items">
+    <param name="Local" value="menu_items.html">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="File">
+    <param name="Local" value="menu_items.html#file">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="View">
+    <param name="Local" value="menu_items.html#view">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Tools">
+    <param name="Local" value="menu_items.html#tools">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Settings">
+    <param name="Local" value="menu_items.html#settings">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Help">
+    <param name="Local" value="menu_items.html#help">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Configuring OpenLP">
+    <param name="Local" value="configure.html">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="General">
+    <param name="Local" value="configure.html#general">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Monitors">
+    <param name="Local" value="configure.html#monitors">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Override Display Position">
+    <param name="Local" value="configure.html#override-display-position">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Display if a single screen">
+    <param name="Local" value="configure.html#display-if-a-single-screen">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="CCLI Details">
+    <param name="Local" value="configure.html#ccli-details">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Background Audio">
+    <param name="Local" value="configure.html#background-audio">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Application Startup">
+    <param name="Local" value="configure.html#application-startup">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Application Settings">
+    <param name="Local" value="configure.html#application-settings">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Themes">
+    <param name="Local" value="configure.html#themes">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Global Theme">
+    <param name="Local" value="configure.html#global-theme">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Theme Level">
+    <param name="Local" value="configure.html#theme-level">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Universal Settings">
+    <param name="Local" value="configure.html#universal-settings">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Advanced">
+    <param name="Local" value="configure.html#advanced">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="UI Settings (user interface)">
+    <param name="Local" value="configure.html#ui-settings-user-interface">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Default Service Name">
+    <param name="Local" value="configure.html#default-service-name">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Data Location">
+    <param name="Local" value="configure.html#data-location">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Default Images">
+    <param name="Local" value="configure.html#default-images">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Mouse Cursor">
+    <param name="Local" value="configure.html#mouse-cursor">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Service Item Slide Limits">
+    <param name="Local" value="configure.html#service-item-slide-limits">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Display Workarounds">
+    <param name="Local" value="configure.html#display-workarounds">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Players">
+    <param name="Local" value="configure.html#players">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Background color">
+    <param name="Local" value="configure.html#background-color">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Available Media Players">
+    <param name="Local" value="configure.html#available-media-players">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Player Order">
+    <param name="Local" value="configure.html#player-order">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Projectors">
+    <param name="Local" value="configure.html#projectors">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Communication Options">
+    <param name="Local" value="configure.html#communication-options">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Songs">
+    <param name="Local" value="configure.html#songs">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Songs Mode">
+    <param name="Local" value="configure.html#songs-mode">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Bibles">
+    <param name="Local" value="configure.html#bibles">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Verse Display">
+    <param name="Local" value="configure.html#verse-display">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Custom Scripture References">
+    <param name="Local" value="configure.html#custom-scripture-references">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Default Bible Language">
+    <param name="Local" value="configure.html#default-bible-language">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Presentations">
+    <param name="Local" value="configure.html#presentations">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Available Controllers">
+    <param name="Local" value="configure.html#available-controllers">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Advanced">
+    <param name="Local" value="configure.html#id1">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="PowerPoint options">
+    <param name="Local" value="configure.html#powerpoint-options">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="PDF options">
+    <param name="Local" value="configure.html#pdf-options">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Images">
+    <param name="Local" value="configure.html#images">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Media">
+    <param name="Local" value="configure.html#media">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Advanced">
+    <param name="Local" value="configure.html#id2">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Custom">
+    <param name="Local" value="configure.html#custom">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Custom Display">
+    <param name="Local" value="configure.html#custom-display">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Alerts">
+    <param name="Local" value="configure.html#alerts">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Font">
+    <param name="Local" value="configure.html#font">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Remote">
+    <param name="Local" value="configure.html#remote">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Server Settings - Non Secure">
+    <param name="Local" value="configure.html#server-settings-non-secure">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Server Settings - Secure">
+    <param name="Local" value="configure.html#server-settings-secure">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="User Authentication">
+    <param name="Local" value="configure.html#user-authentication">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Generating and Installing a Certificate">
+    <param name="Local" value="configure.html#generating-and-installing-a-certificate">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Android App">
+    <param name="Local" value="configure.html#android-app">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Finding your IP address">
+    <param name="Local" value="configure.html#finding-your-ip-address">
+</OBJECT>
+</UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Backing up OpenLP">
+    <param name="Local" value="backing_up.html">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Backing up data files">
+    <param name="Local" value="backing_up.html#backing-up-data-files">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Export Settings">
+    <param name="Local" value="backing_up.html#export-settings">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Import Settings">
+    <param name="Local" value="backing_up.html#import-settings">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Dual Monitor Setup">
+    <param name="Local" value="dualmonitors.html">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Microsoft Windows">
+    <param name="Local" value="dualmonitors.html#microsoft-windows">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Windows 8 &amp; 10">
+    <param name="Local" value="dualmonitors.html#windows-8-10">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Windows 7">
+    <param name="Local" value="dualmonitors.html#windows-7">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Windows Vista">
+    <param name="Local" value="dualmonitors.html#windows-vista">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Linux">
+    <param name="Local" value="dualmonitors.html#linux">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="GNOME 3">
+    <param name="Local" value="dualmonitors.html#gnome-3">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="KDE">
+    <param name="Local" value="dualmonitors.html#kde">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Xfce4">
+    <param name="Local" value="dualmonitors.html#xfce4">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Linux Systems Using nVidia Drivers">
+    <param name="Local" value="dualmonitors.html#linux-systems-using-nvidia-drivers">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Linux Systems With Intel Video">
+    <param name="Local" value="dualmonitors.html#linux-systems-with-intel-video">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Mac OS X">
+    <param name="Local" value="dualmonitors.html#mac-os-x">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Media Manager">
+    <param name="Local" value="mediamanager.html">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Songs">
+    <param name="Local" value="mediamanager.html#songs">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Toolbar">
+    <param name="Local" value="mediamanager.html#toolbar">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Search">
+    <param name="Local" value="mediamanager.html#search">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Bibles">
+    <param name="Local" value="mediamanager.html#bibles">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Toolbar">
+    <param name="Local" value="mediamanager.html#id2">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Quick Search Tab">
+    <param name="Local" value="mediamanager.html#quick-search-tab">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Advanced Tab">
+    <param name="Local" value="mediamanager.html#advanced-tab">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Presentations">
+    <param name="Local" value="mediamanager.html#presentations">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Toolbar">
+    <param name="Local" value="mediamanager.html#id3">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Images">
+    <param name="Local" value="mediamanager.html#images">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Toolbar">
+    <param name="Local" value="mediamanager.html#id4">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Media">
+    <param name="Local" value="mediamanager.html#media">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Toolbar">
+    <param name="Local" value="mediamanager.html#id5">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Custom Slides">
+    <param name="Local" value="mediamanager.html#custom-slides">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Toolbar">
+    <param name="Local" value="mediamanager.html#id6">
+</OBJECT>
+</UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Service Manager">
+    <param name="Local" value="creating_service.html">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Creating a Service">
+    <param name="Local" value="creating_service.html#creating-a-service">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="New, Open and Saving the Service">
+    <param name="Local" value="creating_service.html#new-open-and-saving-the-service">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Editing Songs in the Service">
+    <param name="Local" value="creating_service.html#editing-songs-in-the-service">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Adding Media">
+    <param name="Local" value="creating_service.html#adding-media">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Displaying an Item">
+    <param name="Local" value="creating_service.html#displaying-an-item">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Changing a Service Theme">
+    <param name="Local" value="creating_service.html#changing-a-service-theme">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Moving Through a Service">
+    <param name="Local" value="creating_service.html#moving-through-a-service">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Moving Through a Song, Bible Verses or Images">
+    <param name="Local" value="creating_service.html#moving-through-a-song-bible-verses-or-images">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Adding a Group of Images">
+    <param name="Local" value="creating_service.html#adding-a-group-of-images">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Sorting a Group of Images">
+    <param name="Local" value="creating_service.html#sorting-a-group-of-images">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Adding a Service Note">
+    <param name="Local" value="creating_service.html#adding-a-service-note">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Using the Service Timer">
+    <param name="Local" value="creating_service.html#using-the-service-timer">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Using the Media Timer">
+    <param name="Local" value="creating_service.html#using-the-media-timer">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Using the &quot;Blank to&quot; Control">
+    <param name="Local" value="creating_service.html#using-the-blank-to-control">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Linked Audio Control">
+    <param name="Local" value="creating_service.html#linked-audio-control">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Saving the Service">
+    <param name="Local" value="creating_service.html#saving-the-service">
+</OBJECT>
+</UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Print Service">
+    <param name="Local" value="print_service.html">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Toolbar">
+    <param name="Local" value="print_service.html#toolbar">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Options">
+    <param name="Local" value="print_service.html#options">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Customizing with CSS (Advanced)">
+    <param name="Local" value="print_service.html#customizing-with-css-advanced">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Projector Manager">
+    <param name="Local" value="projector.html">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Projector Configuration">
+    <param name="Local" value="projector.html#projector-configuration">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Projector Manager">
+    <param name="Local" value="projector.html#id1">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Adding a Projector">
+    <param name="Local" value="projector.html#adding-a-projector">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="View Projector Information">
+    <param name="Local" value="projector.html#view-projector-information">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Projector Status Icons">
+    <param name="Local" value="projector.html#projector-status-icons">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Projector Menus">
+    <param name="Local" value="projector.html#projector-menus">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Initial Menu">
+    <param name="Local" value="projector.html#initial-menu">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Projector Connected in Standby Mode">
+    <param name="Local" value="projector.html#projector-connected-in-standby-mode">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Projector Connected in Warmup Mode">
+    <param name="Local" value="projector.html#projector-connected-in-warmup-mode">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Projector Connected and Power On">
+    <param name="Local" value="projector.html#projector-connected-and-power-on">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Projector Connected and in Cooldown Mode">
+    <param name="Local" value="projector.html#projector-connected-and-in-cooldown-mode">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Video Source Options">
+    <param name="Local" value="projector.html#video-source-options">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Video Source Input Select Options">
+    <param name="Local" value="projector.html#video-source-input-select-options">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Video Source Input Edit Options">
+    <param name="Local" value="projector.html#video-source-input-edit-options">
+</OBJECT>
+</UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Plugin List">
+    <param name="Local" value="plugin_list.html">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Plugin Details">
+    <param name="Local" value="plugin_list.html#plugin-details">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Formatting Tags">
+    <param name="Local" value="display_tags.html">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Using a Formatting Tag">
+    <param name="Local" value="display_tags.html#using-a-formatting-tag">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Adding Formatting Tags Using Text">
+    <param name="Local" value="display_tags.html#adding-formatting-tags-using-text">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Example of Use">
+    <param name="Local" value="display_tags.html#example-of-use">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Adding a Formatting Tag Using The Mouse">
+    <param name="Local" value="display_tags.html#adding-a-formatting-tag-using-the-mouse">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Example of Use">
+    <param name="Local" value="display_tags.html#id2">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Included Formatting Tags">
+    <param name="Local" value="display_tags.html#included-formatting-tags">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Configuring Formatting Tags">
+    <param name="Local" value="display_tags.html#configuring-formatting-tags">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Customize Shortcuts">
+    <param name="Local" value="configure_shortcuts.html">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Changing a Shortcut">
+    <param name="Local" value="configure_shortcuts.html#changing-a-shortcut">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Themes">
+    <param name="Local" value="themes.html">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Creating New Themes">
+    <param name="Local" value="themes.html#creating-new-themes">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Main Area Font Details">
+    <param name="Local" value="themes.html#main-area-font-details">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Footer Area Font Details">
+    <param name="Local" value="themes.html#footer-area-font-details">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Text Formatting Details">
+    <param name="Local" value="themes.html#text-formatting-details">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Output Area Locations">
+    <param name="Local" value="themes.html#output-area-locations">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Save and Preview">
+    <param name="Local" value="themes.html#save-and-preview">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Editing Themes">
+    <param name="Local" value="themes.html#editing-themes">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Deleting Themes">
+    <param name="Local" value="themes.html#deleting-themes">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Exporting Themes">
+    <param name="Local" value="themes.html#exporting-themes">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Importing Themes">
+    <param name="Local" value="themes.html#importing-themes">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Rename Theme">
+    <param name="Local" value="themes.html#rename-theme">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Copy Theme">
+    <param name="Local" value="themes.html#copy-theme">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Set as Global default">
+    <param name="Local" value="themes.html#set-as-global-default">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Songs">
+    <param name="Local" value="songs.html">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Song Importer">
+    <param name="Local" value="songs.html#song-importer">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Importing from OpenLyrics or OpenLP 2 Exported Song">
+    <param name="Local" value="songs.html#importing-from-openlyrics-or-openlp-2-exported-song">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Importing from EasyWorship Song Database">
+    <param name="Local" value="songs.html#importing-from-easyworship-song-database">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Importing from OpenSong">
+    <param name="Local" value="songs.html#importing-from-opensong">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Importing from CCLI Song Select">
+    <param name="Local" value="songs.html#importing-from-ccli-song-select">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Importing from ZionWorx">
+    <param name="Local" value="songs.html#importing-from-zionworx">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Creating or Editing a Song Slide">
+    <param name="Local" value="songs.html#creating-or-editing-a-song-slide">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Adding or Editing the Lyrics">
+    <param name="Local" value="songs.html#adding-or-editing-the-lyrics">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Authors, Topics &amp; Song Book">
+    <param name="Local" value="songs.html#authors-topics-song-book">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Theme, Copyright Info &amp; Comments">
+    <param name="Local" value="songs.html#theme-copyright-info-comments">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Linked Audio">
+    <param name="Local" value="songs.html#linked-audio">
+</OBJECT>
+</UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Bibles">
+    <param name="Local" value="bibles.html">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Bible Import Wizard">
+    <param name="Local" value="bibles.html#bible-import-wizard">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Importing OSIS Bibles">
+    <param name="Local" value="bibles.html#importing-osis-bibles">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Importing OpenSong Bibles">
+    <param name="Local" value="bibles.html#importing-opensong-bibles">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Importing Web Download Bibles">
+    <param name="Local" value="bibles.html#importing-web-download-bibles">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Importing CSV formatted Bibles">
+    <param name="Local" value="bibles.html#importing-csv-formatted-bibles">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Importing Zefania Bibles">
+    <param name="Local" value="bibles.html#importing-zefania-bibles">
+</OBJECT>
+</UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Custom Slides">
+    <param name="Local" value="custom_slides.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Exporting Songs">
+    <param name="Local" value="export_songs.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Song Usage Tracking">
+    <param name="Local" value="song_usage.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Alert">
+    <param name="Local" value="alert.html">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Example of Use">
+    <param name="Local" value="alert.html#example-of-use">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="The Web Remote">
+    <param name="Local" value="web_remote.html">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Service Manager">
+    <param name="Local" value="web_remote.html#service-manager">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Slide Controller">
+    <param name="Local" value="web_remote.html#slide-controller">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Alerts">
+    <param name="Local" value="web_remote.html#alerts">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Search">
+    <param name="Local" value="web_remote.html#search">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="The Stage View">
+    <param name="Local" value="stage_view.html">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Custom Stage Views">
+    <param name="Local" value="stage_view.html#custom-stage-views">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="The Live View">
+    <param name="Local" value="stage_view.html#the-live-view">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Android App">
+    <param name="Local" value="android.html">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Installation">
+    <param name="Local" value="android.html#installation">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Android application settings">
+    <param name="Local" value="android.html#android-application-settings">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Display Text Size">
+    <param name="Local" value="android.html#display-text-size">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Auto center display">
+    <param name="Local" value="android.html#auto-center-display">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Set Custom Timeout">
+    <param name="Local" value="android.html#set-custom-timeout">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Server Details">
+    <param name="Local" value="android.html#server-details">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Using OpenLP Android Application">
+    <param name="Local" value="android.html#using-openlp-android-application">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Service List">
+    <param name="Local" value="android.html#service-list">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Live List">
+    <param name="Local" value="android.html#live-list">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Stage View">
+    <param name="Local" value="android.html#stage-view">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Live View">
+    <param name="Local" value="android.html#live-view">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Alert">
+    <param name="Local" value="android.html#alert">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Blank Display">
+    <param name="Local" value="android.html#blank-display">
+</OBJECT>
+</UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Glossary">
+    <param name="Local" value="glossary.html">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="First Time Wizard">
+    <param name="Local" value="glossary.html#first-time-wizard">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Formatting Tags">
+    <param name="Local" value="glossary.html#formatting-tags">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Main Window">
+    <param name="Local" value="glossary.html#main-window">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Media Manager">
+    <param name="Local" value="glossary.html#media-manager">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Media Item">
+    <param name="Local" value="glossary.html#media-item">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Platform">
+    <param name="Local" value="glossary.html#platform">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Preview Pane">
+    <param name="Local" value="glossary.html#preview-pane">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Service File">
+    <param name="Local" value="glossary.html#service-file">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Service Items">
+    <param name="Local" value="glossary.html#service-items">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Service Manager">
+    <param name="Local" value="glossary.html#service-manager">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Slide Controller">
+    <param name="Local" value="glossary.html#slide-controller">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Preview Slide Controller">
+    <param name="Local" value="glossary.html#preview-slide-controller">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Live Slide Controller">
+    <param name="Local" value="glossary.html#live-slide-controller">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Theme Manager">
+    <param name="Local" value="glossary.html#theme-manager">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Projector Manager">
+    <param name="Local" value="glossary.html#projector-manager">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Frequently Asked Questions">
+    <param name="Local" value="faq.html">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="General Questions">
+    <param name="Local" value="faq.html#general-questions">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Can I help with OpenLP?">
+    <param name="Local" value="faq.html#can-i-help-with-openlp">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="I use and like OpenLP and would like to tell others online. Where can I do this?">
+    <param name="Local" value="faq.html#i-use-and-like-openlp-and-would-like-to-tell-others-online-where-can-i-do-this">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="What operating systems will OpenLP 2.4 support?">
+    <param name="Local" value="faq.html#what-operating-systems-will-openlp-2-4-support">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Which programming language is 2.4 developed in?">
+    <param name="Local" value="faq.html#which-programming-language-is-2-4-developed-in">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Which written languages does OpenLP support?">
+    <param name="Local" value="faq.html#which-written-languages-does-openlp-support">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Upgrading">
+    <param name="Local" value="faq.html#upgrading">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Can I upgrade from any 1.9.x or 2.0.x release to 2.4?">
+    <param name="Local" value="faq.html#can-i-upgrade-from-any-1-9-x-or-2-0-x-release-to-2-4">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Can I upgrade directly from 1.2 to 2.4?">
+    <param name="Local" value="faq.html#can-i-upgrade-directly-from-1-2-to-2-4">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Does 2.4 replace older 2.x versions, or can they be run side by side?">
+    <param name="Local" value="faq.html#does-2-4-replace-older-2-x-versions-or-can-they-be-run-side-by-side">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Using OpenLP">
+    <param name="Local" value="faq.html#using-openlp">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="I have started OpenLP, but I cannot see the songs or bibles section in the Media Manager">
+    <param name="Local" value="faq.html#i-have-started-openlp-but-i-cannot-see-the-songs-or-bibles-section-in-the-media-manager">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="How do I activate / deactivate a plugin?">
+    <param name="Local" value="faq.html#how-do-i-activate-deactivate-a-plugin">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="What are these plugins that I keep seeing mentioned?">
+    <param name="Local" value="faq.html#what-are-these-plugins-that-i-keep-seeing-mentioned">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="How do I enable PowerPoint/Impress/PowerPoint Viewer?">
+    <param name="Local" value="faq.html#how-do-i-enable-powerpoint-impress-powerpoint-viewer">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Why can LibreOffice Impress not be used on Mac OS X?">
+    <param name="Local" value="faq.html#why-can-libreoffice-impress-not-be-used-on-mac-os-x">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Why can MS PowerPoint not be used on Mac OS X?">
+    <param name="Local" value="faq.html#why-can-ms-powerpoint-not-be-used-on-mac-os-x">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="I am on Windows and PowerPoint is installed, but it does not appear as an option">
+    <param name="Local" value="faq.html#i-am-on-windows-and-powerpoint-is-installed-but-it-does-not-appear-as-an-option">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Why does PowerPoint presentations not advance automatically">
+    <param name="Local" value="faq.html#why-does-powerpoint-presentations-not-advance-automatically">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Is it possible to get Bible x? How?">
+    <param name="Local" value="faq.html#is-it-possible-to-get-bible-x-how">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Why do my Bible verses take a long time to load?">
+    <param name="Local" value="faq.html#why-do-my-bible-verses-take-a-long-time-to-load">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="My Bible is on the Web Download sites, but my Church is not on the internet. What options do I have?">
+    <param name="Local" value="faq.html#my-bible-is-on-the-web-download-sites-but-my-church-is-not-on-the-internet-what-options-do-i-have">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Location of OpenLP files">
+    <param name="Local" value="faq.html#location-of-openlp-files">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Where do I find the configuration file?">
+    <param name="Local" value="faq.html#where-do-i-find-the-configuration-file">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Linux, FreeBSD &amp; PC-BSD">
+    <param name="Local" value="faq.html#linux-freebsd-pc-bsd">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Mac OS X">
+    <param name="Local" value="faq.html#mac-os-x">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Windows">
+    <param name="Local" value="faq.html#windows">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Where do I find the data folder?">
+    <param name="Local" value="faq.html#where-do-i-find-the-data-folder">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Linux, FreeBSD &amp; PC-BSD">
+    <param name="Local" value="faq.html#id1">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Mac OS X">
+    <param name="Local" value="faq.html#id2">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Windows">
+    <param name="Local" value="faq.html#id3">
+</OBJECT>
+</UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Features">
+    <param name="Local" value="faq.html#features">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Why has popular feature request X not been implemented?">
+    <param name="Local" value="faq.html#why-has-popular-feature-request-x-not-been-implemented">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="I have a great idea for a new feature, where should I suggest it?">
+    <param name="Local" value="faq.html#i-have-a-great-idea-for-a-new-feature-where-should-i-suggest-it">
+</OBJECT>
+</UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Troubleshooting">
+    <param name="Local" value="troubleshooting.html">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Something has gone wrong, what should I do to help get it fixed?">
+    <param name="Local" value="troubleshooting.html#something-has-gone-wrong-what-should-i-do-to-help-get-it-fixed">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="What information should I include in a bug report?">
+    <param name="Local" value="troubleshooting.html#what-information-should-i-include-in-a-bug-report">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="I have been asked to email a debug log, where do I find this?">
+    <param name="Local" value="troubleshooting.html#i-have-been-asked-to-email-a-debug-log-where-do-i-find-this">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Windows">
+    <param name="Local" value="troubleshooting.html#windows">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Linux/FreeBSD">
+    <param name="Local" value="troubleshooting.html#linux-freebsd">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Mac OS X">
+    <param name="Local" value="troubleshooting.html#mac-os-x">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="I can not play videos or other media">
+    <param name="Local" value="troubleshooting.html#i-can-not-play-videos-or-other-media">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Codecs">
+    <param name="Local" value="troubleshooting.html#codecs">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Microsoft Windows">
+    <param name="Local" value="troubleshooting.html#microsoft-windows">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Mac">
+    <param name="Local" value="troubleshooting.html#mac">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Ubuntu Linux (and variants)">
+    <param name="Local" value="troubleshooting.html#ubuntu-linux-and-variants">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Arch Linux">
+    <param name="Local" value="troubleshooting.html#arch-linux">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Debian Linux">
+    <param name="Local" value="troubleshooting.html#debian-linux">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Fedora Linux">
+    <param name="Local" value="troubleshooting.html#fedora-linux">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="The Media Manager appears to be missing some features">
+    <param name="Local" value="troubleshooting.html#the-media-manager-appears-to-be-missing-some-features">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="I can not see the book, chapter, and verse when I display scripture">
+    <param name="Local" value="troubleshooting.html#i-can-not-see-the-book-chapter-and-verse-when-i-display-scripture">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="I am using PowerPoint 2010 or PowerPoint Viewer 2010 and presentations do not work">
+    <param name="Local" value="troubleshooting.html#i-am-using-powerpoint-2010-or-powerpoint-viewer-2010-and-presentations-do-not-work">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="I have PowerPoint installed but it does not show as a presentation option">
+    <param name="Local" value="troubleshooting.html#i-have-powerpoint-installed-but-it-does-not-show-as-a-presentation-option">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="I am running a Linux Distro and cannot see the menu icons">
+    <param name="Local" value="troubleshooting.html#i-am-running-a-linux-distro-and-cannot-see-the-menu-icons">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="I chose to use a web Bible but it did not download the entire Bible">
+    <param name="Local" value="troubleshooting.html#i-chose-to-use-a-web-bible-but-it-did-not-download-the-entire-bible">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="OpenLP is using a large amount of RAM when showing a presentation">
+    <param name="Local" value="troubleshooting.html#openlp-is-using-a-large-amount-of-ram-when-showing-a-presentation">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="OpenLP is not displaying correctly, or is not on the correct screen">
+    <param name="Local" value="troubleshooting.html#openlp-is-not-displaying-correctly-or-is-not-on-the-correct-screen">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Previews are slow to load when using a theme with an image background">
+    <param name="Local" value="troubleshooting.html#previews-are-slow-to-load-when-using-a-theme-with-an-image-background">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="OpenLP crashes on startup on Windows">
+    <param name="Local" value="troubleshooting.html#openlp-crashes-on-startup-on-windows">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="I saved service-files in the servicemanager folder but now they are gone">
+    <param name="Local" value="troubleshooting.html#i-saved-service-files-in-the-servicemanager-folder-but-now-they-are-gone">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="OpenLP freezes on Xfce4 in a dual monitor setup">
+    <param name="Local" value="troubleshooting.html#openlp-freezes-on-xfce4-in-a-dual-monitor-setup">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="MP3&#x27;s and other audio formats do not work">
+    <param name="Local" value="troubleshooting.html#mp3-s-and-other-audio-formats-do-not-work">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Videos can be slow or pixelated. Background Videos are very slow">
+    <param name="Local" value="troubleshooting.html#videos-can-be-slow-or-pixelated-background-videos-are-very-slow">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Why do live backgrounds not work in OpenLP 2.4 on Windows &amp; Mac OS X">
+    <param name="Local" value="troubleshooting.html#why-do-live-backgrounds-not-work-in-openlp-2-4-on-windows-mac-os-x">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Downgrade guide (how to restore a backup)">
+    <param name="Local" value="troubleshooting.html#downgrade-guide-how-to-restore-a-backup">
+</OBJECT>
+</UL>
+</UL></BODY></HTML>

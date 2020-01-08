@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-04-13T07:35:41">
+  <properties>
+    <titles>
+      <title>Jesteś Królem</title>
+    </titles>
+    <authors>
+      <author> </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesteś Królem /2x <br/>Królem jest Bóg </lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Podnieśmy wszyscy nasze serca<br/> Podnieśmy wszyscy nasze dłonie <br/> Stawajmy przed obliczem Pana Wielbiąc Go</lines>
+    </verse>
+  </lyrics>
+</song>

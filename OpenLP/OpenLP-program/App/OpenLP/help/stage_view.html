@@ -1,0 +1,120 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=cp1252" />
+    
+    <title>The Stage View</title>
+    
+    <link rel="stylesheet" href="_static/openlp_qthelp.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="_static/print.css" type="text/css" />
+    <link rel="top" title="OpenLP 2.4 Reference Manual" href="index.html" />
+    <link rel="next" title="Android App" href="android.html" />
+    <link rel="prev" title="The Web Remote" href="web_remote.html" /> 
+  </head>
+  <body role="document">
+      <!-- div class="header"><img class="rightlogo" src="_static/logo.png" alt="Logo"/><h1 class="heading"><a href="index.html">
+          <span>OpenLP 2.4 Reference Manual</span></a></h1>
+        <h2 class="heading"><span>The Stage View</span></h2>
+      </div -->
+      <div class="topnav">
+      
+        <p>
+        «&#160;&#160;<a href="web_remote.html">The Web Remote</a>
+        &#160;&#160;::&#160;&#160;
+        <a class="uplink" href="index.html">Contents</a>
+        &#160;&#160;::&#160;&#160;
+        <a href="android.html">Android App</a>&#160;&#160;»
+        </p>
+
+      </div>
+      <div class="content">
+        
+        
+  <div class="section" id="the-stage-view">
+<span id="stage-view"></span><h1>The Stage View</h1>
+<p>Stage view gives you the ability to set up a remote computer, netbook or
+smartphone to view the live service being displayed on the projection screen in
+an easy to read font on a black background. This is a text only viewer, tough it
+will show thumbnails of images and presentations.</p>
+<p>The first step is to make sure the Remote plugin is activated. You can accomplish
+this by following the instructions in the <a class="reference internal" href="plugin_list.html#plugin-list"><span>Plugin List</span></a>. The second step is to
+configure the settings you will use with the web browser. You can find these
+instructions and settings in <a class="reference internal" href="configure.html#remote-tab"><span>Remote</span></a>.</p>
+<p>Open a web browser, type in the Stage View URL you found in <a class="reference internal" href="configure.html#remote-tab"><span>Remote</span></a>
+and press the <code class="kbd docutils literal"><span class="pre">Enter</span></code> key. For this example we will use
+http://192.168.1.73:4316/stage. You will then be presented with the home page
+of the OpenLP Stage View. On most browsers you can press F11 to go into
+fullscreen mode.</p>
+<img alt="_images/stage_view_song_w_note.png" src="_images/stage_view_song_w_note.png" />
+<p>At the top right hand side you will see the time of day. This can be changed
+from 12 hour to 24 hour format in <a class="reference internal" href="configure.html#remote-tab"><span>Remote</span></a>. If you added a note to the
+the song it will be the next line below the time. See <a class="reference internal" href="creating_service.html#adding-note"><span>Adding a Service Note</span></a>
+for adding notes. Below the note will be the Bible or song verse numbers and one
+of those will be highlighted. The lyrics or verses highlighted below the verse
+numbers correspond to the highlighted verse number. In this example V1 is
+highlighted and the corresponding first verse below it is highlighted.</p>
+<p>If there is an image, presentation or media being displayed you will see the
+title of the displayed item. Below the title will show the next item to be
+displayed in the <a class="reference internal" href="creating_service.html#creating-service"><span>Service Manager</span></a>.</p>
+<img alt="_images/stage_view_image_w_note.png" src="_images/stage_view_image_w_note.png" />
+<div class="section" id="custom-stage-views">
+<h2>Custom Stage Views</h2>
+<p>It is possible to create custom stage view with custom styles, javescript and
+html. To create a custom stage view, go to the OpenLP Data Folder by going to
+<span class="menuselection">Tools &#8227; Open Data Folder</span>. Inside the data folder create a
+folder names <code class="file docutils literal"><span class="pre">stages</span></code>. Inside the <code class="file docutils literal"><span class="pre">stages</span></code> folder you can now create
+a folder which will be the name of your custom view, an example could be
+<code class="file docutils literal"><span class="pre">myview</span></code>. Now copy <code class="file docutils literal"><span class="pre">stage.html</span></code>, <code class="file docutils literal"><span class="pre">stage.css</span></code> and
+<code class="file docutils literal"><span class="pre">stages.js</span></code> from inside OpenLPs program folder
+<code class="file docutils literal"><span class="pre">openlp/plugins/remote/html/</span></code>, and customize them to your needs. Remember
+to modify <code class="file docutils literal"><span class="pre">stage.html</span></code> to the other files from the custom stage view
+folder, for instance <code class="file docutils literal"><span class="pre">stages/myview/stage.css</span></code> for a custom
+<code class="file docutils literal"><span class="pre">stage.css</span></code>.</p>
+<p>To access the custom stage view in a browser go to <a class="reference external" href="http://myopenlpip:4316/stage/myview">http://myopenlpip:4316/stage/myview</a>.</p>
+</div>
+</div>
+<div class="section" id="the-live-view">
+<span id="main-view"></span><h1>The Live View</h1>
+<p>Live view gives you the ability to set up remote computers that will mirror
+what your projector is showing. The Live view basically works by taking
+screenshots of what the projector is showing and then presenting it in a
+browser. This means that audio and video playback will not be presented in the
+Live View.</p>
+<p>The first step is to make sure the Remote plugin is activated. You can accomplish
+this by following the instructions in the <a class="reference internal" href="plugin_list.html#plugin-list"><span>Plugin List</span></a>. The second step is to
+configure the settings you will use with the web browser. You can find these
+instructions and settings in <a class="reference internal" href="configure.html#remote-tab"><span>Remote</span></a>.</p>
+<img alt="_images/live_view_song.png" src="_images/live_view_song.png" />
+<p>Open a web browser, type in the Main View URL you found in <a class="reference internal" href="configure.html#remote-tab"><span>Remote</span></a>
+and press the <code class="kbd docutils literal"><span class="pre">Enter</span></code> key. For this example we will use
+http://192.168.1.73:4316/main. You will then be presented with the home page
+of the OpenLP Live View. On most web browsers you can press F11 to go into
+fullscreen mode.</p>
+</div>
+
+
+      </div>
+      <div class="bottomnav">
+      
+        <p>
+        «&#160;&#160;<a href="web_remote.html">The Web Remote</a>
+        &#160;&#160;::&#160;&#160;
+        <a class="uplink" href="index.html">Contents</a>
+        &#160;&#160;::&#160;&#160;
+        <a href="android.html">Android App</a>&#160;&#160;»
+        </p>
+
+      </div>
+
+    <div class="footer" role="contentinfo">
+        &copy; Copyright 2004 - 2015, Raoul Snyman.
+      Last updated on Mar 31, 2017.
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.3.3.
+    </div>
+  </body>
+</html>

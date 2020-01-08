@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-04-13T07:35:41">
+  <properties>
+    <titles>
+      <title>Przyjaciela mam</title>
+    </titles>
+    <authors>
+      <author>    </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przyjaciela mam co pociesza mnie <br/>Gdy o Jego ramię oprę się <br/>w Nim nadzieję mam <br/>uleciał strach <br/>On najbliżej jest zawsze troszczy się</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Królów Król <br/>z nami Bóg <br/>Jezus</lines>
+    </verse>
+  </lyrics>
+</song>

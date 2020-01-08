@@ -1,0 +1,149 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=cp1252" />
+    
+    <title>Formatting Tags</title>
+    
+    <link rel="stylesheet" href="_static/openlp_qthelp.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="_static/print.css" type="text/css" />
+    <link rel="top" title="OpenLP 2.4 Reference Manual" href="index.html" />
+    <link rel="next" title="Customize Shortcuts" href="configure_shortcuts.html" />
+    <link rel="prev" title="Plugin List" href="plugin_list.html" /> 
+  </head>
+  <body role="document">
+      <!-- div class="header"><img class="rightlogo" src="_static/logo.png" alt="Logo"/><h1 class="heading"><a href="index.html">
+          <span>OpenLP 2.4 Reference Manual</span></a></h1>
+        <h2 class="heading"><span>Formatting Tags</span></h2>
+      </div -->
+      <div class="topnav">
+      
+        <p>
+        «&#160;&#160;<a href="plugin_list.html">Plugin List</a>
+        &#160;&#160;::&#160;&#160;
+        <a class="uplink" href="index.html">Contents</a>
+        &#160;&#160;::&#160;&#160;
+        <a href="configure_shortcuts.html">Customize Shortcuts</a>&#160;&#160;»
+        </p>
+
+      </div>
+      <div class="content">
+        
+        
+  <div class="section" id="formatting-tags">
+<span id="id1"></span><h1>Formatting Tags</h1>
+<p>OpenLP has the ability to add additional formatting to text in songs and custom
+slides through the use of <a class="reference internal" href="glossary.html#g-formatting-tags"><span>Formatting Tags</span></a>. <a class="reference internal" href="glossary.html#g-formatting-tags"><span>Formatting Tags</span></a>
+provide a shortcut to use HTML and CSS to format text.</p>
+<p><a class="reference internal" href="glossary.html#g-formatting-tags"><span>Formatting Tags</span></a> consist of two parts, a starting and an ending tag,
+each tag consisting of a brace, tag identifier, brace.</p>
+<p><strong>Note:</strong> HTML or CSS cannnot be directly entered into OpenLP. They must be
+defined through the use of <a class="reference internal" href="glossary.html#g-formatting-tags"><span>Formatting Tags</span></a></p>
+<div class="section" id="using-a-formatting-tag">
+<h2>Using a Formatting Tag</h2>
+<p><a class="reference internal" href="glossary.html#g-formatting-tags"><span>Formatting Tags</span></a> can be inserted by typing the tag into the text that
+is being edited or by using the mouse to select and insert the tags.
+<a class="reference internal" href="glossary.html#g-formatting-tags"><span>Formatting Tags</span></a> can not span across page breaks. If a tag begins with
+text on one side of a page break it cannot stretch across the break. Instead,
+two sets of tags will need to be used, one set on each side of the break.</p>
+<div class="section" id="adding-formatting-tags-using-text">
+<h3>Adding Formatting Tags Using Text</h3>
+<p>To use <a class="reference internal" href="glossary.html#g-formatting-tags"><span>Formatting Tags</span></a> surround the text with a starting tag {} followed
+by the text to be formatted. End the text to be formatted with an ending tag
+{/}.</p>
+<div class="section" id="example-of-use">
+<h4>Example of Use</h4>
+<p>To make a section of text bold you would do the following in a custom slide or
+song:</p>
+<div class="highlight-python"><div class="highlight"><pre>Amazing grace how {st}sweet{/st} the sound.
+</pre></div>
+</div>
+<p>This will yield the text as:</p>
+<blockquote>
+<div>Amazing grace how <strong>sweet</strong> the sound.</div></blockquote>
+</div>
+</div>
+<div class="section" id="adding-a-formatting-tag-using-the-mouse">
+<h3>Adding a Formatting Tag Using The Mouse</h3>
+<p><a class="reference internal" href="glossary.html#g-formatting-tags"><span>Formatting Tags</span></a> can be inserted by selecting the text you wish to
+format. Right click on the text and select <span class="menuselection">Formatting Tags</span>
+followed by selecting the desired formatting.</p>
+<div class="section" id="id2">
+<h4>Example of Use</h4>
+<p>Select the song or custom slide to edit. Next, highlight the text that you want
+to be formatted.</p>
+<img alt="_images/select_text.png" src="_images/select_text.png" />
+<p>Right click on the selected text and select <span class="menuselection">Formatting Tags</span>
+followed by selecting the desired formatting for the selected text.</p>
+<img alt="_images/select_formatting.png" src="_images/select_formatting.png" />
+<p>The formatting tags should now be inserted.</p>
+<img alt="_images/tags_inserted.png" src="_images/tags_inserted.png" />
+</div>
+</div>
+<div class="section" id="included-formatting-tags">
+<h3>Included Formatting Tags</h3>
+<p>The following tags are included with OpenLP</p>
+<ul class="simple">
+<li><strong>{r}</strong> red text</li>
+<li><strong>{b}</strong> black text</li>
+<li><strong>{bl}</strong> blue text</li>
+<li><strong>{y}</strong> yellow text</li>
+<li><strong>{g}</strong> green text</li>
+<li><strong>{pk}</strong> pink text</li>
+<li><strong>{o}</strong> orange text</li>
+<li><strong>{pp}</strong> purple text</li>
+<li><strong>{w}</strong> white text</li>
+<li><strong>{su)</strong> superscript text</li>
+<li><strong>{sb}</strong> subscript text</li>
+<li><strong>{p}</strong> paragraph</li>
+<li><strong>{st}</strong> bold</li>
+<li><strong>{it}</strong> italics</li>
+<li><strong>{u}</strong> underline</li>
+<li><strong>{br}</strong> break</li>
+</ul>
+</div>
+</div>
+<div class="section" id="configuring-formatting-tags">
+<h2>Configuring Formatting Tags</h2>
+<p>To add new <a class="reference internal" href="glossary.html#g-formatting-tags"><span>Formatting Tags</span></a> go to <span class="menuselection">Settings &#8227; Configure
+Formatting Tags</span></p>
+<img alt="_images/configure_formatting_tags.png" src="_images/configure_formatting_tags.png" />
+<p>Click the <span class="guilabel">New</span> button to add new <a class="reference internal" href="glossary.html#g-formatting-tags"><span>Formatting Tags</span></a>. Enter the
+description of the <a class="reference internal" href="glossary.html#g-formatting-tags"><span>Formatting Tags</span></a> followed by the tag. The tag must be
+unique. You do not need to put the in braces {} here, only when using the tag.
+Finally, enter in the HTML or CSS for the tag and click <span class="guilabel">Save</span> to
+complete adding new <a class="reference internal" href="glossary.html#g-formatting-tags"><span>Formatting Tags</span></a>.</p>
+<p>To delete <a class="reference internal" href="glossary.html#g-formatting-tags"><span>Formatting Tags</span></a> that you have entered click on the
+<a class="reference internal" href="glossary.html#g-formatting-tags"><span>Formatting Tags</span></a> from the list and click <span class="guilabel">Delete</span>.</p>
+<p><strong>Note:</strong> if a tag is deleted that is in use in a song or custom slide the slide
+will display the tags {} without any formatting.  The deleted tags will need to
+be manually deleted from the songs or custom slides.</p>
+</div>
+</div>
+
+
+      </div>
+      <div class="bottomnav">
+      
+        <p>
+        «&#160;&#160;<a href="plugin_list.html">Plugin List</a>
+        &#160;&#160;::&#160;&#160;
+        <a class="uplink" href="index.html">Contents</a>
+        &#160;&#160;::&#160;&#160;
+        <a href="configure_shortcuts.html">Customize Shortcuts</a>&#160;&#160;»
+        </p>
+
+      </div>
+
+    <div class="footer" role="contentinfo">
+        &copy; Copyright 2004 - 2015, Raoul Snyman.
+      Last updated on Mar 31, 2017.
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.3.3.
+    </div>
+  </body>
+</html>

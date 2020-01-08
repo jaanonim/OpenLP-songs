@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-01-04T21:00:55">
+  <properties>
+    <titles>
+      <title>Gdy Ciebie szukam</title>
+    </titles>
+    <authors>
+      <author>    </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy Ciebie szukam<br/>Dajesz mi poznac się <br/>Gdy Cię Spotykam<br/>Znów rozkochuje się</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chce usiąść u Twoich stóp<br/>Skosztować kielich z twych rąk<br/>Zatopić w Tobie swój wzrok<br/>I nasłuchiwać<br/>Twa miłość i moc<br/>Jak głębia morskich fal<br/>Zanurzam się w nich<br/>To takie piękne</lines>
+    </verse>
+  </lyrics>
+</song>

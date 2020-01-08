@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-04-13T07:35:41">
+  <properties>
+    <titles>
+      <title>NIE CHCĘ W INNYM MIEJSCU BYĆ</title>
+    </titles>
+    <authors>
+      <author>Will Reagan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie chcę w innym miejscu być<br/>Nie chcę w innym miejscu być<br/>Nie chcę w innym miejscu być<br/>Niż w miłości Twej, w miłości Twej</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Więc rozpal ogień w duszy mej<br/>Który mnie pochłonie, porwie mnie<br/>Boże więcej ciebie<br/>Boże więcej ciebie chcę</lines>
+    </verse>
+  </lyrics>
+</song>

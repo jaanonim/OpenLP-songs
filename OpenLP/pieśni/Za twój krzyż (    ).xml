@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-04-13T07:57:43">
+  <properties>
+    <titles>
+      <title>Za twój krzyż</title>
+    </titles>
+    <authors>
+      <author>    </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przenikasz serca, znasz każdą myśl,<br/>I choć znów Cię ranię, wiem, że mnie kochasz<br/>Twoja obecność otacza mnie<br/>I w każdej chwili, wiem, że mnie kochasz</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Za Twój krzyż dziękować chcę,<br/>Za krew co przelała się<br/>Za miłości Bożej cud.<br/>Otworzyłeś grobu drzwi<br/>Twoją chwałą niebo brzmi<br/>Nic nie zmieni tego już</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wskazujesz drogę, ochraniasz mnie<br/>Trzymasz mnie mocno, wiem, że mnie kochasz</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Rozdzielał nas, wrogości mur<br/>Miłosć Twa zburzyła go</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-07-18T18:03:48">
+  <properties>
+    <titles>
+      <title>Bóg dobry jest</title>
+    </titles>
+    <authors>
+      <author>    </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niech mój Pan stanie się<br/>Twierdzą pewną, tarczą mą<br/>Źródłem mocy w każdy czas<br/>On pieśnią mą jest</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niech mój Pan stanie się<br/>Mym schronieniem w ciężki czas<br/>Ceną za mój los<br/>On pieśnią mą jest</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bóg dobry jest<br/>On dobry jest</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niech mój Pan stanie się<br/>Wiatrem mocnym w żaglach mych<br/>Ostoją pośród fal<br/>On pieśnią mą jest</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Niech mój Pan stanie się <br/>Ogniem wielkim w sercu mym<br/>Obrońcą moich dni<br/>On pieśnią mą jest</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Ty nie zawiedziesz mnie <br/>nie zawiedziesz nigdy mnie</lines>
+    </verse>
+  </lyrics>
+</song>

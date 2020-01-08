@@ -1,0 +1,738 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=cp1252" />
+    
+    <title>Configuring OpenLP</title>
+    
+    <link rel="stylesheet" href="_static/openlp_qthelp.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="_static/print.css" type="text/css" />
+    <link rel="top" title="OpenLP 2.4 Reference Manual" href="index.html" />
+    <link rel="next" title="Backing up OpenLP" href="backing_up.html" />
+    <link rel="prev" title="Menu Items" href="menu_items.html" /> 
+  </head>
+  <body role="document">
+      <!-- div class="header"><img class="rightlogo" src="_static/logo.png" alt="Logo"/><h1 class="heading"><a href="index.html">
+          <span>OpenLP 2.4 Reference Manual</span></a></h1>
+        <h2 class="heading"><span>Configuring OpenLP</span></h2>
+      </div -->
+      <div class="topnav">
+      
+        <p>
+        «&#160;&#160;<a href="menu_items.html">Menu Items</a>
+        &#160;&#160;::&#160;&#160;
+        <a class="uplink" href="index.html">Contents</a>
+        &#160;&#160;::&#160;&#160;
+        <a href="backing_up.html">Backing up OpenLP</a>&#160;&#160;»
+        </p>
+
+      </div>
+      <div class="content">
+        
+        
+  <div class="section" id="configuring-openlp">
+<span id="configure"></span><h1>Configuring OpenLP</h1>
+<p>OpenLP has many options you can configure to suit your needs. Most options are
+self-explanatory and we will quickly review them.</p>
+<p>To configure OpenLP, click on <span class="menuselection">Settings &#8227; Configure OpenLP...</span></p>
+<p>The plugins you have activated will have configure options. If all the plugins
+are activated there will be 10 items down the left side you can configure.</p>
+<div class="section" id="general">
+<h2>General</h2>
+<img alt="_images/configuregeneral.png" src="_images/configuregeneral.png" />
+<div class="section" id="monitors">
+<h3>Monitors</h3>
+<p>To choose which monitor you want OpenLP&#8217;s output display on, click the
+drop-down box and select the appropriate monitor.</p>
+</div>
+<div class="section" id="override-display-position">
+<h3>Override Display Position</h3>
+<p>This setting overrides the exact position on your screen where the display
+output appears. If you have a custom projector setup, click the
+<span class="guilabel">Override display position</span> checkbox, and manually set the position
+of the display output using the <span class="guilabel">X</span>, <span class="guilabel">Y</span>, <span class="guilabel">Width</span>
+and <span class="guilabel">Height</span> values.</p>
+<p>This setting often comes in useful when you only have a single display, and you
+want to be able to make the display smaller so that it does not cover your
+entire screen.</p>
+</div>
+<div class="section" id="display-if-a-single-screen">
+<h3>Display if a single screen</h3>
+<p>Checking this checkbox will show the display output in a separate window when
+you only have a single monitor. To close the display window, click on it and
+press the <code class="kbd docutils literal"><span class="pre">Esc</span></code> key.</p>
+</div>
+<div class="section" id="ccli-details">
+<h3>CCLI Details</h3>
+<dl class="docutils">
+<dt><strong>CCLI number:</strong></dt>
+<dd>If you subscribe to CCLI, this box is for your License number. This number is
+also displayed in the Song Footer box.</dd>
+</dl>
+</div>
+<div class="section" id="background-audio">
+<h3>Background Audio</h3>
+<dl class="docutils">
+<dt><strong>Start background audio paused:</strong></dt>
+<dd>If you have a <a class="reference internal" href="songs.html#songs-linked"><span>Linked Audio</span></a> assigned to a song, with this box selected
+and when the song is displayed live, the audio will be paused until you start
+it using <a class="reference internal" href="creating_service.html#linked-audio"><span>Linked Audio Control</span></a>. If this box is not selected the audio will play
+immediately when the song is displayed live.</dd>
+<dt><strong>Repeat track list:</strong></dt>
+<dd>With this option selected and you are using background audio, the tracks will
+repeat when it reaches the end of the list (even if there is only one item).</dd>
+</dl>
+</div>
+<div class="section" id="application-startup">
+<h3>Application Startup</h3>
+<dl class="docutils">
+<dt><strong>Show blank screen warning:</strong></dt>
+<dd>When this box is selected, you will get a warning when opening OpenLP that the
+output display has been blanked. You may have blanked it and shut down the
+program and this will warn you it is still blanked.</dd>
+<dt><strong>Automatically open the last service:</strong></dt>
+<dd>When this box is selected, OpenLP will remember the last service you were
+working on when you closed the program.</dd>
+<dt><strong>Show the splash screen:</strong></dt>
+<dd>The OpenLP logo is displayed while OpenLP loads when this checkbox is checked.
+This is useful to give some indication that the program is loading.</dd>
+<dt><strong>Check for updates to OpenLP:</strong></dt>
+<dd>OpenLP will check to see if there is a newer version available on a regular
+basis when this checkbox is checked. Please note that this requires Internet
+access.</dd>
+</dl>
+</div>
+<div class="section" id="application-settings">
+<h3>Application Settings</h3>
+<dl class="docutils">
+<dt><strong>Prompt to save before starting a new service:</strong></dt>
+<dd>When this box is selected, OpenLP will prompt you to save the service you are
+working on before starting a new service.</dd>
+<dt><strong>Unblank display when adding new live item:</strong></dt>
+<dd>When using the <span class="guilabel">blank to</span> button with this checkbox checked, on going
+live with the next item, the screen will be automatically re-enabled. If this
+checkbox is not checked you will need to click the <span class="guilabel">blank to</span> button
+again to reverse the action.</dd>
+<dt><strong>Automatically preview next item in service:</strong></dt>
+<dd>When this box is selected, the next item in the <a class="reference internal" href="creating_service.html#creating-service"><span>Service Manager</span></a> will
+be displayed in the Preview pane.</dd>
+<dt><strong>Timed slide interval:</strong></dt>
+<dd>This setting is the time delay in seconds. This is used to continuously loop
+a group of images, verses, or the lyrics in a song. This control timer is
+also accessible on the <a class="reference internal" href="creating_service.html#using-timer"><span>Using the Service Timer</span></a></dd>
+</dl>
+</div>
+</div>
+<div class="section" id="themes">
+<h2>Themes</h2>
+<img alt="_images/configurethemes.png" src="_images/configurethemes.png" />
+<div class="section" id="global-theme">
+<h3>Global Theme</h3>
+<p>Choose the theme you would like to use as your default global theme from the
+drop down box. The theme selected appears below. The global theme use is
+determined by the Theme Level you have selected.</p>
+</div>
+<div class="section" id="theme-level">
+<h3>Theme Level</h3>
+<p>Choose from one of three options for the default use of your theme.</p>
+<dl class="docutils">
+<dt><strong>Song Level:</strong></dt>
+<dd>With this level selected, your theme is associated with the song. The theme is
+controlled by adding or editing a song in the Song editor and  your song theme
+takes priority. If your song does not have a theme associated with it, OpenLP
+will use the theme set in the <a class="reference internal" href="creating_service.html#creating-service"><span>Service Manager</span></a>.</dd>
+<dt><strong>Service Level:</strong></dt>
+<dd>With this level selected, your theme is controlled at the top of the
+<a class="reference internal" href="creating_service.html#creating-service"><span>Service Manager</span></a>. Select your default service theme there. This setting
+will override your Song theme.</dd>
+<dt><strong>Global Level:</strong></dt>
+<dd>With this level selected, all songs and verses will use the theme selected on
+the left in the Global Theme drop down.</dd>
+</dl>
+</div>
+<div class="section" id="universal-settings">
+<h3>Universal Settings</h3>
+<dl class="docutils">
+<dt><strong>Wrap footer text:</strong></dt>
+<dd>Check this if you want text in the footer to wrap if the lines are too long to
+be on one line.</dd>
+</dl>
+</div>
+</div>
+<div class="section" id="advanced">
+<h2>Advanced</h2>
+<img alt="_images/configureadvanced.png" src="_images/configureadvanced.png" />
+<div class="section" id="ui-settings-user-interface">
+<span id="configure-ui"></span><h3>UI Settings (user interface)</h3>
+<dl class="docutils">
+<dt><strong>Number of recent files to display:</strong></dt>
+<dd>Set this number for OpenLP to remember your last files open. These will show
+under <span class="menuselection">File &#8227; Recent Files</span>.</dd>
+<dt><strong>Remember active media manager tab on startup:</strong></dt>
+<dd>With this box selected OpenLP <a class="reference internal" href="mediamanager.html#media-manager"><span>Media Manager</span></a> will open on the same tab
+that it was closed on.</dd>
+<dt><strong>Double-click to send items straight to live:</strong></dt>
+<dd>With this box selected, double-clicking on anything in the <a class="reference internal" href="mediamanager.html#media-manager"><span>Media Manager</span></a>
+will immediately send it live instead of to Preview.</dd>
+<dt><strong>Preview items when clicked in Media Manager:</strong></dt>
+<dd>With this box selected, clicking any item in the <a class="reference internal" href="mediamanager.html#media-manager"><span>Media Manager</span></a> will
+immediately display it in the Preview pane.</dd>
+<dt><strong>Expand new service items on creation:</strong></dt>
+<dd>With this box selected, everything you add to the <a class="reference internal" href="creating_service.html#creating-service"><span>Service Manager</span></a> will
+be expanded so you can see all the verses, lyrics and presentations, line by
+line. When you open OpenLP, everything will automatically be expanded in the
+<a class="reference internal" href="creating_service.html#creating-service"><span>Service Manager</span></a>.</dd>
+<dt><strong>Enable application exit confirmation:</strong></dt>
+<dd>With this box selected, on closing OpenLP you will be presented with a dialog
+box to confirm closing the program.</dd>
+</dl>
+</div>
+<div class="section" id="default-service-name">
+<h3>Default Service Name</h3>
+<p>The default service name gives you the ability to have a preset name, date and
+time when saving your service file.</p>
+<dl class="docutils">
+<dt><strong>Enable default service name:</strong></dt>
+<dd>Checking this box will activate the use of the default service name.</dd>
+<dt><strong>Date and Time:</strong></dt>
+<dd>You can choose the regular day of the week and time of the service or choose
+<span class="guilabel">Now</span> from the dropdown for the immediate date and time to save your
+service file.</dd>
+<dt><strong>Name:</strong></dt>
+<dd>You can change &#8220;Service&#8221; to a default name of your choosing. The year, month
+day, hour and minute will default to what you have set for
+<span class="guilabel">Date and Time</span> above or if you chose <span class="guilabel">Now</span> the saved file
+will have the time and date that you save it.</dd>
+<dt><img alt="BUTTONS_REVERT" src="_images/button_rerun.png" /> <strong>Revert:</strong></dt>
+<dd>Clicking this button will erase your changes and revert to the default service name.</dd>
+<dt><strong>Example:</strong></dt>
+<dd>The example shows how the name, date and time will be displayed for the file
+name when saving the file.</dd>
+</dl>
+<p><strong>Note:</strong> If the date and time format does not suit your needs and you are
+technically inclined, there is more information at
+<a class="reference external" href="http://docs.python.org/library/datetime.html#strftime-strptime-behavior">Python.org</a>.</p>
+</div>
+<div class="section" id="data-location">
+<h3>Data Location</h3>
+<p>If you wish to change the default location of where OpenLP stores its data, you
+can enter a custom location here.</p>
+<p><img alt="BUTTONS_OPEN" src="_images/buttons_open.png" /> <strong>Browse for a custom data location</strong></p>
+<dl class="docutils">
+<dt><img alt="BUTTONS_REVERT" src="_images/button_rerun.png" /> <strong>Revert:</strong></dt>
+<dd>Clicking this button will erase your changes and revert to the default data
+location.</dd>
+</dl>
+</div>
+<div class="section" id="default-images">
+<h3>Default Images</h3>
+<dl class="docutils">
+<dt><strong>Background color:</strong></dt>
+<dd>You can choose the background color that will be displayed when you start
+OpenLP.</dd>
+<dt><strong>Image file:</strong></dt>
+<dd>Select an image file to be displayed when OpenLP is started. Using an image
+file will override a background color.</dd>
+</dl>
+<p><img alt="BUTTONS_OPEN" src="_images/buttons_open.png" /> <strong>Browse for an image file to display</strong></p>
+<p><img alt="BUTTONS_REVERT" src="_images/button_rerun.png" /> <strong>Revert to the default OpenLP logo</strong></p>
+</div>
+<div class="section" id="mouse-cursor">
+<h3>Mouse Cursor</h3>
+<dl class="docutils">
+<dt><strong>Hide mouse cursor when over display window:</strong></dt>
+<dd>With this box selected your mouse cursor will not be visible if you move it
+from Display 1 onto Display 2.</dd>
+</dl>
+</div>
+<div class="section" id="service-item-slide-limits">
+<h3>Service Item Slide Limits</h3>
+<p>These three settings control</p>
+<dl class="docutils">
+<dt><strong>End Slide:</strong></dt>
+<dd>Up and down arrow keys stop at the top and bottom slides of each Service item.
+You will need to use the <code class="kbd docutils literal"><span class="pre">Right</span> <span class="pre">Arrow</span></code> key or the mouse to move to the
+next Service Item.</dd>
+<dt><strong>Wrap Slide:</strong></dt>
+<dd>Up and down arrow keys wrap around at the top and bottom slides of each
+Service item, eg: When you reach the last slide of a song or verse and
+<code class="kbd docutils literal"><span class="pre">Down</span> <span class="pre">Arrow</span></code> you will be back on the first slide. Likewise if you are on
+the first slide and <code class="kbd docutils literal"><span class="pre">Up</span> <span class="pre">Arrow</span></code> you will wrap-around to the last slide of
+the song, images or Bible verses.</dd>
+<dt><strong>Next Slide:</strong></dt>
+<dd>Up and down arrow keys advance to the next or previous Service Item from the
+top and bottom slides of each Service Item. As long as you have your songs and
+verses in order, you can use the <code class="kbd docutils literal"><span class="pre">Down</span> <span class="pre">Arrow</span></code> to move through your
+service from start to finish. Using this setting makes it possible to use a
+presentation remote controller.</dd>
+</dl>
+</div>
+<div class="section" id="display-workarounds">
+<h3>Display Workarounds</h3>
+<dl class="docutils">
+<dt><strong>Bypass X11 Window Manager:</strong></dt>
+<dd>Linux and other X users may need to try toggling this flag if the main display
+window is causing them problems. For example with this unset, KDE users may
+find the main display window disappears if they switch windows. Ubuntu users
+using the Unity interface may find the main screen is corrupted if set. GNOME
+Shell users may find the window doesn&#8217;t fill the whole screen if unset. As it
+appears to affect different versions and distributions differently, this
+setting has been added, rather than try and work it out programmatically.</dd>
+<dt><strong>Use alternating row colors in lists:</strong></dt>
+<dd>Using alternating row colors in most cases makes it easier for the human eye
+to overview a list of items. Uncheck to disable.</dd>
+</dl>
+</div>
+</div>
+<div class="section" id="players">
+<span id="config-players"></span><h2>Players</h2>
+<img alt="_images/configureplayers.png" src="_images/configureplayers.png" />
+<div class="section" id="background-color">
+<h3>Background color</h3>
+<p>Choose the background color displayed as background for videos with a different
+aspect ratio than the display screen</p>
+</div>
+<div class="section" id="available-media-players">
+<h3>Available Media Players</h3>
+<p>Select the media players you want to be available for use. As a general rule the
+players control the following:</p>
+<dl class="docutils">
+<dt><strong>System:</strong></dt>
+<dd>System is an internal media player which uses your operating system&#8217;s
+built-in media player capabilities.</dd>
+<dt><strong>Webkit:</strong></dt>
+<dd>WebKit is another internal media player, which adds text-over-video to OpenLP.</dd>
+<dt><strong>VLC:</strong></dt>
+<dd>This uses the well-known VLC media player to show videos. VLC has a
+reputation of being able to handle almost any video or audio format.</dd>
+</dl>
+<p><strong>Note:</strong> You must have <a class="reference external" href="http://www.videolan.org/vlc/">VLC</a> installed for the
+VLC option to be available. On Windows you must install the 32-bit version of VLC.
+On Mac OS X you must install the 64-bit version of VLC.</p>
+</div>
+<div class="section" id="player-order">
+<h3>Player Order</h3>
+<p>Determines the preference order of the selected media players. The order is
+changed by selecting one of the available players and using the
+<span class="guilabel">Down</span> or <span class="guilabel">Up</span> button to change the position of the player.</p>
+</div>
+</div>
+<div class="section" id="projectors">
+<span id="configure-projectors"></span><h2>Projectors</h2>
+<img alt="_images/configureprojectors.png" src="_images/configureprojectors.png" />
+<div class="section" id="communication-options">
+<h3>Communication Options</h3>
+<p>The options available are:</p>
+<dl class="docutils">
+<dt><strong>Connect to projectors on startup:</strong></dt>
+<dd>Check if you want to attempt to connect to all projectors when OpenLP starts.</dd>
+<dt><strong>Socket timeout (seconds):</strong></dt>
+<dd>Time in seconds to wait for the projector connection. Available options are 2
+to 10 seconds.</dd>
+<dt><strong>Poll timeout (seconds):</strong></dt>
+<dd>How often to poll the projector for status information. Available options are
+2 to 60 seconds. For quicker response on the status icons, set to a lower
+value. If you have network congestion, you may need to use a higher value.</dd>
+<dt><strong>Source select dialog interface:</strong></dt>
+<dd>Select whether you want all video source options on one dialog page or to use
+tabs to consolidate the inputs based on video group.</dd>
+</dl>
+</div>
+</div>
+<div class="section" id="songs">
+<span id="config-songs"></span><h2>Songs</h2>
+<img alt="_images/configuresongs.png" src="_images/configuresongs.png" />
+<div class="section" id="songs-mode">
+<h3>Songs Mode</h3>
+<dl class="docutils">
+<dt><strong>Enable search as you type:</strong></dt>
+<dd>With this box selected, Media Manager/Songs will display the song you are
+searching for as you are typing. If this box is not selected, you need to type
+in your search box and then click on the Search button.</dd>
+<dt><strong>Display verses on live tool bar:</strong></dt>
+<dd>With this box selected, a Go To drop down box is available on the live toolbar
+to select any part of the verse type you want displayed live.</dd>
+<dt><strong>Update service from song edit:</strong></dt>
+<dd>With this box selected and you edit a song in the <a class="reference internal" href="mediamanager.html#media-manager"><span>Media Manager</span></a>, the
+results will also change the song if it is added to the <a class="reference internal" href="creating_service.html#creating-service"><span>Service Manager</span></a>.
+If this box is not selected, your song edit changes will only be available in
+the <a class="reference internal" href="creating_service.html#creating-service"><span>Service Manager</span></a> if you add it again.</dd>
+<dt><strong>Import missing songs from service files:</strong></dt>
+<dd>With this box selected, when you open a service file created on another
+computer, or if one of the songs are no longer in your <a class="reference internal" href="mediamanager.html#media-manager"><span>Media Manager</span></a>,
+it will automatically enter the song in your Songs Media Manager. If this box
+is not checked, the song is available in the service but will not be added to
+the <a class="reference internal" href="mediamanager.html#media-manager"><span>Media Manager</span></a>.</dd>
+<dt><strong>Display songbook in footer:</strong></dt>
+<dd>With this box selected the songbook name and number for songs (if available)
+will be shown in the footer.</dd>
+<dt><strong>Display &#8220;©&#8221; symbol before copyright info:</strong></dt>
+<dd>With this box selected the copyright symbol will be displayed in the footer
+before the copyright information.</dd>
+</dl>
+</div>
+</div>
+<div class="section" id="bibles">
+<h2>Bibles</h2>
+<img alt="_images/configurebibles.png" src="_images/configurebibles.png" />
+<div class="section" id="verse-display">
+<h3>Verse Display</h3>
+<dl class="docutils">
+<dt><strong>Show verse numbers:</strong></dt>
+<dd>With this box selected verse numbers are always shown, deselect to hide verse
+numbers.</dd>
+<dt><strong>Only show new chapter numbers:</strong></dt>
+<dd>With this box selected, the live display of the verse will only show the
+chapter number and verse for the first verse, and just the verse numbers after
+that. If the chapter changes, the new chapter number will be displayed with the
+verse number for the first line, and only the verse number displayed thereafter.</dd>
+<dt><strong>Display style:</strong></dt>
+<dd>This option will put brackets around the chapter and verse numbers. You may
+select No Brackets or your bracket style from the drop down menu.</dd>
+<dt><strong>Layout style:</strong></dt>
+<dd>There are three options to determine how your Bible verses are displayed.</dd>
+<dt><strong>Verse Per Slide:</strong></dt>
+<dd>Will display one verse per slide.</dd>
+<dt><strong>Verse Per Line:</strong></dt>
+<dd>Will start each verse on a new line until the slide is full.</dd>
+<dt><strong>Continuous:</strong></dt>
+<dd>Will run all verses together, separated by verse number and chapter, if
+chapter is selected to show above. This will only add the next verse if it
+wholly fits on the slide. If it does not fit, it will begin a new slide.</dd>
+</dl>
+<p><strong>Note:</strong> Changes do not affect verses already in the service.</p>
+<dl class="docutils">
+<dt><strong>Display second Bible verses:</strong></dt>
+<dd>OpenLP has the ability to display the same verse in two different Bible
+versions for comparison. With this option selected, there will be a Second
+choice in the Bible Media Manager to use this option. Verses will display with
+one verse per slide with the second Bible verse below.</dd>
+<dt><strong>Bible theme:</strong></dt>
+<dd>You may select your default Bible theme from this drop down box. This selected
+theme will only be used if your <em>Theme Level</em> is set at <em>Song Level</em>.</dd>
+</dl>
+<p><strong>Note:</strong> Changes do not affect verses already in the service.</p>
+</div>
+<div class="section" id="custom-scripture-references">
+<h3>Custom Scripture References</h3>
+<p>Here you can change the default separators used in the scripture references.
+The default values are shown in gray when the custom separators has not be
+enabled and nothing has been entered. Note that the default separators can
+change if the language of OpenLP is changed.</p>
+<p><strong>Verse Separators:</strong> Enable to enter a custom verse separator.</p>
+<p><strong>Range Separators:</strong> Enable to enter a custom range separator.</p>
+<p><strong>List Separators:</strong> Enable to enter a custom list separator.</p>
+<p><strong>End Mark:</strong> Enable to enter a custom end marker.</p>
+</div>
+<div class="section" id="default-bible-language">
+<h3>Default Bible Language</h3>
+<p>Choose the language of the bible books. The options are:</p>
+<dl class="docutils">
+<dt><strong>Bible Language:</strong></dt>
+<dd>The language of the books will be determined by the language of the bible.</dd>
+<dt><strong>Application Language:</strong></dt>
+<dd>The language of the books will be determined by the language set for OpenLP.</dd>
+<dt><strong>English:</strong></dt>
+<dd>The language of the books will be set to English.</dd>
+</dl>
+</div>
+</div>
+<div class="section" id="presentations">
+<span id="presentation-configure"></span><h2>Presentations</h2>
+<img alt="_images/configurepresentations.png" src="_images/configurepresentations.png" />
+<div class="section" id="available-controllers">
+<h3>Available Controllers</h3>
+<p>OpenLP has the ability to import OpenOffice Impress or Microsoft PowerPoint
+presentations, and use Impress, PowerPoint, or PowerPoint Viewer to display and
+control them from within OpenLP. Please remember that in order to use this
+feature you will need to have one of the above-mentioned applications installed,
+due to the fact that OpenLP uses these application to open and run the
+presentation.</p>
+<p>Support of PDF is bundled with OpenLP on Mac OS X and Windows. On Linux you will
+need to install <code class="file docutils literal"><span class="pre">mupdf</span></code> (recommended) or <code class="file docutils literal"><span class="pre">ghostscript</span></code>.</p>
+</div>
+<div class="section" id="id1">
+<h3>Advanced</h3>
+<dl class="docutils">
+<dt><strong>Allow presentation application to be overridden:</strong></dt>
+<dd>With this option selected, you will see <em>Present using</em> area with a dropdown
+box on the Presentations toolbar in <a class="reference internal" href="mediamanager.html#media-manager"><span>Media Manager</span></a> which gives you the
+option to select the presentation program you want to use.</dd>
+</dl>
+</div>
+<div class="section" id="powerpoint-options">
+<h3>PowerPoint options</h3>
+<p>These options are only available if PowerPoint has been detected.</p>
+<dl class="docutils">
+<dt><strong>Clicking on a selected slide in the slidecontroller advances to next effect:</strong></dt>
+<dd>When this is enabled it is possible to go to the next effect of a slide by
+clicking the slide in the slidecontroller. The default behavior is to restart
+the slide.</dd>
+<dt><strong>Let PowerPoint control the size and position of the presentation window (workaround for Windows 8 scaling issue):</strong></dt>
+<dd>Windows 8 and 10 can on computers with multiple monitors use scaling to make
+windows look the same size on different monitors. Unfortunately this can
+cause issues with how OpenLP places and resizes the PowerPoint presentation
+window. Check this box to enable the workaround which let PowerPoint control
+the presentation window. When you enable this you must setup PowerPoint to
+present to the correct monitor.</dd>
+</dl>
+</div>
+<div class="section" id="pdf-options">
+<h3>PDF options</h3>
+<dl class="docutils">
+<dt><strong>Use given full path for mudraw or ghostscript binary:</strong></dt>
+<dd>Enable this if you want to enter a custom path for mudraw or ghostscript.</dd>
+</dl>
+</div>
+</div>
+<div class="section" id="images">
+<h2>Images</h2>
+<p>Provides border where an image is not the correct dimensions for the screen when
+it is resized.</p>
+<img alt="_images/configureimages.png" src="_images/configureimages.png" />
+<dl class="docutils">
+<dt><strong>Default Color:</strong></dt>
+<dd>Click on the black button next to Default Color. You have the option of
+choosing among the colors you see or entering your own.</dd>
+</dl>
+</div>
+<div class="section" id="media">
+<span id="media-configure"></span><h2>Media</h2>
+<img alt="_images/configuremedia.png" src="_images/configuremedia.png" />
+<div class="section" id="id2">
+<h3>Advanced</h3>
+<dl class="docutils">
+<dt><strong>Allow media player to be overridden:</strong></dt>
+<dd>With this option selected, you will see <span class="guilabel">Use Player:</span> area with a
+dropdown box on the Media tool bar in the <a class="reference internal" href="mediamanager.html#media-manager"><span>Media Manager</span></a> which gives
+you the option to select the media player you want to use.</dd>
+<dt><strong>Start Live items automatically:</strong></dt>
+<dd>With this option selected media items will start to play automatically when
+sent live.</dd>
+</dl>
+</div>
+</div>
+<div class="section" id="custom">
+<h2>Custom</h2>
+<img alt="_images/configurecustom.png" src="_images/configurecustom.png" />
+<div class="section" id="custom-display">
+<span id="configure-custom"></span><h3>Custom Display</h3>
+<dl class="docutils">
+<dt><strong>Display Footer:</strong></dt>
+<dd>With this option selected, your Custom slide Title will be displayed in the
+footer.</dd>
+</dl>
+<p><strong>Note:</strong> If you have an entry in the Credits box of your custom slide, title and
+credits will always be displayed.</p>
+<dl class="docutils">
+<dt><strong>Import missing custom slides from service files:</strong></dt>
+<dd>With this box selected, when you open a service file created on another
+computer, or if one of the custom slides are no longer in your
+<a class="reference internal" href="mediamanager.html#media-manager"><span>Media Manager</span></a>, it will automatically enter the custom slide in your
+Custom Slide Media Manager. If this box is not checked, the custom slide is
+available in the service but will not be added to the <a class="reference internal" href="mediamanager.html#media-manager"><span>Media Manager</span></a>.</dd>
+</dl>
+</div>
+</div>
+<div class="section" id="alerts">
+<span id="configure-alerts"></span><h2>Alerts</h2>
+<img alt="_images/configurealerts.png" src="_images/configurealerts.png" />
+<div class="section" id="font">
+<h3>Font</h3>
+<dl class="docutils">
+<dt><strong>Font name:</strong></dt>
+<dd>Choose your desired font from the drop down menu</dd>
+<dt><strong>Font color:</strong></dt>
+<dd>Choose your font color here.</dd>
+<dt><strong>Background color:</strong></dt>
+<dd>Choose the background color the font will be displayed on.</dd>
+<dt><strong>Font size:</strong></dt>
+<dd>This will adjust the size of the font.</dd>
+<dt><strong>Alert timeout:</strong></dt>
+<dd>This setting will determine how long your <a class="reference internal" href="alert.html#alerts"><span>Alert</span></a> will be displayed on
+the screen, in seconds.</dd>
+<dt><strong>Vertical Align:</strong></dt>
+<dd>Choose the location where you want the alert displayed on the
+screen, Top, Middle or Bottom.</dd>
+<dt><strong>Preview:</strong></dt>
+<dd>Your choices will be displayed here.</dd>
+</dl>
+</div>
+</div>
+<div class="section" id="remote">
+<span id="remote-tab"></span><h2>Remote</h2>
+<p>OpenLP gives you the ability to control the <a class="reference internal" href="creating_service.html#creating-service"><span>Service Manager</span></a> or send an
+<a class="reference internal" href="alert.html#alerts"><span>Alert</span></a> from a remote computer through a web browser. This could be useful
+for a nursery or daycare to display an <a class="reference internal" href="alert.html#alerts"><span>Alert</span></a> message or, use it as an
+interface to control the whole service remotely by a visiting missionary or
+worship team leader.</p>
+<p>Stage view gives you the opportunity to set up a remote computer, netbook or
+smartphone to view the service being displayed in an easy to read font with a
+black background. Stage view is a text only viewer.</p>
+<p>The remote feature will work in any web browser that has network access whether
+it is another computer, a netbook or a smartphone. You can find more information
+about this feature here: <a class="reference internal" href="web_remote.html#web-remote"><span>The Web Remote</span></a>.</p>
+<p><strong>Note:</strong> To use either of these features, your computers will need to be on the
+same network, wired or wireless.</p>
+<div class="section" id="server-settings-non-secure">
+<span id="non-secure"></span><h3>Server Settings - Non Secure</h3>
+<img alt="_images/configureremotes.png" src="_images/configureremotes.png" />
+<dl class="docutils">
+<dt><strong>Serve on IP address:</strong></dt>
+<dd>Put your projection computer&#8217;s IP address here or use 0.0.0.0 which will
+display your IP address links below.</dd>
+<dt><strong>Display stage time in 12h format:</strong></dt>
+<dd>This setting displays the time in stage view in 12h or 24h format.</dd>
+<dt><strong>Port Number:</strong></dt>
+<dd>You can use the default port number or change it to another number. If you
+do not understand this setting you should leave it as is.</dd>
+<dt><strong>Remote URL:</strong></dt>
+<dd>Using the remote URL, you have the ability to control the live service from
+another computer, netbook or smartphone that has a browser.</dd>
+</dl>
+<p><strong>Note:</strong> This URL and port number are also used to map the value for OpenLP&#8217;s
+Android app.</p>
+<dl class="docutils">
+<dt><strong>Stage view URL:</strong></dt>
+<dd>Using stage view gives you the ability, using a remote computer, netbook or
+smartphone, to view the live service display in a basic black and white
+format. This URL shows the address you will use in the remote browser for
+stage view.</dd>
+</dl>
+</div>
+<div class="section" id="server-settings-secure">
+<span id="secure-server"></span><h3>Server Settings - Secure</h3>
+<p>These options are identical in meaning to the ones documented in <a class="reference internal" href="#non-secure"><span>Server Settings - Non Secure</span></a>.
+The only difference is these require an SSL cetificate to provide the security.
+Instructions for creating and installing a certificate are documented in
+Generate SSL certificate <a class="reference internal" href="#ssl-config"><span>Generating and Installing a Certificate</span></a>.</p>
+<p><em>Changing from a Secure to Non Secure setup requires a restart of OpenLP.</em></p>
+</div>
+<div class="section" id="user-authentication">
+<span id="user-auth"></span><h3>User Authentication</h3>
+<p>This option allows the additional security for update functions via the web or
+android interfaces. Once the userid and password have been accepted then
+updates will be possible for duration of the web session. This option can be
+changed without the need to restart OpenLP.</p>
+</div>
+<div class="section" id="generating-and-installing-a-certificate">
+<span id="ssl-config"></span><h3>Generating and Installing a Certificate</h3>
+<p>To make the Remote access run in a secure manner ssl certificates need to be
+provided to OpenLP. This is completely optional. On Linux you will need the
+&#8220;openssl&#8221; package installed. On Mac OS X openssl should be installed by default.
+On Windows you will need to download OpenSSL for Windows.</p>
+<p>First create a configuration file for OpenSSL named openlp.cnf:</p>
+<div class="highlight-python"><div class="highlight"><pre>#-------------openssl.cnf----------------
+[ req ]
+default_bits = 1024 # Size of keys
+default_keyfile = key.pem # name of generated keys
+default_md = des3 # message digest algorithm
+string_mask = nombstr # permitted characters
+distinguished_name = req_distinguished_name
+
+[ req_distinguished_name ]
+# Variable name   Prompt string
+0.organizationName = Organization Name (company)
+organizationalUnitName = Organizational Unit Name (department, division)
+emailAddress = Email Address
+emailAddress_max = 40
+localityName = Locality Name (city, district)
+stateOrProvinceName = State or Province Name (full name)
+countryName = Country Name (2 letter code)
+countryName_min = 2
+countryName_max = 2
+commonName = Common Name (hostname, IP, or your name)
+commonName_max = 64
+
+#-------------------Edit this section------------------------------
+countryName_default = --
+stateOrProvinceName_default = None
+localityName_default = Everywhere
+0.organizationName_default = OpenLP
+organizationalUnitName_default = Remote
+commonName_default = 0.0.0.0
+emailAddress_default = openlp@localhost
+</pre></div>
+</div>
+<p>Then generate your keys and certificate:</p>
+<div class="highlight-python"><div class="highlight"><pre>echo openlp | openssl genrsa -passout stdin -des3 -out openlp.key 1024
+cp openlp.key openlp.key.bak
+echo openlp | openssl rsa -passin stdin -in openlp.key.bak -out openlp.key
+
+openssl req -new -key openlp.key -out openlp.csr -config openlp.cnf -batch
+openssl x509 -req -days 365 -in openlp.csr -signkey openlp.key -out openlp.crt
+</pre></div>
+</div>
+<p>The crt and key files need to then be placed in {data}/remotes directory.</p>
+</div>
+<div class="section" id="android-app">
+<h3>Android App</h3>
+<p>You can quickly find and download the OpenLP Android application using your
+Android device barcode scanner or by clicking on the <span class="guilabel">download</span> link.
+More details on the OpenLP Android application can be found at <a class="reference internal" href="android.html#android"><span>Android App</span></a>.</p>
+</div>
+<div class="section" id="finding-your-ip-address">
+<h3>Finding your IP address</h3>
+<p>If the Remote or Stage view URL are not showing you can manually find these
+settings. To find your projection computer&#8217;s IP address use these steps below.</p>
+<p><strong>Windows:</strong></p>
+<p>Open <em>Command Prompt</em> and type:</p>
+<div class="highlight-python"><div class="highlight"><pre>C:\Documents and Settings\user&gt;ipconfig
+</pre></div>
+</div>
+<p>Press the <code class="kbd docutils literal"><span class="pre">Enter</span></code> key and the output of your command will display the
+adapter IP address. The IP address will always have a format of xxx.xxx.xxx.xxx
+where x is one to three digits long.</p>
+<p><strong>Linux:</strong></p>
+<p>Open <em>Terminal</em> and type:</p>
+<div class="highlight-python"><div class="highlight"><pre>linux@user:~$ifconfig
+</pre></div>
+</div>
+<p>Some Linux systems will require the full path:</p>
+<div class="highlight-python"><div class="highlight"><pre>linux@user:~$/sbin/ifconfig
+</pre></div>
+</div>
+<p>Press the <code class="kbd docutils literal"><span class="pre">Enter</span></code> key. This will display a fair amount of technical
+information about your network cards. On most computers, the network card is
+named &#8220;eth0&#8221;. The IP address for your network card is just after &#8220;inet addr:&#8221; in
+the section with your network card&#8217;s name. The IP address will always have a
+format of xxx.xxx.xxx.xxx where x is one to three digits long.</p>
+<p><strong>OS X 10.6 or 10.5</strong></p>
+<p>From the Apple menu, select <span class="menuselection">System Preferences &#8227; View &#8227; Network</span>.
+In the Network preference window, click a network port (e.g., Ethernet, AirPort,
+modem). If you are connected, you&#8217;ll see its IP address under &#8220;Status:&#8221;.</p>
+<p>With these two settings written down, open a web browser in the remote computer
+and enter the IP address followed by a colon and then the port number, ie:
+192.168.1.104:4316  then press enter. You should now have access to the OpenLP
+Controller. If it does not come up, you either entered the wrong IP address,
+port number or one or both computers are not connected to the network.</p>
+</div>
+</div>
+</div>
+
+
+      </div>
+      <div class="bottomnav">
+      
+        <p>
+        «&#160;&#160;<a href="menu_items.html">Menu Items</a>
+        &#160;&#160;::&#160;&#160;
+        <a class="uplink" href="index.html">Contents</a>
+        &#160;&#160;::&#160;&#160;
+        <a href="backing_up.html">Backing up OpenLP</a>&#160;&#160;»
+        </p>
+
+      </div>
+
+    <div class="footer" role="contentinfo">
+        &copy; Copyright 2004 - 2015, Raoul Snyman.
+      Last updated on Mar 31, 2017.
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.3.3.
+    </div>
+  </body>
+</html>

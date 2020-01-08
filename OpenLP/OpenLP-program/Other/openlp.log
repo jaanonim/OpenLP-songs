@@ -1,0 +1,42 @@
+2020-01-07 22:04:22,802 openlp.core.utils.actions                               WARNING  Shortcut "" is removed from "fileExitItem" because another action already uses this shortcut.
+2020-01-07 22:04:23,262 openlp.core.utils.actions                               WARNING  Shortcut "" is removed from "settingsConfigureItem" because another action already uses this shortcut.
+2020-01-07 22:04:23,281 openlp.core.utils.actions                               WARNING  Shortcut "F1" is removed from "onlineHelpItem" because another action already uses this shortcut.
+2020-01-07 22:04:31,001 openlp.plugins.presentations.lib.impresscontroller      WARNING  Failed to get COM service manager. Impress Controller has been disabled
+2020-01-07 22:04:35,123 openlp.core.utils.__init__                              ERROR    Failed to download the latest OpenLP version file
+Traceback (most recent call last):
+  File "urllib\request.py", line 1183, in do_open
+  File "http\client.py", line 1137, in request
+  File "http\client.py", line 1182, in _send_request
+  File "http\client.py", line 1133, in endheaders
+  File "http\client.py", line 963, in _send_output
+  File "http\client.py", line 898, in send
+  File "http\client.py", line 871, in connect
+  File "socket.py", line 498, in create_connection
+  File "socket.py", line 537, in getaddrinfo
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "openlp\core\utils\__init__.py", line 257, in check_latest_version
+  File "urllib\request.py", line 161, in urlopen
+  File "urllib\request.py", line 464, in open
+  File "urllib\request.py", line 482, in _open
+  File "urllib\request.py", line 442, in _call_chain
+  File "urllib\request.py", line 1211, in http_open
+  File "urllib\request.py", line 1185, in do_open
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+2020-01-07 22:05:13,535 openlp.plugins.songs.lib.importers.openoffice           ERROR    start_ooo_process failed
+Traceback (most recent call last):
+  File "site-packages\win32com\client\dynamic.py", line 89, in _GetGoodDispatch
+pywintypes.com_error: (-2147221005, 'Nieprawidłowy ciąg klasy.', None, None)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "openlp\plugins\songs\lib\importers\openoffice.py", line 132, in start_ooo_process
+  File "site-packages\win32com\client\__init__.py", line 95, in Dispatch
+  File "site-packages\win32com\client\dynamic.py", line 114, in _GetGoodDispatchAndUserName
+  File "site-packages\win32com\client\dynamic.py", line 91, in _GetGoodDispatch
+pywintypes.com_error: (-2147221005, 'Nieprawidłowy ciąg klasy.', None, None)
+2020-01-07 22:05:13,538 openlp.plugins.songs.lib.importers.openoffice           ERROR    'OpenOfficeImport' object has no attribute 'ooo_manager'
