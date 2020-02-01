@@ -1,0 +1,12 @@
+<time>
+</time>
+<title>
+</title>
+<lyrics>
+</lyrics>
+[
+]
+<br/>
+C:\xmlInterpreter\read
+C:\xmlInterpreter\save
+ 1234567890/

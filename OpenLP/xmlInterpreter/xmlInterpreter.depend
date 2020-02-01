@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1579356895 source:c:\users\mati\desktop\xmlinterpreter\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<string>
+	<time.h>
+	<dirent.h>
+	<sys/types.h>
+
+1578493370 source:d:\moje pliki\tajne\xmlinterpreter\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<string>
+	<time.h>
+
