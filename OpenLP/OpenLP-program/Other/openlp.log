@@ -1,4 +1,19 @@
-2020-01-13 22:11:56,098 openlp.core.utils.actions                               WARNING  Shortcut "" is removed from "fileExitItem" because another action already uses this shortcut.
-2020-01-13 22:11:56,170 openlp.core.utils.actions                               WARNING  Shortcut "" is removed from "settingsConfigureItem" because another action already uses this shortcut.
-2020-01-13 22:11:56,190 openlp.core.utils.actions                               WARNING  Shortcut "F1" is removed from "onlineHelpItem" because another action already uses this shortcut.
-2020-01-13 22:11:58,990 openlp.plugins.presentations.lib.impresscontroller      WARNING  Failed to get COM service manager. Impress Controller has been disabled
+2020-03-01 19:34:01,276 openlp.core.utils.actions                               WARNING  Shortcut "" is removed from "fileExitItem" because another action already uses this shortcut.
+2020-03-01 19:34:01,752 openlp.core.utils.actions                               WARNING  Shortcut "" is removed from "settingsConfigureItem" because another action already uses this shortcut.
+2020-03-01 19:34:01,769 openlp.core.utils.actions                               WARNING  Shortcut "F1" is removed from "onlineHelpItem" because another action already uses this shortcut.
+2020-03-01 19:34:10,350 openlp.plugins.presentations.lib.impresscontroller      WARNING  Failed to get COM service manager. Impress Controller has been disabled
+2020-03-01 19:34:19,210 openlp.core.utils.__init__                              ERROR    Failed to download the latest OpenLP version file
+Traceback (most recent call last):
+  File "openlp\core\utils\__init__.py", line 257, in check_latest_version
+  File "urllib\request.py", line 161, in urlopen
+  File "urllib\request.py", line 470, in open
+  File "urllib\request.py", line 580, in http_response
+  File "urllib\request.py", line 502, in error
+  File "urllib\request.py", line 442, in _call_chain
+  File "urllib\request.py", line 685, in http_error_302
+  File "urllib\request.py", line 470, in open
+  File "urllib\request.py", line 580, in http_response
+  File "urllib\request.py", line 508, in error
+  File "urllib\request.py", line 442, in _call_chain
+  File "urllib\request.py", line 588, in http_error_default
+urllib.error.HTTPError: HTTP Error 404: Not Found
