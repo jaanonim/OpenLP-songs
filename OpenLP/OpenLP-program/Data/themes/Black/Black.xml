@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <theme version="2.0">
-    <name>Blue Burst</name>
-    <background type="image">
-        <filename>BlueBurst.jpg</filename>
-        <borderColor>#000000</borderColor>
+    <name>Black</name>
+    <background type="solid">
+        <color>#000000</color>
     </background>
     <font type="main">
-        <name>MS Shell Dlg 2</name>
+        <name>Arial</name>
         <color>#FFFFFF</color>
         <size>39</size>
-        <bold>False</bold>
+        <bold>True</bold>
         <italics>False</italics>
         <line_adjustment>0</line_adjustment>
-        <location height="690" override="False" width="1004" x="10" y="10"/>
-        <shadow shadowColor="#000000" shadowSize="2">True</shadow>
+        <location height="945" override="False" width="1660" x="10" y="0"/>
+        <shadow shadowColor="#000000" shadowSize="5">True</shadow>
         <outline outlineColor="#000000" outlineSize="2">False</outline>
     </font>
     <font type="footer">
-        <name>MS Shell Dlg 2</name>
-        <color>#FFFFFF</color>
+        <name>Arial</name>
+        <color>#000000</color>
         <size>12</size>
         <bold>False</bold>
         <italics>False</italics>
         <line_adjustment>0</line_adjustment>
-        <location height="78" override="False" width="1004" x="10" y="690"/>
+        <location height="105" override="False" width="1660" x="10" y="945"/>
         <shadow shadowColor="#000000" shadowSize="5">True</shadow>
         <outline outlineColor="#000000" outlineSize="2">False</outline>
     </font>

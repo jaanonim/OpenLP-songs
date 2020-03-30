@@ -1,8 +1,8 @@
-2020-03-01 19:34:01,276 openlp.core.utils.actions                               WARNING  Shortcut "" is removed from "fileExitItem" because another action already uses this shortcut.
-2020-03-01 19:34:01,752 openlp.core.utils.actions                               WARNING  Shortcut "" is removed from "settingsConfigureItem" because another action already uses this shortcut.
-2020-03-01 19:34:01,769 openlp.core.utils.actions                               WARNING  Shortcut "F1" is removed from "onlineHelpItem" because another action already uses this shortcut.
-2020-03-01 19:34:10,350 openlp.plugins.presentations.lib.impresscontroller      WARNING  Failed to get COM service manager. Impress Controller has been disabled
-2020-03-01 19:34:19,210 openlp.core.utils.__init__                              ERROR    Failed to download the latest OpenLP version file
+2020-03-27 20:21:45,337 openlp.core.utils.actions                               WARNING  Shortcut "" is removed from "fileExitItem" because another action already uses this shortcut.
+2020-03-27 20:21:45,804 openlp.core.utils.actions                               WARNING  Shortcut "" is removed from "settingsConfigureItem" because another action already uses this shortcut.
+2020-03-27 20:21:45,821 openlp.core.utils.actions                               WARNING  Shortcut "F1" is removed from "onlineHelpItem" because another action already uses this shortcut.
+2020-03-27 20:22:03,852 openlp.plugins.presentations.lib.impresscontroller      WARNING  Failed to get COM service manager. Impress Controller has been disabled
+2020-03-27 20:22:12,002 openlp.core.utils.__init__                              ERROR    Failed to download the latest OpenLP version file
 Traceback (most recent call last):
   File "openlp\core\utils\__init__.py", line 257, in check_latest_version
   File "urllib\request.py", line 161, in urlopen
@@ -17,3 +17,75 @@ Traceback (most recent call last):
   File "urllib\request.py", line 442, in _call_chain
   File "urllib\request.py", line 588, in http_error_default
 urllib.error.HTTPError: HTTP Error 404: Not Found
+2020-03-27 20:32:12,320 openlp.core.common.registry                             ERROR    OpenLP Error trace
+   File <string> at line 44 
+	 called None
+   File openlp\core\__init__.py at line 437 
+	 called None
+   File openlp\core\__init__.py at line 162 
+	 called None
+   File openlp\core\__init__.py at line 92 
+	 called None
+   File openlp\core\ui\slidecontroller.py at line 980 
+	 called None
+   File openlp\core\ui\slidecontroller.py at line 1037 
+	 called None
+   File openlp\core\common\registry.py at line 145 
+	 called None
+   File openlp\core\common\__init__.py at line 52 
+	 called None
+2020-03-27 20:32:12,320 openlp.core.common.registry                             ERROR    Event songs_blank called but not registered
+2020-03-27 20:32:20,184 openlp.core.common.registry                             ERROR    OpenLP Error trace
+   File <string> at line 44 
+	 called None
+   File openlp\core\__init__.py at line 437 
+	 called None
+   File openlp\core\__init__.py at line 162 
+	 called None
+   File openlp\core\__init__.py at line 92 
+	 called None
+   File openlp\core\ui\slidecontroller.py at line 980 
+	 called None
+   File openlp\core\ui\slidecontroller.py at line 1037 
+	 called None
+   File openlp\core\common\registry.py at line 145 
+	 called None
+   File openlp\core\common\__init__.py at line 52 
+	 called None
+2020-03-27 20:32:20,184 openlp.core.common.registry                             ERROR    Event songs_blank called but not registered
+2020-03-27 20:33:44,687 openlp.core.common.registry                             ERROR    OpenLP Error trace
+   File <string> at line 44 
+	 called None
+   File openlp\core\__init__.py at line 437 
+	 called None
+   File openlp\core\__init__.py at line 162 
+	 called None
+   File openlp\core\__init__.py at line 92 
+	 called None
+   File openlp\core\ui\slidecontroller.py at line 980 
+	 called None
+   File openlp\core\ui\slidecontroller.py at line 1037 
+	 called None
+   File openlp\core\common\registry.py at line 145 
+	 called None
+   File openlp\core\common\__init__.py at line 52 
+	 called None
+2020-03-27 20:33:44,688 openlp.core.common.registry                             ERROR    Event songs_blank called but not registered
+2020-03-27 20:44:41,242 openlp.core.common.registry                             ERROR    OpenLP Error trace
+   File <string> at line 44 
+	 called None
+   File openlp\core\__init__.py at line 437 
+	 called None
+   File openlp\core\__init__.py at line 162 
+	 called None
+   File openlp\core\__init__.py at line 92 
+	 called None
+   File openlp\core\ui\slidecontroller.py at line 1001 
+	 called None
+   File openlp\core\ui\slidecontroller.py at line 1037 
+	 called None
+   File openlp\core\common\registry.py at line 145 
+	 called None
+   File openlp\core\common\__init__.py at line 52 
+	 called None
+2020-03-27 20:44:41,242 openlp.core.common.registry                             ERROR    Event songs_blank called but not registered
