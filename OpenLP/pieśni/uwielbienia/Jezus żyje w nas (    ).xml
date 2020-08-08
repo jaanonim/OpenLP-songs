@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-08-04T17:43:44">
+  <properties>
+    <titles>
+      <title>Jezus żyje w nas</title>
+    </titles>
+    <authors>
+      <author>    </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Budze się, wiedząc, po co żyje<br/>Każdy sen spełnia się<br/>To z Tobą przez życie chce iść<br/>To moja decyzja</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Podnosisz mnie, pokazujesz cuda<br/>W miłości Twej znika czas<br/>Twa wolność jest tutaj, jest w nas<br/>Jej nic nie dorówna</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Widzę, jak słońca blask rozjaśnia świat<br/>Czerń i biel kolorowe staja się<br/>Widze, że z Boiem wszystko nowe jest</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jezus żyje w nas</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ufam Ci, wiem, że jesteś blisko<br/>Mając Cię, wszystko mam<br/>Ty dałeś mi miłość i cel<br/>To właśnie dla Ciebie żyć chce</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Prowaź mnie tam, gdzie nie był nikt<br/>Twoja miłość sprawia, że chce żyć<br/>Twoja wolność to otwarte drzwi<br/>Ty przerastasz me najśmielsze sny</lines>
+    </verse>
+  </lyrics>
+</song>
