@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-08-07T17:44:45">
+  <properties>
+    <titles>
+      <title>Na zawsze</title>
+    </titles>
+    <authors>
+      <author>    </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szlochało niebo gwiazd<br/>Pociemniał słońca blask<br/>Zbawiciel świata zmarł niewinnie<br/>Na krzyżu jego krew<br/>Przelana za nasz grzech<br/>Czuł ciężar wszystkich win na sobie</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ostatni oddech wziął<br/>Gdy Bóg odwrócił wzrok<br/>Syn Boży znalazł się w ciemności<br/>Ze śmiercią stoczył bój<br/>Zostawił pusty grób<br/>Pokonał piekła moc, na zawsze</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Zaczęła ziemia drżeć<br/>Głaz odrzucony jest<br/>Nie mogło zniszczyć nic miłości tej<br/>O, śmierci gdzie twa moc<br/>Król chwały objął tron<br/>On odniósł już zwycięstwo</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Na zawsze On jest godzien chwał<br/>Na zawsze On to nieba pan<br/>Na zawsze On już żyje<br/>On z martwych wstał/x2</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Śpiewam alleluja/x3<br/>Baranek Królem jest.</lines>
+    </verse>
+  </lyrics>
+</song>
