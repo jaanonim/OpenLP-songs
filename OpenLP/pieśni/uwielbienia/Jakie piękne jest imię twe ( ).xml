@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-08-27T08:45:53">
+  <properties>
+    <titles>
+      <title>Jakie piękne jest imię twe</title>
+    </titles>
+    <authors>
+      <author> </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ty na początku byłeś Słowem<br/>Tam, gdzie sam Najwyższy Pan<br/>Swą chwałę ukrył w tym, co stworzył<br/>Lecz objawił Ciebie nam</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jakie piękne jest imię Twe<br/>Jakie piękne jest imię Twe<br/>Twe imię, Jezu, Królu nasz<br/>Jakie piękne jest imię Twe<br/>I nic z nim nie równa się<br/>Jakie piękne jest imię Twe<br/>Twe imię, Jezu</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie chciałeś mieszkać w niebie bez nas<br/>Więc przyniosłeś niebo tu<br/>Twa miłość, Jezu, jest największa<br/>Nic nas nie rozłączy już</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Jak cudowne jest imię Twe<br/>Jak cudowne jest imię Twe<br/>Twe imię, Jezu, Królu nasz<br/>Jak cudowne jest imię Twe<br/>Nic z nim nie równa się<br/>Jak cudowne jest imię Twe<br/>Twe imię, Jezu<br/>Jak cudowne jest imię Twe<br/>Twe imię, Jezu</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Śmierć pokonana, zasłona rozdarta<br/>Zamilkł już grzech i zamilkł grób<br/>Głośno grzmi niebo, chwałę Twą wielbiąc<br/>Bo z martwych wstał nasz Pan i Bóg<br/>Ty nie masz rywala, sobie równego<br/>Na zawsze rządzisz w mocy swej<br/>Twoja jest chwała i Twoje królestwo<br/>A imię Twe najwyższe jest</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Jak potężne jest imię Twe<br/>Jak potężne jest imię Twe<br/>Twe imię, Jezu, Królu nasz<br/>Jak potężne jest imię Twe<br/>I nic z nim nie równa się<br/>Jak potężne jest imię Twe<br/>Twe imię, Jezu</lines>
+    </verse>
+  </lyrics>
+</song>
