@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-08-27T08:58:22">
+  <properties>
+    <titles>
+      <title>Pragnę Ciebie</title>
+      <title>I surrender</title>
+    </titles>
+    <authors>
+      <author> </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jestem tu, kolana dziś zginam swe<br/>Oddaje Ci, wszystko co mam<br/>Znajdź mnie i za sobą pociągnij, bo<br/>Pragnę byś blisko mine był<br/><br/>Pragnę Ciebie ...</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W łasce Swej i miłosierdziu Twym<br/>Zanrz dziś duszę mą<br/>Ramiona Twe szeroko otwarte są<br/>Słyszysz mój krzyk, mów do mine dziś</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wszystko Tobie oddać pragnę<br/>By poznać bliżej Cię<br/>Chcę poznać bliżej Cię</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Jak ożywczy wiatr<br/>Jezu we mnie tchnij<br/>czyń wolę swą,<br/>czyń wolę swą w życiu mym<br/>porusz dusze mą jak potężny sztorm<br/>czyń wolę swą,<br/>czyń wolę swą w życiu mym</lines>
+    </verse>
+  </lyrics>
+</song>
