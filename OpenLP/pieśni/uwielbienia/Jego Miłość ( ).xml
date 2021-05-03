@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-05-03T14:27:25">
+  <properties>
+    <titles>
+      <title>Jego Miłość</title>
+    </titles>
+    <authors>
+      <author> </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jego miłość zakrywa grzech<br/>Ona nie pamięta złego<br/>Jego krew największy dar<br/>Dla każdego<br/>Jego imię potężna moc<br/>Jezus drogą prawdą życiem<br/>Emanuel Bóg jest pośród nas<br/>Odkupiciel</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bóg w łasce swej do nas zniżył się <br/>Pozostawił chwałę nieba<br/>Jezus wycierpiał każdy trud<br/>Żebyś żył i już się nie bał</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Tylko Tobie należy się chwała<br/>Tylko Tobie należy się cześć<br/>Tylko Tobie będziemy się kłaniać<br/>Jezu!</lines>
+    </verse>
+  </lyrics>
+</song>
