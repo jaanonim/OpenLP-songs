@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-07-29T13:13:01">
+  <properties>
+    <titles>
+      <title>Wznoszę Alleluja</title>
+    </titles>
+    <authors>
+      <author> </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wznoszę Alleluja w obecności nieprzyjaciół mych<br/>Wznoszę Alleluja, uciszę tym niewiary krzyk<br/>Wznoszę Alleluja, ta melodia moją bronią jest<br/>Wznoszę Alleluja, niebo walczy zamiast mnie</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Śpiewam tę pieśń, kiedy dookoła sztorm<br/>Głośniej i groźniej niech uwielbienia zabrzmi ton<br/>Z prochów nadzieja powstaje znów<br/>Śmierć pokonana, na wieki żyje Król</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wznoszę Alleluja, kiedy trudnych pytań tyle wciąż<br/>Wznoszę Alleluja, zobaczę, jak ucieka mrok<br/>Wznoszę Alleluja, wszystko we mnie wielbi Cię<br/>Wznoszę Alleluja, strach już nie zatrzyma mnie</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Śpiewam jeszcze głośniej<br/>W obecności nieprzyjaciół mych<br/>Śpiewam jeszcze głośniej<br/>Uciszę tym niewiary krzyk<br/>Śpiewam jeszcze głośniej<br/>Ta melodia moją bronią jest<br/>Śpiewam jeszcze głośniej<br/>Niebo walczy zamiast mnie</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Śpiewam Alleluja</lines>
+    </verse>
+  </lyrics>
+</song>
