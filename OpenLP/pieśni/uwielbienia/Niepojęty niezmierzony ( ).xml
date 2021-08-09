@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-08-06T07:59:16">
+  <properties>
+    <titles>
+      <title>Niepojęty niezmierzony</title>
+    </titles>
+    <authors>
+      <author> </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z głębokości mórz aż po szczyty gór<br/>Stworzenie objawia majestat Twój<br/>Od kolorów jesieni, po wiosenny nurt<br/>Wszystko śpiewa Ci pieść<br/>Pełną cudownych słów<br/>Ogłaszając<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Niepojęty niezmierzony<br/>Gwiazdy stworzyłeś na niebie<br/>I każdą z nich znasz<br/>Wspaniałym Bogiem Tyś jest</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Wszechmogący nieskończony<br/>W zachwycie klękamy przed Tobą<br/>by wyznać Ci, że<br/>Wspaniałym Bogiem tyś jest</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kto uwalnia moc błyskawic w czasie burz<br/>Kto maluje kolory polarnych zórz<br/>Słońce stworzył na niebie i dał mu swą moc<br/>Orzeźwienie przynosi w gwieździstą noc<br/>Tylko Ty</lines>
+    </verse>
+  </lyrics>
+</song>

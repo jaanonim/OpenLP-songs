@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-08-06T16:49:28">
+  <properties>
+    <titles>
+      <title>To jest nasz Bóg</title>
+    </titles>
+    <authors>
+      <author> </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wystarczy mi, że<br/>Mam łaskę Twą<br/>Tobie ufam, znam Twój głos<br/>Bądź blisko mnie<br/>Ty do mnie mów<br/>Niech odnawia mnie Twój Duch</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I klękam u Twoich stóp<br/>Klękam u Twoich stóp<br/>I będę wielbić Cię tu</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chcę drogą Twą iść<br/>Jezu, prowadź mnie<br/>Pragnę obecności Twej<br/>Zmieniła mnie<br/>Moc Twoich słów<br/>I uwolnił mnie Twój Duch</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Ty za nas oddałeś życie swe<br/>Na krzyżu przelałeś swoją krew<br/>Miłość jak ta<br/>Twe imię ma<br/>To jest nasz Bóg</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Zwyciężył nad śmiercią, żyje dziś<br/>Na zawsze nasz Bóg jest godzien czci<br/>Sługa i Król <br/>Zbawił ten świat<br/>To jest nasz Bóg</lines>
+    </verse>
+  </lyrics>
+</song>

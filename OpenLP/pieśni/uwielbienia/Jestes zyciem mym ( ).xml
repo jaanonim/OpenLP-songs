@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-08-06T08:04:55">
+  <properties>
+    <titles>
+      <title>Jestes zyciem mym</title>
+    </titles>
+    <authors>
+      <author> </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesteś życiem mym, więc każdy ruch<br/>robię w Tobie Jezu Ty pozwalasz wciąż<br/>oddychać mi<br/>Jesteś drogą mą, więc każdy krok<br/>stawiam w Tobie Jezu Ty pozwalasz wciąż<br/>oddychać mi</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Fale Twojej łaski Panie <br/>Gdzie nie spojrze tam<br/>wciąż widzę Cię<br/>Twa miłość mnie uwiodła<br/>Jezu jakże, to możliwe jest<br/>Nananana....</lines>
+    </verse>
+  </lyrics>
+</song>

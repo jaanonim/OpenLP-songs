@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-08-05T07:26:02">
+  <properties>
+    <titles>
+      <title>Uwielbiam twoje imię Panie</title>
+    </titles>
+    <authors>
+      <author> </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uwielbiam imię twoje Panie<br/>Wywyższam Cię i daję Ci hołd<br/>W przedsionku chwały Twej staję<br/>Z radością śpiewam ci pieśń</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Panie Jezu chce wyznać, że <br/>Ja kocham Ciebie, Ty zmieniasz mnie<br/>Chcę ci dziękować dziś ze wszystkich sił<br/>Dajesz mi siebie, bym na wieki żył</lines>
+    </verse>
+  </lyrics>
+</song>

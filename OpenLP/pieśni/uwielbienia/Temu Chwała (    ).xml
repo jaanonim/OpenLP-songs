@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-08-16T16:34:40">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-08-06T16:56:35">
   <properties>
     <titles>
       <title>Temu Chwała</title>
@@ -13,9 +13,9 @@
       <lines>Temu, który trzyma w ręku siedem gwiazd<br/>Z jego ust wychodzi ostry miecz <br/>Temu, który lśni jak pełni słońca blask <br/>Był umarły, a zwycięzcą jest</lines>
     </verse>
     <verse name="v2">
-      <lines>Temu, który płomień ognia w oczach ma<br/>Jego głos jak szum potężnych wód<br/>Temu, który trzyma klucz do śmierci drzwi<br/>Gdy je zamknie nie otworzy nikt</lines>
+      <lines>Temu, który płomień ognia w oczach ma<br/>Jego głos jak szum potężnych wód<br/>Temu, który trzyma klucz do śmierci bram<br/>Gdy je zamknie nie otworzy nikt</lines>
     </verse>
-    <verse name="v3">
+    <verse name="c1">
       <lines>Temu chwała, chwała<br/>Który był i jest i przyjdzie znów<br/>Jezusowi chwała<br/>Swoją krwią On nabył Ojcu lud</lines>
     </verse>
   </lyrics>

@@ -1,8 +1,8 @@
-2021-07-29 15:11:10,113 openlp.core.utils.actions                               WARNING  Shortcut "" is removed from "fileExitItem" because another action already uses this shortcut.
-2021-07-29 15:11:10,810 openlp.core.utils.actions                               WARNING  Shortcut "" is removed from "settingsConfigureItem" because another action already uses this shortcut.
-2021-07-29 15:11:10,828 openlp.core.utils.actions                               WARNING  Shortcut "F1" is removed from "onlineHelpItem" because another action already uses this shortcut.
-2021-07-29 15:11:15,041 openlp.plugins.presentations.lib.impresscontroller      WARNING  Failed to get COM service manager. Impress Controller has been disabled
-2021-07-29 15:11:29,338 openlp.core.utils.__init__                              ERROR    Failed to download the latest OpenLP version file
+2021-08-09 12:13:07,610 openlp.core.utils.actions                               WARNING  Shortcut "" is removed from "fileExitItem" because another action already uses this shortcut.
+2021-08-09 12:13:08,098 openlp.core.utils.actions                               WARNING  Shortcut "" is removed from "settingsConfigureItem" because another action already uses this shortcut.
+2021-08-09 12:13:08,114 openlp.core.utils.actions                               WARNING  Shortcut "F1" is removed from "onlineHelpItem" because another action already uses this shortcut.
+2021-08-09 12:13:10,855 openlp.plugins.presentations.lib.impresscontroller      WARNING  Failed to get COM service manager. Impress Controller has been disabled
+2021-08-09 12:13:19,956 openlp.core.utils.__init__                              ERROR    Failed to download the latest OpenLP version file
 Traceback (most recent call last):
   File "openlp\core\utils\__init__.py", line 257, in check_latest_version
   File "urllib\request.py", line 161, in urlopen

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-08-06T19:17:38">
+  <properties>
+    <titles>
+      <title>Duchu świety przyjdź i rozpal nas</title>
+    </titles>
+    <authors>
+      <author>    </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przyjdź i rozpal nas i utul nas, miłość nam daj</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O przyjdź napełnij nas rozraduj nas miłość nam daj</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O przyjdź i utul nas rozkochaj nas miłość nam daj</lines>
+    </verse>
+  </lyrics>
+</song>

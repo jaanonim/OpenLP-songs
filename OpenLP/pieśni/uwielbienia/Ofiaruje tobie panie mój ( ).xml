@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-08-07T15:44:22">
+  <properties>
+    <titles>
+      <title>Ofiaruje tobie panie mój</title>
+    </titles>
+    <authors>
+      <author> </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ofiaruje Tobie Panie mój<br/>Całe życie me, cały jestem twój<br/>aż na wieki<br/>Oto moje serce przecież wiesz<br/>Tyś miłością mą jedyną jest</lines>
+    </verse>
+  </lyrics>
+</song>
