@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-10-24T08:57:01">
+  <properties>
+    <titles>
+      <title>Krzycz na cześć Pana</title>
+    </titles>
+    <authors>
+      <author> </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mój Jezu, mój Zbawco, <br/>Któż jest tak wielki jak Ty? <br/>Przez wszystkie dni, <br/>Wysławiać chcę wspaniałe dzieła Twoich rąk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mój Panie, Obrońco, <br/>Źródło mych natchnień i sił, <br/>Niech cały świat, <br/>Wszystko co jest, <br/>Zawsze wielbi Imię Twe.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Krzycz na cześć Pana, rozraduj się w Nim,<br/>Ogłaszaj wszędzie, że On Panem jest! <br/>Góry ustąpią na dźwięk Jego słów, <br/>Gdy przemówi Stwórca ziem.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Patrzę z podziwem na dzieła Twych rąk <br/>Zawsze chcę kochać Cię, przy Tobie być, <br/>Co może równać się z tym co u Ciebie mam?</lines>
+    </verse>
+  </lyrics>
+</song>
