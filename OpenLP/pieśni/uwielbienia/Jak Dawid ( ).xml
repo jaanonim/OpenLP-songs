@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-06T14:20:55">
+  <properties>
+    <titles>
+      <title>Jak Dawid</title>
+    </titles>
+    <authors>
+      <author> </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak Dawid, kiedy przed Bogiem był,<br/>Będę tańczył ze wszystkich sił<br/>Przed Panem Królem mym.<br/>Jak Miriam grała na bębnie swym<br/>Będę klaskać ze wszystkich sił,<br/>Przed Panem Królem mym.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pokłońmy się przed Bogiem<br/>Oddajmy Jemu cześć.<br/>Wielbijmy Imię Jezus,<br/>Śpiewajmy Panu pieśń.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jak Judajczycy przed bitwą swą<br/>Zawierzmy Panu i chwalmy Go<br/>Pobity będzie wróg.<br/>Jak Jozue wznieśmy bojową pieśń<br/>Oddajmy Panu chwałę cześć<br/>A wróg ucieknie wnet.</lines>
+    </verse>
+  </lyrics>
+</song>
