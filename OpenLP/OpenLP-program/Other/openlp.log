@@ -1,4 +1,34 @@
-2021-11-06 15:21:54,892 openlp.core.utils.actions                               WARNING  Shortcut "" is removed from "fileExitItem" because another action already uses this shortcut.
-2021-11-06 15:21:54,948 openlp.core.utils.actions                               WARNING  Shortcut "" is removed from "settingsConfigureItem" because another action already uses this shortcut.
-2021-11-06 15:21:54,963 openlp.core.utils.actions                               WARNING  Shortcut "F1" is removed from "onlineHelpItem" because another action already uses this shortcut.
-2021-11-06 15:21:56,883 openlp.plugins.presentations.lib.impresscontroller      WARNING  Failed to get COM service manager. Impress Controller has been disabled
+2021-11-12 16:03:55,264 openlp.core.utils.actions                               WARNING  Shortcut "" is removed from "fileExitItem" because another action already uses this shortcut.
+2021-11-12 16:03:55,361 openlp.core.utils.actions                               WARNING  Shortcut "" is removed from "settingsConfigureItem" because another action already uses this shortcut.
+2021-11-12 16:03:55,381 openlp.core.utils.actions                               WARNING  Shortcut "F1" is removed from "onlineHelpItem" because another action already uses this shortcut.
+2021-11-12 16:04:01,926 openlp.plugins.presentations.lib.impresscontroller      WARNING  Failed to get COM service manager. Impress Controller has been disabled
+2021-11-12 16:04:09,558 openlp.core.utils.__init__                              ERROR    Failed to download the latest OpenLP version file
+Traceback (most recent call last):
+  File "urllib\request.py", line 1183, in do_open
+  File "http\client.py", line 1137, in request
+  File "http\client.py", line 1182, in _send_request
+  File "http\client.py", line 1133, in endheaders
+  File "http\client.py", line 963, in _send_output
+  File "http\client.py", line 898, in send
+  File "http\client.py", line 1287, in connect
+  File "ssl.py", line 362, in wrap_socket
+  File "ssl.py", line 580, in __init__
+  File "ssl.py", line 807, in do_handshake
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:600)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "openlp\core\utils\__init__.py", line 257, in check_latest_version
+  File "urllib\request.py", line 161, in urlopen
+  File "urllib\request.py", line 470, in open
+  File "urllib\request.py", line 580, in http_response
+  File "urllib\request.py", line 502, in error
+  File "urllib\request.py", line 442, in _call_chain
+  File "urllib\request.py", line 685, in http_error_302
+  File "urllib\request.py", line 464, in open
+  File "urllib\request.py", line 482, in _open
+  File "urllib\request.py", line 442, in _call_chain
+  File "urllib\request.py", line 1226, in https_open
+  File "urllib\request.py", line 1185, in do_open
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:600)>
