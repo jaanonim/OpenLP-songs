@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:44">
+  <properties>
+    <titles>
+      <title>Prócz liści nic!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="267"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Prócz liści nic! Ach, marny plon! Patrz, Zbawca roni łzy!<br/>Tak cię gorąco kochał On, dla ciebie zniósł męczeński zgon.<br/>Cóż Mu przynosisz ty? Prócz liści nic! Prócz liści nic!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Prócz liści nic! A owoc gdzie, coś w życiu przynieść miał?<br/>Cierpliwość Pańska kończy się, i wkrótce Bóg potępi cię,<br/>gdy będziesz przed Nim stał, nie mając nic. Prócz liści nic!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Prócz liści nic! I wstyd, i strach! Tak szybko życie mknie.<br/>Zburzyłeś szczęścia swego gmach<br/>i będziesz wieczność spędzać w łzach.<br/>Gdzież korzyść pytam się. Prócz liści nic! Prócz liści nic!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Prócz liści nic! W niewierze trwasz. Ach, uwierz, człeku zły!<br/>Gdy nie uwierzysz, dobrze zważ, usłyszeć straszny wyrok masz:<br/>Idź precz ode Mnie ty! Prócz liści nic! Prócz liści nic!</lines>
+    </verse>
+  </lyrics>
+</song>

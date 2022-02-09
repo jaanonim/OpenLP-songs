@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:47">
+  <properties>
+    <titles>
+      <title>Śmiało zwycięską chorągiew podnieśmy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="534"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Śmiało zwycięską chorągiew podnieśmy,<br/>Nawet choć burzy zagraża nam grom,<br/>I na Jezusa wzrok duszy swej wznieśmy,<br/>A On w ojcowski wprowadzi nas dom</lines>
+    </verse>
+    <verse name="c1">
+      <lines>W ślad za Jezusem, wciąż bez wytchnienia,<br/>Kroczmy przez szczęście i trud!<br/>W ślad za Jezusem to cel istnienia,<br/>Aż wejdziem z Nim w niebios gród.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeśli cierpieniem doświadcza Bóg wiarę,<br/>Z cichym poddaniem przyjmijmy swój krzyż,<br/>I spoglądając na Zbawcy ofiarę<br/>Śmiało z Jezusem zdążajmy wciąż wzwyż!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pan nas powołał, więc mężnie, wytrwale,<br/>Śpieszmy do celu, Bóg doda nam sił;<br/>Potem cudownie nagrodzi w Swej chwale.<br/>Tego, kto wiernie dla Niego tu żył.</lines>
+    </verse>
+  </lyrics>
+</song>

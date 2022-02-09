@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:31">
+  <properties>
+    <titles>
+      <title>Mała łódka drży</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="27"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mała łódka drży na grzbiecie rozszalałych fal,<br/>wśród skał ostrych groźne wichry gdzieś ją pędzą w dal.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hej, odwagi, bracia,<br/>Zbawca widzi nas, woła ku nam:<br/>Jam jest z wami,<br/>choć straszny jest burzliwy czas.<br/>Tak jestem z wami po wsze czasy,<br/>pomogę wam, ocalę was.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Drży załoga trwogą zdjęta, pozbawiona sił, woła,<br/>by ją Pan przed mocą złych żywiołów skrył.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na żywota ocenie, w chwilach groźnych burz,<br/>dniem i nocą czuwa Zbawca, czuwa wierny Stróż.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy na morzu życia błądzisz, wiedz, że Chrystus Pan,<br/>przyszedł, aby cię wprowadzić do niebieskich bram.</lines>
+    </verse>
+  </lyrics>
+</song>

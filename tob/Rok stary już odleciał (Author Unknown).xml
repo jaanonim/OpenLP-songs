@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:54">
+  <properties>
+    <titles>
+      <title>Rok stary już odleciał</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="464"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rok stary już odleciał, zgasł, już się położył w grobie.<br/>I tak odejdzie każdy z nas - tę prawdę rozważ sobie!<br/>O, gdyby każdy życia rok owoce Panu przynieść mógł!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lecz gdzie owoce z winnych gron i z figowego drzewa?<br/>Uderzy wnet żałośnie dzwon,na wieczność ci zaśpiewa.<br/>Pan nieraz chciał po owoc przyjść, a znalazł zawsze tylko liść.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>„Niedobre drzewo, zetnę cię! - tak Bóg przemawia w gniewie- „Owoców nie doczekam się, więc cóż mi po tym drzewie?<br/>Już topór przy korzeniu twym, gdy skinę, legniesz w prochu swym".</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lecz Zbawca prosi: „Zostaw je, bo może się odmieni,<br/>na przyszły rok gałęzie swe owocem zarumieni.<br/>Ach, pozwól mu choć przez ten rok Twej<br/>łaski jeszcze czerpać sok!''</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O, Panie, w Nowym Roku chcę owoce przynieść Ducha!<br/>Nie może bez owocu być, kto Twego głosu słucha.<br/>Na serca nasze łaskę zlej, by wciąż się pomnażały w niej!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:03">
+  <properties>
+    <titles>
+      <title>Niedzielna szkółka milsza mi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="835"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niedzielna szkółka milsza mi,<br/>Niżeli złota blask,<br/>O, chodź i zobacz, mówię ci,<br/>W niej doznasz Bożych łask!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ O szkółko ma, o szkółko ma, /x2<br/>Tyś milszą mi nad złota blask,<br/>O, droga szkółko ma.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tam miłym głosem Jezus zwie:<br/>Chodź dziecię i bądź Me!<br/>Z twych grzechów oswobodzę cię,<br/>Ach, daj Mi serce twe!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Znalazłem tam zbawienie me<br/>Z nikczemnych grzechów swych;<br/>W Jezusie mym zna¬lazłem je,<br/>On Sam mię zwolnił z nich.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A czym tyś dla mnie była raz,<br/>Dla drugich będziesz też!<br/>Przez Zbawcę, który woła nas<br/>I mówi: „Tylko wierz!"</lines>
+    </verse>
+  </lyrics>
+</song>

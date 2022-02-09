@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:47">
+  <properties>
+    <titles>
+      <title>Z pieśnią idźcie w bój</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="330"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z pieśnią idźcie w bój, poprzez trudy,<br/>Znój, świadczcie chętnie o Panu swym;<br/>Jego bierzcie broń w silną mężną dłoń,<br/>a na pewno zwyciężycie z Nim!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>„Czas do boju! Stańcie przy sztandarze!<br/>Bronić sprawy!" - Rozkaz jest nam dań.<br/>W górę sztandar, naprzód, o, hosanna!<br/>Zwyciężymy, bo jest z nami Pan!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Więc się dobrze zbrój, mocno w Panu stój,<br/>pancerz wiary niech każdy ma. Grzech,<br/>ten straszny wróg, ileż sieje trwóg,<br/>lecz wam nad nim Bóg zwycięstwo da!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>„Czas do boju! Stańcie przy sztandarze!<br/>Bronić sprawy!" - Rozkaz jest nam dań.<br/>W górę sztandar, naprzód, o, hosanna!<br/>Zwyciężymy, bo jest z nami Pan!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wielki Boże nasz, Ty potrzeby znasz<br/>wszystkich dzieci Twych w świecie tym.<br/>Gdy się mamy tu przeciwstawić złu,<br/>natchnij nas Swą mocą, Duchem Swym.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>„Czas do boju! Stańcie przy sztandarze!<br/>Bronić sprawy!" - Rozkaz jest nam dań.<br/>W górę sztandar, naprzód, o, hosanna!<br/>Zwyciężymy, bo jest z nami Pan!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:51">
+  <properties>
+    <titles>
+      <title>807 CZERWONE MAKI NA MONTE CASSINO</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czy widzisz te gruzy na szczycie?<br/>Tam wróg twój się kryje jak szczur.<br/>Musicie, musicie, musicie<br/>Za kark wziąć i strącić go z chmur.<br/>I poszli szaleni zażarci,<br/>I poszli zabijać i mścić,<br/>I poszli jak zawsze uparci,<br/>Jak zawsze za honor się bić.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Czerwone maki na Monte Cassino<br/>Zamiast rosy piły polską krew.<br/>Po tych makach szedł żołnierz i ginął,<br/>Lecz od śmierci silniejszy był gniew.<br/>Przejdą lata i wieki przeminą.<br/>Pozostaną ślady dawnych dni<br/>I wszystkie maki na Monte Cassino<br/>Czerwieńsze będą, bo z polskiej wzrosną krwi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Runęli przez ogień, straceńcy,<br/>niejeden z nich dostał i padł,<br/>jak ci z Samosierry szaleńcy,<br/>Jak ci spod Racławic z przed lat.<br/>Runęli impetem szalonym,<br/>I doszli . I udał się szturm.<br/>I sztandar swój biało czerwony<br/>Zatknęli na gruzach wśród chmur,</lines>
+    </verse>
+  </lyrics>
+</song>

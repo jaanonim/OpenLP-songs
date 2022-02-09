@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:20">
+  <properties>
+    <titles>
+      <title>W ciemny grób złożon Pan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="66"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W ciemny grób złożon Pan -<br/>Drogi Zbawiciel;<br/>Wiernych żal z serca rwał,<br/>Lecz mistrz ich wstał.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Trzeciego dnia z martwych wstał!<br/>Tak zwycięsko brzmiała wszędzie wieść;<br/>Pan nasz żyje! Już przed światłem znika noc!<br/>Król nasz żyje! Chwałę dajmy mu i cześć!<br/>Z martwych wstał, Z martwych wstał!<br/>Alleluja, z martwych wstał!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Próżno tam zbrojna straż<br/>Nad grobem stała;<br/>Lśniąca Anioła twarz<br/>Strwożyła ją.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Śmierci gdzież twoja moc?<br/>Gdzież piekła groźba?<br/>Minęła ciemna noc -<br/>żyje nasz Pan!</lines>
+    </verse>
+  </lyrics>
+</song>

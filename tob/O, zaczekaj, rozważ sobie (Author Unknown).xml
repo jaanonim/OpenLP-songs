@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:25">
+  <properties>
+    <titles>
+      <title>O, zaczekaj, rozważ sobie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="163"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, zaczekaj, rozważ sobie,<br/>Dokąd wiedzie droga twa;<br/>Wieczna zguba grozi tobie,<br/>Na tej drodze pełno zła.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wróć, o, wróć do Zbawcy ludzi!<br/>Jezus ci podaje dłoń,<br/>On cię przyjmie, z grzechów wzbudzi,<br/>Tylko chodź, jak jesteś, Doń!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dosyć długo się błąkałeś<br/>Wciąż spętany w grzechu moc;<br/>Jednak wroga nie złamałeś,<br/>Gdyż wciąż w sercu nosisz noc.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, to całkiem inne życie<br/>Wiedzieć: Jam jest wolnym już,<br/>Z grzechów czysty przez omycie<br/>Krwią Jezusa, Zbawcy dusz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Chodź! Niebieskie Pan ma dary<br/>Dla dusz, co miłują Go.<br/>Tobie też da ich bez miary,<br/>Gdy Go przyjmiesz, wierzysz w to.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sam nie możesz się uchronić -<br/>Weź Go w serce, weź Go w dom!<br/>Jezus chce cię zawsze bronić,<br/>Bo wszechmocnym Panem On.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Pójdź i rzuć się do stóp Jego,<br/>By uwolnił z więzów cię,<br/>Byś ku chwale Zbawcy swego<br/>W Jego mocy podniósł się.</lines>
+    </verse>
+  </lyrics>
+</song>

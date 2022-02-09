@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:06">
+  <properties>
+    <titles>
+      <title>Pieśni chwały</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="288"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Pieśni chwały będą brzmieć<br/>W mieście Żydów, w miejscu świętym<br/>I na ulicach Jeruzalem /x2<br/>/ Pieśń triumfu, chwały rozjaśni każdą twarz<br/>Sprawiedliwość, radość w nas wiecznie<br/>Będzie trwać /x2</lines>
+    </verse>
+  </lyrics>
+</song>

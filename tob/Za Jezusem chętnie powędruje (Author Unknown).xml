@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:41">
+  <properties>
+    <titles>
+      <title>Za Jezusem chętnie powędruje</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="241"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Za Jezusem chętnie powędruję,<br/>z Nim wesoło spędzę piękne dni,<br/>Tylko w Nim swej drogi cel znajduję,<br/>On do serca wnosi radość mi</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lasem, polem i doliną ciemną<br/>pójdę, gdy On trzyma moją dłoń.<br/>Gdyby nie był Pan mój zawsze ze mną,<br/>nie trafiłbym na ojczystą błoń</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On mię strzeże, gdy się do snu kładę,<br/>rano On rozprasza chmury trwóg<br/>Na bezdrożach zbawczą daje radę,<br/>On mię cieszy wśród ciernistych dróg</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tylko z Nim Chcę w życiu swym obcować,<br/>On pokarmem, On napojem mym<br/>On mą duszę w łasce chce zachować,<br/>więc się dzisiaj już połączę z Nim</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gdy się mego życia dzień nachyli,<br/>Pan otworzy mi ojczysty dom<br/>Odziedziczę niebo ja w tej chwili,<br/>będzie koniec troskom, koniec łzom</lines>
+    </verse>
+  </lyrics>
+</song>

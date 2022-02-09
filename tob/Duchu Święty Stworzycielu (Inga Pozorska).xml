@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:17">
+  <properties>
+    <titles>
+      <title>Duchu Święty Stworzycielu</title>
+    </titles>
+    <authors>
+      <author type="words">Inga Pozorska</author>
+      <author type="music">Inga Pozorska</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="128"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Duchu Święty Stworzycielu<br/>ożywiaj moją modlitwę,<br/>ożywiaj moje pragnienie<br/>pełnienia woli Ojca.<br/>Duchu Święty Stworzycielu<br/>otwieraj moje oczy by widziały,<br/>otwieraj moje uszy by słyszały,<br/>serce aby czuło.<br/>Duchu Święty Ożywicielu - przyjdź!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:23">
+  <properties>
+    <titles>
+      <title>Głos Jezusa słychać</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="135"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Głos Jezusa słychać,<br/>brzmi na cały świat.<br/>Wytęż słuch swój dobrze,<br/>przyjm Go w serce rad.<br/>Chrystus, Mistrz i Zbawca<br/>lud Swój wiedzie sam.<br/>Przyłącz się Doń także,<br/>dojdziesz niebios bram</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Naprzód, naprzód przyjacielu,<br/>trzymaj z nami krok!<br/>Dołącz głos swój w pieśni,<br/>módl się, wytęż wzrok</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rzesza wszak niewielka<br/>kroczy drogą tą.<br/>Górny Jeruzalem<br/>wita duszę mą.<br/>Wszystkich w jedno złączy<br/>Zbawca wszystkim znan.<br/>Jedna wiara, miłość,<br/>jeden duszy Pan</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Trony i korony<br/>mogą wnet się chwiać.<br/>Lecz Królestwo Boże<br/>wiecznie będzie stać.<br/>Prawy pokój, szczęście<br/>znajdziem tylko w Nim,<br/>Siłę do zwycięstwa<br/>w walce swej ze złem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Naprzód więc szczęśliwe<br/>dzieci Boże wraz!<br/>Pieśń tryumfu słychać<br/>z ust ich w każdy czas.<br/>Ojciec nam niebieski<br/>Swą odsłonił twarz.<br/>Wielbim Cię serdecznie,<br/>cudny Panie nasz!</lines>
+    </verse>
+  </lyrics>
+</song>

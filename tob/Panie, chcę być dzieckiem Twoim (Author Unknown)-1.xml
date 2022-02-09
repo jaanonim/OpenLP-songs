@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:02">
+  <properties>
+    <titles>
+      <title>Panie, chcę być dzieckiem Twoim</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="159"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie, chcę być dzieckiem Twoim<br/>W sercu mym, w sercu mym,<br/>Panie, chcę być dzieckiem Twoim<br/>W sercu mym.<br/>W sercu mym, w sercu mym,<br/>Panie, chcę być dzieckiem Twoim<br/>W sercu mym</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Panie, pragnę więcej kochać<br/>W sercu mym, w sercu mym,<br/>Panie, pragnę więcej kochać<br/>W sercu mym.<br/>W sercu mym, w sercu mym,<br/>Panie, pragnę więcej kochać<br/>W sercu mym</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pragnę więcej się uświęcać<br/>W sercu mym, w sercu mym,<br/>Pragnę więcej się uświęcać<br/>W sercu mym.<br/>W sercu mym, w sercu mym,<br/>Pragnę więcej się uświęcać<br/>W sercu mym</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Panie, pragnę być jak Jezus<br/>W sercu mym, w sercu mym,<br/>Panie, pragnę być jak Jezus<br/>W sercu mym.<br/>W sercu mym, w sercu mym,<br/>Panie, pragnę być jak Jezus<br/>W sercu mym</lines>
+    </verse>
+  </lyrics>
+</song>

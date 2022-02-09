@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:33">
+  <properties>
+    <titles>
+      <title>W walce z burzą</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="78"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W walce z burzą, bez obrony łódź śmiertelnym dreszczem drży,<br/>w niej zaś Jezus, snem zmożony, w gronie uczniów cicho śpi.<br/>Wód spiętrzonych groźne fale, gdy je smaga wichrów szał,<br/>małą łódź miotają stale, do nadbrzeżnych pędzą skał.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Budzą Mistrza zdjęci lękiem, bo ratunek tylko w Nim,<br/>Mistrz powstaje, wznosi rękę, każe ścichnąć wichrom złym.<br/>Alleluja, Zbawicielu! Tyś wszechmocna słabych straż.<br/>Grzesznych ludzi Przyjacielu, zawsze w pieczy Swej ich masz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rodzie ludzki, burza świata dookoła ciebie wre.<br/>Grzech jak fale, dusze zmiata, do przepaści strąca je.<br/>Spiesz więc ufnie do Jezusa, w czasie trudnym wzywaj Go,<br/>a nie zmoże cię pokusa, Pan cię wesprze ręką Swą.</lines>
+    </verse>
+  </lyrics>
+</song>

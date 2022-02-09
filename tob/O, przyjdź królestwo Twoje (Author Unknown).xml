@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:01">
+  <properties>
+    <titles>
+      <title>O, przyjdź królestwo Twoje</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="804"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, przyjdź królestwo Twoje<br/>W nasz ciemny, ziemski świat,<br/>A z niebios życia zdroje<br/>Popłyną wiele lat!<br/>Rozjaśnij niebo szare,<br/>Słoneczko, wyjdź z za chmur,<br/>I odnów życie stare,<br/>I skrusz więzienny mur!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, przyjdź królestwo Twoje,<br/>Z Syjonu jasnych gór!<br/>Niebiańskim Swym pokojem<br/>Napełnij ziemian chór!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, przyjdź królestwo Twoje,<br/>Do naszych biednych dusz.<br/>Złam ciężkich drzwi podwoje<br/>I w sercach pokój stwórz.<br/>Ponure olśnij twarze,<br/>Tchnij życia święty dech,<br/>By naszych serc ołtarzy<br/>Nie plamił straszny grzech!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, przyjdź królestwo Twoje,<br/>Do rodzin pokój wlej,<br/>Niebiańską Swą ostoję<br/>Ty w nich uczynić chciej.<br/>Pojednaj wszystkich zatem,<br/>Baranka nawet z lwem,<br/>By każdy stał się bratem.<br/>Złączony Słowem Twym</lines>
+    </verse>
+  </lyrics>
+</song>

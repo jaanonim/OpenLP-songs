@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:44">
+  <properties>
+    <titles>
+      <title>O, jak błogo żyć dla Ciebie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="273"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, jak błogo żyć dla Ciebie, błogo i wśród srogich mąk,<br/>bo mię wzmacniasz w złej potrzebie, lekkie jarzmo z Twoich rąk.<br/>Ze strumieni Twego słowa, którym sycę duszy głód,<br/>wciąż mi siła płynie nowa i osładza ciężki trud.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mój Pocieszycielu Panie, już ja o tym dawno wiem,<br/>że Twe słowo tylko w stanie dać podporę w życiu tym.<br/>Prowadź mię drogami Swymi, chcę za Tobą, Panie, iść,<br/>służyć Ci dobrami mymi, i do chwały z Tobą wnijść,</lines>
+    </verse>
+  </lyrics>
+</song>

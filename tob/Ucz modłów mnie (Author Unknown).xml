@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:36">
+  <properties>
+    <titles>
+      <title>Ucz modłów mnie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="354"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ucz modłów mnie,<br/>Boże pełen chwał,<br/>Prosić jak dziecię Twe,<br/>/ Jakoś rozkaz dał. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Błogosław mi,<br/>Strzeż od wszelkich zdrad,<br/>Gdyż cały wkoło mnie<br/>/ We złem leży świat. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na obraz Twój<br/>Odnów duszę mą,<br/>Bym święcie chodził tu,<br/>/ Głosił chwałę Twą. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Twój ogień zlej,<br/>Niech przepali mnie,<br/>Aby w istocie mej<br/>/ Lśniło życie Twe. /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Miłości Bóg,<br/>Pełen świętych łask,<br/>Jest siłą moich dróg,<br/>/ W Nim żywota blask. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:45">
+  <properties>
+    <titles>
+      <title>138 KRZYŻ JEST ŹRÓDŁEM</title>
+    </titles>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krzyż jest źródłem mego zbawienia <br/>Jezus obmył mnie swoją Krwią <br/>On uleczy moje zranienia <br/>Krzyż Jezusa nadzieją mą <br/>Me szaty jaśnieją jak śnieg <br/>Obmyła je Baranka Krew <br/>Ona gładzi wszelki grzech <br/>Baranka Krew</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Krzyż jest drogą mego zbawienia <br/>Każde cierpienie oczyszcza mnie <br/>Trudność w drodze, upokorzenie <br/>Błogosławieństwem w Krzyżu jest <br/>Odważnie więc śpiewam tę pieśń <br/>Znam drogę, bym wolnym mógł być: <br/>Trzeba umrzeć, aby żyć!<br/>Trzeba życie dać!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Krzyż jest znakiem mego zbawienia <br/>Miłość Boża rozświetla świat<br/>Tą miłością pragnę świecić <br/>Swoje życie w ofierze dać<br/>Chcę milczeć, gdy spotka mnie zło <br/>I w sercu Jezusa się skryć<br/>Chcę miłością w świecie być! <br/>Chcę miłością być!</lines>
+    </verse>
+  </lyrics>
+</song>

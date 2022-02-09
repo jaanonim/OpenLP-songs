@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:36">
+  <properties>
+    <titles>
+      <title>O, smutny, nieszczęsny to stan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="126"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, smutny, nieszczęsny to stan,<br/>gdy w duszach nie może się Pan zupełnie rozsławić,<br/>mieszkania w nich sprawić,<br/>choć tajnię Swych dróg objawił im Bóg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich woli, ich sercu o tak,<br/>prostoty szczerości jest brak;<br/>codziennie się chwieją, zbaczają, kuleją.<br/>Jakżeby więc Bóg uświęcić ich mógł?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nie zwlekaj, lecz uczyń ten krok,<br/>dopóki jest blisko twój Bóg!<br/>Opuścić cię może, któż potem pomoże?<br/>Ach, szkoda twych sił, gdy cel blisko był!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pośpieszaj do Pana, gdy zwie,<br/>wnet łaski zakończą się dnie!<br/>Ach, prędko przeminą i w przeszłość odpłyną;<br/>dziś łaskę tę przyjm, spoczynek masz w Nim!</lines>
+    </verse>
+  </lyrics>
+</song>

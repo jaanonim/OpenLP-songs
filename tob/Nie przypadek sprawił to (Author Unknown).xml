@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:01">
+  <properties>
+    <titles>
+      <title>Nie przypadek sprawił to</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="138"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie przypadek sprawił to<br/>Bóg uczynił mnie /x2<br/>Ja jestem z wami co dzień /x3<br/>Tak mówi Pan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Grzechy me przebaczył Bóg<br/>Teraz wolnym ja /x2<br/>Ja jestem z wami co dzień /x3<br/>Tak mówi Pan.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Każdy darowany dzień<br/>Bóg w swym ręku ma /x2<br/>Ja jestem z wami co dzień /x3<br/>Tak mówi Pan.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Już nie potrzebuję sam<br/>Poprzez życie iść /x2<br/>Ja jestem z wami co dzień /x3<br/>Tak mówi Pan.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sercem całym śpiewam pieśń<br/>Bo Jezusa znam /x2<br/>Ja jestem z wami co dzień /x3<br/>Tak mówi Pan.</lines>
+    </verse>
+  </lyrics>
+</song>

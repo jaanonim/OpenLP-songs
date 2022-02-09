@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:22">
+  <properties>
+    <titles>
+      <title>Nie było miejca dla Ciebie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="1017"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie było miejsca dla Ciebie.<br/>W Betlejem, w żadnej gospodzie<br/>i narodziłeś się Jezu<br/>w stajni, w ubóstwie i chłodzie.<br/>Nie było miejsca, choć zszedłeś<br/>jako Zbawiciel na ziemie,<br/>by wyrwać z czarta niewoli,<br/>nieszczęsne Adama plemię.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie było miejsca, choć chciałeś<br/>ludzkość przytulić do łona<br/>i podać z krzyża grzesznikom<br/>zbawcze, skrwawione ramiona.<br/>Nie było miejsca, choć zszedłeś<br/>ogień miłości zapalić<br/>i przez swą mękę najdroższą<br/>świat od zagłady ocalić.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy liszki mają swe jamy<br/>i ptaszki swoje gniazdeczka,<br/>dla Ciebie brakło gospody,<br/>tyś musiał szukać żłóbeczka.<br/>A dzisiaj czemu wśród ludzi<br/>tyle łez, jęków, katuszy?<br/>Bo nie ma miejsca dla Ciebie<br/>w niejednej człowieczej duszy!</lines>
+    </verse>
+  </lyrics>
+</song>

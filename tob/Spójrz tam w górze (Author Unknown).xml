@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:59">
+  <properties>
+    <titles>
+      <title>Spójrz tam w górze</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="88"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Spójrz tam w górze, w oddaleniu<br/>Jakaś postać chyli się.<br/>W tak żałosnym rozmodleniu,<br/>Klęczy Jezus, Boży Syn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cichutko śpi Getsemani toń,<br/>Lecz ciszę przerywa raz po raz,<br/>Westchnienie i ból, bo straszny ten bój,<br/>Przeżywa Jezus Król.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jakże ciężką walkę stoczył,<br/>Wole Ojca przyjął Sam.<br/>Tam na wzgórzu, na Golgocie,<br/>On wykonał Boży plan.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cichutko zaprasza ciebie, pójdź<br/>I popatrz, jak cierpiał tam wśród wzgórz.<br/>On zbawić cię chcę, z miłością cię zwie,<br/>Pan Jezus kocha cię.</lines>
+    </verse>
+  </lyrics>
+</song>

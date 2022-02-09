@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:44">
+  <properties>
+    <titles>
+      <title>128 BŁOGOSŁAWIONA WINA</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Mój grzech dziś leży u mych stóp  <br/>Mój grzech dziś zaczął służyć mi  <br/>Śmierć straciła oścień swój  <br/>Pan złamał strzałę śmierci dziś <br/>Mój grzech dziś leży u mych stóp<br/>Do mnie nie należy już</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Przypomina mi, że jest życie <br/>A źródło tego życia nie bije we mnie<br/>Znam miejsce w sercu Twym  <br/>Miejsce wśród braci <br/>Nie płaczę już nad sobą, nad mymi ranami</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przyjaźnię się ze słabością mą<br/>Nie jestem skazany<br/>Pokora we mnie rodzi się słodka zależność<br/>Błogosławiona wina jest skoro Ty<br/>Musiałeś zejść na ziemię z miłości do mnie!</lines>
+    </verse>
+  </lyrics>
+</song>

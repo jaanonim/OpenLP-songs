@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:07">
+  <properties>
+    <titles>
+      <title>Jezus, Jezus, Boży Syn, jedyny Pan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus, Jezus, Boży Syn, jedyny Pan, Jezus<br/>Jezus, Jezus, z grobu wstał, króluje w chwale, Jezus<br/>Twe imię jak miód na ustach mych<br/>Twój Duch woda życia duszy mej<br/>Twe Słowo jak lampa dla mych stop<br/>Jezu, ja kocham Cię, ja kocham Cię.</lines>
+    </verse>
+  </lyrics>
+</song>

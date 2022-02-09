@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:38">
+  <properties>
+    <titles>
+      <title>Ożywcze źródło tryska</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="170"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ożywcze źródło tryska z Golgoty twardych skał,<br/>by grzesznik wodę żywą na win obmycie miał.<br/>Słyszysz? Każdego woła do źródła Boży Syn:<br/>„Grzeszniku, pójdź do zdroju i obmyj się z swych win!"</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Patrz, źródło z Golgoty płynie, źródło z Golgoty płynie,<br/>płynie tak wciąż dla wszystkich nas, źródło z Golgoty płynie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy grzechy twe cię trwożą, gdy ciąży brzemię win,<br/>wiedz, że ratunek dla cię ma Zbawca, Boży Syn.<br/>Ku Niemu idź z ufnością, gdy duch twój w trwodze łka,<br/>On ulży twej niedoli i pokój Swój ci da.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Patrz, źródło z Golgoty płynie, źródło z Golgoty płynie,<br/>płynie tak wciąż dla wszystkich nas, źródło z Golgoty płynie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A źródło owo życia dla ciebie płynie wciąż,<br/>ku Niemu przeto zawsze w niedoli chwilach dąż.<br/>Ku swej radości poznasz, że Bóg jest Ojcem twym<br/>i znajdziesz źródło szczęścia niewyczerpane w Nim.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Patrz, źródło z Golgoty płynie, źródło z Golgoty płynie,<br/>płynie tak wciąż dla wszystkich nas, źródło z Golgoty płynie.</lines>
+    </verse>
+  </lyrics>
+</song>

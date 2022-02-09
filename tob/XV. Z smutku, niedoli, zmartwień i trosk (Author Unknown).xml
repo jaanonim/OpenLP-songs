@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:04">
+  <properties>
+    <titles>
+      <title>XV. Z smutku, niedoli, zmartwień i trosk</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z smutku, niedoli, zmartwień i trosk,<br/>Jezu, choć dziś, pragnę już iść;<br/>Do Twej wolności, szczęścia i łask,<br/>Jezu, odchodzę już.<br/>Rzucam chorobę dla pełni sił -<br/>Pragniesz, bym w łasce Twej, Panie żył.<br/>Z cierni mych wad do krasy<br/>Twych róż, Jezu, odchodzę już!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Z mojej haniebnej nędzy i złud,<br/>Jezu, choć dziś, pragnę już iść;<br/>Czeka mię chwała - mocy Twej cud,<br/>Jezu odchodzę już.<br/>Do Twej radości z smutku i łez,<br/>Z bólów mych w stan,<br/>gdzie cierpień jest kres<br/>Do Twej ciszy z grzmotów i burz,<br/>Jezu, odchodzę już!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z głębi ubóstwa, żądz mych i zła,<br/>Jezu, choć dziś, pragnę już iść;<br/>Tam gdzie Twa dobroć wszystko mi da,<br/>Jezu, odchodzę już.<br/>Z morza mych win w miłości Twej toń,<br/>Z głębi zwątpienia w mocną Twą dłoń;<br/>Z mroku i trwóg w radosny kraj zórz,<br/>Jezu, odchodzę już!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Z lęku o śmierć, zagładę ł grób,<br/>Jezu, choć dziś pragnę już iść;<br/>W radość z wspaniałych, wiecznych Twych dóbr,<br/>Jezu, odchodzę już.<br/>Z głębi ruiny, zgliszczy i strat<br/>W wieczny, wspaniały, jasny Twój świat.<br/>Pewnym Twój port po burzach mych mórz<br/>Jezu, odchodzę już!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:05">
+  <properties>
+    <titles>
+      <title>Kiedy moc grzechu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="250"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kiedy moc grzechu dręczy Cię<br/>/ Na rzeki dno je wrzuć /x3<br/>Kiedy moc grzechu dręczy Cię<br/>Na rzeki dno je wrzuć<br/>On przeprowadzi Cię</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ On poprowadzi Ciebie sam<br/>Prosto, aż do niebios bram.<br/>Wieczną radość też On da /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kiedy masz pokus pełno w krąg<br/>/ To wtedy pomódl się /x3<br/>Kiedy masz pokus pełno w krąg<br/>To wtedy pomódl się<br/>A Bóg zwycięstwo da</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kiedy masz radość w sercu swoim<br/>/ To śpiewaj cały dzień /x3<br/>Kiedy masz radość w sercu swoim<br/>To śpiewaj cały dzień<br/>I w Panu raduj się</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kiedy masz miłość w sercu swoim<br/>/ To śpiewaj cały dzień /x3<br/>Kiedy masz miłość w sercu swoim<br/>To śpiewaj cały dzień<br/>I w Panu raduj się</lines>
+    </verse>
+  </lyrics>
+</song>

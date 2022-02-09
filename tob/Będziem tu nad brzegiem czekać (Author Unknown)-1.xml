@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:48">
+  <properties>
+    <titles>
+      <title>Będziem tu nad brzegiem czekać</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="562"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Będziem tu nad brzegiem czekać<br/>I nadzieje ciche snuć,<br/>Aż do brzegów, do niebieskich<br/>Szczęśnie nas przewiezie łódź.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>W blasku słońca, w Bożej chwale<br/>Promienieje wieczny gród;<br/>O, porzućcie gorz¬kie żale,<br/>Wnet ojczysty ujrzym ląd!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miłych braci już tak wielu<br/>Przeszło na ojczysty łan,<br/>I my wkrótce dopłyniemy<br/>W obiecany Kanaan.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wprawdzie ciemność już dokoła,<br/>Wiara nasza jeszcze mdła,<br/>Ale oto Zbawca woła,<br/>Aby za Nim rzesza szła.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy nas Jego trzyma ramię,<br/>Wejdziem śmiało w śmierci dół,<br/>Potem ujrzym kraj ojczysty,<br/>Gdzie Bóg skazę wszelką zdjął.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Będziem czekać więc nad brzegiem<br/>I nadzieje ciche snuć,<br/>Aż do brzegów, do niebieskich<br/>Szczęśnie nas przewiezie łódź.</lines>
+    </verse>
+  </lyrics>
+</song>

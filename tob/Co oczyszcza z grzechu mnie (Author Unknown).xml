@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:55">
+  <properties>
+    <titles>
+      <title>Co oczyszcza z grzechu mnie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="723"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Co oczyszcza z grzechu mnie?<br/>Twoja krew Baranku Boży.<br/>A co z win mych, kto to wie?<br/>Twoja krew Baranku Boży.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cudowny jest ten zdrój,<br/>Co gładzi grzechów rój,<br/>Tu składam życia znój -<br/>We krwi Twej, Baranku Boży.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Co mnie godzi z Bogiem mym?<br/>Twoja krew Baranku Boży.<br/>Co pociesza w życiu złym?<br/>Twoja krew Baranku Boży.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Co zwycięża grzech i świat?<br/>Twoja krew Baranku Boży.<br/>Co mnie wiedzie w Pana ślad?<br/>Twoja krew Baranku Boży.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Co otwiera raju drzwi?<br/>Twoja krew Baranku Boży.<br/>I da ujrzeć Boga w czci?<br/>Twoja krew Baranku Boży.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:17">
+  <properties>
+    <titles>
+      <title>Barankowi chwałę, cześć</title>
+    </titles>
+    <authors>
+      <author type="words">M. Brasch</author>
+      <author type="music">M. Brasch</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="2"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Barankowi chwałę, cześć<br/>Wszyscy wiecznie chcemy nieść,<br/>To potężny z Judy Lew,<br/>On zwyciężył przez Swą krew.<br/>Chwała Barankowi!<br/>Cześć Zwycięzcy, starty wróg,<br/>Świat u jego leży nóg.<br/>Zwalcz w mym sercu, Panie mój,<br/>Co Twój czysty mąci zdrój,<br/>By zajaśniał obraz Twój.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pan przełamał śmierci noc,<br/>Przyniósł cudną życia moc.<br/>W krwawym boju za nas zmarł<br/>I tak głowę węża starł.<br/>Chwała Barankowi!<br/>Stratę przez Adama czyn<br/>Nam przywrócił Boży Syn.<br/>Życie nowe Zeń nam lśni,<br/>Więc niech pieśń wdzięczności, czci<br/>Wiecznie, Panie, płynie Ci!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, ta łaska , której cud<br/>Wiedzie mię w ojczysty gród!<br/>O, ta miłość, której zdrój<br/>Mię przekształca w obraz Twój!<br/>Chwała Barankowi!<br/>O zwycięstwo w sercu mym,<br/>Spal, co nie jest dziełem twym!<br/>Śmierci grot złamany wżdy,<br/>Świat i piekło pierzcha, drży,<br/>Boś potężnym królem Ty!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Już korona błyszczy nam,<br/>Wnet u Ojca będziem tam,<br/>Gdzie hymn nowej pieśni brzmi,<br/>Przez twój lud niesiony Ci:<br/>Chwała Barankowi!<br/>Barankowi wieczną cześć<br/>Zawsze wszyscy chciejmy nieść;<br/>Nasze w Nim zwycięstwo lśni,<br/>Niech Mu hymn nasz wzniosły brzmi:<br/>Wieczne, Panie, dzięki Ci!</lines>
+    </verse>
+  </lyrics>
+</song>

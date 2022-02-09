@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:11">
+  <properties>
+    <titles>
+      <title>Jezus, Jezus On</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="114"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus, Jezus!<br/>On Panem jest,<br/>mój Jezus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezus, Jezus!<br/>On władzę ma,<br/>mój Jezus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezus, Jezus!<br/>On przyjdzie wnet,<br/>mój Jezus.</lines>
+    </verse>
+  </lyrics>
+</song>

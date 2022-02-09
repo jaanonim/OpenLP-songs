@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:48">
+  <properties>
+    <titles>
+      <title>Jak będzie nam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="369"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak będzie nam, gdy po skończonym boju,<br/>ostatnim, ciężkim, przewalczonym już,<br/>z obczyzny się przeniesieni do pokoju,<br/>przez bramę wieczną do ojczyzny dusz!<br/>Gdy resztę z naszych nóg strząśniemy pyłu,<br/>z oblicza zetrzem pot - ostatni raz,<br/>gdy ujrzym to, co nieraz nas krzepiło<br/>i nową siłą napełniało nas.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jak będzie nam, gdy staniem oświeceni<br/>światłością Pana z wiekuistych stref<br/>i gdy - szczęśliwi - w blasku tych promieni<br/>wzniesiemy z wolnej piersi nowy śpiew!<br/>Gdy Pan wyciągnie do nas Swą prawicę,<br/>a my bez lęku i bez wszelkich trwóg<br/>staniemy przed Nim jako domownicy<br/>i gdy nas jako dziatki przyjmie Bóg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jak będzie nam, gdy Jego głos usłyszym:<br/>Błogosławieni, pójdźcie do Mnie tu!<br/>Widokiem Jego jakże się pocieszym,<br/>i jak będziemy dziękowali Mu!<br/>Gdy w oczy wejrzym, niegdyś zapłakane<br/>dla zatwardziałych serc, dla naszych win,<br/>gdy ujrzym rany, dla nas Mu zadane<br/>i zgłębim wielki odkupienia czyn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jak będzie nam! O, nie widziały oczy,<br/>nie słyszał nikt, ni pojąć by to mógł,<br/>co za wspaniałość w niebie nas otoczy,<br/>gdy Swymi dary nas obdarzy Bóg!<br/>Wstępujmy w górę więc po stromej drodze;<br/>niech ciężki znój nie zraża nas, ni trud.<br/>Daj, Panie, stanąć tam pielgrzymczej nodze,<br/>gdzie się zgromadzi wykupiony lud!</lines>
+    </verse>
+  </lyrics>
+</song>

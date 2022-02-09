@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:20">
+  <properties>
+    <titles>
+      <title>Jezus żyje, z Nim i ja!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="61"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus żyje, z Nim i ja!<br/>Śmierci, gdzież twej grozy cienie?<br/>Jezus żyje, więc mi da<br/>Zmartwychwstanie i zbawienie.<br/>Do Swej chwały przyjmie mię,<br/>Tej ufności trzymam się.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezus żyje! Jemu dań<br/>Wszystek świata rząd całego.<br/>Jegom sługą, On mój Pan,<br/>Dział mieć będę w chwale Jego.<br/>Dał mi obietnicę tę,<br/>Tej ufności trzymam się.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezus żyje, wątpi ktoś -<br/>Bogu bluźni, czci uwłacza.<br/>Łaski woła słodki głos<br/>I grzesznika Doń nawraca.<br/>Bóg w Chrystusie zbawia mię,<br/>Tej ufności trzymam się.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jezus żyje! Jemu ja<br/>Żyć chcę, mieć też w Nim zbawienie;<br/>Niech nie mieszka żądza zła<br/>W sercu mym, lecz święte chcenie.<br/>On słabego wesprze mię,<br/>Tej ufności trzymam</lines>
+    </verse>
+  </lyrics>
+</song>

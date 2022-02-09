@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:19">
+  <properties>
+    <titles>
+      <title>Jak ożywczy deszcz</title>
+    </titles>
+    <authors>
+      <author type="words">Sławomir Butenko</author>
+      <author type="music">Sławomir Butenko</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak ożywczy deszcz<br/>Duchu Święty przyjdź<br/>Dotknij naszych serc<br/>Rozpal ognia żar. // x2 //</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dziś przenikaj nas<br/>Tchnieniem mocy Swej<br/>Bądź nam światłem dnia<br/>I nadzieją serc. // x2 //</lines>
+    </verse>
+  </lyrics>
+</song>

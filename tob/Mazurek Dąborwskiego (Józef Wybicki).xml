@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:56">
+  <properties>
+    <titles>
+      <title>Mazurek Dąborwskiego</title>
+    </titles>
+    <authors>
+      <author>Józef Wybicki</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jeszcze Polska nie zginęła,<br/>Kiedy my żyjemy.<br/>Co nam obca przemoc wzięła,<br/>Szablą odbierzemy.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Marsz, marsz Dąbrowski,<br/>Z ziemi włoskiej do Polski.<br/>Za twoim przewodem<br/>Złączym się z narodem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przejdziem Wisłę, przejdziem Wartę,<br/>Będziem Polakami.<br/>Dał nam przykład Bonaparte,<br/>Jak zwyciężać mamy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jak Czarniecki do Poznania<br/>Po szwedzkim zaborze,<br/>Dla ojczyzny ratowania<br/>Wrócim się przez morze.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Już tam ojciec do swej Basi<br/>Mówi zapłakany –<br/>Słuchaj jeno, pono nasi<br/>Biją w tarabany.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:15">
+  <properties>
+    <titles>
+      <title>Me serce przepełnia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="274"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Me serce przepełnia<br/>Najmilszych słów treść,<br/>Opowiem Królowi moją pieśń!<br/>Me serce wezbrało miłością i czcią,<br/>Dziś znów wyznam Mu miłość swą!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bo On jest Panem ziemi tej<br/>I z martwych On wstał,<br/>Po Bożej prawicy siadł.<br/>I z Niego, przez Niego,<br/>Dla Niego wszystko jest!<br/>On Swą chwałę na ziemię chce zlać!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bo Górę Syjon Pan wybrał,<br/>Odpocząć tu chce.<br/>Pan rzekł: Zamieszkam tu!<br/>Ubłogosławię obficie,<br/>Nakarmię was,<br/>Będą święci weselić się wciąż!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oczy swe wznieś i wokoło spójrz!<br/>Niech serca drżą, cieszą się!<br/>Oto bogactwo wszech narodów<br/>Przywiodę wam tu,<br/>Bo chcę chwałą ozdobić mój Dom!</lines>
+    </verse>
+  </lyrics>
+</song>

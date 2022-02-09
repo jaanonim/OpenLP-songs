@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:49">
+  <properties>
+    <titles>
+      <title>O nadziejo, światło w ciemnej nocy!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="578"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O nadziejo, światło w ciemnej nocy!<br/>Z Tobą ja ochotnie pójdę wzwyż.<br/>Gdy mi ciasny świat, gdym bez pomocy,<br/>Ty w ochłodę zmienisz ciężki krzyż,<br/>Bo i cóż, choć tęskni dusza ma?<br/>Przyjdzie wieczór, z nim wytchnienie<br/>Pan w ojczyźnie da.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O nadziejo, twoje gwiazdy płoną<br/>I przynoszą pokój z górnych stref!<br/>Tam ja wznoszę swoją myśl stęsknioną,<br/>Zanim owoc wyda łzawy siew;<br/>Tu mi z Panem na obczyźnie żyć,<br/>Ale potem stąd z radością<br/>W górny kraj się wzbić.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pozostaje jeszcze odpocznienie<br/>Tym, co z Panem nieśli krzyż i ból;<br/>Lecz już tu ochłody błogiej cienie<br/>Zsyła wiernym ten niebieski Król.<br/>Wśród ucisku wiara pląsać śmie,<br/>A nadzieja? O, te płonie<br/>W najciemniejszej mgle!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Włości wieczna! Dusza ma stęskniona<br/>Do wspaniałej ciszy twoich wzgórz,<br/>Gdzie odpocznie moja myśl wzburzona<br/>I ma wola będzie starta już.<br/>Własnej chwały pozbawiony tam<br/>Wespół z rzeszą odkupionych<br/>Bogu chwałę dam</lines>
+    </verse>
+  </lyrics>
+</song>

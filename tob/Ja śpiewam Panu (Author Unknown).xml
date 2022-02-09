@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:06">
+  <properties>
+    <titles>
+      <title>Ja śpiewam Panu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="6"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ja śpiewam Panu memu, śpiewam cały dzień.<br/>Śpiewam o miłości tej, której nie zna świat.<br/>Śpiewam jak On zbawił mnie,<br/>Przez swą śmierć na Golgocie.<br/>Wciąż śpiewam Panu memu, śpiewam cały dzień<br/>Śpiewam cały dzień.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja śpiewam chociaż nieraz ciężka droga ma.<br/>Bo świat nie chce tego znać , co Bóg w łasce dał<br/>Lecz ja śpiewam cały dzień,<br/>Pieśnią Pan napełnił mnie,<br/>Wciąż śpiewam Panu memu, śpiewam cały dzień,<br/>Śpiewam cały dzień.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ja śpiewam dla zgubionych,<br/>Śpiewam wciąż bo wiem<br/>Święta Zbawiciela krew zmywa wszelki grzech.<br/>Jeśli ktoś usłucha mnie, Zbawcy odda życie swe<br/>Radośniej będę śpiewać, Panu memu pieśń<br/>Panu memu pieśń.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ja śpiewam dla zbawionych, którzy dążą wzwyż<br/>Do wiecznego kraju tam gdzie dom czeka ich<br/>Wszyscy tam spotkamy się<br/>Razem zaśpiewamy pieśń<br/>Będziemy śpiewać Panu, wieczną chwały pieśń<br/>Wieczną chwały pieśń.</lines>
+    </verse>
+  </lyrics>
+</song>

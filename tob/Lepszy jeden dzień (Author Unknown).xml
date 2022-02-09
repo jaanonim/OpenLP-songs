@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:14">
+  <properties>
+    <titles>
+      <title>Lepszy jeden dzień</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lepszy jeden dzień w<br/>Przedsionkach Twych<br/>Lepszy jeden dzień w<br/>Domu Twym<br/>Niż gdzie indziej,<br/>Panie mój, tysiąc dni<br/>Lepiej w domu Twoim być<br/>Niż gdzie indziej spędzać czas<br/>W Tobie radość, pokój<br/>I zbawienie jest</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesteś mą Nadzieją<br/>Jesteś mym Zbawieniem,<br/>Moją Twierdzą.<br/>Nie boję się<br/>Wywyższam, chwalę Cię<br/>Ja kocham Cię.</lines>
+    </verse>
+  </lyrics>
+</song>

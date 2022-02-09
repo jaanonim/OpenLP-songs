@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:06">
+  <properties>
+    <titles>
+      <title>Dzisiaj w Betlejem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Dzisiaj w Betlejem /x2 wesoła nowina,<br/>/ że Panna czysta /x2 porodziła Syna.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chrystus się rodzi, świat oswobodzi,<br/>Anieli grają, króle witają,<br/>Pasterze śpiewają, bydlęta klękają,<br/>Cuda, cuda ogłaszają.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/ Maryja Panna /x2 Dzieciątko piastuje,<br/>/ I Józef stary /x2 Ono pielęgnuje.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/ Chociaż w stajence /x2 Panna Syna rodzi<br/>/ Przecież On wkrótce /x2 Ludzi oswobodzi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/ I trzej uczeni /x2 od wschodu przybyli<br/>/ I dary Panu /x2 kosztowne złożyli.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/ Pójdźmy też razem /x2 przywitać Jezusa,<br/>/ Króla nad króle /x2 uwielbić Chrystusa.</lines>
+    </verse>
+  </lyrics>
+</song>

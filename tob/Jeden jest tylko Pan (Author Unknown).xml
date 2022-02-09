@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:19">
+  <properties>
+    <titles>
+      <title>Jeden jest tylko Pan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="270"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jeden jest tylko Pan,<br/>tutaj jest Jego dom.<br/>Klęknijcie wszyscy,<br/>którzy tu wchodzicie<br/>i razem chwalmy Go.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On mieszka z nami tu<br/>by przyjacielem być.<br/>Składamy dzięki<br/>za miłość i dary,<br/>którymi łączy nas</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Miejsce to wybrał Pan,<br/>aby wysłuchać nas.<br/>Śpiewajmy wszyscy,<br/>słudzy w Jego domu,<br/>Bogu oddajmy cześć.</lines>
+    </verse>
+  </lyrics>
+</song>

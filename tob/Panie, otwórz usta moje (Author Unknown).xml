@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:38">
+  <properties>
+    <titles>
+      <title>Panie, otwórz usta moje</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="408"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie, otwórz usta moje,<br/>Bym uwielbiał z serca Cię<br/>Za te cudne drogi Twoje,<br/>W które Ty wprowadzasz mię.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pragnę śpiewać Tobie dzięki<br/>I wysławiać Ciebie wciąż<br/>Za te dary z Twojej ręki,<br/>Któreś mi darował już.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kiedy spojrzę w moje serce,<br/>Widzę, że jest pełne zdrad<br/>Jednak zawsze w Twoje ręce<br/>Złożę się z ufnością rad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Choć me serce jest niestałe,<br/>Jednak wiernym jesteś TY<br/>Któryś Swoje życie całe<br/>Za mnie oddał, Zbawco cny!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Twoje miłosierdzie, Panie,<br/>Aż do niebios wznosi się<br/>Tylko ten je pojąć w stanie,<br/>Kto go dozna w sercu swym.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:38">
+  <properties>
+    <titles>
+      <title>Na Jezusa, Króla swego</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="400"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na Jezusa, Króla swego<br/>Kieruj wzrok, kieruj wciąż,<br/>W każdej chwili życia twego<br/>Kieruj Nań wzrok swój wciąż!<br/>Dzień i noc Ten z tobą trwa,<br/>Co w Swej mocy wszystko ma;<br/>On cię kupił, ciebie zna.<br/>Kieruj Nań wzrok swój wciąż!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy cierpienia napierają,<br/>Kieruj Nań wzrok swój wciąż!<br/>Gdy ciemności otaczają,<br/>Kieruj Nań wzrok swój wciąż!<br/>Kiedy będziesz w świecie złym,<br/>Gdy Golgota losem twym,<br/>Wiernie On prowadzi cię,<br/>Kieruj Nań wzrok swój wciąż!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdyś na puszczy pokuszenia,<br/>Kieruj Nań wzrok swój wciąż!<br/>Gdyś wśród cierni utrapienia,<br/>Kieruj Nań wzrok swój wciąż!<br/>Wszak On po nich kroczył też<br/>I zwyciężył - ty to wiesz!<br/>A więc śmiało Jemu wierz!<br/>Kieruj Nań wzrok swój wciąż!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A gdy szczęście Bóg ci daje,<br/>Kieruj Nań wzrok swój wciąż!<br/>Kiedy zwie cię w górne kraje,<br/>Kieruj Nań wzrok swój wciąż<br/>Patrz na łaskę, którą dał!<br/>Patrz na miłość - w niej twój dział,<br/>Byś zupełną radość miał!<br/>Kieruj Nań wzrok swój wciąż!</lines>
+    </verse>
+  </lyrics>
+</song>

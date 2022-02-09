@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:59">
+  <properties>
+    <titles>
+      <title>Radość, radość</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="80"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Radość, radość, radość, radość,<br/>Radość mają ci, których Panem jest Bóg /x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Spytasz, skąd ja mam ten entuzjazm, /x2<br/>Jezus mnie zbawił, dał nowe życie,<br/>On mi swą radość dał obficie,<br/>To On mi daje ten entuzjazm.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/ Pokój, pokój, pokój, pokój,<br/>Pokój mają ci, których Panem jest Bóg /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/ Miłość, miłość, miłość, miłość,<br/>Miłość mają ci, których Panem jest Bóg /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/ Szczęście, szczęście, szczęście, szczęście,<br/>Szczęście mają ci, których Panem jest Bóg /x2</lines>
+    </verse>
+  </lyrics>
+</song>

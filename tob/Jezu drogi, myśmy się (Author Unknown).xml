@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:50">
+  <properties>
+    <titles>
+      <title>Jezu drogi, myśmy się</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="603"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezu drogi, myśmy się<br/>Słuchać słów Twych tu zebrali;<br/>Nakłoń serca, byśmy Cię<br/>Godnie teraz uwielbiali.<br/>Wolni od powszedniej troski<br/>Niech słyszymy głos Twój Boski.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Myśli nasze kryje noc,<br/>Rozum błąka się w ciemności,<br/>Jeśli Twego Ducha moc<br/>Ich nie wiedzie do światłości.<br/>Dobrą chęć i wykonanie<br/>Ty w nas sprawić racz, o Panie!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Blasku chwały Bożej Ty,<br/>Światło z Boga narodzone,<br/>Spraw, by serca ku Twej czci<br/>Teraz były otworzone,<br/>Aby w modłach, pieniach, Panie,<br/>Ciebie wielbić były w stanie.</lines>
+    </verse>
+  </lyrics>
+</song>

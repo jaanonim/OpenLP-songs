@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:22">
+  <properties>
+    <titles>
+      <title>Boży Baranku!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="101"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boży Baranku!<br/>Sławna jest Golgota<br/>Z Twego zwycięstwa,<br/>Amen, alleluja.<br/>Ty wybawiłeś Świat<br/>i kajdanyś stłukł,<br/>Spłaciłeś krwią do cna<br/>Okupu wielki dług,<br/>Gdy zawołałeś w głos<br/>Przez śmierci ćmę:<br/>/ Spełniło się! /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Słowo żywota!<br/>W nim wiarą spocząć śmiem;<br/>Pewna ta skała<br/>Jest gruntem mocnym mym.<br/>Wieczne, zupełne<br/>Boże zbawienie cne;<br/>Przyjm je, grzeszniku, przyjm,<br/>A będzie wiecznie twe;<br/>Nic już nie dodasz doń -<br/>Pan zbawił cię.<br/>/ Spełniło się! /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Słowo zwycięstwa!<br/>Gdy pełznie do mnie wąż,<br/>Spojrzę na Wodza,<br/>Co węża zdeptał już!<br/>W ranach Jezusa<br/>Niewoli łańcuch pękł;<br/>Zwycięskim krzykiem mym<br/>Śmiertelny Jego jęk;<br/>Jam wolny, dusza ma<br/>Wolnością tchnie:<br/>/ Spełniło się! /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mój Zbawicielu,<br/>Chwała i dzięki Ci!<br/>Pieśń triumfalna<br/>Do Twych podnóży brzmi.<br/>Ja się otulę<br/>W Twej łaski jasny zwój,<br/>Mam w Twojej drogiej krwi<br/>Sprawiedliwości strój.<br/>Z Barankiem w skonie swym<br/>Zawołać chcę;<br/>/ Spełniło się! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

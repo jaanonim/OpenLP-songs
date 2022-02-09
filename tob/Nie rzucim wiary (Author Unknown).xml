@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:38">
+  <properties>
+    <titles>
+      <title>Nie rzucim wiary</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="178"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie rzucim wiary, że jest Bóg,<br/>nie rzucim do skonania!<br/>Choć się już grzech piekielnie wzmógł,<br/>bożyszczom świat się kłania,<br/>nasz Ojciec, Stwórca, wiecznie trwa,<br/>swym wiernym pomoc da,<br/>swym wiernym pomoc da.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie rzucim wiary, że nasz Pan,<br/>Syn Boży, Syn człowieczy,<br/>za grzechy nasze na krzyż elan,<br/>ginący świat wyleczy.<br/>Przed Nim już piekieł moce drżą,<br/>wnet przyjdzie z chwałą Swą.<br/>Wnet przyjdzie z chwałą Swą.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jest Pocieszyciel, Święty Duch,<br/>nie rzucim Jego słowa!<br/>Gdy się ten świat rozpryśnie w puch,<br/>czeka nas ziemia nowa.<br/>W jeziorze będzie gorzał wróg,<br/>Królestwo weźmie Bóg.<br/>Królestwo weźmie Bóg.</lines>
+    </verse>
+  </lyrics>
+</song>

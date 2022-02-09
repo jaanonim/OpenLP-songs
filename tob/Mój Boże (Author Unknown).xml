@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:41">
+  <properties>
+    <titles>
+      <title>Mój Boże</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="220"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mój Boże, w ręku Twym mojego życia dni;<br/>me ciało, duszę, serce me ochotnie zlecam Ci.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mój Boże, w ręku Twym żywota mego bieg,<br/>dlatego też nie trwożę się, bo Ty mnie będziesz strzegł.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mój Boże, w ręku Twym żywota mego dni.<br/>Ujmuję Twą przebitą dłoń, Ty drogę toruj mi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mój Boże, w ręku Twym mojego życia czas,<br/>ucz wykorzystać go dla Ciebie i dla bliźnich wraz.</lines>
+    </verse>
+  </lyrics>
+</song>

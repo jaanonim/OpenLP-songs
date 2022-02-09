@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:30">
+  <properties>
+    <titles>
+      <title>O, strzeż mnie, Panie, w dzień i w noc</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="284"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, strzeż mnie, Panie, w dzień i w noc<br/>Mocą Twej krwi, mocą Twej krwi.<br/>Złam grzechu, trwogi, wątpień moc<br/>Mocą Twej drogiej krwi!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mocą Twej krwi,<br/>Twej drogiej krwi,<br/>Którą przelałeś za mnie Ty!<br/>W dzień i w nocy ochraniaj mnie<br/>Mocą Twej drogiej krwi!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pobity został chytry wróg<br/>Mocą Twej krwi, mocą Twej krwi;<br/>Na krzyżu Tyś go wiecznie zmógł<br/>Mocą Twej drogiej krwi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wykonaj we mnie dzieło Swe<br/>Mocą Twej krwi, mocą Twej krwi,<br/>I wyczyść z serca wszystko złe<br/>Mocą Twej drogiej krwi!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Twój pokój w duszę spływa mi<br/>Mocą Twej krwi, mocą Twej krwi.<br/>Twej łaski dar w mym sercu lśni<br/>Mocą Twej drogiej krwi!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Twój Duch przejawia w dzień i w noc<br/>Mocą Twej krwi, mocą Twej krwi,<br/>W mej duszy Swą cudowną moc;<br/>Mocą Twej drogiej krwi!</lines>
+    </verse>
+  </lyrics>
+</song>

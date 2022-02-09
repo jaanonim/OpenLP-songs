@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:00">
+  <properties>
+    <titles>
+      <title>Służebnicy, o czemuż stoicie?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="793"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Służebnicy, o czemuż stoicie?<br/>Tu bezczynnie wasz trwoniąc czas?<br/>Pracy dość w Mej winnicy znajdziecie,<br/>Chwastem obrasta świat wkoło was.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, ta noc, ta noc, ta grzechu noc.<br/>O, ta ciemna, ta ciemna grzechu noc!<br/>O, niech świeci, niech świeci nam nieba blask<br/>I słodkiej Ewangelii moc!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oczy wasze podnieście do góry,<br/>A przypatrzcie się łanom zbóż!<br/>Kłos bieleje, gotowe są zbiory,<br/>Wkrótce się wieczór przybliży już.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, jak mało jest chętnych do pracy,<br/>Próżno Pan nawołuje ich;<br/>Proścież Mistrza i Pana winnicy,<br/>A pracowników On wyśle Swych</lines>
+    </verse>
+  </lyrics>
+</song>

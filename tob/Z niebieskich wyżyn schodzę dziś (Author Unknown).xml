@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:19">
+  <properties>
+    <titles>
+      <title>Z niebieskich wyżyn schodzę dziś</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="47"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z niebieskich wyżyn schodzę dziś<br/>i niosę wam radosną wieść;<br/>Cudownych rzeczy tyle mam<br/>Zwiastować ku radości wam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Słuchajcie, oto Bóg wam śle<br/>Anielskiej krasy dziecię Swe;<br/>Z wybranej panny daje rad<br/>Dzieciątko, które zbawi świat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To Jezus Chrystus, Pan i Bóg;<br/>On was wykupi z wszelkich trwóg;<br/>On Zbawcą waszym pragnie być<br/>I wszystkie grzechy wasze zmyć.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Przynosi pociech wiele wam,<br/>Co dla was Bóg zgotował Sam;<br/>Abyście z Nim, gdy minie czas,<br/>Przebywać mogli wszyscy wraz.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Zapamiętajcie sobie znak:<br/>Żłób i pieluszki, bogactw brak.<br/>W tym żłóbku dziecię - Boży Syn;<br/>Wszechświata Panem będzie ten.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tych nowin przeradosna treść<br/>I nas ma do stajenki wieść;<br/>Ujrzymy tam miłości żar:<br/>Najdroższy Ojca z niebios dar.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ach, witaj zacny Gościu nam,<br/>Coś na świat zstąpił z niebios bram!<br/>I dla mnie schodzisz w nędzę mą;<br/>Jak mam uwielbiać miłość Twą?</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ach, Jezu mój, zstąp w serce me,<br/>Mieszkanie w nim Sam uczyń Swe<br/>I racz przebywać zawsze tam<br/>Bym nigdy już nie chodził sam.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Bądź Bogu cześć i chwała wciąż,<br/>Ze zesłał Syna Swego już!<br/>Anielski triumfuje zbór,<br/>Czas łaski głosi świętych chór.</lines>
+    </verse>
+  </lyrics>
+</song>

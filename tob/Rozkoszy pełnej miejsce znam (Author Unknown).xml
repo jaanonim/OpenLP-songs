@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:28">
+  <properties>
+    <titles>
+      <title>Rozkoszy pełnej miejsce znam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="6"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rozkoszy pełnej miejsce znam,<br/>gdzie nie dociera złość ni kłam;<br/>tam z serc ulata słodki ton,<br/>to łaski Bożej jasny tron!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, tronie łask, o tronie łask,<br/>przebłogi tronie łask.<br/>O, tronie łask, o tronie łask,<br/>tum znalazł życia blask.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu zlewa Pan radości zdrój,<br/>na miejscu tym obuwie zzuj!<br/>Tu święty przez aniołów czczon,<br/>wstępuje Pan na łaski tron.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tu w brata się przemienia wróg,<br/>by stanąć w rzeszy Bożych sług.<br/>Tu wolni od szatańskich szpon,<br/>bo krwią skropiony łaski tron.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tu swoją moc utraca grzech,<br/>pozbywam się ciężarów swych,<br/>Pan sam ujmuje moją dłoń<br/>i wieńcem chwały zdobi skroń.</lines>
+    </verse>
+  </lyrics>
+</song>

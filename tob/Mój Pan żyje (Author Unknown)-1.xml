@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:14">
+  <properties>
+    <titles>
+      <title>Mój Pan żyje</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="250"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Mój Pan żyje!<br/>Niech będzie wywyższony<br/>I błogosławiony<br/>Bóg zbawienia mego /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Więc będę śpiewać Ci,<br/>Sławić imię Twe,<br/>Pomiędzy narodami<br/>Głosić chwałę Twą!<br/>Mój Pan żyje!<br/>Niech będzie wywyższony<br/>I błogosławiony<br/>Bóg zbawienia mego</lines>
+    </verse>
+  </lyrics>
+</song>

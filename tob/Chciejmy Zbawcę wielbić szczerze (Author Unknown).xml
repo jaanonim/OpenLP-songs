@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:17">
+  <properties>
+    <titles>
+      <title>Chciejmy Zbawcę wielbić szczerze</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="7"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chciejmy Zbawcę wielbić szczerze,<br/>Który umiłował nas,<br/>Cześć i chwałę nieść w ofierze<br/>W każdej chwili, w każdy czas.<br/>Jezu, naszą Tyś ozdobą<br/>I radością, chlubą jest;<br/>Choć w cierpieniu, jednak z Tobą<br/>Błogo zawsze życie wieść.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Odkądś nasze serca zdobył<br/>I zapłacił grzechów dług,<br/>Przez cierniste życia drogi<br/>Wiedziesz nas w ojczysty próg.<br/>Gdy wspomnienia lat odległych<br/>Gorzką w duszy zrodzą łzę,<br/>Ty nie wspomnisz chwil ubiegłych,<br/>Temu pewnie wierzyć śmiem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Przejmij, Panie, dzięki nasze,<br/>Które z serca Tobie ślem.<br/>Ucz drogami Twymi zawsze<br/>W świecie się kierować złym;<br/>Pomóż wszystkie nasze siły<br/>Tobie tu poświęcić raz,<br/>By w królestwie Twym służyły,<br/>Nim do Siebie wezwiesz nas.</lines>
+    </verse>
+  </lyrics>
+</song>

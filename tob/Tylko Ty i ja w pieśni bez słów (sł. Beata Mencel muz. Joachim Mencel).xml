@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:31">
+  <properties>
+    <titles>
+      <title>Tylko Ty i ja w pieśni bez słów</title>
+    </titles>
+    <authors>
+      <author type="words">sł. Beata Mencel muz. Joachim Mencel</author>
+      <author type="music">sł. Beata Mencel muz. Joachim Mencel</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="651"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesteś w pełni mój<br/>Kiedy dajesz Siebie<br/>Dajesz Swoje Ciało<br/>- jest cisza.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tylko Ty i ja<br/>Tylko Ty i ja<br/>W pieśni bez słów<br/>Ty i ja. // x2<br/>Ty i ja. //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Między nami Treść..<br/>Nie ma zgiełku słowa<br/>Nie ma w nas emocji<br/>- jest cisza.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezu wielbię Cię<br/>Głębia w Twym spojrzeniu<br/>Wchodzę w nią w skupieniu<br/>- jest cisza.</lines>
+    </verse>
+  </lyrics>
+</song>

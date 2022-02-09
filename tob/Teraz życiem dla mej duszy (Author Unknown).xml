@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:08">
+  <properties>
+    <titles>
+      <title>Teraz życiem dla mej duszy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="42"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Teraz życiem dla mej duszy<br/>Jest Jezus, mój Jezus<br/>Teraz życiem dla mej duszy,<br/>Jest zbawiciel, drogi Pan.<br/>Jezus, Jezus, Jezus, Jezus.<br/>Teraz życiem dla mej duszy<br/>Jest Zbawiciel, drogi Pan</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mą nadzieją dla mej duszy<br/>Jest Jezus, mój Jezus<br/>Mą nadzieją dla mej duszy,<br/>Jest zbawiciel, drogi Pan.<br/>Jezus, Jezus, Jezus, Jezus.<br/>Mą nadzieją dla mej duszy<br/>Jest Zbawiciel, drogi Pan</lines>
+    </verse>
+  </lyrics>
+</song>

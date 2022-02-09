@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:54">
+  <properties>
+    <titles>
+      <title>Mędrcy świata</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="684"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mędrcy świata, monarchowie,<br/>Dokąd się śpieszycie?<br/>Jakież cuda wam opowie<br/>Betlejemskie Dziecię?<br/>Ono w żłobie nie ma tronu,<br/>Ani władzy świata,<br/>Który, pragnąc Jego zgonu,<br/>Cierń na skroń Mu splata.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mędrcy świata, złość okrutna<br/>Dziecię prześladuje,<br/>Wieść okropna, wieść to smutna,<br/>Herod zdradę knuje.<br/>Sprawa Boża potępiana,<br/>Wierni ucisk mają;<br/>Jeszcze dziś Chrystusa Pana<br/>Na krzyż przybijają.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Czyż was nic to nie odstrasza?<br/>Czy się nie wrócicie?<br/>Nie daremnaż wiara wasza<br/>W to mizerne Dziecię?<br/>O, mądrości niezbadana,<br/>Błoga ócz jasności,<br/>Która widzieć niebios Pana<br/>Może w tej słabości.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Choć w pieluszkach uwiniony,<br/>Wielkie czyni cudy,<br/>Chwała Jego ponad trony,<br/>Olśni wszystkie ludy.<br/>Mędrcy świata wznieście oko,<br/>Idą już narody,<br/>Z dary swymi, z czcią głęboką,<br/>Zażyć cnej ochłody.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>My do Ciebie pośpieszymy,<br/>Pokłon oddać Tobie,<br/>Z mocarzami, z maluczkimi,<br/>Który leżysz w żłobie.<br/>Pójdźmy, by kadzidło, złoto<br/>Przynieść Mu w ofierze!<br/>Dary swoje Ci z ochotą<br/>Niesiem, Jezu, szczerze.</lines>
+    </verse>
+  </lyrics>
+</song>

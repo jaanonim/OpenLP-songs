@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:35">
+  <properties>
+    <titles>
+      <title>Czy zobaczymy się przy zdroju</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="114"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czy zobaczym się przy zdroju, tam,<br/>gdzie wiecznej chwały kraj?<br/>Czy nie tęsknisz do pokoju?<br/>Chcesz stracony znaleźć raj?<br/>Tam radosne wykrzykania koło źródła życia brzmią,<br/>tam zbawionych Pan osłania;<br/>czy tam duszę znajdziesz twą?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tak, ja przyjdę też do zdroju,<br/>do przejrzystych życia wód,<br/>gdzie się rany wszystkie zgoją,<br/>gdzie powitam Boży Lud!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czy zobaczym się przy zdroju,<br/>gdzie już tony słychać harf,<br/>gdzie wybrani otrzymają szatę z promienistych barw;<br/>tam będziemy wyśpiewywać,<br/>tam popłynie słodki ton;<br/>czy byś nie chciał tam przebywać z Panem,<br/>gdzie króluje On?</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Tak, ja przyjdę też do zdroju,<br/>do przejrzystych życia wód,<br/>gdzie się rany wszystkie zgoją,<br/>gdzie powitam Boży Lud!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Czy zobaczym się przy zdroju,<br/>gdy w Ojcowski wstąpię gmach?<br/>Czy zostaniesz bez pokoju,<br/>bez nadziei, w gorzkich łzach?<br/>Kogo Chrystus Pan powołał i oczyścił z grzechu plam,<br/>ten ma miejsce w Ojca domu.<br/>Chciałbyś też przebywać tam?</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Tak, ja przyjdę też do zdroju,<br/>do przejrzystych życia wód,<br/>gdzie się rany wszystkie zgoją,<br/>gdzie powitam Boży Lud!</lines>
+    </verse>
+  </lyrics>
+</song>

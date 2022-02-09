@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:19">
+  <properties>
+    <titles>
+      <title>Gałązka drobna, wątła z Jessego trysła pnia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="38"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gałązka drobna, wątła<br/>z Jessego trysła pnia.<br/>Przez ojców zwiastowana<br/>od wieków radość ta.<br/>I kwiatkiem Boża moc<br/>Z gałązki tej nas<br/>darzy dziś w cichą,<br/>ciemną noc.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ten wdzięczny, miły<br/>kwiatek Izajasz wieścił rad,<br/>A z czystej Go dziewicy<br/>Bóg zesłał na ten świat.<br/>Tak chciała Boża moc<br/>I Maria śliczne dziecię<br/>powiła w ciemną noc.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ten śliczny kwiatek<br/>mały przecudny zapach śle<br/>I blaskiem swojej chwały<br/>rozprasza mroki złe.<br/>Prawdziwy człowiek - Bóg,<br/>W cierpieniach dopomaga,<br/>od śmierci broni trwóg.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Jezu, aż do zgonu,<br/>do zejścia z kraju łez,<br/>Ty moją bądź obroną,<br/>aż łzy obetrzesz z rzęs,<br/>Gdy Twoją ujrzę twarz<br/>W Ojczyźnie, pełnej chwały,<br/>o, to nam, Boże, zdarz!</lines>
+    </verse>
+  </lyrics>
+</song>

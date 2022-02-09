@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:34">
+  <properties>
+    <titles>
+      <title>Dziękuję Tobie, Ojcze mój</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="327"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dziękuję Tobie, Ojcze mój,<br/>Żeś otwarł dla nas łaski zdrój,<br/>Ze grzeszni mogą ze wszech stron<br/>Przyjść w każdej chwili przed Twój tron,<br/>By w ciszy szukać twarzy Twej,<br/>Co życiem jest dla duszy mej!<br/>Żeś dla mnie otwarł niebios drzwi,<br/>Gorące dzięki składam Ci!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tę obietnicę dałeś nam,<br/>Że w gronie naszym jesteś Sam,<br/>Gdy dwóch lub trzech tu zejdzie się,<br/>By modlić się w imieniu Twym.<br/>Za Twojej obecności dar,<br/>Za słodycz łaski Twej bez miar,<br/>Żeś dla mnie otwarł niebios drzwi,<br/>Gorące dzięki składam Ci!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Za każdą chwilkę, którąm mógł<br/>W modlitwie spędzić u Twych nóg,<br/>Przyjmując hojność łaski Twej<br/>I wolność Twą od myśli złej,<br/>Za powiew Ducha Twego w nas,<br/>Za ten kosztowny łaski czas,<br/>Żeś dla mnie otwarł niebios drzwi,<br/>Gorące dzięki składam Ci!</lines>
+    </verse>
+  </lyrics>
+</song>

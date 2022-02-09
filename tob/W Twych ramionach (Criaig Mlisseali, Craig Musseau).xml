@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:31">
+  <properties>
+    <titles>
+      <title>W Twych ramionach</title>
+    </titles>
+    <copyright>Mercy / Vineyard, 1991 Mercy/Vineyard Publishing | Vineyard Songs Canada | ION Publishing</copyright>
+    <authors>
+      <author type="words">Criaig Mlisseali</author>
+      <author type="music">Criaig Mlisseali</author>
+      <author type="words">Craig Musseau</author>
+      <author type="music">Craig Musseau</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="745"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>joy</theme>
+      <theme>meditation</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>longing</theme>
+      <theme>peace</theme>
+      <theme>love</theme>
+      <theme>devotion</theme>
+      <theme>commitment</theme>
+      <theme>worship</theme>
+      <theme>god-with-us</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zaśpiewać chcę miłości pieśń<br/>memu Zbawcy Jezusowi.<br/>Za dzieła Twe wychwalam Cię<br/>Kochany Zbawco, drogi Jezu.<br/>Raduję się, bo nazwałeś mnie Swym,<br/>Tylko z Tobą pragnę być.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>W Twych ramionach się skryć<br/>W Twych ramionach się skryć<br/>Więc przytul mnie i ukryj mnie<br/>W Twych ramionach dziś.</lines>
+    </verse>
+  </lyrics>
+</song>

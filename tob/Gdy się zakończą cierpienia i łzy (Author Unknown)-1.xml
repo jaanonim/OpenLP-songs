@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:48">
+  <properties>
+    <titles>
+      <title>Gdy się zakończą cierpienia i łzy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="568"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy się zakończą cierpienia i łzy,<br/>Gdy Pan niebieskie otworzy mi drzwi,<br/>Wtedy Zbawiciel i On tylko Sam<br/>Będzie przedmiotem radości mej tam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Będzie to dzień weselnych pień, /x2<br/>/ Gdy Jezus nasz Swą objawi nam twarz! /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy łaska, która zakryła mój grzech,<br/>Tam do ojczystych wprowadzi mię strzech,<br/>Wtedy Zbawiciel i On tylko Sam<br/>Będzie najmilszym przybytkiem mi tam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kiedy niebieska otoczy mię błoń,<br/>Miłych przyjaciół uścisnę ja dłoń,<br/>A jednak Jezus i On tylko Sam<br/>Będzie kochaniem najmilszym</lines>
+    </verse>
+  </lyrics>
+</song>

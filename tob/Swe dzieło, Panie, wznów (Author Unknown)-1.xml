@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:45">
+  <properties>
+    <titles>
+      <title>Swe dzieło, Panie, wznów</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="492"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Swe dzieło, Panie, wznów,<br/>Potęgę okaż Swą,<br/>Umarłych Słowem Swoim wzbudź,<br/>Niech serca wiarą tchną!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Swe dzieło wskrześ,<br/>Zlej nowy łaski blask,<br/>A zabrzmi Tobie chwała, cześć,<br/>Doznamy Twoich łask!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Swe dzieło, Panie, wznów,<br/>Niech czuwa trzoda Twa,<br/>Gasnące iskry roznieć znów,<br/>Miech dzieło Ducha trwa!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Swe dzieło, Panie, wznów,<br/>Co chore ulecz, zgój,<br/>Pragnienie gaś, zaspokój głód,<br/>Niech Duch w nas rządzi Twój!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Swe dzieło, Panie, wskrześ,<br/>Niech je obaczy świat,<br/>By wszyscy już poznali Cię<br/>I szli za Tobą w ślad!</lines>
+    </verse>
+  </lyrics>
+</song>

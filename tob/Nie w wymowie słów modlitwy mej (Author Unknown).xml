@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:59">
+  <properties>
+    <titles>
+      <title>Nie w wymowie słów modlitwy mej</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="761"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie w wymowie słów modlitwy mej,<br/>Ani w pieśniach życia duszy cnej,<br/>Skryjesz Panie pod opieką swą.<br/>Wszystkie moje źródła w Tobie są.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie w życzeniach mam tu pokój swój,<br/>I nie daje go los szczęsny mój.<br/>Jedna pieśń przenika duszę mą.<br/>Wszystkie moje źródła w Tobie są.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Widzisz sam kłopoty i żal mój,<br/>Dajesz sercu memu pokój Swój,<br/>tobie Boże niosę duszę mą.<br/>Wszystkie moje źródła w Tobie są.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ujawniłeś Swej miłości dar.<br/>Radość moja w sercu jest bez miar.<br/>W puszczy sławić będę miłość Twą.<br/>Wszystkie moje źródła w Tobie są.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Zewsząd grozi nieprzyjaciół złość,<br/>Lecz obrony mam w swym Panu dość.<br/>Moc zwycięstwa- to jest wolą Twą.<br/>Wszystkie moje źródła w Tobie są.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ty pokojem i opoką mi.<br/>Nie zaszkodzą mi tu ludzie źli.<br/>W Tobie wieczną już mam radość mą.<br/>Wszystkie moje źródła w Tobie są.</lines>
+    </verse>
+  </lyrics>
+</song>

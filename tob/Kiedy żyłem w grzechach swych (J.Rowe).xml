@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:28">
+  <properties>
+    <titles>
+      <title>Kiedy żyłem w grzechach swych</title>
+    </titles>
+    <authors>
+      <author type="words">J.Rowe</author>
+      <author type="music">J.Rowe</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="232"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kiedy żyłem w grzechach swych,<br/>Bez Boga byłem ja,<br/>W sercu, mieszkał ciągle grzech,<br/>Była to dola zła;<br/>Lecz mnie Jezus, tylko On<br/>W świecie odnalazł tym,<br/>Podał mi Swą świętą dłoń,<br/>Bym zbawion był.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Miłość to Twa, miłość to Twa<br/>Sprawiła, Jezu mój, żem wolny ja! / x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tobie, Jezu, daję dziś<br/>Serce zbolałe swe,<br/>Chcę Cię kochać;<br/>Ty Sam wiesz,<br/>Że już Ci służyć chcę.<br/>Weź mój czas i każdy dzień<br/>Sam kieruj ręką Swą,<br/>Do ostatnich życia tchnień<br/>Tyś tarczą mą.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Duszo droga, nawróć się,<br/>Ocuć się z grzechów snu,<br/>Spójrz, jak Jezus kocha cię,<br/>Tylko zaufaj Mu!<br/>On za ciebie niósł Swój krzyż,<br/>Jego posłuchaj słów,<br/>Uwierz w Niego jeszcze dziś,<br/>A będziesz zdrów.</lines>
+    </verse>
+  </lyrics>
+</song>

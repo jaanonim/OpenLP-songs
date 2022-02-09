@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:56">
+  <properties>
+    <titles>
+      <title>286 Schowaj mnie</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.Schowaj mnie pod skrzydła Swe<br/>Ukryj mnie w silnej dłoni Swej.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>ref. Kiedy fale mórz chcą porwać mnie<br/>z Tobą wzniosę się, podniesiesz mnie<br/>Panie Królem Tyś spienionych wód<br/>Ja ufam Ci- Ty jesteś Bóg</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Odpocznę dziś w ramionach Twych<br/>Dusza ma w Tobie będzie trwać.</lines>
+    </verse>
+  </lyrics>
+</song>

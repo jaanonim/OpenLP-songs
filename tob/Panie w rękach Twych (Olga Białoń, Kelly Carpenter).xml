@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:29">
+  <properties>
+    <titles>
+      <title>Panie w rękach Twych</title>
+    </titles>
+    <copyright>1994 Mercy / Vineyard Publishing</copyright>
+    <authors>
+      <author type="translate">Olga Białoń</author>
+      <author type="words">Kelly Carpenter</author>
+      <author type="music">Kelly Carpenter</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="521"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>meditation</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>longing</theme>
+      <theme>peace</theme>
+      <theme>love</theme>
+      <theme>devotion</theme>
+      <theme>commitment</theme>
+      <theme>worship</theme>
+      <theme>god-with-us</theme>
+      <theme>violin</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie w rękach Twych<br/>trzymaj mocno mnie.<br/>Oddaliłem od Ciebie się,<br/>Ty przygarniasz znowu mnie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tyś pragnieniem mym,<br/>chcę Ciebie tylko znać<br/>odczuć ciepło ramion Twych,<br/>znaleźć się tam, gdzie Ty chcesz.<br/>Pomóż wrócić mi,<br/>chcę do Ciebie przyjść.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tak pragnę Cię,<br/>Tak potrzebuję Ciebie.<br/>Tak pragnę Cię,  pozwól mi poznać Cię.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:45">
+  <properties>
+    <titles>
+      <title>Nim wyszedłeś dzisiaj z domu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="287"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nim wyszedłeś dzisiaj z domu<br/>czyś pomodlił się?<br/>Czyś poprosił Zbawcę twego,<br/>by cię chronić chciał od złego<br/>dzisiaj cały dzień.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jakaż siła jest w modlitwie,<br/>ona zmienia noc na dzień!<br/>Gdy więc słabniesz w życia bitwie,<br/>klęknij, pomódl się !</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy twe serce złość napełnia,<br/>czy ty modlisz się?<br/>Czy o łaskę prosisz z nieba,<br/>byś przebaczyć mógł, gdy trzeba,<br/>gdy ktoś skrzywdził cię?</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Jakaż siła jest w modlitwie,<br/>ona zmienia noc na dzień!<br/>Gdy więc słabniesz w życia bitwie,<br/>klęknij, pomódl się !</lines>
+    </verse>
+    <verse name="v3">
+      <lines>W doświadczenia chwilę ciężką,<br/>czy modliłeś się?<br/>Kiedy w smutku dusza płacze,<br/>czyż do nieba wzniósł swe oczy,<br/>skąd Bóg balsam śle.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Jakaż siła jest w modlitwie,<br/>ona zmienia noc na dzień!<br/>Gdy więc słabniesz w życia bitwie,<br/>klęknij, pomódl się !</lines>
+    </verse>
+  </lyrics>
+</song>

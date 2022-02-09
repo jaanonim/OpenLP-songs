@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:04">
+  <properties>
+    <titles>
+      <title>Wysłuchajcie mego głosu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="210"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wysłuchajcie mego głosu,<br/>Czyńcie to co nakazuję,<br/>A będziecie ludem moim przez cały czas,<br/>Gdy na moje zawołanie,<br/>Nie odpowie żaden z was,<br/>Wtedy swoją twarz odwrócę,<br/>Na długi czas!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jeśli nie usłuchacie mnie,<br/>W ukryciu płakać będę,<br/>Do niewoli poślę was,<br/>Trzodo ma!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dziś odrzućcie wasze troski,<br/>Obrzydliwość w sercach waszych,<br/>"Zawróć do mnie Izraelu"<br/>Mówi Pan.<br/>Twoje złe postępowanie,<br/>Brak bojaźni i pokuty,<br/>Ugodziły w serce moje,<br/>Ludu mój!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Słowa me poczytujecie,<br/>Jako przedmiot drwiny waszej,<br/>Brak w nich też upodobania,<br/>Brak też czci.<br/>Jeśli szczerze naprawicie,<br/>Swoje drogi, czyny złe,<br/>Sprawię, że znów powrócicie,<br/>Na ziemię swe.</lines>
+    </verse>
+  </lyrics>
+</song>

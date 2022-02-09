@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:46">
+  <properties>
+    <titles>
+      <title>Naucz modlić się Boże</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="310"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Naucz modlić się Boże, do Ciebie<br/>całą duszą i sercem Cię czcić.<br/>W poświęceniu, zaparciu się siebie<br/>/Służyć Tobie i wiernym Ci być/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Naucz modlić się Boże, do Ciebie,<br/>moje serce w ofierze Ci dać,<br/>naucz szczerze miłować bliźniego<br/>/I na zawsze w miłości Twej trwać/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Naucz modlić się Boże, do Ciebie,<br/>wszystko jawne przed Tobą ma być.<br/>Naucz zawsze i w każdej potrzebie<br/>/Szukać Ciebie i z Tobą wciąż żyć/</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Naucz modlić się, Boże, do Ciebie,<br/>gdy me życie spokojne jak toń<br/>i gdy w burzy, w ucisku, w potrzebie<br/>/Raczże zawsze mi podać Swą dłoń/</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Naucz modlić się, Boże, do Ciebie<br/>w przykazaniach codziennie Twych żyć.<br/>Daj mi spocząć po trudach mych w niebie,<br/>/Bym na wieki szczęśliwym mógł być/</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Naucz modlić się, Boże, do Ciebie,<br/>w woli Twojej odnaleźć swój cel,<br/>a gdy przyjmiesz mię w końcu do Siebie<br/>/Przyobleczesz w najświętszą mię biel/</lines>
+    </verse>
+  </lyrics>
+</song>

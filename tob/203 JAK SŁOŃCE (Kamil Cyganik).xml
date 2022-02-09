@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:48">
+  <properties>
+    <titles>
+      <title>203 JAK SŁOŃCE</title>
+    </titles>
+    <authors>
+      <author>Kamil Cyganik</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wschodzisz jak słońce nad ołtarzem<br/>w płonącej hostii Twej miłości.<br/>Rozpalaj dusze skute lodem,<br/>niech zmartwychwstaną martwe kości.</lines>
+    </verse>
+  </lyrics>
+</song>

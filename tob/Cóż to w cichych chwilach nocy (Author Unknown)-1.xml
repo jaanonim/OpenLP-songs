@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:23">
+  <properties>
+    <titles>
+      <title>Cóż to w cichych chwilach nocy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="126"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cóż to w cichych chwilach nocy<br/>W tobie puka tak?<br/>Bez przestanku ciągle puka.<br/>Czegóż jest to znak?<br/>Nie mów, że to pulsu bicie,<br/>Musisz głębiej iść;<br/>Zbawca twój kołacze, prosi:<br/>Pozwól w serce wnijść!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szybkim krokiem śmierć przychodzi<br/>Do pałaców, chat;<br/>Nie pukając, nie pytając,<br/>Zrywa życia kwiat.<br/>Ale Jezus czeka, czeka,<br/>Aż otworzysz drzwi,<br/>Wreszcie smutny idzie dalej,<br/>Wtenczas biada ci!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Będziesz ty na dworze wzywał,<br/>Prosił: „Wpuść mię, wpuść!"<br/>Ręce będziesz załamywał,<br/>Rozpacz będzie róść.<br/>Czyś zapomniał, kto na dworze<br/>Musiał długo stać?<br/>Pan, co z tobą chciał się złączyć,<br/>Już cię nie chce znać!</lines>
+    </verse>
+  </lyrics>
+</song>

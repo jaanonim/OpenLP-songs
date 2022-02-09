@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:37">
+  <properties>
+    <titles>
+      <title>Miłość cierpliwa jest</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="97"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Miłość cierpliwa jest,<br/>Miłość dobrotliwa jest,<br/>Wszystko zakryć chce,<br/>We wszystko uwierzy też,<br/>Źle nie myśli, nie, nie, nie,<br/>I nie postępuje źle,<br/>Nie unosi się, prawdą jest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miłość nie chełpi się,<br/>Z każdej prawdy cieszy się,<br/>Nie nadyma się, nie zazdrości o nie!<br/>Wszystko znosi tak, tak, tak,<br/>Nie ustaje, ciągle trwa,<br/>Miłuj cały świat właśnie tak.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Miłość cierpliwa jest,<br/>Miłość dobrotliwa jest,<br/>Wszystko zakryć chce,<br/>We wszystko uwierzy też,<br/>Źle nie myśli, nie, nie, nie,<br/>I nie postępuje źle,<br/>Nie unosi się, prawdą jest.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Miłość nie chełpi się,<br/>Z każdej prawdy cieszy się,<br/>Nie nadyma się, nie zazdrości o nie!<br/>Wszystko znosi tak, tak, tak,<br/>Nie ustaje, ciągle trwa,<br/>Miłuj cały świat właśnie tak.<br/>Miłuj cały świat właśnie tak.<br/>Miłuj cały świat właśnie tak.</lines>
+    </verse>
+  </lyrics>
+</song>

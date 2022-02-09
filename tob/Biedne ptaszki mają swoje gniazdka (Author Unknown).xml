@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:39">
+  <properties>
+    <titles>
+      <title>Biedne ptaszki mają swoje gniazdka</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="432"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Biedne ptaszki mają swoje gniazdka,<br/>Lisy chroni w jamach ciemny bór,<br/>Dziki zwierz bezpiecznie mieszka w lasach<br/>I w dolinach i na szczytach gór.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezus nie miał, gdzie by głowę skłonił,<br/>Bo własnego dachu nie miał On;<br/>Ten, co ziemię i niebiosa stworzył,<br/>Nic własnością nie mógł nazwać Swą.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy u Ojca szukał pokrzepienia,<br/>Do pustyni cichej chodził tam,<br/>Stwórca niebios i całego świata<br/>Swej komórki nie posiadał Sam.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wielkie tłumy wciąż Go otaczały;<br/>Bez wytchnienia niósł On ulgę im.<br/>Nigdy ludziom nie był niedostępny,<br/>- Własnej chaty nie miał Władca ziem.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Czemuż my tak często się żalimy,<br/>Że cierniste życia drogi są?<br/>- Nie narzekaj, lecz zaufaj Temu,<br/>Który hojnie daje łaskę Swą</lines>
+    </verse>
+  </lyrics>
+</song>

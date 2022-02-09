@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:24">
+  <properties>
+    <titles>
+      <title>O piękności</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kto Ciebie raz poznał<br/>Ten nic innego pokochać nie może.<br/>Czuję, że tonę w Nim<br/>Jako jedno ziarenko<br/>Piasku w bezdennym oceanie<br/>Czuję, że nie ma ani<br/>Jednej kropli krwi we mnie<br/>Która by nie płonęła<br/>Miłością ku Tobie<br/>Miłosierdzie Boże // x3 //</lines>
+    </verse>
+  </lyrics>
+</song>

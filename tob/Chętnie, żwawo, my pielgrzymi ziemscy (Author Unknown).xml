@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:02">
+  <properties>
+    <titles>
+      <title>Chętnie, żwawo, my pielgrzymi ziemscy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="823"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chętnie, żwawo, my pielgrzymi ziemscy<br/>Trudźmy się dla Zbawcy w każdy czas,<br/>Co On nam powierzył czyńmy chętnie,<br/>Bo nagroda wieczna czeka nas.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>W pracy dla Zbawcy,<br/>Szybko płynie czas, Szybko płynie czas,<br/>W pracy dla Zbawcy,<br/>Wszak nagroda czeka nas.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dziwną wieść tę o miłości Bożej<br/>Nieśmy grzesznym ludziom w świecie tym,<br/>Małym jest wszak grono Pańskich żeńców,<br/>A potrzeby wielkie w walce z złym.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kroczmy więc w pokoju za swym Mistrzem,<br/>Który męstwa, sił dodaje nam,<br/>On i nas w uroczy, jasny ranek<br/>Przyozdobi wieńcem prawdy Sam.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Co za dzień radości i wesela,<br/>Gdy nas stawi przed Ojcowski tron,<br/>Lśni twarz Jego ponad światłość słońca,<br/>Zobaczymy jak nas kocha On</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:24">
+  <properties>
+    <titles>
+      <title>Miły głos Ducha odzywa się</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="146"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Miły głos Ducha odzywa się,<br/>Do Jezusa zaprasza wciąż cię,<br/>On z grzechu, z trwóg<br/>duszę twą zwie.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, pójdź, o, pójdź,<br/>Twój Jezus szczęście<br/>tobie dać chce.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czy ci żal jest porzucić ten świat?<br/>Chcesz z nim zginąć?<br/>On pełen jest zdrad!<br/>O, pójdź, Chrystus życie ci śle!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Swoją krew przelał za ciebie Pan,<br/>By zbawienia zgotować ci stan.<br/>Przyjm Go, duszo dziś<br/>w serce swe!</lines>
+    </verse>
+  </lyrics>
+</song>

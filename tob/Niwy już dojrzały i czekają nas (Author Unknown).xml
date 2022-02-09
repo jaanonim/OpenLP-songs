@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:00">
+  <properties>
+    <titles>
+      <title>Niwy już dojrzały i czekają nas</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="791"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niwy już dojrzały i czekają nas,<br/>Wyśle Pan nad Pany żeńców w żniwa czas.<br/>Pracy Mistrz, ma wiele, a jest mało sług.<br/>Bracia, czy słyszycie, jak nas wzywa Bóg?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Nadchodzi żniwa dzień.<br/>Radosny żniwa dzień.<br/>Będziem złote kłosy żąć,<br/>będziemy kłosy żąć. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bratu zemdlonemu podaj swoją dłoń.<br/>Zachęć go do czynu, śpiesz z pomocą doń.<br/>Wdzięczna jest ta praca, Da nagrodę Król,<br/>Powie też i tobie „Wnijdź w przybytek Mój!"</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dokąd lśni słoneczko, wołaj grzesznych, służ!<br/>Szybko mkną dni żniwa, wnet przeminą już<br/>I Bracia, siostry, wiążmy w snopy hojny plon,<br/>I z radością znośmy przed Chrystusa tron!</lines>
+    </verse>
+  </lyrics>
+</song>

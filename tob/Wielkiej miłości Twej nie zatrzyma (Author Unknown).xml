@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:13">
+  <properties>
+    <titles>
+      <title>Wielkiej miłości Twej nie zatrzyma</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>WIELKIEJ MIŁOŚCI TWEJ NIE ZATRZYMA ŻYCIE ANI ŚMIERĆ<br/>WIEM, ŻE KOCHASZ MNIE, CHOĆ CZASEM POTYKAM SIĘ<br/>TY NOWĄ ŁASKĘ DAJESZ Z KAŻDYM DNIEM<br/>WIEM, ŻE KOCHASZ MNIE</lines>
+    </verse>
+    <verse name="v2">
+      <lines>BO TY SIĘ NIGDY NIE ZMIENIASZ, KOCHASZ NIESKOŃCZENIE<br/>I TWOJA MIŁOŚĆ JAK TY, TRWA PRZEZ WSZYSTKIE DNI<br/>W DOLINIE NIE ZGUBIĘ SIĘ<br/>CIEMNA NOC NIE PRZESTRASZY MNIE<br/>BO WIEM, ŻE TY JESTEŚ ZE MNĄ<br/>WIEM, ŻE KOCHASZ MNIE</lines>
+    </verse>
+    <verse name="v3">
+      <lines>CHOĆ FALE JUŻ ZASŁONIĄ BRZEG<br/>TY JESTEŚ PRZY MNIE I NIE BOJĘ SIĘ<br/>WIEM, ŻE KOCHASZ MNIE<br/>I CHOCIAŻ DALEKO CEL W TOBIE MAM SIŁĘ<br/>ŻEBY WSZYSTKO PRZEJŚĆ WIEM, ŻE KOCHASZ MNIE<br/>CHCĘ ŻYĆ, TAK BY KOCHAĆ CIEBIE Z CAŁYCH SIŁ</lines>
+    </verse>
+  </lyrics>
+</song>

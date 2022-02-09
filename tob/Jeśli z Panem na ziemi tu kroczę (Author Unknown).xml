@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:45">
+  <properties>
+    <titles>
+      <title>Jeśli z Panem na ziemi tu kroczę</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="280"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jeśli z Panem na ziemi tu kroczę,<br/>Jego wolę wypełniam co dzień,<br/>Króla mego tam w niebie zobaczę,<br/>gdy nadejdzie pielgrzymki mej kres.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gdy nadejdzie pielgrzymki mej kres,<br/>oczy moje obeschną od łez.<br/>Radość wieczna udziałem mym będzie,<br/>gdy nadejdzie pielgrzymki mej kres.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeśli świadczyć tu będę wytrwale,<br/>szukać owiec zgubionych wśród mas,<br/>Bóg mi pewno pokaże Swą chwałę,<br/>gdy nadejdzie pielgrzymki mej kres.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Gdy nadejdzie pielgrzymki mej kres,<br/>oczy moje obeschną od łez.<br/>Radość wieczna udziałem mym będzie,<br/>gdy nadejdzie pielgrzymki mej kres.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu rozłąki i wciąż pożegnania,<br/>pełno bólu, nieszczęścia i łez,<br/>lecz zakończą się wszystkie wzdychania,<br/>gdy nadejdzie pielgrzymki mej kres.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Gdy nadejdzie pielgrzymki mej kres,<br/>oczy moje obeschną od łez.<br/>Radość wieczna udziałem mym będzie,<br/>gdy nadejdzie pielgrzymki mej kres.</lines>
+    </verse>
+  </lyrics>
+</song>

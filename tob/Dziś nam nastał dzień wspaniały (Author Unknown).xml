@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:20">
+  <properties>
+    <titles>
+      <title>Dziś nam nastał dzień wspaniały</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="58"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dziś nam nastał dzień wspaniały,<br/>Dzień w radości doskonały:<br/>Dziś Pan Chrystus triumfuje,<br/>Nieprzyjaciel „więzy czuje.<br/>Alleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Stary wąż, grzech, śmierć i piekło,<br/>Przed Nim wszystko precz uciekło;<br/>Biedy, trwogi dziś ustały,<br/>Pan to sprawił zmartwychwstały.<br/>Alleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Śmierć przywrócić łup musiała<br/>I żywotu się poddała;<br/>Chrystus wszystką moc jej skrócił,<br/>Byt stracony nam przywrócił.<br/>Alleluja</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Słońce, ziemia, wsze stworzenie<br/>I co miało zasmęcenie,<br/>Radość ma dnia dzisiejszego,<br/>Ze padł książę świata tego.<br/>Alleluja!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Więc się słusznie radujemy,<br/>Bogu cześć wyśpiewujemy,<br/>Chwaląc Ciebie, Chryste Panie,<br/>Za chwalebne zmartwychwstanie.<br/>Alleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

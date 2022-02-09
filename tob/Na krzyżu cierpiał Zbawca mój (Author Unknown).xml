@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:52">
+  <properties>
+    <titles>
+      <title>Na krzyżu cierpiał Zbawca mój</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="433"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na krzyżu cierpiał Zbawca mój,<br/>On za mnie wydał żywot Swój.<br/>Bezbożnych zgraja gardzi Nim,<br/>On prosi: Ojcze, odpuść im!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W cierpieniu wielkim świata Pan,<br/>łotrowi raj obiecał sam.<br/>Zapomniał On boleści Swe,<br/>o grzeszne dusze troszczył się.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na krzyż, ma duszo, skieruj wzrok:<br/>Patrz na przebity Pana bok,<br/>z ran Jego płynie święta krew,<br/>by obmyć wszelki świata grzech.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:27">
+  <properties>
+    <titles>
+      <title>Rzuć, człowiecze, marny świat</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="210"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rzuć, człowiecze, marny świat,<br/>Oddaj serce Chrystusowi!<br/>Tak unikniesz świata zdrad,<br/>Niebezpiecznych grzesznikowi.<br/>Wierne serce niech mi da,<br/>Jezu drogi, łaska Twa!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ach, gdy zajrzę w serce me,<br/>Ileż jest w nim takich rzeczy,<br/>Co mi skryły niebo Twe,<br/>Żem je przestał mieć na pieczy!<br/>Czuję, Zbawco, w duszy mej,<br/>Żem z natury w mocy złej.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Duchu Święty, Ty mną rządź,<br/>Bym dał odpór światu złemu;<br/>Mej miłości celem bądź,<br/>Bym się skłonił ku dobremu!<br/>Gdzie jest Jezus z Duchem Swym,<br/>Tam jest koniec żądzom złym.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zapełń serca mego czczość<br/>Swej miłości darem świętym,<br/>Bym nie przestał nigdy róść<br/>W życiu, w łasce Twej poczętym;<br/>Daj mi zawsze w Tobie być,<br/>Bym mógł Twoim życiem żyć!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Któż o ziemską cześć by dbał,<br/>Mając godność Bożych dzieci?<br/>W tej godności bierze dział,<br/>W kim Twa miłość, Jezu, świeci.<br/>Kto Cię kocha, ten już ma<br/>To, co wieczną chwałę da</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:24">
+  <properties>
+    <titles>
+      <title>O Lord hear my prayer</title>
+    </titles>
+    <authors>
+      <author type="words">J. Berthier</author>
+      <author type="music">J. Berthier</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="464"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Lord hear my prayer,<br/>O Lord hear my prayer,<br/>When I call answer me.<br/>O Lord hear my prayer,<br/>O Lord hear my prayer,<br/>Come and listen to me.<br/>O usłysz mój głos,<br/>O usłysz mój głos.<br/>Panie mój wzywam Cię.<br/>O usłysz mój głos,<br/>O usłysz mój głos.<br/>Przyjdź i wysłuchaj mnie.</lines>
+    </verse>
+  </lyrics>
+</song>

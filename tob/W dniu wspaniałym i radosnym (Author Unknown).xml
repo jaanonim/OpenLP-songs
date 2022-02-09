@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:49">
+  <properties>
+    <titles>
+      <title>W dniu wspaniałym i radosnym</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="382"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W dniu wspaniałym i radosnym, kiedy Chrystus<br/>zjawi się po Swój kościół by go skryć przed siłą<br/>złą, i nastanie zmartwychwstania wiernych Pańskich<br/>cudny czas, Pan przemieni nasze ciała mocą Swą.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>// Jakież mnóstwo // ,<br/>jakież mnóstwo odkupionych<br/>w Bożym mieście zbierze się,<br/>//  Jakież mnóstwo //  nową pieśnią<br/>będzie, Boże, wielbić Cię!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy złotymi ulicami podążymy w Pański gród,<br/>gdzie ożywcze płynie źródło Bożych łask,<br/>wtedy pierzchnie smutek wszelki, ziści się<br/>zbawienia cud, a oblicza nasze olśni Pański blask.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>// Jakież mnóstwo // ,<br/>jakież mnóstwo odkupionych<br/>w Bożym mieście zbierze się,<br/>//  Jakież mnóstwo //  nową pieśnią<br/>będzie, Boże, wielbić Cię!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ty też spojrzyj na Zwycięzcę, otwórz Jemu<br/>serca drzwi, bo wypełnił obietnicę Chrystus Pan.<br/>Ten, co kiedyś zmarł na krzyżu, wspaniałością wieczną lśni.<br/>Czy też spotkam duszę twoją w niebie tam?</lines>
+    </verse>
+    <verse name="c3">
+      <lines>// Jakież mnóstwo // ,<br/>jakież mnóstwo odkupionych<br/>w Bożym mieście zbierze się,<br/>//  Jakież mnóstwo //  nową pieśnią<br/>będzie, Boże, wielbić Cię!</lines>
+    </verse>
+  </lyrics>
+</song>

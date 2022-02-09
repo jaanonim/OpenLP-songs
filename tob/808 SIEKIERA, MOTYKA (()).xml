@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:51">
+  <properties>
+    <titles>
+      <title>808 SIEKIERA, MOTYKA</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Siekiera, motyka, bimber,szklanka<br/>W nocy nalot, w dzień łapanka,<br/>Siekiera, motyka, światło, prąci -<br/>Kiedy oni pójdą stąd?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Siekiera, motyka, piłka, szklanka,<br/>W nocy nalot, w dzień łapanka.<br/>Siekiera, motyka, piłka, gwóźdź,<br/>Masz górala to mnie puść.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Co tu robić, o czym śnić,<br/>Szwaby nam nie dają żyć.<br/>Ich kultura nie zabrania<br/>Na ulicach polowania.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Siekiera, motyka, piłka, linka,<br/>Tutaj Prusy, tam Treblinka.<br/>Już nie wiemy, gdzie się skryć,<br/>Szkopy nam nie dają żyć.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Siekiera, motyka, tramwaj, buda,<br/>Każdy zwiewa, gdzie się uda.<br/>Po co siedzieć w Cytadeli<br/>albo w jakiejś innej celi.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Po ulicach gonią wciąż,<br/>Patrzą kogo jeszcze wziąć.<br/>Im kultura nie zabrania<br/>na ulicach polowania.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Siekiera motyka, styczeń, luty,<br/>Niemiec z Włochem gubią buty,<br/>Siekiera motyka, linka, drut-<br/>Dziś pan malarz jest kaput.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Siekiera, motyka, piłka, alasz.<br/>Przegrał wojnę głupi malarz.<br/>Siekiera, motyka, piłka, nóż.<br/>Przegrał wojnę już, już, już.</lines>
+    </verse>
+  </lyrics>
+</song>

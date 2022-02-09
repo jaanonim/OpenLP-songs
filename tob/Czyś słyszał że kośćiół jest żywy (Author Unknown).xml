@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:31">
+  <properties>
+    <titles>
+      <title>Czyś słyszał że kośćiół jest żywy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="26"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czyś słyszał,<br/>że kościół jest żywy,<br/>gdzie Chrystus<br/>Kapłanem jest sam,<br/>gdzie radość<br/>i pokój prawdziwy<br/>z miłości udziela Bóg nam?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, pójdź<br/>do kościoła żywego,<br/>podążaj przez wiarę i żyj,<br/>do Boga z sumienia czystego<br/>w tym domu<br/>modlitwy twe ślij!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czy znany ci<br/>kościół prawdziwy,<br/>co z Ducha<br/>i z prawdy się stał,<br/>gdzie każdy się<br/>czuje szczęśliwy,<br/>że Bóg mu zbawienie Swe dał?</lines>
+    </verse>
+    <verse name="c2">
+      <lines>O, pójdź<br/>do kościoła żywego,<br/>podążaj przez wiarę i żyj,<br/>do Boga z sumienia czystego<br/>w tym domu<br/>modlitwy twe ślij!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Czyś słyszał,<br/>że dom jest duchowy,<br/>gdzie nie ma wyzysku ni zła,<br/>gdzie darmo<br/>i w sposób cudowny<br/>Bóg daje każdemu Swój dar?</lines>
+    </verse>
+    <verse name="c3">
+      <lines>O, pójdź<br/>do kościoła żywego,<br/>podążaj przez wiarę i żyj,<br/>do Boga z sumienia czystego<br/>w tym domu<br/>modlitwy twe ślij!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Czyś słyszał,<br/>że kościół jest żywy,<br/>że miłość zasadą jest tam;<br/>gdzie ludzie<br/>to bracia prawdziwi,<br/>a głową i ojcem Bóg sam?</lines>
+    </verse>
+    <verse name="c4">
+      <lines>O, pójdź<br/>do kościoła żywego,<br/>podążaj przez wiarę i żyj,<br/>do Boga z sumienia czystego<br/>w tym domu<br/>modlitwy twe ślij!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jam niegdyś<br/>był w grzechach zgubiony,<br/>nie członek kościoła, lecz trup;<br/>lecz Chrystus<br/>za grzech mój zraniony,<br/>swym grobem<br/>zastąpił mój grób.</lines>
+    </verse>
+    <verse name="c5">
+      <lines>O, pójdź<br/>do kościoła żywego,<br/>podążaj przez wiarę i żyj,<br/>do Boga z sumienia czystego<br/>w tym domu<br/>modlitwy twe ślij!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Gdy teraz mój Zbawca<br/>jest żywy,<br/>On z śmierci mię wyrwał i kar,<br/>już wiem czym<br/>jest kościół prawdziwy,<br/>gdy życia wiecznego<br/>mam dar.</lines>
+    </verse>
+    <verse name="c6">
+      <lines>O, pójdź<br/>do kościoła żywego,<br/>podążaj przez wiarę i żyj,<br/>do Boga z sumienia czystego<br/>w tym domu<br/>modlitwy twe ślij!</lines>
+    </verse>
+  </lyrics>
+</song>

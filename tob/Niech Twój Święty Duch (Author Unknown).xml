@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:09">
+  <properties>
+    <titles>
+      <title>Niech Twój Święty Duch</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niech Twój Święty Duch<br/>Dziś przenika mnie<br/>I niech zawsze już<br/>Gości w duszy mej</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I niech spadnie deszcz<br/>Błogosławieństw twych<br/>Ojcze obmyj mnie<br/>Duchu Święty przyjdź</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Duchu Święty przyjdź<br/>Działaj z mocą w nas<br/>Duchu Święty przyjdź<br/>Przemień smutku czas</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Daj radości czas<br/>Daj pokoju czas<br/>Daj wolności czas<br/>Daj miłości czas</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:56">
+  <properties>
+    <titles>
+      <title>Ma Dusza</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ma dusza<br/>Śpiewa Ci<br/>Śpiewa<br/>O miłości mej</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeszcze tylko krótka chwila, a zobaczę Cię<br/>Jeszcze tylko krótka chwila i już poznam Cię<br/>Jeszcze tylko krótka chwila i będziemy razem</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wszystko czego pragnę<br/>To znać serce Twoje <br/>Pragnę wytrwać aż powrócisz</lines>
+    </verse>
+  </lyrics>
+</song>

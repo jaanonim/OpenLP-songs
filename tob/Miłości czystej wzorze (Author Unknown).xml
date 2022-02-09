@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:00">
+  <properties>
+    <titles>
+      <title>Miłości czystej wzorze</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="783"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Miłości czystej wzorze,<br/>Obrazie Bożych cnót,<br/>Oglądam w Twej pokorze<br/>Królewskiej chwały cud.<br/>O, Zbawco, jam gotowy<br/>Dla Ciebie rzucić świat,<br/>I czynem, jak. i słowy<br/>Już w Twój podążać ślad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chcę Ciebie naśladować<br/>I w Twoim Słowie rość,<br/>Mych wrogów chcę miłować,<br/>Choć z serc ich płynie złość.<br/>Chcę za nich Ojca prosić,<br/>Jak Ty błagałeś Go,<br/>Jak Ty chcę cicho znosić,<br/>Gdy krzywdzą mię i lżą.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chcę Ciebie w sercu chować,<br/>Do Ciebie tylko lgnąć;<br/>Chcę wolę Twą sprawować,<br/>Ty mi pomocą bądź.<br/>Mocą krwawego znoju<br/>Mnie z Sobą ściśle spój;<br/>Niech całą duszę moją<br/>Napełni obraz Twój.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>W tym świętym połączeniu<br/>Nabędę nowych sił,<br/>W miłości Twej promieniu<br/>Szczęśliwy będę żył.<br/>Gdy tak się z Tobą spoję,<br/>Zabłysną zorze dnia,<br/>Słoneczne blaski Twoje<br/>Umartwią pyszne „ja"</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:49">
+  <properties>
+    <titles>
+      <title>Jak wspaniały dzień to będzie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="378"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak wspaniały dzień to będzie, gdy nasz<br/>Jezus zjawi się, gdy wierzących zmarłych<br/>zbudzi Jego głos. Wszystkich, którzy żyli<br/>wiarą zawsze w społeczności z Nim,<br/>weźmie z sobą zanim przyjdzie złego cios.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/Kiedy Pan swych wiernych zwoła /3x<br/>przez zasługi mego Zbawcy będę tam</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wkrótce przyjdą ciężkie plagi sądów Jego<br/>przez ten świat, szatan będzie miał<br/>nad ziemią wielką moc; w wielkim gniewie<br/>mnóstwo ludzi zwiedzie on na drogę zła,<br/>lecz gdy Jezus zapanuje - zniknie noc</lines>
+    </verse>
+    <verse name="c2">
+      <lines>/Kiedy Pan swych wiernych zwoła /3x<br/>przez zasługi mego Zbawcy będę tam</lines>
+    </verse>
+    <verse name="v3">
+      <lines>W ostatecznym sądu dniu wnet każdy<br/>człowiek stanie tam, gdzie zapłatę odda<br/>wszystkim niebios Pan, jedni w wieczną<br/>ciemność, drudzy do światłości wejdą bram,<br/>im od Pana wieczny żywot będzie dan.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>/Kiedy Pan swych wiernych zwoła /3x<br/>przez zasługi mego Zbawcy będę tam</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Drogi Jezu, przywiedź rychło do pokoju<br/>duszę mą, bo ja, dziecię Twoje, ufam<br/>słowom Twym. Żeś mię wyrwał z tego<br/>świata i na własność przyjął Swą, tam<br/>gdzie jesteś sam, i dziecię Swoje przyjm.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>/Kiedy Pan swych wiernych zwoła /3x<br/>przez zasługi mego Zbawcy będę tam</lines>
+    </verse>
+  </lyrics>
+</song>

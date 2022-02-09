@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:32">
+  <properties>
+    <titles>
+      <title>Głowo Kościoła, Zbawco nasz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="57"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Głowo Kościoła, Zbawco nasz i Panie,<br/>Ducha Swej łaski na Swych wiernych zlej!<br/>Ty miej troskliwe o Twój zbór staranie,<br/>nad nim w niedoli się zlitować chciej.<br/>Ty co prawicą Swą świat rządzisz cały,<br/>racz Kościołowi byt zapewnić trwały.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Słowo Twe, światło dusz wieczne i czyste,<br/>dozwól nam głosić wciąż w świątyniach Twych,<br/>ono niech prawdy wszczepia w nas wieczyste<br/>i do pokuty tu nakłania złych;<br/>zapał do wiary niech w umysłach nieci,<br/>niech nam na drodze cnót w tym życiu świeci.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tchnieniem Twym, Boże, ożyw to zebranie,<br/>Ducha mądrości w nas i zgody wpój,<br/>byśmy usilnie mogli mieć staranie<br/>i o Twe słowo i zbór wierny Twój;<br/>mądrość z miłością niech się w nas kojarzy<br/>i prace skutkiem niech pomyślnym darzy!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>W Tobie nadzieja naszych dusz jest cała.<br/>Panie, w dążeniach tych nas wspieraj sam,<br/>by ogłaszana mogła być Twa chwała<br/>w Duchu Twej prawdy współbraciom i nam.<br/>Chrystus filarem niech Kościoła będzie,<br/>prawda zaś Jego niech nam świeci wszędzie.</lines>
+    </verse>
+  </lyrics>
+</song>

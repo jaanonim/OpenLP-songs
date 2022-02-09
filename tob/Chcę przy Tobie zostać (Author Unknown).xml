@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:43">
+  <properties>
+    <titles>
+      <title>Chcę przy Tobie zostać</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="248"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chcę przy Tobie zostać, Panie,<br/>chcę być jednym z Twoich sług;<br/>nic mię odwieść nie jest w stanie<br/>od Twej prawdy, z Twoich dróg!<br/>// Tyś jest życiem mego życia,<br/>Tyś jest źródłem moich sił,<br/>jak latorośl, od powicia,<br/>w Ciebie jam wszczepiony był // .</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdzież ja indziej szczęścia więcej,<br/>niż u Ciebie znajdę, gdzie?<br/>Z wielkiej mię wyrywasz nędzy,<br/>nad anioły wznosisz mię.<br/>// Gdzież, jeżeli nie u Ciebie,<br/>mógłbym znaleźć pociech zdrój,<br/>coś na ziemi i na niebie,<br/>sławny tron zbudował Swój? // .</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdzież takiego znajdę Pana,<br/>co by tak cię zajął mną?<br/>Co mię wyrwał z rąk szatana<br/>Swoją własną, drogą krwią?<br/>// Mamli takiej ja miłości<br/>nie położyć się do stóp?<br/>Nie zaprzysiąc jej wierności,<br/>aż do śmierci, aż po grób? // .</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O przy Tobie pozostanę,<br/>w szczęścia dniach i w czasie trwóg;<br/>z Tobą serce me związane,<br/>już na wieki, poza grób!<br/>// Twego tylko czekam słowa,<br/>kiedy z świata każesz zejść,<br/>dusza moja już gotowa<br/>do wieczności z Tobą przejść // .</lines>
+    </verse>
+  </lyrics>
+</song>

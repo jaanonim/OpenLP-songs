@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:46">
+  <properties>
+    <titles>
+      <title>Mała łódka drży na grzbiecie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="523"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mała łódka drży na grzbiecie<br/>rozszalałych fal,<br/>Wśród skał groźnych, w pośród burzy<br/>wiatr ją pędzi w dal.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Patrzcie na swego Wybawcę,<br/>Patrzcie, jak bliskim jest nas.<br/>Woła: „Jestem z wami zawsze<br/>I niosę pomoc w każdy czas!"<br/>Pan woła: ,Jestem z wami zawsze:<br/>Odwagi, Ja ocalę was!"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Drży załoga, trwogą zdjęta,<br/>pozbawiona sił,<br/>Woła, by ją Pan przed mocą<br/>złych żywiołów skrył.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na żywota oceanie,<br/>w chwilach groźnych burz,<br/>Dniem i nocą czuwa Zbawca,<br/>czuwa wierny Stróż.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jezus przyszedł<br/>nas ratować z wszystkich naszych bied,<br/>Z Nim bezpiecznie<br/>dobijemy do przystani wnet.</lines>
+    </verse>
+  </lyrics>
+</song>

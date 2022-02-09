@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:30">
+  <properties>
+    <titles>
+      <title>Oblicza Twego pragnąc</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="273"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oblicza Twego pragnąc,<br/>Podnoszę oko me<br/>I pilnie w sercu zważam<br/>Na wszystkie słowa Twe.<br/>Z oblicza Twego spływa<br/>Przesłodki pokój mi;<br/>O Jezu mój najmilszy,<br/>Jak wdzięcznym jesteś Ty!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Jezu mój najmilszy!<br/>Przez Twego oka żar<br/>I świat mi cały zblednął<br/>I wszelki grzechu czar.<br/>Czy chodzę tu na ziemi,<br/>Czy w chwale Twojej tam,<br/>Spoczywam w sercu Twoim,<br/>Na wieki Ciebie mam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lecz zbadaj mię i obacz,<br/>Czym w kształt zmieniony Twój,<br/>Czy chętnie i zupełnie<br/>Ci dałem żywot mój.<br/>Ach, uczyń, by mój umysł<br/>Tak odnowiony był,<br/>Bym według woli Twojej<br/>Bez zmazy w ciele żył.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mam być podobny Tobie<br/>- Tak chcesz i tak ma być,<br/>Płomieniem Ducha Swego<br/>Chcesz w serce mi to wryć.<br/>Nie możesz w niebo zabrać<br/>Oblubienicy Twej,<br/>Dopóki tu nie ujrzysz<br/>Obrazu Swego w niej.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bojuję tu w nadziei,<br/>Do górnych patrzę stron,<br/>Gdzie kiedyś w szacie białej<br/>Twej chwały ujrzę tron.<br/>Czy jestem tu na ziemi,<br/>Czy w Twojej chwale tam,<br/>Spoczywam w sercu Twoim,<br/>Na wieki Ciebie mam</lines>
+    </verse>
+  </lyrics>
+</song>

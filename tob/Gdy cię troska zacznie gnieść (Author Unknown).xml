@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:43">
+  <properties>
+    <titles>
+      <title>Gdy cię troska zacznie gnieść</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="256"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy cię troska zacznie gnieść,<br/>w sieci smutku zechce wpleść,<br/>Jezus ci dopomóc chce,<br/>Jemu zwierz kłopoty swe.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Zbawca ci pomoże twój,<br/>tylko się modlitwą zbrój!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy w twej piersi pełno żądz,<br/>kiedy serce z trwogi drżąc.<br/>Rade się poddałoby,<br/>Pan rozpędzi pokus mgły.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Zbawca ci pomoże twój,<br/>tylko się modlitwą zbrój!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kiedyś smutny, kiedyś sam,<br/>ranę zadał świata kłam,<br/>kiedyś zwątpieniami gnan,<br/>dobrze cię rozumie</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Zbawca ci pomoże twój,<br/>tylko się modlitwą zbrój!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kiedy grozi wroga strzał,<br/>proś, by Pan przy tobie stał,<br/>On słabości twoje zna,<br/>On zwycięstwo w walce da.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Zbawca ci pomoże twój,<br/>tylko się modlitwą zbrój!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Chceszli Pańskim sługą być,<br/>musisz z Nim w modlitwie żyć;<br/>Jego duchem rządź się wciąż,<br/>jak najsilniej z Nim się zwiąż.</lines>
+    </verse>
+    <verse name="c5">
+      <lines>Zbawca ci pomoże twój,<br/>tylko się modlitwą zbrój!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Gdy twe serce gnębi strach,<br/>w szczęściu i ponurych dniach,<br/>do Jezusa tylko śpiesz,<br/>z Niego siłę życia bierz.</lines>
+    </verse>
+    <verse name="c6">
+      <lines>Zbawca ci pomoże twój,<br/>tylko się modlitwą zbrój!</lines>
+    </verse>
+  </lyrics>
+</song>

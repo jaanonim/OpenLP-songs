@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:28">
+  <properties>
+    <titles>
+      <title>Pobudź Panie mnie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="255"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pobudź Panie mnie do społeczności z Tobą dziś<br/>Tak pragnę blisko Ciebie być<br/>Pobudź Panie do ciągłego trwania w dzień i noc<br/>W ufności, że Ty jesteś tu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Panie mój potrzeba mi pokoju Twego dziś.<br/>/ Pokoju co przewyższa /x2<br/>Pokoju ponad rozum mój.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pobudź Panie mnie do prośby o najbliższych mych<br/>Tych, których znasz już nie od dziś.<br/>Pobudź Panie mnie bym też wraz z nimi smucił się,<br/>I cieszył się wielbiąc imię Twe.</lines>
+    </verse>
+  </lyrics>
+</song>

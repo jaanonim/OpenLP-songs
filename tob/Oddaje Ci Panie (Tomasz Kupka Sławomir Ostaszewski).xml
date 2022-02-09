@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:24">
+  <properties>
+    <titles>
+      <title>Oddaje Ci Panie</title>
+    </titles>
+    <authors>
+      <author type="words">Tomasz Kupka Sławomir Ostaszewski</author>
+      <author type="music">Tomasz Kupka Sławomir Ostaszewski</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="472"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Otwieram Ci serce me,<br/>Tak dobrze Panie je znasz.<br/>Oddaje Ci życie swe,<br/>Ty Panie miłość w nie wlej.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oddaje Ci Panie mój żal, (grzech)<br/>Oddaje Ci Panie mój ból, (lęk)<br/>Oddaje Ci Panie mój gniew, (strach)<br/>Oddaje Ci Panie mój bunt. (płacz)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zabierz co głupie i złe,<br/>weź także słabość mą.<br/>W ucieczce powstrzymaj mnie,<br/>ku Tobie pomóż mi iść.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:11">
+  <properties>
+    <titles>
+      <title>Jak dobry jest Bóg</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="104"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak dobry jest Bóg, godzien chwały!<br/>Nasz wierny przyjaciel i Pan!<br/>Jego miłość jest wielka jak moc,<br/>niezmiennie na wieki wciąż trwa!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To Jezus! On zawsze ten sam!<br/>Duch Jego prowadzi nas wzwyż!<br/>Chwalimy Go za to, co już nam dał,<br/>i wierny we wszystkim, co da!</lines>
+    </verse>
+  </lyrics>
+</song>

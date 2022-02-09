@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:48">
+  <properties>
+    <titles>
+      <title>Być w domu!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="362"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Być w domu! Jak to pięknie brzmi!<br/>Być w domu! O, jak tęskno mi,<br/>jak bardzo pragnę w domu być,<br/>u mego Zbawcy wiecznie żyć.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Choć miły jest pielgrzymki czas,<br/>gdy nić przyjaźni łączy nas,<br/>lecz serce się do domu rwie,<br/>ze Zbawcą Swym przebywać chce.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ja wiem, że w domu spocząć mam,<br/>że dom mi Bóg zgotował sam,<br/>gdzie żadne zło nie dotknie mnie<br/>i walka z grzechem skończy się.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Czy do ojczyzny jeszcze mam<br/>daleko iść, by spocząć tam?<br/>Wędrówka długo będzie trwać?<br/>Kto może mi odpowiedź dać?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O, wierz, stęsknione serce me,<br/>Twój Pan ukoi bóle twe,<br/>więc cicho czekaj, w wierze stój,<br/>aż cię zawezwie Ojciec twój.</lines>
+    </verse>
+  </lyrics>
+</song>

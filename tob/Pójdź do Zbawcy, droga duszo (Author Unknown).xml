@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:25">
+  <properties>
+    <titles>
+      <title>Pójdź do Zbawcy, droga duszo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="167"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pójdź do Zbawcy, droga duszo,<br/>Pójdź, On chętnie przyjmie cię!<br/>Pójdź, gdy grzechy ciebie gnębią,<br/>Wierz, zbawienie znajdziesz w Nim.<br/>Pójdź, zmęczony i strudzony,<br/>Gdy pokoju braknie ci,<br/>On oczyszcza wszelkie winy<br/>/ W Swojej świętej, drogiej krwi. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pójdź do Zbawcy! Jego brzemię<br/>Będzie zawsze lekkim ci,<br/>A cierpienia wszelkie znikną,<br/>Gdy przestąpisz raju drzwi.<br/>Pójdź, gdy Jezus ciebie prosi,<br/>Słuchaj, jak On wzywa cię!<br/>O, na ucztę pójdź do Pana,<br/>/ Pójdźże dziś, nie wahaj się! /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pójdź do Zbawcy! Twoje grzechy<br/>Zmyje On w miłości Swej;<br/>Wiele łaski doznać możesz,<br/>Tylko Jego przyjąć chciej!<br/>Choć zwątpiło twe sumienie,<br/>Potępienia lękasz się,<br/>Słowo Boże cię upewnia,<br/>/ Że Pan zmarł za grzechy twe. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pójdź do Zbawcy i pozostań,<br/>W łasce Jego zawsze stój,<br/>Oddaj duszę Mu i ciało<br/>I dla Niego staczaj bój!<br/>Choć ciernista droga wiedzie<br/>Z ziemi tej do raju drzwi,<br/>Lecz po trudach twej pielgrzymki<br/>/ Zbawca da koronę ci. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

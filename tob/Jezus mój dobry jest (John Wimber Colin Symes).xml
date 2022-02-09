@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:21">
+  <properties>
+    <titles>
+      <title>Jezus mój dobry jest</title>
+      <title>Isn't he Beautuful?</title>
+    </titles>
+    <authors>
+      <author type="words">John Wimber Colin Symes</author>
+      <author type="music">John Wimber Colin Symes</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="290"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus mój dobry jest,<br/>dobry jest Jezus mój.<br/>Doradca Boży Syn dobry jest.<br/>Jezus mój wspaniały jest,<br/>wspaniały jest Jezus mój.<br/>Książe pokoju,<br/>wszechmogący Bóg wspaniały jest.</lines>
+    </verse>
+  </lyrics>
+</song>

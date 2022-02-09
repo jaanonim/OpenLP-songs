@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:22">
+  <properties>
+    <titles>
+      <title>Krzycz na cześć Pana</title>
+    </titles>
+    <authors>
+      <author type="words">Darlene Zschech</author>
+      <author type="music">Darlene Zschech</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="326"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mój Jezu, mój Zbawco,<br/>Któż jest tak wielki jak Ty?<br/>Przez wszystkie dni wysławiać chce<br/>Wspaniałe dzieła Twoich rąk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mój Panie, Obrońco,<br/>źródło mych natchnień i sił.<br/>Niech cały świat, wszystko co jest,<br/>zawsze wielbi Imię  Twe.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Krzycz na cześć Pana, rozraduj się w Nim,<br/>Ogłaszaj wszędzie, że On Panem jest.<br/>Góry ustąpią na dźwięk Jego słów,<br/>gdy przemówi Stwórca ziem.<br/>Patrzę z podziwem na dzieła Twych rąk.<br/>Zawsze chce kochać Cię przy Tobie być.<br/>Co może równać się z tym co u Ciebie mam?</lines>
+    </verse>
+  </lyrics>
+</song>

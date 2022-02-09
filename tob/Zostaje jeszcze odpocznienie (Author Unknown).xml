@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:48">
+  <properties>
+    <titles>
+      <title>Zostaje jeszcze odpocznienie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="561"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zostaje jeszcze odpocznienie,<br/>Spoglądaj tam do jasnych gór!<br/>Tu opłakujesz swe więzienie,<br/>2e nie rozprasza słońce chmur.<br/>Patrz na Baranka, na zielonych<br/>Postawi pa¬szach odkupionych;<br/>Swe brzemię rzuć i spiesznie idź!<br/>Już wkrótce skończy się bój krwawy.<br/>Do rajskiej wkrótce wejdziesz sławy,<br/>By odpocznienie wieczne mieć.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To odpocznienie Bóg zgotował,<br/>Ten pokój, który wiecznie trwa;<br/>Przed wieki On nas umiłował,<br/>Przez Syna teraz niebo da.<br/>Baranek życie Swe darował,<br/>By nam ten pokój ofiarował;<br/>On wabi, woła wszystek świat:<br/>O, pójdźcież, dusze spracowane,<br/>Pociechy są wam zgotowane,<br/>Tu wdzięcznie kwitnie życia kwiat!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z wykrzykiwaniem mamy skosić<br/>Obfity plon niebieskich niw,<br/>Z radością snopy mamy znosić<br/>W on dzień radosnych Pańskich żniw<br/>Wzdychanie, żałość przeminęły,<br/>Choroba, śmierć już koniec wzięły,<br/>W Swej czci ukaże się nasz Król!<br/>Zdziwią się oczy, zdumią uszy,<br/>Gdy wszystkie łzy nasz Pan osuszy,<br/>Łaskawie nasz ukoi ból</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:54">
+  <properties>
+    <titles>
+      <title>Pamiętam jeszcze dobrze</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="477"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pamiętam jeszcze dobrze, gdym swawolnym dzieckiem<br/>był, jak często ja mateczce swej boleści wieniec wił.<br/>Dziś ona w niebo wzniosła się, do wybawionych<br/>dusz - o, Jezu, powiedz jej, żem Twoim już!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Błagalne modły jej, płynące z duszy cnej,<br/>sprawiły, Jezu, żem na wieki Twój.<br/>Oglądać w niebie dasz jej ukochaną twarz<br/>- o, powiedz mej mateczce, żem jest Twój!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A chociaż nieraz serce jej raniła moja złość, to<br/>jednak dla mnie było w nim miłości zawsze dość.<br/>Dzieliła ze mną radość mą i mój dziecięcy krzyż;<br/>że jestem Twój - zawdzięczam mamie dziś!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Błagalne modły jej, płynące z duszy cnej,<br/>sprawiły, Jezu, żem na wieki Twój.<br/>Oglądać w niebie dasz jej ukochaną twarz<br/>- o, powiedz mej mateczce, żem jest Twój!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy potem ja, zgubiony syn, opuścił ojca dom,<br/>pękało z żalu serce jej, nie było końca łzom.<br/>O łaskę, miłosierdzie Twe błagała nocą, dniem -<br/>o, powiedz jej, żem już dziecięciem Twym!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Błagalne modły jej, płynące z duszy cnej,<br/>sprawiły, Jezu, żem na wieki Twój.<br/>Oglądać w niebie dasz jej ukochaną twarz<br/>- o, powiedz mej mateczce, żem jest Twój!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I jeszcze raz ujrzałem ją, u łożam jeszcze kląkł,<br/>lecz był to jej ostatni dzień, ostatnia chwila mąk.<br/>Przyrzekłem Tobie oddać się, nim śmierć zabrała<br/>ją - o, Jezu, rzecz jej, żem własnością Twą!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Błagalne modły jej, płynące z duszy cnej,<br/>sprawiły, Jezu, żem na wieki Twój.<br/>Oglądać w niebie dasz jej ukochaną twarz<br/>- o, powiedz mej mateczce, żem jest Twój!</lines>
+    </verse>
+  </lyrics>
+</song>

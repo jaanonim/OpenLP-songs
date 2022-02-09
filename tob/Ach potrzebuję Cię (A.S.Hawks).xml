@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:34">
+  <properties>
+    <titles>
+      <title>Ach potrzebuję Cię</title>
+    </titles>
+    <authors>
+      <author type="words">A.S.Hawks</author>
+      <author type="music">A.S.Hawks</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="320"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ach potrzebuję Cię,<br/>łaskawy Panie mój!<br/>Twe imię skałą mą,<br/>w nim jest pociechy zdrój!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O Panie, drogi Panie,<br/>potrzebuję Ciebie.<br/>Ja muszę mieć Cię Zawsze.<br/>Błogosław mi</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ach potrzebuję Cię,<br/>o Jezu przy mnie stój,<br/>Bym został wiernym Ci,<br/>przez cały życia bój.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ach potrzebuję Cię,<br/>jak Ty chcesz tak mnie wiedź.<br/>Bo wiem że w słowie Twym,<br/>nadzieję mogę mieć.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ach potrzebuję Cię,<br/>w dniach dobrych jak i w złych.<br/>Tyś słońcem, tarczą mą,<br/>na wszystkich drogach mych.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ach potrzebuję Cię,<br/>przez Ciebie w górze mi,<br/>Kochany Jezu mój<br/>korona życia lśni!</lines>
+    </verse>
+  </lyrics>
+</song>

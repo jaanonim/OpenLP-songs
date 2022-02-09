@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:49">
+  <properties>
+    <titles>
+      <title>236 Czekam na Ciebie, Jezu mój mały</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Czekam na Ciebie, Jezu mój mały,<br/>ciche błagania ku niebu ślę.<br/>Twojego przyjścia czeka świat cały,<br/>sercem gorącym przyzywam Cię.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Spójrz, tęskniony na tej ziemi,<br/>przybądź, Jezu, pociesz nas!<br/>Szczerze kochać Cię będziemy,<br/>przyjdź, o Jezu, bo już czas!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Usłysz Maryjo głos Twoich dzieci, <br/>Tyś naszą Matką na każdy dzień.<br/>O daj nam Słońce, które rozświeci <br/>grzechu i błędu straszliwy cień.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Spójrz, tęskniony na tej ziemi, <br/>daj nam Zbawcę Dziecię Twe. <br/>My dla Niego żyć pragniemy, <br/>Jemu damy serca swe.</lines>
+    </verse>
+  </lyrics>
+</song>

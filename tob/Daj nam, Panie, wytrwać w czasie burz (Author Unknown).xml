@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:44">
+  <properties>
+    <titles>
+      <title>Daj nam, Panie, wytrwać w czasie burz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="262"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Daj nam, Panie, wytrwać w czasie burz,<br/>potem przed Swym złotym tronem,<br/>przed rycerstwem niezwalczonym<br/>wieniec chwały nam na skronie włóż!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Trzymaj się, trzymaj się, bracie,<br/>siostro, Pana trzymaj się!<br/>Trzymaj się, trzymaj się,<br/>wkrótce wieńcem On ozdobi cię!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ścieżka wąska wiedzie w niebo wzwyż,<br/>szczęśliw kto jej nie przeoczy,<br/>kto za Panem wiernie kroczy,<br/>nie upadnie, niosąc ciężki krzyż.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Trzymaj się, trzymaj się, bracie,<br/>siostro, Pana trzymaj się!<br/>Trzymaj się, trzymaj się,<br/>wkrótce wieńcem On ozdobi cię!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bojaźliwość serca swego zmóż!<br/>Bojaźliwe bowiem ramię<br/>piekieł mocy nie przełamie;<br/>bojaźliwych Pan nie wieńczy dusz.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Trzymaj się, trzymaj się, bracie,<br/>siostro, Pana trzymaj się!<br/>Trzymaj się, trzymaj się,<br/>wkrótce wieńcem On ozdobi cię!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:31">
+  <properties>
+    <titles>
+      <title>Otwartą Biblię światu dać</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="29"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Otwartą Biblię światu dać!<br/>O, niech to będzie hasłem twym,<br/>aż Boże światło zmoże mrok,<br/>oświeci go promieniem swym.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cudowny blasku Pańskich słów,<br/>oświeć nasz kraj i cały świat!<br/>Niech każdy naród pozna Cię,<br/>ciemności się pozbędziesz rad!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Otwierasz Bożej łaski drzwi,<br/>ojcowską dobroć jawisz nam,<br/>zbłąkanych wiedziesz drogą wzwyż,<br/>wprowadzasz ich do niebios bram.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Cudowny blasku Pańskich słów,<br/>oświeć nasz kraj i cały świat!<br/>Niech każdy naród pozna Cię,<br/>ciemności się pozbędziesz rad!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Zbawcy śmierci świadczysz nam<br/>i jak chwalebnie zmartwychwstał,<br/>by nas uwolnić z sideł zła,<br/>On Swego Ducha moc nam dał.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Cudowny blasku Pańskich słów,<br/>oświeć nasz kraj i cały świat!<br/>Niech każdy naród pozna Cię,<br/>ciemności się pozbędziesz rad!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Najdroższy darze z Ojca rąk,<br/>Tyś źródłem łaskw pielgrzymce mej,<br/>choć grób tu jest udziałem mym<br/>żyć będę wierząc słowom Twym.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Cudowny blasku Pańskich słów,<br/>oświeć nasz kraj i cały świat!<br/>Niech każdy naród pozna Cię,<br/>ciemności się pozbędziesz rad!</lines>
+    </verse>
+  </lyrics>
+</song>

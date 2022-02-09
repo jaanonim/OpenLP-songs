@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:22">
+  <properties>
+    <titles>
+      <title>Podziwiam, podziwiam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="97"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Podziwiam, podziwiam<br/>niezmiernej miłości czyn,<br/>Zdumiewa mnie łaska,<br/>co tyle zgładziła win.<br/>Przejmuje mnie trwoga,<br/>gdy pomnę, jak Jezus zmarł,<br/>Jak za mnie grzesznika,<br/>wycierpiał okropność kar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, wielki jest to cud,<br/>że Jezus kocha mnie,<br/>Że w świecie dla mnie żył<br/>i życie oddał Swe!<br/>Wielki jest to cud!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Podziwiam, że Jezus<br/>wspaniały odłożył strój,<br/>Że ujął się za mną<br/>i upór pokonał mój.<br/>O widzę wyraźnie<br/>tej wielkiej miłości ślad,<br/>Wybawia mnie z grzechu,<br/>ozdabia pięknością szat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Podziwiam te dłonie,<br/>zbroczone męczeńską krwią!<br/>Na wieki już obraz ten<br/>wyryty jest w duszę mą.<br/>On tylko mą chlubą<br/>i w życiu mym będzie lśnił,<br/>Aż ujrzę Go w chwale<br/>i wiecznie z nim będę żył.</lines>
+    </verse>
+  </lyrics>
+</song>

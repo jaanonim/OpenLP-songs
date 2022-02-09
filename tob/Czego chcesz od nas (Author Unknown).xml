@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:54">
+  <properties>
+    <titles>
+      <title>Czego chcesz od nas</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="473"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czego chcesz od nas, Panie! za Twe hojne dary?<br/>Czego za dobrodziejstwa, którym nie masz miary?<br/>Kościół Cię nie ogarnie, wszędy pełno Ciebie:<br/>I w otchłaniach, i w morzu, na ziemi, na niebie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Złota też, wiem, nie pragniesz, bo to wszystko Twoje,<br/>cokolwiek na tym świecie człowiek mieni swoje.<br/>Wdzięcznym Cię tedy sercem, Panie! wyznawamy,<br/>bo nad to przystojniejszej ofiary nie mamy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tyś Pan wszystkiego świata, Tyś niebo<br/>zbudował i złotymi gwiazdami ślicznieś uhaftował,<br/>Tyś fundament założył nieobeszłej ziemi<br/>i przykryłeś jej nagość zioły rozlicznymi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Za Twoim rozkazaniem w brzegach morze stoi,<br/>a zamierzonych granic przestąpić się boi.<br/>Rzeki wód nieprzebranych wielką hojność mają,<br/>biały dzień i noc ciemna swoje czasy znają.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tobie k'woli rozliczne kwiatki wiosna rodzi,<br/>Tobie k'woli w kłosianym wieńcu lato chodzi,<br/>jesień wino i jabłka rozmaite dawa,<br/>potem do gotowego gnuśna zima stawa.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Z Twej łaski nocna rosa na mdłe zioła padnie,<br/>a zagorzałe zboża deszcz ożywia snadnie.<br/>Z Twoich rąk wszelkie zwierzę patrzy swej żywności,<br/>a Ty każdego żywisz z Twej szczodrobliwości.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Bądź na wieki pochwaleń, Nieśmiertelny Panie!<br/>Twoja łaska, Twa dobroć nigdy nie ustanie.<br/>Chowaj nas, póki raczysz, na tej niskiej ziemi,<br/>jedno niech zawsze będziem pod skrzydłami Twymi.</lines>
+    </verse>
+  </lyrics>
+</song>

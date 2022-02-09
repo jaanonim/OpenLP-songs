@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:14">
+  <properties>
+    <titles>
+      <title>Ponieważ wiem, że Jezus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="234"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Ponieważ wiem,<br/>Że Jezus zbawił mnie,<br/>Nie wrócę się więc z drogi tej./ (2X)<br/>Nie, nie, nie, nie, nie,<br/>Nie wrócę się już nigdy, nie!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/ Ponieważ wiem,<br/>Że Jezus za mnie zmarł<br/>Nie wrócę się więc z drogi tej./ (2X)<br/>Nie, nie, nie, nie, nie,<br/>Nie wrócę się już nigdy, nie!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/ Ponieważ wiem,<br/>Że Jezus zmartwychwstał<br/>Nie wrócę się więc z drogi tej./ (2X)<br/>Nie, nie, nie, nie, nie,<br/>Nie wrócę się już nigdy, nie!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/ Ponieważ wiem,<br/>Że we mnie żyje On<br/>Nie wrócę się więc z drogi tej./ (2X)<br/>Nie, nie, nie, nie, nie,<br/>Nie wrócę się już nigdy, nie!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/ Ponieważ wiem,<br/>Że Jezus przyjdzie znów<br/>Nie wrócę się więc z drogi tej./ (2X)<br/>Nie, nie, nie, nie, nie,<br/>Nie wrócę się już nigdy, nie!</lines>
+    </verse>
+  </lyrics>
+</song>

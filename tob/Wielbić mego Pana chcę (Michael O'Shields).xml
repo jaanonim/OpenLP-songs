@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:32">
+  <properties>
+    <titles>
+      <title>Wielbić mego Pana chcę</title>
+      <title>I will call upon the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Michael O'Shields</author>
+      <author type="music">Michael O'Shields</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="748"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wielbić mego Pana chcę,<br/>bo On godzien chwały jest.<br/>On uwalnia mnie sam od wrogów mych.<br/>Mój Pan żyje, opoką moją jest<br/>i niechaj będzie wywyższony mój Zbawiciel.<br/>Mój Pan żyje, opoką moją jest<br/>i niechaj będzie wywyższony Zbawca mój,<br/>Zbawca mój.</lines>
+    </verse>
+  </lyrics>
+</song>

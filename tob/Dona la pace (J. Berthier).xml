@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:16">
+  <properties>
+    <titles>
+      <title>Dona la pace</title>
+    </titles>
+    <authors>
+      <author type="words">J. Berthier</author>
+      <author type="music">J. Berthier</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="117"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dona la pace Signore<br/>a chi confida in Te.<br/>Dona, dona la pace Signore<br/>Dona la pace.<br/>Obdarz o Panie pokojem,<br/>tych którzy ufają Ci.<br/>Panie, obdarz o Panie pokojem,<br/>obdarz pokojem.</lines>
+    </verse>
+  </lyrics>
+</song>

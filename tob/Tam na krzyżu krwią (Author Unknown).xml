@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:52">
+  <properties>
+    <titles>
+      <title>Tam na krzyżu krwią</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="431"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tam na krzyżu krwią oblany zwisłeś, Jezu mój kochany.<br/>Rózgąś gniewu był smagany, wszystek za mnie zniosłeś ból;<br/>// A czym ja służyłem Ci? //  Wszystek za mnie zniosłeś ból;<br/>a czym ja służyłem Ci?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tyś, Baranku, własną duszę za mnie w srogie<br/>dał katusze, więc ja trwożyć się nie muszę.<br/>Za mnieś podjął śmierci znój. // A czym ja służyłem Ci? //<br/>Za mnieś podjął śmierci znój, a czym ja służyłem Ci?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Boskie mię potępia słowo, lecz Tyś słodką łaski mową<br/>Ojca zjednał mi na nowo, dla mnieś Jezu, zrobił to!<br/>// Ja zaś nie służyłem Ci. //  Dla mnieś, Jezu, zrobił to,<br/>ja zaś nie służyłem Ci.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Serce moje wstydem płonie, że tak marnie życie<br/>trwonię, lecz chcę służyć Ci dozgonnie.<br/>O, mój Zbawco, naucz mię: // Wszystkim, wszystkim<br/>służyć Ci! //  O, mój Zbawco, naucz mię: Wszystkim,<br/>wszystkim służyć Ci!</lines>
+    </verse>
+  </lyrics>
+</song>

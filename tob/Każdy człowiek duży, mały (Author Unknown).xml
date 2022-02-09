@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:08">
+  <properties>
+    <titles>
+      <title>Każdy człowiek duży, mały</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Każdy człowiek duży, mały,<br/>Dzieckiem Bożym jest.<br/>Pan Bóg kocha wszystkie dzieci,<br/>Ciebie kocha też.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Śpiewajmy piosenkę do Pana Boga,<br/>który stworzył świat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I wszyscy możemy do Niego wołać,<br/>Ojcze nasz.<br/>Nawet mała Boża krówka.<br/>Nawet polny kwiat.<br/>Duży słoń i mała mrówka,<br/>może śpiewać tak</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:13">
+  <properties>
+    <titles>
+      <title>Ziemia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ziemia którą nam dajesz<br/>Nie jest fikcją ani bajką<br/>Wolność którą mam w Tobie jest prawdziwa<br/>Wszystkie góry na drodze<br/>Muszą, muszą ustąpić<br/>Bo wiara góry przenosi a ja wierzę Tobie!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Będę tańczyć przed Twoim tronem<br/>I oddam Tobie chwałę<br/>I nic już nie zamknie mi ust<br/>Żaden mur i żadna ściana<br/>Największa nawet tama<br/>Już nie, nie zatrzyma mnie już!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Większy, większy jest we mnie ten<br/>Który mnie umacnia<br/>Żaden Goliat nie może z Nim równać się</lines>
+    </verse>
+  </lyrics>
+</song>

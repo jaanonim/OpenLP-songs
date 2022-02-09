@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:05">
+  <properties>
+    <titles>
+      <title>Będę Cię uwielbiać</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Będę Cię uwielbiać, póki będę żyć<br/>Chce się Tobą karmić<br/>Z Twego źródła pić<br/>Jeszcze wczoraj głupstwem<br/>Dla mnie był Twój krzyż<br/>Dzisiaj przekonałeś mnie swą miłością<br/>Jeszcze wczoraj głupstwem<br/>Dla mnie był Twój krzyż<br/>Dzisiaj przekonałeś mnie miłością swą</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chce Ci wręczyć klucze do pałaców mych<br/>Pootwieraj wszystkie i zamieszkaj w nich<br/>Tyle lat pukałeś do zamkniętych drzwi<br/>Dzisiaj otworzyłeś je swą miłością<br/>Tyle lat pukałeś do zamkniętych drzwi<br/>Dzisiaj otworzyłeś je miłością swa.</lines>
+    </verse>
+  </lyrics>
+</song>

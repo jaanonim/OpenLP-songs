@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:02">
+  <properties>
+    <titles>
+      <title>Byłeś tam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="157"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Byłeś tam, gdy na krzyżu zmarł mój Pan?<br/>Byłeś tam, gdy na krzyżu zmarł mój Pan?<br/>Ach, czasem mą duszą wstrząsa drżenie,<br/>drżenie, drżenie,<br/>Byłeś tam, gdy na krzyżu zmarł mój Pan?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Byłeś tam, czy słyszałeś gwoździ zgrzyt?<br/>Byłeś tam, czy słyszałeś gwoździ zgrzyt?<br/>Ach, czasem mą duszą wstrząsa drżenie,<br/>drżenie, drżenie,<br/>Byłeś tam, czy słyszałeś gwoździ zgrzyt?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Byłeś tam, gdy przebili Jego bok?<br/>Byłeś tam, gdy przebili Jego bok?<br/>Ach, czasem mą duszą wstrząsa drżenie,<br/>drżenie, drżenie,<br/>Byłeś tam, gdy przebili Jego bok?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Byłeś tam, gdy Go kładli w ciemny grób?<br/>Byłeś tam, gdy Go kładli w ciemny grób?<br/>Ach, czasem mą duszą wstrząsa drżenie,<br/>drżenie, drżenie,<br/>Byłeś tam, gdy Go kładli w ciemny grób?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Byłeś tam, kiedy zgasł słoneczny blask?<br/>Byłeś tam, kiedy zgasł słoneczny blask?<br/>Ach, czasem mą duszą wstrząsa drżenie,<br/>drżenie, drżenie,<br/>Byłeś tam, kiedy zgasł słoneczny blask?</lines>
+    </verse>
+  </lyrics>
+</song>

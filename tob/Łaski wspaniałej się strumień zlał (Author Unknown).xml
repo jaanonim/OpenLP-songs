@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:40">
+  <properties>
+    <titles>
+      <title>Łaski wspaniałej się strumień zlał</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="202"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Łaski wspaniałej się strumień zlał,<br/>większej nad grzech nasz, nad Boży<br/>gniew, z wzgórza Golgoty, gdzie Książę chwal<br/>jako Baranek Swą przelał krew.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Głębia rozpaczy i grzechów chłód<br/>duszy bezmiarem grożą tu strat.<br/>Łaska ta, głębsza od morza wód,<br/>krzyżu wskazuje ratunku ślad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nie da się ukryć tych ciemnych plam;<br/>któż może pomóc, z duszy je zmyć?<br/>Patrz! Purpurowy trysł strumień tam,<br/>możesz dziś bielszym niż śnieg już być!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Łaski tej cudnej wciąż płonie żar wszystkim,<br/>co wierzą; Dziś łaski czas!<br/>Przyjmij więc wiarą ten Pański dar,<br/>byś się mógł z Panem połączyć raz!</lines>
+    </verse>
+  </lyrics>
+</song>

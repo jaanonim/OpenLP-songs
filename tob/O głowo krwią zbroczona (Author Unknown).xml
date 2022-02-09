@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:19">
+  <properties>
+    <titles>
+      <title>O głowo krwią zbroczona</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="53"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O głowo krwią zbroczona,<br/>Oplwana, pełna ran,<br/>O głowo, której wieniec<br/>Bolesnej wzgardy dań;<br/>O głowo przenajświętsza,<br/>Najwyższej godna czci,<br/>Najsrożej pohańbiona,<br/>Bądź pozdrowiona mi!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O chwały pełne lice,<br/>Przed którym światy drżą,<br/>Zaświaty w proch się korzą,<br/>Kto Cię tak zelżył, kto?<br/>Kto sprawił, że Twych oczu<br/>Nadziemski, cudny blask,<br/>Co gasi słońc tysiące,<br/>Załamał się i zgasł?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Panie, coś wycierpiał,<br/>Obciąża, Zbawco, mnie;<br/>Ja grzeszny, ja sprawiłem<br/>Okrutne męki Twe.<br/>O, wejrzyj na mą nędzę,<br/>Swą łaskę ujrzeć daj;<br/>Wszak jam na grzech zasłużył,<br/>Ty mi otwierasz raj.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Serdeczne przyjmij dzięki,<br/>Najdroższy Zbawco mój,<br/>Za Twe krzyżowe męki,<br/>Za Twój śmiertelny znój.<br/>O, spraw, bym wierny Tobie,<br/>U boku Twego trwał,<br/>A życie gdy zakończę,<br/>Zgon szczęsny w Tobie miał.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bądź tarczą mi, zarazem<br/>Pociechą w śmierci mej,<br/>Przede mną stań obrazem<br/>Krzyżowej męki Swej.<br/>Niech wpatrzon okiem wiary<br/>W miłości Twojej znak,<br/>Do serca Cię przycisnę;<br/>Jak błogo umrzeć tak!</lines>
+    </verse>
+  </lyrics>
+</song>

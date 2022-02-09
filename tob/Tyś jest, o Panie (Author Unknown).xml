@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:14">
+  <properties>
+    <titles>
+      <title>Tyś jest, o Panie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="238"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tyś jest, o Panie, mym schronieniem!<br/>Tę pieśń wznoszę dziś ku Twej czci.<br/>/ Mój duch i mój głos Wielbi Cię,<br/>Boś Ty żywy Bóg!<br/>Tyś jest mój Pan i mój Król! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

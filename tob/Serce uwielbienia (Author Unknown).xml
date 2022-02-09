@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:11">
+  <properties>
+    <titles>
+      <title>Serce uwielbienia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kiedy cichnie dźwięk, wszystko znika gdzieś, pozostaję sam,<br/>Pragnę przynieść Ci coś, co godne jest dotknąć serce Twe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chcę dać Ci więcej niż pieśń,<br/>Muzyka sama w sobie nie, nie jest tym czego Ty chcesz.<br/>Ty słyszysz więcej niż to, to co słyszę ja sam,<br/>Przenikasz serce me w głąb.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wracam do serca uwielbienia,<br/>Pragnę widzieć Twą twarz, widzieć Twą Twarz, Panie.<br/>Wybacz mi to co zasmuca Ciebie,<br/>Pragnę widzieć Twą twarz, widzieć Twą Twarz, Panie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nawet wiele słów nie opisze Cię, blasku chwały Twej.<br/>Ja zaś wobec niej nikim jestem wręcz,<br/>Jednak cały jestem Twój.</lines>
+    </verse>
+  </lyrics>
+</song>

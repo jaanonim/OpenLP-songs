@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:05">
+  <properties>
+    <titles>
+      <title>Chcę Panie sławić Cię wciąż</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Chcę Panie sławić Cię wciąż<br/>Bo Ty dźwignąłeś mnie wzwyż<br/>Zamieniłeś w radość moje łzy. /x2<br/>/ Z wdzięcznością wołam i nie mogę milczeć,<br/>Już na wieki sławić będę imię Twe. /x2 /X3</lines>
+    </verse>
+  </lyrics>
+</song>

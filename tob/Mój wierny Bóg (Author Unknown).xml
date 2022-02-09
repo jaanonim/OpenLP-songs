@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:38">
+  <properties>
+    <titles>
+      <title>Mój wierny Bóg</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="398"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mój wierny Bóg<br/>Z ojcowskich Swoich rąk<br/>Nie puści dziatek, nie.<br/>Mój wierny Bóg<br/>W radości, w chwilach mąk<br/>Na łonie nosi je.<br/>Padnijcie, wzgórza, ruńcie, góry!<br/>Swoimi mnie okrywa pióry<br/>/ Mój wierny Bóg. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mój wierny Bóg<br/>Jest przyjacielem mym<br/>-To mej ufności grunt;<br/>I wrogich zgraj<br/>Nie boję się, bo wiem,<br/>Że On sprawuje rząd.<br/>Gdy ciężka pokus przyjdzie chwila,<br/>Cudownie z góry mię posila<br/>/ Mój wierny Bóg. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mój wierny Bóg<br/>Już przed wiekami mię<br/>Na własność wybrał Swą;<br/>Do chwały Swej<br/>Zaprasza mię i zwie,<br/>Bym naśladował Go,<br/>l wszystkie moje gładzi grzechy,<br/>W Chrystusie daje zdrój pociechy<br/>/ Mój wierny Bóg. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mój wierny Bóg<br/>Nie spuszcza z dziatek Swych<br/>Na ziemi bacznych ócz;<br/>Raduje się,<br/>Gdy znajdzie które z nich<br/>Prawego szczęścia klucz.<br/>Pomaga ciężkie nieść brzemiona<br/>I boju wiary Sam dokona<br/>/ Mój wierny Bóg. /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Twój wierny Bóg,<br/>Ma duszo, niechże już<br/>Własnością będzie twą!<br/>Wierności ślub<br/>Swojemu Panu złóż,<br/>Co Swą cię kupił krwią!<br/>Bądź Mu oddaną, stałą w wierze,<br/>Aż cię w chwalebny strój przybierze<br/>/ Twój wierny Bóg. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

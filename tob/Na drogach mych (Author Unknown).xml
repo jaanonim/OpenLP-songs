@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:07">
+  <properties>
+    <titles>
+      <title>Na drogach mych</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="32"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na drogach mych Zbawiciel mię uprzedza,<br/>I pewną ręką Swą prowadzi mię,<br/>Czy miejski bruk, czy wąska, polna miedza,<br/>Gdy ze mną On, równiutko ściele się.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Za krokiem krok, mój Jezus mię prowadzi<br/>Do wyższych sfer,<br/>Gdzie wszystko ciszą tchnie.<br/>Aż przyjdzie dzień, gdy zrobię krok ostatni,<br/>A każdy krok do domu zbliża mnie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy czasem z dala ujrzę brzeg przepaści,<br/>Ma wiara chwieje się i serce drży.<br/>Na Zbawcę wzrok kieruję w niepewności,<br/>Bo tylko On sił nowych doda mi. ...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zaufam Mu na wszystkich drogach moich,<br/>Bo On w swym ręku ma wieczności klucz.<br/>Ten klucz otwiera drzwi nieba podwoi,<br/>Gdzie radość trwa, a łzy nie płyną z ócz.</lines>
+    </verse>
+  </lyrics>
+</song>

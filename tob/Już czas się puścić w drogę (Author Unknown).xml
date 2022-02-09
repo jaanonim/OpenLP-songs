@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:40">
+  <properties>
+    <titles>
+      <title>Już czas się puścić w drogę</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="441"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Już czas się puścić w drogę,<br/>Wieczorny pada zmrok;<br/>Tu zewsząd siły wrogie<br/>Czatują na nasz krok.<br/>Niech nam nie braknie sił<br/>W tej drodze do wieczności;<br/>Pan siły da w pełności,<br/>By koniec dobry był.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Swe serca pięknie zdóbcie,<br/>Nie strójcie domów, ciał;<br/>Mieszkania tu nie róbcie,<br/>Bo w niebie jest wasz dział.<br/>Po szczęściu spada cios;<br/>Niech pielgrzym się uniża,<br/>Niech się nie lęka krzyża,<br/>Wnet skończy się ten los.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Iść musim, jak pielgrzymi,<br/>Jak cichy, biedny lud;<br/>Kto zbytnio lgnie do ziemi,<br/>Utrudnia sobie chód.<br/>Kto chce, niech biedzi się,<br/>My wikłać się nie chcemy,<br/>Na małym przestajemy,<br/>Gdy Pan do chwały zwie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pielgrzymka już się kończy.<br/>Wytrwajmy krótki czas!<br/>Pielgrzymka już się kończy,<br/>W Swój dom Pan woła nas.<br/>Tam pokój będzie dan,<br/>Gdy w górze się zejdziemy,<br/>U Ojca odpoczniemy;<br/>O, co za błogi stan!</lines>
+    </verse>
+  </lyrics>
+</song>

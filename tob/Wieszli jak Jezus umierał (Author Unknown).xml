@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:52">
+  <properties>
+    <titles>
+      <title>Wieszli jak Jezus umierał</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="428"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wieszli jak Jezus umierał, znaszli okropność tych mąk?<br/>Jak się tłum z Niego naśmiewał, co zgromadzony był w krąg?<br/>Jak Zeń żołnierze tam drwili, że Go opuścił już Bóg,<br/>// Jak bezlitośnie Mu wbili gwoździe do rąk i do nóg? //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Krew Mu jak krople rubinów z świętych sączyła się ran;<br/>Jezus, co nie miał złych czynów grzesznym na pastwę był dań.<br/>Straszny mrok ziemię okrywał, Szatan rozpętał swą moc,<br/>// Władzę nad Zbawcą zdobywał, lecz przeminęła ta noc. //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Żal moją duszę rozdziera, gorzkie spływają mi łzy,<br/>gdy wiem jak Zbawca umierał, jak się panoszył duch zły,<br/>jak zapomniawszy o bólach prosił Syn Boży za tych,<br/>//  Co Mu zadają cierpienia, krzywd nie pamiętał On Swych. //</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Spójrz na Jezusa, już skonał, nisko pochylił Swą skroń;<br/>czynu zbawienia dokonał, uwierz w to, przybliż się Doń!<br/>Poznaj swe winy, grzeszniku, i przed Jezusem je złóż,<br/>// Temu, kto zwalczył złośnika z całym oddaniem już służ. //</lines>
+    </verse>
+  </lyrics>
+</song>

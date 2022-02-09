@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:01">
+  <properties>
+    <titles>
+      <title>Większy jest Ten</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="121"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Większy jest Ten, który w was jest,<br/>Większy jest Ten, który w nas jest,<br/>Większy jest Ten, który w was jest,<br/>Niż ten, co w świecie jest.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Szatan, jak ryczący lew, kroczy w świecie tym<br/>Kogo pożreć szuka wciąż,<br/>By strzałą trafić swą.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kiedy Święty zstąpił Duch, powiał mocny wiatr,<br/>Dał nam cząstkę mocy swej, byś żył,<br/>Jak Jezus żył.</lines>
+    </verse>
+  </lyrics>
+</song>

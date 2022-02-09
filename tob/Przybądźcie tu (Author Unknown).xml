@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:30">
+  <properties>
+    <titles>
+      <title>Przybądźcie tu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="533"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przybądźcie tu z najdalszych stron gromady,<br/>nękanych głodem i pragnieniem serc.<br/>Odrzućcie smutek, niech nastanie radość.<br/>// Bóg w nasze ręce złożył Ciało Swe. //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Weselnym winem dziś się woda staje,<br/>na górach Chrystus Pan rozmnaża chleb.<br/>Już winny krzew obfity owoc daje,<br/>// Bóg w nasze ręce złożył Ciało Swe. //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Otwarte jak otwarta boku rana,<br/>miłości pełne, co nie kończy się<br/>jest Słowo Ciałem i pokarmem dla nas.<br/>// Bóg w nasze ręce złożył Ciało Swe. //</lines>
+    </verse>
+  </lyrics>
+</song>

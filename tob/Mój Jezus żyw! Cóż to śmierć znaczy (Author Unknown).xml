@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:52">
+  <properties>
+    <titles>
+      <title>Mój Jezus żyw! Cóż to śmierć znaczy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="650"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mój Jezus żyw! Cóż to śmierć znaczy,<br/>Gdy ma Głowa triumfuje?<br/>W dziedzictwie żywot dać mi raczy,<br/>Chociaż ciało w grób wstępuje.<br/>Smutku precz, mam radość w sobie,<br/>Jezus żyw, nie masz Go w grobie!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zwyciężył Jezus, U nóg Jego,<br/>Co mi mogło życie odjąć;<br/>Nie przejmie trwoga serca mego,<br/>Gdy i ja śmierć muszę przyjąć.<br/>Otchłań piekła drży prawdziwie,<br/>Bo brzmią głosy: Jezus żywię!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mój Jezus żyw, grób otworzony!<br/>Więc do grobu wesół wstąpię;<br/>Ze i ja będę ożywiony<br/>Mocą Jego, nic nie wątpię.<br/>Słodkie słowo Jego w świecie:<br/>„Jam żyw, i wy żyć będzie¬cie!"</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Żywotem Jezus mi zostanie,<br/>W sercu z Niego się raduję,<br/>A gdy nadejdzie me skonanie,<br/>Już bojażni nie uczuję,<br/>Bo mi w niebie da byt błogi<br/>Ten mój żywy Jezus drogi.</lines>
+    </verse>
+  </lyrics>
+</song>

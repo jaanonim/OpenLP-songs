@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:04">
+  <properties>
+    <titles>
+      <title>VIII. My mamy pewną skałę</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My mamy pewną skałę;<br/>Nic nie poruszy jej.<br/>My mamy wieczną prawdę.<br/>Moc życia płynie z niej!<br/>My mamy w każdym boju<br/>Dość siły, mocną broń;<br/>Nim błyszczy w ciemnej nocy<br/>Miłości Bożej toń!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My mamy swe schronienie<br/>W ucisku, w wichrze burz.<br/>My mamy łaskę Twoją<br/>I moc dla naszych dusz.<br/>My mamy Twą ochronę -<br/>Nie trzeba się już bać,<br/>Gdyż Twoje mocne ramię<br/>Pozwala pewnie stać:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My mamy tu obfitość<br/>A kiedy wezwiesz nas,<br/>Jak wielką będzie chwała<br/>W ojczyźnie pełnej kras.<br/>My mamy szczęście, pokój,<br/>Opisać trudno go,<br/>My mamy wszystko w Tobie -<br/>Nas nie tknie żadne zło.</lines>
+    </verse>
+  </lyrics>
+</song>

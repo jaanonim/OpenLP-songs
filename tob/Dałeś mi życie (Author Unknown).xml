@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:06">
+  <properties>
+    <titles>
+      <title>Dałeś mi życie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dałeś mi życie<br/>Dałeś radość mi<br/>Ty prowadzisz mnie<br/>Krok za krokiem w każdy dzień</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W Tobie ma siła<br/>Jesteś w sercu mym<br/>Tyś latarnią mą<br/>Która świeci w życiu mym</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wolnym uczyniłeś mnie<br/>Dałeś Ducha Swego<br/>By prowadził mnie<br/>W Tobie wszystko Panie mam<br/>Z Tobą Jezu pragnę żyć na prawdę.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:50">
+  <properties>
+    <titles>
+      <title>Kościele, któż twe tajnie zgadł</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="597"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kościele, któż twe tajnie zgadł,<br/>Co w nędzy lśnisz przepychem szat?<br/>W brzydocie któż piękniejszy, któż,<br/>W cierpieniu chodząc drogą róż?<br/>Baranku, Twoich wykupionych stad<br/>Nie pojmie ludzki, ni anielski świat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zostałem z łaski Twojej też<br/>Włączony do tych cudnych rzesz,<br/>Odstraszam nędzą ludzki wzrok,<br/>Przed chwałą mą truchleje wróg,<br/>Nikt przewrotnością nie dorówna rai<br/>A czysty Twój w mej duszy obraz lśni.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Opuścił mię i wyklął świat,<br/>Lecz Chrystus Pan mię przyjął rad;<br/>Mnie za głupiego ma ten świat,<br/>Lecz Bóg wspomaga, bym nie padł;<br/>Wzgardzonym tu, bez praw, przedmiotem drwin,<br/>Lecz tam koronę da mi Boży Syn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy spojrzę w głębię duszy mej,<br/>O, ileż grzechu widzę w niej!<br/>Gdy się w strój Twych odzieję łask,<br/>To i anielski gaśnie blask;<br/>Tak jasno, czysto moje szaty lśnią,<br/>Że słowa mi z podziwu w ustach mrą.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O grzechu, jakże nisko gniesz!<br/>O wiaro, nad obłoki rwiesz!<br/>Duch ludzki tylko wiarą zgadł<br/>Te tajemnice Bożych rad,<br/>Co przez krzyż, połamawszy grzechu grot,<br/>Grzeszników •wiedzie do niebieskich wrót.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>To arcydzieło zdziałał Bóg,<br/>Tę sztukę najwspanialszą z sztuk;<br/>Wyniszczył straszne grzechu zło<br/>Z Chrystusa boku wziętą krwią.<br/>O, niech anielski triumfuje chór<br/>I niech podziwia Chrystusowy zbór</lines>
+    </verse>
+  </lyrics>
+</song>

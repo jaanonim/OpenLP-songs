@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:26">
+  <properties>
+    <titles>
+      <title>Raduj się, śpiewaj</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="228"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>]c1]<br/>Raduj się, śpiewaj,<br/>wznoś chwały pieśń!<br/>Oddaj Królowi dziś<br/>chwałę i cześć! (2X)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, alleluja, On Królem królów jest!<br/>O, alleluja, na wieki rządzi On!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, alleluja, On Synem Bożym jest!<br/>O, alleluja, On za nas przelał krew!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, alleluja, Pokoju Księciem On!<br/>O, alleluja, wspaniały wielki Król!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Śpiewaj: Alleluja!<br/>Alleluja! Alleluja!<br/>Jezus - Król!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:34">
+  <properties>
+    <titles>
+      <title>Jak słodko imię Jezus brzmi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="101"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak słodko imię Jezus brzmi,<br/>wszak w Nim zbawienie dane mi!<br/>Jak jasno w moim sercu lśni cudowne imię Jezus!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jezus tylko szczęściem mym,<br/>Jezus wszystkim w świecie tym, Jezu!<br/>Nućcie w sercu swym; cudowne imię Jezus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To imię kocham z serca ja,<br/>wszak Jezus zwolnił mię od zła,<br/>mieszkanie w cudnym niebie da.<br/>Jak miłe imię Jezus!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Jezus tylko szczęściem mym,<br/>Jezus wszystkim w świecie tym, Jezu!<br/>Nućcie w sercu swym; cudowne imię Jezus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy słychać imię to wśród nas,<br/>to serca Mu śpiewają wraz,<br/>przejmuje Jego miłość nas.<br/>Wielbijmy imię Jezus!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Jezus tylko szczęściem mym,<br/>Jezus wszystkim w świecie tym, Jezu!<br/>Nućcie w sercu swym; cudowne imię Jezus!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>To imię Jezus,<br/>słodkie nam i najpiękniejsze w niebie tam,<br/>niech zawsze zacnym będzie nam.<br/>Więc sławmy imię Jezus!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Jezus tylko szczęściem mym,<br/>Jezus wszystkim w świecie tym, Jezu!<br/>Nućcie w sercu swym; cudowne imię Jezus!</lines>
+    </verse>
+  </lyrics>
+</song>

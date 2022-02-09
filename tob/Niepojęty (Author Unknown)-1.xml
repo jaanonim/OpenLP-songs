@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:39">
+  <properties>
+    <titles>
+      <title>Niepojęty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z głębokości mórz aż po szczyty gór<br/>Stworzenie objawia majestat Twój.<br/>Od kolorów jesieni po wiosenny deszcz<br/>Wszystko śpiewa Ci pieśń<br/>Pełną cudownych słów,<br/>ogłaszając:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niepojęty, Niezmierzony<br/>Gwiazdy stworzyłeś na niebie<br/>I każdą z nich znasz,<br/>Wspaniałym Bogiem Tyś jest!<br/>Wszechmogący, Nieskończony,<br/>W zachwycie klękamy przed Tobą,<br/>By wyznać to, że<br/>Wspaniałym Bogiem Tyś jest!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kto uwalnia błyskawic moc w czasie burz<br/>Kto maluje kolory polarnych zórz<br/>Słońce stworzył na niebie<br/>I dał mu Swą moc<br/>Orzeźwienie przynosi w gwieżdzistą noc - tylko Ty!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Niepojęty, Niezmierzony<br/>Gwiazdy stworzyłeś na niebie<br/>I każdą z nich znasz,<br/>Wspaniałym Bogiem tyś jest!<br/>Zawsze dobry, miłujący,<br/>Ty znasz moje serce<br/>I mimo to wciąż kochasz mnie,<br/>Wspaniałym Bogiem Tyś jest!</lines>
+    </verse>
+  </lyrics>
+</song>

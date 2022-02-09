@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:37">
+  <properties>
+    <titles>
+      <title>Daj czyste serce mi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="81"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dziś przychodzę przed Twój tron,<br/>aby wyznać winę mą,<br/>O Panie, oczyść serce me.<br/>Dziś pod Twój przynoszę krzyż ciężar,<br/>co przygniata mnie.<br/>O Panie, już nie chcę sam go nieść.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/Daj czyste serce mi, oczyść usta me,<br/>Tchnij Swego Ducha bym wielbił Cię/ x2</lines>
+    </verse>
+  </lyrics>
+</song>

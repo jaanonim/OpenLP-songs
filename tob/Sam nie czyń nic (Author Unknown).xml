@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:43">
+  <properties>
+    <titles>
+      <title>Sam nie czyń nic</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="463"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sam nie czyń nic!<br/>Jezus ci da Do życia moc!<br/>Alleluja! Cichym wciąż być,<br/>Jak dziecię żyć<br/>- To jest ten tor do żywota bram.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sam nie czyń nic!<br/>Spełnił to Pan,<br/>Cieszę się tym<br/>- Noc kończy się.<br/>We mnie to Pan<br/>Dzieło Swe ma<br/>- To prawy tor do żywota bram.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sam nie czyń nie!<br/>Błogi to stan!<br/>A szczęścia zdrój<br/>- To On, mój Pan.<br/>Jezu, Tyś Sam<br/>Tą drogą tam;<br/>To błogi tor do żywota bram.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sam nie czyń nic!<br/>Wolne od win<br/>Serce me, więc<br/>Spocznie już w Nim.<br/>Synaj mię tu<br/>Nie trwoży już;<br/>To święty tor do żywota bram.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sam nie czyń nic!<br/>Odkąd mój wzrok<br/>Zwrócon jest Nań,<br/>Mym szczęściem Bóg.<br/>Jegom jest już,<br/>Starty jest wąż;<br/>To pewny tor do żywota bram</lines>
+    </verse>
+  </lyrics>
+</song>

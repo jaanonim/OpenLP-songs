@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:36">
+  <properties>
+    <titles>
+      <title>Spocznij na nas</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Spocznij na nas Duchu Pana<br/>Duchu mądrości i rozumu<br/>Duchu poznania i bojaźni Bożej<br/>Duchu miłości i mocy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja chce do Ciebie podobnym być, Jezu<br/>Ja chce do Ciebie podobnym być<br/>Naczyniem, które byś używać mógł<br/>Chce do Ciebie podobnym być</lines>
+    </verse>
+  </lyrics>
+</song>

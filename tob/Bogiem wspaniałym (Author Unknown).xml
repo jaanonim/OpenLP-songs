@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:02">
+  <properties>
+    <titles>
+      <title>Bogiem wspaniałym</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="169"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bogiem wspaniałym Tyś jest /x2<br/>Tyś morze uczynił i góry wśród drzew<br/>Tyś ptakom rozkazał, by czcił Cię ich śpiew.<br/>Bogiem wspaniałym Tyś jest /x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tyś noc ciemną stworzył,<br/>Słoneczny też dzień,<br/>I sprawiasz, że język mój<br/>Pełen Twych pień.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tyś stworzył człowieka,<br/>Lecz popadł on w grzech<br/>Tyś Syna nam posłał,<br/>By zbawić nas wszech.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ty pozwól nam głosić,<br/>Cudowny Twój krzyż<br/>By ciebie słuchając,<br/>Zdążali wciąż wzwyż.</lines>
+    </verse>
+  </lyrics>
+</song>

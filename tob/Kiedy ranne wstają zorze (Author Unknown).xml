@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:52">
+  <properties>
+    <titles>
+      <title>Kiedy ranne wstają zorze</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="660"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kiedy ranne wstają zorze,<br/>Tobie ziemia, Tobie morze,<br/>Tobie śpiewa żywioł wszelki:<br/>Bądź pochwalon, Boże wielki!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Człowiek zaś, który bez miary<br/>Obsypany twymi dary,<br/>Coś go stworzył i ocalił,<br/>Czemuż by Cię on nie chwalił?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ledwie oczy przetrzeć zdołam,<br/>Już do mego Pana wołam,<br/>Do mojego Boga w niebie;<br/>Szukam Go wokoło siebie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wielu śmierci snem upadli,<br/>Co się wczoraj spać pokładli,<br/>My się jeszcze obudzili,<br/>Byśmy, Boże, Cię chwalili.</lines>
+    </verse>
+  </lyrics>
+</song>

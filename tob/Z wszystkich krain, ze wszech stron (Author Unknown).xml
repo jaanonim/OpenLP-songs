@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:45">
+  <properties>
+    <titles>
+      <title>Z wszystkich krain, ze wszech stron</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="505"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z wszystkich krain, ze wszech stron<br/>Woła nas do pracy Pan.<br/>Wszędzie już dojrzały plon,<br/>Żniwa czeka pełny łan.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Więc niech dłużej nikt nie zwleka,<br/>Skończy się wnet żniwa dzień;<br/>Szybko krótki czas ucieka,<br/>Nocy wnet zapadnie cień.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Z wszystkich krain, ze wszech stron<br/>Wśród łagodnych, cichych tchnień<br/>Płynie Mistrza słodki ton:<br/>Żeńcy, wstańcie, mija dzień!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z ponad ziem i z pośród mórz<br/>Błyszczy Pański sztandar w dal,<br/>Spieszmy więc do dolin, wzgórz<br/>Z światłem i wśród burzy fal.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pójdźmy chętnie w dzień, czy w noc<br/>Głosić wszędzie Bożą cześć,<br/>Jego łaski cudną moc,<br/>Ewangelii błogą wieść</lines>
+    </verse>
+  </lyrics>
+</song>

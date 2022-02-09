@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:59">
+  <properties>
+    <titles>
+      <title>Nie potrzeba szukać szczęścia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="85"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie potrzeba szukać szczęścia.<br/>Gdzieś daleko, gdzie nie ma nas.<br/>Na cóż czekać, kiedy miłość,<br/>Codzienności nadaje blask.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ty Boże jesteś zawsze z nami,<br/>I uczysz kochać to, co jest.<br/>Zapalasz miłość w naszych sercach,<br/>Aby z jej światłem życie przejść.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W zwykłych ludziach, w zwykłym życiu,<br/>Przez wiszącą nad miastem mgłę.<br/>Przez sąsiada, przez rodziców,<br/>Pan Bóg do nas uśmiecha się.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bóg sam kiedyś żył na ziemi,<br/>Wszelkie troski człowieka zna.<br/>Teraz został między nami,<br/>I jest światłem szarego dnia.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy z miłością się pochylasz,<br/>Nad małymi sprawami dnia.<br/>Gdy we wszystkim szukasz dobra,<br/>Znajdziesz szczęście, co wiecznie trwa.</lines>
+    </verse>
+  </lyrics>
+</song>

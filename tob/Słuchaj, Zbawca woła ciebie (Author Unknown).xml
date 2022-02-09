@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:35">
+  <properties>
+    <titles>
+      <title>Słuchaj, Zbawca woła ciebie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="113"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Słuchaj, Zbawca woła ciebie:<br/>Pójdź, pójdź i patrz!<br/>Na swej łaski gody w niebie<br/>pójdź, pójdź i patrz!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Niechaj wieść ta brzmi dokoła,<br/>z krańca i na kraniec świata:<br/>Bóg grzeszników do Się woła,<br/>pójdź, pójdź i patrz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czyś jest wielki, czy też mały,<br/>pójdź, pójdź i patrz!<br/>Masz do Boga przystęp śmiały,<br/>pójdź, pójdź i patrz!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Niechaj wieść ta brzmi dokoła,<br/>z krańca i na kraniec świata:<br/>Bóg grzeszników do Się woła,<br/>pójdź, pójdź i patrz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pośpiesz, zanim noc zapadnie,<br/>pójdź, pójdź i patrz!<br/>Jezus ból uleczy snadnie,<br/>pójdź, pójdź i patrz!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Niechaj wieść ta brzmi dokoła,<br/>z krańca i na kraniec świata:<br/>Bóg grzeszników do Się woła,<br/>pójdź, pójdź i patrz!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bóg wyciąga Swoje dłonie,<br/>pójdź, pójdź i patrz!<br/>Słońce łaski jasno płonie,<br/>pójdź, pójdź i patrz!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Niechaj wieść ta brzmi dokoła,<br/>z krańca i na kraniec świata:<br/>Bóg grzeszników do Się woła,<br/>pójdź, pójdź i patrz!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:26">
+  <properties>
+    <titles>
+      <title>Padnij pod krzyżem!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="191"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Padnij pod krzyżem!<br/>Tam na Golgotę<br/>Niech oko wiary twoje spoziera.<br/>Ujrzysz grzeszników tam wielką rotę,<br/>Za których święta Miłość umiera.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Padnij pod krzyżem!<br/>Tam Miłość święta<br/>Miejsce dla ciebie już przeznaczyła;<br/>Klątwa grzechowa tam wiecznie zdjęta,<br/>Która boleśnie duszę tłoczyła.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Padnij pod krzyżem<br/>tam na kolana;<br/>Połóż tam pełne nędzy swe serce,<br/>Aby krew święta Zbawcy i Pana<br/>Kres położyła bólom, rozterce!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Padnij pod krzyżem<br/>skruchą przejęty,<br/>Kornie obejmij te święte nogi;<br/>Słuchaj, co głosi Zbawca wszechświęty:<br/>Ja cię miłuję, grzeszny ubogi!</lines>
+    </verse>
+  </lyrics>
+</song>

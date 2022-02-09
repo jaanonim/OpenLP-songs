@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:27">
+  <properties>
+    <titles>
+      <title>Ugnij się dziś</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="231"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Ugnij się dziś przed Bogiem swym /x2<br/>/ A On wywyższy cię /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/ Złóż dziś na Niego troski swe /x2<br/>/ A On pocieszy cię /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/ Wylej przed Panem serce swe /x2<br/>/ A On zrozumie cię /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/ Zaufaj Panu jeszcze dziś /x2<br/>/ Bo On ostoją twą /x2</lines>
+    </verse>
+  </lyrics>
+</song>

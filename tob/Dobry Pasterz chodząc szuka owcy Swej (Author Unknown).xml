@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:35">
+  <properties>
+    <titles>
+      <title>Dobry Pasterz chodząc szuka owcy Swej</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="108"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dobry Pasterz chodząc szuka owcy Swej,<br/>wszak bez Niego zginie, żal Mu owcy tej.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pan szuka cię, Pan szuka cię,<br/>On chce cię zbawić w miłości Swej,<br/>Pan szuka cię, Pan szuka cię, On chce cię zbawić w miłości Swej.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tyś jak pieniądz drogi znaleziony znów,<br/>znaleziony w mroku, tam gdzie pył i brud.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Pan szuka cię, Pan szuka cię,<br/>On chce cię zbawić w miłości Swej,<br/>Pan szuka cię, Pan szuka cię, On chce cię zbawić w miłości Swej.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Radość wielką w niebie sprawi tobie Bóg,<br/>gdy ty marnotrawny z błędnych wrócisz dróg.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Pan szuka cię, Pan szuka cię,<br/>On chce cię zbawić w miłości Swej,<br/>Pan szuka cię, Pan szuka cię, On chce cię zbawić w miłości Swej.</lines>
+    </verse>
+  </lyrics>
+</song>

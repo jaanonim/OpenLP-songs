@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:17">
+  <properties>
+    <titles>
+      <title>Duchu Święty wołam przyjdź</title>
+    </titles>
+    <authors>
+      <author type="words">Ewa Szymczykowska</author>
+      <author type="music">Ewa Szymczykowska</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="129"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Duchu Święty wołam przyjdź<br/>bądź jak ogień duszy mej,<br/>bądź jak ogień w ciele mym,<br/>rozpal mnie. // x2 //</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Wszechmogący Bóg jest pośród nas,<br/>miłosierdzie Jego wielkie jest,<br/>okazuje dobroć swoją dziś<br/>dla tych, którzy chcą miłować Go.</lines>
+    </verse>
+  </lyrics>
+</song>

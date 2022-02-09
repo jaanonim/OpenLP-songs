@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:14">
+  <properties>
+    <titles>
+      <title>Abba Ojcze - Ty wyzwoliłeś nas Panie</title>
+    </titles>
+    <authors>
+      <author type="words">J. Sykulski Jan Góra</author>
+      <author type="music">J. Sykulski Jan Góra</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="1"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ty wyzwoliłeś nas Panie<br/>z kajdan i z samych siebie,<br/>a Chrystus stając się bratem<br/>nauczył nas wołać do Ciebie.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Abba Ojcze! Abba Ojcze!<br/>Abba Ojcze! Abba Ojcze! ( Ojcze ) x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bo Kościół jak drzewo życia<br/>w wieczności zapuszcza korzenie,<br/>przenika naszą codzienność<br/>i pokazuje nam Ciebie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bóg hojnym dawcą jest życia<br/>on wyswobodził nas z śmierci<br/>i przygarniając do Siebie<br/>uczynił swoimi dziećmi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wszyscy jesteśmy braćmi,<br/>jesteśmy jedną rodziną,<br/>tej prawdy nic już nie zaćmi<br/>i teraz jest jej godzina.</lines>
+    </verse>
+  </lyrics>
+</song>

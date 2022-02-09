@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:36">
+  <properties>
+    <titles>
+      <title>Kiedy milknie już</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="69"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kiedy milknie już muzyki dźwięk tylko cisza brzmi<br/>Staję u Twych stóp pragnąc przynieść Ci<br/>Uwielbienia pieśń</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dam Ci więcej niż pieśń więcej, niż tylko dźwięk<br/>Wiem nie wystarczy Ci on.<br/>Ty słyszysz więcej niż to, co słyszalne dla nas jest,<br/>Ty słyszysz serca głos.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Więc wracam do źródła uwielbienia<br/>A jesteś nim Ty, Ty Panie jesteś nim<br/>Nie chce przynosić już nic innego<br/>Jak tylko to kim, kim w tobie jestem Panie</lines>
+    </verse>
+  </lyrics>
+</song>

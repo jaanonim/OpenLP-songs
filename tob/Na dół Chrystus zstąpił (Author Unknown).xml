@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:40">
+  <properties>
+    <titles>
+      <title>Na dół Chrystus zstąpił</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="450"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na dół Chrystus zstąpił,<br/>A ty, w swej wyniosłości,<br/>Chcesz się dotknąć czołem<br/>Gwiazd szczytów, ich świetności?<br/>Wspinasz się w swej pysze?<br/>Zbawca zstąpił w padół.<br/>Kto z Nim chce iść w górę,<br/>Musi z Nim iść na dół.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na dół więc, o myśli,<br/>Oduczcie się wzbijania!<br/>Lekkie to, co wzlata,<br/>Co ciężkie, to się skłania.<br/>Woda ścieka z źródeł,<br/>Wzbiera w rzeki szumne,<br/>Przetóż i wy na dół,<br/>Moje myśli dumne!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na dół, oko, na dół!<br/>Bóg Sam z tronu Swojego<br/>Patrzy na nas niskich,<br/>Nienawidzi pysznego.<br/>Im tu wyższe oko,<br/>Tym bliższe jest grobu,<br/>I wpada w noc śmierci.<br/>Oko, na dół z tobą!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Na dół, ręce, na dół!<br/>Oto bracia nędzarze,<br/>Więc się do nich skłońcie,<br/>Nieście im pomoc w darze;<br/>Nie sięgajcie w górę,<br/>Ku sławie i mieniu:<br/>Na dół ku ubogim<br/>W Chrystusa imieniu!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Na dół, serce, na dół,<br/>A Bóg zamieszka ciebie!<br/>Pokorę nagradza<br/>Na ziemi i na niebie.<br/>Duch Święty w pokornej<br/>Jawi się postaci,<br/>Na dół więc, me serce,<br/>On Swe dary da ci!</lines>
+    </verse>
+  </lyrics>
+</song>

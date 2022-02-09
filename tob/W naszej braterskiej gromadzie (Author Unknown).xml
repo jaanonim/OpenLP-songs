@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:59">
+  <properties>
+    <titles>
+      <title>W naszej braterskiej gromadzie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="79"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W naszej braterskiej gromadzie,<br/>Nic nie stoi na zawadzie.<br/>Na ustach uśmiech, wszędzie słychać śpiew.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>My chcemy życia, bez palenia i bez picia,<br/>Z czystym sumieniem iść przez ten świat,<br/>Choćby iść wciąż pod wiatr<br/>A po wędrówce, nasze młode zwarte hufce,<br/>Staną u niebios bram, gdzie nas czeka Pan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pójdźcie do nas przyjaciele,<br/>Pójdźcie, będzie nam weselej,<br/>Jezus też zbawi was,<br/>Tak, jak zbawił nas.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Będziesz szedł sprężystym krokiem,<br/>Będziesz patrzył jasnym wzrokiem<br/>I poznasz życia czar,<br/>Bez tych złudnych mar.</lines>
+    </verse>
+  </lyrics>
+</song>

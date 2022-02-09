@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:47">
+  <properties>
+    <titles>
+      <title>Czyż ja musze bez owocu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="337"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czyż ja musze bez owocu<br/>pusto przed tron Pana iść,<br/>czy nie moge żadnej duszy<br/>jako owoc pracy nieść.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Czyż ja musze bez owocu<br/>pusto przed tron Pana iść,<br/>czy nie moge żadnej duszy<br/>jako owoc pracy nieść.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdyby me stracone lata<br/>jeszcze się wóciły raz<br/>Jakbym chętnie dla Jezusa<br/>wciąż pracował cały czas.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Czyż ja musze bez owocu<br/>pusto przed tron Pana iść,<br/>czy nie moge żadnej duszy<br/>jako owoc pracy nieść.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Drogi Jezus mię też zbawił,<br/>mnie nie straszy śmierci moc,<br/>lecz, że żyłem bez pożytku ,<br/>jestem smutny dzień i noc.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Czyż ja musze bez owocu<br/>pusto przed tron Pana iść,<br/>czy nie moge żadnej duszy<br/>jako owoc pracy nieść.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dziatwo Boża, nieustawaj<br/>w pracy twojej, póki dzień,<br/>bo niedługo słońce zajdzie,<br/>świat ogarnie nocy mrok.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Czyż ja musze bez owocu<br/>pusto przed tron Pana iść,<br/>czy nie moge żadnej duszy<br/>jako owoc pracy nieść.</lines>
+    </verse>
+  </lyrics>
+</song>

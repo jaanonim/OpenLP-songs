@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:31">
+  <properties>
+    <titles>
+      <title>O, jak pięknie w zgodzie żyć</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="42"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, jak pięknie w zgodzie żyć,<br/>w Panu połączonym być,<br/>w bratnim gronie Jemu<br/>chwałę, uwielbienie nieść!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wszyscy zgodnie głoszą tam:<br/>I ja w Panu pokój mam,<br/>łączy nas Jezusa Duch, jam twój<br/>brat, a tyś mój druh.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wszyscy łaskę Jego czczą,<br/>wszyscy Nim przejęci są.<br/>Każdy wierność Jego zna,<br/>jak odnawia się co dnia.</lines>
+    </verse>
+  </lyrics>
+</song>

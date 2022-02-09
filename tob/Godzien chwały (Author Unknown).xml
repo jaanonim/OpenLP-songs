@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:51">
+  <properties>
+    <titles>
+      <title>Godzien chwały</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>GODZIEN CHWAŁY JEST BARANEK<br/>TEN CO POSZEDŁ NA ŚMIERĆ<br/>TEN CO ODDAŁ ŻYCIE SWOJE<br/>GODZIEN PRZYJĄĆ CZEŚĆ.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>GODZIEN CHWAŁY JEST BARANEK<br/>ŚWIĘTY, ŚWIĘTY JEST PAN<br/>TEMU, KTÓRY JEST NA TRONIE<br/>NIECH BRZMI NOWA PIEŚŃ.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ref.: ŚWIĘTY, ŚWIĘTY, ŚWIĘTY<br/>JEST PAN BÓG WSZECHMOGĄCY<br/>ON BYŁ I JEST I PRZYJDZIE ZNÓW</lines>
+    </verse>
+    <verse name="v4">
+      <lines>CAŁE STWORZENIE ŚPIEWA<br/>KRÓLOWI KRÓLÓW PIEŚŃ<br/>TYŚ NAJCENNIEJSZY JEST<br/>I CIEBIE UWIELBIAM</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:29">
+  <properties>
+    <titles>
+      <title>Panie Jezu pragnę chwalić Cię</title>
+    </titles>
+    <copyright>1995 Hillsong Publishing</copyright>
+    <authors>
+      <author type="words">Reuben Morgan</author>
+      <author type="music">Reuben Morgan</author>
+      <author type="words">Hillsong</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="517"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>meditation</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>longing</theme>
+      <theme>devotion</theme>
+      <theme>commitment</theme>
+      <theme>worship</theme>
+      <theme>response</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie Jezu pragnę chwalić Cię,<br/>Z głębi swego serca wielbić Cię.<br/>Całym swoim życiem oddawać Ci cześć.<br/>Wszystko to co mam, to Ty.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Daję Ci serce me, daję duszę mą,<br/>dla Ciebie żyję.<br/>Każdy oddech mój, każdą moją myśl.<br/>Jezu prowadź mnie.</lines>
+    </verse>
+  </lyrics>
+</song>

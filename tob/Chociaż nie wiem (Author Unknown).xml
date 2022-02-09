@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:35">
+  <properties>
+    <titles>
+      <title>Chociaż nie wiem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="26"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chociaż nie wiem nic o jutrze,<br/>Żyję wiarą z dnia na dzień,<br/>Wiem, że brzask i słońca jutrznie<br/>Łatwo przejdą w blasku cień.<br/>Nic nie wiedząc o przyszłości,<br/>Wierząc w to, co Jezus rzekł,<br/>Idę za Nim w tej ufności,<br/>Że On ze mną będzie szedł.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nie wiem, co mi jutro niesie,<br/>Lecz spokojnym, wiedząc to,<br/>Że mnie Jezus w przyszłość wiedzie,<br/>I On trzyma moją dłoń.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Moje brzmię zda się lżejsze,<br/>Już nie straszy życia toń.<br/>Poprzez chmury widzę tęczę,<br/>Gdy On trzyma moją dłoń.<br/>Burz ni mroku tam nie będzie,<br/>Ani trosk, co barki gną.<br/>Tam przy końcu złotej tęczy,<br/>Która wiedzie w Ojca dom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nie wiem, co mi jutro niesie,<br/>Blaski słońca, czy też zmierzch?<br/>Ale ten, co dba o ptaszki,<br/>Nie zapomni o mnie też.<br/>Choć ma droga nieraz wiedzie<br/>Przez płomienie, powódź, łzy,<br/>Ale On przede mną idzie,<br/>Jam ukryty w Jego krwi.</lines>
+    </verse>
+  </lyrics>
+</song>

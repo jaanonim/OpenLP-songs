@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:55">
+  <properties>
+    <titles>
+      <title>O pójdź na Golgotę</title>
+    </titles>
+    <authors>
+      <author type="words">I.S. Prochanow</author>
+      <author type="music">I.S. Prochanow</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="712"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, pójdź na Golgotę, kto żyw,<br/>Okropny oglądać tam widok i dziw:<br/>Tam Mesjasz do krzyża przybity przez lud,<br/>Któremu poświęcał Swe życie i trud,<br/>Oddajmy mu hołd!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, pójdź na Golgotę i sądź!<br/>Czy możesz ty nadal<br/>w swych grzechach tak brnąć?<br/>Za ciebie przelewał Zbawiciel Swą krew,<br/>A ty wciąż odrzucasz miłości tej zew.<br/>Oddajmy Mu hołd!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, patrz na Golgocie twój Król!<br/>Cierpliwie za ciebie zniósł hańbę i ból!<br/>Z kielicha twojego zabójczy pił jad,<br/>I ducha oddając śmiertelnie On zbladł.<br/>Oddajmy Mu hołd!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, spójrz na Golgotę, tam wzwyż!<br/>Tam Jezus wyciąga Swe ręce na krzyż.<br/>„Ach, przebacz im Ojcze,<br/>tak wołał On w głos. -<br/>Nie wiedzą co czynią"<br/>i spadł Nań ten cios.<br/>Oddajmy Mu hołd!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O, pójdź na Golgotę i żyj.<br/>Tam we krwi Jezusa wnet grzechy swe zmyj.<br/>Zbawienie w Chrystusie - to Boży jest dar.<br/>Miłuje tak Jezus grzeszników bez miar.<br/>Oddajmy Mu hołd!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:38">
+  <properties>
+    <titles>
+      <title>Skała, którą jest Bóg</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="171"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Skała, którą jest mój Bóg,<br/>niech mnie skryje pośród trwóg.<br/>Niech Twej świętej łaski siew,<br/>boku Twego woda krew,<br/>spłynie na mnie Zbawco dusz!<br/>Zmaz grzech serca, pęta skrusz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mocą Twoją, Panie,<br/>spraw, bym przestrzegał Twoich praw.<br/>Ni znojnego pracy dnia,<br/>ni serdecznej skruchy łza łaski<br/>Twej nie zjedna mi:<br/>Odpuszczenie jest w Twej krwi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nic Ci dać nie mogę, nie,<br/>do stóp krzyża chylę się:<br/>Bądź z słabości mocą mą,<br/>nagość okryj łaską Swą,<br/>chciej brud serca mego zmyć,<br/>bym w czystości Twej mógł żyć.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy ostatni przyjdzie dzień,<br/>oko zmroczy śmierci cień,<br/>gdy w zaświatach twarzą w twarz ujrzę Ciebie,<br/>Sędzio nasz, skało mocna,<br/>racz mnie skryć, daj światłości życiem żyć.</lines>
+    </verse>
+  </lyrics>
+</song>

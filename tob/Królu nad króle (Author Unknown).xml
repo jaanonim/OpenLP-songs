@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:46">
+  <properties>
+    <titles>
+      <title>Królu nad króle</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="307"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Królu nad króle, Panie nad pany,<br/>w Twojej prawicy narodów los,<br/>wejrzyj na lud Twój bólem nękany,<br/>usłysz błagalny narodu głos. Spójrz,<br/>nasze pola kule zorały a w ziemię wsiąkła<br/>synów jej krew, i krwią serdeczną<br/>rzeki wezbrały, dzwonów pogrzebnych<br/>rozbrzmiewa śpiew.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Panie, w żałobie obudź nadzieję<br/>i ku przyszłości obróć nasz wzrok,<br/>kędy nam gwiazda cudna jaśnieje,<br/>chociaż dokoła smutek i mrok.<br/>O, niech jak niegdyś łaski Twej<br/>gońce miłość w nas budzą dla Twoich praw,<br/>niechaj wolności wzejdzie nam słońce,<br/>Zbawco ludzkości, naród nasz zbaw!</lines>
+    </verse>
+  </lyrics>
+</song>

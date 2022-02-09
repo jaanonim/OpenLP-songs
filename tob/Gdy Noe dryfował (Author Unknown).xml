@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:27">
+  <properties>
+    <titles>
+      <title>Gdy Noe dryfował</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="101"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy Noe dryfował, po wodach potopu,<br/>Wyglądał już ziemi, ze wszystkich stron<br/>Choć się już smucił, lecz Bóg o nim pamiętał<br/>I zesłał swą miłość, na skrzydłach gołębich.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Gołębi skrzydeł szum, zwiastuje miłość swą.<br/>To Boży jest znak, na skrzydłach gołębich. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy ciebie otoczą, problemy i zło,<br/>Gdy będziesz samotny i braknie ci sił,<br/>Choć nie masz już wiary,<br/>Lecz Bóg będzie pamiętał<br/>I ześle swą miłość na skrzydłach gołębich.</lines>
+    </verse>
+  </lyrics>
+</song>

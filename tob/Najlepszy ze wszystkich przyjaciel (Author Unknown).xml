@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:33">
+  <properties>
+    <titles>
+      <title>Najlepszy ze wszystkich przyjaciel</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="72"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Najlepszy z wszystkich przyjacieli jest w niebie,<br/>tu ich mało mam. Świat mej szczerości nie podzieli:<br/>Obłudę jego z dawna znam, lecz Jezus mi z szczerości znan:<br/>Najlepszy mój przyjaciel Pan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Świat jest podobny chwiejnej trzcinie,<br/>mój Jezus to opoka ma; gdy wszystka ma nadzieja zginie,<br/>On zawsze przy mnie wiernie trwa.<br/>Z boleści mię na jasny łan powiedzie mój przyjaciel Pan.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Świat temu miłość swą sprzedaje,<br/>z którego ciągrąć może zysic, a przyjaźń jego wnet ustaje,<br/>ilekroć zgaśnie szczęścia błysk;<br/>gdy świata przyjaźń pryśnie nam, przyjaźni swej dochowa Pan.</lines>
+    </verse>
+  </lyrics>
+</song>

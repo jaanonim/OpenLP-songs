@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:30">
+  <properties>
+    <titles>
+      <title>Spocznij na mnie Duchu Pana</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="584"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Spocznij na mnie Duchu Pana<br/>Duchu mądrości i rozumu.<br/>Duchu poznania  i bojaźni Bożej<br/>Duchu miłości i wiary.<br/>CODA:<br/>Duchu miłości<br/>Duchu miłości i wiary.</lines>
+    </verse>
+  </lyrics>
+</song>

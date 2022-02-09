@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:23">
+  <properties>
+    <titles>
+      <title>Duszo, słuchaj cudnej wieści</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="137"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Duszo, słuchaj cudnej wieści:<br/>Chrystus zmarł za ciebie Sam,<br/>Wszelki grzech i twe boleści<br/>Na krzyż zaniósł, przybił tam.<br/>Dla naszego przewinienia<br/>Sam Go na śmierć podał Bóg,<br/>By nas, synów potępienia<br/>Za Swą własność przyjąć mógł.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Przyszedł z nieba, by nas zbawić<br/>Z więzów grzechu, świata ćmy;<br/>Chce w wolności cię postawić,<br/>Pójdź do Niego więc i ty!<br/>O, pójdź dziś, o, pójdź dziś,<br/>Bo czas łaski kończy się!<br/>O, pójdź dziś, o, pójdź dziś,<br/>Duszo - Zbawca woła cię!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dawno serce twe straciło<br/>Drogi prawej jasny ślad,<br/>W rzeczach ziemskich się zgubiło,<br/>Bo marnością zwiódł je świat.<br/>Duszo, obudź się z uśpienia,<br/>Wznieś do Pana dziś swój głos.<br/>Szukaj w Zbawcy przebaczenia<br/>Zmieni życia twego los.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, jak pragnie twój Zbawiciel<br/>Wyrwać cię z szatańskich szpon!<br/>Chce cię wierny Odkupiciel<br/>Stawić przed Ojcowski tron.<br/>Złóż na Niego swe starania,<br/>Z całej duszy uwierz Weń!<br/>On się do Swych dzieci skłania,<br/>Spędza z serc ich smutku cień</lines>
+    </verse>
+  </lyrics>
+</song>

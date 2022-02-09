@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:02">
+  <properties>
+    <titles>
+      <title>Pan, Pan, Pan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="166"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pan, Pan, Pan<br/>On dla mnie dobry jest /x2<br/>Pan, Pan, Pan,<br/>Dał mi to, czego nie mógł dać świat!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On mnie karmi kiedym głodny<br/>On dla mnie dobry jest /x2<br/>On mnie karmi kiedym głodny<br/>On dla mnie dobry jest<br/>Dał mi to, czego nie mógł dać świat!</lines>
+    </verse>
+  </lyrics>
+</song>

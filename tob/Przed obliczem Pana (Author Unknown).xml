@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:05">
+  <properties>
+    <titles>
+      <title>Przed obliczem Pana</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="276"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Przed obliczem Pana uniżmy się /x2<br/>Pan sam wywyższy nas.<br/>/ Jego jest ziemia i czas,<br/>Pan sam wywyższy nas /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/ Z pokorą stańmy przed Panem swym /x2<br/>Pan sam wywyższy nas.<br/>/ Jego jest ziemia i czas,<br/>Pan sam wywyższy nas /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/ Wszystkie swoje troski oddajmy mu /x2<br/>Pan sam wywyższy nas.<br/>/ Jego jest ziemia i czas,<br/>Pan sam wywyższy nas /x2</lines>
+    </verse>
+  </lyrics>
+</song>

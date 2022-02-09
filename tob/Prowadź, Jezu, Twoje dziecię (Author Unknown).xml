@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:03">
+  <properties>
+    <titles>
+      <title>Prowadź, Jezu, Twoje dziecię</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="839"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Prowadź, Jezu, Twoje dziecię<br/>Drogą, którą Tyś nam dał,<br/>Przez pustynie w strasznym świecie,<br/>Bym otuchę w Tobie miał.<br/>[Wiedź mię, Jezu, wiedź mię,<br/>Jezu, Ważką ścieżką prawdy Twej. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Daj mi, Panie, moc i mądrość,<br/>Moja słabość znana Ci,<br/>Błagam jeszcze Cię o świętość,<br/>Daj, ach, daj ją, Panie, mi.<br/>/ Któż mnie skrzywdzi,<br/>któż mnie skrzywdzi,<br/>Jeślim jest w opiece Twej? /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niech anieli mię osłonią,<br/>Gdy mię gorszyć będzie złe,<br/>A od pokus niech mię bronią<br/>Święte napomnienia Twe.<br/>/ Pociesz, Panie, pociesz, Panie,<br/>Gdyż mnie gnębi życia trud. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Śmierć nie zdoła mię zastraszyć,<br/>Bo mnie chronią dłonie Twe;<br/>Racz światłością mię otoczyć,<br/>Wznieś do nieba serce me.<br/>/ Ach, do nieba, ach, do nieba,<br/>Zdąża moje serce już. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

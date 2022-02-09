@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:48">
+  <properties>
+    <titles>
+      <title>Znam kraj</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="358"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Znam kraj, gdzie radość wiecznie trwa,<br/>gdzie jest nieznany ból i łza,<br/>gdzie wiecznie lśni Chrystusa moc<br/>jak jasny dzień tam mija noc.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O kraju mój, o kraju mój, wnet skończę ziemski życia bój.<br/>O kraju szczecią, złotych zórz, ja tęsknię tak za tobą już!<br/>O, Jezu drogi, przyjmij mię i pozwól wiecznie wielbić Cię!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tam mię wprowadzi Zbawca Sam,<br/>do kryształowych wiecznych bram.<br/>Pokaże mi wszechświata krąg,<br/>to wielkie dzieło Swoich rąk.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>O kraju mój, o kraju mój, wnet skończę ziemski życia bój.<br/>O kraju szczecią, złotych zórz, ja tęsknię tak za tobą już!<br/>O, Jezu drogi, przyjmij mię i pozwól wiecznie wielbić Cię!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tam kwiaty sieją balsam swój,<br/>wesoło dzwoni ptasząt rój;<br/>tam płynie wieczny życia zdrój<br/>za tobą tęsknię, kraju mój!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>O kraju mój, o kraju mój, wnet skończę ziemski życia bój.<br/>O kraju szczecią, złotych zórz, ja tęsknię tak za tobą już!<br/>O, Jezu drogi, przyjmij mię i pozwól wiecznie wielbić Cię!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Radosne hymny wokół brzmią,<br/>oblicza wiernych szczęściem lśnią,<br/>a chór aniołów śpiewa pieśń<br/>na chwałę Zbawcy, Jego cześć!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>O kraju mój, o kraju mój, wnet skończę ziemski życia bój.<br/>O kraju szczecią, złotych zórz, ja tęsknię tak za tobą już!<br/>O, Jezu drogi, przyjmij mię i pozwól wiecznie wielbić Cię!</lines>
+    </verse>
+  </lyrics>
+</song>

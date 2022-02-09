@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:43">
+  <properties>
+    <titles>
+      <title>Gdy ciebie otoczą cierpienia i smutki</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="247"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy ciebie otoczą cierpienia i smutki,<br/>i ciężko ci będzie, by zwalczyć co złe,<br/>pamiętaj, że Zbawca twój patrzy w tej chwili<br/>i On Swą cudowną ci pomoc dać chce.<br/>Na los swój się nie skarż i nie trać nadziei,<br/>zaufaj Mu szczerze i wierz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy chmury zwątpienia zawisną nad tobą,<br/>a rozpacz i boleść rozpiera ci pierś,<br/>to spójrz na Jezusa, On powstał już z grobu,<br/>On wszystko zwyciężył, więc patrz Nań i wierz!<br/>Pamiętaj, że Zbawca twój patrzy w tej chwili,<br/>a On da zwycięstwo ci też.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy stracisz cierpliwość, lub siły ci zbraknie<br/>i dusza upada w tej walce ze złym,<br/>ty idź z swoim Bogiem, aż ujrzysz gród nowy,<br/>On Sam dopomoże i wesprze cię w tym.<br/>O szczęściu ponad to nie może być mowy,<br/>jak w Bożej miłości tu żyć.</lines>
+    </verse>
+  </lyrics>
+</song>

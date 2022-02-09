@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:24">
+  <properties>
+    <titles>
+      <title>Niechaj zstąpi Duch Twój i odnowi ziemię</title>
+    </titles>
+    <authors>
+      <author type="words">Franciszka Godlewska</author>
+      <author type="music">Franciszka Godlewska</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="434"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niechaj zstąpi Duch Twój<br/>i odnowi ziemię,<br/>Życiodajny spłynie deszcz<br/>na spragnione serce,<br/>Obmyj mnie i uświęć mnie,<br/>uwielbienia niech popłynie pieśń!  // x2<br/>    //</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chwała Jezusowi, który za mnie życie dał!<br/>Chwała Temu, który pierwszy umiłował mnie!<br/>Jezus!<br/>Tylko Jezus Panem jest! // x2 //</lines>
+    </verse>
+  </lyrics>
+</song>

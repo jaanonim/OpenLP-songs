@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:38">
+  <properties>
+    <titles>
+      <title>Nie wiem, co dzień przyniesie mi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="403"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie wiem, co dzień przyniesie mi,<br/>Lecz to nie trwoży mię,<br/>Gdyż moja dusza ufa Ci,<br/>Na Ciebie spuszcza się.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A więc spokojnie czekać chcę,<br/>Jak, Panie, Sam powiedziesz mię,<br/>Bo zaprowadzisz pewnie mię<br/>Tam, gdzie Twą chwałę widzieć śmiem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie wiem, co dzień przyniesie mi,<br/>Lecz to na pewno wiem,<br/>Że z Twych obietnic i Twych słów<br/>Mam radość w sercu mym.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nie wiem, co dzień przyniesie mi,<br/>Czy radość, albo znój;<br/>Na rękach mię, jak dziecię Swe,<br/>Wciąż nosi Ojciec mój.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nie wiem, co dzień przyniesie mi<br/>- Czy w nim nie zjawisz się?<br/>Abym naprzeciw wyjść mógł Ci,<br/>Ty Sam przygotuj mię!</lines>
+    </verse>
+  </lyrics>
+</song>

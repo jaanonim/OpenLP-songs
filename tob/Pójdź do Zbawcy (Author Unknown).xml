@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:55">
+  <properties>
+    <titles>
+      <title>Pójdź do Zbawcy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="717"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pójdź do Zbawcy, pójdź do Zbawcy.<br/>Pójdź do Zbawcy - już czas.<br/>Już czas pójdź do Zbawcy,<br/>pójdź do Zbawcy, już czas?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Błagaj Zbawcę, błagaj Zbawcę,<br/>Błagaj Zbawcę - już czas!<br/>Już czas, błagaj Zbawcę<br/>błagaj Zbawcę, już czas!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uwierz Zbawcy, uwierz Zbawcy,<br/>Uwierz Zbawcy - już czas!<br/>Już czas, uwierz Zbawcy,<br/>uwierz Zbawcy, już czas!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>On cię przyjmie, On cię przyjmie,<br/>On cię przyjmie - już czas!<br/>Już czas, On cię przyjmie,<br/>On cię przyjmie, już czas'</lines>
+    </verse>
+    <verse name="v5">
+      <lines>On cię zbawi, On cię zbawi,<br/>On cię zbawi - już czas!<br/>Już czas On cię zbawi<br/>On cię zbawi już czas!</lines>
+    </verse>
+  </lyrics>
+</song>

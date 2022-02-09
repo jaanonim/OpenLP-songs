@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:36">
+  <properties>
+    <titles>
+      <title>Z Panem dnia każdego chodź</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="369"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z Panem dnia każdego chodź,<br/>Jako dziecię ufaj Jemu,<br/>Miejsce Panu zrób świętemu,<br/>Własny rozum, siłę rzuć!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Z Panem chodząc każdy dzień,<br/>Czerpiesz zawsze życie Zeń.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Z Panem dnia każdego chodź!<br/>Wszak ci dojdą z pośród wielu,<br/>Których wodzem Pan do celu,<br/>Przeto własne drogi rzuć!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Każdy dzień chodź tylko z Nim!<br/>Gdy we wszystkim Doń się zwrócisz,<br/>Ducha życiem nie zasmucisz,<br/>Prawda, światłość tylko w Nim.</lines>
+    </verse>
+  </lyrics>
+</song>

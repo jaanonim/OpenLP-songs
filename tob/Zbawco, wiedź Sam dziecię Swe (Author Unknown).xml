@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:39">
+  <properties>
+    <titles>
+      <title>Zbawco, wiedź Sam dziecię Swe</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="425"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zbawco, wiedź Sam dziecię Swe,<br/>Silne pewne ramię Twe;<br/>Grodem, skałą w świecie złym,<br/>Jezu, Tyś ufaniem mym.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wiedź mnie, wiedź mnie,<br/>Wiedź przez ciemność w światłość mnie!<br/>Gdy się wszystko chwieje, rwie,<br/>Ufam w mocne rządy Twe</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy wróg grozi, Tyś stróż mój;<br/>W burzach mam ja pokój Twój.<br/>Wszystkim zawsze jesteś mi,<br/>Jezu, więc ja ufam Ci.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bierz mnie więc za rękę mą<br/>I w Ojczyznę prowadź Swą.<br/>Śmiało stawiam każdy krok,<br/>Idzie ze mną Jezus - Bóg.</lines>
+    </verse>
+  </lyrics>
+</song>

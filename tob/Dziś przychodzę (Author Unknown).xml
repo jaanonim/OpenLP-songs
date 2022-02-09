@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:01">
+  <properties>
+    <titles>
+      <title>Dziś przychodzę</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="129"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Dziś przychodzę, Panie mój,<br/>Tak jak wzywasz mnie,<br/>By wielbić Cię /x2<br/>Dziś przychodzę, Panie mój,<br/>Tak jak wzywasz mnie,<br/>By wielbić imię Twe!<br/>Chwalę Cię, wielbię Imię Twe!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/ Rzuć w niepamięć przeszłość swą,<br/>Jezus jest wśród nas,<br/>Więc chwalmy Go! /x2<br/>Rzuć w niepamięć przeszłość swą,<br/>Jezus jest wśród nas,<br/>Więc uwielbiajmy Go!<br/>Chwalmy Go, uwielbiajmy Go!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/ Do Jezusa zbliżmy się,<br/>Wznieśmy ręce swe<br/>I chwalmy Go! /x2<br/>Do Jezusa zbliżmy się,<br/>Wznieśmy ręce swe<br/>I uwielbiajmy Go!<br/>Chwalmy Go, uwielbiajmy Go!</lines>
+    </verse>
+  </lyrics>
+</song>

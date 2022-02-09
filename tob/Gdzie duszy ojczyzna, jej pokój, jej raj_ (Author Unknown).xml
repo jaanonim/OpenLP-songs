@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:52">
+  <properties>
+    <titles>
+      <title>Gdzie duszy ojczyzna, jej pokój, jej raj?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="651"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdzie duszy ojczyzna, jej pokój, jej raj?<br/>Gdzie życzeń, nadziei spełnionych jest kraj?<br/>Nie może przytułku pewnego dać świat,<br/>Boć pełno w nim grzechów i pokus i zdrad.<br/>Nie, nie, nie, nie! To żaden kłam:<br/>Mej duszy ojczyzna w niebiesiech jest tam?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Więc opuść tę ziemię, do nieba się wzbij,<br/>Do cudnej ojczyzny już serce swe ślij!<br/>Twej duszy ojczyzna, gdzie Boski jest tron,<br/>Jeruzalem wieczne, nadziemskich tych stron!<br/>Tam jest, tam jest Niebieski kraj,<br/>Co sercu i duszy da spokój i raj!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jak błogo w pokoju u Pana tam być,<br/>Gdzie śmierci, łez nie ma, jak błogo z Nim żyć!<br/>Tam harfy aniołów niebieskich w głos brzmią,<br/>Przywitać cię, duszo, gotowe już są.<br/>Błogi, błogi Pokój jest tam,<br/>Na łonie Twym, Zbawco, Ty dajesz go Sam!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Przy wszystkim zamęcie, wśród skargi i łez<br/>Mój Zbawco, tak dobrze mi z Tobą tu jest,<br/>Lecz choć jako w domu wśród Twych czuję się,<br/>To jednak wraz z nimi w Twój dom ciągnie mię.<br/>Ach, tam, ach, tam Do domu, tam!<br/>Więc przyjdź, o mój Zbawco, i zabierz mię Sam!</lines>
+    </verse>
+  </lyrics>
+</song>

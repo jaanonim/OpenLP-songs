@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:27">
+  <properties>
+    <titles>
+      <title>O, pójdźcie, posłuchajcie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="208"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, pójdźcie, posłuchajcie,<br/>Co Bóg uczynił mi,<br/>I wszyscy zaśpiewajcie<br/>Tę pieśń ku Jego czci!<br/>Ja pragnę wyznać głośno,<br/>Żeś, Boże, Ojcem mym;<br/>Tę pewność mam radosną,<br/>Że jestem dzieckiem Twym</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, pójdźcie, posłuchajcie,<br/>Co Bóg uczynił mi,<br/>I wszyscy zaśpiewajcie<br/>Tę pieśń ku Jego czci!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nic nie masz piękniejszego<br/>Nad to, co sprawił Pan;<br/>Zbawionym być przez Niego,<br/>To najszczęśliwszy stan.<br/>Jam w grzechach był zgubiony,<br/>Świat był zawładnął mną,<br/>Lecz teraz jam kupiony<br/>Jezusa świętą krwią!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Opowiem wszystkim wszędzie,<br/>Powtórzę śmiało w głos,<br/>To pieśnią moją będzie,<br/>Iż spotkał raią ten los.<br/>Niejeden to usłyszy,<br/>W modlitwie wzniesie dłoń,<br/>Przed Panem się uniży,<br/>A pokój przyjdzie doń</lines>
+    </verse>
+  </lyrics>
+</song>

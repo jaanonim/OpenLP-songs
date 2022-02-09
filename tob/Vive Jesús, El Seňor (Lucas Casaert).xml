@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:31">
+  <properties>
+    <titles>
+      <title>Vive Jesús, El Seňor</title>
+    </titles>
+    <authors>
+      <author type="words">Lucas Casaert</author>
+      <author type="music">Lucas Casaert</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="714"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vive Jesús, El Seňor,<br/>Vive Jesús, El Seňor. // (x2)<br/>El vive, El vive, El vive, vive<br/>vive Jesús, El Seňor. // (x2)<br/>Zmartwychwstał Jezus nasz Pan. // (x4)<br/>On żyje! On żyje! On żyje! żyje!<br/>zmartwychwstał Jezus nasz Pan. // (x2)</lines>
+    </verse>
+  </lyrics>
+</song>

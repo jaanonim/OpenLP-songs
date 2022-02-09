@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:46">
+  <properties>
+    <titles>
+      <title>161 NA GAŁĘZI SYKOMORY</title>
+    </titles>
+    <authors>
+      <author>Kamil Cyganik</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Na gałęzi sykomory, gdzie Zacheusz siedział sam,<br/>na gałęzi sykomory, Zacheusza dojrzał Pan.<br/>Więc z gałęzi sykomory celnik do Jezusa zszedł. <br/>Spod gałęzi sykomory Pan do jego domu wszedł.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Na gałęzi niewygodnie, na gałęzi czasem twardo.<br/>Na gałęzi trudno siedzieć z duszą dumną, twarzą hardą.<br/>Na gałęzi ciężko zasnąć, na gałęzi czuwać trzeba. <br/>Za to widzisz znacznie więcej, no i bliżej jesteś nieba.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Chodźmy w górę, chodźmy razem i usiądźmy na gałęzi.<br/>Takie wspólne „ramię w ramię” niezatarte tworzy więzi. <br/>A gdy Jezus znowu przyjdzie, spojrzy w górę tak jak wtedy.<br/>I zaprosi na wieczerzę, i ogłosi koniec biedy.</lines>
+    </verse>
+  </lyrics>
+</song>

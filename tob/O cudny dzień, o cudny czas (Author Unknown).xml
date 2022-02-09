@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:32">
+  <properties>
+    <titles>
+      <title>O cudny dzień, o cudny czas</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="310"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O cudny dzień, o cudny czas,<br/>Gdy sam Pan Jezus pierwszy raz,<br/>Przybliżył się do duszy mej.<br/>Blask mi zajaśniał w chwili tej.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cudny dzień, dziwny dzień,<br/>Gdy moich win zaginął cień.<br/>Od chwili tej jest ze mną Bóg,<br/>Prowadzi mnie w wieczności próg.<br/>Cudny dzień, dziwny dzień,<br/>Gdy moich win zaginął cień.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O cudny dzień, gdy przyszedł kres,<br/>Pokuty mej w dolinie łez.<br/>Ustąpił ból, ustąpił strach,<br/>Nie pędzę już żywota w łzach.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O cudny dzień, gdy rękę mą<br/>Uchwycił Pan prawicą swą.<br/>Własnością jam się Jego stał,<br/>On pewność tę mi w serce dał.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O cudny dzień już dusza ma<br/>Nowego życia rozkosz zna.<br/>Pokoju toń, radości zdrój<br/>Wlał w serce me Zbawiciel mój.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O cudny dzień już teraz wiem<br/>Że miłość Jego niesie mnie.<br/>Wciąż droga spływa z krzyża krew,<br/>Omyty w niej ten nucę śpiew.</lines>
+    </verse>
+  </lyrics>
+</song>

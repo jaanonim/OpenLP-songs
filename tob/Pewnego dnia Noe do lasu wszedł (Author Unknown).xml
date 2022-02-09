@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:10">
+  <properties>
+    <titles>
+      <title>Pewnego dnia Noe do lasu wszedł</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pewnego dnia Noe do lasu wszedł<br/>By zebrać wokół siebie wszystkie zwierzęta<br/>Bo rozgniewany Pan Bóg<br/>Chciał zesłać na świat potop<br/>Lecz nie z winy zwierząt więc ocalił je</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tu stoją krokodyle, orangutany<br/>Dwa malutkie wężyki i królewski orzeł<br/>I mysz i kot i bardzo duży słoń<br/>Zabrakło jeszcze tylko dwóch nosorożców<br/>Laj laj laj laj la la la laj /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zwierzęta wszystkie do arki szły<br/>Bo wielka czarna chmura była już na niebie<br/>I kropla do kropli zaczęło padać<br/>Lecz nie z winy zwierząt więc ocalił je</lines>
+    </verse>
+  </lyrics>
+</song>

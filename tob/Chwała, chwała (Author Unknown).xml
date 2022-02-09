@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:00">
+  <properties>
+    <titles>
+      <title>Chwała, chwała</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="110"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chwała, chwała, Alleluja<br/>Porzuciłem brzemię swe.<br/>Chwała, chwała, Alleluja<br/>Porzuciłem brzemię swe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zawsze byłem przygnębiony,<br/>Kiedy brzemię gniotło mnie.<br/>Zawsze byłem przygnębiony<br/>Kiedy brzemię gniotło mnie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Czuję radość, wielką radość<br/>Porzuciłem brzemię swe.<br/>Czuję radość, wielką radość<br/>Porzuciłem brzmię swe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Chwała, Chwała, Chwała, Alleluja<br/>Chwała, Chwała, Chwała, Alleluja<br/>Alleluja, Alleluja, Alleluja, Alleluja<br/>Porzuciłem brzemię swe.</lines>
+    </verse>
+  </lyrics>
+</song>

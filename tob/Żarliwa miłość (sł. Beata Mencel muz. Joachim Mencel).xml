@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:33">
+  <properties>
+    <titles>
+      <title>Żarliwa miłość</title>
+    </titles>
+    <authors>
+      <author type="words">sł. Beata Mencel muz. Joachim Mencel</author>
+      <author type="music">sł. Beata Mencel muz. Joachim Mencel</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="811"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Moja dusza drży, chłodne przyszły dni<br/>Jezu, roznieć żar, bo się ledwo tli.<br/>Wiatrem ciepłych słów, rozwiń łaski płaszcz<br/>Rozgrzej serce me, rozpal ogień w nim.<br/>By gorąca wiara wypełniła aż po brzegi<br/>serce moje.<br/>By żarliwa miłość uwolniła śpiew niebiański<br/>ku Twej chwale.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jezu, kocham Cię<br/>Jesteś sensem i spełnieniem,<br/>Jesteś pierwszy i ostatni,<br/>Bóg i człowiek. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Moja dusza gra, ze wzruszenia drży<br/>Roznieciłeś żar, spłonął ból i strach.<br/>Osuszyłeś łzy ciepłem Twoich Słów<br/>Rozświetliłeś noc blaskiem Bożych prawd.<br/>By gorąca wiara wypełniła aż po brzegi serce moje.<br/>By żarliwa miłość uwolniła śpiew niebiański ku Twej chwale.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Pragnę być przy Tobie, pełnić Twoją wolę<br/>Dzielić Twe marzenia, karmić się Twym Słowem.<br/>Trwać w jedności z Tobą, ukochany Boże<br/>Pozwól mi dziś przestąpić nieba  próg.</lines>
+    </verse>
+  </lyrics>
+</song>

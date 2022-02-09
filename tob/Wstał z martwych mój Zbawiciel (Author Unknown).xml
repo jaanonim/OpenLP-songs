@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:20">
+  <properties>
+    <titles>
+      <title>Wstał z martwych mój Zbawiciel</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="440"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wstał z martwych mój Zbawiciel,<br/>Zwyciężył grzechu noc;<br/>Z pęt śmierci Odkupiciel<br/>Objawił Swoją moc.<br/>Zmartwychwstał, zmartwychwstał,<br/>Zwyciężył śmierci moc.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wnet się rozpadły skały,<br/>Zbiec musiał stary wąż.<br/>Lud Boży pieśnią chwały<br/>Zwycięzcę wita już.<br/>Zwycięzcę, Zwycięzcę<br/>Lud Boży wita już.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niebieskim blaskiem lśniący<br/>Wśród rannych zórz Pan wstał,<br/>A nam dał jaśniejący<br/>W Nim zmartwychwstania dział.<br/>Król królów, Król królów<br/>Dziedzictwem Swych się stał.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ten Król ci chce darować<br/>Swą miłość, wiarę, moc,<br/>Posłusznym cię zachować,<br/>Gdy przyjdzie ciemna noc.<br/>Mój Jezus, mój Jezus<br/>Zwyciężył śmierci moc.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Głos trąby raz donośnie<br/>Zawoła zmarłych w Nim;<br/>Podniosą się radośnie<br/>W obłoki z Panem Swym.<br/>Żyć będą, żyć będą,<br/>Śmierć ich nie dotknie się.</lines>
+    </verse>
+  </lyrics>
+</song>

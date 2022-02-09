@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:12">
+  <properties>
+    <titles>
+      <title>Ty jesteś Bogiem mym</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Ty jesteś Bogiem mym<br/>Wspaniałym Bogiem mym<br/>Uwielbiam Cię<br/>Wywyższam Święte imię Twe /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/ O Panie chcę dziękować Ci<br/>Za to żeś mnie obdarował<br/>Dałeś tak wspaniałe życie<br/>Dałeś tak wspaniały świat /x2</lines>
+    </verse>
+  </lyrics>
+</song>

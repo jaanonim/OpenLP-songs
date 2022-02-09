@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:46">
+  <properties>
+    <titles>
+      <title>O, niech cię nie zwodzi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="528"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, niech cię nie zwodzi<br/>Ten kuszący głos;<br/>Grzech kłamie i łudzi,<br/>Za ciosem śle cios,<br/>Bądź, bracie, więc silnym,<br/>Chroń się grzechu szpon,<br/>Patrz wciąż na Jezusa,<br/>Wierz: zbawił cię On.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Prośby twe wysłuchuje,<br/>Wzmocni i poratuje,<br/>Życie wieczne daruje,<br/>Gdy się tylko zdasz Nań.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Unikaj bezbożnych<br/>Gdy zostać chcesz zdrów,<br/>Nieczystych i próżnych<br/>Wystrzegaj się słów;<br/>Co czyste, wybieraj,<br/>Co z prawdy, w tym trwaj;<br/>Na Pana spozieraj,<br/>W Nim błogość i raj.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kto tu się ostoi,<br/>Tam uczci go Bóg.<br/>Do niebios podwoi<br/>Nie dotrze już wróg.<br/>Twą będzie wygrana<br/>I pęknie moc zła;<br/>Patrz tylko na Pana,<br/>Zwycięstwo ci da!</lines>
+    </verse>
+  </lyrics>
+</song>

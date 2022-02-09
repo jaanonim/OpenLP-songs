@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:12">
+  <properties>
+    <titles>
+      <title>Tak jak jeleń</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tak jak jeleń do źródła wody,<br/>Dusza ma do Ciebie lgnie.<br/>Tyś pragnieniem mojego serca,<br/>Ciebie Panie wielbić chcę.<br/>Tyś mą siłą, Tyś tarczą jest,<br/>Na Tobie tylko polegać chcę.<br/>Tyś pragnieniem mojego serca,<br/>Ciebie Panie wielbić chcę!</lines>
+    </verse>
+  </lyrics>
+</song>

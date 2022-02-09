@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:59">
+  <properties>
+    <titles>
+      <title>Panie, będę Cię wysławiać</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="765"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie, będę Cię wysławiać,<br/>Tyś wysłuchał prośbę mą,<br/>Opowiadać Twoje sprawy;<br/>Krzyż Golgoty, mękę Twą.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O Jedyny Zbawicielu,<br/>W Tobie tylko ufność mam,<br/>Duszy mej Odkupicielu,<br/>Tobie tylko chwałę dam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Droga życia ciemna była,<br/>Strasznie było po niej iść,<br/>Prawda Twa mnie oświeciła,<br/>Abym umiał w świecie żyć.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wybawiłeś mnie od śmierci,<br/>Z ócz otarłeś gorzkie łzy,<br/>Nogi me wyrwałeś z sieci,<br/>Jezu, Zbawco, tylko Ty!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Będę śpiewać Ci na chwałę,<br/>O, mój Panie, Zbawco mój,<br/>Za Golgotę sercem całym,<br/>Przez nią teraz jestem Twój.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:09">
+  <properties>
+    <titles>
+      <title>Mój Jezus, zbawiciel</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mój Jezus, zbawiciel.<br/>Nikt nie jest taki jak Ty.<br/>Po wszystkie dni uwielbiać chcę<br/>Niezwykle dzieła łaski Twej<br/>Tyś twierdzą, schronieniem, pocieszycielem mym.<br/>Niech każda myśl, każda część mnie<br/>Już na zawsze wielbi Cię!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/ Niech cała ziemia zaśpiewa tę pieśń!<br/>Królowi potęga majestat i cześć!<br/>Góry uklękną, morza podniosą głos, aby uczcić imię Twe!<br/>Śpiewam z radością o dziełach twych rąk!<br/>Na zawsze już kocham, uwielbiam Cię wciąż.<br/>Już nic nie zastąpi mi, Panie, obietnic Twych. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

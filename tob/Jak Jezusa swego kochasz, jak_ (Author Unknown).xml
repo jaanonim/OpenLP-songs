@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:44">
+  <properties>
+    <titles>
+      <title>Jak Jezusa swego kochasz, jak?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="485"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak Jezusa swego kochasz, jak?<br/>Kiedy w sercu twym miłości brak?<br/>Jakim światłem jest tu życie twe,<br/>Jeśli serce twe do świata lgnie?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Duszom tu omdlałym pomoc nieś,<br/>Roznoś błogą orzeźwienia wieść,<br/>A wnet się zmienią zaschłe łany pól<br/>W przeradosny maj!<br/>Ciemne chmury spędzaj z serc i lic,<br/>O koronę chwały wzywaj biec,<br/>A duszom słabym błyśnie słońce maj,<br/>Upragniony, jasny raj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Słówkiem nieraz wiele siły dasz,<br/>Jeśli w sercu prawą miłość masz.<br/>Jak kojący balsam bądźże wciąż,<br/>Duszom w grzech zbłąkanym chętnie służ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Choćbyś wszystkich gwiazd imiona znał,<br/>Choćby świat ci wszelką sławę dał,<br/>Stracon jest i najwspanialszy dzień,<br/>Jeśli nie płynęła miłość weń.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Z Nazaretu wyszedł Król, nasz Pan,<br/>Tron królewski jest Mu wiecznie dan,<br/>Imię Jego skałą mocną nam,<br/>Z Nim dojdziemy do niebieskich bram</lines>
+    </verse>
+  </lyrics>
+</song>

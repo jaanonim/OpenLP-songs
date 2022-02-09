@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:30">
+  <properties>
+    <titles>
+      <title>Mocno wierzę w niebo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="263"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mocno wierzę w niebo<br/>W którym mieszka Ojciec Bóg.<br/>Wierzę tez w Jezusa,<br/>Który wyrwał mnie z mych wszelkich trwóg.<br/>Wykonało się rzekł nasz Pan<br/>Gdy na krzyżu za nas zmarł.<br/>Wykonało się rzekł nasz Pan<br/>Gdy swe życie za nas dał.<br/>Pan okazał nam miłość swą<br/>Gdy na krzyżu za nas zmarł<br/>Pan okazał nam miłośc swą<br/>Gdy swe życie za nas dał.</lines>
+    </verse>
+  </lyrics>
+</song>

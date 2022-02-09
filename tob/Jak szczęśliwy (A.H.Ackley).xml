@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:44">
+  <properties>
+    <titles>
+      <title>Jak szczęśliwy</title>
+    </titles>
+    <authors>
+      <author type="words">A.H.Ackley</author>
+      <author type="music">A.H.Ackley</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="483"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak szczęśliwy jestem<br/>w służbie Króla dusz!<br/>Jak szczęśliwy, jak szczęsliwy!<br/>W Nim znalazłem pokój serca,<br/>pląsam wciąż;<br/>Jestem w służbie Króla dusz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jestem w służbie Króla dusz,<br/>Jemu śpiewam pieśni wciąż.<br/>W Nim znalazłem pokój serca;<br/>Jestem w służbie Króla dusz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jak szczęśliwy jestem<br/>w służbie Króla dusz!<br/>Jak szczęśliwy, jak szczęsliwy!<br/>W dniach słonecznych<br/>jak i w czasie prób i burz;<br/>Jestem w służbie Króla dusz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jak szczęśliwy jestem<br/>w służbie Króla dusz!<br/>Jak szczęśliwy, jak szczęsliwy!<br/>Składam u nóg Zbawcy wszystko,<br/>składam już;<br/>Jestem w służbie Króla dusz.</lines>
+    </verse>
+  </lyrics>
+</song>

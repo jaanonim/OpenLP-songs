@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:09">
+  <properties>
+    <titles>
+      <title>Niepojęta Łaska</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On jest Ojcem sierot,<br/>Opiekunem wdów jest Dobry Bóg,<br/>Dom swój daje wszystkim opuszczonym.<br/>Zsyła deszcz obfity<br/>Na to co spragnione i wyczerpane jest,<br/>Dobry jest dla biednych.<br/>W Łasce swej nasz Bóg do nas uniżył się.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niepojęta Łaska Jego wciąż dosięga nas.<br/>Gdy podnosi, przemienia serca i uwalnia nas.<br/>Prawda ta.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On zna każde serce,<br/>Nie odwraca się gdy wzywamy Go,<br/>Kocha nas pomimo<br/>Tego, że tak niewiele możemy Mu dać.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Niepojęta Łaska Jego<br/>Wciąż dosięga nas.<br/>Gdy podnosi, przemienia serca<br/>I uwalnia nas<br/>Prawda ta.</lines>
+    </verse>
+  </lyrics>
+</song>

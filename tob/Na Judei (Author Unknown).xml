@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:51">
+  <properties>
+    <titles>
+      <title>Na Judei</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="403"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na Judei błoniach wonnych już zapadła noc,<br/>pastuszkowie strzegą stada, modły w niebo śląc.<br/>Wtem ich jasny blask olśniewa, niebo schodzi w dół,<br/>słychać cudny śpiew aniołów pośród pól i siół:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chwała w wysokości, Chwała w wysokości,<br/>Chwała w wysokości, Chwała w wysokości, cześć!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zadziwiła ich anielska przeradosna wieść:<br/>Dziś się Chrystus wam narodził, dajcie Jemu cześć!<br/>Z dawna był wam obiecany, dziś od Boga dań,<br/>leży w żłóbku i w pieluszkach, On, sam Chrystus Pan.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pieśń ta jeszcze nie przebrzmiała, jeszcze słychać ją,<br/>wszystkie ludy, wszystkie wieki Pana swego czczą.<br/>Aniołowie pieśń zaczęli wśród Judei gór;<br/>I my do nich się przyłączmy jako jeden zbór!</lines>
+    </verse>
+  </lyrics>
+</song>

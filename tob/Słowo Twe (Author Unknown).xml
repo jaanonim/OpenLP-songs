@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:37">
+  <properties>
+    <titles>
+      <title>Słowo Twe</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="75"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>/Słowo Twe jest pochodnią nogom mym<br/>i światłością ścieżce mej./x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Lęk ogarnął mnie, zabłądzić bałem się,<br/>Spostrzegłem, że jesteś ze mną.<br/>Nic nie grozi mi, gdy obok będziesz Ty.<br/>Proszę bądź przy mnie zawsze.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bardzo kochasz mnie, me serce wdzięczne jest.<br/>Miłości Twej nie zapomnę. Oświeć drogę mą,<br/>Zdaję się na pomoc Twą.<br/>Proszę prowadź mnie zawsze.</lines>
+    </verse>
+  </lyrics>
+</song>

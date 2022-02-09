@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:44">
+  <properties>
+    <titles>
+      <title>Jak wiele błądzi owiec</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="486"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak wiele błądzi owiec<br/>Od Chrystusowych trzód<br/>W bezdroża, na manowiec,<br/>Na nędzę, mróz i głód;<br/>Przez ciernie, przez gęstwiny,<br/>Gdzie grozi śmierci jad,<br/>W prz¬paście, rozpadliny<br/>Torują sobie ślad.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, pójdźmy, by je odszukać!<br/>Idą do niechybnych zgub.<br/>Niechże każdy z nas śmie choćby jedną z nich<br/>Przynieść też do Pańskich stóp!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Któż chce zgubione syny,<br/>Któż do Jezusa wieść?<br/>Przez ciernie, przez gęstwiny<br/>Któż gotów mężnie przejść?<br/>Pomimo zimna, głodu,<br/>Któż chętnie pójdzie tam,<br/>By chronić je przed szkodą<br/>I wyrwać z śmierci jam?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jak słodko to godziną<br/>Wieczorną będzie rzec:<br/>„Pasterzu, tę jedyną<br/>Owieczkę mogłem strzec.<br/>Znalazłem ją strudzoną<br/>I pełną trwóg i mąk;<br/>Dziś ją na Twoje łono,<br/>Do Twoich kładę rąk."</lines>
+    </verse>
+  </lyrics>
+</song>

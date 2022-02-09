@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:44">
+  <properties>
+    <titles>
+      <title>Smutno mi, Panie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="277"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Smutno mi, Panie, nie jestem w stanie<br/>duszy oziębłej ku Tobie wznieść<br/>Chwały wyśpiewać, w modlitwie<br/>czuwać i należytą oddać Ci cześć</lines>
+    </verse>
+    <verse name="c1">
+      <lines>// Ma wiara mała i sił mi brak, jest to<br/>hańbiący duszy mej znak<br/>Ocuć mię, Boże, Twój Duch pomoże<br/>powstać do życia dziś - jeszcze dziś //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Z imienia żywy, sługa leniwy - stać<br/>się gorliwym w Twej pracy chcę.<br/>Błagam Cię, proszę, modły znaszę,<br/>pierwszą miłością niech dusza drgnie!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>// Usuń i zamień zwietrzałą sól, niech<br/>mną nie szarpie dogłębny ból!<br/>Ocuć mię, Boże, Twój Duch pomoże<br/>powstać do życia dziś - jeszcze dziś //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lnu kurzącego Ty nie zagasisz, iskrę<br/>rozniecisz w płomienia żar;<br/>lampę garnącą poprawić raczysz,<br/>jawnym uczynisz każdego dar.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>// Twe miłosierdzie ożywi nas, pomoc<br/>Twa przyjdzie w najlepszy czas.<br/>Ocuć mię, Boże, Twój Duch pomoże<br/>powstać do życia dziś - jeszcze dziś //</lines>
+    </verse>
+  </lyrics>
+</song>

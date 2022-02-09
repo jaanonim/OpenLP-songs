@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:25">
+  <properties>
+    <titles>
+      <title>Jest kraj, gdzie nie ma bólu, łez</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="371"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jest kraj, gdzie nie ma bólu, łez,<br/>gdzie nie panuje ludzka złość,<br/>gdzie biedom Bóg położył kres,<br/>gdzie jest dla Ciebie szczęścia dość</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Swój krzyż cicho i z godnością nieś /2x<br/>/ Swój krzyż /2x<br/>bez narzekania nieś! (cierpliwie nieś)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W tym cudnym kraju nie ma trwóg<br/>radości tam wciąż płynie zdrój<br/>nie znana tam jest śmierć - nasz wróg<br/>twym życiem jest Stworzyciel twój</lines>
+    </verse>
+    <verse name="c2">
+      <lines>/ Swój krzyż cicho i z godnością nieś /2x<br/>/ Swój krzyż /2x<br/>bez narzekania nieś! (cierpliwie nieś)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu życie tylko chwilę trwa,<br/>a potem nieskończony wiek<br/>Tam wszystko Tobie Jezus da,<br/>gdy próby twej tu skończysz bieg</lines>
+    </verse>
+    <verse name="c3">
+      <lines>/ Swój krzyż cicho i z godnością nieś /2x<br/>/ Swój krzyż /2x<br/>bez narzekania nieś! (cierpliwie nieś)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cierpliwie w czasie próby trwaj,<br/>aż Bóg ci chwałę wieczną da<br/>Ginącym też nadzieję daj,<br/>że Bóg i dla nich miłość ma</lines>
+    </verse>
+    <verse name="c4">
+      <lines>/ Swój krzyż cicho i z godnością nieś /2x<br/>/ Swój krzyż /2x<br/>bez narzekania nieś! (cierpliwie nieś)</lines>
+    </verse>
+  </lyrics>
+</song>

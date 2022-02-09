@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:28">
+  <properties>
+    <titles>
+      <title>Będę biec, biec</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="235"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Będę biec, biec, biec<br/>By spotkać Zbawcę /x3<br/>Gdy nasz Pan przyjdzie znów!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/ Każde oko Go wtedy ujrzy /x3<br/>Gdy nasz Pan przyjdzie znów!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/ Każde kolano się przed Nim zegnie /x3<br/>Gdy nasz Pan przyjdzie znów!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/ Każdy język Go wtedy wyzna /x3<br/>Gdy nasz Pan przyjdzie znów!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/ Wszyscy Święci Jezusa uczczą /x3<br/>Gdy nasz Pan przyjdzie znów!</lines>
+    </verse>
+  </lyrics>
+</song>

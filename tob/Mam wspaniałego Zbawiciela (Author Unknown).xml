@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:33">
+  <properties>
+    <titles>
+      <title>Mam wspaniałego Zbawiciela</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="68"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mam wspaniałego Zbawiciela,<br/>On wszędzie pomoc Swą mi śle,<br/>o Jego cudach muszę świadczyć,<br/>niech każdy, każdy to wie.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Niechaj każdy to wie,<br/>niechaj każdy to wie:<br/>Mam wspaniałego Zbawiciela,<br/>niech każdy, każdy to wie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miłością Swą mie uszczęśliwia,<br/>przy boku Jego mogę stać,<br/>On najpiękniejszy spośród ludzi!<br/>Obyście chcieli Go znać!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Niechaj każdy to wie,<br/>niechaj każdy to wie:<br/>Mam wspaniałego Zbawiciela,<br/>niech każdy, każdy to wie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy szatan sidła w drodze stawia,<br/>rozciąga swą zwodniczą sieć,<br/>podziwiam jak mię Pan wybawi,<br/>w Nim wolność też możesz mieć.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Niechaj każdy to wie,<br/>niechaj każdy to wie:<br/>Mam wspaniałego Zbawiciela,<br/>niech każdy, każdy to wie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ma miłość, moje życie<br/>całe jest Jego, ja mu służyć rad;<br/>ten Pan mój, co tak uszczęśliwia,<br/>to mój najwspanialszy Brat.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Niechaj każdy to wie,<br/>niechaj każdy to wie:<br/>Mam wspaniałego Zbawiciela,<br/>niech każdy, każdy to wie.</lines>
+    </verse>
+  </lyrics>
+</song>

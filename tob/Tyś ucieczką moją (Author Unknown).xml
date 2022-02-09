@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:36">
+  <properties>
+    <titles>
+      <title>Tyś ucieczką moją</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="364"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tyś ucieczką moją, Panie!<br/>Tego nie powstydzę się.<br/>Tyś jest mocą Swoją w stanie<br/>Chronić od przygody mię,<br/>Przeto ufność swą położę,<br/>W łasce i litości Twej:<br/>Ty mię wesprzesz, dobry Boże,<br/>Pośród trosk i doli złej.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Od grzeszników mię obronisz<br/>I od nieprzyjaciół mych,<br/>Od ich złości mię ochronisz<br/>I od zdradnych sideł ich.<br/>Niech nie mówią, żeś porzucił<br/>Wiernych Swych na pastwę im<br/>Obyś umysł ich odwrócił<br/>Od służenia żądzom złym!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Będą wówczas zawstydzeni,<br/>Hańba dotknie duszy ich,<br/>I odstąpią zniewoleni<br/>Od zamiarów niecnych swych.<br/>W Tobie szukam swej obrony,<br/>Bo ja nic nie zdołam sam,<br/>W Tobie tylko z każdej strony<br/>Pomoc i osłonę mam.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Boże mocny, Boże cudów,<br/>Przenajświętszy Ojcze nasz,<br/>Co dla szczęścia wszystkich ludów<br/>Dobroć, moc i łaskę masz,<br/>Który widzisz serca drgnienie<br/>I najskrytsze myśli znasz,<br/>Racz wysłuchać me westchnienie,<br/>Przenajświętszy Ojcze nasz!</lines>
+    </verse>
+  </lyrics>
+</song>

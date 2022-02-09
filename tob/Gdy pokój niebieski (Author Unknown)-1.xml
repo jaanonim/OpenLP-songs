@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:31">
+  <properties>
+    <titles>
+      <title>Gdy pokój niebieski</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="297"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy pokój niebieski<br/>Bóg w duszę mi tchnie,<br/>Choć burzy zagraża mi szał,<br/>To jednak we wierze<br/>pieśń chwały Mu ślę:<br/>Błogo mi, w Panu mam<br/>wieczny dział!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Błogo mi, /x2 błogo mi,<br/>W Panu mam wieczny dział!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy trwogą śmiertelną<br/>przejmuje mnie wróg<br/>I grozi mi wciąż jego strzał,<br/>To wiem, że złośnika<br/>Zbawiciel już zmógł,<br/>że zupełne zwycięstwo mi dał.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Baranek już zgładził<br/>grzechowy dług mój,<br/>Gdy za mnie<br/>przekleństwem się stał<br/>I za mnie na krzyżu On<br/>żywot dał Swój.<br/>Moja duszo, nie żałuj Mu chwał!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Już żyję w Chrystusie,<br/>On gwiazdą jest mą,<br/>W ciemnościach nie będę się bał;<br/>Ni męki, ni burze<br/>zaszkodzić mi śmią,<br/>W Nim pokoju wiecznego mam dział.</lines>
+    </verse>
+  </lyrics>
+</song>

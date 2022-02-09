@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:02">
+  <properties>
+    <titles>
+      <title>Kto ma tak piękne trzody?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="829"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kto ma tak piękne trzody?<br/>To ma nasz dobry Pan,<br/>Tysiące tu na ziemi,<br/>Tysiące w niebie tam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Dobry Pasterzu mój, /x2<br/>/ Bqdź mi łaskaw, /x2<br/>Dobry Pasterzu mój.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chcesz trzodę tę zobaczyć<br/>I w niej owieczką być?<br/>Do szkółki spiesz niedzielnej,<br/>Nie zwlekaj, zaraz, idź!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na, Bożych łanach pasie<br/>Te małe z chęcią Pan,<br/>A słabe Pasterz niesie<br/>Na Swoich barkach Sam.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I ciebie On też przyjmie<br/>Pomimo grzechów twych,<br/>O, śpiesz do trzody Jego,<br/>Zaniechaj chęci złych!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A potem możesz z nami<br/>Rączęta swoje spleć,<br/>I z serca Mu dziękować,<br/>Oddawać Panu cześć</lines>
+    </verse>
+  </lyrics>
+</song>

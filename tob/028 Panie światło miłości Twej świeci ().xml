@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:39">
+  <properties>
+    <titles>
+      <title>028 Panie światło miłości Twej świeci</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie światło miłości Twej świeci, <br/>Pośród wszelkiej ciemności świeci.<br/>Oświeć nas Jezu światłości świata,<br/>Wyzwól prawdę, którą przynosisz,<br/>Oświeć mnie, oświeć mnie.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Świeć, Jezu, świeć!<br/>Chwałą Ojca napełnij ziemię! <br/>Płoń, Duchu, płoń! W sercach ogień złóż! <br/>Płyń, rzeko, płyń! Zalej łaską narody całe! <br/>Ślij Słowo Twe, Światłość niech stanie się!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Panie, wchodzę w Twą obecność. <br/>Dzień ustąpił przed Twoim blaskiem. <br/>Dzięki krwi Twojej żyję w światłości,<br/>Badaj mnie, wypal, pochłoń ciemności,<br/>Oświeć mnie, oświeć mnie.</lines>
+    </verse>
+  </lyrics>
+</song>

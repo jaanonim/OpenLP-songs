@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:37">
+  <properties>
+    <titles>
+      <title>Pasterzem mym Pan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="410"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pasterzem mym Pan!<br/>O, słodki to ton,<br/>Bo bardziej mnie nikt<br/>Nie kocha jak On.<br/>Owieczkom, co w Jego<br/>Oddały się dłoń,<br/>Pokarmu słodkiego<br/>Kwiecistą da błoń.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On będzie mię pasł<br/>Wśród żyznych Swych pól<br/>I mocą Swych słów<br/>Ukoi mój ból!<br/>On zdjął ze mnie grzechy<br/>I wskazał mi zdrój<br/>Ożywczy pociechy,<br/>Bo Pasterz to mój!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pilnuje mnie wciąż<br/>I wszystkich Swych rzesz,<br/>Nie może już tknąć.<br/>Drapieżny mnie zwierz.<br/>Swą laską obrończą<br/>Wypłoszy go w las,<br/>Cierpienia się skończą,<br/>On będzie mię pasł.</lines>
+    </verse>
+  </lyrics>
+</song>

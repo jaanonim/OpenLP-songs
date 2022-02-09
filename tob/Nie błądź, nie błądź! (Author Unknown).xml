@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:26">
+  <properties>
+    <titles>
+      <title>Nie błądź, nie błądź!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="189"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie błądź, nie błądź!<br/>Bóg w górze wszystko wie.<br/>Nie błądź, nie błądź!<br/>I ciebie w górę zwie.<br/>Nie błądź, nie błądź!<br/>Upływa rychło życia czas,<br/>O, porzuć drogę grzechu raz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Patrz, Jezus Swą przebitą<br/>Podaje tobie dłoń;<br/>Wskazuje tobie drogę<br/>Na wieczną, rajską błoń,<br/>Gdzie pokój, radość, szczęście<br/>Nie mają żadnych zmian,<br/>Tam wieść i ciebie chce nasz Pan.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nie błądź, nie błądź!<br/>Co może ci dać świat?<br/>Nie błądź, nie błądź!<br/>W nim pełno sideł, zdrad.<br/>Nie błądź, nie błądź!<br/>Rozkosze ziemskie, marny kłam,<br/>O, przestań zwodzić siebie sam!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>W ogrodzie Getsemane<br/>Pan stoczył ciężki bój,<br/>Tam krwawo On się pocił<br/>I dział wywalczył twój,<br/>Tam na Golgoty krzyżu<br/>On życie Swoje dał,<br/>A ty wzbraniałbyś się i chwiał?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nie błądź, nie błądź!<br/>Głos Boży ścichnie raz.<br/>Nie błądź, nie błądź!<br/>Przeminie łaski czas.<br/>Nie błądź, nie błądź!<br/>Jak Sędzia przyjdzie<br/>Chrystus raz.<br/>O, szukaj Zbawcy, póki czas!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Gdy wszystko się wypełni,<br/>Co postanowił Bóg,<br/>Gdy wszyscy przeciwnicy<br/>Do Jego padną nóg,<br/>Gdy rzesze dzieci Bożych<br/>W przecudny wejdą kraj,<br/>Czy twoim będzie też ten raj?</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:48">
+  <properties>
+    <titles>
+      <title>My do ojczystych śpieszym stron</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="574"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My do ojczystych śpieszym stron,<br/>Gdzie królem jest nasz Pan,<br/>Gdzie lśni się wspaniałości tron,<br/>Od Ojca Jemu dań.<br/>Zapała serce, zalśni twarz<br/>Pielgrzymom, którzy śpieszą wraz.<br/>O, alleluja, amen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ten złoty gród dwanaście ma<br/>Perłowych, lśniących bram;<br/>W ulicach wieczna. jasność trwa,<br/>Gdyż Bóg jest światłem tam.<br/>Nam w sercu zda się - widzim już<br/>Ów tron i mury w blasku zórz.<br/>O, alleluja, amen!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My z rodu Księcia wszystkich ziem<br/>Przez moc Chrystusa krwi;<br/>On o mieszkanie troszczy się<br/>- W tym radość dla nas lśni.<br/>Rozmyślasz: oby było mym Zbawienie to:<br/>lecz wierz, jest twym!<br/>O, alleluja, amen!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jak kryształ czysty strumień tam<br/>Przepływa rajski gród,<br/>Z drzew życia owoc dany nam,<br/>By koił wszelki głód.<br/>Czy jeszcze, duszo, wątpić chcesz?<br/>Pan. ci to daje, tylko wierz!<br/>O, alleluja, amen!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Zbawieni pozdrawiają nas;<br/>Jak śnieg jest szata ich,<br/>Łzy otarł Pan na wszystek czas,<br/>Zdjął wszelki ciężar z nich.<br/>A choć ty nic nie czujesz tu,<br/>Uczucia łudzą - uwierz Mu!<br/>O, alleluja, amen!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ujrzymy wkrótce twarzą w twarz<br/>Jezusa w chwale tej,<br/>Gdy wezwie nas Baranek nasz<br/>Do Siebie z łaski Swej.<br/>Gdy wierzysz Weń, to żywot masz,<br/>Toś odkupiony, Pana znasz!<br/>O, alleluja, amen!</lines>
+    </verse>
+  </lyrics>
+</song>

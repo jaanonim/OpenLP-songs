@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:06">
+  <properties>
+    <titles>
+      <title>Głośno do Pana wołam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Głośno do Pana wołam,<br/>Głośno aby usłyszał.<br/>Szukam mojego Boga,<br/>Ręce swoje wyciągam!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bóg mój wzmacnia mnie tak,<br/>On wzmacnia mnie,<br/>On sam przebaczył mój grzech.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Głośno do Pana wołam,<br/>Głośno Pana wzywam.<br/>Ręce moje wyciągam,<br/>Śpiewam dla mego Boga</lines>
+    </verse>
+  </lyrics>
+</song>

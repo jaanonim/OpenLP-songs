@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:38">
+  <properties>
+    <titles>
+      <title>W świecie bólu i goryczy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="160"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W świecie bólu i goryczy,<br/>gdzie panuje wieczny znój,<br/>ma stęskniona dusza krzyczy,<br/>pragnąc znaleźć szczęścia zdrój.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szczęście tylko Chrystus da,<br/>ono w krzyżu źródło ma,<br/>gdzie Pan duszę Swą położył<br/>i do raju drzwi otworzył.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, błogości w świecie śniłem,<br/>świat mnie zwiódł,<br/>wprowadził w błąd nim się szczęściem nasyciłem,<br/>serce stoczył grzechów trąd.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Szczęście tylko Chrystus da,<br/>ono w krzyżu źródło ma,<br/>gdzie Pan duszę Swą położył<br/>i do raju drzwi otworzył.</lines>
+    </verse>
+  </lyrics>
+</song>

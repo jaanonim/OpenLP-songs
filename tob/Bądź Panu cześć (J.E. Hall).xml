@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:17">
+  <properties>
+    <titles>
+      <title>Bądź Panu cześć</title>
+    </titles>
+    <authors>
+      <author type="words">J.E. Hall</author>
+      <author type="music">J.E. Hall</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="3"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bądź Panu cześć!<br/>O, nućcie pieśni chwały!<br/>Niech sławę Jego łaski słyszy świat!<br/>On dobry jest!<br/>Niech wie o tym świat cały,<br/>Że Jezus życie za nas grzesznych kładł.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chcemy w cichym uwielbieniu<br/>Służyć wciąż Królowi chwał,<br/>Chcemy świadczyć o zbawieniu,<br/>Jako Pan nam rozkaz dał.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bądź Panu cześć!<br/>Z głębokiej dziś wdzięczności<br/>Z serca śpiewajcie pieśni kornych chwał!<br/>On dobry jest, bo z wielkiej<br/>Swej litości Skałą zbawienia grzesznym<br/>Nam się stał.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bądź Panu cześć!<br/>Bo sprawą najpiękniejszą<br/>Jego wysławiać za miłości czyn.<br/>On dobry jest!<br/>Niech wierni dziś się cieszą,<br/>Że mogą śpiewać, wyzwoleni z win.</lines>
+    </verse>
+  </lyrics>
+</song>

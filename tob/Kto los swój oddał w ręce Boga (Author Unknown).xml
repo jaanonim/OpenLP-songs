@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:35">
+  <properties>
+    <titles>
+      <title>Kto los swój oddał w ręce Boga</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="342"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kto los swój oddał w ręce Boga,<br/>Kto w Nim nadzieję złożył swą,<br/>Nie dotknie tego żadna trwoga,<br/>I pomoc znajdzie w dolę złą.<br/>Kto sercem się z swym Bogiem zrósł,<br/>Ten na opoce dom swój wzniósł.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niech serce twe więc bacznie słucha,<br/>Co Bóg ci każe, czego chce,<br/>I przyjmuj to w pokorze ducha,<br/>Co mądrość ci najwyższa śle.<br/>Ten, który stworzył, wyniósł nas,<br/>Wie, czego brak nam w każdy czas.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On wie, co radość twoją wzmoże,<br/>I twe potrzeby dobrze zna,<br/>Więc wytrwaj w wierze i w pokorze,<br/>Niech fałszem wzgardzi dusza twa;<br/>A Bóg ci ześle skarby łask<br/>I w prawdy cię powiedzie blask.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy ból ci wydrze z piersi łkanie,<br/>Nie mniemaj, że Bóg rzucił cię,<br/>że tylko o tym ma staranie,<br/>Któremu los uśmiecha się,<br/>Bo nie zna nikt tych czasów, zmian,<br/>Ni celów, które przejrzał Pan.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Skinieniem jednym strącić z wyżyn<br/>Pysznego w nicość może Bóg,<br/>Maluczkich zaś wywyższyć z nizin<br/>I wyrwać z wszelkich cierpień, trwóg.<br/>O, nieraz możny pada w pył,<br/>A wstaje, kto poniżoń był.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Więc Bogu powierz życie swoje<br/>I w sercu zawsze Boga miej,<br/>On na cię ześle łaski zdroje<br/>I mieć cię będzie w pieczy Swej;<br/>Choćby ci groził zguby cios.<br/>Nie spadnie z głowy twojej włos.</lines>
+    </verse>
+  </lyrics>
+</song>

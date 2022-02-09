@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:02">
+  <properties>
+    <titles>
+      <title>Chciałbym się wzbić lotem orła hen</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="822"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chciałbym się wzbić lotem orła hen,<br/>wzwyż Ku Panu, ujrzeć tam Chrystusa Krzyż,<br/>Lecz mój duch lękliwie poczyna drżeć,<br/>Trudno mi jest ponad ziemię się wznieść.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Świetlaną snuć chciałbym na ziemi nić,<br/>Światłością Twą chciałbym zawsze już lśnić;<br/>Do kraju wejść, który Mistrz przyrzekł mi,<br/>Lecz moja pochodnia ledwie się tli.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wiem czemu mnie prześladuje ten los,<br/>Miast powodzenia - spotyka mnie cios!<br/>Żebym się więcej nie chlubił, ni mścił,<br/>Bym bliżej był Stwórcy i Jego czcił.</lines>
+    </verse>
+  </lyrics>
+</song>

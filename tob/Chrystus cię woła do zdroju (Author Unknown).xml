@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:35">
+  <properties>
+    <titles>
+      <title>Chrystus cię woła do zdroju</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="107"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chrystus cię woła do zdroju,<br/>Do zdroju żywota idź.<br/>A nie trać siły w zastoju<br/>Z źródła bierz,jeśli chcesz żyć.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chrystus cię woła do zdroju,<br/>Do zdroju życiowych wód,<br/>Usłuchaj Bożego Słowa,<br/>A znajdziesz zbawienia cud.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chrystus cię woła do boju.<br/>Z przesądem, ciemnością walcz,<br/>Walczyć masz miłości zbroją,<br/>Życia i męstwa zdrój znasz.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chrystus cię woła do zdroju,<br/>Do zdroju życiowych wód,<br/>Usłuchaj Bożego Słowa,<br/>A znajdziesz zbawienia cud.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chrystus cię woła:Pójdź za mną!<br/>Jak żyć statecznie ucz się<br/>Miłością natchnie twą duszę,<br/>i w wierze umocni cię.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Chrystus cię woła do zdroju,<br/>Do zdroju życiowych wód,<br/>Usłuchaj Bożego Słowa,<br/>A znajdziesz zbawienia cud.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:29">
+  <properties>
+    <titles>
+      <title>Królu mój, Królu chwały</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="262"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Królu mój, Królu chwały,<br/>Tyś mój cel, me pragnienie;<br/>Jestem Twój, jestem cały,<br/>Twoim każde me tchnienie!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tobie woń sieją róże,<br/>Ptasząt wielbią Cię pienia,<br/>- Niech i ja Tobie służę<br/>Każdą chwilą istnienia.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chcę się słowem Twym żywić,<br/>Tobą żyć dniem i nocą;<br/>Aż do krwi się sprzeciwić,<br/>Walcząc z grzechu przemocą.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Chcę się wyrzec wszystkiego,<br/>Co do Ciebie nie zbliża,<br/>Chcę wśród ludu mojego<br/>Głosić moc Twego krzyża!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oto jestem, mój Królu,<br/>Na Twe czekam rozkazy,<br/>Nie znam ofiar, ni bólu,<br/>Chcę je pełnić bez zmazy!</lines>
+    </verse>
+  </lyrics>
+</song>

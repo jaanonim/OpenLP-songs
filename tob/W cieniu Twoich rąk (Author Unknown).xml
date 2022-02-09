@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:12">
+  <properties>
+    <titles>
+      <title>W cieniu Twoich rąk</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W cieniu Twoich rąk<br/>Ukryj proszę mnie<br/>Gdy boję się, gdy wokół mrok<br/>Bądź światłem, bądź nadziei dniem<br/>Wszystkim o czym śnię,<br/>głosem w sercu mym<br/>Jak ręka która trzyma mnie<br/>Nad brzegiem nocy, brzegiem dni<br/>Bądź jak skrzydła dwa,<br/>kiedy braknie sił</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chwyć mnie i nieś,<br/>niech Niebo bliżej będzie<br/>Tak bardzo chcę,<br/>w ramionach Twych się skryć</lines>
+    </verse>
+  </lyrics>
+</song>

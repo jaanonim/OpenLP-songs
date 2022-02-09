@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:21">
+  <properties>
+    <titles>
+      <title>A wczora z wieczora</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="1001"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A wczora z wieczora,<br/>a wczora z wieczora<br/>z niebieskiego dwora,<br/>z niebieskiego dwora.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przyszła nam nowina,<br/>przyszła nam nowina:<br/>Panna rodzi Syna,<br/>Panna rodzi Syna.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Boga prawdziwego,<br/>nieogarnionego.<br/>Za wyrokiem Boskim,<br/>w Betlejem żydowskim.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pastuszkowie mali<br/>w polu wtenczas spali,<br/>gdy Anioł z północy<br/>światłość z nieba toczy.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Chwałę oznajmując,<br/>szopę pokazując,<br/>chwałę Boga tego,<br/>dziś nam zrodzonego.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>'Tam Panna Dzieciątko,<br/>miłe Niemowlątko,<br/>uwija w pieluszki,<br/>pośpieszcie pastuszki!'</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Natychmiast pastuszy<br/>śpieszą z całej duszy,<br/>weseli bez miary,<br/>niosą z sobą dary.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Mądrości druhowie,<br/>z daleka królowie,<br/>pragną widzieć swego<br/>Stwórcę przedwiecznego.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Dziś Mu pokłon dają<br/>w ciele oglądają.<br/>Każdy się dziwuje,<br/>że Bóg nas miłuje.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>I my też pośpieszmy,<br/>Jezusa ucieszmy<br/>ze serca darami:<br/>modlitwa, cnotami.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Jezu najmilejszy,<br/>ze wszech najwdzięczniejszy,<br/>zmiłuj się nad nami<br/>grzesznymi sługami.</lines>
+    </verse>
+  </lyrics>
+</song>

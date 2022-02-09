@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:24">
+  <properties>
+    <titles>
+      <title>O, wróć, o, wróć!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="161"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, wróć, o, wróć!<br/>Wróć do domu z swych dróg!<br/>Zbiegłeś precz, w obcy kraj,<br/>Zwiędnął ci szczęścia maj.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Do domu Ojca wróć,<br/>Zgubione dziecię, wróć!<br/>Wróć już, do domu wróć!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, wróć, o, wróć!<br/>Jeszcze czeka cię Pan;<br/>Niech w pokorze już raz<br/>Serca skruszy się głaz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, wróć, o, wróć!<br/>Porzuć straszny ten kraj,<br/>Gdzie w ciemności wróg zły<br/>W serce jad sączy ci!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, wróć, o, wróć!<br/>Ojciec przyjmie cię rad.<br/>Mile woła On cię,<br/>Przebaczenie dać chce.</lines>
+    </verse>
+  </lyrics>
+</song>

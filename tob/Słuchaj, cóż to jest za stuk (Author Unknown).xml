@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:35">
+  <properties>
+    <titles>
+      <title>Słuchaj, cóż to jest za stuk</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="110"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Słuchaj, cóż to jest za stuk?<br/>Któżby też tam czekać mógł?<br/>Gość to nader pożądany,<br/>sam dostojny z nieba Król!<br/>Zgoi wszystkie twoje rany,<br/>da ci pokój, weźmie ból!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Słuchaj, puka, puka wciąż!<br/>Któż tak wiernie czeka, któż?<br/>Twój to Pan, Król nieba, ziemi,<br/>czybyś Doń nie zechciał pójść?<br/>Patrz, przychodzi z dary Swymi;<br/>otwórz Mu, o, wpuść Go, wpuść!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Słuchaj, puka: któż to tam?<br/>Któż u twego serca bram?<br/>To głos twego Zbawiciela,<br/>co tak wiernie puka wciąż!<br/>Zwie do Swego cię wesela;<br/>otwórz Mu, ach, otwórz już!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Słuchaj, puka; cóż tak drżysz?<br/>Spojrzyj tam, gdzie stoi krzyż,<br/>na te ręce przygwożdżone,<br/>na tę skroń zalaną krwią,<br/>na te oczy łzą zamglone,<br/>czyliż nie otworzysz Mu?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jezu, Jezu, wejdź, ach, śpiesz!<br/>Weźmij mię do Swoich rzesz!<br/>O, jak długo nogi moje<br/>na zginienie wieczne szły,<br/>weź mię już na łono Swoje,<br/>Panie, otwórz niebios drzwi!</lines>
+    </verse>
+  </lyrics>
+</song>

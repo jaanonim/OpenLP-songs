@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:45">
+  <properties>
+    <titles>
+      <title>Pasterzu ludów</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="289"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pasterzu ludów, Wodzu nasz, przyjm<br/>wdzięcznych serc ofiary i mocą Ducha<br/>Sam nam wskaż Twej wszechpotęgi dary.<br/>Gdy usta głoszą Twoją cześć, racz myśli<br/>w górę wznieść.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, Panie niebios, prosim wraz kornej<br/>modlitwy słowy, niechże się zrodzi<br/>pośród nas z krwi Zbawcy zakon nowy<br/>miłości, przebaczania win, jak uczył nas<br/>Twój Syn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niechże miłości czerpiem moc z krwi Twojej,<br/>Jezu Chryste, i niech nam spłoszy ciemną<br/>noc prawd Twoich światło czyste.<br/>Przy Twoim Słowie chcemy trwać, my,<br/>Chrystusowa brać.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Niech po wsze czasy śpieszym Doń<br/>po cudne Twe orędzie, niechaj miłości<br/>władna broń bronią Polaka będzie;<br/>że żyjem jako z bratem brat, niech pozna,<br/>głosi świat.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Okowy złości, kłamstwa skrusz, Ty,<br/>co wyzwalasz ludy, nowych narodzin<br/>naszych dusz racz sprawić cud nad cudy.<br/>Byśmy Twych jeno strzegli praw, to,<br/>żywa Mocy, spraw!</lines>
+    </verse>
+  </lyrics>
+</song>

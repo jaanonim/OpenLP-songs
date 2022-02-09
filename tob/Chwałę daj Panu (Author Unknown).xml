@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:29">
+  <properties>
+    <titles>
+      <title>Chwałę daj Panu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="20"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chwałę daj Panu, o, duszo moja,<br/>chwalić Go pragnę aż po zgon.<br/>Póki tu żyję, On ma ostoja,<br/>na wieki wieków będzie czczon.<br/>Ten, co nam ciało, duszę dał,<br/>godzien zaiste wiecznych chwał.<br/>Alleluja, Alleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Błogie, o błogie jest takie życie,<br/>którego gruntem jest sam Bóg,<br/>bo się już zrosło z Nim całkowicie<br/>i już nie zbacza z prawych dróg.<br/>Komu ucieczką jest nasz Pan,<br/>ten Mu swój każdy podda plan,<br/>Alleluja, Alleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sali skrzywdzeni pomiędzy nami?<br/>Pan to nam sprawiedliwość da;<br/>głodnych obdarzy obfitościami,<br/>ożywia nas każdego dnia,<br/>związanym niesie wolność Swą<br/>i łaskę tym, co w biedzie są.<br/>Alleluja, Alleluja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Za to w przewrotne złośników plany<br/>potężny Jego bije gniew,<br/>wnet się rozprysną, jak wodne piany,<br/>rozwieją się jak garstka plew.<br/>Pan Królem wiecznym, Nim się zbrój,<br/>Syjonie, Bóg obrońca twój!<br/>Alleluja, Alleluja!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O, niechaj wszędzie rozbrzmiewa chwała,<br/>potędze cudów Bożych cześć!<br/>Amen niech ziemia zaśpiewa cała,<br/>chwałę z radością śpieszy nieść!<br/>Niech śpiewa, kto wziął Ducha chrzest,<br/>bo Pan ten godzien chwały jest!<br/>Alleluja, Alleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

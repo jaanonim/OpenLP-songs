@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:44">
+  <properties>
+    <titles>
+      <title>Puszczaj chleb swój w każdym czasie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="476"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Puszczaj chleb swój w każdym czasie<br/>Tu po wodzie, jak chce Pan,<br/>A zaiste że ci zasię<br/>W hojnej mierze będzie dan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Puszczaj chleb swój po ruczaju,<br/>Niech się zgubi w łonie fal;<br/>One prawdę pomagają<br/>Coraz więcej szerzyć w dal.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jak nasienie zaniesione<br/>Prądem na odległy brzeg,<br/>Chleb ten duszy opuszczonej<br/>Będzie jako zbawczy lek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dawaj hojnie, bracie miły,<br/>Z chęci, z serca, z pełnych rąk;<br/>Puszczaj chleb swój w każdej chwili<br/>- Stokroć ci nagrodzi Bóg!</lines>
+    </verse>
+  </lyrics>
+</song>

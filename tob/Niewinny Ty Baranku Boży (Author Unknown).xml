@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:28">
+  <properties>
+    <titles>
+      <title>Niewinny Ty Baranku Boży</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="227"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niewinny Ty Baranku Boży,<br/>O Jezu, któryś zbawił świat!<br/>Już teraz nic nas nie zatrwoży,<br/>Boś Ty nasz Pan. boś Ty nasz Brat.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Przez Swą niewinną śmierć i krew<br/>/ Ty przejednałeś Boży gniew. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tyś długi moje Bogu spłacił,<br/>Zgładziłeś grzechów moich rój,<br/>Wróciłeś mi, com był utracił -<br/>Sprawiedliwości Bożej strój.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Twa sprawiedliwość szatą strojną,<br/>Przed Bogiem w niej ostoję się;<br/>Twe rany moją twierdzą zbrojną,<br/>W niej duszy wróg nie zmoże mię.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nie z mej zasługi i godności,<br/>Pomimo wielkich moich win,<br/>Dziedzicem znowu z Twej miłości<br/>Zostaje marnotrawny syn,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Arcykapłanie nasz jedyny,<br/>Tyś prawdą, drogą, życiem Sam!<br/>Złamane przez Twe grzeszne syny<br/>Przymierze przywróciłeś nam.</lines>
+    </verse>
+  </lyrics>
+</song>

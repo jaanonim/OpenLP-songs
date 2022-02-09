@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:32">
+  <properties>
+    <titles>
+      <title>Witaj Jezu, cześć Ci Królu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="752"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Witaj Jezu, cześć Ci Królu<br/>przyjmij śpiew nasz, modlitwę,<br/>wielbienie Boży Synu.<br/>Dziś ku Tobie wznosimy ręce swe,<br/>na znak szacunku, miłości,<br/>wdzięczności o, Alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

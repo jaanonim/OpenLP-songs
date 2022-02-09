@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:54">
+  <properties>
+    <titles>
+      <title>513 GRANICA</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O tobie miła ciągle marzę,<br/>O tobie miła ciągle śnię.<br/>Chciałbym całować usta twoje<br/>I czule szeptać kocham cię.<br/> </lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Lecz wielka dzieli nas granica<br/>Bo tyś bogatą przecież jest.<br/>Ja jestem tylko biednym grajkiem<br/>I jest mi w życiu bardzo źle.<br/> </lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lecz gdybym ja był czarodziejem,<br/>Dałbym ci miła cały świat.<br/>Lecz nim nie jestem moja miła<br/>I muszę odejść w szary świat.<br/> </lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Na niebie gwiazdka mówi mi,<br/>Jak bardzo, bardzo chciałabyś.<br/>Jedną gwiazdeczkę z nieba mieć,<br/>Lecz nie realne to dziś jest.</lines>
+    </verse>
+  </lyrics>
+</song>

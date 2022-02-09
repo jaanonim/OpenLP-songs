@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:01">
+  <properties>
+    <titles>
+      <title>Kiedy nowy wstaje dzień</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="144"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Kiedy nowy wstaje dzień,<br/>Aż, gdy słońce w cień kładzie się,<br/>Boże Imię chwalić chcę! / 2x<br/>Niech imię to,<br/>Chwalą wszyscy słudzy, których znam!<br/>Chwalcie, Imię Jego Pan!<br/>Błogosławcie odtąd więc Mu na wieki już,<br/>Chwalcie, Imię Jego Pan!</lines>
+    </verse>
+  </lyrics>
+</song>

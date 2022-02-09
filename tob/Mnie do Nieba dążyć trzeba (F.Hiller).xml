@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:46">
+  <properties>
+    <titles>
+      <title>Mnie do Nieba dążyć trzeba</title>
+    </titles>
+    <authors>
+      <author type="words">F.Hiller</author>
+      <author type="music">F.Hiller</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="524"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mnie do Nieba dążyć trzeba,<br/>Bym zbawiony był.<br/>Chcę bojować, nie żałować<br/>Nawet resztek sił.<br/>Nikt przeszkodzić nie śmie mi,<br/>Kiedy słabnę, hasło brzmi:<br/>Dalej bojuj!<br/>Nie szczędź znoju,<br/>By osiągnąc cel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jam wybrany, powołany<br/>Przed Baranka tron.<br/>Śpieszyć muszę, bo mą duszę<br/>Zbawia tylko On.<br/>Kto leniwo kona bieg,<br/>Jakby się korony zrzekł;<br/>Co minęło, koniec wzięło,<br/>To zarzucam w tył.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wskazuj, Panie, nieustannie<br/>Cel niebieski mój;<br/>Choćby siły opuściły,<br/>W Tobie sił mam zdrój.<br/>Ostrzeż mnie, gdy grozi wróg,<br/>Gdy świat zwieść chce z Twoich dróg;<br/>Racz zachować mnie i prowadź<br/>Prostą drogą Swą.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pomóż, Panie, jam nie w stanie<br/>Swej słabości zmóc;<br/>Dusza czuje braki swoje,<br/>Lecz Ty dajesz moc.<br/>Swoim słowem wesprzyj mnie,<br/>A ja złemu oprę się.<br/>Raz brzmieć będzie w świetych rzędzie:<br/>Pan to sprawił Sam!</lines>
+    </verse>
+  </lyrics>
+</song>

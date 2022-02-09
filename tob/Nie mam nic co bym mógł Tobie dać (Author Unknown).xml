@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:09">
+  <properties>
+    <titles>
+      <title>Nie mam nic co bym mógł Tobie dać</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie mam nic co bym mógł Tobie dać,<br/>Nie mam sił, by przed Tobą Panie stać.<br/>Puste ręce przynoszę przed Twój w niebie tron,<br/>Manną z nieba nakarm duszę mą.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pomaż maścią leczącą oczy me,<br/>Spraw by język mój też przemówić chciał<br/>Puste ręce przynoszę przed Twój w niebie tron,<br/>Manną z nieba nakarm duszę mą.</lines>
+    </verse>
+  </lyrics>
+</song>

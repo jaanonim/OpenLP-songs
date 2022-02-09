@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:03">
+  <properties>
+    <titles>
+      <title>Wiosna nadeszła, cieszmy się</title>
+    </titles>
+    <authors>
+      <author type="words">A.Bajko</author>
+      <author type="music">A.Bajko</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="845"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wiosna nadeszła, cieszmy się,<br/>Śpiewajmy wszyscy wraz!<br/>Patrz, kwitną już drzewa<br/>I ptaszek nam śpiewa,<br/>/ Bo nastał wiosny czas, /x2<br/>Bo nastał wiosny, wiosny czas.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wiosna nadeszła, cieszmy się!<br/>Bóg zesłał cudny czas,<br/>Bóg dał nam Swe słońce,<br/>To jasne gorące.<br/>/ Dziękujmy Bogu wraz, /x2<br/>Dziękujmy Bogu, Bogu wraz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bracia i siostry cieszmy się!<br/>Bo Bóg nam młodość dał.<br/>I w nas też jest wiosna,<br/>Promienna, radosna,<br/>/ Bóg wiosnę w serca wlał. /x2<br/>Bóg wiosnę we serca, w serca wlał.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bracia, do pracy śpieszmy wraz.<br/>Wśród jasnych życia zórz,<br/>Bo wiosna przeminie,<br/>I radość upłynie,<br/>/ Nie wróci wiosna już, /x2<br/>Nie wróci wiosna, wiosna już.</lines>
+    </verse>
+  </lyrics>
+</song>

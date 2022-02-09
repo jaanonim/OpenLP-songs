@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:34">
+  <properties>
+    <titles>
+      <title>Gdy cię troska zacznie gnieść</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="332"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy cię troska zacznie gnieść,<br/>W sieci smutku pragnie wpleść,<br/>Jezus ci dopomóc chce,<br/>Jemu zwierz kłopoty swe,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Zbawca ci pomoże twój,<br/>Tylko z Nim w modlitwie czuj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy w twej piersi pełno żądz,<br/>Kiedy serce z trwogi drżąc<br/>Chętnie się poddałoby,<br/>Pan rozpędzi pokus mgły</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kiedyś smutny, kiedyś sam<br/>Ranę zadał świata kłam,<br/>Kiedyś zwątpieniami gnan,<br/>Dobrze cię rozumie Pan.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kiedy grozi wroga strzał,<br/>Proś, by Pan przy tobie stał,<br/>On słabości twoje zna,<br/>On zwycięstwo w walce da.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Chcesz-li Pańskim sługą być,<br/>Musisz z Nim w modlitwie żyć;<br/>Jego Duchem rządź się wciąż,<br/>Jak najsilniej z Nim się zwiąż.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Gdy twe serce trwoży strach,<br/>W szczęściu i w ponurych dniach,<br/>Do Jezusa tylko śpiesz,<br/>Z Niego siłę życia bierz!<br/>Zbawca ci pomoże twój,<br/>Tylko wiernie przy Nim stój</lines>
+    </verse>
+  </lyrics>
+</song>

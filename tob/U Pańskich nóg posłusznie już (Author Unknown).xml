@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:52">
+  <properties>
+    <titles>
+      <title>U Pańskich nóg posłusznie już</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="657"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>U Pańskich nóg posłusznie już<br/>Swe życie całe teraz złóż!<br/>On Swą ofiarą kryje cię,<br/>A pokój twój jest tylko w Nim.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Spij błogim snem, Aż minie cień,<br/>Aż wzejdzie nowy dzień, wieczny dzień.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie zginie to nasienie cne,<br/>Które Bóg posiał w życie twe;<br/>Wstaniesz ku Jego chwale, czci,<br/>Jego wspaniałość ujrzysz ty.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Już bieg twój, bracie (siostro), skończy się,<br/>Do Siebie Pan odwołał cię!<br/>Idziesz do Niego w niebios włość,<br/>- Dość już cierpienia, znoju dość.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Znów ciebie wezwie z grobu Pan:<br/>„Pójdź miły mój, w niebieski stan!<br/>Już przyszedł dzień, gdy stanąć masz<br/>Wśród sal weselnych ze Mną wraz!"</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Minie doczesnej burzy czas;<br/>Gdy przyjdzie Pan, z Nim przyjdziesz wraz!<br/>Jak błogi będzie wtedy dzień,<br/>Wśród wiecznych chwał i wiecznych pień<br/>Z Nim stanąć wraz, Gdy minie czas,<br/>Śmieć patrzeć wiecznie już w Jego twarz!</lines>
+    </verse>
+  </lyrics>
+</song>

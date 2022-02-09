@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:37">
+  <properties>
+    <titles>
+      <title>Łaską trzeba żyć</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="392"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Łaską trzeba żyć,<br/>Z łaski to ma być,<br/>Wszystko inne wnet przeminie,<br/>Gdy nie z łaski - wnet zaginie.<br/>Tylko łaska Twa,<br/>Panie, wiecznie trwa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szatan radość ma,<br/>Gdy czczę własne „ja".<br/>Wszystko, czym się sam bogacę<br/>Bez Twej łaski, szybko tracę.<br/>W łasce muszę być,<br/>Łaską tylko żyć.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nieraz boleść rwie,<br/>Pęka serce me,<br/>Nieraz ciemność mię otoczy,<br/>Lecz gdy w górę wzniosę oczy,<br/>Wtedy promień mi<br/>Łaski Twojej lśni.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Z łaski to ma być,<br/>Łaską trzeba żyć,<br/>W łasce chodzić, w niej pozostać,<br/>W niej przy Panu wiernie zostać.<br/>Łaską muszę żyć,<br/>Łaską tylko lśnić</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:12">
+  <properties>
+    <titles>
+      <title>Tam na krzyżu, na Golgocie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tam na krzyżu, na Golgocie<br/>Umarł Jezus za grzechy i choroby twe.<br/>On zmartwychwstał, śmierć pokonał<br/>Z grobu powstał<br/>Tak prawdziwie żyje Pan. /x2<br/>Nie bój się tylko wierz, nie bój się tylko wierz,<br/>Nie bój się tylko wierz<br/>Zaufaj Jezusowi dziś /x2</lines>
+    </verse>
+  </lyrics>
+</song>

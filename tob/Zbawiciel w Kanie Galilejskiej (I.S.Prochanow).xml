@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:03">
+  <properties>
+    <titles>
+      <title>Zbawiciel w Kanie Galilejskiej</title>
+    </titles>
+    <authors>
+      <author type="words">I.S.Prochanow</author>
+      <author type="music">I.S.Prochanow</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="854"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zbawiciel w Kanie Galilejskiej<br/>Na święto ślubu przyszedł Sam,<br/>I pierwszy raz na ziemi Judzkiej<br/>Okazał Swoją chwałę tam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, Panie nasz, pobłogosław nas!<br/>Przyjdź, okaż dziś chwałę Swą!<br/>O, Panie nasz, pobłogosław nas,<br/>I z nami parę tę!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Błogosła życie młodych, Panie,<br/>Bądź Gościem ich po wszystek czas.<br/>Niech im się złego nic nie stanie,<br/>Błogosław młodym, - z nimi nas!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niech kwieciem ścielą się ich drogi,<br/>Ty sercom ich daj spokój Swój,<br/>Ty Boże, stwórz im żywot błogi,<br/>Po wszystie dni Ty przy niech stój!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bez światła Twego, Panie Boże,<br/>Radości nie ma w świecie złym,<br/>Gdyż świat ten nic nam dać nie może,<br/>Tyś tylko szczęściem w życiu tym!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O, Jezu, Królu łask i Panie!<br/>Ty prowadź nas i nami rządź.<br/>Przez całe życie nasze stale<br/>Pasterzem naszym dobrym bądź!</lines>
+    </verse>
+  </lyrics>
+</song>

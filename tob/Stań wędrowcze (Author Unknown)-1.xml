@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:55">
+  <properties>
+    <titles>
+      <title>Stań wędrowcze</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="720"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Stań wędrowcze na swej drodze,<br/>Bacznym okiem popatrz w dal.<br/>Bo na końcu Twej wędrówki<br/>zawód czeka Cię i żal.<br/>Bóg Cię woła, wróć do Niego,<br/>błędną drogę grzechu rzuć.<br/>Słysz wołanie Zbawcy swego<br/>jeszcze dziś ku Niemu wróć.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Długoś szukał szczęścia w świecie,<br/>W ciąż gubiłeś Jego ślad,<br/>Dzisiaj wiesz już dobrze przecież,<br/>Że Ci szczęścia nie da świat.<br/>Inne szczęście czeka Ciebie,<br/>wolny będziesz od swych win,<br/>Kiedy przyjmiesz co Ci daje<br/>Twój Zbawiciel, Boży Syn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pójdź!Bóg takie daje dary,<br/>jakich świat nie może dać.<br/>Czemuż błądzisz wśród bezdroża,<br/>Czemu chcesz w uporze trwać?<br/>Porzuć błędne swoje drogi,<br/>porzuć grzechów swoich noc.<br/>Jemu oddaj się a poznasz,<br/>że w Nim siła Twa i moc.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pójdź ku Niemu - Ojcu Twemu,<br/>siłę Twą czerp z Zbawcy ran.<br/>Poznasz wtedy jaki wierny,<br/>jaki dobry jest nasz Pan!<br/>Bóg Cię woła, wróć do Niego,<br/>błędną drogę grzechu rzuć.<br/>Słysz wołanie Zbawcy swego,<br/>jeszcze dziś ku Niemu wróć.</lines>
+    </verse>
+  </lyrics>
+</song>

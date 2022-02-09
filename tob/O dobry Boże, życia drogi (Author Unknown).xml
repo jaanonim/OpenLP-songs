@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:35">
+  <properties>
+    <titles>
+      <title>O dobry Boże, życia drogi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="349"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O dobry Boże, życia drogi<br/>Są pełne śladów łaski Twej.<br/>Gdy zewsząd grozi żywioł wrogi,<br/>Tyś jest osłoną duszy mdłej.<br/>Na wszystek świat więc głoszę ja,<br/>/ Że łaska Twoja wiecznie trwa. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jak gwiazdy, co w przestworzu toną,<br/>Na ziemię ślą promienny blask,<br/>Tak też na moich drogach płoną<br/>Cudowne dzieła Twoich łask,<br/>Na które wciąż swój zwracam wzrok,<br/>/ Gdy przyszłość ciemny kryje mrok. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tajniki serca Ci są znane,<br/>Ukrytą w głębi czytasz treść;<br/>Ty widzisz serce me skalane,<br/>- W pokusy świat je pragnie zwieść.<br/>O daj mi znowu światła zdrój,<br/>/ Zwycięski pomóż stoczyć bój! /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy życia łódź spienione fale<br/>Unoszą na bezdenną toń,<br/>Gdy grozi żywioł w dzikim szale,<br/>Do Ciebie w trwodze wznoszę dłoń;<br/>Ty ster ujmujesz ręką Swą<br/>/ I do przystani wiedziesz Ją. /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gdy burze w sercu mym powstają,<br/>Gdym skruszał, jak pobity kłos,<br/>Wewnętrzne walki mną targają<br/>I już zamiera w piersi głos,<br/>Ty wiary moc w me serce wpój,<br/>/ By mnie napełnił pokój Twój! /x2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Twa łaska wciąż mię opromienia<br/>Od niemowlęctwa po dziś dzień,<br/>Bieg czasu wszystko wokół zmienia,<br/>Twej łaski nie ćmi żaden cień.<br/>Więc z głębi wołam: Łaska Twa<br/>/ 0d wieków aż na wieki trwa. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

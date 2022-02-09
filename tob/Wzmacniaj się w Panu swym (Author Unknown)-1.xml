@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:47">
+  <properties>
+    <titles>
+      <title>Wzmacniaj się w Panu swym</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="539"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wzmacniaj się w Panu swym,<br/>W sile mocy Jego stój,<br/>Sprawy Pańskiej w każdej chwili dzielnie broń!<br/>Za nas walczy niebios Pan,<br/>Gróźb szatana się nie bój,<br/>Zwyciężymy, tylko swą podaj dłoń!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Silno stój, sprawy broń,<br/>Sprawy Króla, który wiedzie nas!<br/>O cześć Pana swego dbaj,<br/>O zwycięstwo dobra walcz,<br/>W sile tej wzmacniaj się w każdy czas!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wzmacniaj się w Panu swym,<br/>W sile mocy Jego stój,<br/>Trzymaj się chorągwi Jego w czasie burz!<br/>I odważnie naprzód krocz,<br/>Bo cię wiedzie Zbawca twój,<br/>Ufaj Panu swemu, już się nie trwóż!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wzmacniaj się w Panu swym,<br/>W sile mocy Jego stój,<br/>Obietnicom Pańskim niezachwianie wierz!<br/>Cześć Wodzowi, który wojsk<br/>Nie opuści, gdy wre bój,<br/>Grodem mocnym jest nasz Bóg, Nim się zbrój!</lines>
+    </verse>
+  </lyrics>
+</song>

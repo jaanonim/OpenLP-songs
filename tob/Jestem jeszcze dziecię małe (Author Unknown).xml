@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:02">
+  <properties>
+    <titles>
+      <title>Jestem jeszcze dziecię małe</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="828"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jestem jeszcze dziecię małe,<br/>Siły mi potrzeba;<br/>Jestem słabe i nieśmiałe,<br/>A chcę przyjść do nieba.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Powiedz proszę, Jezu miły,<br/>Jak tam trafić mogę?<br/>By me nóżki nie zbłądziły,<br/>Pokaż prawą drogę.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ty się także dla mnie stałeś<br/>Małym niemowlęciem,<br/>Z grzechu mocy mię wyrwałeś;<br/>Chcę być Twym dziecięciem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nie wiem, nie wiem, poradź proszę,<br/>Jak Ci podziękować?<br/>Serce moje więc przynoszę,<br/>Chcę Ci je darować.</lines>
+    </verse>
+  </lyrics>
+</song>

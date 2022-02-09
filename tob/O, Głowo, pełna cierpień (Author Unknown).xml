@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:53">
+  <properties>
+    <titles>
+      <title>O, Głowo, pełna cierpień</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="450"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, Głowo, pełna cierpień, bolesnych ran i krwi,<br/>o, Głowo, co cierniowa korona tłoczy Cię,<br/>o, Głowo, niegdyś strojna, w oznaki chwały,<br/>czci, a dzisiaj udręczona, bądź pozdrowiona mi!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W szlachetnym Twym obliczu, o, Chryste, nieba<br/>lśnią, skrwawione i oplwane Twe usta z bólu drżą<br/>i bladość Cię pokrywa, a światło oczu Twych,<br/>co ludziom przyświecało, za sprawą zgasło złych.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, Panie, coś wycierpiał, to wszystko z winy mej,<br/>ja na to zasłużyłem, coś znosił w męce Swej!<br/>Patrz, otom ja niewierny, Twój ściągnął na się gniew,<br/>daj, Jezu miłosierny, mi łaskę przez Twą krew.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dziękuję Ci, o, Jezu, najdroższy Zbawco mój za<br/>srogie rany Twoje, za śmierć i krwawy znój.<br/>O, daj, bym w Ciebie wierzył, przy Tobie zawsze trwał,<br/>a kiedy życie skończę, zgon szczęsny w Tobie miał.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gdy świat porzucę, Panie Ty ku mnie wzrok Swój zniż,<br/>gdy śmierci przyjdzie chwila, Ty do mnie sam się zbliż,<br/>a gdy najsroższa trwoga ogarnie serce me, Ty zbaw mię<br/>od katuszy przez srogie męki Swe.</lines>
+    </verse>
+  </lyrics>
+</song>

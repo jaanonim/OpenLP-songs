@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:29">
+  <properties>
+    <titles>
+      <title>Jam nie swój, nie, jam zwolniony</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="263"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jam nie swój, nie, jam zwolniony!<br/>Śmierć Jezusa śmiercią mą.<br/>Przeradosne znam poselstwo:<br/>Jezus mię wyzwala krwią!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jam nie swój, o, nie, mój Jezu,<br/>Twoim jestem każdy dzień.<br/>Mienie moje, me nadzieje<br/>Na Swą wieczną własność zmień!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jam nie swój! Zbawicielowi<br/>Daję serca mego chęć;<br/>Wszystko ufnie Mu zwierzyłem,<br/>Nic dla siebie nie chcę mieć.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jam nie swój! Należą Jemu<br/>Moje chwile, każdy zmysł;<br/>Niechaj w życie me wypisze<br/>Życia Swego wzniosły rys.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jam nie swój! Przyjęty jestem<br/>W mnogi wybawionych rząd,<br/>By obchodzić z niebianami<br/>Wieczny dzień weselnych świąt.</lines>
+    </verse>
+  </lyrics>
+</song>

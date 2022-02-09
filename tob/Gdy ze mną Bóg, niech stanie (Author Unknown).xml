@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:37">
+  <properties>
+    <titles>
+      <title>Gdy ze mną Bóg, niech stanie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="382"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy ze mną Bóg, niech stanie<br/>Świat cały przeciw mnie!<br/>Gdy wołam: Ratuj, Panie!<br/>Zło wszelkie cofa się.<br/>Gdy twierdzą mą ochronną<br/>I druhem wiernym Bóg,<br/>Daremnie złością płonną<br/>Przerazić chce mnie wróg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Już wiem i mocno wierzę,<br/>I rad się chlubię tym, że<br/>z Bogiem mam przymierze,<br/>On wiernym Ojcem mym.<br/>W Nim tytko jestem śmiały,<br/>On twierdzą duszy mej;<br/>Ucisza groźne wały,<br/>Osłania w dobie złej.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Opoką mojej wiary<br/>Jest Chrystus, Jego krew,<br/>Dar to nad wszelkie dary<br/>I dóbr niebiańskich siew.<br/>Cóż moje życie waży<br/>Rozwiewne niby mgła?<br/>To, czym mnie Chrystus darzy,<br/>Na wieki wieków trwa.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>On chlubą mą i chwałą,<br/>Mym blaskiem, światłem mym;<br/>By nie był On mą skałą,<br/>Nie mógłbym ostać się;<br/>Nie śmiałbym przed Nim stanąć,<br/>Gdy na Swój siądzie tron,<br/>Musiałbym w trwodze zginąć,<br/>Synaju słysząc grom.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>W Jezusie już zdeptana<br/>Śmierć, co władała mną;<br/>Choć dusza ma skalana,<br/>On z grzechów obmył ją.<br/>Nie lękam się niczego,<br/>Nie straszny życia znój,<br/>Bo mnie do łona Swego<br/>Przytuli Zbawca mój.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>W Nim jest dziedzictwo moje,<br/>Ojcowskiej łaski dział;<br/>Choć wyschną życia zdroje,<br/>On zawsze będzie trwał;<br/>Choć dręczą mnie cierpienia<br/>I płyną krwawe łzy,<br/>Pan mroki w światło zmienia<br/>I słodzi życia dni.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Niech runie świat ten cały<br/>- Ty trwasz po wieczny czas;<br/>Żywiołów groźne szały<br/>- Nic nie rozłączy nas.<br/>Ból żaden, żadna strata,<br/>Ni głód, ni ciernie mąk,<br/>Ni gniew książęcia świata<br/>Nie wydrze mnie z Twych rąk.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Me serce się raduje,<br/>Nie może smutnym być,<br/>I wdzięcznych pieśni snuje<br/>Świetlaną, jasną nić;<br/>Tym słońcem, co promienie<br/>Swej łaski na mnie śle,<br/>I lutni mej natchnieniem<br/>Jest Jezus - niebo me.</lines>
+    </verse>
+  </lyrics>
+</song>

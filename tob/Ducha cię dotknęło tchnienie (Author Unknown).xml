@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:23">
+  <properties>
+    <titles>
+      <title>Ducha cię dotknęło tchnienie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="133"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ducha cię dotknęło tchnienie,<br/>A sumienie dręczy cię;<br/>Przytnij Boże napomnienie,<br/>Pójdź do Pana, ugnij się!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pójdzie dziś, jeszcze dziś,<br/>Jeszcze dziś do Zbawcy śpiesz!<br/>Pójdźże dziś, jeszcze dziś,<br/>Jeśli wnijść do nieba chcesz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie ma szczęścia w łez dolinie,<br/>Świat się śmieje, choć i łka;<br/>Szczęście w Panu jest jedynie;<br/>Wierz, a On ci pokój da.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>U nóg Pana złóż brzemiona,<br/>Łaskę ma dla ciebie On;<br/>Co rozpoczął, to dokona.<br/>Doprowadzi przed Swój tron.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wyznaj grzechy swe w pokorze,<br/>Zwróć oblicze swoje Doń,<br/>Do Jezusa, tam ku górze;<br/>Pójdźże dziś w pokoju toń!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:39">
+  <properties>
+    <titles>
+      <title>Pielgrzymie w drodze do rajskich stron</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="196"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pielgrzymie w drodze do rajskich stron, patrz tylko na Jezusa!<br/>Z miłością idzie przed Tobą On, patrz tylko na Jezusa!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Patrz tylko na Jezusa, patrz tylko na Jezusa!<br/>W nocy, we dnie poprowadzi cię, patrz tylko na Jezusa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy w drodze będzie cię kusił wróg,<br/>patrz tylko na Jezusa! Idź ścieżką,<br/>którą cię wiedzie Bóg, patrz tylko na Jezusa!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Patrz tylko na Jezusa, patrz tylko na Jezusa!<br/>W nocy, we dnie poprowadzi cię, patrz tylko na Jezusa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy skryje drogę twą ciemna mgła,<br/>patrz tylko na Jezusa! On mówi ci: otom z tobą Ja,<br/>patrz tylko na Jezusa!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Patrz tylko na Jezusa, patrz tylko na Jezusa!<br/>W nocy, we dnie poprowadzi cię, patrz tylko na Jezusa.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Doliny śmierci gdy ujrzysz skraj, patrz tylko na Jezusa!<br/>Tam brama niebios, to już twój raj, patrz tylko na Jezusa!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Patrz tylko na Jezusa, patrz tylko na Jezusa!<br/>W nocy, we dnie poprowadzi cię, patrz tylko na Jezusa.</lines>
+    </verse>
+  </lyrics>
+</song>

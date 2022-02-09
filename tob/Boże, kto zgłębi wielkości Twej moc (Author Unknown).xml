@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:29">
+  <properties>
+    <titles>
+      <title>Boże, kto zgłębi wielkości Twej moc</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="13"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boże, kto zgłębi wielkości Twej moc,<br/>kto ją zrozumie, wyjaśni do dna?<br/>Kto opromieni, jak miłość Twa cna,<br/>kto tyle światła, mądrości też ma?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O dzięki Ci, godzieneś czci,<br/>Tyś jest w Swej chwale czci godny,<br/>mym Panem Tyś jest!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Trwasz nieustannie i świat w Tobie trwa,<br/>wszystko odnawiasz, ożywiasz co dnia.<br/>Z życia Twojego wypływa ten zdrój,<br/>który świat trzyma. O Boże, Tyś mój!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O żywot wieczny i ziemski Ty dbasz,<br/>chleb duszy, chleb ciała nam co dzień dasz.<br/>Niech nie zabraknie w nas serdecznej czci<br/>za łaskę, za dobroć, Boże nasz, Ci.</lines>
+    </verse>
+  </lyrics>
+</song>

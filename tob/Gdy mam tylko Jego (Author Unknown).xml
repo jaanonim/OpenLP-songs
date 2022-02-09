@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:40">
+  <properties>
+    <titles>
+      <title>Gdy mam tylko Jego</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="440"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy mam tylko Jego,<br/>Gdy jest moim On,<br/>Kiedy Zbawcę ja wiernego<br/>Noszę w sercu aż po zgon,<br/>Zamiast trosk, cierpienia,<br/>Radosnegom pełen uwielbienia.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy mam tylko Jego,<br/>Wszystko rzucę rad,<br/>Pójdę z laską podróżnego,<br/>Za Jezusem pójdę w ślad,<br/>Choćby wszyscy mili<br/>Na szeroką drogę się puścili.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdzie mam tylko Jego,<br/>Tam ojczysta błoń,<br/>A z dziedzictwa mię hojnego<br/>Wszystkim darzy Jego dłoń.<br/>Wszystkie serca straty<br/>W uczniach Swych nagradza<br/>Pan bogaty.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy mam tylko Jego,<br/>Raj niebieski mój;<br/>Pokrzepienia mi słodkiego<br/>Pan pokaże hojny zdrój.<br/>Z Nim, o, z Nim w radości<br/>Pójdę na zielone życia włości,</lines>
+    </verse>
+  </lyrics>
+</song>

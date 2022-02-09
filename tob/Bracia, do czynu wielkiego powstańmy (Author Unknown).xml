@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:00">
+  <properties>
+    <titles>
+      <title>Bracia, do czynu wielkiego powstańmy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="795"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bracia, do czynu wielkiego powstańmy,<br/>Dzień już przemija i zbliża się noc.<br/>Duszom ginącym ratunek podajmy,<br/>Łaski zbawiennej zwiastujmy im moc.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wszystkich wołajmy na ucztę weselną,<br/>Którą zgotował na niebie nasz Pan;<br/>Głośmy, że Chrystus Swą męką śmiertelną,<br/>Zdoła uleczyć świat z bólu i ran.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Giną tysiące bez Słowa Bożego,<br/>Groźnie nad światem panoszy się śmierć;<br/>Nie ma wśród ludów królestwa Bożego,<br/>Straszna nienawiść władczynią ich serc.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bracia, do Boga prowadźmy narody,<br/>Miłość, braterstwo - to będzie nasz wkład.<br/>Z niebios żywota popłyną nam wody,<br/>Zroszą nasz biedny, uwiędły już kwiat.</lines>
+    </verse>
+  </lyrics>
+</song>

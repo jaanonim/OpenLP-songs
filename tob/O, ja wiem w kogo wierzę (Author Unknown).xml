@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:52">
+  <properties>
+    <titles>
+      <title>O, ja wiem w kogo wierzę</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="652"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, ja wiem w kogo wierzę,<br/>Ze mój Zbawiciel żyw.<br/>Co z prochu mię zabierze<br/>Do rajskich Swoich niw.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, wiem, to mą ostoją,<br/>Gdy świat w posadach drży,<br/>Kto wyrwie duszę moją<br/>Z tej najczarniejszej mgły.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, wiem, w kim mam ufanie,<br/>Gdy oko zajdzie mgłą.<br/>Gdy wieczna zorza wstanie,<br/>W tym świetle ujrzę Go.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, wiem, kto łzy osusza<br/>Łagodnie z moich rzęs<br/>I w kim znalazła dusza<br/>Tęsknoty swojej kres.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O, wiem, że zajaśnieję,<br/>Gdy Pan obudzi mię,<br/>I spełni me nadzieje,<br/>Po krótkim w grobie śnie</lines>
+    </verse>
+  </lyrics>
+</song>

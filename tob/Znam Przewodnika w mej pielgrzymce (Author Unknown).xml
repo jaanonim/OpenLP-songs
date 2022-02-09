@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:44">
+  <properties>
+    <titles>
+      <title>Znam Przewodnika w mej pielgrzymce</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="468"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Znam Przewodnika w mej pielgrzymce,<br/>Który wciąż wiernie przy mnie trwa,<br/>A po bezpiecznej wiedzie ścieżce;<br/>On idzie w przód i drogę zna!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pan drogę zna, co w chwałę wiedzie,<br/>Nie lękaj się nic, duszo ma;<br/>On cię bezpiecznie tu przewiedzie,<br/>Tylko z Nim chodź, On drogę zna!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdym pod brzemieniem beznadziejnym,<br/>Koło mnie wszędzie gęsta mgła<br/>- Jemu chcę ufać i być wiernym;<br/>On idzie wprzód i drogę zna!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On dobrze zna te pokuszenia,<br/>Do których wpada dusza ma,<br/>Lecz mię nie zwiodą z dróg zbawienia<br/>- Pan idzie wprzód i drogę zna!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O duszo grzechem obciążona,<br/>O serce, które bólem drga!<br/>Pan cię przyciąga w Swe ramiona,<br/>Tylko z Nim chodź, On drogę zna!</lines>
+    </verse>
+  </lyrics>
+</song>

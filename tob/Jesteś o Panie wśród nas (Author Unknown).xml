@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:35">
+  <properties>
+    <titles>
+      <title>Jesteś o Panie wśród nas</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="30"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesteś, o Panie, wśród nas,<br/>Twoje to miejsce i czas.<br/>Gdzie dwóch lub trzech w imieniu Twym<br/>Przychodzi By wielbić Cię,<br/>Ty jesteś pośród nich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Witaj, o Panie, wśród nas!<br/>Twoje to miejsce i czas.<br/>W imieniu Twym jesteśmy tu,<br/>By miłość wyznawać Ci,<br/>Wysławiać Cię i czcić.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chwała Ci Jezu i cześć!<br/>Z serc naszych płynie ta pieśń.<br/>Wznosimy ręce wielbiąc Cię<br/>Tyś Królem, Tyś Panem jest.<br/>Sławimy imię Twe!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:45">
+  <properties>
+    <titles>
+      <title>W służbę Swą woła Pan, Bracia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="503"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W służbę Swą woła Pan, Bracia,<br/>On wzywa nas; Pójdźmy z Nim w Jego ślad<br/>W każdy dzień, w każdy czas.<br/>W mocy Swej zrodził nas<br/>I odnawia wciąż Sam,<br/>Chętnie więc czyńmy to,<br/>Co poleca On nami</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Trwajcie w Nim, tylko w Nim,<br/>Rzućcie świat, za Nim w ślad!<br/>Bliski koniec burz,<br/>Bliski wieniec już;<br/>Do pracy, aż nadejdzie Mistrz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czuwać trza w d2ień i w noc,<br/>Tak rozkazał nam Pan;<br/>Niechaj świat dowie się,<br/>Że ratunek jest dań.<br/>Głośmy to w cały świat,<br/>Że pojednań jest Bóg,<br/>Złamań jest piekieł grot,<br/>Chrystus diabła już zmógł!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wznieśmy śpiew, głośny śpiew,<br/>Pan zwycięstwo nam dał;<br/>Błogi już pokój wnet<br/>Spłynie nam z Bożych chwał.<br/>Patrzcie, wszak idzie Pan<br/>I w jasności już dnia<br/>Będzie tam wiernym dań<br/>Wieniec, co wiecznie trwa,</lines>
+    </verse>
+  </lyrics>
+</song>

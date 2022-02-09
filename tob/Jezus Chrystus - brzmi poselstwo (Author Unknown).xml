@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:30">
+  <properties>
+    <titles>
+      <title>Jezus Chrystus - brzmi poselstwo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="271"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus Chrystus - brzmi poselstwo,<br/>Które niesiem przez świat ten;<br/>Duszo, czy już znasz to imię,<br/>Czy ci się objawił Syn?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Imię to nad wsze imiona,<br/>W Nim zbawienie wszystkim nam;<br/>Jest obecny jako Zbawca,<br/>Kapłan, Prorok, Król i Pan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezus Zbawcą jest grzeszników,<br/>Gładzicielem wszystkich win;<br/>Przezeń Bożym tyś dziecięciem,<br/>Dziedzic nieba, światła syn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezus całkiem nas poświęcił<br/>Na Golgocie przez Swą krew;<br/>W łasce tej i ty masz udział,<br/>Wznieś Mu za to chwały śpiew!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jezus jest Lekarzem chorych,<br/>W czym i dziś jest znany nam.<br/>Jeśli wierzysz bez wątpienia,<br/>Uzdrowienia doznasz sam.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jezus jest nam także dany,<br/>By mądrością naszą był.<br/>Ufaj Jemu w ciemnych chwilach,<br/>Będziesz Jego światłem żył.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jezus Duchem chrzci i ogniem<br/>Tego, który pragnie sam.<br/>On jest mocen to uczynić;<br/>Jego krew to daje nam.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jezus Chrystus przyjdzie wkrótce<br/>Wziąć oblubienicę Swą,<br/>By z nią wiecznie się połączyć<br/>Tam, gdzie chwały hymny brzmią.</lines>
+    </verse>
+  </lyrics>
+</song>

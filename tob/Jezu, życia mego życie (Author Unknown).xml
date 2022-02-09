@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:19">
+  <properties>
+    <titles>
+      <title>Jezu, życia mego życie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="49"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezu, życia mego życie,<br/>Jezu, śmierci śmierci mej,<br/>Tyś to dla mnie tak obficie<br/>Męki znosił w duszy Swej;<br/>Dałeś bić się, ukrzyżować,<br/>By od śmierci mnie zachować.<br/>Za przelanie Twojej krwi<br/>Wieczne, Panie, dzięki Ci!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Za mnie Ty znosiłeś,<br/>Panie, Szyderstw i potwarzy rój,<br/>Uwięzienie, razy, plwanie,<br/>Sprawiedliwy Zbawco mój;<br/>Byle tylko mnie ocalić<br/>I szatańską moc obalić.<br/>Za przelanie Twojej krwi<br/>Niezliczone dzięki Ci!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ciebie bez litości bito,<br/>Bym ja wolny był od mąk;<br/>Bluźnierstwami Cię okryto,<br/>Abym ja odetchnąć mógł.<br/>Zawisnąłeś bez ochłody,<br/>Abym ja mógł wejść na gody.<br/>Za Twe rany, za Twe łzy<br/>Tysiąckrotne dzięki Ci!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ciebie okrył świat niesławą,<br/>Tyś cierpliwie znosił znój;<br/>Nawet śmierć poniosłeś krwawą,<br/>Za mnie dałeś żywot Swój.<br/>Mnie to chciałeś uratować,<br/>Chwałą Swą ukoronować.<br/>Póki życie we mnie tkwi,<br/>Niezliczone dzięki Ci!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Twą pokorą zapłaciłeś<br/>Za wyniosłą pychę mą;<br/>Gorzką śmierć mi osłodziłeś,<br/>Zbawicielu, śmiercią Twą.<br/>Im jest większa hańba Twoja,<br/>Tym zacniejsza chwała moja.<br/>Póki życie we mnie tkwi,<br/>Niezliczone dzięki Ci!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dzięki, Jezu mój kochany,<br/>Za zebrany w śmierci plon,<br/>Za Twe męki, za Twe rany,<br/>Za męczeński, gorzki zgon;<br/>Za Twą trwogę, za Twe drżenie,<br/>Niezliczone udręczenie,<br/>Za przelanie Twojej krwi<br/>Wieczne, wieczne dzięki Ci!</lines>
+    </verse>
+  </lyrics>
+</song>

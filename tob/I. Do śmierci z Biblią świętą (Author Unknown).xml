@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:04">
+  <properties>
+    <titles>
+      <title>I. Do śmierci z Biblią świętą</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Do śmierci z Biblią świętą<br/>Już nie rozstanę się;<br/>Radością niepojętą Napełnia ona mię.<br/>Nigdy już, nigdy już<br/>mej Biblii nie porzucę;<br/>Nigdy już, nigdy już<br/>nie porzucę Księgi tej.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy drogi cel się zatrze<br/>Wśród życia mego burz -<br/>Znów na Golgotę patrzę,<br/>Bo Biblia to mój stróż.<br/>Nigdy już, nigdy już<br/>mej Biblii nie porzucę;<br/>Nigdy już, nigdy już<br/>nie porzucę Księgi tej.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Do łez mię ona wzrusza<br/>Z niej bije prawdy zdrój<br/>I życie czerpie dusza<br/>To skarb najdroższy mój.<br/>Nigdy już, nigdy już<br/>mej Biblii nie porzucę;<br/>Nigdy już, nigdy już<br/>nie porzucę Księgi tej</lines>
+    </verse>
+  </lyrics>
+</song>

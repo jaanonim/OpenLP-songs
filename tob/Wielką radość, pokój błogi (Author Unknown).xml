@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:21">
+  <properties>
+    <titles>
+      <title>Wielką radość, pokój błogi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="85"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wielką radość, pokój błogi<br/>Przyniósł Pocieszyciel nasz;<br/>2ycia nam rozświecił drogi<br/>I mieszkanie obrał w nas.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cudny łaski dar,<br/>Święty łaski dar!<br/>Jakże dobrym jest nasz Pan!<br/>W nawałnościach mórz<br/>I wśród życia burz<br/>W Nim spoczynek błogi dań.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Siłę, zdrowie, nowe życie<br/>Zacny ten przynosi Gość;<br/>Darów daje nam obficie,<br/>W smutku zsyła pociech dość.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jako z nieba rosa spływa,<br/>Jako jasny słońca blask,<br/>Tak Duch Święty stale zlewa<br/>Na Swój lud obfitość łask.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Świętym deszczem ziemia zlana<br/>Zrodzi hojny owoc swój.<br/>Zbór, odrodzon Duchem Pana,<br/>Znajdzie w sobie życia zdrój.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wielkie sprawy Twoje, Panie,<br/>Zbór Twój święty wielbić ma.<br/>Któż wysłowić wszystko w stanie,<br/>Co nam dała miłość Twa!</lines>
+    </verse>
+  </lyrics>
+</song>

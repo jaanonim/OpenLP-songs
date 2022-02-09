@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:11">
+  <properties>
+    <titles>
+      <title>Powróćmy dziś do Pana</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Powróćmy dziś do Pana całym sercem,<br/>Przylgnijmy dziś do Niego ze wszystkich sił.<br/>Powróćmy dziś do Pana z całej duszy,<br/>Prostujmy nasze ścieżki, odrzućmy wszelki grzech,<br/>Bo On obiecał, że nas przyjmie,<br/>Gdy szczerze szukać Go będziemy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Powróćmy dziś do Pana całym sercem,<br/>Przylgnijmy dziś do Niego ze wszystkich sił.<br/>Powróćmy dziś do Pana z całej duszy,<br/>Bo On nas zranił i uzdrowi,<br/>Odrzucił i na nowo przyjmie.<br/>Jak deszcz wiosenny do nas przyjdzie<br/>I już na zawsze będzie z nami.<br/>Przyjdzie jak deszcz, wiosenny deszcz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Powróćmy dziś do Pana całym sercem,<br/>Przylgnijmy dziś do Niego ze wszystkich sił.<br/>Powróćmy dziś do Pana z całej duszy,<br/>Nowe przymierze zawrze z nami,<br/>Na sercach prawa swe wypisze<br/>I nikt nie powie "poznaj Pana",<br/>Bo wszyscy już Go znać będziemy.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Powróćmy dziś do Pana całym sercem,<br/>Przylgnijmy dziś do Niego ze wszystkich sił.<br/>Powróćmy dziś do Pana z całej duszy,<br/>Gdyż On chce zebrać swoje dzieci,<br/>Chce wszystkim łaskę dać na nowo,<br/>Chce byśmy znali Jego drogi,<br/>W jedności trwali zawsze z Nim.<br/>Przyjdzie jak deszcz, wiosenny deszcz!</lines>
+    </verse>
+  </lyrics>
+</song>

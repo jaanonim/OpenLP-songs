@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:46">
+  <properties>
+    <titles>
+      <title>Ojcze Nasz, Boże</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="311"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ojcze nasz, Boże, który jesteś w niebie<br/>my, dzieci Twoje, wznosim głos do Ciebie<br/>święć się Twe Imię przez wszystkie narody<br/>któreś powołał do wiecznej nagrody</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przyjdź Twe Królestwo powszechnej wolności<br/>braterstwa ludów i bratniej jedności,<br/>zrównania wszystkich w miłości bliźniego<br/>Królestwo szczęścia dla ludu Twojego</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bądź wola Twoja w dobrej i złej doli<br/>bo to jest dobre, co jest z Twojej woli<br/>z Twej woli nasze dusze zmartwychwstały<br/>porwały więzy, wolność odzyskały</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Daj, Panie, innym też tę wolność ducha<br/>niech w ludzie naszym obudzi się skrucha<br/>skrucha nad grzechem i nad swą niewiarą<br/>nad pogardzeniem Boskiej krwi ofiarą</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Naucz nas, Boże, prawdy Twojej wiecznej<br/>by na tej skale każdy stał bezpiecznie<br/>by miał nadzieję wiecznego zbawienia<br/>i tak strasznego uszedł potępienia</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Odpuść nam winy, jak my przebaczyli<br/>tym co wzgardliwie nieraz nas dręczyli<br/>za winy ojców i za nasze swary<br/>oddalże od nas gniew Twój i Twe kary</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Wszystkie te prośby u Twych stóp składamy<br/>bo Ciebie Ojcze, nad wszystko kochamy<br/>bo Ciebie Boże, zawsze czcić pragniemy<br/>a Ty rządź nami jako dziećmi Twymi</lines>
+    </verse>
+  </lyrics>
+</song>

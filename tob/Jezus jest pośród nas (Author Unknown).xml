@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:05">
+  <properties>
+    <titles>
+      <title>Jezus jest pośród nas</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="279"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Jezus jest pośród nas<br/>Obecny tu w Duchu swym,<br/>Wszystkich nas wzywa On:<br/>zbliżcie się /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/ Znów dotknij serc nasz Panie<br/>Napełń nas swym Duchem<br/>Dotknij serc nasz Panie,<br/>napełń nas /x2</lines>
+    </verse>
+  </lyrics>
+</song>

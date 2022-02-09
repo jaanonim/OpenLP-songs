@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:52">
+  <properties>
+    <titles>
+      <title>]435. U nóg Zbawiciela]</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>U nóg Zbawiciela, pragnąc Jego słów,<br/>siadła Maria kornie, by Go słuchać znów.<br/>Dobrą cząstkę ona ma, Pan jej Swe zbawienie da.<br/>U nóg Zbawiciela spocznę sobie rad,<br/>Słowo Jego stanie mi za cały świat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Do nóg Zbawiciela Maria schyla się,<br/>wylewając na nie wonne maści swe.<br/>Wejrzał Zbawca na ten dar, był to jej miłości żar.<br/>Do nóg Zbawiciela wszystko chętnie dam,<br/>pragnąc służyć Jemu, oddam Mu się sam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>U nóg Zbawiciela, w rannej porze dnia,<br/>przeradosną wieścią Marii serce drga:<br/>Jezus żyje, mija noc! Zwyciężyła Boża moc.<br/>U nóg Zbawiciela złożę biedę swą, wiecznie<br/>Mu śpiewając, wiecznie wielbiąc Go.</lines>
+    </verse>
+  </lyrics>
+</song>

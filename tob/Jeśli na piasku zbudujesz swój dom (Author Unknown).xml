@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:08">
+  <properties>
+    <titles>
+      <title>Jeśli na piasku zbudujesz swój dom</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jeśli na piasku zbudujesz swój dom<br/>Gdyby na piasku on stał<br/>Wiedz, że choćby piękny był i podwójne mury miał<br/>Budować będziesz jeszcze raz!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Na mocnej skale dom Twój ma stać!<br/>I fundament on solidny musi mieć<br/>/Bo gdy uderzy wiatr i deszcz dom Twój na pewno będzie stać/x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeśli na skale zbudujesz swój dom<br/>Gdyby na skale on stał<br/>Wiedz że choćby skromny był, pojedyncze mury miał<br/>Budować będziesz tylko raz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tą skałą jest Jezus Chrystus Pan<br/>I na nim buduj swój dom<br/>Wiedz że choćby skromny był, pojedyncze mury miał<br/>Budować będziesz tylko raz!</lines>
+    </verse>
+  </lyrics>
+</song>

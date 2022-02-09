@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:28">
+  <properties>
+    <titles>
+      <title>Nie znałem Jezusa</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="241"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie znałem Jezusa,<br/>ni życia też Zeń.<br/>Gdy w sercu mym mieszkał<br/>grzech i śmierci cień,<br/>Lecz kiedy mi podał<br/>miłosną Swą dłoń,<br/>To z żalem za grzechy<br/>pobiegłem ja Doń.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Miłuje mię Pan!<br/>Jak błogi to stan!<br/>Już pokój cudowny<br/>mej duszy jest dan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdym w życiu znużony,<br/>wśród licznych też burz<br/>Osłabną me nogi<br/>tak, że mdleję już,<br/>To wtedy w mym sercu<br/>Pan słyszeć da głos:<br/>Ja kocham cię, dziecię,<br/>zdaj na Mnie swój los!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jam Panu powierzył<br/>me życie, mój cel;<br/>Po boju, zwycięstwie<br/>oblecze mię w biel.<br/>Przez śmierci dolinę<br/>iść mogę ja z. Nim,<br/>On strzeże Swe dziecię -<br/>w to wierzyć ja śmiem</lines>
+    </verse>
+  </lyrics>
+</song>

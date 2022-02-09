@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:05">
+  <properties>
+    <titles>
+      <title>Był taki dzień</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="274"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Był taki dzień, szczęśliwy dzień<br/>Gdy przy mnie stanął Chrystus Pan.<br/>Dotknął się mnie, za rękę wziął<br/>I poprowadził w inny świat.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Boże daj mi siły bym wytrwał do końca /x4</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W świat żywej wiary, nadziei życia<br/>Życia, które się nie kończy.<br/>Nie jestem sam, jest ze mną Pan,<br/>O samotności zapomniałem.</lines>
+    </verse>
+  </lyrics>
+</song>

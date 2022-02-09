@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:31">
+  <properties>
+    <titles>
+      <title>Bóg jest z nami</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="43"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bóg jest z nami, Bóg jest z nami,<br/>naszą siłą, chlubą cną,<br/>On pomagać nam jest W stanie,<br/>wykupionym Zbawcy krwią.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, narodzie Boży, stój,<br/>Jezus dobry Pasterz twój.<br/>Nie bój się, nie lękaj się,<br/>pomoc wierną Pan ci śle,<br/>tarczą twoją Bóg jest sam,<br/>On osłoną wierną nam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Siła życia radość nasza w ludzie<br/>niech wierzącym lśni,<br/>nieustannie i obficie<br/>pięknem swym niech Boga czci.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>O, narodzie Boży, stój,<br/>Jezus dobry Pasterz twój.<br/>Nie bój się, nie lękaj się,<br/>pomoc wierną Pan ci śle,<br/>tarczą twoją Bóg jest sam,<br/>On osłoną wierną nam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pokój Boży niewzruszony<br/>ma napełniać Boży lud,<br/>ma uciszać każdą trwogę,<br/>wynagradzać każdy trud.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>O, narodzie Boży, stój,<br/>Jezus dobry Pasterz twój.<br/>Nie bój się, nie lękaj się,<br/>pomoc wierną Pan ci śle,<br/>tarczą twoją Bóg jest sam,<br/>On osłoną wierną nam.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:20">
+  <properties>
+    <titles>
+      <title>W górę serca, Boże dzieci</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="67"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W górę serca, Boże dzieci -<br/>Już zwyciężył z Judy Lew!<br/>Niech pieśń chwały w górę wzleci,<br/>Że dał przelać Swoją krew,<br/>Że dał za nas życie Swoje,<br/>Dla nas się położył w grób,<br/>Śmierć pokonał, przez Swe znoje<br/>Wejście dał w niebieski gród.<br/>Więc niech wieczna brzmi Mu chwała<br/>Za tak wielkiej łaski cud.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W górę serca, w górę oczy,<br/>Wszak Zwycięzcą jest nasz Pan.<br/>Niechaj każdy bój tu toczy -<br/>W Nim zwycięstwa zdrój nam dań.<br/>Kto z Nim chodzi tutaj szczerze<br/>Tego nie tknie piekła moc,<br/>Ten zwycięstwo z Niego bierze,<br/>Czy to w dzień, czy w ciemną noc,<br/>Ten przez wszystko przejdzie w wierze<br/>W Jego zmartwychwstania moc.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>W górę serca, w górę czoło,<br/>Choć wróg groźny sroży się;<br/>Pan otacza nas wokoło,<br/>Jest zwycięstwo dla nas w Nim.<br/>On na krzyżu je wykonał<br/>Ofiarując życie Swe,<br/>Kiedy srogą śmiercią skonał,<br/>Gdy rzekł: „Wykonało się!"<br/>Dzieła Swego tak dokonał,<br/>Wszystkim jest zbawienie w Nim.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>W górę serca! Z grobu nocy<br/>Dnia trzeciego wyszedł Pan<br/>Jak Zwycięzca w pełni mocy;<br/>Tron królewski jest Mu dan.<br/>Jak Baranek był zabity,<br/>Jako Król zaś z martwych wstał;<br/>W Nim zwycięstwa zdrój obfity<br/>Wszystkim przezeń Ojciec dał.<br/>W zmartwychwstaniu Jego skryty<br/>Jest nasz zmartwychwstania dział</lines>
+    </verse>
+  </lyrics>
+</song>

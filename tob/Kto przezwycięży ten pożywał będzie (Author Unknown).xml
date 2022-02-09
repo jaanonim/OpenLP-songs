@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:46">
+  <properties>
+    <titles>
+      <title>Kto przezwycięży ten pożywał będzie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="521"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kto przezwycięży ten pożywał będzie<br/>Z zieleniejących wiecznie rajskich drzew;<br/>Tam koniec śmierci, koniec ziemskiej biedzie,<br/>Tam wyzwolony wzniesie chwały śpiew<br/>Pan da mu z nieba Żywota chleba<br/>/ I czego trzeba, by radość miał. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kto przezwycięży, nie ugodzi tego,<br/>Ni wtóra śmierć, ni plaga z Pańskich czasz;<br/>Pan wzbudzi nowe pienia w duszy jego,<br/>Gdy da oglądać świętą Swoją twarz.<br/>Po mężnym boju. Rany się zgoją,<br/>[.Wzniesie w pokoju dziękczynny hymn. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kto przezwycięży, kto przy Słowie stanie<br/>Do końca życia, temu zwierzy Pan<br/>Nad poganami zwierzchność, panowanie,<br/>Ich wodzem i pasterzem będzie zwań;<br/>Wtedy skruszeni, Upokorzeni,<br/>/ Z grzechowych cieni dadzą się wieść. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kto przezwycięży, wdzieje szaty białe,<br/>Pan nie wymaże go z żywota ksiąg;<br/>Co On zapisał, pozostanie stałe,<br/>I co On posiadł, już nie puści z rąk.<br/>U niebios tronu Pan mu koroną<br/>/ Skroń uwielbioną ozdobić chce. /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kto przezwycięży, stanie się filarem.<br/>W Bożym kościele sto ląc nocą, dniem.<br/>Będzie nań imię Boga napisane,<br/>Imię nowego też Jeruzalem.<br/>Pana też imię Nowe on przyjmie<br/>/ W górnej krainie od Niego tam. /x2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ach, pomóż, Panie, pomóż do zwycięstwa,<br/>Przyjdź rychło z mocą, rozpędź wrogów rój?<br/>Tu szatan, ciało, świat i wrogie księstwa<br/>- Przewyższa siły me ten straszny bój.<br/>Mój duch Ci w górze W niebieskim chórze<br/>/ Zwycięstwa, chwały zanuci psalm. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

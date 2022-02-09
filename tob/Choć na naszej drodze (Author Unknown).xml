@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:12">
+  <properties>
+    <titles>
+      <title>Choć na naszej drodze</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="172"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Choć na naszej drodze często<br/>trud i mrok, zobaczymy<br/>Króla chwał! Znikną ciemne<br/>chmury, światłość olśni wzrok,<br/>zobaczymy Króla chwał!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ref:<br/>Zobaczymy Króla chwał!<br/>Zobaczymy Króla chwał!<br/>Tam wśród rzesz zbawionych,<br/>gdy On wezwie nas,<br/>zobaczymy Króla chwał!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kiedy złość przeminie, wszelki<br/>ból i lęk, zobaczymy Króla<br/>chwał! Tam, gdzie brzmi<br/>weselny harf anielski dźwięk,<br/>zobaczymy Króla chwał!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Po przebytych trudach, po<br/>przelanych łzach, zobaczymy<br/>Króla chwał! Po zwycięskich<br/>walkach, znojnych żniwa dniach,<br/>zobaczymy Króla chwał!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Razem z zbawionymi, co przed<br/>nami szli, zobaczymy Króla<br/>chwał! Wejdziem w kraj ojczysty,<br/>gdzie wspaniałość lśni,<br/>zobaczymy Króla chwał!</lines>
+    </verse>
+  </lyrics>
+</song>

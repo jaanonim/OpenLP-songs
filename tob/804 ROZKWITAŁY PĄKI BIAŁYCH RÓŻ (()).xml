@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:51">
+  <properties>
+    <titles>
+      <title>804 ROZKWITAŁY PĄKI BIAŁYCH RÓŻ</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rozkwitały pąki białych róż,<br/>Wróć, Jasieńku, z tej wojenki już,<br/>/Wróć, ucałuj, jak za dawnych lat, <br/>Dam ci za to róży najpiękniejszy kwiat./ x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kładłam ci ja idącemu w bój,<br/>Białą różę na karabin twój,<br/>/Nimeś odszedł, mój Jasieńku, stąd,<br/>Nimeś próg przestąpił, kwiat na ziemi zwiądł./ x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ponad stepem nieprzejrzana mgła,<br/>Wiatr w burzanach cichuteńko łka.<br/>/Przyszła zima, opadł róży kwiat,<br/>Poszedł w świat Jasieńko, zginął za nim ślad./ x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>W pustym polu zimny wicher dmie,<br/>Już nie wróci twój Jasieńko, nie,<br/>/Śmierć okrutna zbiera krwawy łup<br/>Zakopali Jasia twego w ciemny grób. /x2 </lines>
+    </verse>
+  </lyrics>
+</song>

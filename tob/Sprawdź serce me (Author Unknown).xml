@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:51">
+  <properties>
+    <titles>
+      <title>Sprawdź serce me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="16"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sprawdź serce me, o Panie proszę cię.<br/>Sprawdź i przeniknij wszystkie myśli me.<br/>Nic nie chce skryć, przed świętym wzrokiem twym<br/>Znajdź każdy grzech w mym sercu słabym, mdłym.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oczyść mnie Sam, swą przenajświętszą krwią,<br/>Oczyść me serce, myśli, duszę mą.<br/>Wypal i zgładź w mym sercu każdy grzech,<br/>Bym odtąd czystym był, tak jako śnieg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Weź życie me, chcę Tobie oddać je.<br/>Weź moja wolę, dumę, chęci me.<br/>Wszystko co mam, do Twoich składam nóg.<br/>Rządź całym życiem mym boś Ty mój Bóg.</lines>
+    </verse>
+  </lyrics>
+</song>

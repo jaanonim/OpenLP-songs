@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:32">
+  <properties>
+    <titles>
+      <title>Jak błogo wiedzieć</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="64"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak błogo wiedzieć: Jezus jest mój!<br/>Jakże ten pokój słodzi mi znój!<br/>On życie z nieba żywota dział<br/>i odpuszczenie grzechów mi dał.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chcę sławić Zbawcę, chcę aż po zgon,<br/>bo gdzież Zbawiciel większy niż On,<br/>kto może tyle pociech mi nieść?<br/>Nikt tylko Jezus, Jemu dam cześć!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chcę żyć dla Niego, On życia raj,<br/>śpiewaj Mu serce, wdzięcznie Mu graj!<br/>On mnie prowadzi przez mgłę i cień,<br/>gdy grzech się zmaga, wyrywa zeń.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chcę sławić Zbawcę, chcę aż po zgon,<br/>bo gdzież Zbawiciel większy niż On,<br/>kto może tyle pociech mi nieść?<br/>Nikt tylko Jezus, Jemu dam cześć!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy Go posiadam, więcej już nic<br/>szczęścia nie może spłoszyć mi z lic.<br/>Przeto też Jemu serce swe dam<br/>On do niebieskich mnie wiedzie bram!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Chcę sławić Zbawcę, chcę aż po zgon,<br/>bo gdzież Zbawiciel większy niż On,<br/>kto może tyle pociech mi nieść?<br/>Nikt tylko Jezus, Jemu dam cześć!</lines>
+    </verse>
+  </lyrics>
+</song>

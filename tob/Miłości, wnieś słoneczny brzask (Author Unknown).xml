@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:28">
+  <properties>
+    <titles>
+      <title>Miłości, wnieś słoneczny brzask</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="234"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Miłości, wnieś słoneczny brzask<br/>W me biedne serce, wnieś!<br/>Gdy Twój je złoty olśni blask,<br/>Odlata smutek gdzieś;<br/>Spłoszona światłem pierzcha noc,<br/>Spowita w ciemne mgły;<br/>Radości dziwna w sercu moc<br/>Bolesne ściera łzy.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Miłości, Tyś tak dawna już,<br/>A jednak tchniesz świeżością róż,<br/>I ciepłem nas ogarniasz Swym,<br/>Więc wszyscy my do Ciebie lgniem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy z krzyża jasny promień ten<br/>W mej duszy trafił zmierzch,<br/>Grzechowy mój kamienny sen<br/>Opuścił mnie i pierzchł.<br/>Już wiem, kto mię miłuje, wiem,<br/>Gorąco aż po zgon,<br/>Więc tylko Zbawca w sercu mym<br/>Na wieki będzie czczon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tym słońcem, co wśród życia zmian,<br/>Wśród życia grzeje zim,<br/>Jest Jezus, mój niebieski Pan.<br/>O, żywot tylko w Nim!<br/>Na ziemi pieśni Jego chwał<br/>Zamącą skargi żal;<br/>Mój hymn wspanialej będzie brzmiał<br/>Tam, wśród weselnych sal.</lines>
+    </verse>
+  </lyrics>
+</song>

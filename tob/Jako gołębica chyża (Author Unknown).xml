@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:37">
+  <properties>
+    <titles>
+      <title>Jako gołębica chyża</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="380"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jako gołębica chyża,<br/>Kiedy burzy grom się zbliża,<br/>Kryje się w szczeliny skał,<br/>Tak mój pragnie duch stroskany<br/>W Jezusowe skryć się rany,<br/>/ Aby pokój trwały miał. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy cierpienia na mnie spadną,<br/>W duszę się obawy wkradną,<br/>Któż schronienie dla mnie ma?<br/>W Tobie jednym, Chryste Panie,<br/>Składam całe swe ufanie,<br/>/ Bo Twa śmierć mi żywot da. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We dnie, w nocy, w każdej porze<br/>Duch mój szuka Cię w pokorze,<br/>Skało moja, Panie mój,<br/>Gdyż, o Jezu, Twe cierpienie,<br/>To ma chluba, pocieszenie,<br/>/ Mą obroną krzyż jest Twój. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:00">
+  <properties>
+    <titles>
+      <title>Żyje Pan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="116"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Żyje Pan, żyje Pan,<br/>Jezus wciąż żyje, daje życie mi.<br/>Żyje Pan, żyje Pan,<br/>Jezus wciąż żyje w duszy mej.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On wywiódł mnie z ciemności,<br/>Ożywił szare dni.<br/>Jezus wciąż żyje, daje życie mi,<br/>Jezus wciąż żyje w duszy mej.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On pośród nas przebywa, potrzeby nasze zna,<br/>Choć Go nie widzimy, On zawsze jest wśród nas.<br/>Śmierć straciła władzę swą,<br/>Jezus Pan pokonał ją,<br/>Jezus wciąż żyje w duszy mej.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>On zajął nasze serca, wybawił z grzechów nas,<br/>Gdy tylko Mu ufamy, On życie daje nam.<br/>Śmierć straciła władzę swą,<br/>Jezus Pan pokonał ją,<br/>Jezus wciąż żyje, daje życie mi,<br/>Jezus wciąż żyje w duszy mej.</lines>
+    </verse>
+  </lyrics>
+</song>

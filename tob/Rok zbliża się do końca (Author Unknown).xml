@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:53">
+  <properties>
+    <titles>
+      <title>Rok zbliża się do końca</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="672"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rok zbliża się do końca,<br/>Ubiega dzień po dniu,<br/>Bóg zawsze mój obrońca,<br/>Więc zawsze ufam Mu. /x2<br/>Tak cicho chwile płyną,<br/>Więc cicho, serce, bądź!<br/>Wnet żałość, smutek miną,<br/>/ 0 Panie, Ty mną rządź! /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I wszystkie trudy, boje,<br/>Com znosił w roku tym,<br/>Dziś składam w ręce Twoje;<br/>/ Rządź, Panie, sercem mym! /x2<br/>Jedynie Ty znasz, Panie,<br/>Me rany i me łzy;<br/>Lekarstwa dobre na nie<br/>/ Jedynie dajesz Ty. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Co nowy rok przyniesie,<br/>Przyszłości kryje cień,<br/>Me serce wszystko zniesie,<br/>/ Aż przyjdzie wieczny dzień, /x2<br/>Bo ręce Twe trzymają<br/>W Twej mocy wszelki los;<br/>Od tych, co Ci ufają,<br/>/ Zniszczenia wstrzymią cios. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

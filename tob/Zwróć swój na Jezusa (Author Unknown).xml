@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:44">
+  <properties>
+    <titles>
+      <title>Zwróć swój na Jezusa</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="469"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zwróć wzrok swój na Jezusa,<br/>Jak wielki jest twarzy tej czar!<br/>Urok ziemskich spraw,<br/>Dziwnie zblednie wnet,<br/>w blasku Jego miłości bez miar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zwróć swój wzrok na Jezusa,<br/>Gdy staczasz z ciemnością swój bój.<br/>On królestwo diabła zwyciężył już.<br/>W nim światłości i mocy jest zdrój.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zwróć swój wzrok na Jezusa,<br/>Gdy gniecie cię troska i krzyż.<br/>On ciężary zdejmie twe, ulży ci,<br/>Tylko wierz i do Niego się zbliż!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zwróć swój wzrok na Jezusa,<br/>Gdy dotknie śmiertelna cię dłoń.<br/>Wtedy zabrzmi chwały, triumfu hymn,<br/>A ty pójdziesz szczęśliwy już Doń.</lines>
+    </verse>
+  </lyrics>
+</song>

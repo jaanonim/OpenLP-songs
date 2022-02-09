@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:38">
+  <properties>
+    <titles>
+      <title>Najlepszy z wszystkich przyjaciel</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="401"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Najlepszy z wszystkich przyjaciel!<br/>Jest w niebie, tu ich mało mam.<br/>Świat mej szczerości nie podzieli,<br/>Obłudę jego zdawna znam,<br/>Lecz Jezus mi z szczerości znan.<br/>Najlepszym przyjacielem Pan!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Świat jest podobny chwiejnej trzcinie<br/>- Mój Jezus to opoka ma.<br/>Choć wszystka ma nadzieja zginie,<br/>On zawsze przy mnie wiernie trwa;<br/>Prowadzi mię na jasny łan.<br/>Najlepszym przyjacielem Pan!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Świat temu miłość swą sprzedaje,<br/>Z którego ciągnąć może zysk,<br/>A przyjaźń jego wnet ustaje,<br/>Ilekroć zgaśnie szczęścia błysk.<br/>Niech świata zaszczyt pryśnie zwian:<br/>Najlepszym przyjacielem Pan!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sam dał się za mnie ukrzyżować<br/>I przelał za mnie własną krew;<br/>W ucisku gotów mię ratować,<br/>On już przebłagał Boży gniew.<br/>Me szczęście płynie z Jego ran;<br/>Najlepszym przyjacielem Pan!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Przyjaciel ten mi serce daje,<br/>Więc On jest mój a Jegom ja!<br/>Tak wiernie zawsze mię miłuje,<br/>Do mego ostatniego dnia.<br/>Ach, czy to nie jest błogi stan?<br/>Najlepszym przyjacielem Pan!</lines>
+    </verse>
+  </lyrics>
+</song>

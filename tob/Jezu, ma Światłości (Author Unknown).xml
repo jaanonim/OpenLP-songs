@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:52">
+  <properties>
+    <titles>
+      <title>Jezu, ma Światłości</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="424"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezu, ma Światłości, stroju duszy mej,<br/>źródło obfitości, strzeż mię w łasce Swej.<br/>Sam się litościwie nad Swym dzieckiem<br/>skłoń, ciesz je miłościwie i od złego broń.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>By mój grzech zaginął, Panie, w Twojej krwi,<br/>gniew zaś Twój przeminął, gdyś odpuścił mi.<br/>Krwawe Twoje rany oraz mąka Twa,<br/>Panie nasz nad Pany, to nadzieja ma.</lines>
+    </verse>
+  </lyrics>
+</song>

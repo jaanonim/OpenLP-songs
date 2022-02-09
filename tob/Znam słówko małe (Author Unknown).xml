@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:25">
+  <properties>
+    <titles>
+      <title>Znam słówko małe</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="175"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Znam słówko małe, w którym<br/>jest tyle wdzięcznych brzmień,<br/>Że błogość niewymowna<br/>dla wszystkich płynie zeń.<br/>A słówka tego dźwięki<br/>roznoszą radość wszerz -<br/>To głos Jezusa mego;<br/>na Jego śpieszę pierś.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pójdźcie do Mnie już,<br/>przychodźcie do Mnie już;<br/>O, pójdź, coś spracowany,<br/>coś obciążony, pójdź!<br/>Pójdźcie do Mnie już,<br/>przychodźcie do Mnie już,<br/>A zdejmę jarzmo wasze,<br/>więc wszyscy pójdźcie już!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, któż by nie chciał śpieszyć<br/>w tę przyjacielską dłoń,<br/>Na serce to przeczyste,<br/>jak piękna jezior toń?<br/>Choć jestem nędzy pełen,<br/>choć jestem pełen bied,<br/>Do Ciebie pójdę śmiało,<br/>boś wprzód Ty do mnie zszedł.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niech coraz silniej, Panie,<br/>mnie Twój przywabia głos,<br/>Bym w miłość Twą niezmierną<br/>już całym sercem wrósł,<br/>W strumienie wtedy żywe<br/>skieruję życia łódź<br/>I zawsze słuchać będę,<br/>gdy wołasz słodko: pójdź!</lines>
+    </verse>
+  </lyrics>
+</song>

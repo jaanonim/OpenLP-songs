@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:22">
+  <properties>
+    <titles>
+      <title>Do szopy hej pasterze</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="1008"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Do szopy, hej pasterze,<br/>Do Szopy, bo tam cud!<br/>Syn Boży w żłobie leży,<br/>by zbawić ludzki ród.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Śpiewajcie Aniołowie,<br/>pasterze, grajcie Mu.<br/>Kłaniajcie się Królowie,<br/>nie budźcie Go ze snu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Padnijmy na kolana,<br/>to Dziecię to nasz Bóg,<br/>Uczcijmy niebios Pana;<br/>miłości złóżmy dług.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Boże niepojęty,kto<br/>pojmie miłość Twą?<br/>Na sianie wśród bydlęty,<br/>masz tron i służbę swą.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>On Ojcu równy w Bóstwie<br/>opuszcza niebo swe<br/>A rodzi się w ubóstwie<br/>i cierpi wszystko złe</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bóg, Stwórca wiecznej chwały,<br/>Bóg godzien wszelkiej czci,<br/>patrz, w szopie tej zbutwiałej,<br/>jak słodko On w niej śpi.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jezuniu mój najsłodszy,<br/>Tobie oddaję się.<br/>O skarbie mój najdroższy,<br/>racz wziąć na własność mnie.</lines>
+    </verse>
+  </lyrics>
+</song>

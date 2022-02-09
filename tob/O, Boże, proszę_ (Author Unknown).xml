@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:45">
+  <properties>
+    <titles>
+      <title>O, Boże, proszę&lt;</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="282"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Boże proszę spójrz na mnie z nieba<br/>z jasnego tronu wszechmocy Swej<br/>Tonę w ciemnościach, pośpiesz,<br/>ach pośpiesz, zdroje Swej łaski w mą duszę wlej!<br/>Oczy me były łzą się okryły, w bólu<br/>okrutnym serce me drży;<br/>w nocy strapienia, nigdzie ulżenia,<br/>Boże Wszechnocny, dopomóż Ty!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Żem łaski Twojej wielce niegodzien,<br/>wyznam pokornie, wyznaję rad.<br/>Tyś, Panie święty, grzechy me wielkie,<br/>jam do głębokiej przepaści wpadł.<br/>Czeka mnie strata, śmierci zapłata,<br/>duszę mą czeka straszliwy sąd.<br/>W nocy strapienia, nigdzie ulżenia,<br/>zmiłuj się, Boże, miej na mnie wzgląd!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wiem, żeś nam Syna Swego miłego<br/>zesłał w ten padół bolesnych łez.<br/>Mękę okrutną znieść mu kazałeś,<br/>nim głowę schylił, nim nastał kres.<br/>Umarł ten Święty, ciężar już zdjęty,<br/>piekło zadrżało, anielska dłoń z nocy<br/>skonania jeńcom odsłania wolność i łaskę,<br/>ojczystą błoń!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Więc ja do tego świata jasnego duszę<br/>zbolałą przyniosę swą. Spójrz na nią,<br/>Boże, w łaskę obfity, boć pokropiona<br/>jest Zbawcy krwio! Dla Jego znoju przyjm<br/>duszę moją, otwórz łaskawie niebieskie drzwi.<br/>W nocy strapienia Swego ulżenia zawsze,<br/>mój Panie, użyczaj mi!</lines>
+    </verse>
+  </lyrics>
+</song>

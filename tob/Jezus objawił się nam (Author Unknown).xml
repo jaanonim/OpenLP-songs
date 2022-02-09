@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:02">
+  <properties>
+    <titles>
+      <title>Jezus objawił się nam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="180"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus objawił się nam<br/>Grzesznym ludziom na ziemi.<br/>Przyszedł na grzeszny ten świat,<br/>Aby dać tobie życie wieczne.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Żyć z Jezusem, to jest piękna rzecz!<br/>Żyć z Jezusem, to radość w Nim!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wiemy że przyjdziesz na świat,<br/>Sądzić będziesz na ziemi.<br/>Czas przecież bliski jest już.<br/>Cieszą się serca, bo na pewno</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zostaw kłopoty swe dziś,<br/>Jutro późno być może.<br/>Jezus chce twoim być już,<br/>Ujmij dłoń Jego, On pomoże.</lines>
+    </verse>
+  </lyrics>
+</song>

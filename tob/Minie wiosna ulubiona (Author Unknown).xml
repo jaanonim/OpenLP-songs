@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:55">
+  <properties>
+    <titles>
+      <title>Minie wiosna ulubiona</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="709"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Minie wiosna ulubiona,<br/>Przyjdzie śmierci pora,<br/>Żywyś jeszcze, lecz na marach<br/>Możesz być z wieczora.<br/>Jakże sta¬niesz obnażony<br/>Przed wieczystą chwałą,<br/>Jeśli nigdy serce twoje<br/>Szczerze nie kochało.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Minie szczęście, chociaż ono<br/>Było niedaleko;<br/>Wnet oblicze bliskich twoich<br/>Skryje trumny wieko.<br/>Byli z tobą, ale sercem<br/>Skąpo ich dzieliłeś,<br/>Wszystko przeszło, sposobności<br/>Sam się pozbawiłeś.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Minie radość i odleci<br/>Jasny anioł Boży<br/>Serce stanie się pustynią,<br/>Życie twe zuboży.<br/>Miłość by cię wzbogaciła,<br/>Jak owocne drzewa,<br/>Tyś nią wzgardził, jesteś lekki,<br/>Jak znikoma plewa.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Minie pora łaski błoga,<br/>Przyjdzie śmierci pora;<br/>A przed Bogiem stanąć możesz<br/>- Jeszcze dziś z wieczora.<br/>Bóg jest miłość, tą miłością<br/>Wielką wzgardzić śmiałeś,<br/>Gdyż najbliższych swych ukochać<br/>Nawet nie umiałeś.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Minie, lecz nie znikła<br/>jeszcze Bożej łaski pora;<br/>Pokój wróci i wesele<br/>Jeszcze dziś z wieczora.<br/>Jeszcze będą serca wdzięczne<br/>Tobie dziękowały,<br/>Oddaj tylko Jezusowi<br/>biedny żywot cały.</lines>
+    </verse>
+  </lyrics>
+</song>

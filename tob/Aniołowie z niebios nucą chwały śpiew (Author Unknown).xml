@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:18">
+  <properties>
+    <titles>
+      <title>Aniołowie z niebios nucą chwały śpiew</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="33"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aniołowie z niebios<br/>nucą chwały śpiew,<br/>Wieść radosną niosą<br/>ludom z górnych stref.<br/>Ponad góry i doliny<br/>pienia brzmią.<br/>O, słuchajmy,<br/>co anieli głosić chcą!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Zaśpiewajcie już godową pieśń,<br/>Chwalcie Boga, dajcie Jemu cześć!<br/>Miłość uwielbiajcie, wysławiajcie wraz,<br/>Sławcie dobroć Boga,<br/>sławcie w każdy czas!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Posłuchajmy wieści,<br/>która płynie w dal;<br/>Każdy z głębi serca<br/>miłość Bożą chwal!<br/>Chrystus się narodził,<br/>ciesz się każdy, ciesz,<br/>Wielki, mały,<br/>Pana witać prędko śpiesz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Serca wykrzykujcie!<br/>Głośnej chwały dźwięk<br/>Niech rozbrzmiewa Panu<br/>aż w najdalszy wiek!<br/>On jest Wodzem naszym,<br/>Panem naszych dróg;<br/>On królować będzie,<br/>przed Nim zadrży wróg.</lines>
+    </verse>
+  </lyrics>
+</song>

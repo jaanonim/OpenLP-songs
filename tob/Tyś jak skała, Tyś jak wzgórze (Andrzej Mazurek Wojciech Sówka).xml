@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:31">
+  <properties>
+    <titles>
+      <title>Tyś jak skała, Tyś jak wzgórze</title>
+    </titles>
+    <authors>
+      <author type="words">Andrzej Mazurek Wojciech Sówka</author>
+      <author type="music">Andrzej Mazurek Wojciech Sówka</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="653"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tyś jak skała, Tyś jak wzgórze<br/>Panie nasz, Boże nasz.<br/>Tyś jak wiatr w swej naturze,<br/>Tyś jest Stwórcą wszystkich nas.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Łamdarej, łamdaoo,<br/>Łamdarej, łamdao // 2x //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Światłem swym rozświetlasz drogę,<br/>która prosto wiedzie nas.<br/>Tam, gdzie źródło Twej miłości,<br/>gdzie radośnie płynie czas.</lines>
+    </verse>
+  </lyrics>
+</song>

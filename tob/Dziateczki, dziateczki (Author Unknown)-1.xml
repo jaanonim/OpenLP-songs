@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:19">
+  <properties>
+    <titles>
+      <title>Dziateczki, dziateczki</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="37"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dziateczki, dziateczki, pośpieszcie się wraz!<br/>Do żłobka w Betlejem Bóg woła dziś was<br/>I z nieba zwiastuje radosną wieść wam:<br/>Syn Boży, Zbawiciel narodził się tam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W maleńkim dzieciątku objawił się Bóg,<br/>W Betlejem przestąpił krainy tej próg;<br/>Więc świeci światłością niebiańską gwiazd zbiór<br/>I klęcząc pasterzy wysławia Go chór.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I wam aniołowie przynoszą tą wieść,<br/>I wasze też winne rączęta się spleść,<br/>I wraz z pasterzami kolana się zgiąć<br/>I w pieniu aniołów dziś udział też wziąć.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O miłe dzieciątko, Bóg z Boga, Bóg Syn,<br/>Coś cierpiał za grzechy ludzkości, bez win!<br/>Do Ciebie dziękczynny zasyłam ten hymn,<br/>O, proszę, w ofierze serduszko me przyjm!</lines>
+    </verse>
+  </lyrics>
+</song>

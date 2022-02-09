@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:15">
+  <properties>
+    <titles>
+      <title>Śpiewam Tobie, Jezu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="284"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Śpiewam Tobie, Jezu! Alleluja! Alleluja!<br/>Mój cudowny Jezu! Alleluja! Alleluja!<br/>Majestat blaskiem lśni, potężna chwała Twa!<br/>Prawdziwym Bogiem jesteś Ty,<br/>I Królem nieba, ziemi tej!<br/>We wszystkim zawsze Jezus godzien czci!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Śpiewam Tobie, Jezu! Alleluja! Alleluja!<br/>Mój cudowny Jezu! Alleluja! Alleluja!<br/>Przyszedłeś na ten świat,<br/>By nam zbawienie dać.<br/>W pokorze Swej zniżyłeś się,<br/>Przez krzyż zgładziłeś świata grzech!<br/>We wszystkim zawsze Jezus godzien czci!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Śpiewam Tobie, Jezu! Alleluja! Alleluja!<br/>Mój cudowny Jezu! Alleluja! Alleluja!<br/>Już świta wielki dzień,<br/>Gdy wszechświat ugnie się<br/>I całą chwałę Tobie da,<br/>Bo Ty najwyższą władzę masz!<br/>We wszystkim zawsze Jezus godzien czci!</lines>
+    </verse>
+  </lyrics>
+</song>

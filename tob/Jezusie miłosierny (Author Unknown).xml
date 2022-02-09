@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:50">
+  <properties>
+    <titles>
+      <title>Jezusie miłosierny</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="605"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezusie miłosierny,<br/>Nasz Obrońco prawy<br/>I w łasce Swej niezmierny,<br/>Bądźże nam łaskawy!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jak słońce dnia każdego<br/>Daje blask od siebie,<br/>Tak też pragniemy Twego<br/>Światła dziś od Ciebie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Swą prawdą świeć nad nami,<br/>Co utwierdza w wierze,<br/>Bo z Twymi Cię sługami<br/>Chcemy kochać szczerze.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Na duszy i na ciele<br/>Racz nam błogosławić,<br/>Ach, pokus w świecie wiele,<br/>Racz nas z nich wybawić!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Własnością Twą być chcemy,<br/>Żyć w Twej społeczności,<br/>Za Tobą iść pragniemy<br/>I służyć w miłości</lines>
+    </verse>
+  </lyrics>
+</song>

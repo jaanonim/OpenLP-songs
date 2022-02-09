@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:24">
+  <properties>
+    <titles>
+      <title>Kiedy ci w świecie smutno, źle</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="144"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kiedy ci w świecie smutno, źle,<br/>Gdy serce żal, tęsknota rwie,<br/>Gdy pragniesz szczęścia, lepszych dni,<br/>A nie wiesz, co pomoże ci -<br/>Wiedz, to być musi Jezus Sam,<br/>Co do twych serca puka bram.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Do swego Zbawcy pośpiesz wnet,<br/>Proś o ratunek z twoich bied. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niejeden piękny, jasny dzień<br/>Przeżyłeś w szczęściu - był to sen.<br/>A dusza twoja cierpi głód,<br/>Nie ma pokoju, wieje chłód;<br/>Pragnienie serca koi Pan,<br/>Grzechy krew z Jego kryje ran.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pan jeszcze dziś wyciąga dłoń,<br/>Byś w tę zwodniczą nie wpadł toń,<br/>On się zmiłuje, przyjmie cię,<br/>Jeżeli Doń nawrócisz się.<br/>Pokój i nowe życie da,<br/>Decyduj: bierz, co wiecznie trwa!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:26">
+  <properties>
+    <titles>
+      <title>O smutny, bolesny to stan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="193"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O smutny, bolesny to stan,<br/>Gdy w duszach nie może się<br/>Pan Zupełnie wysławić,<br/>Swych rządów w nich sprawić,<br/>Choć tajnie Swych dróg<br/>Objawił im Bóg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ach, cóż na przeszkodzie im, cóż?<br/>Gdzie błędy, gdzie braki tych dusz?<br/>Nie trwają w cichości,<br/>Aż Pan w nich zagości;<br/>Czyż może tak Pan<br/>Poświęcić ich stan?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich woli, ich sercu - o, tak!<br/>Szczerości, skupienia jest brak,<br/>Więc ciągle się chwieją,<br/>Zbaczają, kuleją,<br/>Jakże by więc Bóg<br/>Poświęcić ich mógł?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nie zwlekaj, lecz serce swe święć,<br/>Bo żywa opuści cię chęć,<br/>Odstąpi Pan z siłą,<br/>A szkoda by było<br/>I ciebie, i sił,<br/>Którymiś Go czcił.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wnet łaski zakończy się dzień,<br/>Więc nią do ostatnich żyj tchnień!<br/>Mijają te chwile,<br/>Nie zostańże w tyle;<br/>Pan woła cię, chodź,<br/>Wahania swe rzuć!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O Jezu, więc pęta me rwij,<br/>Wielkością Swą w duszy mej lśnij<br/>Na wieczność, na długą,<br/>Wszak jestem Twym sługą.<br/>Ty siłą mą bądź<br/>I życiem mym rządź</lines>
+    </verse>
+  </lyrics>
+</song>

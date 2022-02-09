@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:49">
+  <properties>
+    <titles>
+      <title>Jam winny krzew, a wy latoroślami</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="591"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>„Jam winny krzew, a wy latoroślami"<br/>- Pan Jezus rzekł, żegnając się z uczniami<br/>I pozostawił moc Swą nam w tym życiu<br/>- To przedsmak nieba, szczęścia zdrój w ukryciu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jak winny krzew latorośl sokiem poi,<br/>Tak Zbawcy krew mą duszę żywi, koi<br/>I Jego życie, życie me przenika,<br/>Tak, że co ze mnie, we krwi Jego znika.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On daje moc, zwycięstwo Swoje własne,<br/>Więc w Jego krwi mój grzech na zawsze gaśnie.<br/>On Swoją miłość w sercu mym rozlewa,<br/>Tak, że radością życie me rozbrzmiewa.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Jezu mój, chcę kochać z serca Ciebie<br/>Za to, żeś Ty darował mi Sam Siebie.<br/>Tyś chlebem życia, zdrojem pokrzepienia,<br/>Co nas grzeszników w obraz Twój przemienia.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Więc, Zbawco mój, zamieszkuj serce stale<br/>I objaw się mej duszy w Swojej chwale.<br/>A ja chcę nucić ku Twej chwale pienia<br/>I z aniołami śpiewać dziękczynienia</lines>
+    </verse>
+  </lyrics>
+</song>

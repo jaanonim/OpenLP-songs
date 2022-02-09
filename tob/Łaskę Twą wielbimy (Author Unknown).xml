@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:40">
+  <properties>
+    <titles>
+      <title>Łaskę Twą wielbimy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="201"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Łaskę Twą wielbimy, Panie,<br/>żeś nas odwiódł z błędnych dróg,<br/>żeś oczyścił serc naczynia,<br/>byś je w służbie użyć mógł.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Myśmy tylko naczyniami<br/>gdy nas dłoń napełni Twa,<br/>będziem darzyć hojnie wkoło<br/>tym co miłość Twa nam da.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Z kruchych naczyń<br/>lud spragniony żywą wodą, Panie, pój;<br/>niech wciąż hojnie je napełnia,<br/>niewysychający zdrój.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Myśmy tylko naczyniami<br/>gdy nas dłoń napełni Twa,<br/>będziem darzyć hojnie wkoło<br/>tym co miłość Twa nam da.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wypal kruche te naczynia,<br/>Duchem Swoim oczyść je,<br/>aby mogły wlewać wszędzie<br/>ożywienie w serca mdłe.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Myśmy tylko naczyniami<br/>gdy nas dłoń napełni Twa,<br/>będziem darzyć hojnie wkoło<br/>tym co miłość Twa nam da.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Twej mocy świadczyć chcemy,<br/>która grzechu pęta rwie;<br/>na toś nas powołał, Panie,<br/>na to Duch Twój pomoc śle.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Myśmy tylko naczyniami<br/>gdy nas dłoń napełni Twa,<br/>będziem darzyć hojnie wkoło<br/>tym co miłość Twa nam da.</lines>
+    </verse>
+  </lyrics>
+</song>

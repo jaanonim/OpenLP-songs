@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:40">
+  <properties>
+    <titles>
+      <title>Raźniej będziem kroczyć poprzez życia wiek</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="217"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Raźniej będziem kroczyć poprzez życia wiek,<br/>gdy będziemy ufać Jezusowi,<br/>siły w pracy z nieba czerpać będzie człek,<br/>gdy będziemy ufać Jezusowi</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Zajaśnieje droga nam,<br/>radość wielka będzie tam,<br/>strzec nas będzie Pan Bóg sam,<br/>gdy będziemy ufać Jezusowi</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wolę Bożą pełnić my zaczniemy wraz,<br/>gdy będziemy ufać Jezusowi,<br/>świat przestanie nęcić uciechami nas,<br/>gdy będziemy ufać Jezusowi,</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Zajaśnieje droga nam,<br/>radość wielka będzie tam,<br/>strzec nas będzie Pan Bóg sam,<br/>gdy będziemy ufać Jezusowi</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Obietnice Pańskie będą jasne nam,<br/>gdy będziemy ufać Jezusowi,<br/>Żywot wieczny nam zapewni Pan Bóg sam,<br/>gdy będziemy ufać Jezusowi,</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Zajaśnieje droga nam,<br/>radość wielka będzie tam,<br/>strzec nas będzie Pan Bóg sam,<br/>gdy będziemy ufać Jezusowi</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:45">
+  <properties>
+    <titles>
+      <title>Bliżej o bliżej</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="295"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bliżej, o bliżej, wznieś mię i tul<br/>Do Siebie, Chryste, przez radość i ból<br/>Chowaj mię zawsze na sercu Swym,<br/>/ Synu Człowieczy, i nocą i dniem. / x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bliżej, o bliżej, tu mię nie stać<br/>Na nic co bym Ci, mój Panie mógł dać.<br/>Ach tylko serce skażone mam,<br/>/ Weź je, mój Królu, i oczyść je sam. / x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bliżej, o bliżej, bo zwalczyć chcę<br/>Wszystko, co jeszcze do świata mię rwie.<br/>Co mi odrywa łaski Twej dar,<br/>/ Świeckie rozkosze i złudny ich czar. / 2x</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bliżej, o bliżej, na wolność dnia,<br/>Aż wola własna ukorzy się ma.<br/>Aż będzie życie odblaskiem Twym,<br/>/ Byś Ty się Jezu, uwielbił już w nim. / 2x</lines>
+    </verse>
+  </lyrics>
+</song>

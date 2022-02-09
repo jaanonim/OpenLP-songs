@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:48">
+  <properties>
+    <titles>
+      <title>Gdzie duszy ojczyzna</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="357"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdzie duszy ojczyzna, jej pokój, jej raj?<br/>Gdzie życzeń, nadziei spełnionych jest kraj?<br/>Nie może przybytku pewnego dać świat,<br/>bo pełno tu grzechów i pokus, i zdrad.<br/>Nie, nie, o, nie, to żaden kłam, mej duszy<br/>ojczyzna w niebiesiech jest tam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Opuśćże tę ziemię, do nieba się wzbij,<br/>do cudnej ojczyzny już serce swe ślij!<br/>Twej duszy ojczyzna, gdzie Boży jest tron,<br/>Jeruzalem wieczne, gdzie czeka cię On.<br/>Tam jest, tam jest przebłogi kraj,<br/>spoczynek twej duszy, wesele i raj!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jak błogo w pokoju u Pana tam być,<br/>gdzie śmierci, łez nie masz, jak błogo z Nim żyć!<br/>Anielskie śpiewanie rozbrzmiewa jak zew,<br/>pozdrawia zbawionych przesłodki ten śpiew.<br/>Błogi, błogi pokoju zdrój!<br/>Na łonie Twym, Zbawco, tam kończy się bój!</lines>
+    </verse>
+  </lyrics>
+</song>

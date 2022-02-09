@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:44">
+  <properties>
+    <titles>
+      <title>Ja chciałbym być jak Jezus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="268"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ja chciałbym być jak Jezus,<br/>tak dobrym, pełnym cnót.<br/>Z ust Jego nikt nie słyszał<br/>złych, albo szorstkich słów.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/Ja chciałbym być jak Jezus,<br/>co radość w Ojcu miał<br/>I często tam na wzgórzach<br/>w modlitwach za mnie trwał./x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja chciałbym tak, jak Jezus,<br/>miłować bliźnich swych<br/>Jak On do śmierci kochać<br/>największych wrogów mych</lines>
+    </verse>
+    <verse name="c2">
+      <lines>/Lecz ja nie jestem takim,<br/>to jest wiadomym mi.<br/>O, Zbawco, proszę, uczyń,<br/>bym był podobnym Ci!/x2</lines>
+    </verse>
+  </lyrics>
+</song>

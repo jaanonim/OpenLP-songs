@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:53">
+  <properties>
+    <titles>
+      <title>Mój Jezus żyw</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="448"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mój Jezus żyw, cóż to śmierć znaczy,<br/>gdy triumfuje Głowa ma?<br/>W dziedzictwie żywot dać mi raczy,<br/>choć mą mogiłę zrosi łza.<br/>Zanucę więc radosny śpiew,<br/>bo mój Zbawiciel żyw!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chwalebne zmartwychwstanie Pana<br/>jest życiem i zwycięstwem mym.<br/>Potęga śmierci jest złamana, nie<br/>zasnę wiecznej śmierci snem;<br/>już podwaliny piekieł drżą,<br/>Pan wstaje z chwałą Swą!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mój Jezus żyw, grób otworzony!<br/>Więc wesół w ciemny wstąpię grób,<br/>bo mój Zbawiciel uwielbiony i<br/>mnie do Swych przygarnie stóp.<br/>O, jakiż to cudowny śpiew:<br/>My żywi, bo Pan żyw!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Żywotem Jezus mi zostanie,<br/>w mym sercu już nie zaznam mąk;<br/>a choć nadejdzie me skonanie,<br/>mnie nikt nie wyrwie z Jego rąk.<br/>Powiedzie mię do rajskich niw<br/>mój Jezus, wiecznie żyw!</lines>
+    </verse>
+  </lyrics>
+</song>

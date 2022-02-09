@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:21">
+  <properties>
+    <titles>
+      <title>Każdy wschód słońca</title>
+    </titles>
+    <authors>
+      <author type="words">Joachim Mencel</author>
+      <author type="music">Joachim Mencel</author>
+      <author type="words">Jan Góra</author>
+      <author type="music">Jan Góra</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="322"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My, którzy wszystko liczymy,<br/>Ciebie mamy za darmo.<br/>Dajesz nam Siebie w całości<br/>i jesteś taki rozrzutny.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Każdy wschód słońca<br/>Ciebie zapowiada,<br/>nie pozwól nam<br/>przespać poranka. (2x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mało, że do nas przyszedłeś,<br/>co dzień dajesz nam Siebie.<br/>Zostałeś z nami w tym Chlebie,<br/>który bierzemy do ręki.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dałeś nam Siebie za darmo,<br/>Twoja hojność zdumiewa.<br/>Naucz nas liczyć dni nasze,<br/>niech człowiek już nie umiera.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ty jesteś pełnią życia,<br/>daj nam Twojego Chleba,<br/>daj nam oddychać wiecznością,<br/>Twój oddech ożywia i wspiera.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Przyjdź, Panie, przyjdź nareszcie,<br/>jak przyszedłeś już kiedyś.<br/>A co dzień nowy wschód słońca,<br/>niech Ciebie nam zapowiada.</lines>
+    </verse>
+  </lyrics>
+</song>

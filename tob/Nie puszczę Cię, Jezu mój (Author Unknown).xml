@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:38">
+  <properties>
+    <titles>
+      <title>Nie puszczę Cię, Jezu mój</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="402"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie puszczę Cię, Jezu mój,<br/>Tyś się za mnie ofiarował,<br/>Znam więc obowiązek swój,<br/>Bym żył Tobie, Cię miłował.<br/>Tyś światłości, życia zdrój,<br/>Nie puszczę Cię, Jezu mój!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie puszczę Cię, Jezu mój,<br/>Bo nie mogę żyć bez Ciebie;<br/>W Tobie ufam, przy mnie stój.<br/>Jak w dni szczęścia, tak w potrzebie.<br/>Ty się ze mną ściśle spój,<br/>Nie puszczę Cię, Jezu mój!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Choćby zgasł mój bystry wzrok<br/>I ustały wszystkie zmysły<br/>A ostatni nadszedł zmrok<br/>I me serce bóle ścisły,<br/>Gdy śmierć skończy życia bój,<br/>Nie puszczę Cię, Jezu mój!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nie dbam o ten marny świat,<br/>Ni o wszystkie skarby jego, Jezu,<br/>Tyś cel moich lat,<br/>Coś odkupił mnie grzesznego;<br/>Mnie nie zgubi wyrok Twój,<br/>Nie puszczę Cię, Jezu mój'!</lines>
+    </verse>
+  </lyrics>
+</song>

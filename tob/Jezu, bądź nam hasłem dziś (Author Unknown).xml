@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:53">
+  <properties>
+    <titles>
+      <title>Jezu, bądź nam hasłem dziś</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="461"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezu, bądź nam hasłem dziś, gdy rok nowy rozpoczęty,<br/>Imię Twoje i Twój krzyż niech za sztandar służą święty tym,<br/>co chcą przy Tobie stać i w przymierzu Twoim trwać.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niech Twe słowo świeci nam i w świątyniach Twych<br/>rozbrzemiewa, a ilekroć wejdziem tam, niechaj wiarę w serca<br/>wlewa, mień w świątynie serca te, miejscem czci Twej czyniąc je.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Drogą życia, aż po zgon w imię Zbawcy idźmy wszędzie.<br/>Gdy przewodnią gwiazdą On, wszystko dobre dla nas będzie.<br/>Opromieni wciąż nas blask przeobfitych Jego łask.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wszystkie troski, wszystek ból, imię Jego nam osłodzi,<br/>przeciwności On, nasz Król, w błogosławieństw zdrój<br/>przerodzi. Jezu, święte Imię Twe, tarcza to i słońce me!</lines>
+    </verse>
+  </lyrics>
+</song>

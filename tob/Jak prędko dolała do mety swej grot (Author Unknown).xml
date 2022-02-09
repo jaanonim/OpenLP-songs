@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:02">
+  <properties>
+    <titles>
+      <title>Jak prędko dolała do mety swej grot</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="827"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak prędko dolała do mety swej grot,<br/>Tak chwile młodości mijają nam w lot.<br/>Snadź jutro już, groby otwarłyby się,<br/>Więc śpieszmy do Pana, dopóki nas zwie!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jak pięknie, gdy w kwiaty uwieńczon jest maj;<br/>Mróz jeden, jedyny - już niszczy ten raj.<br/>Tak niegdyś kwitł człowiek, co dzisiaj już zgasł;<br/>Powróćmy do Pana, dopóki jest czas!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Był dzieckiem, gdy Bogu już serce swe dał,<br/>Samuel - jak rad był, że wcześnie Go znał,<br/>Wszak wielką nagrodę Pan sługom Swym da,<br/>Więc służmy Mu chętnie, w młodości, co dnia!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy chcesz być szczęśliwym do Pana się śpiesz<br/>I z rąk Jego skarby wspaniałe wciąż bierz.<br/>Rozpędzi światłością wnet mroki twych dróg,<br/>I niebem ci będzie i szczęściem twój Bóg.</lines>
+    </verse>
+  </lyrics>
+</song>

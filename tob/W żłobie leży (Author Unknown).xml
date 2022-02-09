@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:51">
+  <properties>
+    <titles>
+      <title>W żłobie leży</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="412"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W żłobie leży,<br/>niech więc bieży każdy,<br/>aby pokłon dał Jezusowi Chrystusowi,<br/>który się Dzieciątkiem stał</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ten co był przed wieki Bogiem,<br/>dzieckiem rodzi się ubogim,<br/>Aby zbawić ludzki ród.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przybywajcie, wysławiajcie,<br/>że się dziś narodził On.<br/>Że posłany i nam dany ten,<br/>co w niebie ma Swój tron.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Jego wszyscy powitajmy,<br/>z aniołami zaśpiewajmy:<br/>niech pochwalon będzie Bóg!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Witaj, Panie, któż jest w stanie<br/>za to godnie wdzięcznym być,<br/>że zstąpiłeś i przybyłeś,<br/>by wśród grzesznych ludzi żyć.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Miłość Twoja to sprawiła,<br/>miłość Twoja uczyniła,<br/>Że Bóg dla nas Ojcem jest.</lines>
+    </verse>
+  </lyrics>
+</song>

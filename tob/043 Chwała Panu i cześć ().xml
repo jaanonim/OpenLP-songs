@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:40">
+  <properties>
+    <titles>
+      <title>043 Chwała Panu i cześć</title>
+    </titles>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chwała Panu i cześć<br/>Od wszystkich wiernych Mu sług<br/>Wznieśmy swe ręce ku Miejscu Świętemu<br/>I cześć oddajmy Mu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Panie błogosław nam<br/>Gdy trwamy tam, gdzie Twój dom<br/>Ty, co stworzyłeś i niebo i ziemię,<br/>Ty, Panie błogosław nam.</lines>
+    </verse>
+  </lyrics>
+</song>

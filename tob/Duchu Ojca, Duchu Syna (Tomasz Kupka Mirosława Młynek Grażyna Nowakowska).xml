@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:17">
+  <properties>
+    <titles>
+      <title>Duchu Ojca, Duchu Syna</title>
+    </titles>
+    <authors>
+      <author type="words">Tomasz Kupka Mirosława Młynek Grażyna Nowakowska</author>
+      <author type="music">Tomasz Kupka Mirosława Młynek Grażyna Nowakowska</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="122"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Duchu Ojca, Duchu Syna<br/>przyjdź i wypełnij nas<br/>(przyjdź i wypełnij nas.)<br/>Duchu prawdy i miłości<br/>oświeć przemień nas<br/>(oświeć przemień nas)<br/>Duchu mocy i świętości uświęć,<br/>zwycięż w nas<br/>// uświęć zwycięż w nas // 2x</lines>
+    </verse>
+  </lyrics>
+</song>

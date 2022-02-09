@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:47">
+  <properties>
+    <titles>
+      <title>Nie zawsze będę pielgrzymował</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="762"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie zawsze będę pielgrzymował<br/>W padole bólu ziemskich bied;<br/>Jak przyjdzie czas, to mój Zbawiciel<br/>Powoła do niebieskich stref.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja Tobie, Zbawco, służyć pragnę,<br/>Bo Tyś mnie kupił drogą krwią.<br/>Tyś jest mój Król i mój Zbawiciel,<br/>A ja chcę być włas¬nością Twą.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy w chwili trosk i udręczenia<br/>Zabraknie sił w pielgrzymce mej,<br/>To usłysz, Panie, me wołanie<br/>I ześlij pomoc w chwili tej.</lines>
+    </verse>
+  </lyrics>
+</song>

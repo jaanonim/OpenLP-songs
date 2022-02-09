@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:01">
+  <properties>
+    <titles>
+      <title>O, miasto cudne, miasto cne</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="803"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, miasto cudne, miasto cne,<br/>Prześliczny Boży gród,<br/>Do Ciebie wznoszę myśli me,<br/>Tam spocznie Boży lud.<br/>Ach, jakże chętnie chciałbym być<br/>W cudownym grodzie tam,<br/>Gdzie błogo będzie z Panem żyć,<br/>O Zbawco, prowadź Sam!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O cudny kraj,<br/>Prześliczny kraj,<br/>Ojczyzno miła, droga ma,<br/>Tam mojej duszy raj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W tym mieście jest Ojczyzna ma,<br/>Niedoli jest tam kres,<br/>Tam radość już na wieki trwa,<br/>I nie ma smutku,łez!<br/>Ach, kiedyż z łzawych życia dróg,<br/>W ojczysty wstąpię dom?<br/>W nadziei duch raduje siłę,<br/>Tam będzie koniec łzom!</lines>
+    </verse>
+  </lyrics>
+</song>

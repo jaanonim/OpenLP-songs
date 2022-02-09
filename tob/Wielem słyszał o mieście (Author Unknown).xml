@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:49">
+  <properties>
+    <titles>
+      <title>Wielem słyszał o mieście</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="586"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wielem słyszał o mieście<br/>Salemie, Które cudnie<br/>Wszechmocny wzniósł Sam,<br/>Jakie blaski ślą wkoło te mury<br/>I pałace i wieże u bram<br/>Strumień życia przepływa ulice,<br/>Wdzięczny owoc zachwyca tam wzrok.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lecz choć o tym słyszałem tak wiele,<br/>Ni polowym dowiedzieć się mógł.<br/>/ Ni połowym dowiedzieć się mógł, /x2<br/>Ni połowy piękności tej w górze,<br/>Co Swym wiernym zgo¬tował tam Bóg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wielem słyszał o miejscach pokoju,<br/>Co u Pana gotowe już są,<br/>Gdzie z ust synów Imanuelowych<br/>Wieczne hymny ku Pańskiej czci brzmią;<br/>Śmierć i grzech tam nie wedrze się więcej,<br/>Nic tam Pańskich nie strwoży już sług,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wielem słyszał o lśniącym odzieniu,<br/>Co widnieje nam z tamtych już stron,<br/>O wezwaniu: Wy Pańscy kochani,<br/>pójdźcie usiąść z Barankiem na tron!<br/>Już wyłania się słońce miłości;<br/>Blasków wiecznych nie spędzą mgły trwóg,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wielem słyszał o wiecznej radości,<br/>Którą Jezus obdarzył Swój lud,<br/>O pokoju, weselu, miłości,<br/>Bujnych paszach i źródłach dla trzód.<br/>I słyszałem o wiecznym Kościele,<br/>Którym jest nasz Baranek i Bóg</lines>
+    </verse>
+  </lyrics>
+</song>

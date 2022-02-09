@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:29">
+  <properties>
+    <titles>
+      <title>Pan Bóg jest obecny</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="19"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pan Bóg jest obecny!<br/>Pokłon Mu oddajmy, kornie Jego wysławiajmy!<br/>Wpośród nas Wszechświęty! Serca zamilknijcie,<br/>czołem wszyscy przed Nim bijcie!<br/>Kto Go zna, w sercu ma,<br/>niechaj Doń się zbliży,<br/>przed Nim się uniży</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pan Bóg jest obecny!<br/>Cherubiny Jemu służą jako Panu swemu.<br/>Święty, święty, święty! Wdzięcznie Mu śpiewają,<br/>gdy przed tronem Jego stają.<br/>Na głos nasz, Panie zważ,<br/>przyjm te skromne dary,<br/>naszych serc ofiary!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My się wyrzekamy wszelkich czczych marności,<br/>uciech świata i radości.<br/>Wolę, duszę, ciało,<br/>życie tu składamy,<br/>na Twą własność oddawamy.<br/>Tylko Ty naszej czci godzien jesteś Boże!<br/>Wielbim Cię w pokorze.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Majestacie Boży!<br/>niech Cię godnie chwalę,<br/>niech Ci w duchu służę stale.<br/>Niech jak aniołowie,<br/>wciąż przed Tobą staję i obecność czuję Twoją.<br/>W łasce Swej sprawić chciej,<br/>abyś we mnie Panie, miał upodobanie!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O, powiewie życia, którym oddychamy,<br/>w którym byt i żywot mamy;<br/>o, bezdenne morze, cudzie niezmierzony,<br/>duch mój w Tobie zagłębiony.<br/>Bądź w nas Ty, w Tobie my,<br/>byśmy niczym byli,<br/>Toba tylko żyli!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ty przenikasz wszystko!<br/>Światło Twe bez cienia me oblicze opromienia.<br/>Jak ku słońcu dążą pełne krasy kwiaty,<br/>zdobne w różnobarwne szaty, tak i ja,<br/>własność Twa,<br/>myśl do Ciebie wznoszę,<br/>o Twe światło proszę.</lines>
+    </verse>
+  </lyrics>
+</song>

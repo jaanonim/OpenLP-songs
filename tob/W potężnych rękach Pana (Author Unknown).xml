@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:03">
+  <properties>
+    <titles>
+      <title>W potężnych rękach Pana</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="847"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W potężnych rękach Pana<br/>Mój duch spoczywa już,<br/>Tam srogich cierpień nie ma,<br/>I nikt nie roni łez.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jak cudownie zawsze w rękach Jego być,<br/>Jak cudownie w rękach Jego być,<br/>/ Jak cudownie, jak cudownie,<br/>Jak cudownie w rękach Jego być! /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy nieszczęść moc cię zmoże,<br/>Wnet Chrystusowi mów,<br/>On, pewnie ci pomoże<br/>I smutek pierzchnie znów.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chcę skryć się w rękach Zbawcy,<br/>Doń duszą przylgnę już,<br/>W Nim słodki pokój znajdę<br/>Wśród niepokojów burz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mój Jezus mię piastuje,<br/>Jak matka dziecię swe,<br/>Z miłością też strofuje,<br/>Od złego chroni mnie.</lines>
+    </verse>
+  </lyrics>
+</song>

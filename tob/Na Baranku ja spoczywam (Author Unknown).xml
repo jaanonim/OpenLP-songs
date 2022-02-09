@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:31">
+  <properties>
+    <titles>
+      <title>Na Baranku ja spoczywam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="306"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na Baranku ja spoczywam.<br/>W błogim uwielbieniu trwam,<br/>Bo krew Jego najceniejsza<br/>Mnie obmyła z wszystkich plam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Błogie życie, słodki pokój,<br/>Tu napełnia duszę mą;<br/>Gdzie z radością Bóg przebywa,<br/>Tam i ja mam błogość swą.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Już znalazło me sumienie<br/>Pokój w Jego drogiej krwi.<br/>Moc tej krwi zerwała, pęta<br/>I zwycięstwo dała mi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Więc z spokojem błogim w sercu<br/>Idę tu przez bój i trud;<br/>Wieczny pokój znajdę w górze,<br/>Gdy w Baranka wejdę gród.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kiedyś ujrzy moje oko<br/>Tego, co miłuje mię,<br/>Co mię wiernie tu prowadzi<br/>- W Jego łasce spocząć śmiem.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tam uwielbi Bożą miłość<br/>Jego odkupiony zbór,<br/>I z Syjońskich gór popłynie<br/>Wieczny uwielbienia chór</lines>
+    </verse>
+  </lyrics>
+</song>

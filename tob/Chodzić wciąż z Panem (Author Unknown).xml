@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:34">
+  <properties>
+    <titles>
+      <title>Chodzić wciąż z Panem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="324"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chodzić wciąż z Panem, jaki raj!<br/>Szczęściem mnie darzy niebios kraj;<br/>On pokój daje tylko Sam,<br/>Szczęśliw, gdy z Nim ja chodzić mam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Naucz mię więcej Tobie żyć,<br/>Naucz we wszystkim szczerym być,<br/>Naucz mię prawdy Twoje znać,<br/>Bliźnich miłować, w wierze trwać!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chodząc wciąż z Panem, pokój mam,<br/>Choć w koło grozi złuda, kłam,<br/>Chcę i w ucisku przy Nim stać,<br/>Bo On mi pokój Swój chce dać.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chodzić wciąż z Panem!<br/>Każdy dzień Przedsmak tu nieba spływa Zeń;<br/>W chwale Go wiecznej ujrzeć śmiem,<br/>Żyć tam na wieki będę z Nim</lines>
+    </verse>
+  </lyrics>
+</song>

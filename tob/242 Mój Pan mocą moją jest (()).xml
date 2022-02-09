@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:50">
+  <properties>
+    <titles>
+      <title>242 Mój Pan mocą moją jest</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.Mój Pan mocą moją jest,<br/>Pieśnią i zbawieniem, On Bogiem mym. /2x</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ref. Dla Ciebie otwieram serce swe. /3x</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.Mój Pan Królem był i jest, <br/>Na zawsze i na wieki. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

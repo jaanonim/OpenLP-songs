@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:25">
+  <properties>
+    <titles>
+      <title>Znam strumień, co płynie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="176"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Znam strumień, co płynie wśród dolin i wzgórz<br/>Spokojnie i cicho, jak cień;<br/>Złotymi blaskami ognistych lśni zórz.<br/>Któż wody skosztował już zeń?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O duszo, upraszam cię, chodź,<br/>Do wód tych cudownych się zwróć,<br/>Bo płyną obficie wzdłuż i wszerz!<br/>I tobie ulżą, o, wierz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy serce dosięgnie ożywczy ten prąd,<br/>To radość ogarnia je wnet,<br/>Bo błogość kosztowna dopływa mu stąd<br/>I zbawia od trosk, mąk i bied.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ta głębia przejrzysta, jaśniejsza od słońc,<br/>Wciąż poi i karmi mdły lud,<br/>A wonnym powiewem z niebieskich gór tchnąć,<br/>Największy osładza mu trud.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ten strumień żywota, jak źródło ze skał,<br/>Z Jezusa wytryska ci ran.<br/>Za ciebie, grzeszniku,<br/>Za ciebie to dał<br/>Swą krew wylać drogi twój Pan!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kto pragnie, niech przyjdzie i pije z tych wód,<br/>Wołają z Syjonu nam w dół,<br/>Bo tylko, kto w falach tych grzechu zmył brud,<br/>W niebiesiech usiędzie za stół,</lines>
+    </verse>
+  </lyrics>
+</song>

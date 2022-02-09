@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:29">
+  <properties>
+    <titles>
+      <title>O Panie, pragnie dusza ma</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="270"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Panie, pragnie dusza ma<br/>Dla Ciebie święcie żyć,<br/>Bo wiem, że jest to wola Twa,<br/>Twój obraz we mnie wryć.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Me serce, Jezu, Ciebie chce,<br/>Racz w nim objawić się!<br/>Jedyne to pragnienie me,<br/>Zupełnie posiąść Cię.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy szatan chce zatrwożyć mię,<br/>Tyś zawsze bliskim mi;<br/>W zasługach krwi Twej chronię się,<br/>Tam mi zwycięstwo lśni.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Twa pomoc jest rękojmią mą,<br/>Choć burze srożą się;<br/>Spoczywam wciąż pod strażą Twą,<br/>W dzień i w noc wielbiąc Cię.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>W oblicze Twoje patrzę się;<br/>Twej chwały blask mi dan.<br/>Na obraz Twój przekształcaj mię<br/>W on doskonały stan.</lines>
+    </verse>
+  </lyrics>
+</song>

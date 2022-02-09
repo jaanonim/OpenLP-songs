@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:51">
+  <properties>
+    <titles>
+      <title>Ja chciałbym być jak Jezus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="626"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ja chciałbym być jak Jezus,<br/>Tak dobrym, pełnym cnót.<br/>Z ust Jego nikt nie słyszał<br/>Złych, albo szorstkich słów.<br/>Ja chciałbym być jak Jezus,<br/>Co radość w Ojcu miał<br/>I często tam na wzgórzach<br/>W modlitwach za mnie trwał.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja chciałbym tak, jak Jezus,<br/>Miłować bliźnich swych,<br/>Jak On do śmierci kochać<br/>Największych wrogów mych.<br/>Lecz ja nie jestem takim,<br/>To jest wiadomym mi.<br/>O Zbawco, proszę, uczyń,<br/>Bym był podobnym Ci!</lines>
+    </verse>
+  </lyrics>
+</song>

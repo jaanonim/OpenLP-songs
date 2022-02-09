@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:41">
+  <properties>
+    <titles>
+      <title>Gdybym Cię nie miał Jezusie kochany</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="234"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdybym Cię nie miał Jezusie kochany,<br/>gdybyś za nas nie został wydany,<br/>w którąbym wtedy zwrócił, nędzny,<br/>stronę oczy stęsknione?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I nie wiem, gdziebym podział się z żałości,<br/>bo gdzie jest Serce tak wielkiej miłości,<br/>ach, w Tobie Chryste, w Tobie mam jedynie<br/>moje zbawienie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdybyś Ty za mną nie szedł wprzódy,<br/>Chryste, jabym Cię, Panie, nie znalazł zaiste,<br/>Ty, Tyś szedł za mną i owcę zgubioną wziął na Swe łono.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Więc przyjmij, Jezu, me modły wdzięczności,<br/>żeś do krwi Twojej świętej społeczności mą<br/>grzeszną duszę od wieków przeznaczył i zbawić raczył.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Raczże, jak dotąd, tak się nam objawić<br/>i tak Swe Imię pośród nas rozsławić.<br/>Nie wypuśćże nas nigdy z Swej opieki,<br/>po wieków wieki.</lines>
+    </verse>
+  </lyrics>
+</song>

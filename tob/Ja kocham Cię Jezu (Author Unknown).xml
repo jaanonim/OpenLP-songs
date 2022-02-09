@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:00">
+  <properties>
+    <titles>
+      <title>Ja kocham Cię Jezu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="105"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ja kocham Cię Jezu, nad cały ten świat.<br/>Dla Ciebie wszystkiego, wyrzekam się rad<br/>Wszak w Tobie jedynie, ratunek mi dan.<br/>Ja kocham Cię Jezu, Tyś Bóg mój i Pan</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja kocham, bo pierwszy ukochałeś mnie.<br/>Twa śmierć na Golgocie ratunek mi śle.<br/>Ja kocham Cię Jezu dla krwawych Twych ran.<br/>Ja kocham Cię Jezu, Tyś Bóg mój i Pan</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ja kocham Cię teraz, gdy jasny lśni dzień<br/>A także, gdy śmierci przybliży się cień.<br/>I w niebie ma dusza uwielbi Cię też.<br/>Ja kocham Cię Jezu, Tyś Bóg mój i Pan</lines>
+    </verse>
+  </lyrics>
+</song>

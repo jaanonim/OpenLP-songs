@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:28">
+  <properties>
+    <titles>
+      <title>To On daje nam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="258"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To On daje nam czego świat nie da ci<br/>Do serc naszych Jezus wlewa pokój.<br/>Tę obietnicę dał nam On:<br/>Mój pokój daję wam.</lines>
+    </verse>
+  </lyrics>
+</song>

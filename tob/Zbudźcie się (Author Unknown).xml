@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:49">
+  <properties>
+    <titles>
+      <title>Zbudźcie się</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="374"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>„Zbudźcie się" tak ci wołają, co w grodzie świętym straż trzymają, „Syjonie, północ, porzuć sny", Oblubieniec twój nadchodzi, zbawienia dzień się tobie rodzi: „Dziewice mądre, gdzieście wy?" To On! Ocućcie się, weźmijcie lampy swe: Alleluja! Już godów<br/>czas! Wzywają was! „Pośpieszcie Pana witać wraz!"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Serca rozbudzonej rzeszy głos stróżów świętych wielce cieszy.<br/>Powstaje Syjon, zdobi się, z niebios kroczy Druh wspaniały,<br/>Pan pełen łaski, prawdy, chwały, promienne blaski Swoje śle,<br/>Korono droga, przyjdź! O Panie Jezu, wnijdź! O, hosanna!<br/>Do niebios bram prowadzisz sam, weselne gody sprawisz nam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>„Święty, Święty, lud ci śpiewa, anielskie wojsko pieśń wygrywa;<br/>brzmi wkoło lutni dźwięczny ton. Z pereł Twego miasta bramy.<br/>Tam w gronie niebian otaczamy wyniosły Twój i święty tron.<br/>Majestat Boży Twój czyż zgłębi rozum mój? O, radości!<br/>Więc rzesza Twa hymn wieczny gra na Twoją cześć: alleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

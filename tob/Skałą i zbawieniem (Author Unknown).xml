@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:56">
+  <properties>
+    <titles>
+      <title>Skałą i zbawieniem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="33"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Skałą i zbawieniem jest mój Jezus,<br/>Nade mną Jego miłość lśni.<br/>Skałą i zbawieniem jest mój Jezus,<br/>Nade mną Jego miłość lśni.<br/>Skałą i zbawieniem jest mój Jezus,<br/>Nade mną Jego miłość lśni.<br/>Syn Boży, Zbawiciel, mój Pan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/ Jedna tylko droga do pokoju,<br/>Przez Zbawcy krew i krzyża moc, /x2<br/>On chroni, prowadzi mnie sam.<br/>/ Kocham Go więcej z każdym dniem,<br/>Chcę w Jego słowie zawsze trwać /x2<br/>On tobie swą miłość chce dać.</lines>
+    </verse>
+  </lyrics>
+</song>

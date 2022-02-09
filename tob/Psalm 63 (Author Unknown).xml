@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:11">
+  <properties>
+    <titles>
+      <title>Psalm 63</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tyś Bogiem moim, Ciebie gorliwie szukam<br/>Ciebie pragnie dusza moja<br/>Tęskni do Ciebie ciało moje<br/>Jak ziemia spragniona i bezwodna</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tak błogosławić Cię będę<br/>Póki życia mego<br/>W imieniu Twoim podnoszę ręce swe / x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dusza moja przylgnęła do Ciebie<br/>Prawica Twoja podtrzymuje mnie<br/>Lepsza jest łaska Twoja niż życie<br/>Wargi moje wysławiać Cię będą</lines>
+    </verse>
+  </lyrics>
+</song>

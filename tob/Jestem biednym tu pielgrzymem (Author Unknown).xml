@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:02">
+  <properties>
+    <titles>
+      <title>Jestem biednym tu pielgrzymem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="161"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jestem biednym tu pielgrzymem,<br/>Zdążam do niebieskich bram.<br/>Pielgrzymuję, aby zdążyć,<br/>Kiedy święci wejdą tam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kiedy święci wejdą tam,<br/>Kiedy święci wejdą tam,<br/>Alleluja, Panie,<br/>Pragnę być w tej liczbie,<br/>Kiedy święci wejdą tam!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Moi bliscy tam czekają,<br/>Szaty białe ich bez plam,<br/>Wkrótce z nimi się zobaczę,<br/>Kiedy święci wejdą tam!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tam mojego Zbawcę ujrzę,<br/>Jego miłość dobrze znam.<br/>Czeka On, by mnie powitać,<br/>Kiedy święci wejdą tam!</lines>
+    </verse>
+  </lyrics>
+</song>

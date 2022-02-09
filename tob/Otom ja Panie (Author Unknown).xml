@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:08">
+  <properties>
+    <titles>
+      <title>Otom ja Panie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="61"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Otom ja, Panie, poślij mnie,<br/>chcę użytecznym być w służbie Twej.<br/>Daleko stad, czy też wkoło mnie.<br/>Otom ja, poślij mnie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Otom ja, Panie, użyj mnie,<br/>chce uzytecznym być w słuzbie Twej.<br/>Daleko stad, czy też wkoło mnie.<br/>Otom ja, poślij mnie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Otom ja, Panie, poślij mnie,<br/>chcę użytecznym być w służbie Twej.<br/>Daleko stąd, czy też wkoło mnie.<br/>Otom ja, poślij mnie.</lines>
+    </verse>
+  </lyrics>
+</song>

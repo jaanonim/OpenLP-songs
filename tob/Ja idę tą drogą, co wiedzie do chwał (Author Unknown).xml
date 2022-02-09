@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:31">
+  <properties>
+    <titles>
+      <title>Ja idę tą drogą, co wiedzie do chwał</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="298"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ja idę tą drogą, co wiedzie do chwał,<br/>Duch Święty prowadzi tu mię.<br/>On pokój niebiański Swój w duszę mą wlał,<br/>Więc Zbawcę radośnie wciąż czczę.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cześć Barankowi! Wolność dał mi.<br/>Z Nim i w pustyni błogie mam dni,<br/>Aż dojdę, gdzie Jego wspaniałość lśni,<br/>Tam ujrzę Go już twarzą w twarz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja idę tą drogą, co wiedzie do chwał<br/>I wołam: Grzeszniku, o słysz!<br/>Zbawiciel cię kocha; On mocy ci dał,<br/>Byś doszedł wspaniale z Nim wzwyż.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ja idę tą drogą,<br/>co wiedzie do chwał,<br/>W Nim szczęście zupełne ja mam.<br/>Lecz gdy do wieczności już<br/>wejść będę śmiał,<br/>Wspanialej mi będzie z Nim tam</lines>
+    </verse>
+  </lyrics>
+</song>

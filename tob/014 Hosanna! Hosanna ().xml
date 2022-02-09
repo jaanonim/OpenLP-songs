@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:39">
+  <properties>
+    <titles>
+      <title>014 Hosanna! Hosanna</title>
+    </titles>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hosanna! Hosanna! Hosanna na niebiosach /x2  <br/>Sławić chcemy Cię wciąż, z radością i czcią  <br/>Wywyższony bądź Boże nasz  <br/>Hosanna niechaj ciągle brzmi</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chwała, Chwała, Królowi królów chwała, cześć! /x2<br/>Sławić chcemy Cię wciąż, z radością i czcią <br/>Wywyższony bądź Boże nasz  <br/>Królowi królów chwała, cześć!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezus! Jezus! Jezus Królem królów jest! /x2<br/>Sławić chcemy Cię wciąż, z radością i czcią <br/>Wywyższony bądź Boże nasz  <br/>Jezus Królem królów jest!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:41">
+  <properties>
+    <titles>
+      <title>Pan Jezus sam toruje drogę mą</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="219"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pan Jezus Sam toruje drogę mą.<br/>Pan Jezus Sam toruję drogę mą.<br/>Czemu więc mam troszczyć się,<br/>choć się plączą ścieżki me?<br/>Wszak Jezus Sam<br/>toruje drogę mą.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pan Jezus Sam<br/>przez życie wiedzie mnie.<br/>Pan Jezus Sam<br/>przez życie wiedzie mnie.<br/>Czemu więc mam troszczyć się,<br/>że wybiorę drogi złe?<br/>Wszak Jezus Sam<br/>przez życie wiedzie mnie!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pan Jezus Sam<br/>pomaga w życiu mi.<br/>Pan Jezus Sam<br/>pomaga w życiu mi.<br/>Czemu więc mam troszczyć się,<br/>On poniesie brzemię me.<br/>Wszak Jezus Sam<br/>pomaga w życiu mi.</lines>
+    </verse>
+  </lyrics>
+</song>

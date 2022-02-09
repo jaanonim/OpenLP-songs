@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:57">
+  <properties>
+    <titles>
+      <title>Jeśli smutek w sercu masz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="67"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jeśli smutek w sercu masz<br/>Jezusowi to powiedz.<br/>On rozjaśni twoją twarz<br/>W serce radość Ci da</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przyjacielem wiernym On<br/>Nie zwlekając daj Mu dłoń<br/>Pokój, radość możesz mieć<br/>Jeśli tylko sam chcesz.</lines>
+    </verse>
+  </lyrics>
+</song>

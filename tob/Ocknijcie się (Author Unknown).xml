@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:49">
+  <properties>
+    <titles>
+      <title>Ocknijcie się</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="380"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ocknijcie się, uśpieni, rozniećcie lampy swe<br/>juz zachód się rumieni, noc ciemna zbliża się.<br/>Przybywa Pan nad pany z przepychem między was,<br/>witajcie Go z nie-biany, bo już północny czas!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rozniećcie lampy swoje, nalejcie olej w nie<br/>i uroczystym strojem oblecznie serca swe!<br/>Z Syjonu straż ogłasza, że Oblubieniec tuż,<br/>więc niech Go dusza wasza radośnie wita już.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wy, mądre panny, wznoście radosnych pieśni chór<br/>i z aniołami twórzcie wielbiący jeden zbór.<br/>Już Pan otwiera bramy, do Siebie prosi nas.<br/>Witajmy Go, witajmy, w radosnych godów czas!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, Jezu, zorzo duszy, przyjdź do nas z nieba, przyjdź!<br/>Gdy duch nasz więzy skruszy, racz słońcem naszym być!<br/>Skróć wreszcie już uciski, wyprowadź z boju nas,<br/>o, Jezu, bądź nam bliski, ochłody ześlij czas!</lines>
+    </verse>
+  </lyrics>
+</song>

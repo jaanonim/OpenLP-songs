@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:35">
+  <properties>
+    <titles>
+      <title>Nad wszystko pożądany</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="345"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nad wszystko pożądany,<br/>Najmilszy Jezu mój!<br/>Ja Ciebie szczerze pragnę,<br/>Bo w Tobie szczęścia zdrój!<br/>Tyś życiem życia mego;<br/>Cóż znalazłbym droższego<br/>Nad Ciebie, Jezu Chryste,<br/>Nad Twój zbawienia strój?!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Piękniejszyś ponad ludzi,<br/>A wdzięk Twych czynów, mów<br/>Miłości pełnych taki,<br/>Ze na to brak mi słów.<br/>Tyś krasą najzacniejszą<br/>I perłą najcudniejszą;<br/>Tyś skarbem ponad skarby!<br/>Przyjdź, obdarz duszę znów!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Obecność Twa, mój Panie,<br/>Radością duszy mej;<br/>Tyś jest nad miód mocniejsze<br/>Nad śmierć miłości Twe.<br/>Gdy Ciebie mi brakuje,<br/>Miłości Twej nie czuję,<br/>Jak liść na wietrze jestem,<br/>A chwile to są złe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nie pytam się o niebo,<br/>Ni o ten ziemski kraj;<br/>Gdy Ciebie mam, o Jezu,<br/>Mam wszystko, złoty raj.<br/>Więc, Panie ukochany,<br/>Mój Zbawco pożądany,<br/>Przed Tobą w poświęceniu<br/>Posłusznie chodzić daj!</lines>
+    </verse>
+  </lyrics>
+</song>

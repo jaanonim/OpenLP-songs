@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:46">
+  <properties>
+    <titles>
+      <title>170 BĘDĘ ŚPIEWAŁ TOBIE</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Będę śpiewał Tobie, mocy moja<br/>Ty Boże jesteś mą nadzieją,<br/>Tobie ufam i bać się nie będę.</lines>
+    </verse>
+  </lyrics>
+</song>

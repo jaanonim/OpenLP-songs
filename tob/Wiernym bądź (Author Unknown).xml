@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:44">
+  <properties>
+    <titles>
+      <title>Wiernym bądź</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="276"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wiernym bądź, wiernym bądź do ostatnich<br/>życia dni prawdzie Bożej bez szemrania!<br/>Zbawca dał Swe słowo ci: Dołóż chęci i starania,<br/>byś szczęśliwym zdołał przezeń być,<br/>w niebie żyć, w niebie żyć.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Światłem jest, światłem jest, bo oświeca cały świat<br/>Ewangelii słowa święte, stale trwa w przeciągu lat<br/>i dodaje nam zachęty do kszatł-cenia nieśmiertelnych<br/>dusz, naszych dusz, naszych dusz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Boski głos, boski głos niech ożywia duszę twą<br/>i podnieca płomień wiary, byś chęć wszelką w sobi<br/>zła stłumił jej świętymi dary i zachował czystość<br/>duszy twej, w doli złej, w doli złej.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Uzbrój się, uzbrój się Mocą Prawdy Bożych słów,<br/>przed obłudą tego świata z otwartością prawdę mów,<br/>nie łudź błędem twego brata, słów Chrystusa zawsze<br/>silnie broń; kłamstw się chroń, kłamstw się chroń!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kornie znoś, kornie znoś ciężki życia tego trud!<br/>Nie dajże się zachwiać w cnocie!<br/>Bóg Swój wierny wspiera lud, gdy pracuje w<br/>czoła pocie i przestrzega Jego świętych prawd.<br/>Boże nasz, lud Twój zbaw!</lines>
+    </verse>
+  </lyrics>
+</song>

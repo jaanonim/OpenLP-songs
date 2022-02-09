@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:15">
+  <properties>
+    <titles>
+      <title>Chwała Ojcu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="259"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chwała Ojcu! Cześć Synowi!<br/>Duchu Święty, dzięki,<br/>żeś Panem jest...<br/>Chwała Ojcu! Cześć Synowi!<br/>Duchu Święty, dzięki,<br/>żeś Panem jest mym!</lines>
+    </verse>
+  </lyrics>
+</song>

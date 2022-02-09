@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:41">
+  <properties>
+    <titles>
+      <title>Wieść ciche z Bogiem życie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="240"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wieść ciche z Bogiem życie, obcować tylko z Nim<br/>i Jemu całkowicie poświęcić pragnąłbym.<br/>On da spoczynek błogi, do bujnych wiedzie pasz;<br/>Mnie już nie trwożą wrogi, gdy przy mnie Pańska straż.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zamilknąć ma stworzenie, gdy Pan przybliża się,<br/>bo wieczne z Nim spojenie ma dusza święcić chce.<br/>Niebieski pokój wionie z głębiny duszy mej,<br/>gdzie się codziennie chronię, zamknąwszy serca drzwi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kto z Panem chce obcować, ten musi w siebie wnijść,<br/>i duszę swą pochować i cięgle czujnym być!<br/>Twój Jezus niech jedynie rozkoszą będzie twą,<br/>a wtedy w sercu zginie próżności ziemskiej zło.</lines>
+    </verse>
+  </lyrics>
+</song>

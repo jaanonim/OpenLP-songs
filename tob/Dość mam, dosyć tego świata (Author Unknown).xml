@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:52">
+  <properties>
+    <titles>
+      <title>Dość mam, dosyć tego świata</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="648"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dość mam, dosyć tego świata,<br/>Chcę u Boga wiecznie być;<br/>Tam spokojne będą lata,<br/>Dusza będzie błogo żyć.<br/>Świecie, w tobie marność, bój,<br/>Nędza, niebezpieczeństw rój;</lines>
+    </verse>
+    <verse name="c1">
+      <lines>W niebie zaś jest pocieszenie,<br/>Pokój, radość i zbawienie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy tam kiedyś się dostanę<br/>Na Twe łono, Boże mój,<br/>Tam boleści czuć przestanę,<br/>Troski, ciężar złożę swój.<br/>W świecie pełno bied i trwóg,<br/>Żalu, niebezpiecznych dróg;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cóż jest rozkosz świata tego?<br/>Mgła i dym - znikomy świat!<br/>Kto dziś wesół z szczęścia swego,<br/>Jutro w nędzę śmierci wpadł.<br/>Świecie, w tobie marność, bój,<br/>Nędza, niebezpieczeństw rój;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Aniołowie i zbawieni<br/>Wyśpiewują Bożą cześć,<br/>Ludzie grzechem omamieni<br/>Nie chcą Bogu chwały nieść.<br/>Pełny błędów, pokus, zdrad,<br/>Nieprawości jest ten świat;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Przetoż w górę, myśli moje,<br/>Tam do nieba wznoście się;<br/>Duszo, obierz cnoty stroje,<br/>Grzechy, odstępujcie mię!<br/>Świecie, tobie odpór dam,<br/>Bo ja w tej ufności trwam,<br/>Że jest w niebie pocieszenie,<br/>Pokój, radość i zbawienie.</lines>
+    </verse>
+  </lyrics>
+</song>

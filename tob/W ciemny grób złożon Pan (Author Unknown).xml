@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:52">
+  <properties>
+    <titles>
+      <title>W ciemny grób złożon Pan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="437"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W ciemny grób złożon Pan drogi Zbawiciel,<br/>wiernych żal serca rwał, lecz dobry Mistrz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Trzeciego dnia zmartwychwstał,<br/>tak zwycięsko brzmiała wszędzie wieść<br/>Pan nasz żyje, już przed światłem niknie noc,<br/>Król nasz żyje chwałę dajmy Mu i cześć<br/>Zmartwychwstał, zmartychwstał Alleluja,<br/>zmartwychwstał</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Próżno tam zbrojna straż czuwa nad grobem,<br/>lśniąca anioła twarz strwożyła ją.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Trzeciego dnia zmartwychwstał,<br/>tak zwycięsko brzmiała wszędzie wieść<br/>Pan nasz żyje, już przed światłem niknie noc,<br/>Król nasz żyje chwałę dajmy Mu i cześć<br/>Zmartwychwstał, zmartychwstał Alleluja,<br/>zmartwychwstał</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Śmierci, gdzież twoja moc? Gdzie piekła groźba?<br/>Ciemna minęła noc, żyje nasz Pan.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Trzeciego dnia zmartwychwstał,<br/>tak zwycięsko brzmiała wszędzie wieść<br/>Pan nasz żyje, już przed światłem niknie noc,<br/>Król nasz żyje chwałę dajmy Mu i cześć<br/>Zmartwychwstał, zmartychwstał Alleluja,<br/>zmartwychwstał</lines>
+    </verse>
+  </lyrics>
+</song>

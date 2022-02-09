@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:54">
+  <properties>
+    <titles>
+      <title>Maleńką jam dzieciną jest</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="481"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Maleńką jam dzieciną jest i<br/>sił mi wielkich brak,<br/>// A jednak chcę do nieba przyjść,<br/>lecz nie wiem, nie wiem jak! //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ach, miły Jezu powiedz mi,<br/>cóż ja mam począć, co,<br/>// By w sercu mym nie mieszkał<br/>grzech, by znaleźć łaskę Twą? //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tyś, Zbawicielu, kiedyś też<br/>Dziecięciem małym był<br/>// I drogą mnie kupiłeś krwią,<br/>bym z Tobą w niebie żył. //</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, jakże się wywdzięczę Ci,<br/>mój miły Jezu, radź!<br/>// Czym rozraduję serce<br/>Twe i cóż Ci mogę dać? //</lines>
+    </verse>
+    <verse name="v5">
+      <lines>U Twoich wszystko kładę nóg,<br/>o, wszystko, wszystko dam.<br/>// Weź, Jezu, serce moje, weź i<br/>z grzechów oczyść Sam! //</lines>
+    </verse>
+  </lyrics>
+</song>

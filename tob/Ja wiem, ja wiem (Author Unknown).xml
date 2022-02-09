@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:28">
+  <properties>
+    <titles>
+      <title>Ja wiem, ja wiem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="260"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ja wiem, ja wiem, że Pan mój zmartwychwstał.<br/>Ja wiem, ja wiem On życie mi dał.<br/>Ja wiem, ja wiem, że Jezus mój żyje.<br/>Ja wiem, ja wiem więc wielbić Go chcę.<br/>Dzięki Jezu, dzięki Jezu<br/>/ Ja żyję bo On /x4<br/>Ja żyję bo On zmartwychwstał.</lines>
+    </verse>
+  </lyrics>
+</song>

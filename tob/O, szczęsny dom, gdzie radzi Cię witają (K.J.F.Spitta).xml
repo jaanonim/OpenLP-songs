@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:52">
+  <properties>
+    <titles>
+      <title>O, szczęsny dom, gdzie radzi Cię witają</title>
+    </titles>
+    <authors>
+      <author type="words">K.J.F.Spitta</author>
+      <author type="music">K.J.F.Spitta</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="644"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, szczęsny dom, gdzie radzi Cię witają,<br/>Mój Jezu, który koisz ból i łzy!<br/>Gdzie z pośród wszystkich gości, co wstęp mają,<br/>Czczony najwięcej i najmilszyś Ty!<br/>Gdzie serca wciąż dla Ciebie uderzają,<br/>Gdzie wszystkich w Ciebie skierowany wzrok,<br/>A słowo Twe za swą pochodnię mają,<br/>Na Twe skinienie robią każdy krok.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, szczęsny dom, gdzie męża łączy z żoną<br/>Społeczność z Tobą, jednej wiary duch;<br/>Ich serca Twoją gorliwością płoną,<br/>Nie mając w wierze różnic ni zdań dwóch;<br/>Gdzie ufność w Tobie tylko pokładają<br/>W radosnych, jak i w ciężkich życia dniach,<br/>I słowa Twego wiernie się trzymają,<br/>Choćby niedola weszła pod ich dach.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, szczęsny dom, gdzie już malutkie dzieci<br/>Modlitwy slą przed tron niebieski Twój;<br/>Gdzie w sercu ich ku Tobie miłość nieci<br/>Rodziców głos, o Panie Jezu mój!<br/>Gdzie one się u Twoich nóg zbierają,<br/>Gotowe słuchać Boskich nauk Twych,<br/>I wcześnie już Twą dobroć wysławiają,<br/>Że raczysz je od dróg ochraniać złych.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, szczęsny dom, gdzie zna Cię służba cała,<br/>A wiedząc, iż Ty wszędzie dojrzysz ją,<br/>Przy każdej pracy gorliwością pała,<br/>Chcąc postępować zgodnie z wolą Twą;<br/>Gdzie z obowiązków swych się wywiązuje<br/>Wiernie i pilnie, jak przykazał Bóg,<br/>I chętnie każdą pracę wykonuje. -<br/>Szczęśliwy dom, gdzie takich znajdziesz sług.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O, szczęsny dom, gdzie każdą radość dzielisz,<br/>Gdzie wśród radości wspominają Cię!<br/>Gdzie w smutku wszystkich cieszysz i weselisz,<br/>Gdzie rany goisz i osuszasz łzy,<br/>Dopóki życia wpośród świata znoju,<br/>Póki nie będzie kresu naszym dniom,<br/>Póki nie wejdziem po skończonym boju<br/>Do chwały w piąkny, wielki Ojca dom.</lines>
+    </verse>
+  </lyrics>
+</song>

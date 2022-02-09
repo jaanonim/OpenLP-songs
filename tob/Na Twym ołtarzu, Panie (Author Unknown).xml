@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:20">
+  <properties>
+    <titles>
+      <title>Na Twym ołtarzu, Panie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="76"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na Twym ołtarzu, Panie,<br/>W ofierze spłonąć chcę;<br/>Najwyższy mój Kapłanie,<br/>Poświęcam Tobie się.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, zapal Twą ofiarę!<br/>Patrz, Panie, czekam Cię!<br/>Pragnę, błagam, czekam -<br/>Chrztem ognia ochrzcij mię!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Zbawco niezmożony,<br/>Wieczysty zdroju łask,<br/>Kiedyż to chmur osłony<br/>Twej chwały przerwie blask?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ognistym Ducha deszczem<br/>Spragnione serca zroś;<br/>Wszak to Twa obietnica.<br/>Niech przyjdzie zacny Gość!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Przekleństwo grzechu zdjęła<br/>Twa krwawa ze mnie śmierć;<br/>Dziś ważność tego dzieła<br/>Pieczęcią Ducha stwierdź!</lines>
+    </verse>
+  </lyrics>
+</song>

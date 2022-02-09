@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:18">
+  <properties>
+    <titles>
+      <title>Z żądnością czekałem na Pana</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="25"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z żądnością czekałem na Pana w zły los,<br/>On skłonił się ku mnie, wysłuchał mój głos,<br/>Wyciągnął mię z dołu szumiącego Pan<br/>I z błota lgnącego obmył krwią Swych ran</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ty mię ratujesz ze wszelkich trwóg,<br/>Tyś mój najwyższy, wszechmocny Bóg;<br/>Z chwałą wyznawać chcę imię Twe,<br/>Bądź Tobie cześć, alleluja!<br/>Alleluja, alleluja! Jezusową drogą krew<br/>Czci serca mego śpiew! Alleluja, alleluja!<br/>Jezus wieczną chlubą mą, alleluja</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na skale postawił mój Pan nogi me,<br/>Utwierdził, posilił On Sam kroki mdłe,<br/>A w usta me włożył pieśń nową dla chwał.<br/>Obaczcie to wszyscy, co mi Jezus dał!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Do tchu ostatniego tę pieśń śpiewać chcę,<br/>O ziemio, o niebo, słuchajcie wy mię!<br/>Niech leci wiadomość ta na wszystek świat,<br/>Że Jezus przyjmuje grzesznych, zbawia rad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I jam był zgubiony, lecz znalazł mię Pan,<br/>Przez Niego korona i pierścień mi dan,<br/>Więc odtąd uwielbiam, wysławiam Go już,<br/>A wkrótce Go w górze będę wielbił wciąż.</lines>
+    </verse>
+  </lyrics>
+</song>

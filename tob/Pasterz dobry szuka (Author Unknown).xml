@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:56">
+  <properties>
+    <titles>
+      <title>Pasterz dobry szuka</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="730"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pasterz dobry szuka<br/>Biedną owcę Swą,<br/>Wszak bez Niego zginie,<br/>On miłuje ją.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Szuka cię, szuka,<br/>Szuka cię, szuka,<br/>Pragnie, grzeszniku,<br/>zbawić cię. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Z mroku i ciemności<br/>Wrócił biedny syn,<br/>Pełen nieprawości,<br/>Pełen grzechów, win!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Brudne, zdarte szaty,<br/>Ojciec z syna zdjął,<br/>Włożył lśniąco białe,<br/>Sprawiedliwość Swą.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ojciec cię zaprasza,<br/>Dzielże radość z Nim:<br/>Wrócił już zgubiony!<br/>Zmartwychpowstał syn!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:18">
+  <properties>
+    <titles>
+      <title>Chwalcie Boga, o chrześcijanie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="34"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chwalcie Boga, o chrześcijanie,<br/>Boga z wysokości!<br/>Dziecię Jego i kochanie<br/>/ Między nami gości. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wszystkiej chwały się wyrzeka,<br/>Do prostaczków idzie;<br/>Bierze postać niewolnika,<br/>/ By zaradzić biedzie. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To latorośl Dawidowa,<br/>Chwała domu jego;<br/>Przezeń wzniosła się budowa<br/>/ Kościoła Bożego. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dziwnie się zamienia z nami:<br/>Krew i ciało bierze,<br/>Chce Bożymi nas dziatkami<br/>/ Wszystkich mieć we wierze. /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Względem nas się sługą staje;<br/>Co to za przemiany!<br/>Wszystko z łaski Swej nam daje<br/>/ Jezus nasz kochany. /x2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dziś nam znowu drzwi otwiera<br/>Do królestwa Swego;<br/>Już się Cherub nie opiera -<br/>/ Chwalmyż Przedwiecznego! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

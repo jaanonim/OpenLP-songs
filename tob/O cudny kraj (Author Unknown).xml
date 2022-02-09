@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:49">
+  <properties>
+    <titles>
+      <title>O cudny kraj</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="576"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O cudny kraj, gdzie nie ma burz,<br/>Gdzie władnie życie, światła moc,<br/>Gdzie kres przemocy, kajdan już<br/>I gdzie minęła wszelka noc.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ref.<br/>/ O nieś krzyż swój bez szemrania nieś /x2<br/>O nieś, o nieś swój krzyż cierpliwie Ty nieś!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W tym kraju nie ma mąk, ni łez.<br/>Tam życiu nic nie szkodzi już.<br/>Tam wszelkiej grozy, śmierci kres,<br/>W tym kraju uwieńczonych dusz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu życie tylko chwilkę trwa.<br/>Tam potem nieskończony wiek.<br/>Tam wszystko Tobie Jezus da,<br/>Gdy ziemskich prób dokończysz bieg.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>W nadziei bracie mężnie chodź,<br/>Pan nas w ojczysty wiedzie kraj.<br/>Ginącym tu rozgłaszaj wieść,<br/>Że jest w Jezusie pokój, raj.</lines>
+    </verse>
+  </lyrics>
+</song>

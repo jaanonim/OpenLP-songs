@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:29">
+  <properties>
+    <titles>
+      <title>Prostujcie ścieżki</title>
+    </titles>
+    <authors>
+      <author type="words">Graham Kendrick Ludmiła Rapanowicz</author>
+      <author type="music">Graham Kendrick Ludmiła Rapanowicz</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="530"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Prostujcie ścieżki, idzie Król,<br/>w Swej chwale przychodzi.<br/>Szeroko serce otwórz Mu<br/>i przyjmij Go.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Idzie już  Chrystus Pan,<br/>prostuj drogę swą.<br/>Miejsce Mu  w sercu zrób,<br/>niech króluje w sercu twym.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Złamane serca leczy Pan,<br/>uwalnia więźniów,<br/>Przywraca słuch, przywraca wzrok,<br/>a chromi chodzą.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Płaczących rozraduje Pan,<br/>uciszy westchnienia.<br/>Korony im na skronie da,<br/>a w usta śmiech.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oddajcie Jemu chwałę, cześć<br/>On Panem wszystkiego.<br/>Fałszywe bogi rzućcie precz!<br/>Bóg jeden jest!</lines>
+    </verse>
+  </lyrics>
+</song>

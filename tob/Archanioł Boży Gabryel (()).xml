@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:56">
+  <properties>
+    <titles>
+      <title>Archanioł Boży Gabryel</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Archanioł Boży Gabryel,<br/>Posłan do Panny Maryjej <br/>Z Majestatu Trójcy Świętej,<br/>Tak sprawował poselstwo k'Niej:<br/>Zdrowaś, Panno, łaskiś pełna,<br/>Pan jest z tobą, to rzecz pewna.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Panna się wielce zdumiała <br/>Z poselstwa, które słyszała; <br/>Pokorniuchno się skłoniła, <br/>Jako panna świątobliwa, <br/>Zasmuciła się z tej mowy, <br/>Nic nie rzekła Aniołowi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ale poseł z wysokości <br/>Napełnion  Boskiej mądrości, <br/>Rzekł jej: Nie bój się Maryja, <br/>Najszczęśliwszaś, Panno miła, <br/>Nalazłaś łaskę u Pana, <br/>Oto poczniesz Jego Syna.</lines>
+    </verse>
+  </lyrics>
+</song>

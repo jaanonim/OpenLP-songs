@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:55">
+  <properties>
+    <titles>
+      <title>Jest cichy port, duszo, czyś zapomniała?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="708"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jest cichy port, duszo, czyś zapomniała?<br/>- Przystań bezpieczna, gdzie możesz się skryć.<br/>Gdzie nie dosięgnie zatruta cię strzała,<br/>W Jezusa krwi możesz grzechy swe zmyć.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Wróć, biedny, wróć! /x2<br/>/ Wróć, biedny, wróć! /x2<br/>Wróć, biedny wróć!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wróć do przystani z tej strasznej krainy!<br/>Bracie, nie zwlekaj, bo straszny jest wróg!<br/>Jezus chce skruszyć twe więzy; twe winy<br/>Chce ci odpuścić w miłości Swej Bóg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wróć do przystani, twój Jezus miłuje<br/>Biednych, skruszonych grzeszników.<br/>Przyjdź Doń W serca pokorze.<br/>On ci ofiaruje Swoje zbawienie, podaje ci dłoń.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, jak mi błogo, już jestem w przystani,<br/>Troska nie dręczy, sumienie nie drży.<br/>Tu szatan grzechem mej duszy nie zrani,<br/>Ojciec zasłania, gdy grozi roi zły.</lines>
+    </verse>
+  </lyrics>
+</song>

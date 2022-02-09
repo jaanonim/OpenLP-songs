@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:22">
+  <properties>
+    <titles>
+      <title>Oj, maluśki, maluśki, mluśki</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="1019"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oj, maluśki, maluśki, maluśki,<br/>kieby rękawicka,<br/>Alboli tez jakoby, jakoby<br/>kawałecek smycka.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Śpiewajcież i grajcie Mu,<br/>Małemu, małemu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cy nie lepiej Tobie by, Tobie by<br/>siedzieć było w niebie?<br/>Dyć Twój Tatuś kochany, kochany<br/>nie wyganioł Ciebie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tam wciurnasa wygoda, wygoda,<br/>Biedaa tu bieda wsędzie;<br/>Ta Ci teraz dokuca, dokuca,<br/>ta i potem będzie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tam Ty miałeś pościółkę, pościółkę<br/>i miętkie piernatki.<br/>Tu na to Twej nie stanie, nie stanie<br/>ubożuchnej Matki.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tam kukiełki jadałeś, jadałeś<br/>z czarnuszką i z miodem;<br/>Tu się tylko zasilać, zasilać<br/>musis samym głodem.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tam pijałeś ceć jakie, ceć jakie<br/>słodkie małmazyje,<br/>Tu się Twoja gębusia, gębusia<br/>łez gorzkich napije.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Tam Ci zawsze służyły, służyły<br/>prześlicne janioły,<br/>a tu lezyś Sam jeden, Sam jeden<br/>jako palec goły.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Hej, co się więc takiego, takiego<br/>Tobie, Panie, stało,<br/>Żeć się na ten kiepski świat, kiepski świat<br/>przychodzić zechciało?</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Oj! gdybych ja jako Ty, jako Ty<br/>tam królował sobie,<br/>Nie chciałbym ja przenigdy, przenigdy<br/>w tym spoczywać żłobie.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Chociażby za pańszczyznę, pańszczyznę<br/>i chociażby pono<br/>Talar jeden i drugi, i drugi<br/>na rękę kładziono.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Albo się więc mój Panie, mój Panie<br/>wróć do Twej dziedziny,<br/>Albo się zanieść pozwól, zanieść pozwól<br/>do mej chałupiny.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Będziesz się tam miał z pyszna, miał z pyszna,<br/>jako miałeś w niebie.<br/>Mam ja mleka słodkiego, słodkiego<br/>garnuszek dla Ciebie.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:27">
+  <properties>
+    <titles>
+      <title>On za nasze cierpiał winy</title>
+      <title>He was pierced</title>
+    </titles>
+    <authors>
+      <author type="words">Maggie Dawn Ludmiła Rapanowicz</author>
+      <author type="music">Maggie Dawn Ludmiła Rapanowicz</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="484"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On za nasze cierpiał winy,<br/>zraniony został za nasz grzech.<br/>Niosąc pokój zmarł, był zdradzony,<br/>w Swych ranach dał zdrowie nam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Prowadzony był tak jak baranek,<br/>Swych ust nie otworzył nie skarżył się.<br/>Starty został za nasze występki<br/>i za nas zapłacił nasz dług.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tak jak owce z błędnych dróg,<br/>każdy z nas złą drogą szedł,<br/>lecz na Niego włożył Bóg,<br/>cały bezmiar win i nasz grzech.</lines>
+    </verse>
+  </lyrics>
+</song>

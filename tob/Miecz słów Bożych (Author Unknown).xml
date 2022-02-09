@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:31">
+  <properties>
+    <titles>
+      <title>Miecz słów Bożych</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="25"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Miecz słów Bożych nie jest ze stali,<br/>nieludzka ukuła go dłoń;<br/>przez niegośmy prawdę poznali,<br/>Przedwieczny sam stworzył tę broń.<br/>On ciału ludzkiemu nie szkodzi<br/>i bratniej nie leje on krwi,<br/>lecz w ludzką niewiarę on godzi<br/>i rajskie otwiera nam drzwi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy grzech nas pętami związuje,<br/>na wolność miecz wypuszcza znów.<br/>On drogę do prawdy toruje<br/>i życia osładza nam trud.<br/>Jak gromu groźnego pociskiem uderza<br/>on we wszelkie zło,<br/>ciemności rozprasza połyskiem,<br/>Ach cudowne jest Słowo to!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Więc bierzmy do ręki już świało<br/>i wznieśmy wysoko ten miecz,<br/>i walczmy choć nas jeszcze mało,<br/>nie wolno nam stać ni iść wstecz.<br/>Wnet mury Jerycha upadną,<br/>gdy Boży posłyszę tam głos,<br/>gdy moc Boża sercem owładnie,<br/>dla ducha ciemności to cios.</lines>
+    </verse>
+  </lyrics>
+</song>

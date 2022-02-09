@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:28">
+  <properties>
+    <titles>
+      <title>Znalazłem grunt, gdzie ma kotwica</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="233"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Znalazłem grunt, gdzie ma kotwica<br/>Na wieki niewzruszona tkwi:<br/>Jest nim Jezusa ran krynica,<br/>Stąd zdrój wytryska świętej krwi.<br/>Ten grunt na wieki będzie trwał,<br/>/ Choć i ten świat się będzie chwiał. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przepaści, w tobie utonęły<br/>Przez śmierć Chrystusa grzechy me.<br/>Tam sądu nie masz, zagoiły<br/>Wszelkie bolesne rany się.<br/>Pan za mnie przelał świętą krew<br/>/ I załagodził Boży gniew. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dopóki mieszkam na tej ziemi,<br/>Na gruncie tym ja będę stać;<br/>Za wszelką cenę wraz z wiernymi<br/>Przy Zbawcy swoim pragnę trwać.<br/>Rozbrzmiewać śpiew mój wiecznie ma:<br/>/ Miłości Boża, tyś bez dna! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:31">
+  <properties>
+    <titles>
+      <title>Jam na krzyżu Zbawcę znalazł</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="302"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jam na krzyżu Zbawcę znalazł,<br/>Wnet cierpienia pierzchły me,<br/>Scichły wsze pragnienia zaraz,<br/>Gdym na krzyż wzniósł oczy swe</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Słońce łaski swe promienie<br/>Śle w me serce każdy dzień;<br/>A gdzie miłość Jego płynie.<br/>Tam zanika wszelki cień.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dusza ma już wyzwolona,<br/>Grzechu moc nie władnie mną.<br/>Mój Wybawca te brzemiona<br/>Zdjął przebitą dłonią Swą.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Śmiem powierzyć Jezusowi<br/>Każdą troskę, smutek, znój,<br/>A wnet dotknie i uzdrowi,<br/>Wzmocni mnie Przyjaciel mój.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jaka radość, pokoj błogi<br/>Z krzyża Zbawcy spływa mi!<br/>Alleluja, śmiem bez trwogi<br/>W blasku słońca spędzać dni.</lines>
+    </verse>
+  </lyrics>
+</song>

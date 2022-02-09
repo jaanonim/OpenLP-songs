@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:34">
+  <properties>
+    <titles>
+      <title>Pielgrzymem jestem tu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="102"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pielgrzymem jestem tu,<br/>i obcym mi ten kraj.<br/>Ojczyzna moja tam,<br/>gdzie jest niebieski raj.<br/>Zbawienną błogą wieść<br/>ja głoszę wam bez trwóg,<br/>bo tak rozkazał Pan i Bóg.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Słuchajcie jaka to jest wieść,<br/>zbawienie wieczne to jej treść.<br/>O, pojednajcież się, tak wzywa Pan i Bóg,<br/>jednajcież się wnet z Bogiem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rozkazał ludziom Bóg porzucić drogi złe.<br/>Gdy pragną z Bogiem żyć,<br/>On zmienia życie czcze.<br/>Pan Jezus szczerze chce<br/>przebaczyć ludziom dług,<br/>bo On łaskawy Pan i Bóg.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Słuchajcie jaka to jest wieść,<br/>zbawienie wieczne to jej treść.<br/>O, pojednajcież się, tak wzywa Pan i Bóg,<br/>jednajcież się wnet z Bogiem.</lines>
+    </verse>
+  </lyrics>
+</song>

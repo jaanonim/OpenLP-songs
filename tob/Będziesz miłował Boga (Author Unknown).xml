@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:13">
+  <properties>
+    <titles>
+      <title>Będziesz miłował Boga</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="122"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Będziesz miłował Boga<br/>Całym sercem swoim,<br/>A bliźniego swego<br/>Tak jak siebie samego.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miłuj Boga całym sercem swym,<br/>Ze wszystkich sił<br/>I z głębi duszy swojej</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bóg chce twoim życiem być<br/>On chce miłość swoją wielką dać<br/>Czyż trudno wziąć?<br/>Pamiętaj: Bóg miłością jest.</lines>
+    </verse>
+  </lyrics>
+</song>

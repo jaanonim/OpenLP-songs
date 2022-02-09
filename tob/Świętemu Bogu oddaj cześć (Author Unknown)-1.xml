@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:37">
+  <properties>
+    <titles>
+      <title>Świętemu Bogu oddaj cześć</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="79"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Świętemu Bogu oddaj cześć<br/>Dziękczynną w sercu śpiewaj pieśń<br/>Jezusa Syna swego<br/>Bóg darował nam / 2x</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/W Nim słaby mocnym staje się<br/>Biedny niechaj wyzna,<br/>że bogatym jest<br/>Gdyż wszystko dał Mu Pan/2x<br/>Dał Pan.</lines>
+    </verse>
+  </lyrics>
+</song>

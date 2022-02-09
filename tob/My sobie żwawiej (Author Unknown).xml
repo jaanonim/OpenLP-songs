@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:47">
+  <properties>
+    <titles>
+      <title>My sobie żwawiej</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="334"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My sobie żwawiej z każdym dniem złociste<br/>w polu kłosy tniem, gromadzim Panu<br/>hojny plon, bo go wykupił drogo On.<br/>A w migocących sierpów brzęk miesza się<br/>rześkiej pieśni dźwięk, Pan, co służymy<br/>teraz Mu, nas raczył wyrwać z grzechów snu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Patrzcie, pola białe wzdłuż, Mistrz do<br/>prac woła, choć i ręce mdleją już,<br/>pot się leje z czoła, szybko mija żniwa<br/>czas, wkrótce król zawezwie nas,<br/>wkrótce, wkrótce Król zawezwie nas!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ochoczo żniemy cały dzień, wśród nas<br/>nie będzie nigdy leń, bo jeszcze pól<br/>rozległy szlak, a robotników wielce brak.<br/>Dojrzały zwisa wkoło kłos, jak starca<br/>srebrnobiały włos, a zawsze czyha chytry<br/>wróg, by gdzie co skraść i zniszczyć mógł.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Patrzcie, pola białe wzdłuż, Mistrz do<br/>prac woła, choć i ręce mdleją już,<br/>pot się leje z czoła, szybko mija żniwa<br/>czas, wkrótce król zawezwie nas,<br/>wkrótce, wkrótce Król zawezwie nas!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Przeminą żniwa prędko już, wnet gumna<br/>wieczne pełne zbóż, więc chwyćmy sierpy<br/>z całych sił, by w porę łan zeżęty był.<br/>Korona złota świeci nam, spoczniemy błogo<br/>w niebie tam, gdzie z Panem już po<br/>wszystek czas dożynki święcić będziem wraz.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Patrzcie, pola białe wzdłuż, Mistrz do<br/>prac woła, choć i ręce mdleją już,<br/>pot się leje z czoła, szybko mija żniwa<br/>czas, wkrótce król zawezwie nas,<br/>wkrótce, wkrótce Król zawezwie nas!</lines>
+    </verse>
+  </lyrics>
+</song>

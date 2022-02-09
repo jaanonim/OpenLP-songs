@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:39">
+  <properties>
+    <titles>
+      <title>Stwórz serce czyste we mnie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Stwórz we mnie serce czyste, o Boże mój<br/>Ducha wiary odnów we mnie dziś /x2<br/>Nie odrzucaj mnie od oblicza Swego<br/>I nie zabieraj mi Ducha Świętego<br/>Przywróć radość mi z wybawienia Twego<br/>Ducha wiary odnów we mnie dziś</lines>
+    </verse>
+  </lyrics>
+</song>

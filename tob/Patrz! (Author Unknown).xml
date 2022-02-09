@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:53">
+  <properties>
+    <titles>
+      <title>Patrz!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="446"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Patrz! Głowa Zbawcy cierniem uwieńczona,<br/>boleści pełna, pełna cierpień srogich.<br/>Ta święta głowa cała krwią zbroczona wśród<br/>szyderstw wielu i uragań mnogich.<br/>O, Chryste Jezu, pełen czci i sławy,<br/>ku Tobie zwracam wzrok mój tęskny, łzawy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dlaczegóż, Panie, święte Twoje lica w<br/>niegodny sposób były zbezczeszczone?<br/>I smutno patrzą Twoich ócz źrenice?<br/>Boleści łzami czemu napełnione?<br/>Dlaczegóż, Jezu, któryś był bez zmazy,<br/>znać na Twej twarzy biczowania razy?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ach! za mnie, za mnie, znosisz te cierpienia,<br/>za moi e grzechy, za to, żem Twym wrogiem.<br/>Ty bierzesz na się moje przewinienia.<br/>Ród ludzki grzeszny, Ty go jednasz z Bogiem.<br/>Com ja zawinił, znosisz bez szemrania,<br/>o, wielkie dzieło Twego pojednania!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy tak spoglądam na Cię, Zbawicielu,<br/>Ty spojrzyj na mnie wzrokiem Twej litości.<br/>Za Swego uznaj, dusz odkupicielu, i obdarz<br/>łaską z Swej szczodrobliwości.<br/>O, Jezu Chryste, wieczny dusz Pasterzu,<br/>Ty mnie zachowaj w świętym Swym Przymierzu.</lines>
+    </verse>
+  </lyrics>
+</song>

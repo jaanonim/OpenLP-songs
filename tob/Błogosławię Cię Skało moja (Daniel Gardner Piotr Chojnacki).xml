@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:15">
+  <properties>
+    <titles>
+      <title>Błogosławię Cię Skało moja</title>
+    </titles>
+    <authors>
+      <author type="words">Daniel Gardner Piotr Chojnacki</author>
+      <author type="music">Daniel Gardner Piotr Chojnacki</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="40"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Błogosławię Cię, Skało moja!<br/>Jesteś twierdzą mą i mym zbawieniem,<br/>bowiem Bóg po stronie mej jest<br/>i zwycięzcą On mnie uczynił,<br/>Błogosławię Cię skało moja!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Błogosławię Cię // (x2)<br/>Błogosławię Cię //  (x2)<br/>Błogosławię Cię skało moja!</lines>
+    </verse>
+  </lyrics>
+</song>

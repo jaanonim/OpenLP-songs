@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:00">
+  <properties>
+    <titles>
+      <title>Za radość życia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="107"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Za radość życia, Jezusowi dzięki ślę,<br/>Bo zawsze rano, czy wieczorem cieszę się<br/>Pan Jezus przyjacielem moim dziś się stał,<br/>I taką samą radość dać ci chce.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Więc przyjmij Jezusa do swego serca dziś<br/>I śpiewaj z nami uwielbienia wdzięczną pieśń<br/>I wiedz to, że Pan Jezus daje radość ci,<br/>Bo szczęście ludzi w Zbawicielu tkwi.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:22">
+  <properties>
+    <titles>
+      <title>Golgoty to szczyt</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="105"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Golgoty to szczyt, gdzie hańby stał krzyż.<br/>Tam Jezus się przybić dał, by winy me zmyć,<br/>Bym wiecznie z nim żył.<br/>Zbawiciel, Król pień i chwał.<br/>Golgocki ten krzyż, pociąga mnie wzwyż.<br/>Tam zgasł Jezus mój, za mnie tocząc bój.<br/>Tam Sędzia i Pan przed sąd poszedł sam,<br/>Bym wieczne zbawienie miał.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Z ufnością na krzyż spojrzałem<br/>Wśród bied i pokój znalazłem tam.<br/>Więc odtąd już z Nim przybliżać się<br/>miem do Ojca, do niebios bram.<br/>Golgocki ten krzyż pociąga mnie wzwyż.<br/>Tam Pan z niebem świat pojednał, mur padł.<br/>Odwieczny tam blask miłości i łask,<br/>Jaśnieje i świeci nam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Grzesznikom wszech ziem, wszechczasów<br/>Ten krzyż z litości darował Bóg.<br/>Bo balsam dla ran otrzyma wnet tam,<br/>Kto zwróci na krzyż swój wzrok.<br/>Golgocki ten krzyż pociąga mnie wzwyż,<br/>Bo bliskim jest tam w miłości swej Pan.<br/>On ciszą wśród burz, pokojem dla dusz.<br/>Pod krzyżem jest niebios próg.</lines>
+    </verse>
+  </lyrics>
+</song>

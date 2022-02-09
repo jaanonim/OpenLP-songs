@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:48">
+  <properties>
+    <titles>
+      <title>W górę serca, ludu Boży</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="559"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W górę serca, ludu Boży,<br/>W górę serca, w górę wzrok!<br/>Świat nie złamie, nie zatrwoży<br/>Nigdy rzeszy Pańskich sług.<br/>Niech się wściekłe fale pienią,<br/>Niech zaszumi głębia wód,<br/>Zbawca skinie, a w strapieniu<br/>Wnet ujrzymy Boży cud.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nad górami już Syjonu<br/>Wstają blaski złotych zórz,<br/>Już nadzieje wielkie płoną<br/>I do naszych płyną dusz.<br/>Wiecznej chwały ślubny wieniec<br/>Przyozdobi wiernych skroń;<br/>Idzie w blaskach Oblubieniec,<br/>Idzie na weselną błoń.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wybawieni Pańscy stoją<br/>Zgromadzeni z wszystkich stron,<br/>Aniołowie harfy stroją,<br/>Obstępując Boży tron,<br/>Starcy trony opuścili,<br/>Usta pełne wiecznych pień;<br/>Zajaśnieje w każdej chwili<br/>Sławny i zwycięski dzień.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Słońce gaśnie, moc swą traci,<br/>Gwiazdy lecą, ziemia drży.<br/>Zapląsajcie, Boże dzieci,<br/>Odkupienie zbliża się!<br/>Świat z boleścią, z krzywdy swymi<br/>Minie, jak okropny sen,<br/>Nad górami nowej ziemi<br/>Wieczny świta dla nas dzień.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:59">
+  <properties>
+    <titles>
+      <title>Dzień po dniu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="75"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dzień po dniu, dla każdej nowej chwili,<br/>Nowych sił udziela mi mój Bóg.<br/>Wiem, że Ojciec dziecię swe posili,<br/>Żyję więc bez obaw i bez trwóg.<br/>Ten, którego miłość nie ma granic,<br/>Wie najlepiej, co ma komu dać.<br/>Ból zmieszany jest z radości łzami<br/>Znój i trud, spoczynek błogi ma.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dzień po dniu, mój Pan jest zawsze ze mną,<br/>Gotów wciąż udzielać nowych łask.<br/>On rozjaśnia moją dolę ciemną.<br/>W burzy czas posyła słońca blask.<br/>Bóg obiecał nad swym dzieckiem czuwać<br/>Wiernie też zadanie spełnia swe.<br/>Obietnica Jego, strach usuwa,<br/>Z każdym dniem posilę siły twe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pomóż mi w doświadczeń ciężką chwilę,<br/>Obietnicom Panie ufać Twym.<br/>Daj zachować w sercu wiary tyle,<br/>By nie zachwiać się w tym świecie złym.<br/>Spraw, bym mógł pokornie z ręki Twojej<br/>Przyjąć każdą z przeznaczonych dróg,<br/>Dzień po dniu, przez radość trud i znoje,<br/>Aż osiągnę wreszcie niebios próg.</lines>
+    </verse>
+  </lyrics>
+</song>

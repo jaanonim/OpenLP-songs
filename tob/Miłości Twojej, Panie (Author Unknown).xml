@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:35">
+  <properties>
+    <titles>
+      <title>Miłości Twojej, Panie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="37"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Miłości Twojej Panie nasz<br/>I łaski Twej nie pojmie nikt.<br/>Przyjdź, otwórz oczy nasze dziś<br/>I oświeć wszystkich nas<br/>Twoją prawdą niezmienną na wieki<br/>Utwierdź w wierze nas.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ty Panie tak miłujesz świat<br/>Że swego Syna dałeś by<br/>Za ludzki grzech na krzyżu zmarł<br/>I dał nam poznać Cię,<br/>Twoją prawdę niezmienną na wieki<br/>I wielką miłość Twą.</lines>
+    </verse>
+  </lyrics>
+</song>

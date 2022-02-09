@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:08">
+  <properties>
+    <titles>
+      <title>Słońce zaszło</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="70"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Słońce zaszło,<br/>dzień się skończył cichną dźwięki.<br/>Tobie. Boże mój i Panie składam dzięki.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>{:Alleluja, alleluja, alleluja.:}</lines>
+    </verse>
+  </lyrics>
+</song>

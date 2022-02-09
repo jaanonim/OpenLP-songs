@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:34">
+  <properties>
+    <titles>
+      <title>Żyje mój Pan</title>
+    </titles>
+    <authors>
+      <author type="words">Adam Sawicki</author>
+      <author type="music">Adam Sawicki</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="812"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Żyje mój Pan (żyje mój Pan)<br/>Żyje mój Pan (żyje mój Pan)<br/>Żyje mój Pan (żyje mój Pan)<br/>Na wieki już (na wieki już)<br/>Żyje Pan (Żyje Pan)<br/>na wieki już (na wieki już)<br/>A Imię Jego (Jego)<br/>Jezus.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jemu będę śpiewał  nową pieśń<br/>Bo mam życie w Nim<br/>Innym ludziom głosić chcę.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nigdy więcej nie umrę<br/>Nigdy więcej nie zginę<br/>Bo Pan, Bo Pan umarł za mnie<br/>Nigdy więcej nie będę<br/>W niewoli własnego grzechu<br/>Bo Pan, bo Pan mnie uwolnił.</lines>
+    </verse>
+  </lyrics>
+</song>

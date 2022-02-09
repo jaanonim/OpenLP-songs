@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:50">
+  <properties>
+    <titles>
+      <title>244 W drogę z najmi</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.W drogę z nami wyrusz Panie,<br/>Nam nie wolno w miejscu stać.<br/>Gdy zbłądzimy, podaj rękę,<br/>Gdy upadniemy, pomóż wstać.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ref: I do Serca swego prowadź, Prowadź nas.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.Zabierz smutek, przywróć radość,<br/>Osłabionym dodaj sił.<br/>Byśmy innym nieść pomogli,<br/>Ciężar krzyża przez ten świat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3.Poprzez piachy, ostów kolce,<br/>Z nami idź do niebios bram.<br/>Po pustyniach zabłąkanym,<br/>Wody swojej zechciej dać.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4.Gdy do Pana odejdziemy,<br/>Niech nie płacze po nas nikt.<br/>Bo my przecież z Nim być chcemy,<br/>W Jego chwale wiecznie żyć.</lines>
+    </verse>
+  </lyrics>
+</song>

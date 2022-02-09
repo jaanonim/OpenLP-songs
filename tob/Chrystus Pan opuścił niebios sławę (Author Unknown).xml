@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:22">
+  <properties>
+    <titles>
+      <title>Chrystus Pan opuścił niebios sławę</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="102"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chrystus Pan opuścił niebios sławę<br/>I przyszedł na świat, by zbawić nas.<br/>Wieniec z ciernia ranił Jego głowę,<br/>Niósł na krzyż ciężar naszych win i zmaz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>On teraz żyje w sławie Swej,<br/>Bo śmierć zwyciężył,<br/>grzech, szatana moc;<br/>I czeka, bym na ziemi tej<br/>Dla Niego żył w dzień i noc.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On wstał z martwych,<br/>jak zwycięzca sławny<br/>I będzie nim już po wszystek czas.<br/>On Sam przyjdzie<br/>spełnić ślub Swój dawny,<br/>By wziąć z tej ziemi<br/>wszystkich Swoich wraz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pójdź Doń, duszo,<br/>coś przez grzech związana,<br/>Z rąk Jego zbawienie, pokój bierz!<br/>I za ciebie święta krew przelana,<br/>Chodź więc Doń<br/>i w moc śmierci Jego wierz!</lines>
+    </verse>
+  </lyrics>
+</song>

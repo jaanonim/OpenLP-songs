@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:54">
+  <properties>
+    <titles>
+      <title>Chodźże do źródła żywota</title>
+    </titles>
+    <authors>
+      <author type="words">F.J.Crosby</author>
+      <author type="music">F.J.Crosby</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="703"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chodźże do źródła żywota,<br/>Ty, coś już opadł z swych sił!<br/>Ono w zmęczeniu pokrzepi.<br/>Będziesz radośnie znów żył!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nie zwlekaj, dąż!<br/>Idź naprzód wciąż!<br/>Tam nie zabrudzisz już<br/>Bieli swych szat.<br/>Tutaj jest źródło żywota,<br/>Do tego celu śpiesz rad!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chodźże do źródła żywota,<br/>Skieruj do niego swój bieg!<br/>Tu będziesz z grzechu zwolniony,<br/>Tu będziesz bielszy nad śnieg!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chodźże do źródła żywota,<br/>A z czystych wód jego pij!<br/>Patrz, jak się mienią te wody,<br/>Napij się i wiecznie żyj.</lines>
+    </verse>
+  </lyrics>
+</song>

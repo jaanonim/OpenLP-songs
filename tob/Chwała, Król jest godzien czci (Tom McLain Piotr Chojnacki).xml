@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:16">
+  <properties>
+    <titles>
+      <title>Chwała, Król jest godzien czci</title>
+      <title>Glory, Glory to the King</title>
+    </titles>
+    <authors>
+      <author type="words">Tom McLain Piotr Chojnacki</author>
+      <author type="music">Tom McLain Piotr Chojnacki</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Chwała, Chwała Król jest godzien czci,<br/>Chwała, Chwała Król jest godzien czci.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kto jest tym Królem Chwały?<br/>Tym Królem Chrystus Pan.<br/>Wywyższony ponad wszystko<br/>na ziemi jest,<br/>Jego Imię głośno brzmi.</lines>
+    </verse>
+  </lyrics>
+</song>

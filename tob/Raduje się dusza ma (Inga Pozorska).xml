@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:14">
+  <properties>
+    <titles>
+      <title>Raduje się dusza ma</title>
+    </titles>
+    <authors>
+      <author type="words">Inga Pozorska</author>
+      <author type="music">Inga Pozorska</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="563"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Raduje się dusza ma, wielbi Pana swego<br/>Będę Ci śpiewał z całej siły.<br/>Sławić Cię będę za Twe dzieła<br/>Będę Ci śpiewał z całej siły.<br/>Błogosławić będę Twoje Imię<br/>Jest miłosierny Pan Zastępów<br/>Moc Jego ramienia nad swym ludem<br/>Pan mój Zbawca</lines>
+    </verse>
+  </lyrics>
+</song>

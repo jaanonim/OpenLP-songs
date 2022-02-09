@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:40">
+  <properties>
+    <titles>
+      <title>Niechaj w sercach radość płonie</title>
+    </titles>
+    <authors>
+      <author type="words">J.A. Reitz</author>
+      <author type="music">J.A. Reitz</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="454"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niechaj w sercach radość płonie,<br/>Niech wdzięcznością zawsze tchną,<br/>Bo nas Bóg na Swoim łonie<br/>Nosi jako dziatwę Swą.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wciąż wesoło, wciąż tak błogo<br/>Słonko się uśmiecha nam!<br/>Kwieciem ozdobioną życia drogą<br/>Do niebieskich wkroczym bram.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dziwnie w gorzkim życia znoju<br/>Wiedzie nas Ojcowska dłoń,<br/>Łaską Swoją chroni w boju,<br/>W ręce silną daje broń.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy na błędne wejdziem drogi,<br/>Ciemna nas otoczy noc,<br/>Chwiać się muszą słabe nogi,<br/>Serca smutek musi zmóc.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sprawiedliwi zaś jaśnieją,<br/>Radość w duszy kwitnie im,<br/>Z nową pójdźmy więc nadzieją<br/>Służyć Bogu w świecie złym!</lines>
+    </verse>
+  </lyrics>
+</song>

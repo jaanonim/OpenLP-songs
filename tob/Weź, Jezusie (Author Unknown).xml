@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:49">
+  <properties>
+    <titles>
+      <title>Weź, Jezusie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="393"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Weź, Jezusie, życie me, w ręce Twe oddaję je!<br/>Weź mój czas i każdy dzień, do ostatnich życia tchnień.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oto ręce moje masz, gdzie Ci służyć mogę, wskaż!<br/>Oby również nogi me odnalazły drogi Twe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Weźmij także wargi me, niech me pieśni wielbią Cię,<br/>moich słów ożywczy zdrój niech buduje Kościół Twój.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Weźmij też majętność mą, możesz rozporządzać nią,<br/>użyj wszystkich moich sił, by Twój zamiar spełnion był.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Moją wolę w mocy miej, niech się podda woli Twej,<br/>weź me serce, Panie, weź i już tu w nim tron Swój wznieś!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Weź miłości mojej zdrój. Wszystkie rany serca zgój,<br/>abym kiedyś wiecznie miał w społeczności Twojej dział.</lines>
+    </verse>
+  </lyrics>
+</song>

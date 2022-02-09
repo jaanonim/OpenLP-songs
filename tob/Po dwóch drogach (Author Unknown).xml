@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:26">
+  <properties>
+    <titles>
+      <title>Po dwóch drogach</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="195"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Po dwóch drogach<br/>śpieszy ludzki ród<br/>W zgubę ciemną, albo w sławy gród,<br/>Aż się podróż ziemska skończy tam,<br/>U wieczności bram.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przez dwie bramy<br/>dusze mogą przejść,<br/>Ale ciasną tylko da się wejść Tam,<br/>gdzie ustał płacz i krzyk, i ból,<br/>Gdzie jest Jezus, Król!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Którąż drogą,<br/>człeku, kroczysz ty?<br/>Któraż brama cel wytyka ci?<br/>Czy się śpieszysz<br/>do syjońskich stron,<br/>Przed Baranka tron?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Na szerokiej<br/>włada śmierć i grzech,<br/>W sercu żałość, a na ustach śmiech;<br/>Kroczy po niej dusz<br/>zgubionych rząd<br/>W wieczną śmierć i sąd.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Duszo biedna,<br/>czy chcesz z nimi iść?<br/>Nadal jeszcze chcesz bez Boga żyć?<br/>Rozważ sobie,<br/>bo kres drogi tej,<br/>Miejsce zguby twej</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:02">
+  <properties>
+    <titles>
+      <title>Dzieci, jeszcześmy w podróży</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="825"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dzieci, jeszcześmy w podróży,<br/>Tam do nieba pięknych stron,<br/>Niech więc każdy wiernie służy,<br/>Przecież raj ten dał nam On.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chwała, chwała, Alleluja,<br/>Nieśmy Panu, póki czas,<br/>Dążmy z psalmy radosnymi<br/>Do ojczyzny wszyscy wraz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aby zawsze usta nasze<br/>Niosły szczere dzięki Mu,<br/>Gdyż tak często rzeczy przyszłe<br/>My już oglądamy tu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gębie, Jezu, wszak ujrzymy,<br/>Gdy się skończy życia bój;<br/>I do nóg Ci się rzucimy,<br/>Panie, przyjmij naród Twój!</lines>
+    </verse>
+  </lyrics>
+</song>

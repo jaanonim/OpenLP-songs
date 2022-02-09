@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:35">
+  <properties>
+    <titles>
+      <title>Stań wędrowcze</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="119"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Stań wędrowcze, na swej drodze,<br/>bacznym okiem popatrz w dal,<br/>bo na końcu twej wędrówki<br/>zawód czeka cię i żal.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bóg cię woła, wróć do Niego,<br/>błędną drogę grzechu rzuć,<br/>słysz wołanie Zbawcy swego,<br/>jeszcze dziś ku Niemu wróć.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dugoś szukał szczęścia w świecie,<br/>wciąż gubiłeś jego ślad,<br/>dzisiaj wiesz już dobrze przecie,<br/>że ci szczęścia me da świat.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Bóg cię woła, wróć do Niego,<br/>błędną drogę grzechu rzuć,<br/>słysz wołanie Zbawcy swego,<br/>jeszcze dziś ku Niemu wróć.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Inne szczęście czeka na cię,<br/>wolny będziesz od swych win,<br/>kiedy przyjmiesz co ci daje twój Zbawiciel,<br/>Boży Syn.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Bóg cię woła, wróć do Niego,<br/>błędną drogę grzechu rzuć,<br/>słysz wołanie Zbawcy swego,<br/>jeszcze dziś ku Niemu wróć.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ą. Pójdź, Bóg takie daje dary,<br/>jakich świat nie może dać;<br/>czemuż błądzić wśród bezdroży,<br/>czemu w swym uporze trwać?</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Bóg cię woła, wróć do Niego,<br/>błędną drogę grzechu rzuć,<br/>słysz wołanie Zbawcy swego,<br/>jeszcze dziś ku Niemu wróć.</lines>
+    </verse>
+  </lyrics>
+</song>

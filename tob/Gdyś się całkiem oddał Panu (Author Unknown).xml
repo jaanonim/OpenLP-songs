@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:29">
+  <properties>
+    <titles>
+      <title>Gdyś się całkiem oddał Panu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="260"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdyś się całkiem oddał Panu,<br/>Wtedy z ziarna wzrasta źdźbło;<br/>Duszę, tak przygotowaną,<br/>Duch na rolę zmienia Swą.<br/>Lecz, ach, ileż na tej roli<br/>Widzi chwastów Pański wzrok!<br/>Pozwól kornie, choć to boli<br/>By ją zorał Ducha pług!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chceszli złożyć sił dowody,<br/>Z siłą się do pracy rwać,<br/>Pan je złamać musi wprzódy,<br/>By mógł Swoich sił ci dać.<br/>Trzeba konać, trza umierać,<br/>Z Panem iść na krzyża pień,<br/>By mógł spalić, by mógł ścierać<br/>W duszy twojej grzechu rdzeń.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niech to jednak cię nie trwoży,<br/>Mocno wierz i porzuć strach!<br/>Gdy twe siły złamie, zburzy,<br/>Nowych sił zbuduje gmach.<br/>Gdzie nie staje siły tobie,<br/>Tam majestat stawia Swój;<br/>Do Swej pracy cię sposobi,<br/>W błogosławieństw zmienia zdrój.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Przygotuje dróg tysiące,<br/>Wskaże tysiąc pięknych dzieł;<br/>Twoje szaty jaśniejące<br/>Da oglądać spoza mgieł.<br/>Możesz wtedy rzec o sobie,<br/>Gdy cię Jego kształci wpływ:<br/>Już nie żyję, jużem w grobie,<br/>Chrystus tylko we mnie żyw.</lines>
+    </verse>
+  </lyrics>
+</song>

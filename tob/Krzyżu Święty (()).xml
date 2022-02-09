@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:57">
+  <properties>
+    <titles>
+      <title>Krzyżu Święty</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krzyżu święty, nade wszystko<br/>drzewo przenajszlachetniejsze.<br/>W żadnym lesie takie nie jest,<br/>jedno na którym sam Bóg jest.<br/>Słodkie drzewo, słodkie gwoździe<br/>rozkoszny owoc nosiło.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Skłoń gałązki drzewo święte,<br/>ulżyj członkom tak rozpiętym,<br/>odmień teraz oną srogość,<br/>którąś miało z przyrodzenia.<br/>Spuść lekuchno i cichuchno<br/>Ciało Króla niebieskiego.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tyś samo było dostojne<br/>nosić światowe zbawienie,<br/>przez cię przewóz jest naprawion<br/>światu, który był zagubion.<br/>Który święta Krew polała,<br/>co z Baranka wypływała.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Niesłychanać to jest dobroć,<br/>za kogo na krzyżu umrzeć.<br/>Któż to może dzisiaj zdziałać,<br/>za kogo swoją duszę dać?<br/>Sam to Pan Jezus wykonał,<br/>bo nas wiernie umiłował.</lines>
+    </verse>
+  </lyrics>
+</song>

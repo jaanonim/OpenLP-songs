@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:53">
+  <properties>
+    <titles>
+      <title>Ducha miłości wylej na nas</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="452"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ducha miłości wylej na nas, Panie,<br/>byśmy serdecznie wzajem się kochali.<br/>I Twe miłości pełniąc przykazanie,<br/>statecznie aż do końca w niej wytrwali.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Żyjmy, jak Ojca niebieskiego dzieci, niech<br/>zawsze w domach naszych radość gości.<br/>Niech miłość nasza wszystkim ludziom świeci<br/>i niech w nas nigdy już nie będzie złości.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niechże, o Zbawco, błogi Duch miłości<br/>do wszystkich ofiar nas zdolnymi czyni;<br/>niechaj do szczerej budzi nas litości,<br/>do odpuszczenia, gdy nam kto zawini.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kiedyż to zniknie niecny duch zwodniczy,<br/>z pośrodka tych, za których krew przelałeś?<br/>Kiedyż się człowiek z bliźnim swym rozliczy<br/>z długu miłości, którą nakazałeś?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gdy Duch Twój Święty ogień Swej miłości<br/>ku bliźnim wszystkim silnie w nas roznieci,<br/>natenczas nowy żywot w nas zagości i<br/>dobrych czynów światło wnet zaświeci.</lines>
+    </verse>
+  </lyrics>
+</song>

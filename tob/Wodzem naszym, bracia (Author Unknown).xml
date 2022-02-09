@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:44">
+  <properties>
+    <titles>
+      <title>Wodzem naszym, bracia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="467"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wodzem naszym, bracia,<br/>Chrystus Pan jest Sam;<br/>Wahać się nie będziem<br/>On przoduje nam.<br/>Choć utrapień twardy<br/>krzyż musimy nieść,<br/>Gotowiśmy za Nim iść.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>„Ty pójdź za mną"<br/>to jest Jego głos.<br/>„Ty pójdź za mną"<br/>słyszym Jego głos.<br/>„Ty pójdź za mną"<br/>więc my chcemy iść.<br/>Z naszym drogim Panem<br/>krzyż nasz nieść.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jakie ciężkie walki<br/>staczał ten nasz Pan.<br/>Jak był znienawidzon<br/>i na pośmiech dan.<br/>Ciężki krzyż na barkach<br/>swoich musiał nieść.<br/>A my mamy za Nim iść.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pójdźmy więc za Wodzem,<br/>dokąd On nas zwie.<br/>Włóżmy Nań swe troski,<br/>wszak On o nich wie.<br/>A gdy w niebios bramy<br/>dane będzie wnijść,<br/>Gotowiśmy za Nim iść.</lines>
+    </verse>
+  </lyrics>
+</song>

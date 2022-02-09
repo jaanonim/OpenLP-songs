@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:39">
+  <properties>
+    <titles>
+      <title>Same grzechy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="189"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Same grzechy, same winy obciążyły cały świat;<br/>W niezmierzonych trwóg głębiny,<br/>w paszczę śmierci człowiek wpadł.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>„Nie bójcie się! Nie bójcie się!"<br/>Anioł z nieba głosi nam.<br/>„Chrystus wam zbawienie z łaski niesie,<br/>wyrwie was z pieKielnych bram!".</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bez nadziei, bez pokoju człowiek w nędzy życie wiódł,<br/>zaprzedając duszę swoją za znikoiność, znój i trud.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>„Nie bójcie się! Nie bójcie się!"<br/>Anioł z nieba głosi nam.<br/>„Chrystus wam zbawienie z łaski niesie,<br/>wyrwie was z pieKielnych bram!".</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nie pomogły biczowania, na nic sabat nie zdał się,<br/>Bóg Swą świętą twarz zasłania, człowiek zaś do grzechu lgnie.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>„Nie bójcie się! Nie bójcie się!"<br/>Anioł z nieba głosi nam.<br/>„Chrystus wam zbawienie z łaski niesie,<br/>wyrwie was z pieKielnych bram!".</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pełen uciech bez radości, w przesyceniu głodny lud;<br/>Niech skosztuje z obfitości prawdy słodszej niźli miód.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>„Nie bójcie się! Nie bójcie się!"<br/>Anioł z nieba głosi nam.<br/>„Chrystus wam zbawienie z łaski niesie,<br/>wyrwie was z pieKielnych bram!".</lines>
+    </verse>
+  </lyrics>
+</song>

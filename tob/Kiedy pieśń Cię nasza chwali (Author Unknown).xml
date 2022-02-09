@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:32">
+  <properties>
+    <titles>
+      <title>Kiedy pieśń Cię nasza chwali</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="49"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kiedy pieśń Cię nasza chwali,<br/>niech się z naszych serc oddali wszelki pozór,<br/>wszelki kłam;<br/>Daj nam modlić się w prostocie,<br/>czystym sercem wołać do Cię,<br/>takim jak je widzisz sam.<br/>Takim jak je widzisz sam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niechaj Duch nas Twój oświeci,<br/>Ojcze nasz, my Twoje dzieci,<br/>Twej miłości prag-niem łask;<br/>niech Twa dobroć nami włada,<br/>w dusze nasze niechaj pada<br/>wspaniałości Twojej blask.<br/>Wspaniałości Twojej blask.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, rozpromień nasze czoła Swą radością<br/>i do koła Swych tęskniących dzieci znijdź,<br/>by się wiary naszej siła z Tobą wiernie zespoliła,<br/>z Tobą wiecznie mogła żyć.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oświeć, Panie, łaską Swoją tych,<br/>co tutaj z nami stoją, lecz nie znają jeszcze Cię!<br/>Niech ich miłość Twoja z nami złączy<br/>łaski Twej więzami, by oddali Tobie się.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O, wierzymy, dobry Panie,<br/>że nad nami zmiłowanie Twoje po wsze czasy trwa.<br/>Daj to poznać każdej duszy,<br/>co się w świata błąka głuszy, że pasterza w Tobie ma.</lines>
+    </verse>
+  </lyrics>
+</song>

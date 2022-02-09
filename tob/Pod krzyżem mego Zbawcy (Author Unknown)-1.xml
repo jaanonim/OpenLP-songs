@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:22">
+  <properties>
+    <titles>
+      <title>Pod krzyżem mego Zbawcy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="115"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pod krzyżem mego Zbawcy<br/>Bezpiecznie spocząć śmiem,<br/>Bo tam wszechmocna chroni dłoń<br/>Przed skwarem puszczy mię;<br/>Tam dusza ma bezpieczny schron<br/>W upalny znajdzie dzień;<br/>Spragnionych, słabych Zbawcy krzyż<br/>Pod swój przygarnia cień.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Warowne to schronienie,<br/>Wypróbowany grunt,<br/>Gdzie z grzesznym pojednany Bóg<br/>Już z nim nie wchodzi w sąd.<br/>Co Jakub w błogim widział śnie,<br/>Tym jest na jawie krzyż:<br/>Drabiną, która wiedzie nas<br/>Do tronu łaski wzwyż.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu, pod Chrystusa krzyżem<br/>Śmierć traci żądło swe,<br/>W ochronie błogiej Pańskich ran<br/>Ratunek czeka mnie;<br/>Tu Pan z niezmiernej łaski Swej<br/>Łotrowi niebo dał;<br/>Rozpięte Jego ręce nam<br/>Wskazują wieczny dział.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tu zewsząd mię ogarnia<br/>Miłości wielkiej żar,<br/>Tu widzę, jak wśród srogich mąk<br/>Na krzyżu Jezus zmarł.<br/>Na hańbę sobie muszę rzec;<br/>Tu cuda widzę dwa -<br/>Miłości Jego wielkiej moc<br/>I ogrom mego zła.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pod krzyżem już zostanę<br/>Po wszystkie życia dni,<br/>Nie pragnę więcej świateł czczych,<br/>Tyś, Panie, słońcem mi.<br/>Niech cały mi przepadnie świat,<br/>Już nic nie stoję on;<br/>Niech moje „ja" pohańbi śmiech,<br/>Krzyż będzie chlubą mą.</lines>
+    </verse>
+  </lyrics>
+</song>

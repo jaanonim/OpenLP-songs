@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:21">
+  <properties>
+    <titles>
+      <title>Przyjdź, Duchu Święty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="86"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przyjdź, Duchu Święty,do nas, przyjdź<br/>I do naszego serca wnijdź,<br/>I obierz w nim mieszkanie!<br/>Światłości z nieba, niech Twój blask<br/>Jest nam rękojmią Twoich łask,<br/>Radość zdrojem, Panie!<br/>Słońca, słońca, Życia z nieba<br/>Nam potrzeba, Więc błagamy,<br/>Gdy do Ciebie się zbliżamy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mądrości Zdroju, zlewasz się<br/>Na wszystkich wiernych w życiu tym,<br/>Zlej się i w serca nasze!<br/>Poprowadź w jedność wiary nas<br/>Abyśmy nieśli wszystkim wraz<br/>Poselstwa Twoje zawsze;<br/>Wzbudzaj, wzbudzaj, Co uśpione,<br/>Zaślepione; W każdej chwili<br/>Byśmy Tobie tylko żyli?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tyś Dziwny, Radny, mocny Bóg,<br/>Uchowaj nas od błędnych dróg,<br/>Na prawe sprowadź ścieżki!<br/>O, pomóż nam wiernymi być,<br/>Wytrwałość i cierpliwość mieć,<br/>Gdy krzyż nastanie ciężki!<br/>Wspieraj, wspieraj, Co zachwiane<br/>I stroskane Szuka Ciebie,<br/>Cieszycielu wiernych w niebie!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Daj nam w czystości życie wieść<br/>I Tobie służby swoje nieść;<br/>Bądź mocą duszy naszej!<br/>Niech z ust nie wyjdzie mowa czcza,<br/>Niech nas opuści żądza zła,<br/>Opuści już na zawsze.<br/>Kieruj, kieruj Mym pragnieniem<br/>I dążeniem z ziemskich nizin<br/>Do niebiańskich Twoich wyżyn.</lines>
+    </verse>
+  </lyrics>
+</song>

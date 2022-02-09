@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:42">
+  <properties>
+    <titles>
+      <title>Gdy się wiara moja chwieje</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="242"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy się wiara moja chwieje, Jezus trzyma mię;<br/>w Nim jedyną mam nadzieję, mocno trzyma mię.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jezus trzyma mię, mocno trzyma mię,<br/>On, co mię wykupił krwią, jest ostoją mą.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nigdy bym się sam nie ostał, On mię trzymać chce,<br/>szatanowi bym nie sprostał, Pan nie puści mnie.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Jezus trzyma mię, mocno trzyma mię,<br/>On, co mię wykupił krwią, jest ostoją mą.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jam źrenicą w oku Jego, Jezus trzyma mię,<br/>miłość Zbawcy łaskawego wiecznie trzyma mię.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Jezus trzyma mię, mocno trzyma mię,<br/>On, co mię wykupił krwią, jest ostoją mą.</lines>
+    </verse>
+  </lyrics>
+</song>

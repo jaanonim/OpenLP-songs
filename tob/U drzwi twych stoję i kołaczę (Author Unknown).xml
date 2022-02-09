@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:34">
+  <properties>
+    <titles>
+      <title>U drzwi twych stoję i kołaczę</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="103"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>U drzwi twych stoję i kołaczę,<br/>upraszam pozwól w serce wnijść.<br/>Zmęczony drogą Mą tułacza,<br/>czy znajdę odpoczynek dziś?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>To cichy głos pukania Mego<br/>do drzwi zawartych serca twego,<br/>usłuchaj, przyjm pukającego<br/>a Ja zamieszkam w sercu twym.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kołaczę w ciszy ciemnej nocy,<br/>kołaczę wśród jasnego dnia,<br/>kołaczę kiedy ból zamroczy,<br/>gdy niespokojna dusza twa.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>To cichy głos pukania Mego<br/>do drzwi zawartych serca twego,<br/>usłuchaj, przyjm pukającego<br/>a Ja zamieszkam w sercu twym.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cierpliwie czekam aż otworzysz<br/>na oścież serca twego drzwi,<br/>aż do komory swej zaprosisz,<br/>oddając pierwsze miejsce Mi.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>To cichy głos pukania Mego<br/>do drzwi zawartych serca twego,<br/>usłuchaj, przyjm pukającego<br/>a Ja zamieszkam w sercu twym.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Świątynią Moją pozostaniesz,<br/>zamieszkam w niej, uświęcę ją<br/>i wiernym synem Mym się staniesz,<br/>zdobytym Moją świętą krwią.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>To cichy głos pukania Mego<br/>do drzwi zawartych serca twego,<br/>usłuchaj, przyjm pukającego<br/>a Ja zamieszkam w sercu twym.</lines>
+    </verse>
+  </lyrics>
+</song>

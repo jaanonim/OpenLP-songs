@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:12">
+  <properties>
+    <titles>
+      <title>Tylko Bóg odwagę daje nam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Tylko Bóg odwagę daje nam<br/>Tylko On do zwycięstw wiedzie nas<br/>Bo Chrystus Pan pokonał piekła moc<br/>Królem jest!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>On przezwyciężył złego moc<br/>I swój wyzwolił lud<br/>Na słowo Boga zadrży wróg<br/>A ziemia pozna, że to</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:33">
+  <properties>
+    <titles>
+      <title>O, jak słodko brzmi nauka</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="73"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, jak słodko brzmi nauka<br/>w Słowie Bożym nam!<br/>Wczoraj, dzisiaj i na wieki<br/>Jezus jest ten sam.<br/>Wciąż On zbawia grzesznych ludzi, leczy chorych też,<br/>cieszy smutnych i strapionych,<br/>Jemu chwała, cześć!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wczoraj, dzisiaj i na wieki<br/>Jezus jest ten sam,<br/>świat się zmienia, góry, rzeki, tylko nie nasz Pan!<br/>Jemu chwała, cześć!<br/>Jemu chwała, cześć!<br/>Świat się zmienia, góry, rzeki, tylko nie nasz Pan!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przyjacielem dla grzeszników<br/>Jezus zawsze jest.<br/>Przyjdźcie teraz do nóg jego,<br/>dajcie Jemu cześć.<br/>Jezus mówi: „ Nie potępiam,<br/>nie grzesz więcej już.<br/>Przebaczenie daję tobie,<br/>chętnie wiarą bierz".</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Wczoraj, dzisiaj i na wieki<br/>Jezus jest ten sam,<br/>świat się zmienia, góry, rzeki, tylko nie nasz Pan!<br/>Jemu chwała, cześć!<br/>Jemu chwała, cześć!<br/>Świat się zmienia, góry, rzeki, tylko nie nasz Pan!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pan uzdrawia wszystkich chorych<br/>mocną ręką Swą.<br/>Dzisiaj też na Jego rozkaz<br/>znika ból i zło.<br/>Ten, kto zdrowie dał niewieście, gdy dotknęła Go,<br/>ciebie też uleczyć może,<br/>jeśli wierzysz w to!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Wczoraj, dzisiaj i na wieki<br/>Jezus jest ten sam,<br/>świat się zmienia, góry, rzeki, tylko nie nasz Pan!<br/>Jemu chwała, cześć!<br/>Jemu chwała, cześć!<br/>Świat się zmienia, góry, rzeki, tylko nie nasz Pan!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jak z uczniami do Emaus<br/>Jezus razem szedł,<br/>tak i dziś chce nas prowadzić poprzez życia bieg.<br/>Wkrótce w chwale Go ujrzymy,<br/>na obłoku tam.<br/>Ten sam Jezus, co stąd odszedł, przyjdzie znów ten sam!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Wczoraj, dzisiaj i na wieki<br/>Jezus jest ten sam,<br/>świat się zmienia, góry, rzeki, tylko nie nasz Pan!<br/>Jemu chwała, cześć!<br/>Jemu chwała, cześć!<br/>Świat się zmienia, góry, rzeki, tylko nie nasz Pan!</lines>
+    </verse>
+  </lyrics>
+</song>

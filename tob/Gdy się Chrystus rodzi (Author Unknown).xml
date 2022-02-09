@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:51">
+  <properties>
+    <titles>
+      <title>Gdy się Chrystus rodzi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="413"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy się Chrystus rodzi<br/>i na świat przychodzi,<br/>ciemna noc w jasnościach<br/>promienistych brodzi.<br/>Aniołowie się radują,<br/>pod niebiosy wyśpiewują:<br/>Gloria, gloria,<br/>gloria in excelsis Deo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mówią do pasterzy,<br/>którzy trzód swych strzegli,<br/>aby do Betlejem<br/>czym prędzej pobiegli,<br/>bo się narodził Zbawiciel,<br/>wszego świata Odkupiciel.<br/>Gloria, gloria,<br/>gloria in excelsis Deo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O niebieskie duchy<br/>i posłowie nieba!<br/>powiedzcież wyraźniej,<br/>co nam czynić trzeba.<br/>bo my nic nie pojmujemy,<br/>ledwo od strachu żyjemy.<br/>Gloria, gloria,<br/>gloria in excelsis Deo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Idźcież do Betlejem,<br/>gdzie Dziecię zrodzone,<br/>w pieluszki spowite,<br/>w żłobie położone.<br/>Oddajcie mu pokłon Boski,<br/>On osłodzi wasze troski.<br/>Gloria, gloria,<br/>gloria in excelsis Deo.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A gdy pastuszkowie<br/>wszystko zrozumieli,<br/>zaraz do Betlejem<br/>śpieszno pobieżeli,<br/>i zupełnie tak zastali<br/>jak Anieli im zeznali:<br/>Gloria, gloria,<br/>gloria in excelsis Deo.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Stanąwszy na miejscu<br/>pełni zadziwienia,<br/>iż się Bóg tak zniżył<br/>do Swego stworzenia,<br/>padli przed Nim na kolana<br/>i uczcili swego Pana:<br/>Gloria, gloria,<br/>gloria in excelsis Deo.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nareszcie gdy Jemu<br/>pokłon już oddali,<br/>z wielką wesołością<br/>do swych trzód wracali,<br/>że się stali być godnymi<br/>Boga widzieć na tej ziemi:<br/>Gloria, gloria,<br/>gloria in excelsis Deo.</lines>
+    </verse>
+  </lyrics>
+</song>

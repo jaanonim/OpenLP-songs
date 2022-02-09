@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:20">
+  <properties>
+    <titles>
+      <title>Jezus jako Król panuje</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="68"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus jako Król panuje,<br/>Wszystko Jemu usługuje,<br/>Jemu berło oddał Bóg.<br/>Każdy język niech wyznawa,<br/>Że należy Jemu sława;<br/>/ Jemu świat ma paść do nóg. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W Nim miłości zdrój prawdziwy<br/>Znajdzie człowiek nieszczęśliwy.<br/>Grzechy zgładził tylko On.<br/>W Nim pociecha, ukojenie,<br/>W Nim ratunek i zbawienie,<br/>/ Więc Mu w sercach wznieśmy tron. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jemu nasze serca dajmy,<br/>Jemu grzechy swe wyznajmy,<br/>On ukoi wszelki ból.<br/>On zagoi wszystkie rany,<br/>On zdrój łaski nieprzebrany,<br/>/ Jezus, Władca nasz i Król. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Niech królestwo Jego rośnie,<br/>Niech Go słucha świat radośnie,<br/>Wolę Jego niechaj zna.<br/>Wnet zabłysną szczęścia zorze,<br/>Gdy Mu każdy się ukorzy,<br/>/ Gdy Mu każdy serce da. /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Chociaż jestem ten najmniejszy,<br/>Jednak, Królu, najwdzięczniejszy,<br/>Chcę Ci z serca chwałę nieść:<br/>Jezus jako Król panuje,<br/>Wszystko Jemu usługuje.<br/>/ Wznieście, wznieście Jemu cześć! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

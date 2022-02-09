@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:54">
+  <properties>
+    <titles>
+      <title>510 PRZĄŚNICZKI</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c2</verseOrder>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>U prząśniczki siedzą<br/>jak anioł dzieweczki,<br/>przędą sobie, przędą<br/>jedwabne niteczki.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Kręć się, kręć wrzeciono,<br/>wić się tobie wić!<br/>Ta pamięta lepiej,<br/>czyja dłuższa nić!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Poszedł do Królewca <br/>młodzieniec z wiciną,<br/>łzami się zalewał, <br/>żegnając z dziewczyną.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Gładko idzie przędza <br/>wesołej dziewczynie,<br/>pamiętała trzy dni <br/>o wiernym chłopczynie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Inny się młodzieniec <br/>podsuwa z ubocza<br/>i innemu rada <br/>dziewczyna ochocza.</lines>
+    </verse>
+    <verse name="c2">
+      <lines><br/>Kręć się, kręć wrzeciono,<br/>prysła wątła nić,<br/>wstydem dziewczę płonie,<br/>wstydź się, dziewczę, wstydź!</lines>
+    </verse>
+  </lyrics>
+</song>

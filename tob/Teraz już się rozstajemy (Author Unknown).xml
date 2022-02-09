@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:49">
+  <properties>
+    <titles>
+      <title>Teraz już się rozstajemy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="386"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Teraz już się rozstajemy,<br/>prędko nam upłynąj czas,<br/>w duchu zaś naśladujemy,<br/>Jezu, Ciebie wszyscy wraz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>// Alleluja, alleluja,<br/>Barankowi chwała bądź //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Serca nasze racz skojarzyć<br/>przez miłości Twojej moc,<br/>ogniem Ducha racz obdarzyć,<br/>by rozproszył grzechu noc.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>// Alleluja, alleluja,<br/>Barankowi chwała bądź //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Panie, chcemy Cię miłować<br/>nade wszystko tu i tam,<br/>miłość bliźnim też zachować,<br/>tak Twe Słowo głosi nam.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>// Alleluja, alleluja,<br/>Barankowi chwała bądź //</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Święte chcemy tu wieść<br/>życie, takie, Jezu, jako Ty;<br/>sił użyczaj nam obficie,<br/>byśmy wciąż służyli Ci.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>// Alleluja, alleluja,<br/>Barankowi chwała bądź //</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nućmyż chwałę z wesołego<br/>serca Barankowi tu;<br/>jaki dźwięk u tronu Jego,<br/>kiedy zabrzmi: Gloria Mu!</lines>
+    </verse>
+    <verse name="c5">
+      <lines>// Alleluja, alleluja,<br/>Barankowi chwała bądź //</lines>
+    </verse>
+  </lyrics>
+</song>

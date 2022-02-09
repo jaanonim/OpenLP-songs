@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:01">
+  <properties>
+    <titles>
+      <title>Znam kraj, gdzie radość wiecznie trwa</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="808"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Znam kraj, gdzie radość wiecznie trwa,<br/>Gdzie jest nieznany ból i łza,<br/>Gdzie wiecznie lśni Chrystusa moc<br/>Jak jasny dzień - tam mija noc.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O kraju mój, O kraju mój,<br/>Wnet skończę ziemski życia bój;<br/>O kraju szczęścia, złotych zórz,<br/>Ja tęsknię tak za tobą już!<br/>O, Jezu drogi, przyjmij mię<br/>I pozwól wiecznie wielbić Cię!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tam mię wprowadzi Zbawca Sam,<br/>Do kryształowych wiecznych bram.<br/>Pokaże mi wszechświata krąg,<br/>To wielkie dzieło Swoich rąk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tam kwiaty sieją balsam swój,<br/>Wesoło dzwoni ptasząt rój;<br/>Tam płynie wieczny życia zdrój<br/>- Za tobą tęsknię kraju mójl</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Radosne hymny wokół brzmią,<br/>Oblicza wiernych szczęściem lśnią.<br/>A chór aniołów śpiewa pieśń<br/>Na chwałę Zbawcy, Jego cześć!</lines>
+    </verse>
+  </lyrics>
+</song>

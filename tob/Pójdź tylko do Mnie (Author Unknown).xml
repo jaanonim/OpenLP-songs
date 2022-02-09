@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:25">
+  <properties>
+    <titles>
+      <title>Pójdź tylko do Mnie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="170"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pójdź tylko do Mnie,<br/>wzywa Zbawca cię,<br/>Ja szczęściem serce<br/>twe obdarzyć chcę,<br/>Kiedy upadasz<br/>już pod krzyżem swym,<br/>Pójdź do Mnie,<br/>posilę cię pokojem Mym.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pójdźcie do Mnie wszyscy,<br/>którzyście spracowani,<br/>którzyście obciążeni,<br/>Ja sprawię odpocznienie.<br/>Odpocznienie wam,<br/>odpocznienie wam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pan ci zaleca<br/>wielką miłość Swą,<br/>Pójdź więc do Niego,<br/>zmieni dolę twą.<br/>Na pierś Miłości<br/>głowę swoją skłoń,<br/>Pójdź do wód, ożywczych,<br/>na pokoju błoń!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pan w łasce wielkiej<br/>Swą wyciąga dłoń.<br/>Zbłąkana owco,<br/>o pójdź tylko Doń!<br/>On ze zginienia,<br/>Z śmierci grzechu zwie,<br/>On pokojem Swym<br/>cię obdarować chce.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wszak odpoczniecie,<br/>pokój, żywot Swój<br/>Chce ci darować Jezus,<br/>Zbawca twój,<br/>Więc tylko przyjmij<br/>wielki Jego dar,<br/>Byś miał żywot wieczny,<br/>wolnym był od kar.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Pójdźcie do Mnie wszyscy,<br/>którzyście spracowani,<br/>którzyście obciążeni,<br/>Ja sprawię odpocznienie.<br/>Odpocznienie wam,<br/>odpocznienie wam.<br/>Ja sprawię Sam!</lines>
+    </verse>
+  </lyrics>
+</song>

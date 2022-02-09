@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:44">
+  <properties>
+    <titles>
+      <title>129 ŻADNA PIEŚŃ</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie ukochałem mego krzyża <br/>Nie rozpoznałem perły<br/>I wciąż szukałem mego życia <br/>Lecz doświadczałem śmierci <br/>Aż pokonując groźne fale <br/>Ujrzałem krzyża drewno<br/>Ty wytyczyłeś moją drogę<br/>Miłości ścieżkę pewną</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Żadna pieśń nie wypowie<br/>Co czuje moje serce<br/>Liche drewno ratuje moje życie <br/>Błogosławiony krzyż, moja arka</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Skłoniłem głowę w Twych ramionach <br/>I w Tobie odpoczywam<br/>Ze skały płynie woda życia <br/>I rany me obmywa<br/>Gdy tak jesteśmy połączeni <br/>Mam w sobie wszechświat cały <br/>Niebo i ziemia, i anieli <br/>Śpiewają pieśni chwały</lines>
+    </verse>
+  </lyrics>
+</song>

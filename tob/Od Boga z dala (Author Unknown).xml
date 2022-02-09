@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:34">
+  <properties>
+    <titles>
+      <title>Od Boga z dala</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="18"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Od Boga z dala szlak mój szedł,<br/>Teraz wracam już.<br/>Za długo mnie usidlał grzech,<br/>Teraz wracam już.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ojcze mój, wracam już.<br/>Przyjmij dziecię swe!<br/>Do domu wracam z błędnych dróg.<br/>Dość już błąkać się.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tak wiele zmarnowałem lat,<br/>Teraz wracam już.<br/>Me siły, młodość, zabrał świat,<br/>Teraz wracam już.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zmęczony grzechem, ronię łzy,<br/>Teraz wracam już.<br/>Twa miłość, wiem przebaczy mi,<br/>Teraz wracam już.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Świat rozbił, złamał serce me,<br/>Teraz wracam już.<br/>Ojcowski dom pokojem tchnie,<br/>Teraz wracam już.</lines>
+    </verse>
+  </lyrics>
+</song>

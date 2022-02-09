@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:43">
+  <properties>
+    <titles>
+      <title>W świetle krocz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="466"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W świetle krocz! W świetle krocz,<br/>Ludu Pański, w górny kraj!<br/>Zapal wszystkie lampy swoje<br/>I w miłości pierwszej trwaj;<br/>Idź, gdzie płyną życia zdroje,<br/>Nigdy nie trać Wodza swego z ócz;<br/>W świetle krocz! W świetle krocz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dzielnie znoś! Dzielnie znoś<br/>Ogień ciężkich, twardych prób:<br/>Lżenie, strach i złości burze;<br/>Na zawarty pomnij ślub,<br/>Patrz, korona błyszczy w górze,<br/>A choć wąż twe serce rani wskroś,<br/>Dzielnie znoś! Dzielnie znos!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nie daj się, nie daj zwieść,<br/>Ludu Pański, w diabła sieć!<br/>Choć on twarz nastraja mile,<br/>W jego służbie tylko śmierć.<br/>Oprzyj się szatana sile.<br/>Wąską drogą masz do chwały wejść;<br/>Nie daj się, nie daj zwieść!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Czuwaj wciąż! Czuwaj wciąż!<br/>Baczny miej na wszystko wzrok!<br/>Zewsząd wabią błędne duchy;<br/>Nie daj zmylić swoich dróg,<br/>Bądź na ich podszepty głuchy,<br/>Prosto tylko ku celowi dąż!<br/>Czuwaj wciąż! Czuwaj wciąż!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wiernie stój! Wiernie stój!<br/>Panu swemu trwale służ!<br/>Niech cię tylko sen nie zmoże,<br/>Słońce wieczne wzejdzie już;<br/>Wstań, a znów ci Pan pomoże!<br/>A gdy przyjdzie iść w ostatni bój,<br/>Wiernie stój! Wiernie stój!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:55">
+  <properties>
+    <titles>
+      <title>Moc grzechu dręczy lud zaślepiony</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="727"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Moc grzechu dręczy lud zaślepiony,<br/>pociesz, ach, pociesz naród strapiony,<br/>Weź go na nowo w Swe zmiłowanie,<br/>/ Królu i Panie. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dokąd obrócę oczy stęsknione,<br/>Wszystko, ach, wszystko grzechem splamione<br/>Ty tylko pojmiesz me narzekanie<br/>/ Królu mój, Panie. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wszyscyśmy wpadli w ciężką niewolę,<br/>Opłakujemy swoją niedolę,<br/>O, raczże sprawić z grzechów powstanie,<br/>/ Panie, nasz Panie! /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dodaj nam siły powstać, nie zginąć,<br/>Sidła zwodnicze grzechu ominąć,<br/>Przy przykazaniach Twoich wytrwanie<br/>/ Racz dać, o Panie! /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>My w Tobie ufność swą pokładamy.<br/>O Twą opiekę teraz błagamy<br/>Wysłuchaj dzieci Twoich wołanie<br/>[ Królu nasz Panie! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

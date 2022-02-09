@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:39">
+  <properties>
+    <titles>
+      <title>W objęciu Jezusowym</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="423"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W objęciu Jezusowym<br/>Bezpieczni czuję się,<br/>Tam radość niewymowna,<br/>Pokój ogarnia mię.<br/>- Głosem pasterskim woła:<br/>„Pójdź do Mnie, pójdź i wierz;<br/>Serca twojego burze<br/>Moja uciszy pierś!"<br/>W objęciu Jezusowym<br/>Bezpiecznie czuję się,<br/>Tam radość niewymowna,<br/>Pokój ogarnia mię.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W objęciu Jezusowym<br/>Nie zaznam męki, trosk,<br/>Moc i potęga piekła<br/>Topi się tam, jak wosk.<br/>- On z błędnych mię bezdroży<br/>Do jasnych wiedzie stref,<br/>Przetrwam doświadczeń chwilkę,<br/>A wzejdzie łzawy siew.<br/>W objęciu Jezusowym<br/>Nie zaznam męki, trosk,<br/>Moc i potęga piekła<br/>Topi się tam, jak wosk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezu, ucieczko moja,<br/>Jezu, Tyś za mnie zmarł!<br/>Jużem się na tej skale,<br/>O, już bezpiecznie wsparł.<br/>- Tu cicho czekać będę,<br/>Aż minie nocy cień,<br/>Aż na słonecznym brzegu<br/>Jasny mię wzbudzi dzień,<br/>Jezu, ucieczko moja,<br/>Jezu, Tyś za mnie zmarł!<br/>Jużem się na tej skale,<br/>O, już bezpiecznie wsparł.</lines>
+    </verse>
+  </lyrics>
+</song>

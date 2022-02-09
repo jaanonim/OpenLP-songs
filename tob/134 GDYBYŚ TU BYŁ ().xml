@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:44">
+  <properties>
+    <titles>
+      <title>134 GDYBYŚ TU BYŁ</title>
+    </titles>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z głębokości wołam do Ciebie, Panie<br/>Usłysz mój głos<br/>Nakłoń swego ucha na me błaganie!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdybyś tu był Panie<br/>Nasz brat by nie umarł<br/>Gdybyś tu był! <br/>Oto zasnął ten, którego Ty umiłowałeś<br/>Tak późno przychodzisz dziś!<br/>Kamień wielki jak śmierć oddziela nas<br/>I tylko Ty masz władzę go odsunąć (2x)<br/> (Bo Tyś jest Mesjasz Pan)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tyś naszym życiem!<br/>Tyś zmartwychwstaniem!<br/>Biegnijmy i my<br/>Biegnijmy umrzeć z nim!<br/>Biegnijmy umrzeć z nim!</lines>
+    </verse>
+  </lyrics>
+</song>

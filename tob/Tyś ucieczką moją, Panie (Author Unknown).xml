@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:40">
+  <properties>
+    <titles>
+      <title>Tyś ucieczką moją, Panie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="209"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tyś ucieczką moją, Panie<br/>Tego nie powstydzę się.<br/>Tyś jest mocą Swoją w stanie<br/>chronić od przygody rnię;<br/>przeto ufność swą położę<br/>w łasce i litości Twej:<br/>Ty mię wesprzesz, dobry Boże,<br/>pośród trosk i doli złej.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Od złych mocy mię obronisz<br/>i od nieprzyjaciół mych.<br/>Od ich złości mię ochronisz<br/>i od zdradnych sideł ich.<br/>Niech nie mówią,<br/>żeś porzucił wiernych Swych<br/>na pastwę im, obyś umysł ich<br/>odwrócił od służenia żądzom złym!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Boże Mocny, Boże Cudów!<br/>Przenajświętszy Ojcze nasz!<br/>Co dla szczęścia wszystkich ludów<br/>dobroć, moc i łaskę masz,<br/>który widzisz serca drgnienie<br/>i najskrytsze myśli znasz,<br/>racz wysłuchać me westchnienie,<br/>Przenajświętszy Ojcze nasz.</lines>
+    </verse>
+  </lyrics>
+</song>

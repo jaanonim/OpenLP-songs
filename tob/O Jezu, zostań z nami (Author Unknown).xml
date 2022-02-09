@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:46">
+  <properties>
+    <titles>
+      <title>O Jezu, zostań z nami</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="527"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Jezu, zostań z nami,<br/>Bo już zapada zmrok,<br/>Nad Twymi niech sługami<br/>Twój święty czuwa wzrok.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ach zostań, wnet już minie<br/>Zbawiennej łaski czas,<br/>Twe światło niech jedynie<br/>Oświeca zawsze nas.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ach, zostań, bo już gaśnie<br/>Twej wiary święty żar,<br/>Niech w nas roznieci jaśnie<br/>Twój Duch ten święty dar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Już szatan dokończenie<br/>Spraw przewiduje swych,<br/>Więc wszelkie utrapienie<br/>Na wiernych zsyła Twych.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O Panie, zostań z nami<br/>I w niepokoje te<br/>Pod Swymi kryj skrzydłami<br/>Strwożone dziatki Twe!</lines>
+    </verse>
+  </lyrics>
+</song>

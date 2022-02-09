@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:48">
+  <properties>
+    <titles>
+      <title>217 Niech cała ziemia</title>
+    </titles>
+    <verseOrder>c1 v1 v2 c1 v3 v2 c1</verseOrder>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Niech cała ziemia, cała ziemia<br/>Cała ziemia Panu odda cześć.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Chwalę o poranku, chwalę Cię o zmroku<br/>Chwalę Cię, gdy mi przybywa lat.<br/>Chwalę Cię w radościach, chwalę Cię w zmartwieniach<br/>Chwalę całym sercem w każdy czas.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdybyśmy mogli poznać tę <br/>potężną moc miłości Twej<br/>Na wieki byśmy już wielbili Cię.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chwalą Cię niebiosa, razem z aniołami<br/>Pragnę nieustannie wielbić Cię<br/>Ziemia też Cię chwali, razem ze stworzeniem<br/>Wśród narodów głoszę Imię Twe.</lines>
+    </verse>
+  </lyrics>
+</song>

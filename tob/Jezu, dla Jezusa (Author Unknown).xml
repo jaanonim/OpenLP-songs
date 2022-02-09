@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:37">
+  <properties>
+    <titles>
+      <title>Jezu, dla Jezusa</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="84"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus, dla Jezusa,<br/>wszystko to, co mam,<br/>Kim jestem<br/>i kim chciałbym być.<br/>Jezus, dla Jezusa,<br/>wszystko to, co mam,<br/>Kim jestem i chcę być.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wszystkie me ambicje,<br/>plany też powierzam Ci,<br/>Oddaje w ręce Twe.<br/>Wszystkie me nadzieje,<br/>plany też powierzam Ci,<br/>Oddaje w ręce Twe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/ Tylko z woli Twej jestem wolny.<br/>Tylko z woli Twej jestem wolny. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

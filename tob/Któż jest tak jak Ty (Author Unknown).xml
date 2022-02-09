@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:53">
+  <properties>
+    <titles>
+      <title>Któż jest tak jak Ty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Któż jest tak jak Ty<br/>Nikt nie porusza mego serca jak Ty<br/>I choćbym wiecznie szukał<br/>Zobaczyłbym, że nikt<br/>Nie dorówna ci</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Twej łaski strumień przemierza świat<br/>I uzdrowienie z Twoich rąka<br/>Dzieci bezpieczne<br/>W ramionach Twych są<br/>Któż jest tak jak Ty</lines>
+    </verse>
+  </lyrics>
+</song>

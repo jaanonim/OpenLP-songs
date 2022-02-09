@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:14">
+  <properties>
+    <titles>
+      <title>Akt oddania się Jezusowi jako Panu i Zbawicielowi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezu, dziękuję za Twoją miłość, za to, że umarłeś za mnie na krzyżu, by mnie zbawić.<br/>Wiem, że Ty mnie kochasz ogromną miłością i chcesz dla mnie dobra.<br/>Dziś pragnę wyznać moim sercem i ustami, że Ty jesteś moim Panem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pragnę oddać Tobie moje serce, moje życie i uczynić Cię moim Panem, moim jedynym Panem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dziś otwieram przed Tobą me wnętrze i pragnę, byś stał się Panem mojej przeszłości, teraźniejszości i przyszłości, każdej radości i dobra, każdej troski, wszystkiego, co jeszcze przede mną i co już za mną.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bądź moim Przewodnikiem. Oddaję Ci wszystko i wyznaję, że chcę trwać przy Tobie, pragnę wypełniać Twoją wolę na co dzień, żyć według słów, otwierać się na prowadzenie Twego Ducha. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

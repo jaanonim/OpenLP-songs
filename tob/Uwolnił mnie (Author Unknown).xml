@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:26">
+  <properties>
+    <titles>
+      <title>Uwolnił mnie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="149"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uwolnił mnie, mój drogi Jezus<br/>zbawił mnie! Dziękuję Jezu,<br/>że cudowną wolność mam!<br/>Gdym w więzach żył,<br/>uwolnić z pęt mnie nie mógł nikt,<br/>mój drogi Jezus przyszedł<br/>i uwolnił mnie!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:17">
+  <properties>
+    <titles>
+      <title>Gdy kiedyś Pan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="191"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy kiedyś Pan  powróci znów,<br/>Gdy kiedyś Pan powróci znów,<br/>Obyśmy też tam byli,<br/>Gdy kiedyś Pan powróci znów<br/>2. Gdy święci swój opuszczą grób..<br/>3. Gdy Boga tron otoczą w krąg..<br/>4. Gdy księgę swą otworzy Bóg..<br/>5. Gdy po imieniu wezwie Pan..<br/>6. Gdy ucztę nam zgotuje Bóg..<br/>7. Gdy zabrzmi pieśń Alleluja..</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:22">
+  <properties>
+    <titles>
+      <title>Triumfu Króla Niebieskiego</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="1022"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tryumfy Króla niebieskiego<br/>Zstąpiły z nieba wysokiego.<br/>Pobudziły pasterzów,<br/>Dobytku swego stróżów,<br/>Śpiewaniem, śpiewaniem, śpiewaniem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chwała bądź Bogu w wysokości,<br/>A ludziom pokój na niskości.<br/>Narodził się Zbawiciel,<br/>Dusz ludzkich Odkupiciel,<br/>Na ziemi, na ziemi, na ziemi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zrodziła Maryja Dziewica<br/>Wiecznego Boga bez rodzica<br/>By nas z piekła wybawił<br/>A w niebieskich postawił,<br/>Pałacach, pałacach, Pałacach.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pasterze w podziwieniu stają<br/>Tryumfu przyczynę badają.<br/>Co się nowego dzieje,<br/>Że tak światłość jaśnieje,<br/>Nie wiedząc, nie wiedząc, nie wiedząc.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I które mieli z sobą dary,<br/>Dzieciątku dają na ofiary.<br/>Przyjmij, o Narodzony,<br/>Nas i dar przyniesiony,<br/>z ochotą, z ochotą, z ochotą.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>A potem Maryi cześć dają,<br/>Za matkę Boską Ją uznają.<br/>Tak nas uczą przykładem,<br/>Jak iść mamy ich śladem,<br/>statecznie, statecznie , statecznie.</lines>
+    </verse>
+  </lyrics>
+</song>

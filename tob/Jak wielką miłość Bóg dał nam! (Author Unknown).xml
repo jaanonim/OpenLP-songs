@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:50">
+  <properties>
+    <titles>
+      <title>Jak wielką miłość Bóg dał nam!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="604"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak wielką miłość Bóg dał nam!<br/>Od wieków ona trwa.<br/>Imieniem Swym nas nazwał Sam,<br/>Za Swoje dzieci ma.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wybrany ludu, o, spójrz,<br/>Jak wielką nam miłość<br/>Ojciec w Synu Swym darował!<br/>O, spójrz, rzuć oziębłość precz!<br/>Z Nim masz w niebie wieczny dział.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Z obczyzny nas powołał Pan<br/>Do Siebie słowem Swym.<br/>Jak błogi to, szczęśliwy stan<br/>Być tu złączonym z Nim!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tworzymy tu wybrany lud<br/>Przez Chrystusową śmierć.<br/>Jak wielkiej to miłości cud!<br/>Więc nieśmy Jemu cześć!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Już bliski dzień, gdy zjawi się<br/>W Swej wspaniałości Pan,<br/>A wtedy stąd wejdziemy z Nim<br/>W niebieski Kanaan.</lines>
+    </verse>
+  </lyrics>
+</song>

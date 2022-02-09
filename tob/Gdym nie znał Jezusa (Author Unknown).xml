@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:38">
+  <properties>
+    <titles>
+      <title>Gdym nie znał Jezusa</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="167"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdym nie znał Jezusa, był mrok w sercu mym,<br/>w nim grzech był i czarem on uśpił mię swym<br/>Lecz Pan, gdy mię zbudził i podał mi dłoń,<br/>to z żalem za grzechy pośpieszyłem Doń.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Miłuje mię Pan, jak błogi to stan,<br/>mej duszy na wieki już pokój jest dan!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy życiem się znużę wśród rozlicznych burz,<br/>me nogi osłabną i omdleję już,<br/>to słyszę w mym sercu Zbawiciela głos:<br/>"Ja kocham cię, dziecię, zdaj na mnie swój los".</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Miłuje mię Pan, jak błogi to stan,<br/>mej duszy na wieki już pokój jest dan!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jam Panu zaufał i dobrze mi z Nim,<br/>tę radość i szczęście gdzież znajdziesz i w kim?<br/>Przez śmierci dolinę pomoże mi przejść,<br/>z obczyzny do domu ojczystego wejść.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Miłuje mię Pan, jak błogi to stan,<br/>mej duszy na wieki już pokój jest dan!</lines>
+    </verse>
+  </lyrics>
+</song>

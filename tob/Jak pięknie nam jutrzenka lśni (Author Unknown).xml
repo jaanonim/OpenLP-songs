@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:52">
+  <properties>
+    <titles>
+      <title>Jak pięknie nam jutrzenka lśni</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="419"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak pięknie nam jutrzenka lśni, odblaskiem<br/>wiecznej Bożej czci, jak cudnie nam jaśnieje!<br/>Gałązko Ty z Jessego pnia,<br/>Dawidów Synu, chlubo ma, wypełniasz me nadzieje!<br/>Dziwny, Radny, Miłościwy, Szczodrobliwy,<br/>ponad trony, nad niebiosa wywyższony!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Korono ma, Klejnocie cny, Niebieski Synu Maryi,<br/>dostojny świata Królu! Tyś skarbem mym,<br/>ozdobą mą, przesłodką Ewangelią Twą pokrzepiam<br/>się w mym bólu. Jezu, Jezu! Niebios manną nas co<br/>rano dłoń Twa dzieli, byśmy w puszczy nie zginęli.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, wlej do głębi serca, wlej ożywczy zdrój miłości<br/>Swej z niebieskich Swych strumieni;<br/>i stale mi dodawaj sił, bym urodzajnym drzewem był,<br/>co wiecznie się zieleni. Z Tobą, z Tobą serce moje<br/>wiernie spoję, by i siła śmierci nas nie rozłączyła,</lines>
+    </verse>
+  </lyrics>
+</song>

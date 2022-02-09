@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:48">
+  <properties>
+    <titles>
+      <title>Dla mnie życie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="368"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dla mnie życie, to Chrystus,<br/>śmierć mi zyskiem jedynie,<br/>świat mi tylko przynosi<br/>marny blask, który ginie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pańskim jestem, dla Niego<br/>żyję i Dlań umieram,<br/>z obcych stron do ojczyzny<br/>mojej już się wybieram.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nowa Jerozolima jako<br/>kryształ jest lśniąca,<br/>tam jest pokój prawdziwy,<br/>tam jest radość bez końca.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jej budowa od złota<br/>oraz drogich kamieni<br/>wiecznie blaskiem przepięknym<br/>i cudownym się mieni'.</lines>
+    </verse>
+  </lyrics>
+</song>

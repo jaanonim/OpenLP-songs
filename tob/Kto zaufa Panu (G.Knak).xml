@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:38">
+  <properties>
+    <titles>
+      <title>Kto zaufa Panu</title>
+    </titles>
+    <authors>
+      <author type="words">G.Knak</author>
+      <author type="music">G.Knak</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="396"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kto zaufa Panu,<br/>Nie zawiedzie się;<br/>Czyżbym miał być pierwszym,<br/>Który zawiódł się?<br/>Nie, to niemożliwe,<br/>Nie zawiodę się;<br/>Prędzej minie niebo,<br/>Niźli słowo Twe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Proście, a weźmiecie,<br/>Tak przykazaleś nam;<br/>Znajdzie ten, kto szuka,<br/>Co dlań obrał Pan.<br/>Kto we wierze wytrwa,<br/>Swego Pana czci,<br/>Temu, gdy czas przyjdzie,<br/>Pan otworzy drzwi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na Twe słowo, Panie,<br/>Już odważam się<br/>Złożyć u stóp Twoich<br/>Utrapienia swe,<br/>Skryte me kłopoty,<br/>Co dolega mi -<br/>Słowem - wszystko składam,<br/>Bo Ty liczysz łzy.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tyś Pan miłosierny<br/>I przyjaciel mój,<br/>Mego życia słońce,<br/>Mej radości zdrój;<br/>Przez ciemności, zgrozę<br/>I przez śmierci noc<br/>Ty mnie przeprowadzisz,<br/>Boś Ty jest mój Wódz.</lines>
+    </verse>
+  </lyrics>
+</song>

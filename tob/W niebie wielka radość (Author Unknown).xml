@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:38">
+  <properties>
+    <titles>
+      <title>W niebie wielka radość</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="161"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W niebie wielka radość,<br/>gdy nawraca się z drogi<br/>grzechu marnotrawny syn,<br/>Bóg, jak dobry ojciec,<br/>wita dziecię Swe,<br/>chór aniołów śpiewa chwały hymn.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chwała Bogu! śpiewa wiernych zbór,<br/>chwała Mu! aniołów wtórzy chór.<br/>Ziemię z niebem łączy dziś radosny hymn,<br/>bo powrócił marnotrawny syn!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W niebie wielka radość z Bożych łask bez miar;<br/>Bóg odradza ludzkie serca złe,<br/>ciemność z nich oddala, śle światłości dar!<br/>Z grzechu sług On czyni dzieci Swe.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chwała Bogu! śpiewa wiernych zbór,<br/>chwała Mu! aniołów wtórzy chór.<br/>Ziemię z niebem łączy dziś radosny hymn,<br/>bo powrócił marnotrawny syn!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Radość będzie wielka,<br/>jeśli i ty też dasz w ofierze Bogu serce twe.<br/>On cię nie odrzuci, tylko Jemu wierz,<br/>chętnie przyjmie jako dziecię Swe!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Chwała Bogu! śpiewa wiernych zbór,<br/>chwała Mu! aniołów wtórzy chór.<br/>Ziemię z niebem łączy dziś radosny hymn,<br/>bo powrócił marnotrawny syn!</lines>
+    </verse>
+  </lyrics>
+</song>

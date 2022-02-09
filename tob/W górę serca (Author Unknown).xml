@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:48">
+  <properties>
+    <titles>
+      <title>W górę serca</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="360"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W górę serca, ludu Boży, w górę serca, w górę wzrok!<br/>Świat nie złamie, nie zatrwoży nigdy rzeszy Pańskich sług!<br/>Niech się wściekle fale pienią, niech zaszumi głębia wód,<br/>Zbawca skinie, a w strapieniu wnet ujrzymy Boży cud.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Słońce zgasło, już nie świeci, gwiazdy lecą, ziemia drży.<br/>Cieszcie się, wy Boże dzieci, wybawienie już u drzwi.<br/>Świat z boleścią, z krzywdy swymi mija, jak okropny sen,<br/>nad górami nowej ziemi wieczna zorza świta - hen!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nad górami, nad Syjonem wstają blaski złotych zórz,<br/>już nadzieja wielka płonie i do naszych płynie dusz.<br/>Wiecznej chwały ślubny wieniec pokrył nowej ziemi skroń,<br/>idzie w blaskach Oblubieniec, idzie na weselną błoń.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Drzwi rozwarli Cherubowie, w niebie dziś na inny<br/>ton stroją harfy Serafowie, obstępując Boży tron.<br/>Starcy trony opuścili, wszystkie usta pełne pień;<br/>zajaśnieje w każdej chwili sławny i zwycięski dzień!</lines>
+    </verse>
+  </lyrics>
+</song>

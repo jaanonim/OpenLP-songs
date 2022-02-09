@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:29">
+  <properties>
+    <titles>
+      <title>Błogo, o, błogo pokojem Twym żyć</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="254"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Błogo, o, błogo pokojem Twym żyć,<br/>Błogo, o, błogo pokojem Twym żyć<br/>Gdy tylko Twoja wiedzie mię dłoń<br/>Wierzyć i widzieć już rajską błoń!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Błogo, o, błogo pokojem Twym żyć!<br/>Życie me mogę głęboko w nim skryć.<br/>Kroczę wesoło, bo Twoja dłoń<br/>W wierze mnie wiedzie na rajską błoń.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Błogo, o, błogo pokojem Twym żyć,<br/>Trwałej radości nadzieję też mieć,<br/>Bo odpuszczone już grzechy me! Ojcze mój,<br/>Ojcze, jam dziecię Twe!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Błogo, o, błogo pokojem Twym żyć,<br/>Hymny radosne już wiecznie Ci nieść!<br/>Wolnym zupełnie już z mocy złej<br/>Przez krew Twą, Jezu, i z łaski Twej.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Świętym, tak, świętym śmiem,<br/>Panie mój, być,<br/>Czynisz, że czystym jak Ty mogę żyć,<br/>I chrzcisz mnie Duchem i ogniem Swym;<br/>Twój Duch spoczywa nad życiem mym.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jesteś wspaniałym, Jezusie Ty nasz!<br/>Błogie zbawienie pielgrzymom raz dasz,<br/>Kiedy głos trąby wezwie nas tam<br/>Na Twe wesele do niebios bram.</lines>
+    </verse>
+  </lyrics>
+</song>

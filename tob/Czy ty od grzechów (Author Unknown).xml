@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:37">
+  <properties>
+    <titles>
+      <title>Czy ty od grzechów</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="153"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czy ty od grzechów<br/>wolnym być tu chcesz?<br/>Spójrz na Baranka, spójrz!<br/>On i za ciebie<br/>niósł ten straszny krzyż,<br/>spójrz na Baranka wzwyż!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Spójrz w Barankową twarz,<br/>spójrz w Barankową twarz!<br/>Jak On umiera za ciebie!<br/>O, spójrz!<br/>W toń tej miłości patrz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdyś utrapiony,<br/>smutny, w bólu łkasz?<br/>Spójrz na Baranka, spójrz!<br/>On cię podniesie,<br/>twą rozjaśni twarz,<br/>spójrz na Baranka wzwyż!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Spójrz w Barankową twarz,<br/>spójrz w Barankową twarz!<br/>Jak On umiera za ciebie!<br/>O, spójrz!<br/>W toń tej miłości patrz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>W chwili pokusy,<br/>ciężkiej próby twej,<br/>spójrz na Baranka, spójrz!<br/>W Nim jest zwycięstwo<br/>z wszelkiej mocy złej;<br/>spójrz na Baranka wzwyż!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Spójrz w Barankową twarz,<br/>spójrz w Barankową twarz!<br/>Jak On umiera za ciebie!<br/>O, spójrz!<br/>W toń tej miłości patrz!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Słysz, droga duszo,<br/>Bóg ci mówi dziś:<br/>Spójrz na Baranka wzwyż!<br/>Tyś wolna z grzechów,<br/>wiarą Doń się wznieś,<br/>w toń tej miłości spójrz!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Spójrz w Barankową twarz,<br/>spójrz w Barankową twarz!<br/>Jak On umiera za ciebie!<br/>O, spójrz!<br/>W toń tej miłości patrz!</lines>
+    </verse>
+  </lyrics>
+</song>

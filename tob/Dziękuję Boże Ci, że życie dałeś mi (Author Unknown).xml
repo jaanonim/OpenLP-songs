@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:06">
+  <properties>
+    <titles>
+      <title>Dziękuję Boże Ci, że życie dałeś mi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>DZIĘKUJĘ BOŻE CI, ŻE ŻYCIE DAŁEŚ MI<br/>DAŁEŚ JE Z MIŁOŚCI CHOĆ NIE ZASŁUŻYŁ NIKT<br/>TO BYŁ TWÓJ WIELKI Z ŁASKI DAR<br/>ABYM GO MIAŁ JEZUS CIERPIAŁ I ZMARŁ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>JEZUS NA KRZYŻ SZEDŁ<br/>CHOĆ TO BYŁA MOJA WINA I GRZECH<br/>TAK BARDZO CIERPIAŁ TAM<br/>BO UKOCHAŁ MNIE</lines>
+    </verse>
+    <verse name="v3">
+      <lines>BÓG SWOJĄ MIŁOŚĆ CHCE CI DAĆ<br/>ON Z TOBĄ CHCE BYĆ, WIĘC NIE MUSISZ SIĘ BAĆ<br/>I WIECZNE ŻYCIE PRAGNIE DAĆ CI<br/>WIĘC NIE ZWLEKAJ JUŻ BO NIEWIELE JEST DNI</lines>
+    </verse>
+    <verse name="v4">
+      <lines>JEZUS NA KRZYŻ SZEDŁ<br/>CHOĆ TO BYŁA MOJA WINA I GRZECH<br/>TAK BARDZO CIERPIAŁ TAM<br/>BO UKOCHAŁ MNIE</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:36">
+  <properties>
+    <titles>
+      <title>Przyjaciela mam</title>
+    </titles>
+    <authors>
+      <author type="words">E.A.Hoffman</author>
+      <author type="music">E.A.Hoffman</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="358"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przyjaciela mam, co pociesza mnie,<br/>Gdy o jego ramię oprę się,<br/>On pokojem Swym, szczęściem darzy mnie,<br/>Gdy o Jego ramię oprę się!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Boże ramię,<br/>to jest w ucisku pewny gród;<br/>Boże ramię<br/>do niebieskich mnie zawiedzie wrót</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O jak słodko mi Jego uczniem być,<br/>Gdy o Jego ramię oprę się,<br/>W Jego świetle iść, w Jego mocy żyć,<br/>Gdy o Jego ramię oprę się!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bać nie muszę się, ani ronić łez,<br/>Gdy o Jego ramię oprę się,<br/>Pokój w duszy mam, gdy On blisko jest,<br/>Gdy o jego ramię oprę się.</lines>
+    </verse>
+  </lyrics>
+</song>

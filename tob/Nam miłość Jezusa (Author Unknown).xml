@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:07">
+  <properties>
+    <titles>
+      <title>Nam miłość Jezusa</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="20"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nam miłość Jezusa cudowna jest,<br/>Cudowna jest, cudowna jest,<br/>Nam miłość Jezusa cudowna jest,<br/>Cudowna dla nas jest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nam pokój w Jezusie cudowny jest,<br/>Cudowny jest, cudowny jest,<br/>Nam pokój w Jezusie cudowny jest,<br/>Cudowny dla nas jest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zbawienie w Jezusie cudowne jest,<br/>Cudowne jest, cudowne jest,<br/>Zbawienie w Jezusie cudowne jest,<br/>Cudowne dla nas jest.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nam radość w Jezusie cudowna jest,<br/>Cudowna jest, cudowna jest,<br/>Nam radość w Jezusie cudowna jest,<br/>Cudowna dla nas jest.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>W rodzinie z Jezusem cudownie jest,<br/>Cudownie jest, cudownie jest,<br/>W rodzinie z Jezusem cudownie jest,<br/>Cudownie dla nas jest.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nam w szkole z Jezusem cudownie jest,<br/>Cudownie jest, cudownie jest,<br/>Nam w szkole z Jezusem cudownie jest,<br/>Cudownie dla nas jest.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nam w pracy z Jezusem cudownie jest,<br/>Cudownie jest, cudownie jest,<br/>Nam w pracy z Jezusem cudownie jest,<br/>Cudownie dla nas jest.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Wśród ludzi z Jezusem cudownie jest,<br/>Cudownie jest, cudownie jest,<br/>Wśród ludzi z Jezusem cudownie jest,<br/>Cudownie dla nas jest.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Nam wszędzie z Jezusem cudownie jest,<br/>Cudownie jest, cudownie jest,<br/>Nam wszędzie z Jezusem cudownie jest,<br/>Cudownie dla nas jest.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:27">
+  <properties>
+    <titles>
+      <title>W Swej litości, łaskawości</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="219"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W Swej litości, łaskawości,<br/>Jakim jestem, przyjmij mię!<br/>Zbawco święty niepojęty,<br/>Twoim być już odtąd chcę.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>W Tobie szukam ukojenia,<br/>W Tobie pokój duszy mam.<br/>Pobłogosław dziecku Swemu<br/>I zachowaj w łasce Sam!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pełen wiary w Twej ofiary<br/>I w krwi Twojej zbawczą moc<br/>Pójdę z Tobą życia drogą<br/>Bez obawy w ciemną noc.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nocy cienie niech promienie<br/>Łaski Twej rozproszą mi;<br/>Niechaj zawdy, Boże prawdy,<br/>Słońce Twe w ciemnościach lśni!</lines>
+    </verse>
+  </lyrics>
+</song>

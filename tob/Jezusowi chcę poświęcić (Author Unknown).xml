@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:28">
+  <properties>
+    <titles>
+      <title>Jezusowi chcę poświęcić</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="230"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezusowi chcę poświęcić,<br/>Co od Niego mam;<br/>Nic mnie już nie może znęcić,<br/>Wszystko Jemu dam;<br/>Jemu tchnienie, serca bicie,<br/>Jemu całe moje życie;<br/>W Jego obraz przekształtować<br/>Z Niego wszystko mam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezusowi chcę poświęcić<br/>Usta i głos mój.<br/>Nimi wszystkich chcę zachęcić<br/>Podjąć wiary bój,<br/>Świadczyć o tej łasce wielkiej,<br/>Nieść pociechę duszy wszelkiej,<br/>Wielbić, prosić i dziękować.<br/>Z Niego usta mam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezusowi chcę poświęcić<br/>Całą miłość mą.<br/>Świat mnie już nie może znęcić<br/>Przewrotnością swą.<br/>Wszak On mię wprzód umiłował,<br/>Wieczną radość mi zgotował,<br/>Wart, bym miłość Mu dochował<br/>Ponad ziemski bieg.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jezusowi chcę poświęcić<br/>Mego życia zdrój,<br/>Jemu niechaj już należy<br/>Cały żywot mój.<br/>Wszelka praca, me dążenie<br/>Jemu cześć ma nieść jedynie;<br/>W Nim jest tylko poświęcenie,<br/>On jest Zbawca mój!</lines>
+    </verse>
+  </lyrics>
+</song>

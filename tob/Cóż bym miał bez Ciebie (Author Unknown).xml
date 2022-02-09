@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:43">
+  <properties>
+    <titles>
+      <title>Cóż bym miał bez Ciebie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="249"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cóż bym miał bez Ciebie, drogi Jezu mój?<br/>Parę chwil znikomych, pokalany strój;<br/>miałbym, Panie, życie czcze,<br/>strach i ból na serca dnie.<br/>Chociaż bym bez Ciebie zyskał cały świat,<br/>miałbym tylko w sobie wiecznej śmierci jad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czymże ja bez Ciebie, drogi Jezu mój?<br/>Nędzny grzechu jeniec, robak proch i brud.<br/>Wszelka okazałość ma tak niezmiernie krótko trwa.<br/>Choćbym swym rozumem taiemnice zgadł,<br/>jam bez Ciebie żebrak, potępieńców brat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dokąd iść bez Ciebie, drogi Jezu mój?<br/>Na bezdrożach świata płynie gorzki zdrój,<br/>gdzież wytchnienie znajdę, gdzie, gdy mi smutno jest i źle?<br/>Choćbym też bez Ciebie na kraj świata zszedł,<br/>zginąłbym i upadł pod ciężarem bied.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cóż bez Ciebie pocznę, drogi Jezu mój?<br/>Wszelki mój wysiłek, sama klęska, znój,<br/>czystość moja razi złem, marność rządzi zmysłem mym,<br/>chociażbym dokonał wiele sławnych dzieł,<br/>zginę ja bez Ciebie na kształt rannych mgieł.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ale, że mam Ciebie, drogi Jezu mój,<br/>mam w wieczności życie, jam współdziedzic Twój.<br/>Wiem już, dokąd dążyć mi, słowem życia krzepisz Ty,<br/>choćbym stracił dla Cię życie, cały świat,<br/>mój czyn za mną pójdzie do wieczności w ślad.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:48">
+  <properties>
+    <titles>
+      <title>Ileż to zbiega owiec</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="351"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ileż to zbiega owiec od Chrystusowych trzód<br/>w bezdroża na manowiec, na nędzę, mróz i głód.<br/>Przez ciernie, przez gęstwiny, gdzie śmierci rośnie jad,<br/>w przepaście, w rozpadliny torują sobie ślad.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, pójdźmy, by je odszukać,<br/>idą do niechybnych zgub.<br/>Niechże każdy z nas chce choćby jedną<br/>z nich przynieść też do Pańskich stóp!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Któż chce zgubione syny, któż do Jezusa wieść?<br/>Przez ciernie, przez gęstwiny któż gotów mężnie przejść?<br/>Pomimo zimna, głodu któż chętnie pójdzie tam,<br/>by chronić je przed szkodą i wyrwać z, śmierci jam?</lines>
+    </verse>
+    <verse name="c2">
+      <lines>O, pójdźmy, by je odszukać,<br/>idą do niechybnych zgub.<br/>Niechże każdy z nas chce choćby jedną<br/>z nich przynieść też do Pańskich stóp!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jak słodko to godziną wieczorną będzie rzec:<br/>Pasterzu, tę jedyną owieczkę mogłem strzec.<br/>Znalazłem ją strudzoną i pełną trwóg i mąk;<br/>dziś ją na Twoje łono, do Twoich niosę rąk!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>O, pójdźmy, by je odszukać,<br/>idą do niechybnych zgub.<br/>Niechże każdy z nas chce choćby jedną<br/>z nich przynieść też do Pańskich stóp!</lines>
+    </verse>
+  </lyrics>
+</song>

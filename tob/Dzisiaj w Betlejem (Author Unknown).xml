@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:52">
+  <properties>
+    <titles>
+      <title>Dzisiaj w Betlejem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="421"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dzisiaj w Betlejem, Dzisiaj w Betlejem,<br/>zorza jasna dnieje, Anioł w jasności,<br/>Bożej miłości, opowiada dzieje.<br/>Grzech się rozmnożył, szatan się srożył,<br/>śmierć panowała, nędza wzrastała,<br/>Lecz Bóg nas miłował, Syna nie żałował,<br/>w nędzę naszą Go darował.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dzisiaj w Betlejem, Dzisiaj w Betlejem,<br/>głoszą pastuszkowie, Czego człowiecza,<br/>myśl nie dociecze, język nie wypowie.<br/>W żłobie złożony - wyższy nad trony,<br/>w biedzie w chudobie, chwałę ma w Sobie,<br/>Mnożny w Swej niskości, radny w Swej słabości,<br/>dziecię - Ojciec wszechwieczności.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, ty Betlejem, O, ty Betlejem,<br/>grodzie Dawidowy, W stajence w żłobie<br/>Twym Bóg sposobi światu żywot nowy.<br/>Spełnia przymierze, grzech zmazę bierze,<br/>Ducha ochładza, serca odradza,<br/>Anioły śpiewają, pasterze witają,<br/>Cuda, cuda, ogłaszają.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, ty Betlejem, O, ty Betlejem,<br/>grodzie cudnej chwały, Księgi, pomniki,<br/>pieśni języki, będą ci śpiewały.<br/>Tu Zbawca świata woła - Efata, Pójdźcie<br/>na gody do cnej swobody,<br/>Brzemię swe rzucajcie, Króla<br/>uwielbiajcie, serca Jemu oddawajcie.</lines>
+    </verse>
+  </lyrics>
+</song>

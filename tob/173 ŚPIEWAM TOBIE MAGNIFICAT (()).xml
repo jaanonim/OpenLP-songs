@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:46">
+  <properties>
+    <titles>
+      <title>173 ŚPIEWAM TOBIE MAGNIFICAT</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Śpiewam Tobie, śpiewam Panie, śpiewam<br/>Imieniu Twemu.<br/>/X4</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Wielbi ma dusza Pana<br/>Raduje się duch mój w Bogu<br/>On wejrzał na mą małość<br/>Pan dotknął sługę swoją<br/><br/>Śpiewam Tobie, śpiewam Panie, śpiewam<br/>Imieniu Twemu.<br/>/X2</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Pokolenia sławić mnie będą<br/>Wielkie rzeczy mi Pan uczynił<br/>Święte jest Imię Jego<br/>Chwalmy Najwyższego<br/><br/>Śpiewam Tobie, śpiewam Panie, śpiewam<br/>Imieniu Twemu.<br/>/X2</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Darzy miłosierdziem ludzi<br/>Pokolenia żyjące w bojaźni<br/>Okazuje moc swojej ręki<br/>Rozprasza pyszniących się w sercach<br/><br/>Śpiewam Tobie, śpiewam Panie, śpiewam<br/>Imieniu Twemu.<br/>/X2</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Pan strąca władców z tronu<br/>Wywyższa pokornych, ubogich<br/>Głodnych nasyca dobrami<br/>Bogatych odprawia z niczym<br/><br/>Śpiewam Tobie, śpiewam Panie, śpiewam<br/>Imieniu Twemu.<br/>/X2</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>Ujął się za sługą swoim<br/>Izraelem swoim dziedzictwem<br/>Pamiętając o swym miłosierdziu<br/>Obietnicy dla Abrahama	<br/><br/>Śpiewam Tobie, śpiewam Panie, śpiewam<br/>Imieniu Twemu.<br/>/X4</lines>
+    </verse>
+  </lyrics>
+</song>

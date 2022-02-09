@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:13">
+  <properties>
+    <titles>
+      <title>Łaską jesteśmy zbawieni</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Łaską jesteśmy zbawieni<br/>Z łaski możemy tu stać<br/>Łaską usprawiedliwieni<br/>I przez Baranka krew<br/>Wzywasz nas Panie do siebie<br/>Przed Twój w niebie tron<br/>My łaską obdarzeni<br/>Tobie składamy hołd<br/>Tobie składamy hołd<br/>Któż Panie mógł nas oczyścić z naszych win?<br/>Nikt, tylko Ty z łaski swej przez Baranka krew</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:01">
+  <properties>
+    <titles>
+      <title>W obecnych dniach</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="151"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W obecnych dniach mieć musisz Zbawcę,<br/>Co dzisiaj jest kotwicą twą<br/>Upewnij się, upewnij się,<br/>Czy nogi twe, na pewnej skale są?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tą skałą Jezus, tak tylko On<br/>Tą skałą Jezus, jedynie On<br/>Upewnij się, upewnij się,<br/>Czy nogi twe, na pewnej skale są?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W obecnych dniach mieć musisz Biblię,<br/>Co dzisiaj jest opoką twą<br/>Upewnij się, upewnij się,<br/>Czy nogi twe, na pewnej skale są?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tą skałą Jezus, tak tylko On<br/>Tą skałą Jezus, jedynie On<br/>Upewnij się, upewnij się,<br/>Czy nogi twe, na pewnej skale są?</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:43">
+  <properties>
+    <titles>
+      <title>111 Alleluja, chwalcie Pana u świątyni bram!</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alleluja, chwalcie Pana <br/>u świątyni bram! <br/>Chwalcie Go na niebiosach <br/>pośród  gwiazd! <br/>Chwalcie Go za wielkie dzieła <br/>Jego rąk,<br/>Chwalcie Go za potężną <br/>Jego moc. </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wszystko co żyje niech chwali Go! Alleluja</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chwalcie Pana dźwiękiem rogu, <br/>chwalcie Go! <br/>Chwalcie Go na cytrze <br/>i na harfie, <br/>Chwalcie Go na bębnach, <br/>chwalcie tańcem, <br/>Dźwięczcie struny,<br/> niech zaśpiewa flet!  </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na cymbałach dźwięcznych <br/>chwalcie Pana<br/>na cymbałach brzmiących <br/>chwalcie Go! <br/>/x2</lines>
+    </verse>
+  </lyrics>
+</song>

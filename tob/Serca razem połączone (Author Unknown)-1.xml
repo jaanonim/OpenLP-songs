@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:51">
+  <properties>
+    <titles>
+      <title>Serca razem połączone</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="619"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Serca razem połączone<br/>Jezus spaja Duchem Swym;<br/>Niech miłością rozpalone<br/>Modłów Go ogarną tchem.<br/>Jezus głową, my członkami,<br/>Słońcem On, odblaskiem my;<br/>Jezus mistrzem, my sługami,<br/>Jego miłość w nas się tli.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pójdźcie, pójdźcie, łaski dzieci,<br/>Wzmocnić swą społeczność znów!<br/>Niech to święty zapał nieci<br/>Do pełnienia Wodza słów.<br/>Gdy zaś łańcuch się rozrywa,<br/>Gdy nam brak miłości sił,<br/>Niech ufliwie każdy wzywa,<br/>Aby znów spojony był.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O głębokie łaski morze!<br/>My możemy wejrzeć doń,<br/>Wejrzeć w święte serce Boże,<br/>W tę miłości czystą toń.<br/>Bóg, Stworzyciel wszego ducha,<br/>Niezgłębionych cudów cud,<br/>Modłów naszych chętnie słucha,<br/>Bośmy Jego święty lud.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Połącz silnie, Jezu miły,<br/>Rzesze poświęcone Ci,<br/>By tak szczerze Ci służyły,<br/>Jakeś Ojcu służył Ty.<br/>Jak Ty się spoiłeś z nimi,<br/>Tak je razem silnie zwiąż,<br/>By świadczyły dary swymi<br/>Wierną miłość sobie wciąż.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tyś, Miłości, przykazała,<br/>Ze miłością mamy żyć,<br/>Niech więc dusza ogniem pała,<br/>Zawsze życiem Swym ją syć!<br/>Zapal naszych serc świątynię,<br/>Zęby każdy poznać mógł,<br/>Że prawdziwa miłość płynie<br/>Z Twej miłości żywych strug.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jakoś z, Ojcem złączon, Panie,<br/>Ty nas wybawionych spój!<br/>Niechaj z dala nie zostanie<br/>Ani jeden członek Twój;<br/>Niech jedynie Twą miłością<br/>Serca nasze świecić chcą!<br/>Tak rozpozna świat z łatwością,<br/>Żeśmy są drużyną Twą.</lines>
+    </verse>
+  </lyrics>
+</song>

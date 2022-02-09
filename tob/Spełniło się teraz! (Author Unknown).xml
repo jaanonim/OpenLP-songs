@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:39">
+  <properties>
+    <titles>
+      <title>Spełniło się teraz!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="194"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Spełniło się teraz! Szczęśliwy to stan,<br/>nie żyję dla siebie, bo ze mną jest Pan,<br/>On przecież mnie stworzył i grzechy me zmył<br/>i Ducha płomieniem On serce me chrzcił.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Spełniło się teraz! Pan uwolnił mnie,<br/>od chwili tej On przyjacielem mnie zwie.<br/>Czym był dotąd wolnym? Mnie szatan<br/>i świat w swym jarzmie wodzili, w ich sidła jam wpadł.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Spełniło się teraz! Zbawieniem mym Pan!<br/>Na ziemi i w niebie na Niego jam zdań.<br/>Kierować mym losem to Jego jest rzecz,<br/>cokolwiek mi ześle - nie cofnę się wstecz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Spełniło się teraz! Już Ciebie chcę mieć,<br/>Ty serce i usta, i zmysły me święć! Czy mówić,<br/>czy milczeć potrzeba,<br/>Ty radź i wskaż jak mam chwałę największą Ci dać.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Spełniło się teraz! O, w Tobie jam żyw,<br/>niech Twojej światłości ogarnie mię wpływ.<br/>Już Tobie się tylko, tak -<br/>przez hańbę i cześć.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Spełniło się teraz! Zostanie już tak!<br/>Gdy Ciebie mam, żaden nie dręczy mię brak.<br/>Czy żyję, czy z świata zabierze mię śmierć,<br/>o, Zbawco mój drogi, ja Ciebie chcę mieć.</lines>
+    </verse>
+  </lyrics>
+</song>

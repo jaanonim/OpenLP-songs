@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:45">
+  <properties>
+    <titles>
+      <title>Otom Jest, Królu mój</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="496"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Otom Jest, Królu mój,<br/>ja oddaję Ci się,<br/>W służbie Swej użyj mnie i co mam!<br/>Ze dobrego nic we mnie<br/>nie znajdziesz, to wiem,<br/>Jeśli Ty nie napełnisz mnie Sam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Z duszy mej obmyć chciej<br/>wszelki brud Swoją krwią,<br/>Użytecznym narzędziem Swym zrób!<br/>Duchem Swym w sercu mym<br/>wyryć racz wolę Swą,<br/>Bym posłusznie szedł<br/>śladem Twych stóp!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Otom jest, Królu mój,<br/>kładę się do rąk Twych,<br/>Rozpal me serce do służby Swej!<br/>Niech Twój Duch mnie uwolni<br/>od żądz wszelkich złych;<br/>Co nie z Ciebie, to zabrać Ty chciej!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Otom jest, Królu mój,<br/>jednak słaba ma dłoń,<br/>By dla Ciebie móc podjąć tu bój;<br/>Racz uzbroić mię mocą Swą,<br/>w rękę włóż broń,<br/>Użyj mię, jak Sam chcesz,<br/>wszak jam Twój!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Otom jest, Królu mój,<br/>o nic nie chcę już dbać,<br/>Jeśli będzie mię strzec oko Twe;<br/>Kiedy służyć Ci śmiem<br/>i przy boku Twym stać,<br/>Szczęściem tchnie w dzień<br/>i noc serce me.</lines>
+    </verse>
+  </lyrics>
+</song>

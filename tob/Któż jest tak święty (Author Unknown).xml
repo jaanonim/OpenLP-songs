@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:14">
+  <properties>
+    <titles>
+      <title>Któż jest tak święty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="239"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Któż jest tak Święty, jak nasz Pan?<br/>Bogiem jest tylko On!<br/>Nie ma innej skały tu, tylko Bóg!<br/>Któż jest tak Święty, jak nasz Pan?</lines>
+    </verse>
+  </lyrics>
+</song>

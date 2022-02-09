@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:47">
+  <properties>
+    <titles>
+      <title>Jest źródło</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="329"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jest źródło, skąd na grzeszny świat przeczysta spływa krew,<br/>by zatrzeć grzechu każdy ślad, przejednać Boży gniew.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I dla mnie płynie krwi tej zdrój, i mnie uzdrawia on,<br/>bo za mnie także Zbawca mój męczeński poniósł skon.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I łotr na krzyżu ujrzał zdrój, i w nim się czystym stał,<br/>w Chrystusie raj odnalazł swój, i, tam otrzymał dział.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I dla mnie płynie krwi tej zdrój, i mnie uzdrawia on,<br/>bo za mnie także Zbawca mój męczeński poniósł skon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Baranku Boży, Twoja krew i dziś odnawia świat.<br/>Moc Ducha ześlij na nas znów, tak jak za dawnych lat.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>I dla mnie płynie krwi tej zdrój, i mnie uzdrawia on,<br/>bo za mnie także Zbawca mój męczeński poniósł skon.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jam niegdyś także w grzechach żył, lecz Pan wybawił mię.<br/>Do śmierci póki starczy sił radośnie śpiewać chcę:</lines>
+    </verse>
+    <verse name="c4">
+      <lines>I dla mnie płynie krwi tej zdrój, i mnie uzdrawia on,<br/>bo za mnie także Zbawca mój męczeński poniósł skon.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:20">
+  <properties>
+    <titles>
+      <title>Jesteś radością mojego życia</title>
+    </titles>
+    <authors>
+      <author type="words">Damian Lundry</author>
+      <author type="music">Damian Lundry</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="276"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesteś radością mojego życia<br/>O! O! O! Panie mój. // X2<br/>2.Jesteś Miłością...<br/>3.Jesteś Pokojem...<br/>Ty jesteś moim Panem,<br/>Ty jesteś moim Panem,<br/>Ty jesteś moim Panem,<br/>na zawsze jesteś Panem mym. //</lines>
+    </verse>
+  </lyrics>
+</song>

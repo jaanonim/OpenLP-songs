@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:16">
+  <properties>
+    <titles>
+      <title>Chwalimy Pana dziś</title>
+      <title>Geprisen sei der Herr</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="77"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chwalimy Pana dziś<br/>za łaskę, którą daje nam.<br/>Chwalimy Pana dziś<br/>za Jego moc.<br/>Dziś z otwartym sercem<br/>stoję przed Nim,<br/>by oddać Mu siebie<br/>me szczere ja. // 2x //</lines>
+    </verse>
+  </lyrics>
+</song>

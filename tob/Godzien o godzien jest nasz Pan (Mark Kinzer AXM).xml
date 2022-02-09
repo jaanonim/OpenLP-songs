@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:18">
+  <properties>
+    <titles>
+      <title>Godzien o godzien jest nasz Pan</title>
+      <title>Worthy, o worthy are You Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Mark Kinzer AXM</author>
+      <author type="music">Mark Kinzer AXM</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="196"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Godzien o godzien jest nasz Pan<br/>godzien aby przyjąć cześć<br/>i uwielbienia pieśń. //  x2 //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Panie mój , Tyś droższy nad srebro.<br/>Ponad złoto cenniejszy skarb.<br/>Czym przed Tobą jest piękno diamentów,<br/>czyż może Ci coś dorównać Panie mój.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Śpiewajmy Alleluja<br/>przed Baranka tronem,<br/>wielbijmy Go i czcijmy,<br/>śpiewajmy Panu psalm.<br/>Alleluja chwała Barankowi,<br/>On w walce jest zwycięzcą,<br/>Bóg z nami, Król i Pan.</lines>
+    </verse>
+  </lyrics>
+</song>

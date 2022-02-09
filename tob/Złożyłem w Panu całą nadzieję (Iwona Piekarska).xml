@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:33">
+  <properties>
+    <titles>
+      <title>Złożyłem w Panu całą nadzieję</title>
+    </titles>
+    <copyright>(C) 1995 Wydawnictwo Haleeis, Wrocław</copyright>
+    <authors>
+      <author type="words">Iwona Piekarska</author>
+      <author type="music">Iwona Piekarska</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="787"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Złożyłem w Panu całą nadzieję,<br/>Złożyłem w Panu całą nadzieję<br/>On schylił się nade mną<br/>i wysłuchał wołania mego. // x2 //</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Wydobył mnie z dołu zagłady<br/>wydobył mnie z kałuży błota,<br/>a stopy me postawił na skale<br/>i umocnił moje kroki.</lines>
+    </verse>
+  </lyrics>
+</song>

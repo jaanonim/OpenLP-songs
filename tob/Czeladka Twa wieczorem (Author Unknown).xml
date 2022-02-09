@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:53">
+  <properties>
+    <titles>
+      <title>Czeladka Twa wieczorem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="662"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czeladka Twa wieczorem,<br/>Kurczątek słabych wzorem,<br/>Ucieka się do Ciebie,<br/>O miły Ojcze w niebie!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ty nam błogosławiłeś<br/>I zdrowia udzieliłeś<br/>Przez cały dzień miniony,<br/>Bądź za to po¬chwalony!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tyś widział nasze winy<br/>I grzeszne nasze czyny,<br/>Lecz kornie Cię błagamy,<br/>Niech łaski Twej doznamy!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Spokojnej udziel nocy,<br/>Broń od szatańskiej mocy,<br/>O stadku Swym staranie Miej,<br/>czujny Stróżu, Panie!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wysłuchaj to błaganie,<br/>O dobrotliwy Panie!<br/>Dla miłosierdzia Swego<br/>Strzeż stadka wybranego!</lines>
+    </verse>
+  </lyrics>
+</song>

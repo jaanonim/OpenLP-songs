@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:48">
+  <properties>
+    <titles>
+      <title>Raduj, ciesz się, małe, wierne stadko Pańskie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="555"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Raduj, ciesz się, małe, wierne stadko Pańskie,<br/>Już rozkwita w pączki drzewo twe;<br/>Bardzo szybko się przybliża lato wieczne,<br/>Więc podnieście głowy swe!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Spójrzcie wzwyż, spójrzcie wzwyż<br/>I Wznieście głowy wasze wzwyż<br/>- On idzie już! Spójrzcie wzwyż,<br/>spójrzcie wzwyż!<br/>Już odkupienie zbliża się!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wielu mówi teraz, iż Pan nasz odwłacza<br/>Z wypełnieniem tych obietnic Swych;<br/>Jako niegdyś za Noego świat się stacza<br/>Coraz więcej w brud i w grzech.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Inni znowu dumnie w świecie tym wołają:<br/>„Komuż teraz mam posłusznym być?"<br/>Lecz choć szydzą i nas zgubić się starają,<br/>Jednak muszą w trwodze żyć.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wnet już Bóg cierpienia skróci dla wybranych,<br/>Którzy śpieszą tam do rajskich cisz;<br/>Już zakwita wieczna wiosna dla znękanych;<br/>Wznieście głowy wasze wzwyż!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:01">
+  <properties>
+    <titles>
+      <title>Boża miłość</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="124"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>/ Boża miłość jest jako słońce<br/>Ona zawsze i wszędzie nam lśni /x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Wyjdź jej tylko naprzeciw,<br/>Weź z niej tyle ile chcesz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Napełniony miłością,<br/>Czyń, co ona szepcze ci.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Podaj tę miłość dalej<br/>Tym, co wokół ciebie są.</lines>
+    </verse>
+  </lyrics>
+</song>

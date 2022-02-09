@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:31">
+  <properties>
+    <titles>
+      <title>To mój Pan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="644"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To mój Pan, wiele mi uczynił<br/>On moim Bogiem.<br/>To mój Pan wiele mi uczynił<br/>On mnie uzdrowił.</lines>
+    </verse>
+  </lyrics>
+</song>

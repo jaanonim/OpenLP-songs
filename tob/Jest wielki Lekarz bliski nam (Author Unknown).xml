@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:34">
+  <properties>
+    <titles>
+      <title>Jest wielki Lekarz bliski nam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="97"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jest wielki Lekarz bliski nam,<br/>łaskawy, drogi Jezus;<br/>pociesza On po wszystek czas,<br/>nas zbawia tylko Jezus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Słuchaj śpiew aniołów brzmi,<br/>serce od zachwytu drży, śpiewaj,<br/>serce Jego czci: Jezus, Jezus, Jezus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na krzyżu zmarłeś za mnie Ty,<br/>cześć Tobie za to, Jezu!<br/>Baranku Boży, służę Ci i kocham Cię,<br/>mój Jezu!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Słuchaj śpiew aniołów brzmi,<br/>serce od zachwytu drży, śpiewaj,<br/>serce Jego czci: Jezus, Jezus, Jezus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Za grzechy ja nie doznam kar,<br/>przebaczył mi sam Jezus;<br/>zbawienia On mi przyniósł dar,<br/>bo godzien tego - Jezus!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Słuchaj śpiew aniołów brzmi,<br/>serce od zachwytu drży, śpiewaj,<br/>serce Jego czci: Jezus, Jezus, Jezus!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, dzieci Boże, wszystkie wraz,<br/>miłością naszą Jezus! Oddajmyż Mu swe siły,<br/>czas, bo godzien tego Jezus!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Słuchaj śpiew aniołów brzmi,<br/>serce od zachwytu drży, śpiewaj,<br/>serce Jego czci: Jezus, Jezus, Jezus!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Onego dnia wielkiego nam ukaże się nasz Jezus;<br/>On naszą chlubą będzie tam, o, słodkie imię - Jezus.</lines>
+    </verse>
+  </lyrics>
+</song>

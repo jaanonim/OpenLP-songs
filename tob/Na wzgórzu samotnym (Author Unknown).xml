@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:59">
+  <properties>
+    <titles>
+      <title>Na wzgórzu samotnym</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="90"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na wzgórzu samotnym, wśród skał,<br/>Krzyż szorstki i haniebny stał.<br/>Na krzyżu tym zmarł, sam Zbawiciel Pan,<br/>Byś szczęście miał wieczne i pokój bez miar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Pod krzyżem jest miejsce twe /x2<br/>Miliony tam dusz, udało się już,<br/>A wciąż jest jeszcze miejsca dość.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pod krzyżem gdzie skonał nasz Pan,<br/>Był pokój dla wielu już dan.<br/>Lecz Pan czeka wciąż, zaprasza też cię.<br/>O, powiedz, czy krzyż Jego nie wzrusza cię?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zbawiciel chce wziąć rękę twą,<br/>I wieść odtąd już drogą tą,<br/>Przez ciemność i mrok, pewny będzie twój krok,<br/>Czy oddasz dziś życie swe do Zbawcy rąk.</lines>
+    </verse>
+  </lyrics>
+</song>

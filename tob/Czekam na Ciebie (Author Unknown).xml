@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:27">
+  <properties>
+    <titles>
+      <title>Czekam na Ciebie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czekam na Ciebie<br/>Mieszkaj w sercu mym<br/>Moje pragnienie to Ty<br/>Ukryj mnie w sobie, skłoń kolana me<br/>Poznać Cię Jezu lepiej chcę<br/>Weź życie me, przejmij je na zawsze<br/>Tchnij Duchem swym bym skrzydła me<br/>Jak orzeł wzbił</lines>
+    </verse>
+  </lyrics>
+</song>

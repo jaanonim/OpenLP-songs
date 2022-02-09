@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:24">
+  <properties>
+    <titles>
+      <title>Niech pragnący bierze ten życia dar</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="154"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niech pragnący bierze<br/>ten życia dar,<br/>Wszak zbawienia strumień<br/>płynie dziś bez miar;<br/>Więc nie zwlekaj, duszo,<br/>dziś do Pana śpiesz,<br/>Darmo ci je da, więc bierz!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gdyś spragniony, pójdź!<br/>Gdyś zgłodniały, pójdź!<br/>Z zdroju wody żywej pij i czerpaj wciąż.<br/>Mile cię zaprasza wierny Zbawca twój,<br/>Więc Mu serce swoje złóż,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Biedny, opuszczony,<br/>pójdź, jeszcze czas<br/>Bo głos Boży dzisiaj<br/>słodko woła nas!<br/>Więc usłuchaj teraz,<br/>póki jasny dzień -<br/>Zniknie z serca wszelki cień.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kto na wąskiej drodze<br/>swój znajdzie cel,<br/>Tego przyoblecze<br/>Chrystus w lśniącą biel.<br/>Duszo, pójdź więc dzisiaj<br/>za Chrystusem w ślad,<br/>A ten złudny porzuć świat!</lines>
+    </verse>
+  </lyrics>
+</song>

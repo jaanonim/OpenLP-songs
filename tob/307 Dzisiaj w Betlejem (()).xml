@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:55">
+  <properties>
+    <titles>
+      <title>307 Dzisiaj w Betlejem</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dzisiaj w Betlejem, dzisiaj w Betlejem<br/>Wesoła nowina,<br/>Że Panna czysta, że Panna czysta<br/>Porodziła Syna.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chrystus się rodzi, Nas oswobodzi,<br/>Anieli grają, Króle witają,<br/>Pasterze śpiewają, Bydlęta klękają,<br/>Cuda, cuda ogłaszają!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Maryja Panna, Maryja Panna <br/>Dzieciątko piastuje.<br/>I Józef Święty, i Józef Święty <br/>Ono pielęgnuje.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Choć w stajeneczce, choć w stajeneczce <br/>Panna Syna rodzi,<br/>Przecież On wkrótce, przecież On wkrótce <br/>Ludzi oswobodzi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I Trzej Królowie, i Trzej Królowie <br/>Od wschodu przybyli<br/>I dary Panu, i dary Panu <br/>Kosztowne złożyli</lines>
+    </verse>
+  </lyrics>
+</song>

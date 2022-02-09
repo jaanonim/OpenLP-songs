@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:23">
+  <properties>
+    <titles>
+      <title>Laudate Dominum</title>
+    </titles>
+    <authors>
+      <author type="words">J. Berthier</author>
+      <author type="music">J. Berthier</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="351"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Laudate Dominum, laudate Dominum<br/>omnes gentes Alleluja.<br/>Laudate Dominum, laudate Dominum<br/>omnes gentes Alleluja.<br/>***<br/>Chwalcie Pana wszystkie narody Alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

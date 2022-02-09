@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:37">
+  <properties>
+    <titles>
+      <title>Nawróć się, nawróć się</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="149"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nawróć się, nawróć się,<br/>biedne serce, z błędnych dróg!<br/>Błagaj Boga w szczerej skrusze,<br/>by cię przyjął do Swych rąk.<br/>Jeśli chcesz zachować duszę,<br/>skończ już lekkomyślną grzechu grę.<br/>Nawróć się, nawróć się!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nawróć się, pośpiesz się!<br/>Łaski doba minie w lot,<br/>słyszysz z dala sądu gromy,<br/>ogień z niebios pada wrót.<br/>Ach uciekaj już z Sodomy,<br/>zanim Boży gniew pochłonie cię.<br/>Nawróć się, pośpiesz się!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezus zwie, Jezus zwie!<br/>Śpiesz w ramiona Jego, śpiesz!<br/>Z nędzy grzechu cię wyzwoli,<br/>w której trapisz się i schniesz;<br/>Twej się ulituje doli,<br/>wleje balsam w serce twoje mdłe,<br/>Jezus zwie, Jezus zwie!</lines>
+    </verse>
+  </lyrics>
+</song>

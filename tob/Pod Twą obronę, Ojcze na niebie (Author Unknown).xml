@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:38">
+  <properties>
+    <titles>
+      <title>Pod Twą obronę, Ojcze na niebie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="411"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pod Twą obronę, Ojcze na niebie,<br/>Grono Twych dzieci swój powierza los;<br/>Ty nam błogosław, ratuj w potrzebie<br/>I broń od zguby, gdy zagraża cios!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czy toń spokojna, czy huczą fale,<br/>Ty Swoje dzieci w Swej opiece masz;<br/>Wznosimy modły dziś ku Twej chwale,<br/>Boś Ty nam tarczą, Boże, Ojcze nasz</lines>
+    </verse>
+  </lyrics>
+</song>

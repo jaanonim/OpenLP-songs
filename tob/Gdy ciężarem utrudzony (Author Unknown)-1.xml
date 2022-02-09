@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:55">
+  <properties>
+    <titles>
+      <title>Gdy ciężarem utrudzony</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="707"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy ciężarem utrudzony,<br/>Na swej drodze potkniesz się,<br/>Wiedz, że Jezus umęczony,<br/>Zawsze pomóc tobie chce.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tylko On jest jeden w mocy,<br/>W serce smutne radość wlać,<br/>Tylko On, nasz Bóg Wszechmocny,<br/>Może siłę, wiarę dać.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tylko Jezus, twój Zbawiciel,<br/>Serce chce uleczyć ci,<br/>Tylko On, twój Odkupiciel,<br/>Grzech twój zmyje w Swojej krwi.</lines>
+    </verse>
+  </lyrics>
+</song>

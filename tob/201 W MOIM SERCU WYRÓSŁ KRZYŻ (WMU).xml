@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:48">
+  <properties>
+    <titles>
+      <title>201 W MOIM SERCU WYRÓSŁ KRZYŻ</title>
+    </titles>
+    <authors>
+      <author>WMU</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>W moim sercu wyrósł krzyż,<br/>Który życie daje mi,<br/>On przyprowadził mnie do Ciebie<br/>O Panie tylko Ty<br/>Możesz odbudować mój dom</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Maryjo weź mnie za rękę<br/>Podprowadź pod Twego syna,<br/>Przyciśnij mnie do drewna,<br/>Niech spłynie Krew i mnie oczyści.</lines>
+    </verse>
+  </lyrics>
+</song>

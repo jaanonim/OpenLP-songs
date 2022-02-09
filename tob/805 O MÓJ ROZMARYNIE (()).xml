@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:51">
+  <properties>
+    <titles>
+      <title>805 O MÓJ ROZMARYNIE</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O mój rozmarynie, rozwijaj się<br/>O mój rozmarynie rozwijaj się<br/>Pójdę do dziewczyny, pójdę do jedynej<br/>Zapytam się. 2x</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A jak mi odpowie: nie kocham cie,<br/>A jak mi odpowie nie kocham cię,<br/>Ułani werbują, strzelcy maszerują<br/>Zaciągnę się. 2x</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dadzą mi konika cisawego<br/>Dadzą mi konika cisawego<br/>I ostrą szabelkę, i ostrą szabelkę<br/>Do boku mego. 2x</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dadzą mi manierkę z gorzałczyną<br/>Dadzą mi manierkę z gorzałczyną<br/>A żebym nie tęsknił, a żebym nie tęsknił<br/>Za dziewczyną. 2x</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Powiodą z okopów na bagnety,<br/>Powiodą z okopów na bagnety,<br/>Bagnet mnie ukłuje, śmierć mnie ucałuje,<br/>Ale nie ty. 2x </lines>
+    </verse>
+  </lyrics>
+</song>

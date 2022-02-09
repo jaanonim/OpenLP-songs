@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:47">
+  <properties>
+    <titles>
+      <title>Zbudź, Panie ducha ojców wiary</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="344"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zbudź, Panie ducha ojców wiary, Syjonu<br/>stróżów, którzy dzierżąc straż, tak w nocy,<br/>jak też w dzienne skwary stawali wrogom<br/>śmiało twarzą w twarz!<br/>Daj, by ich głos po krańce ziemi biegł,<br/>by cały świat u stóp Twych kornie legł.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niech ogień Twój rozpłomienieje i<br/>rychło już obiegnie wszystek kraj.<br/>O, Panie, niwa już bieleje, więc<br/>robotników do tej pracy daj.<br/>Ulituj się, ulituj, Panie żniw, boć<br/>robotników mało, wiele żniw!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wszak Syn Twój słowy wyraźnymi<br/>rozkazał uczniom o to modlić się,<br/>więc nawiedź kraje wszystkiej ziemi,<br/>ożywczym przebudzeniem nawiedź je!<br/>Gorąco prosim: Panie, nawiedź nas,<br/>o, daj narodom wszystkim łaski czas!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ewangelistów rzesze mnogie wzbudź,<br/>Panie, zbrojne w słowa Twego moc,<br/>z pomocą śpiesz, złam siły wrogie,<br/>szatana ukróć, rozpędź grzechu noc.<br/>Niech będzie grzechu w świecie coraz mniej,<br/>niech wszystkie ludy chodzą w chwale Twej!</lines>
+    </verse>
+  </lyrics>
+</song>

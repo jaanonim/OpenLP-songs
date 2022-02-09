@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:46">
+  <properties>
+    <titles>
+      <title>Chcemy, o Chryste, do śmierci być Twoi</title>
+    </titles>
+    <authors>
+      <author type="words">R.Sallens</author>
+      <author type="music">R.Sallens</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="511"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chcemy, o Chryste, do śmierci być Twoi,<br/>Chcemy do śmierci wiernymi Ci być.<br/>Nasza drużyna przy Wodzu swym stoi,<br/>Aby Go słuchać i aby Go czcić.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chcemy posłusznie, bez żadnej obawy<br/>Drogą krzyżową za Tobą iść w ślad;<br/>Za nas stoczyłęś bój ciężki i krwawy,<br/>Za nas do grobu ciemnegoś się kładł.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Myśmy pod krzyżem się Twoim zebrali,<br/>Świętym przymierzem połączył nas krzyż;<br/>Tobieśmy serca na wieki oddali -<br/>Przyjmij i w księgi żywota je wpisz!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kiedy nas pokus nawała oblęże,<br/>Ty do zwycięstwa Sam nas będziesz wiódł,<br/>Boś już pokruszył szatana oręże;<br/>Przez Ciebie śmierci zburzony jest gród.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Chcemy do śmierci być Tobie oddani,<br/>Chcemy należeć do wiernych Twych sług,<br/>Bo ns prowadzisz do pewnej przystani,<br/>W chwałę zwycięstwa,<br/>Gdzie Ojciec nasz Bóg</lines>
+    </verse>
+  </lyrics>
+</song>

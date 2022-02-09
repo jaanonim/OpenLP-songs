@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:28">
+  <properties>
+    <titles>
+      <title>W mą duszę promień słońca padł</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="252"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W mą duszę promień słońca padł<br/>I światłem zalał serce me.<br/>O któżby Jezu z ludzi zgadł,<br/>Że taki pokój w śmierci Twej</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O jak pięknie słońce świeci,<br/>Jego światło grzeje mnie.<br/>W mym sercu ogień pali się,<br/>Ja pragnę Jezu wielbić Cię</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W mym sercu niegdyś władła noc,<br/>Lecz jasny się pojawił dzień,<br/>Gdy krwi Jezusa cudną moc<br/>Poznawszy uwierzyłem weń.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Radości świata pełne złud<br/>Odejdźcie precz wszak Zbawcę mam.<br/>On szczęściem syci duszy głód,<br/>On drogi me oświecił sam.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Chwal teraz Pana serce me,<br/>Bo zmartwychwstania w Nim jest moc.<br/>Więc śpiewaj Jemu pieśni swe<br/>Po wszystkie dni aż w śmierci noc.</lines>
+    </verse>
+  </lyrics>
+</song>

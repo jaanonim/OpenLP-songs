@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:27">
+  <properties>
+    <titles>
+      <title>Psalm 121</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="298"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oczy moje wznoszę wzwyż,<br/>Skąd nadejdzie pomoc mi?<br/>Pomoc moją Sam Pan<br/>Co dzień z nieba zsyła mi.<br/>Pan cię będzie strzec<br/>Od wszelkiego zła,<br/>Strzec będzie duszy twej.<br/>Pan strzec będzie wyjścia<br/>I wejścia twego.<br/>Odtąd aż i na wieki!<br/>Pan jest stróżem twym</lines>
+    </verse>
+  </lyrics>
+</song>

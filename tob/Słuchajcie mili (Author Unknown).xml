@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:36">
+  <properties>
+    <titles>
+      <title>Słuchajcie mili</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="135"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Słuchajcie mili, wielkich słów,<br/>to wiecznej łaski plan,<br/>o, dalej je podajcie znów,<br/>dziś mię ratuje Pan!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dziś mię zbawia Pan,<br/>dziś mię zbawia Pan,<br/>wybawia Jezus w każdy czas,<br/>dziś mię ratuje Pan!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy grzechy wasze są jak krew,<br/>sumienie pełne ran,<br/>niech wiara wasza nuci śpiew,<br/>dziś mię ratuje Pan</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Dziś mię zbawia Pan,<br/>dziś mię zbawia Pan,<br/>wybawia Jezus w każdy czas,<br/>dziś mię ratuje Pan!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy nęci świat, nalega wróg,<br/>duch pokusami gnan,<br/>to słowo was wyzwoli z trwóg,<br/>dziś mię ratuje Pan!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Dziś mię zbawia Pan,<br/>dziś mię zbawia Pan,<br/>wybawia Jezus w każdy czas,<br/>dziś mię ratuje Pan!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy jest nad siły ciężar wasz,<br/>a chleb wasz łzami zlan,<br/>wyznajcie wznosząc w niebo twarz:<br/>Dziś mię ratuje Pan!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Dziś mię zbawia Pan,<br/>dziś mię zbawia Pan,<br/>wybawia Jezus w każdy czas,<br/>dziś mię ratuje Pan!</lines>
+    </verse>
+  </lyrics>
+</song>

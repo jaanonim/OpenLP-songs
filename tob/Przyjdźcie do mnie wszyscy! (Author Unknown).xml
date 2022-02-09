@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:36">
+  <properties>
+    <titles>
+      <title>Przyjdźcie do mnie wszyscy!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="130"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przyjdźcie do mnie wszyscy!<br/>z nieba głos nas woła,<br/>we mnie źródło szczęścia,<br/>Ja orzeźwię was i ocierać będę,<br/>pot płynący z czoła<br/>i ziemskiego znoju wam osłodzę czas.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przyjdźcie do mnie wszystkie zbłąkane owieczki!<br/>Jam jest Pasterz dobry!<br/>Tu w objęciu Mym w sercu Moim<br/>dla was jest miejsce ucieczki,<br/>bezpiecznie i słodko odpocznijcie w Nim.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pójdźcie do mnie wszyscy smutni,<br/>uciśnieni! Którym ziemskie szczęście już pochłonął grób,<br/>radość wam niebiańska duszę rozpromieni,<br/>gdy się przytulicie tu do moich stóp!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Przyjdźcie! Ja tu zawsze na was oczekuję,<br/>wzywam we dnie, w nocy, by wam łaskę dać,<br/>każdą prośbę waszą, każdą łzę przyjmuję,<br/>i wszystkie pociechy na was pragnę zlać. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

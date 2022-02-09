@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:25">
+  <properties>
+    <titles>
+      <title>Przecudna wieść w świat cały płynie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="172"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przecudna wieść w świat cały płynie<br/>i miło i słodko wciąż brzmi,<br/>że Jezus nam daje zbawienie,<br/>Otworzył do niebios już drzwi.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, wierz, że za ciebie też płynie<br/>Ten strumień przedrogiej tej krwi;<br/>Więc wierz Mu i przyjmij zbawienie!<br/>Jest ono dla ciebie i mnie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On zstąpił od Ojca miłego,<br/>Opuścił Swój tron pełen chwał,<br/>Potęgę zwyciężył On złego<br/>I światło w ciemności nam dał</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, pójdźże i oddaj się Jemu -<br/>Znękany, strudzony, pójdź Doń!<br/>Ofiaruj swe życie już Temu,<br/>Co cierniem dał zranić Swą skroń!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nikt inny nie zbawi człowieka,<br/>Jak Jezus, Zbawiciel ten nasz;<br/>Cierpliwie na ciebie On czeka.<br/>O bracie, pójdź, póki czas masz?</lines>
+    </verse>
+  </lyrics>
+</song>

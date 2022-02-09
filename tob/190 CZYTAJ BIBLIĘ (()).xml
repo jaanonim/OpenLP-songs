@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:47">
+  <properties>
+    <titles>
+      <title>190 CZYTAJ BIBLIĘ</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Czytaj Biblię, módl się co dzień,<br/>módl się co dzień, módl się co dzień,<br/>Czytaj Biblię, módl się co dzień,<br/>Jeśli wzrastać chcesz.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Zrobię z ciebie rybaka dusz...<br/>Nieprzyjaciół pozdrawiaj też...</lines>
+    </verse>
+  </lyrics>
+</song>

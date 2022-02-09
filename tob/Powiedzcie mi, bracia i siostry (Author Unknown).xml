@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:56">
+  <properties>
+    <titles>
+      <title>Powiedzcie mi, bracia i siostry</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="731"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Powiedzcie mi, bracia i siostry,<br/>gdzie spiesznie zdążacie w ten czas?<br/>Wszak burze szaleją na dworze,<br/>czy z sobą weźmie cię i nas?<br/>My wszyscy idziemy na Syjon,<br/>tam szczęście i radość wciąż trwa,<br/>Nie straszą nas wichry ni burze,<br/>bo Chrystus nagrodę nam da.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Niedługo wędrówki tej kres,<br/>i koniec tych smutków i łez.<br/>Wnet przyjmie nas Chrystus do Siebie,<br/>będziemy szczęśliwi tam z Nim.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ach, chętnie i ja bym tam poszedł,<br/>gdzie rajski jaśnieje ten gród,<br/>Lecz zbłądzę, nie znana mi droga,<br/>i serce me pełne jest trwóg.<br/>Nie lękaj się, bracie, chodź z nami,<br/>nas Chrystus prowadzi wciąż Sam,<br/>On da ci Swą radość i pokój,<br/>wprowadzi do rajskich tych bram.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Więc weźcie mię bracia ze sobą,<br/>i ja chcę podążać w ten gród,<br/>Gdzie nie ma ni smutków m zmartwień,<br/>gdzie Panem i Królem jest Bóg.<br/>Ach, witaj nam, witaj nasz bracie,<br/>chodź szybko i rękę swą daj;<br/>My chcemy wszak razem podążać,<br/>w szczęśliwy, niebieski ten kraj!</lines>
+    </verse>
+  </lyrics>
+</song>

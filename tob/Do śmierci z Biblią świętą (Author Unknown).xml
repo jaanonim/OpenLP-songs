@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:31">
+  <properties>
+    <titles>
+      <title>Do śmierci z Biblią świętą</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="41"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Do śmierci z Biblią świętą<br/>ja nie rozstanę się,<br/>radością niepojętą<br/>napełnia ona mię.<br/>Nigdy ja, nigdy ja<br/>mej Biblii nie porzucę!<br/>Nigdy ja, nigdy ja<br/>nie porzucę księgi tej.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy drogi cel się zatrze<br/>wśród życia mego burz,<br/>znów na Golgotę patrzę,<br/>bo Biblia to mój stróż.<br/>Nigdy ja, nigdy ja<br/>mej Biblii nie porzucę!<br/>Nigdy ja, nigdy ja<br/>nie porzucę księgi tej.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Do łez mię ona wzrusza,<br/>z niej bije prawdy zdrój,<br/>z niej życie czerpie dusza,<br/>to skarb najdroższy mój<br/>Nigdy ja, nigdy ja<br/>mej Biblii nie porzucę!<br/>Nigdy ja, nigdy ja<br/>nie porzucę księgi tej.</lines>
+    </verse>
+  </lyrics>
+</song>

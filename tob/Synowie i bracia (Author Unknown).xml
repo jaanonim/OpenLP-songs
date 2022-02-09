@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:30">
+  <properties>
+    <titles>
+      <title>Synowie i bracia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="588"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bóg nie dał nam ducha niewoli,<br/>wszystkich nas Jezus wyzwolił.<br/>Duch Święty wspiera świadectwem<br/>śpiewajmy Alleluja.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Alleluja!<br/>Alleluja!<br/>Alleluja!<br/>Alleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kościół jak drzewo oliwne,<br/>wyrasta z Bożych korzeni,<br/>wszyscy w to drzewo wszczepieni<br/>śpiewajmy Alleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bóg z nami po stronie życia<br/>Bóg z nami przeciwko śmierci,<br/>uczynił nas swymi dziećmi,<br/>śpiewajmy Alleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ludzkość jest jedną rodziną<br/>i nic tej prawdy nie zaćmi,<br/>synowie Boga są braćmi,<br/>śpiewajmy Alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

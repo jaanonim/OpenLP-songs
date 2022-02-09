@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:01">
+  <properties>
+    <titles>
+      <title>Jezus przy słuchawce</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="146"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus przy słuchawce<br/>czeka na twój głos /x3<br/>Czemu nie zadzwonisz dziś?<br/>Zadzwoń dziś, zadzwoń dziś,<br/>Powiedz czego chcesz /x3<br/>Jezus czeka na twój głos.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pragniesz mieć zbawienie,<br/>Powiedz czego chcesz /x3<br/>Jezus czeka na twój głos.<br/>Zadzwoń dziś, zadzwoń dziś,<br/>Powiedz czego chcesz /x3<br/>Jezus czeka na twój głos.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pragniesz oczyszczenia,<br/>Powiedz czego chcesz /x3<br/>Jezus czeka na twój głos.<br/>Zadzwoń dziś, zadzwoń dziś,<br/>Powiedz czego chcesz /x3<br/>Jezus czeka na twój głos.</lines>
+    </verse>
+  </lyrics>
+</song>

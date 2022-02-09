@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:27">
+  <properties>
+    <titles>
+      <title>To wcale nie taki wielki trud</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="214"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To wcale nie taki wielki trud zbawienie<br/>Posiąść tu: daj serce Panu, by cię<br/>Wiódł i szczerze uwierz Mu</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A na końcu twej podróży<br/>Pan koronę da,<br/>/ Pan koronę da /x2<br/>jeśli przy nim wytrwasz wiernie,<br/>Pan koronę da, Pan koronę da<br/>W niebie da.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Radości czas nadejdzie dziś jakiego nie zna<br/>Świat, gdy rzucisz ziemskie złudne sny,<br/>Za Zbawcą idąc w ślad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I będzie cichą praca twa, a hojny pracy<br/>Plon, Pan sam błogosławieństwo da, twój<br/>Trud uświęci on:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A w pracy twej nie zaznasz trwóg, nie<br/>Zbraknie ci do niej sił.<br/>Pan wie, co zdziałać<br/>Będziesz mógł , byś pożytecznym był;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Od Pana wszystko przyjmiesz rad, On<br/>Twe potrzeby zna. Ten Pan, co drzewu daje<br/>Kwiat, w swym czasie owoc da:</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Popłynie cicho życie twe bez trwogi i bez<br/>Burz, więc Panu śmiało oddaj się<br/>i ufność swą w Nim złóż.</lines>
+    </verse>
+  </lyrics>
+</song>

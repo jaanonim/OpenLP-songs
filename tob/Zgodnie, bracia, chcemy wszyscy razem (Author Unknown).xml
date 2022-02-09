@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:03">
+  <properties>
+    <titles>
+      <title>Zgodnie, bracia, chcemy wszyscy razem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="850"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zgodnie, bracia, chcemy wszyscy razem<br/>Dla Jezusa znosić każdy trud,<br/>Pracujemy póki lata młode,<br/>Pracy naszej błogosławi Bóg.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wszystko dla Pana!<br/>Z pieśnią idźmy w przód,<br/>Do niebieskich wrót.<br/>Wszystko dla Pana!<br/>W niebie da nagrodę Bóg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Póki młodość, siłę, zapał mamy,<br/>Dla Jezusa tylko chcemy żyć;<br/>O miłości Jego wszystkim mówić,<br/>Dla Chrystusa ciągle czynnym być.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z wiarą w sercu poprzez życie kroczyć,<br/>I z pokorą chcemy nosić krzyż;<br/>Wszystkim grzesznym o Jezusie głosić,<br/>I prowadzić ich do Zbawcy wzwyż.</lines>
+    </verse>
+  </lyrics>
+</song>

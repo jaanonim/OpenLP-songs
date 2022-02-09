@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:05">
+  <properties>
+    <titles>
+      <title>Błogosławię Cię</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>BŁOGOSŁAWIĘ CIĘ KIEDY ZIEMIA WYDAJE PLON<br/>GDY OBFITOŚĆ PANIE ZLEWASZ SWĄ, BŁGOSŁAWIĘ CIĘ<br/>BŁOGOSŁAWIĘ CIĘ, KIEDY DROGĘ MOJĄ ZNACZY CIERŃ<br/>CHOCIAŻ CIERPIĘ PRAGNĘ CHWALIĆ CIĘ, BŁOGOSŁAWIĘ CIĘ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ZA TWĄ ŁASKĘ, KTÓRĄ ZSYŁASZ JA CHWALĘ CIĘ<br/>CHOĆBY CIEMNOŚĆ MNIE PRZYKRYŁA, JA POWIEM ŻE<br/>PANIE BŁOGOSŁAWIĘ IMIĘ TWE, BŁOGOSŁAWIĘ CIĘ<br/>PANIE BŁOGOSŁAWIĘ IMIĘ TWE<br/>BŁOGOSŁAWIĘ ŚWIĘTE IMIĘ TWE</lines>
+    </verse>
+    <verse name="v3">
+      <lines>BŁOGOSŁAWIĘ CIĘ KIEDY SŁOŃCA BLASK OŚWIECA MNIE<br/>TO CO DAJESZ MI NAJLEPSZE JEST, BŁOGOSŁĄWIĘ CIĘ<br/>BŁOGOSŁAWIĘ CIĘ GDY PUSTYNIA W KRĄG OTACZA MNIE<br/>CHOĆBYM PRZEZ PUSTKOWIE SZEDŁ, BŁOGOSŁAWIĘ CIĘ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ZA TWĄ ŁASKĘ, KTÓRĄ ZSYŁASZ JA CHWALĘ CIĘ<br/>CHOĆBY CIEMNOŚĆ MNIE PRZYKRYŁA, JA POWIEM ŻE<br/>PANIE BŁOGOSŁAWIĘ IMIĘ TWE, BŁOGOSŁAWIĘ CIĘ<br/>PANIE BŁOGOSŁAWIĘ IMIĘ TWE<br/>BŁOGOSŁAWIĘ ŚWIĘTE IMIĘ TWE</lines>
+    </verse>
+    <verse name="v5">
+      <lines>TY DAJESZ Z WOLI SWEJ, ZABIERASZ KIEDY CHCESZ<br/>W MYM SERCU ZAWSZE CHCĘ, BŁOGOSŁAWIĆ CIĘ</lines>
+    </verse>
+  </lyrics>
+</song>

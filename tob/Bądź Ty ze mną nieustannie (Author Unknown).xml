@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:57">
+  <properties>
+    <titles>
+      <title>Bądź Ty ze mną nieustannie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="756"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bądź Ty ze mną nieustannie,<br/>Radość ziemska tylko cień.<br/>Twą dobrocią niezrównaną<br/>Oświeć Sam mój mroczny dzień.<br/>Przyjaciele moi w grobie,<br/>Lecz żyjących wezwać racz,<br/>Aby serca dali Tobie,<br/>Zapomnieli smutek, płacz'.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Zbawicielu, zostań ze mną.<br/>Trzymaj moją rękę Sam,<br/>Bym w pielgrzymce swej codziennie<br/>Bliżej był do niebios bram.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Panie, Duch Twój niech zostanie,<br/>Niech promienie łaski Twej,<br/>Oświetlają nieustannie<br/>Kroki przyszłej drogi mej.<br/>Tyś mi codzień milszym, Panie.<br/>Nie skąp światła, więcej zlej,<br/>A jaśniejszym niech się stanie<br/>Schyłek życia duszy mej.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bądź więc ze mną nieustannie,<br/>Mocniej mię w objęcia chwyć,<br/>Abym w falach wód Jordanu<br/>Nie zatonął, lecz mógł żyć.<br/>W dniu radosnym zmartwychwstania,<br/>Otwierając, Boże, raj,<br/>Pozwól w nowym dniu spotkania<br/>Ujrzeć Ciebie, łaskę daj.</lines>
+    </verse>
+  </lyrics>
+</song>

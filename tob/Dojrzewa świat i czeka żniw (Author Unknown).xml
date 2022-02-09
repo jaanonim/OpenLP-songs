@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:47">
+  <properties>
+    <titles>
+      <title>Dojrzewa świat i czeka żniw</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="346"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dojrzewa świat i czeka żniw;<br/>bieleje kłos, dojrzewa złe.<br/>O, żeńcy, śpieszcie się, kto żyw,<br/>nim łaski czas zakończy się!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>// Pośpieszcie się i zżęty plon<br/>przed Chrystusowy znoście tron! //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na krzyżu Pan dał życie Swe.<br/>Tak bardzo ten miłował świat.<br/>O, kiedyś On zapyta cię:<br/>/Gdzie jest twój brat?/x2</lines>
+    </verse>
+    <verse name="c2">
+      <lines>// Pośpieszcie się i zżęty plon<br/>przed Chrystusowy znoście tron! //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dojrzewa świat i czeka żniw,<br/>wybujał grzech i moce zła.<br/>Zwalczajcie ten przemożny wpływ,<br/>ratujcie pilnie, co się da!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>// Pośpieszcie się i zżęty plon<br/>przed Chrystusowy znoście tron! //</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jak smutne to, gdy żeńcy śpią.<br/>A śmierć zagarnia hojny łup!<br/>Któż ujmie się za sprawą Twą,<br/>gdy ześlesz, Panie, chwilę prób?</lines>
+    </verse>
+    <verse name="c4">
+      <lines>// Pośpieszcie się i zżęty plon<br/>przed Chrystusowy znoście tron! //</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Za naród nasz też umarł Pan<br/>i wylał zań najdroższą krew.<br/>I krwią, i łzą ten zrosił łan,<br/>by ziarno w nim oczyścić z plew.</lines>
+    </verse>
+    <verse name="c5">
+      <lines>// Pośpieszcie się i zżęty plon<br/>przed Chrystusowy znoście tron! //</lines>
+    </verse>
+    <verse name="v6">
+      <lines>On jeszcze sierp zapuści Swój,<br/>nadejdzie sąd i czasy żniw.<br/>O, powstań więc i siły zdwój,<br/>ratując innych, będziesz żyw!</lines>
+    </verse>
+    <verse name="c6">
+      <lines>// Pośpieszcie się i zżęty plon<br/>przed Chrystusowy znoście tron! //</lines>
+    </verse>
+  </lyrics>
+</song>

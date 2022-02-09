@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:47">
+  <properties>
+    <titles>
+      <title>Gdy zawoła Bóg do pracy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="339"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy zawoła Bóg do pracy na Swą niwę wiernych<br/>sług, ziarno prawdy w serca ludu każe siać.<br/>Bym był zdolny stanąć z nimi, udział czynny w niej<br/>brać mógł, życie swe w ofierze chciałbym za lud dać.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pan Bóg woła:<br/>„Kogo poślę? Kto do ludu z prawdą pójdzie?"<br/>Powiedz zaraz drogi bracie:<br/>„Oto Panie! Gotów jestem, poślij mię".</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy zawoła lud znękany do obrony swoich praw,<br/>choćby złote góry w drodze stawiał wróg.<br/>Ilem zdolny bronić będę szczerą prawdę, jego praw.<br/>Ducha mego wzmocni siłą swą mój Bóg.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Pan Bóg woła:<br/>„Kogo poślę? Kto do ludu z prawdą pójdzie?"<br/>Powiedz zaraz drogi bracie:<br/>„Oto Panie! Gotów jestem, poślij mię".</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy przechodzić będę szkołę ciężkich, przykrych<br/>życia prób, pokuszenia, by doświadczyć ześle Bóg,<br/>w imię Mistrza będę walczyć, chodzić śladem Jego<br/>stóp, aż nastąpi kres doświadczeń Jego sług.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Pan Bóg woła:<br/>„Kogo poślę? Kto do ludu z prawdą pójdzie?"<br/>Powiedz zaraz drogi bracie:<br/>„Oto Panie! Gotów jestem, poślij mię".</lines>
+    </verse>
+  </lyrics>
+</song>

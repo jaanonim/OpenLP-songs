@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:36">
+  <properties>
+    <titles>
+      <title>Czemuż dusza twoja</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="134"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czemuż dusza twoja lgnie do światowych znikomości,<br/>które w proch rozsypią się,<br/>w których śmierci robak gości.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szukaj Zbawcy, tylko z Nim,<br/>znajdziesz szczęście w świecie tym.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rozproszone myśli zbierz,<br/>by do Boga cię podniosły,<br/>ścieżek prawdy wiernie strzeż,<br/>by owoce łaski wzrosły.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Szukaj Zbawcy, tylko z Nim,<br/>znajdziesz szczęście w świecie tym.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Czy nie widzisz,<br/>że ten świat nosi w sobie śmierci znamię,<br/>depcze niewinności kwiat i przymierze Boże łamie?</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Szukaj Zbawcy, tylko z Nim,<br/>znajdziesz szczęście w świecie tym.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wciąż majestat Bożych chwał miej przed okiem,<br/>miej w pamięci! Obyś w modłacn wiernie trwał,<br/>gdy cię świat do grzechu nęci.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Szukaj Zbawcy, tylko z Nim,<br/>znajdziesz szczęście w świecie tym.</lines>
+    </verse>
+  </lyrics>
+</song>

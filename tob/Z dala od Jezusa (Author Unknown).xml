@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:39">
+  <properties>
+    <titles>
+      <title>Z dala od Jezusa</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="427"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z dala od Jezusa<br/>szczęściem znaleźć chciał,<br/>Aż On, dobrotliwy,<br/>Sam mi szczęście dał,<br/>W Swoim świętym słowie<br/>On powiedział mi,<br/>Żem dziecięciem Bożym<br/>przez moc Jego krwi,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Błogo, błogo, gdy On trzyma mię;<br/>Błogo, błogo więc Mu służyć chcę.<br/>Cóż innego zdoła dać tak szczęsny los,<br/>Jak Jezusa cichy, pełny łaski głos?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W chwili pokuszenia<br/>rzecze do mnie On:<br/>Nie bój się, bo we Mnie<br/>masz bezpieczny schron!<br/>A gdy wróg mi grozi,<br/>patrzę ufnie wzwyż,<br/>W znak miłości Bożej,<br/>w swego Zbawcy krzyż.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Słyszysz, jak rozkosznie<br/>głos Jezusa brzmi?<br/>Z troską swą do Niego<br/>możesz pójść i ty;<br/>On pociechę pewną<br/>w doświadczeniu da,<br/>Tylko niech zaufa Jemu<br/>dusza twa.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:36">
+  <properties>
+    <titles>
+      <title>Potrzebnyś mi, o Panie mój</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="357"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Potrzebnyś mi, o Panie mój,<br/>Żyć pragnę w obecnośći Twej,<br/>Potrzeba mi Twej mocy w bój;<br/>Swym Duchem mnie napełnić chciej!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ja pragnę z Tobą, Panie żyć,<br/>Z dniem każdym bliżej Ciebie być.<br/>Czy ciemna noc, czy słońce lśni,<br/>Bądź zawsze wszędzie wszystkim mi!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja potrzebuję Ciebie wciąż,<br/>Na progu, czy u schyłku dnia,<br/>Czy w mroku, lub czy w czasie burz;<br/>Twój Duch mi prawe światło da.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Potrzeba mi, by miłość Twa<br/>I cichy głos Twój wiodły mnie,<br/>By łaska Twa przede mną szła,<br/>Bym widział wciąż oblicze Twe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mnie więcej trzeba mocy Twej<br/>Do życia - Twój ją daje krzyż.<br/>Potrzebnyś mi na ziemi tej<br/>I gdy do chwał mnie weźmiesz wzwyż.</lines>
+    </verse>
+  </lyrics>
+</song>

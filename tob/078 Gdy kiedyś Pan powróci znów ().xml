@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:41">
+  <properties>
+    <titles>
+      <title>078 Gdy kiedyś Pan powróci znów</title>
+    </titles>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy kiedyś Pan powróci znów,<br/>Gdy kiedyś Pan powróci znów,<br/>Abyśmy też tam byli,<br/>	gdy kiedyś Pan powróci znów.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy Święci swój opuszczą grób,<br/>Gdy Święci swój opuszczą grób,<br/>Abyśmy też tam byli,<br/>	gdy Święci swój opuszczą grób.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy Boga tron otoczą w krąg,<br/>Gdy Boga tron otoczą w krąg,<br/>Abyśmy też tam byli,<br/>	gdy Boga tron otoczą w krąg.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy Księgę swą otworzy Bóg,<br/>Gdy Księgę swą otworzy Bóg,<br/>Abyśmy też tam byli,<br/>	gdy Księgę swą otworzy Bóg.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gdy po imieniu wezwie Pan,<br/>Gdy po imieniu wezwie Pan,<br/>Abyśmy też tam byli,<br/>	gdy po imieniu wezwie Pan.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Gdy ucztę nam zgotuje Bóg,<br/>Gdy ucztę nam zgotuje Bóg,<br/>Abyśmy też tam byli,<br/>	gdy ucztę nam zgotuje Bóg.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Gdy zabrzmi pieśń: Alleluja,<br/>Gdy zabrzmi pieśń: Alleluja,<br/>Abyśmy też tam byli,<br/>	gdy zabrzmi pieśń: Alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

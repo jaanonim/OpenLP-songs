@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:51">
+  <properties>
+    <titles>
+      <title>Teraz w młodych życia latach</title>
+    </titles>
+    <authors>
+      <author type="words">L.H.Donner</author>
+      <author type="music">L.H.Donner</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="636"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Teraz w młodych życia latach<br/>Gotowiśmy z Panem iść<br/>W białych odrodzenia szatach,<br/>Jego jarzmo chętnie nieść.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, dla sprawy swego Pana<br/>Nigdy swych nie żałuj sił;<br/>Działaj już z samego rana<br/>Do ostatnich życia chwil!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miłość, którą nosisz w łonie,<br/>W służbę liźnim swoim staw,<br/>Wtedy miłosierdzia dłonie<br/>Dokonają wielkich spraw.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ból łagodzić, dusze koić,<br/>Panu oddać siłę, czas,<br/>Jego się miłością zbroić -<br/>Nich to hasło żyje w nas!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:22">
+  <properties>
+    <titles>
+      <title>Przybieżeli do Betlejem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="1021"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przybieżeli do Betlejem pasterze,<br/>Grając skocznie Dzieciąteczku na lirze.<br/>Chwała na wysokości,<br/>Chwała na wysokości,<br/>A pokój na ziemi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oddawali swe ukłony w pokorze<br/>Tobie z serca ochotnego, o Boże!<br/>Chwała na wysokości,<br/>Chwała na wysokości,<br/>A pokój na ziemi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Anioł Pański sam ogłosił te dziwy,<br/>Których oni nie słyszeli, jak żywi.<br/>Chwała na wysokości,<br/>Chwała na wysokości,<br/>A pokój na ziemi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dziwili się napowietrznej muzyce<br/>i myśleli, co to będzie za Dziecię?<br/>Chwała na wysokości,<br/>Chwała na wysokości,<br/>A pokój na ziemi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oto mu się wół i osioł kłaniają,<br/>Trzej królowie podarunki oddają.<br/>Chwała na wysokości,<br/>Chwała na wysokości,<br/>A pokój na ziemi.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I anieli gromadami pilnują<br/>Panna czysta wraz z Józefem piastują<br/>Chwała na wysokości,<br/>Chwała na wysokości,<br/>A pokój na ziemi.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Poznali Go Mesjaszem być prawym<br/>Narodzonym dzisiaj Panem łaskawym<br/>Chwała na wysokości,<br/>Chwała na wysokości,<br/>A pokój na ziemi.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>My go także Bogiem, Zbawcą już znamy<br/>I z całego serca wszyscy kochamy<br/>Chwała na wysokości,<br/>Chwała na wysokości,<br/>A pokój na ziemi.</lines>
+    </verse>
+  </lyrics>
+</song>

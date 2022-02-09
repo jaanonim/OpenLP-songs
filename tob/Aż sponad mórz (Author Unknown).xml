@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:36">
+  <properties>
+    <titles>
+      <title>Aż sponad mórz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="51"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aż sponad mórz i szczytów gór<br/>Twa miłość spływa na mnie w dół.<br/>A ja otwieram serce swe,<br/>Niech miłość Twa wypełni mnie.<br/>Szczęśliwy jestem w prawdzie Twej<br/>Do Ciebie wznoszę ręce swe.<br/>Chcę zawsze śpiewać o miłości Twojej Panie.<br/>/O miłości Twej pragnę śpiewać./x4</lines>
+    </verse>
+  </lyrics>
+</song>

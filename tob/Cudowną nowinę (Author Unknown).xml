@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:38">
+  <properties>
+    <titles>
+      <title>Cudowną nowinę</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="172"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cudną nowinę<br/>zwiastował nam Bóg,<br/>słuchajcie wszyscy ją wraz:<br/>Bóg dla Chrystusa<br/>przebaczył nam dług,<br/>od zguby zbawił Bóg nas</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Od zguby zbawił Bóg nas,<br/>od zguby zbawił Bóg nas.<br/>W Chrystusie na wieki<br/>przebaczył nam Bóg,<br/>od zguby zbawił Bóg nas</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeśli w obłudzie<br/>minionych tu dni<br/>dręczy w sumieniu wciąż was,<br/>niech w sercu wiara<br/>jak słońce się lśni:<br/>Od zguby zbawił Bóg nas</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Od zguby zbawił Bóg nas,<br/>od zguby zbawił Bóg nas.<br/>W Chrystusie na wieki<br/>przebaczył nam Bóg,<br/>od zguby zbawił Bóg nas</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy pod ciężarem<br/>trosk życia i mąk<br/>nadziei płomyk już zgasł,<br/>nie opuszczajcie<br/>zemdlonych swych rąk:<br/>Od zguby zbawił Bóg nas</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Od zguby zbawił Bóg nas,<br/>od zguby zbawił Bóg nas.<br/>W Chrystusie na wieki<br/>przebaczył nam Bóg,<br/>od zguby zbawił Bóg nas</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:26">
+  <properties>
+    <titles>
+      <title>O Boże, proszę</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="190"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Boże, proszę,<br/>spójrz na mnie z nieba,<br/>Z tronu jasnego chwały Swej!<br/>Tonę w ciemnościach,<br/>pośpiesz, ach, pośpiesz,<br/>Zdroje Swej łaski w duszę zlej!<br/>Łzawym obłokiem oczy zamglone,<br/>Serce bólem okrutnym ściśnione;<br/>W nocy strapienia, nigdzie ulżenia.<br/>Boże wszechmocny, pomóż Ty!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Żem Twojej łaski wielce niegodny,<br/>Wyznam, ach, wyznam w prochu rad.<br/>Tyś, Panie, święty; grzechy me ciężkie,<br/>Jam w nie głęboko bardzo wpadł.<br/>Kara spotyka mnie zasłużona,<br/>Dusza przed sądem Twoimi stracona,<br/>Nie masz ulżenia, w nocy strapienia;<br/>Tylko do Ciebie wznoszę wzrok.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wiem, żeś nam Syna Swego miłego<br/>Zesłał w ten ziemski padół nasz,<br/>Boleść śmiertelną nieść Mu kazałeś,<br/>W męce zsiniała Jego twarz.<br/>Umarł ten Święty; długi zgładzone,<br/>Już rozerwał Pan gniewu zasłonę.<br/>Już noc minęła, łaska rozpięła<br/>Jasnych nad nami skrzydeł biel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Więc ja do tego światła jasnego<br/>Niosę znękaną duszę swą.<br/>Spójrz na nią, pozę, w łaskę obfity,<br/>Jest pokropiona Pańską krwią!<br/>Odpuść, zachowaj; dla Jego znoju<br/>Otwórz mi, otwórz bramy pokoju!<br/>W nocy strapienia Swego ulżenia<br/>Użycz, o Panie, użycz mi!</lines>
+    </verse>
+  </lyrics>
+</song>

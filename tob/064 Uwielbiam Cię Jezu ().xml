@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:41">
+  <properties>
+    <titles>
+      <title>064 Uwielbiam Cię Jezu</title>
+    </titles>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="p">
+        <open>&lt;p&gt;</open>
+        <close>&lt;/p&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uwielbiam Cię Jezu,<br/>Panie Mój, kocham Cię,<br/>Moje życie Ci oddaję,<br/><tag name="p"/><br/>Niech każdy czyn, /x3<br/>Odda chwałę Ci.</lines>
+    </verse>
+  </lyrics>
+</song>

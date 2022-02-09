@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:38">
+  <properties>
+    <titles>
+      <title>Sam Pan Bóg raczy być pasterzem moim</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="415"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sam Pan Bóg raczy być pasterzem moim,<br/>On miłosierdziem obdarzy mię Swoim.<br/>Wiedzie na pasze mię niepospolite,<br/>2ródła wód cichych wskazuje obfite.<br/>Duszę posila w wielkiej Swej litości,<br/>Ścieżką prowadzi mię sprawiedliwości.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Choćbym i w śmierci chodził też dolinie,<br/>Tyś moją, Panie, nadzieją jedynie;<br/>Bać się nie będę nigdy już niczego,<br/>Gdyżem owieczką jest Boga żywego.<br/>On zna me serce, On wie, czego trzeba,<br/>Ześle więc wszystko ze Swego mi nieba.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ufam Twej łasce, że Ty mię na wieki,<br/>Boże, nie puścisz z Swej świętej opieki;<br/>Że mi darujesz z Boskiej Swej hojności<br/>Zdrowie i szczęście, pociechę w żałości,<br/>Gdy zaś bieg skończę, Twoja, to dobrota<br/>W niebie udzieli wiecznego żywota.</lines>
+    </verse>
+  </lyrics>
+</song>

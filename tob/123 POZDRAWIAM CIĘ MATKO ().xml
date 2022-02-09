@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:44">
+  <properties>
+    <titles>
+      <title>123 POZDRAWIAM CIĘ MATKO</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pozdrawiam Cię, Matko Syna Bożego <br/>Matko módl się za nami, byśmy Słowo głosili <br/>Chrystusa Ukrzyżowanego <br/>Nie w mądrości słowa, ale zgodnie z krzyżem</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Za nami wstawiaj się Maryjo <br/>By nie został zniweczony Krzyż<br/>Za nami wstawiaj się Maryjo<br/>Aby został wywyższony <br/>Jezus Chrystus, Twój Syn <br/>Jezus Chrystus, nasz Pan</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Krzyż jest głupstwem dla tych, co są ze świata<br/>Bo świat szuka mądrości, bo świat chce ujrzeć znaki<br/>My głosimy Ukrzyżowanego, On zgorszeniem dla pogan <br/>On jest dla nas mądrością</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Módl się za nami, byśmy niczego nie znali <br/>Jak tylko Jezusa Ukrzyżowanego<br/>Aby nasze głoszenie nie uwodziło mądrością <br/>Aby ukazało Świętego Ducha i moc!</lines>
+    </verse>
+  </lyrics>
+</song>

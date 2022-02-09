@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:14">
+  <properties>
+    <titles>
+      <title>Bez NIego</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="19"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bez Niego ja nic nie zrobię,<br/>Bez Niego nie znaczę nic,<br/>Bez Niego leciałbym z wiatrem,<br/>Jak opadły, uschły liść.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jezu, o Jezu! Tyś jest szczęściem mych dni,<br/>Wszystkim, wszystkim Tyś mi! O Jezu!<br/>O Jezu! Bez Ciebie zginąłbym i ja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bez Niego pusto i ciemno,<br/>I serce w rozpaczy łka,<br/>Bez Niego zginąłbym marnie,<br/>Lecz z Jezusem Zbawionym ja.</lines>
+    </verse>
+  </lyrics>
+</song>

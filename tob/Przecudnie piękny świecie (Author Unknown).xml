@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:38">
+  <properties>
+    <titles>
+      <title>Przecudnie piękny świecie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="404"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przecudnie piękny świecie,<br/>Komu chcesz, podobaj się!<br/>Ja ci serca nie dam przecie,<br/>Choć marnością wabisz mię.<br/>Niechże w tobie się kochają,<br/>Co o niebo nic nie dbają;<br/>Ja do Ciebie, Jezu mój,<br/>W niebo krok kieruję swój!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Prac ciężarem przygnieceni,<br/>Których nuży dzienny skwar,<br/>Pragną z serca nocnych cieni,<br/>By już ustał słońca żar;<br/>Tęsknią do odpoczywania<br/>Po kłopotach bez przerwania,<br/>Ja zaś w Tobie, Jezu mój,<br/>Odpoczynek znajdę swój!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chciwi zysku znikomego,<br/>Niech wśród morza w łodziach mkną,<br/>Skał i burz, i zgub pełnego,<br/>I niech srogo z trwogi drżą;<br/>Ja na skrzydłach mocnej wiary<br/>W wieczne wzbiję się obszary<br/>I u Ciebie, Jezu mój,<br/>Będę miał przybytek swój</lines>
+    </verse>
+  </lyrics>
+</song>

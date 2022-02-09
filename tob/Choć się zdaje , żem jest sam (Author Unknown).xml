@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:34">
+  <properties>
+    <titles>
+      <title>Choć się zdaje , żem jest sam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="323"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Choć się zdaje, żem jest sam,<br/>Jednak Ciebie , Zbawco, mam;<br/>Choć mnie wróg chce zmóc i zwiać,<br/>Wiernie chcę przy Tobie stać.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Niech sobie huczą burze,<br/>Ja wznoszę wzrok ku górze;<br/>Tobie zaufać śmiem,<br/>Ty mi pomożesz - wiem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy mi w drogę zsyłasz krzyż,<br/>Wiem, że mnie prowadzisz wzwyż;<br/>A choć serce moje drży,<br/>Wiem, że nie opuścisz Ty.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy za ciosem spada cios,<br/>Wiem, żeś zliczył i mój włos;<br/>Czy mi dobrze jest, czy źle,<br/>Wszak Ty, Panie, wiedziesz mnie.</lines>
+    </verse>
+  </lyrics>
+</song>

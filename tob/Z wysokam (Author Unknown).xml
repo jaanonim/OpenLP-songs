@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:51">
+  <properties>
+    <titles>
+      <title>Z wysokam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="404"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z wysokam zszedł, by dobrą wieść dla<br/>utrapionych z nieba nieść, przecudnych<br/>rzeczy wiele wam wygłosić i wyśpiewać mam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dziś ku radości Bóg wam śle anielskiej<br/>krasy Dziecię Swe, z Dziewicy czystej<br/>daje sam Pan Dziecię ku zbawieniu wam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To Jezus Chrystus Pan nasz Bóg, On was wyzwoli<br/>z wszelkich trwóg, On Zbawcą waszym pragnie<br/>być i wszelką z was nieprawość zmyć.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>On dobra wieczne chce wam dać, na jakie<br/>tylko niebo stać, abyście wy po wszystek<br/>czas, w niebiesiech żyli z nami wraz,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Zapamiętajcie sobie znak: Żłób i pieluszki,<br/>bogactw brak! Spoczywa biedne Dziecię w<br/>nich, co światy dzierży w rękach Swych.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O, upragniony Gościu Ty, o, witaj, Jezu,<br/>witaj mi! W mej nędzy Tyś osłodą mą!<br/>Ach, jak mam wielbić łaskę Twa?</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ach, Jezu mój najmilszy, zrób i w moim<br/>sercu Sobie żłób, byś w nim zamieszkać<br/>stale chciał, bym zawsze Cię w pamięci miał.</lines>
+    </verse>
+  </lyrics>
+</song>

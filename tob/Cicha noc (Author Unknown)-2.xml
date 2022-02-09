@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:21">
+  <properties>
+    <titles>
+      <title>Cicha noc</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="1007"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cicha noc, święta noc<br/>Pokój niesie, ludziom wszem<br/>A u żłóbka Matka Święta<br/>Czuwa sama uśmiechnięta<br/>Nad dzieciątka snem<br/>Nad dzieciątka snem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cicha noc, święta noc<br/>Pastuszkowie od swych trzód<br/>Biegną wielce zadziwieni<br/>Za anielskim głosem pieni<br/>Gdzie się spełnił cud<br/>Gdzie się spełnił cud.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cicha noc, święta noc<br/>Narodzony Boży syn<br/>Pan wielkiego majestatu<br/>Niesie dziś całemu światu<br/>Odkupienie win<br/>Odkupienie win.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cicha noc, święta noc,<br/>Jakiż w Tobie dzisiaj cud,<br/>W Betlejem dziecina święta<br/>Wznosi w górę swe rączęta<br/>Błogosławi lud<br/>Błogosławi lud.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:28">
+  <properties>
+    <titles>
+      <title>Bogiem Twoim Jest</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="1"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bogiem twoim jest Bóg żywy,<br/>miłościwy świata Pan,<br/>wieczny święty i prawdziwy,<br/>Zbawcą z grzechów Jezus dan.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Czymże martwe są obrazy?<br/>Czy ci ulżą w smutkach twych?<br/>Nie uwolnią z grzechów skazy,<br/>bowiem ducha nie ma w nich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bóg da łaskę każdej duszy,<br/>gdy Doń kornie zwróci się,<br/>w Nim uniknie mąk, katuszy,<br/>gdy Mu wyzna grzechy swe</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Bóg od dawna ciebie szuka,<br/>bo na wieki zbawić chce,<br/>On do serca twego puka,<br/>czy nie słyszysz jak cię zwie?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dziś więc z wiarą zwróć swe oczy<br/>na męczeński Zbawcy krzyż,<br/>a bezpiecznie będziesz kroczył,<br/>za Nim wąska ścieżką wzwyż.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Będziesz odtąd Go miłował<br/>całym sercem, duszą swą<br/>i tak zawsze postępował,<br/>by swym życiem sławić Go.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tylko Bóg jest godzien chwały,<br/>Jemu przeto oddaj cześć,<br/>On chce, abyś żywot cały,<br/>w Nim radośnie mógł tu wieść</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Potem cię wprowadzi w niebo,<br/>gdzie błogością wszystko lśni,<br/>gdzie anieli chwalą Jego,<br/>pełni uwielbienia czci.</lines>
+    </verse>
+  </lyrics>
+</song>

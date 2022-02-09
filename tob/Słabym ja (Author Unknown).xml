@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:34">
+  <properties>
+    <titles>
+      <title>Słabym ja</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="20"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>słabym ja, lecz silnymś Ty,<br/>Jezu bądź pomocą mi,<br/>Pozwól wszystkie moje dni,<br/>Blisko Ciebie, mój Jezu wciąż być.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>W Twej miłości chcę się skryć,<br/>W społeczności z Tobą żyć,<br/>Co dzień bliżej Ciebie być,<br/>Panie mój, błaganie me ziść.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wśród zazdrości, grzechu, zła,<br/>Kogo boli rana ma,<br/>Któż w potrzebie pomoc da,<br/>Tylko Ty, Jezu mój, tylko Ty.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy się przerwie życia nić,<br/>Czas przestanie dla mnie bić,<br/>Wtedy mnie za rękę chwyć,<br/>I przeprowadź na drugi hen brzeg.</lines>
+    </verse>
+  </lyrics>
+</song>

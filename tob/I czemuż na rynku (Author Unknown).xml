@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:47">
+  <properties>
+    <titles>
+      <title>I czemuż na rynku</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="331"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I czemuż na rynku, próżnując, stoicie,<br/>gdy sprawa rozwija się Pana?<br/>Pośpieszcie się Jemu poświęcić swe<br/>życie i pójść do winnicy już z rana!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>// Pośpieszcie, a cudom nadziwi się świat!<br/>Uwielbi, czym gardził od dawnych już lat! //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dlaczegóż swe ręce opuszczać już chcecie,<br/>gdy kłamstwo i przemoc zwycięża?<br/>Choć pełno bezprawia i krzywdy za<br/>świecie, nie rzućcie Bożego oręża!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>// Pośpieszcie, a cudom nadziwi się świat!<br/>Uwielbi, czym gardził od dawnych już lat! //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I dziś jeszcze w mocy imienia Pańskiego<br/>przedziwne się dzieją znamiona;<br/>Pan dźwignie skrzywdzonych, a zdepcze<br/>pysznego i sprawy Swej przecież dokona.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>// Pośpieszcie, a cudom nadziwi się świat!<br/>Uwielbi, czym gardził od dawnych już lat! //</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wytrwajcie, boć wytrwać do końca musicie,<br/>choć w serca się wkrada zwątpienie;<br/>Pan serca przy pracy posili obficie,<br/>a potem wam da odpocznienie.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>// Pośpieszcie, a cudom nadziwi się świat!<br/>Uwielbi, czym gardził od dawnych już lat! //</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ostatni raz wzywa Pan ziemi<br/>narody, dwunasta uderza godzina;<br/>czas łaski przemija, zaczęły się<br/>sądy, o Swoje się Pan upomina.</lines>
+    </verse>
+    <verse name="c5">
+      <lines>// Pośpieszcie, a cudom nadziwi się świat!<br/>Uwielbi, czym gardził od dawnych już lat! //</lines>
+    </verse>
+  </lyrics>
+</song>

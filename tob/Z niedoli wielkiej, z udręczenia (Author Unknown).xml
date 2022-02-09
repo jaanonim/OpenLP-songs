@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:59">
+  <properties>
+    <titles>
+      <title>Z niedoli wielkiej, z udręczenia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="770"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z niedoli wielkiej, z udręczenia,<br/>Rzucony burzą w straszny bój,<br/>Błagalne •w niebo ślę westchnienia:<br/>Ach, Boże, ześlij pokój Swój.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ach, ześlij mi ukojenie,<br/>W niedoli mej pocieszenie,<br/>Daj pokój upragniony!<br/>O, Boże mój, daj pokój Swój!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, rozkaż wałom, ucisz burzę,<br/>Na wiatry rozszalałe skiń.<br/>Ach, pomóż oczy wznieść ku górze,<br/>Na duszę mą kojąco wpłyń.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Daj Panie, bym był pewny tego,<br/>Ze Twoja dobroć wiecznie trwa,<br/>Że i wśród morza wzburzonego<br/>Jest jeszcze przy mnie pomoc Twa.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A Ty modlitwy me przyjmujesz,<br/>Nade mną Swą rozjaśniasz twarz<br/>I jeszcze więcej obiecujesz,<br/>Sławniejszy nadto pokój dasz.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nie pragnę poto mieć pokoju,<br/>Bym w grzechach mógł bezpiecznie spać!<br/>Lecz pragnę czerpać z życia zdroju<br/>I siły z nieba ciągle brać.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ach, Boże, ratuj z udręczenia<br/>Rzuconych burzą w straszny bój,<br/>A wzniosą Ci dziękczynne pienia,<br/>Żeś zesłał błogi pokój.</lines>
+    </verse>
+  </lyrics>
+</song>

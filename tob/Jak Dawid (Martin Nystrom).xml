@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:18">
+  <properties>
+    <titles>
+      <title>Jak Dawid</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Nystrom</author>
+      <author type="music">Martin Nystrom</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="263"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak Dawid kiedy przed Bogiem był,<br/>będę tańczyć ze wszystkich sił<br/>przed Panem Królem mym.<br/>Jak Miriam grała na bębnie swym,<br/>będę klaskać ze wszystkich sił<br/>przed Panem Królem mym.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pokłońmy się przed Bogiem,<br/>oddajmy Jemu cześć,<br/>wielbijmy Imię Jezus,<br/>śpiewajmy Panu pieśń!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jak Judejczycy przed bitwą swą<br/>zawierzmy Panu i chwalmy Go,<br/>pobity będzie wróg.<br/>Jak Jozue wznieśmy bojową pieśń,<br/>oddajmy Panu chwałę cześć,<br/>a wróg ucieknie wnet.</lines>
+    </verse>
+  </lyrics>
+</song>

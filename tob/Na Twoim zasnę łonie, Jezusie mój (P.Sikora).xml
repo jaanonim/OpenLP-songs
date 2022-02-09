@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:00">
+  <properties>
+    <titles>
+      <title>Na Twoim zasnę łonie, Jezusie mój</title>
+    </titles>
+    <authors>
+      <author type="words">P.Sikora</author>
+      <author type="music">P.Sikora</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="778"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na Twoim zasnę łonie,<br/>Jezusie mój;<br/>Gdy do snu głowę skłonię,<br/>Sam przy mnie stój!<br/>Choć boleść mnie oplata<br/>Ramieniem swym,<br/>Ja usnę, Zbawco świata,<br/>Na łonie Twym.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ty Sam przy łożu czuwaj,<br/>Otulaj Ty,<br/>Z mej duszy strach usuwaj<br/>I ciężkie sny.<br/>W strapieniu i w rzterce<br/>Pokoju zlej;<br/>Niech się zanurzy serce<br/>W miłości Twej.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A gdy bez ukojenia<br/>Upływa noc,<br/>Gdy troski i cierpienia<br/>Chcą serce zmóc;<br/>Mą rozpaloną głowę Sam,<br/>Jezu, chłódź<br/>I w sercu moim nowe<br/>Nadzieje zródź.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wyglądam co godzinę<br/>Pomocy Twej,<br/>Ach, pociesz Swą dziecinę,<br/>A będzie lżej;<br/>Na Twoim zasnę łonie,<br/>Jezusie mój,<br/>W miłości Twej zatonie<br/>Bolesny znój.</lines>
+    </verse>
+  </lyrics>
+</song>

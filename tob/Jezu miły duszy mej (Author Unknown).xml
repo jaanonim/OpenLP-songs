@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:34">
+  <properties>
+    <titles>
+      <title>Jezu miły duszy mej</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezu miły duszy mej<br/>Jezu nigdy nie opuścisz mnie<br/>Wyrwałeś mnie z błotnistego dna<br/>Na skale postawiłeś mnie<br/>I teraz wiem</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tak kocham, potrzebuję<br/>Choćby runął świat<br/>Ty nie opuścisz mnie<br/>Mój Zbawco, mój przyjacielu<br/>Będę wielbić Cię<br/>Do końca moich dni</lines>
+    </verse>
+  </lyrics>
+</song>

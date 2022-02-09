@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:21">
+  <properties>
+    <titles>
+      <title>Miłość cudowna</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="95"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Miłość cudowna za mną szła,<br/>Gdym tonął w grzech,<br/>Kiedym już szedł do nędzy dna,<br/>Zdradzon od wszech,<br/>Gdy wszelki blask nadziei zbladł,<br/>O, rozkosz ta!<br/>Wyrwać mnie z śmierci, win i wad<br/>Ta miłość szła.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ta miłość szła zbawić duszę mą,<br/>Ta miłość szła, by zawładnąć mną,<br/>Miłość na krzyż szła moc śmierci zgnieść;<br/>Bądź tej miłości wieczna chwała, cześć!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miłość otwarła drogę mi<br/>Do niebios bram,<br/>Gdzie władnie w wiecznej mocy, czci<br/>Mój Jezus sam.<br/>Miłość mnie wniosła z ciemni bied,<br/>Do blasku dnia;<br/>Ująć mą dłoń, gdym w zgubę szedł,<br/>Ta miłość szła.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Miłość zstąpiła z niebios stron,<br/>By dla mnie żyć,<br/>Dla mnie na krzyżu ponięć zgon.<br/>Wszystkim mi być;<br/>Wznieść stąd do nieba łaski most,<br/>Zwolnić od zła,<br/>Duszy ratunek dać i wzrost<br/>Ta miłość szła.</lines>
+    </verse>
+  </lyrics>
+</song>

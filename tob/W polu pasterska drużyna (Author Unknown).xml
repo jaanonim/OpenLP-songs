@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:51">
+  <properties>
+    <titles>
+      <title>W polu pasterska drużyna</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="409"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W polu pasterska drużyna już śpi;<br/>nagle niebieskie otwarły się drzwi.<br/>To Anioł Pański, jaśnieje mu włos,<br/>i taki w blaskach odzywa się głos:<br/>Nie bójcie się! Radujcie się!<br/>Pan oto was na gody zwie!<br/>Bóg miłościwy nawiedził Swój lud,<br/>śpieszcie oglądać miłości tej cud!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dziecię prześliczne w stajence tani śpi.<br/>Przyszło, by nieba otworzyć nam drzwi,<br/>w chudobie naszej rodzi się nasz Król,<br/>w radość chce zmienić cierpienia i ból.<br/>Nie bójcie się! Radujcie się!<br/>Pan oto was na gody zwie!<br/>Bóg miłościwy nawiedził Swój lud,<br/>śpieszcie oglądać miłości tej cud!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Śpieszcie na gody, rzucajcie już sny!<br/>Oto niebieskie otwarte są drzwi.<br/>Król, co zaprasza, to Pan nasz i Brat.<br/>W żłobku, w pieluszkach uwielbia Go świat.<br/>Nie bójcie się! Pośpieszcie się!<br/>Pan oto was na gody zwie!<br/>Król szczodrobliwy zaprasza dziś was,<br/>godów weselnych nadchodzi dziś czas!</lines>
+    </verse>
+  </lyrics>
+</song>

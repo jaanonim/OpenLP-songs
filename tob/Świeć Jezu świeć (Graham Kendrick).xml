@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:33">
+  <properties>
+    <titles>
+      <title>Świeć Jezu świeć</title>
+    </titles>
+    <copyright>1987 Make Way Music</copyright>
+    <authors>
+      <author type="words">Graham Kendrick</author>
+      <author type="music">Graham Kendrick</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="613"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>meditation</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>love</theme>
+      <theme>grace</theme>
+      <theme>sacrifice</theme>
+      <theme>holy-spirit</theme>
+      <theme>forgiveness</theme>
+      <theme>lords-supper</theme>
+      <theme>light</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie światło miłości Twej świeci,<br/>pośród wszelkiej ciemności świeci,<br/>oświeć nas Jezu światłości świata,<br/>wyzwól prawdę, którą przynosisz<br/>oświeć mnie, oświeć mnie.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Świeć, Jezu świeć<br/>chwałą Ojca napełnij ziemię.<br/>Płoń, Duchu płoń,<br/>w sercach ogień złóż!<br/>Płyń rzeko, płyń,<br/>zalej łaską narody całe!<br/>Ślij Słowo Twe,<br/>światłość niech stanie się!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Panie, wchodzę w Twą obecność,<br/>Cień ustąpił przed Twoim blaskiem,<br/>dzięki krwi Twojej żyję w światłości.<br/>Badaj mnie, wypal, pochłoń ciemności,<br/>oświeć mnie, oświeć mnie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Widzę Twoją królewską jasność,<br/>która twarze nam rozjaśnia.<br/>Potem prowadzi od chwały do chwały,<br/>życiem naszym o Tobie opowie<br/>oświeć mnie, oświeć mnie.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:34">
+  <properties>
+    <titles>
+      <title>Drzewko jedno znam zielone</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="329"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Drzewko jedno znam zielone,<br/>Śliczna to oliwa;<br/>Tam słowiczek ulubione<br/>Pieśni słodko śpiewa.<br/>Jakże by się radowała<br/>Dusza, gdyby usłyszała<br/>Śpiew słowiczka tego!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Drzewko to z konary swymi<br/>Wżdy się rozzielenia<br/>I po całej wielkiej ziemi<br/>Ma rozgałęzienia.<br/>Z wierzchów się dwunastu składa;<br/>Na nich to słowiczek siada,<br/>Nucąc pieśni wdzięczne.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ten słowiczek najpiękniejszy,<br/>Do którego śpieszę,<br/>To Pan Jezus najwdzięczniejszy,<br/>Nim swe serce cieszę.<br/>Jego głos i mowa miła<br/>Wszystkie kraje napełniła<br/>I przenika serca.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Błądząc w lesie dnia pewnego<br/>Głos ten usłyszałem,<br/>Gdy ochłody oliwnego<br/>Drzewa pożądałem.<br/>Weń wsłuchiwać się począłem<br/>I w swe serce Go przyjąłem;<br/>Dał mi nowe życie.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Odtąd, gdy się dusza zdrzemnie<br/>W świecie utrudzona,<br/>Wnet ją znowu wzbudzi we mnie<br/>Głos Chrystusa Pana.<br/>O, jak błogą jest ta chwila,<br/>Gdy słowiczek ją posila<br/>Słodkim śpiewem swoim!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dusza teraz już na świecie<br/>Nie chce znać niczego;<br/>W dzień i w nocy, w zimie, w lecie<br/>Ma słowiczka swego,<br/>Który wiernie ją miłuje<br/>I królewskie już gotuje<br/>Gody jej w swym niebie.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Śpiewaj, mój słowiczku, śpiewaj,<br/>Wołaj mię do siebie,<br/>Senność duszy mej rozwiewaj,<br/>By słuchała ciebie.<br/>O Jezusie, drogi Panie,<br/>Gdy nadejdzie me skonanie,<br/>Daj, bym głos Twój słyszał</lines>
+    </verse>
+  </lyrics>
+</song>

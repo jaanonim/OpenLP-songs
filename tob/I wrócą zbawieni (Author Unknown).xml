@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:26">
+  <properties>
+    <titles>
+      <title>I wrócą zbawieni</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="229"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I wrócą zbawieni przez Pana w tym dniu,<br/>Na Syjon przyjdą pieśń śpiewając.<br/>A wieczna radość wnet<br/>Nad głowy wzniesie się!<br/>Będą się śmiać z radości w głos!<br/>I smutne wzdychanie odejdzie precz!<br/>I wrócą zbawieni przez Pana w tym dniu,<br/>Na Syjon przyjdą pieśń śpiewając.<br/>A wieczna radość wnet<br/>Nad głowy wzniesie się!</lines>
+    </verse>
+  </lyrics>
+</song>

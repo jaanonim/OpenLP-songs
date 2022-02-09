@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:28">
+  <properties>
+    <titles>
+      <title>Boże wielki</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="11"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boże wielki, pełnyś chwał,<br/>wielbim Twą potęgę, Panie!<br/>Tyś przestworzom życie dał,<br/>podziwiamy Twe działanie;<br/>jakiś od wieczności był,<br/>tak na wieki będziesz zył</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wszyscy Ciebie chwalić chcą,<br/>wszyscy święci aniołowie;<br/>wielbią wielkość,<br/>dobroć Twą Cherubowie, Serafowie,<br/>śpiew Boski tron:<br/>święty, święty, święty On!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Święty jest niebieski Wódz,<br/>Pan zastępów święty,<br/>święty nędzę naszą może zmóc<br/>cały świat jest Nim przejęty.<br/>Niebo ziemia, morze brzmi<br/>głośną pieśnią jego czci</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Patrz łaskawie na swój lud,<br/>skłoń ku Swemu się stworzeniu!<br/>Prowadź go do życia wód,<br/>by nie zginął w zatraceniu,<br/>niech przetrwawszy życia znój,<br/>tam majestat ujrzy twój</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Zmiłuj Panie zmiłuj się,<br/>a błogosław ludy swoje,<br/>powiew łask niech ku nam tchnie,<br/>niech nam płyną pociech zdroje!<br/>W tobie ufa trzoda Twa,<br/>niech zbawienie w niebie ma</lines>
+    </verse>
+  </lyrics>
+</song>

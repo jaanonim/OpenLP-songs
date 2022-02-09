@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:54">
+  <properties>
+    <titles>
+      <title>260 KOMUNIA</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>słowa: Wojciech Bąk,muzyka: ks. R. Rak, ks. J. Modliński</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niechaj Cię przyjmę, aby żadna ściana,<br/>ni tchnienie między nami już nie stało,<br/>Oto Krew Twoja w mojej krwi rozlana<br/>i Ciałem Twoim żyje moje ciało </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tyś nie jest mną, a jestem pełny Ciebie, <br/>jakbym nie sobą był, lecz Twym naczyniem. <br/>I słyszę głos Twój dźwięczy w moim śpiewie, <br/>i czuję: oddech Twój z ust moich płynie. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>I coraz więcej Ciebie,<br/>każdym gestem zakreślam Twoją wolę,<br/>nią dojrzewam.<br/>Ty, któryś był i jest, i będziesz. /3x/</lines>
+    </verse>
+  </lyrics>
+</song>

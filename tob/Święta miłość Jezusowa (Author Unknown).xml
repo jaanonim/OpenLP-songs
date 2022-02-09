@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:39">
+  <properties>
+    <titles>
+      <title>Święta miłość Jezusowa</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="184"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Święta miłość Jezusowa<br/>niech połączy nas,<br/>O, ten płomień rozniecajmy,<br/>Jeśli w sercu zgasł!<br/>W tej miłości sił nabędziem,<br/>Do zwycięstwa sił,<br/>Wszelki krzyż już łatwo zniesiem,<br/>Choćby ciężki był.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W tej miłości też<br/>podajmy Sobie bratnią dłoń,<br/>a zakwitną serca nasze,<br/>Jak wiosenna błoń!<br/>Uczmy się od pana znosić<br/>Ciężar dnia i trud,<br/>aby powstać mógł i ożyć<br/>Nasz kochany lud.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Naucz, Panie, nas tej sztuki,<br/>Najpiękniejszej z sztuk,<br/>By Cię świat przez twoje dzieci<br/>jeszcze poznać mógł!<br/>Do krynicy swej mądrości<br/>Nas codziennie wiedź,<br/>By nie było życie nasze<br/>Jak brzęcząca miedź!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Opromieniaj serca nasze,<br/>Wielki mistrzu nasz!<br/>W swojej prowadź nas mądrości,<br/>Swoje drogi wskaż!<br/>Przezwyciężaj nas codziennie,<br/>Swoją mocą zbrój,<br/>wreszcie sprowadź nas<br/>z obczyzny w cudny Syjon Swój.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:53">
+  <properties>
+    <titles>
+      <title>255 PRZYWOŁAJ MNIE PANIE</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.Przywołaj mnie, Panie,<br/>przywołaj mnie, Panie,<br/>na pustynię.<br/>I niech mój głód Ciebie<br/>i moja tęsknota<br/>przywoła Ciebie.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>ref.: Mów do mego serca,<br/>mów do mego serca,<br/>Ty znasz jego ukryte doliny.<br/>Tam, gdzie usychają<br/>piękne winnice,<br/>Ty wiesz gdzie otworzyć ukryte źródła.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Niech we mnie zamilkną<br/>pragnienia i myśli,<br/>abyś mógł mówić Ty,<br/>Niech słowa miłości <br/>i przebaczenia<br/>przenikną duszę mą.</lines>
+    </verse>
+  </lyrics>
+</song>

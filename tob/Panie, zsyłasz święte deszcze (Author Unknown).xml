@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:54">
+  <properties>
+    <titles>
+      <title>Panie, zsyłasz święte deszcze</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="695"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie, zsyłasz święte deszcze<br/>Ducha Swego na Swój lud,<br/>Lecz mnie nie zrosiły jeszcze,<br/>W moim sercu grzechu brud.<br/>Zroś i mnie, zroś i mnie!<br/>Łaski Swojej okaż cud!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ojcze, czy mnie chcesz pominąć,<br/>Skoro grzech w mym sercu tli?<br/>Usłysz modły, nie daj zginąć,<br/>Panie, nie daj zginąć mi!<br/>Otwórz mi, otwórz mi<br/>Łaski Swojej jasne drzwi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezu czy się nie zmiłujesz<br/>Nad strwożoną duszą mą?<br/>O, ja wiem, Ty wyratujesz,<br/>Wyrwiesz i oczyścisz ją!<br/>Oczyść mnie, oczyść mnie,<br/>Czystą, żywą wodą Twą!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Duchu Święty, chciej zaradzić<br/>Wielkiej ospałości mej,<br/>Racz do nieba mnie prowadzić,<br/>Swoją siłę we mnie wlej!<br/>Posil mnie, posil mnie,<br/>Zaradź ospałości mej!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ty rad błogosławisz, Panie,<br/>Ty mnie z Sobą mocno zwiąż!<br/>Okaż mi Swe zmiłowanie,<br/>Bym Twą drogą chodził wciąż!<br/>Daj i mnie, daj i mnie<br/>Zdroje łask, i z Sobą zwiąż!</lines>
+    </verse>
+  </lyrics>
+</song>

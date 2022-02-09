@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:00">
+  <properties>
+    <titles>
+      <title>Ojcze, jeśli możliwe</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="103"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nocą, ogród oliwny,<br/>Śpią twardo wszyscy uczniowie<br/>Czuwa, w bólu ogromnym<br/>I cierpi za nas Bóg - człowiek.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ojcze, jeśli możliwe,<br/>Oddal ode mnie ten kielich.<br/>Ojcze, jeżeli trzeba,<br/>Chcę Twoją wolę wypełnić.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nocą, klęczę przed Tobą,<br/>Ucichły auta, tramwaje.<br/>Wszystko w życiu zawodzi,<br/>Jedynie Ty pozostajesz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nocą patrzę przez okno,<br/>Na skrawek nieba chmurnego,<br/>Tyle w życiu cierpienia,<br/>Lecz nie śmiem pytać, dlaczego?</lines>
+    </verse>
+  </lyrics>
+</song>

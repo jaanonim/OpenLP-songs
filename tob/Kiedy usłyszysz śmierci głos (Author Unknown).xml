@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:24">
+  <properties>
+    <titles>
+      <title>Kiedy usłyszysz śmierci głos</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="145"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kiedy usłyszysz śmierci głos,<br/>Gdy twój nadejdzie zgon,<br/>Iść będziesz musiał, chcesz, czy nie,<br/>Przed Boży tron.<br/>Jaki rachunek, człeku, zdasz<br/>Za twe upadki, winy,<br/>Jako w Sędziego spojrzysz twarz,<br/>Co zna twe wszystkie czyny?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chwila ostatnia, pełna mąk,<br/>Serca ostatni jęk<br/>Przebrzmi, a twoje dzieła tu<br/>Wypadną z rąk.<br/>Czym się ty potem cieszyć chcesz,<br/>Gdy wszystko, wszystko stracisz,<br/>A nigdy więcej, nigdy już<br/>Na ten świat nie powrócisz?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy Sędzia siądzie na Swój tron<br/>I zabrzmi trąby ton,<br/>Księgi żywota wszystkie tam<br/>Otworzy On.<br/>Tam wszystko ma spisane Bóg,<br/>Co było uczynione<br/>Na jawie, lub co okrył mrok;<br/>To będzie objawione.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wiernie wyjawi księga czas,<br/>Gdyś ty niejeden raz<br/>Ducha Bożego stłumił głos,<br/>Gdy karcił nas;<br/>2eś nieraz deptał łaskę tę<br/>I świętą krwią pogardził,<br/>Co ciekła tam za duszę twą,<br/>Gdzie Pan Swe życie stracił.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kiedy Sędziego święty głos<br/>Smutno wypowie raz:<br/>„Idźcie ode Mnie, grzeszni, precz,<br/>Ja nie znam was!" -<br/>Pójdziesz, a już nie znajdziesz tam<br/>Ulgi, nadziei, zmiany,<br/>Bo nie ma więcej łaski nam,<br/>Gdy wyrok już wydany</lines>
+    </verse>
+  </lyrics>
+</song>

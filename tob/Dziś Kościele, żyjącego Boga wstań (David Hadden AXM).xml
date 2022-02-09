@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:17">
+  <properties>
+    <titles>
+      <title>Dziś Kościele, żyjącego Boga wstań</title>
+      <title>We'll break the power</title>
+    </titles>
+    <authors>
+      <author type="words">David Hadden AXM</author>
+      <author type="music">David Hadden AXM</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="135"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesteśmy ludem nabytym cenną krwią,<br/>w radości Bogu oddajemy cześć,<br/>gdy głosimy Bożą wielkość, Majestat Jego i Moc,<br/>to niszczymy moc szatana na ziemi tej.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uwielbiajmy Jego Chwałę dzień po dniu,<br/>w radości Bogu oddawajmy cześć,<br/>gdy głosimy Jego wierność i miłosierdzia dar,<br/>to niszczymy moc szatana na ziemi tej.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zatem cały ludu Pana teraz wstań<br/>uwierz mocy Słowa, które daje Bóg,<br/>bo szatan jest pokonany i zastępy jego też,<br/>kiedy Kościół przyjmuje Bożą Moc.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dziś Kościele żyjącego Boga wstań!<br/>Bóg Królem całej ziemi jest.<br/>Żadne moce ni zwierzchności<br/>nie wzruszą nas nigdy już,<br/>gdy stajemy w jedności,<br/>nikt nas już nie rozdzieli,<br/>bo stajemy razem, gdzie nasz Bóg.</lines>
+    </verse>
+  </lyrics>
+</song>

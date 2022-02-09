@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:06">
+  <properties>
+    <titles>
+      <title>Dziś przychodzę przed Twój tron</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dziś przychodzę przed Twój tron<br/>Aby wyznać winę mą<br/>O Panie oczyść serce me<br/>Dziś przed Twój przynoszę krzyż<br/>Ciężar co przygniata mnie<br/>O Panie już nie chcę sam go nieść<br/>/ Daj czyste serce mi oczyść usta me<br/>Tchnij swego Ducha bym wielbił Cię /x2</lines>
+    </verse>
+  </lyrics>
+</song>

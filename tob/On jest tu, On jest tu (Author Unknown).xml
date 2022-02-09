@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:56">
+  <properties>
+    <titles>
+      <title>On jest tu, On jest tu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="740"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On jest tu, On jest tu,<br/>Jezus Chrystus Król,<br/>Więc przed Nim się w pokorze skłoń,<br/>Do Niego dziś się tul!<br/>Niebiosa, ziemia, mnóstwo gwiazd<br/>Ku Jego nucą czci,<br/>I ty wysławiaj Jego moc,<br/>Wyśpiewuj Mu i ty!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czas już, czas, wielki czas<br/>Na kolana paść,<br/>Wysławiać Jego mękę, krzyż,<br/>Do stóp Mu serce kłaść,<br/>Na ołtarz żywot złożyć swój,<br/>Jak On go kiedyś dał,<br/>By na tym świecie zawsze z nas<br/>Swe sługi wierne miał.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wyznaj Go, wyznaj Go!<br/>On twój Bóg i Pan.<br/>O, wyznaj Go, weź Jego krzyż,<br/>Nie wstydź się Jego ran!<br/>W pośrodku Swych niebieskich rzesz<br/>Przed Ojcem wyzna cię,<br/>Więc dziś przed ludźmi wyznaj Go,<br/>Nie kryj swej wiary, nie!</lines>
+    </verse>
+  </lyrics>
+</song>

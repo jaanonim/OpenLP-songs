@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:29">
+  <properties>
+    <titles>
+      <title>Być, Jezu, Twym</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="256"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Być, Jezu, Twym, cóż znajdę nad to w świecie,<br/>Czy królów tron, zwodniczy świata blask?<br/>O Zbawco mój, o nic nie pytam przecie,<br/>Jak tylko w pełni Twoich dożyć łask.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Być, Jezu, Twym, to jest dopiero życie!<br/>Być zawsze Twym, cóż chciałbym nad to znać?<br/>/ Wszak Ty przelałeś krew Swą dla mnie przecie,<br/>Więc ja Ci pragnę całe życie dać. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Być, Jezu, Twym, gdy pełno grzechu wszędzie,<br/>A śmierci noc zatacza obóz swój;<br/>Me serce czuwa, lękać się nie będzie,<br/>Bo lśni mi Twoja miłość, Jezu mój!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Być, Jezu, Twym! U Ojca, gdzieś Ty Królem,<br/>Jest dla mnie miejsce pośród wiecznych chwał.<br/>O, błogo mi, że władniesz moją wolą;<br/>Jam Twą własnością się przez Ciebie stał.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Być, Jezu, Twym! To jedno mam życzenie,<br/>Bym tu w pokorze był podobny Ci.<br/>Gdy wszystko dla mnie tu na ziemi zginie,<br/>Twój obraz we mnie niech jasnością lśni!</lines>
+    </verse>
+  </lyrics>
+</song>

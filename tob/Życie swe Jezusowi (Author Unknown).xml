@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:07">
+  <properties>
+    <titles>
+      <title>Życie swe Jezusowi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="44"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Życie swe Jezusowi daj,<br/>gdyś młody jest i zdrów.<br/>Dzień po dniu mija, wieczność tuż,<br/>jak się przed Nim stawisz mów?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ref:Pięknie to dla Jezusa żyć,<br/>Czemuż być smutny masz?<br/>W Nim życia pełność możesz miec,<br/>Cóż Mu ty w ofierze dasz?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szczęścia, pokoju pragniesz ty?<br/>W sercu twym pusto tak?<br/>Pan da zupełny pokój ci,<br/>W serce radość , wiary znak.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chwil kilka radość świata trwa,<br/>Drogą Mu płacisz dań!<br/>Jezus ci z grzechu wolność da,<br/>Uczyń w sercu miejsce Dlań!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Serce swe Panu wreszcie daj,<br/>Nim zwiednie życia kwiat,<br/>W Nim całe niebo, a Nim twój raj,<br/>Pośpiesz wnet do NIego rad!</lines>
+    </verse>
+  </lyrics>
+</song>

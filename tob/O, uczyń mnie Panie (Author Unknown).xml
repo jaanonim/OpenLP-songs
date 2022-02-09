@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:26">
+  <properties>
+    <titles>
+      <title>O, uczyń mnie Panie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="277"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ O, uczyń mnie Panie<br/>Narzędziem Twej chwały<br/>Podnoszę swe ręce i głos! /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/ O, obudź w nas, Panie,<br/>Symfonie Twej chwały!<br/>Wznosimy swe ręce i głos! /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/ Cześć, chwała Ci Jezu,<br/>Niech będzie na wieki!<br/>Wznosimy swe ręce i głos! /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/ Więc śpiewam Ci pieśni<br/>Miłości i chwały!<br/>Podnosząc swe ręce i głos! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:31">
+  <properties>
+    <titles>
+      <title>Tchnij moc</title>
+    </titles>
+    <copyright>1987 Mercy / Vineyard Publishing</copyright>
+    <authors>
+      <author type="words">Jude Hierro Stefan Boroń</author>
+      <author type="music">Jude Hierro Stefan Boroń</author>
+      <author type="words">Jude Del Hierro</author>
+      <author type="music">Jude Del Hierro</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="642"/>
+    </songbooks>
+    <themes>
+      <theme>blessing</theme>
+      <theme>meditation</theme>
+      <theme>guitar</theme>
+      <theme>love</theme>
+      <theme>grace</theme>
+      <theme>commitment</theme>
+      <theme>worship</theme>
+      <theme>easy</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Tchnij moc,  tchnij miłość<br/>i przenikaj życie me. // x2 //</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bo całym sercem swym<br/>oddaję Ci cześć,<br/>bo każdą myślą swą<br/>oddaję Ci cześć<br/>i z całej siły swej<br/>oddaję Ci cześć, o Panie mój.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bo całym sercem swym<br/>uwielbiać Cię chcę<br/>bo każdą myślą swą<br/>uwielbiać Cię chcę<br/>i z całej siły swej<br/>uwielbiać Cię chcę, o Panie mój.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bo całym sercem chcę<br/>odnaleźć Twą twarz<br/>bo każdą myślą chcę<br/>odnaleźć Twą twarz<br/>i z całej siły chce<br/>odnaleźć Twą twarz, o Panie mój.</lines>
+    </verse>
+  </lyrics>
+</song>

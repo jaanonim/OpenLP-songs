@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:54">
+  <properties>
+    <titles>
+      <title>Święta miłość Jezusowa niech połączy nas</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="698"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Święta miłość Jezusowa<br/>Niech połączy nas:<br/>O, ten płomień rozniecajmy,<br/>Jeśli w sercu zgasł!<br/>W tej miłości nabędziemy,<br/>Do zwycięstwa sił,<br/>Łatwo wszelki krzyż zniesiemy,<br/>Choćby ciężkim był.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W tej miłości też podajmy<br/>Sobie bratnią dłoń,<br/>A zakwitną serca nasze,<br/>Jak wiosenna błoń!<br/>Uczmy się od Pana<br/>Znosić ciężar dnia i trud,<br/>Aby powstać mógł i ożyć<br/>Nasz kochany lud.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Naucz Panie nas tej sztuki,<br/>Najpiękniejszej z sztuk,<br/>Aby świat Cię omamiony<br/>Jeszcze poznać mógł!<br/>Do krynicy Swej miłości<br/>Nas codziennie wiedź,<br/>By nie było życie nasze -<br/>Jak brzęcząca miedź!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Rozprzestrzeniaj serca nasze,<br/>Wielki Mistrzu nasz!<br/>W Swojej prowadź nas mądrości,<br/>Swoje drogi wskaż!<br/>Przezwyciężaj nas codziennie,<br/>Swoją mocą zbrój,<br/>Wreszcie sprowadź nas z obczyzny<br/>W cudny Syjon Swój!</lines>
+    </verse>
+  </lyrics>
+</song>

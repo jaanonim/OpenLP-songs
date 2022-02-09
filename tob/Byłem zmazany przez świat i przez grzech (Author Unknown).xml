@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:56">
+  <properties>
+    <titles>
+      <title>Byłem zmazany przez świat i przez grzech</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="743"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Byłem zmazany przez świat i przez grzech,<br/>Lecz Jezus ujrzał mię,<br/>Rękę wyciągnął - tak, dźwignął mię wzwyż,<br/>Golgoty sławny Krzyż.<br/>/ Golgoty sławny Krzyż /x2<br/>Tak - spłacił dług mój<br/>i wolność mi dał<br/>Golgoty sławny Krzyż!</lines>
+    </verse>
+  </lyrics>
+</song>

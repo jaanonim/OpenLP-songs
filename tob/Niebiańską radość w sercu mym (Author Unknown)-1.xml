@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:57">
+  <properties>
+    <titles>
+      <title>Niebiańską radość w sercu mym</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="750"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niebiańską radość w sercu mym<br/>Przeżywać daje Pan,<br/>Wyrywa z bied, uśmierza ból,<br/>Do nieba wiedzie Sam!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ten Kraj, ten Kraj,<br/>Doń tęskni dusza ma,<br/>Gdyż nie ma szczęścia ponad to,<br/>By żyć w Królestwie dnia.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, Panie Jezu, Zbawco mój,<br/>Racz przyjąć wdzięczność mą,<br/>Gdy brak pokoju w sercu mym,<br/>Ty z góry ześlij go!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Więc czekam, Panie, chwili tej -<br/>Przede mną górny kraj,<br/>Porzucę ziemię pełną łez,<br/>Gdyż moim będzie raj!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:30">
+  <properties>
+    <titles>
+      <title>Nie mogę, nie chcę żyć samemu sobie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="275"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie mogę, nie chcę żyć samemu sobie<br/>Me serce pyszne często zwiodło mię.<br/>Jezusie, chcę należeć cały Tobie!<br/>O, przyjmij tę ofiarę, o to proszę Cię!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Spójrz na me pragnienie,<br/>Ukój me pragnienie;<br/>Mój Zbawco, weź mię, weź!<br/>Jam jest Twój, weź mię, weź!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ach, długo, długo<br/>serce się wzbraniało,<br/>Dziś już stanowczy zamiar mój,<br/>Ty wiesz!<br/>Poświęcam Ci me serce,<br/>duszę całą,<br/>Me życie, moją miłość,<br/>Ty Sam wszystko bierz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ja wierzę, że się do mnie w łasce skłonisz,<br/>Choć takiej łaski ja nie jestem wart,<br/>Ze jeszcze większe cuda mi odsłonisz<br/>Niż to, coś dotąd raczył dać z łaski bez miar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>To szczęściem mym<br/>- nie według woli mojej,<br/>Ale radośnie w posłuszeństwie żyć;<br/>A czego żądasz, to dasz z łaski Swojej;<br/>Ty zlewasz Ducha Swego,<br/>chcesz siłą mą być.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ty możesz mię,<br/>Ty chcesz utrzymać, Panie,<br/>Przy tym, co dajesz; ja być Twoim chcę.<br/>Niech miłość ma nie ziębnie, nie ustanie,<br/>Niech będzie czystszą, głębszą,<br/>i to z każdym dniem.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:28">
+  <properties>
+    <titles>
+      <title>Jezu Ty kochasz mię wieczną miłością</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="231"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezu Ty kochasz mię wieczną miłością,<br/>Co Ciebie wiodła za mnie w srogą śmierć,<br/>Ty mnie napełniasz niebiańską radością<br/>Oraz poświęcasz, bym głosił Twą cześć.<br/>Wieczna Miłości niebiańska ma,<br/>/ Weź mię w niewolę, jam własność Twa! /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezu, Twej świętej miłości promienie<br/>Padły na serce me grzeszne i złe,<br/>Aby się Tobie oddało jedynie,<br/>Próżne, pokorne, rozbite i mdłe.<br/>Wieczna Miłości, Tyś radość ma,<br/>[;Tyś mię ujęła, jam własność Twa. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cudna miłości, Tyś mnie zwyciężyła<br/>Przez Swoją łaskę, co wzeszła i mnie,<br/>W wiecznej miłości mię z Sobą złączyła!<br/>Nic z Tobą równać na ziemi się śmie!<br/>Cudna Miłości, Tyś radość ma,<br/>/ Być Ci podobnym, to wola Twa. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Choć grzeszne serce me,<br/>lecz miłość Twoja<br/>Z upodobaniem na mnie patrzy wciąż;<br/>Tyś jest pokojem mym,<br/>Tyś ufność moja;<br/>W Tobie ucichła tęsknota ma już.<br/>Boża miłości, Tyś radość ma,<br/>/ W Tobiem szczęśliwy,<br/>jam własność Twa! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

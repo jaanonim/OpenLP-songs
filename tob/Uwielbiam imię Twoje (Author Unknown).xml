@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:26">
+  <properties>
+    <titles>
+      <title>Uwielbiam imię Twoje</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="61"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uwielbiam imię Twoje Panie,<br/>Wywyższam Cię i składam Ci hołd.<br/>W przedsionku chwały Twej staję,<br/>Z radością śpiewam Ci pieśń.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Panie Jezu chcę wyznać, że<br/>Ja kocham Ciebie, Ty zmieniasz mnie.<br/>Chcę Ci dziękować ze wszystkich sił.<br/>Dajesz mi siebie bym na wieki żył.</lines>
+    </verse>
+  </lyrics>
+</song>

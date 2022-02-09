@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:46">
+  <properties>
+    <titles>
+      <title>Ludu Pański, czuwaj</title>
+    </titles>
+    <authors>
+      <author type="words">W.J.Kirkpatrick</author>
+      <author type="music">W.J.Kirkpatrick</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="522"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ludu Pański, czuwaj, bądź gotowy,<br/>Niechaj światło płonie twe;<br/>Wnet dla ciebie dzień zawita nowy,<br/>Więc przygotuj lampy swe!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bądź gotowy, Pan twój wołą,<br/>Czuwaj, bo się chyli dzień,<br/>Aż cię Zbawca stąd powoła<br/>W kraj, gdzie zniknął smutku cień.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niech pokora w sercu twym zamieszka,<br/>Bo przeciwnik nie śpi twój;<br/>Czuwaj, gdzyż tak łatwo prosta ścieżka<br/>Zmieni się w bolesny znój!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bojuj śmiało, w modłach nie leniwy,<br/>Wszak za Ciebie Pan do krwi<br/>W Getsemane staczał bój żarliwy;<br/>Więc niech lampa twa się lśni!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Czuwaj więc, wybrany ludu Pański,<br/>Zbliża się weselny dzień,<br/>Wnet powita cię już zbór niebiański<br/>Wśród radosnych śpiewu brzmień.</lines>
+    </verse>
+  </lyrics>
+</song>

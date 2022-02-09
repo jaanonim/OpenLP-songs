@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:39">
+  <properties>
+    <titles>
+      <title>023 Chcę wywyższać Imię Twe</title>
+    </titles>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chcę wywyższać Imię Twe,<br/>Chcę zaśpiewać Tobie chwałę,<br/>Panie dziś raduję się,<br/>Bo przyszedłeś by mnie zbawić.</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Z nieba zstąpiłeś chcesz prowadzić mnie<br/>Na krzyżu zmarłeś, by mój zapłacić dług,<br/>Z grobu wstałeś i dziś, <br/>Nieba Królem jesteś Ty,<br/>Chcę wywyższać Imię Twe</lines>
+    </verse>
+  </lyrics>
+</song>

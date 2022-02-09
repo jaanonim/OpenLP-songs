@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:02">
+  <properties>
+    <titles>
+      <title>Młodości dni, dni szczęścia złotej chwili</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="830"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Młodości dni, dni szczęścia złotej chwili,<br/>Dlaczego szybko mkniecie w siną dal?<br/>Jakbyśmy wczoraj jeszcze młodzi byli,<br/>Nieznany był nam zawód, smutek, żal.<br/>Ach, czemuż młodość tylko chwilę lśni,<br/>I czemu szczęście z sobą wzięła mi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wiosenne dni, dni szczęścia jasne, złote,<br/>Dlaczego szybko mkniecie niby sen?<br/>I zostawiacie tylko żal, tęsknotę...<br/>Już zaszło słonce, nadszedł nocy cień.<br/>Ach, czemuż wiosna tylko chwilę lśni,<br/>I czemuż radość z sobą wzięła mi?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Minęła młodość, starość już nadchodzi,<br/>Minęła wiosna, jesień zbliża się;<br/>Młodości czar już teraz nas nie zwodzi,<br/>l urok wiosny już nie cieszy mię.<br/>Gdzież szczęście moje, gdzie mam szukać je?<br/>Minęło z wiosną i nie wróci, nie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A wtedy Zbawcy drogie, święte ręce,<br/>Prawdziwą radość dają, szczęścia kwiat.<br/>Przez krew przelaną na Golgocie w męce<br/>Wstąpiłem już w radości wieczny ślad.<br/>Już wiem, że świat nie może szczęścia dać,<br/>Bóg tylko może w serca radość wlać.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:44">
+  <properties>
+    <titles>
+      <title>Działaj, bo noc nadejdzie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="480"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Działaj, bo noc nadejdzie<br/>Więc grono Bożych sług<br/>Z świtem niech zacznie dzieło<br/>A dopomoże Bóg</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wnet słońce świat ozłoci<br/>Wszak gasną blaski zórz<br/>Działaj! Gdy noc zapadnie<br/>Za późno będzie już.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Działaj, bo noc nadejdzie<br/>Południe zbliża się<br/>Poświęć swe wszystkie siły<br/>Temu, co zbawi cię</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Boża drużyno, działaj<br/>Wśród tego świata burz<br/>Działaj! Gdy noc zapadnie<br/>Za późno bedzie już</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Działaj, bo noc nadejdzie<br/>Słońce bieg kończy swój<br/>Z dala się ciemność skrada<br/>By z światłem stoczyć bój</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Do tchu nam ostatniego<br/>Walczyć wśród życia burz<br/>Działaj, Gdy noc zapadnie<br/>Za późno będzie już</lines>
+    </verse>
+  </lyrics>
+</song>

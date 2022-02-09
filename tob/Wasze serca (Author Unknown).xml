@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:54">
+  <properties>
+    <titles>
+      <title>Wasze serca</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="470"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wasze serca, wasze dłonie,<br/>ku Swej chwale Zbawca splótł,<br/>który was obdarzy hojnie ze<br/>strumienia Swoich wód.<br/>Błogo, błogo pielgrzymować<br/>razem z Panem dłonią w dłoń,<br/>z Nim się smucić, z Nim radować,<br/>z Nim na rajską zdążać błoń.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Małżeńskiego On ogniwa<br/>trwałą spójnią musi być,<br/>chętnie z wami Pan przebywa,<br/>z Nim możecie szczęście żyć.<br/>Z niebios wyżyn błogosławi<br/>wam miłośnie Pańska dłoń,<br/>niech Go życie wasze sławi<br/>swe ofiary wznoście Doń.</lines>
+    </verse>
+  </lyrics>
+</song>

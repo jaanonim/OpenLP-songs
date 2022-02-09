@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:51">
+  <properties>
+    <titles>
+      <title>Słuchaj, kwitnąca młodzieży</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="634"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Słuchaj, kwitnąca młodzieży,<br/>nadziejo przyszłości!<br/>Słuchaj, do serca bierz słowa,<br/>gdyż prawda w nich gości:<br/>Od złego stroń,<br/>Niech przyjacielska cię dłoń<br/>Wiedzie do Boga miłości!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chciej piękno życia młodego<br/>jak kwiat Mu w ofierze złożyć<br/>- i siły swe młode<br/>poświęcić Mu szczerze.<br/>Do Niego dąż,<br/>Serce swe wiernie z Nim zwiąż!<br/>On cię od zguby ustrzeże.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Radość w Jezusie największą<br/>młodzieży rozkoszą.<br/>Myśli o wielkiej miłości<br/>z twej duszy wypłoszą<br/>Próżność i złość<br/>- W sercu nie pozwól im róść,<br/>Boć tylko gorycz przy¬noszą.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Względów u Boga i ludzi ci tylko doznają,<br/>Którzy swe żądze cielesne zawczasu zwalczają,<br/>Przez żywot swój Święty prowadzą ten bój,<br/>W Bożych się sprawach kochają.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Panu dać użyć się jako posłuszne narzędzie<br/>- O, czy kto zaszczyt wspanialszy na ziemi zdobędzie?<br/>Boży niech wpływ, Pókiś jest młody i żyw,<br/>Celem i szczęściem twym będzie!</lines>
+    </verse>
+  </lyrics>
+</song>

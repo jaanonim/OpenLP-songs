@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:36">
+  <properties>
+    <titles>
+      <title>Jezus najwyższej godzien chwały</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus najwyższej godzien chwały,<br/>Jezus najwyższej godzien czci.<br/>Jego imię jest ponad wszystko.<br/>Niech niebo ziemia zgodnie chwalą Go.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I my w pokorze chcemy Go uwielbiać.<br/>Na imię Jezus każdy skłoni się.<br/>I każdy język wyzna , że to Chrystus, Boży Syn.<br/>Panie nasz najwyższy przyjmij hołd!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wszelka władza i moc i majestat<br/>/Są w rękach Twych./x2<br/>Tak! Władza i moc i majestat<br/>/Są w rękach Twych./x2<br/>Tyś Pan i Król,<br/>Boży, jedyny Syn!</lines>
+    </verse>
+  </lyrics>
+</song>

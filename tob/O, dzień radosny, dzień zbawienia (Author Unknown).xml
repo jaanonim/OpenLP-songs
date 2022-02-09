@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:57">
+  <properties>
+    <titles>
+      <title>O, dzień radosny, dzień zbawienia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="751"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, dzień radosny, dzień zbawienia,<br/>Gdy nam nastąpi chwila ta,<br/>W której duch dozna odpocznienia,<br/>Tam gdzie na wieki radość trwa;<br/>Tam Barankowi nucą pienia,<br/>Śpiewają: „Święty, Święty Pan!"<br/>Tam już nie będzie pokuszenia,<br/>A grzech nie będzie czynił ran.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, radość wielka ujrzeć Pan?.<br/>Miłością Jego wiecznie żyć,<br/>Ta miłość nam jest dobrze znana<br/>I w Niebie nam pozwoli być;<br/>Tam rzesza liczna Jego chwali,<br/>Otacza wciąż niebieski tron,<br/>Ci co swe życie Mu oddali,<br/>Radośnie brzmi ich pieśni ton.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jakaż to radość niewymowna<br/>Ogarnie serca wiernych sług,<br/>Gdy światłość będzie objawiona,<br/>A wstąpią tam gdzie mieszka Bóg;<br/>Tam pieśni ich już nie ustaną,<br/>Gdy ujrzą Jego świętą Twarz,<br/>O ziemskich rzeszach swych zapomną,<br/>O Święty Boże, chwałę masz!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:50">
+  <properties>
+    <titles>
+      <title>Ojcze nasz, Ty, któryś w niebie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="612"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ojcze nasz, Ty, któryś w niebie,<br/>Chcesz, bym tak, jak bracia siebie,<br/>Szczerze zawsze tu kochali<br/>I jak dziatki Cię wzywali.<br/>Daj, by serc i ust wołanie<br/>Miało Twe upodo¬banie!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Święć się imię Twoje zawdy!<br/>Słowo nam zachowaj prawdy,<br/>Które by nas poświęcało<br/>Do Twej chwały pobudzało.<br/>Strzeż od nauk nas fałszywych,<br/>Nawróć błędnych, nieszczęśliwych!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Przyjdź królestwo Twoje, Boże,<br/>Niech je łaska Twoja wzmoże<br/>Tu i tam przez Ducha Twego,<br/>Broń - Kościoła Ty świętego,<br/>Wzmacniaj go, a wszelkie złości<br/>Grom, nas darząc z Swej hojności.</lines>
+    </verse>
+  </lyrics>
+</song>

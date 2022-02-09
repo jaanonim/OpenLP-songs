@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:27">
+  <properties>
+    <titles>
+      <title>Jak dobrze być razem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="209"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak dobrze być razem<br/>w społeczności tu dziś,<br/>Chodź, chodź, w świetle chodź!<br/>By spotkać się z Panem,<br/>według słów Jego żyć!<br/>Chodź, chodź, w świetle chodź!<br/>/ Chodź, w świetle chodź / x3<br/>Chodź w świetle jego chodź!</lines>
+    </verse>
+  </lyrics>
+</song>

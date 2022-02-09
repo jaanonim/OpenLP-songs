@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:39">
+  <properties>
+    <titles>
+      <title>Chcemy Ciebie wielbić</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chcemy Ciebie wielbić<br/>szukać Twojej twarzy<br/>. e A D<br/>wcześnie o poranku i gdy noc kładzie cień<br/>Tobie chcemy śpiewać,<br/>wznieść niebiańską chwałę,<br/>. e A h<br/>kładąc nasze życie, byś je stale zmieniać mógł</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Niech się wzniesie dziś Twa chwała, o Panie nasz<br/>to dla Ciebie nasze serca otwarte są.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:24">
+  <properties>
+    <titles>
+      <title>Patrz, kto stoi u twych drzwi!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="165"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Patrz, kto stoi u twych drzwi!<br/>Wpuść Go dziś!<br/>Słodko woła: Otwórz mi!<br/>Wpuść Go dziś!<br/>Jezus stoi u twych drzwi,<br/>Łaskę chce darować ci;<br/>Wpuść Go, nim przeminą dni!<br/>Wpuść Go dziś!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czy ty słyszysz Jego głos?<br/>Wpuść Go dziś!<br/>Szczęsny ci zgotuje los,<br/>Wpuść Go dziś!<br/>Radość niesie taki Gość,<br/>Chce do stołu z tobą siąść;<br/>Gdy masz Jego, to masz dość.<br/>Wpuść Go dziś!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dawno stoi smutny tam.<br/>Wpuść Go dziś!<br/>To Syn Boży, Jezus Sam.<br/>Wpuść Go dziś!<br/>Jakim zacnym gościem Pan!<br/>On oczyści z grzechu plam,<br/>Da ci wieczną radość tam.<br/>Wpuść Go dziś!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Patrz, On stoi jeszcze wciąż,<br/>Wpuść Go dziś!<br/>Póki blisko, Z Nim się zwiąż!<br/>Wpuść Go dziś!<br/>Chętnie tobie pomóc chce,<br/>Lecz gdy ty Mu powiesz: nie,<br/>Słowo to osądzi cię.<br/>Wpuść Go dziś!</lines>
+    </verse>
+  </lyrics>
+</song>

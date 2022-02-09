@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:51">
+  <properties>
+    <titles>
+      <title>Zbawicielu, myśmy się</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="618"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zbawicielu, myśmy się<br/>W ciszy Twej skupili;<br/>Ty sercami wszystkich rządź<br/>W tej poważnej chwili.<br/>Twego słowa jasny blask<br/>Niech nam nie poskąpi łask,<br/>Byśmy nie zbłądzili!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezu, gościem naszym bądź<br/>I zstąp w na¬sze grono,<br/>Swojej świętej prawdy ucz<br/>Rzeszę Swą stęsknioną!<br/>Niechaj mądrość Twoich słów<br/>W serca nasze płynie znów,<br/>Niechaj je poko¬na.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chcielibyśmy życie wieść<br/>Podług Twego wzoru<br/>- Łagodnością serca kształć,<br/>Ozdób nas pokorą.<br/>Niech w prostoty szatę swą,<br/>W cichość i pokorę<br/>Twą Wszyscy się ubiorą.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Swego słowa siłę zjaw<br/>W naszym otocze¬niu,<br/>Pokaż, jak odradza się<br/>Lud, co żył w zginieniu.<br/>Jezu, żywe słowo Twe<br/>Niech nas do zwycięstwa zwie<br/>I podbija Tobie!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O, ]ak błogo ufać Ci,<br/>Ufać, jak dziecina!<br/>Nie podmyje skały tej<br/>Wściekłych mórz głębina.<br/>Kiedy cierpień przyjdzie cień,<br/>Wtedy wieczność jasny dzień<br/>W nas niech rozpo¬czyna</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:37">
+  <properties>
+    <titles>
+      <title>Jezu, Ty niewysłowioną</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="390"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezu, Ty niewysłowioną<br/>Wspaniałością lśnisz;<br/>Łaskę, pokój, pojednanie<br/>Daje mi Twój krzyż.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezu, gdybym nie miał Ciebie,<br/>Zatonąłbym w ćmie,<br/>Ale Ducha Twego jasność<br/>Spędza nocną mgłę.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezu, gdybym nie miał Ciebie,<br/>W grzechy upadłbym,<br/>Lecz Twa śmierć wolnością moją<br/>I ratunkiem mym.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jezu drogi, ja się Tobą<br/>Przyodziałem już;<br/>W Tobie pewnie jestem skryty,<br/>Zachowany wciąż.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gdy się zbliży pokuszenie,<br/>Szatan, grzech i kłam,<br/>To za Pana się ukryję,<br/>Cicho przy Nim trwam.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Żadnych wrogów się nie boję,<br/>Gdyś jest przy mnie Ty,<br/>Coś wywalczył mi zwycięstwo.<br/>O, jak błogo mi!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jezu, wiedziesz Swą owieczkę,<br/>Która ufa Ci;<br/>Wiedziesz pewnie, wiedziesz błogo,<br/>Gdzie Twa chwała lśni.</lines>
+    </verse>
+  </lyrics>
+</song>

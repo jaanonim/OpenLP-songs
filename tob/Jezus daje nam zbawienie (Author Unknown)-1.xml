@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:20">
+  <properties>
+    <titles>
+      <title>Jezus daje nam zbawienie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="284"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus daje nam zbawienie,<br/>Jezus daje pokój nam.<br/>Jemu składam dziękczynienie,<br/>Chwałę z serca mego dam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W Jego ranach uzdrowienie,<br/>W Jego śmierci życia dar.<br/>Jego krew to oczyszczenie,<br/>Jego życie chwałą nam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jezus siłą mą,<br/>Jezus pieśnią mego życia.<br/>Królem wiecznym On,<br/>niepojęty w mocy Swej.<br/>W Nim znalazłem to,<br/>czego szukałem do dzisiaj.<br/>Sam mi podał dłoń,<br/>bym zwyciężał w każdy dzień.</lines>
+    </verse>
+  </lyrics>
+</song>

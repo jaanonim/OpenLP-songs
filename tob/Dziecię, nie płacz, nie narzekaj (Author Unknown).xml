@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:37">
+  <properties>
+    <titles>
+      <title>Dziecię, nie płacz, nie narzekaj</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="377"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dziecię, nie płacz, nie narzekaj,<br/>Jezusowe imię bierz,<br/>Ono radość ci przyniesie,<br/>Tylko ufaj, tylko wierz</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Słodkie jest imię to,<br/>Przed nim znika wszelkie zło. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Imię Jezus tarczą twoją,<br/>Ono silną zbroją twą,<br/>Z tym imieniem idź w bój śmiało,<br/>Zwalczysz łatwo skłonność złą.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O najdroższe imię Jezus!<br/>Klejnot to dla wszystkich dusz,<br/>Ono blaski sieje w nocy,<br/>Ciszę zsyła w czasie burz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jak nam zacne imię Jezus<br/>Dla przelanej świętej krwi!<br/>Przez nie daje Bóg zbawienie<br/>I otwiera w niebo drzwi</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:58">
+  <properties>
+    <titles>
+      <title>Miłość posłała Jezusa</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="72"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Miłość posłała Jezusa na Krzyż,<br/>Za co On kocha mnie?<br/>Tam na Golgocie On zmarł za mój grzech,<br/>Za co On kocha mnie?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Za co On kocha mnie? Za co On kocha mnie?<br/>Za co On oddał na krzyż życie swe?<br/>Za co On kocha mnie?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gwoździe dla moich przebiły Go win<br/>Za co On kocha mnie?<br/>Zmarł dla mojego zbawienia Bóg Syn.<br/>Za co on kocha mnie?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Próżno to pojąć rozumem swym chcę,<br/>Za co On kocha mnie?<br/>Boża miłości, któż zmierzyć cię śmie?<br/>Za co On kocha mnie?</lines>
+    </verse>
+  </lyrics>
+</song>

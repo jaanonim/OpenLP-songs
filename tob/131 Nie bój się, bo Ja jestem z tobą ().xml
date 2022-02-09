@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:44">
+  <properties>
+    <titles>
+      <title>131 Nie bój się, bo Ja jestem z tobą</title>
+    </titles>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="p">
+        <open>&lt;p&gt;</open>
+        <close>&lt;/p&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>Nie bój się, bo Ja jestem z tobą  /3x <br/>	- mówi Pan.<br/><tag name="p"/><br/>Odkupiłem cię, dałem ci imię Me,<br/>Moim jesteś więc już<br/>Nie utoniesz, gdy będziesz po wodzie szedł,<br/>Ogień nie strawi cię<br/>NIE! NIE! Nie utoniesz! <br/>NIE! NIE! Nie spłoniesz!  <br/>Bo Ja jestem z tobą - mówi Pan.</lines>
+    </verse>
+  </lyrics>
+</song>

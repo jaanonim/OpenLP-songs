@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:15">
+  <properties>
+    <titles>
+      <title>Alleluja, Miłość Twa</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alleluja, miłość Twa<br/>jak blask słońca nad nami wciąż trwa.<br/>Alleluja, niech biją dziś dzwony,<br/>niech wielbi Cię cały świat,<br/>Alleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alleluja, płynie pieśń<br/>więc wraz z nami ku Niebu ją wznieś,<br/>Alleluja! niech biją dziś dzwony,<br/>niech wielbi Cię cały Świat, Alleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

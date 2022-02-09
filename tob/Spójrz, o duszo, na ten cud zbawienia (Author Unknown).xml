@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:55">
+  <properties>
+    <titles>
+      <title>Spójrz, o duszo, na ten cud zbawienia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="719"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Spójrz, o duszo, na ten cud zbawienia,<br/>Który Jezus ci zgotował Sam.<br/>Z więzów grzechu, z samych wrót zginienia<br/>Pragnie wieść cię do żywota bram.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pośpiesz więc w otwarte dziś ramiona,<br/>Ujmij dłoń, przebitą dla twych win;<br/>W ranach tych jest wina twa zgładzona,<br/>To za ciebie skonał Boży Syn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Patrz, ratunek Zbawca ci podaje<br/>- Czy pozwolisz Mu na dworze stać?<br/>On cierpliwie wzywać nie przestaje<br/>- Kiedyż zechcesz swą odpowiedź dać?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dziś twe serce na rozdrożu stoi:<br/>W dali otchłań, albo szczęścia błoń.<br/>Niechże krzyża obrać się nie boi<br/>- Wkrótce Pan uwieńczy Twoją skroń</lines>
+    </verse>
+  </lyrics>
+</song>

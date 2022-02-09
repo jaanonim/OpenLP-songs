@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:23">
+  <properties>
+    <titles>
+      <title>Maryjo śliczna Pani</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="385"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Maryjo śliczna Pani,<br/>Matko Boga i ludzi na ziemi.<br/>Tyś świata Królową,<br/>Tyś gwiazdą na niebie,<br/>która wiedzie nas do Boga<br/>w jego raj</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Maryja, Ave Maryja<br/>u Boga nam wybłagaj zdroje łask,<br/>by świat lepszym był, by w miłości żył,<br/>o Maryjo miej w opiece dzieci swe.  // x2 //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Maryjo śliczna Pani<br/>świat dziś czuje na swych<br/>ustach gorzkie łzy.<br/>W sercu ból, smutek, żal,<br/>a w oczach wciąż strach,<br/>matko przyjmij błaganie, pomóż nam.</lines>
+    </verse>
+  </lyrics>
+</song>

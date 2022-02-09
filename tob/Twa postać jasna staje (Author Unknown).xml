@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:30">
+  <properties>
+    <titles>
+      <title>Twa postać jasna staje</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="287"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Twa postać jasna staje<br/>Przed sercem w noc i w dzień,<br/>I pytać nie przestaje,<br/>Czy wstąpić może weń.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mój Panie, już ja wolę<br/>Stanowczo Twoim być,<br/>Dokądże bym w padole<br/>Mógł uciec się i skryć?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Znikają tu rozkosze,<br/>Jak bańki z wodnych pian,<br/>Nad wszystko to przenoszę,<br/>Co z krzyża daje Pan.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jak często narzekałem,<br/>Gdy szatan serce starł,<br/>Dziś wolnym, gdy poznałem<br/>Twej wielkiej łaski dar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I teraz w dzień i w nocy<br/>Oglądam sercem Cię,<br/>I mogę świadczyć wszystkim,<br/>Żeś uszczęśliwił mię.</lines>
+    </verse>
+  </lyrics>
+</song>

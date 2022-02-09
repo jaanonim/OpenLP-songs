@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:11">
+  <properties>
+    <titles>
+      <title>Piosenka Hip-hop'opwa - Revolutionary 2005</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z ludźmi ze Stanów - jest nam tu miło<br/>Świeci wciąż słońce - czas płynie szybko<br/>Każdy chce słówek - tysiące poznać<br/>W grach i zabawach - moc wrażeń doznać</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dzień za dzionkiem mija, - obóz się rozwija<br/>Każda chwilka ważna, - jutro będzie jazda</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Co dzień wieczory - mamy bajeczne<br/>Czas bez pijaństwa - spędzamy grzecznie<br/>Na małych grupkach - silimy głowy<br/>Chcemy rewolty - mocnej odnowy</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dymas szefuńciem - naszym kochanym<br/>Chociaż w zabawach - oszustem małym<br/>Rzuca wciąż granat - i nie oszczędzi<br/>Bardzo nas kocha - jak własne dzieci</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ekipa nasza - jest bardzo zgrana<br/>Kasia Piotrusia - męczy od rana<br/>Skaj miny strzela - śmieszne jak dziecko<br/>Jest nam naprawdę - tutaj nie ziemsko</lines>
+    </verse>
+  </lyrics>
+</song>

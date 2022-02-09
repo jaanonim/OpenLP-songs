@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:13">
+  <properties>
+    <titles>
+      <title>Nie, co ja chcę</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="181"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie, co ja chcę, lecz co Ty,<br/>Aby w pełni mógł Twój Syn<br/>Zamieszkać w sercu, które dziś<br/>Oddaję Ci!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aby wszystko we mnie już<br/>Upodobaniem było Twym!<br/>Abba, Ojcze,<br/>Chcę być wiernym synem Twym!</lines>
+    </verse>
+  </lyrics>
+</song>

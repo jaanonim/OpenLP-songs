@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:15">
+  <properties>
+    <titles>
+      <title>Wielbimy Cię i czcimy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="175"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wielbimy Cię i czcimy,<br/>Hołd Ci oddajemy,<br/>Pieśni chwały nucąc,<br/>Ręce nasze wznosząc!<br/>Alleluja! Alleluja! Alleluja! Amen!</lines>
+    </verse>
+  </lyrics>
+</song>

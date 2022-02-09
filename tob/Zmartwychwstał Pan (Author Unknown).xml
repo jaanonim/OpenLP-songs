@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:12">
+  <properties>
+    <titles>
+      <title>Zmartwychwstał Pan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="178"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zmartwychwstał Pan! Przeminęła trwoga.<br/>Zmartwychwstał Pan! Zwyciężył śmierć!<br/>Zmartwychwstał Pan! Otworzył drogę,<br/>Więc życie me ma teraz sens, bo żyje Pan!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wiem, żyje Pan! W Nim mam pewność jutra.<br/>Wiem, żyje Pan! Znikł wszelki strach.<br/>I wiem, że On zna moją przyszłość.<br/>Więc warto żyć, bo pewność mam, że żyje Pan!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:56">
+  <properties>
+    <titles>
+      <title>Mój Boże, w ręku Twym</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="738"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mój Boże, w ręku Twym<br/>Mojego życia dni;<br/>Me serce, wszystko co tu mam,<br/>Ochotnie daję Ci.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mój Boże, w ręku Twym<br/>Mojego życia dni;<br/>Czy iść mam w dzień, czy w ciemną noc,<br/>To wszystko znane Ci.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mój Boże, w ręku Twym<br/>Żywota mego bieg,<br/>Dlatego też nie trwożę się,<br/>Ty wiernie będziesz strzegł.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mój Boże, w ręku Twym<br/>Żywota mego czas;<br/>Ujmuję Twą przebitą dłoń,<br/>Wszak poprowadzisz nas.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mój Boże, w ręku Twym<br/>Mojego życia dni;<br/>Gdy życia krótki minie czas,<br/>Do chwały przyjmiesz Ty!</lines>
+    </verse>
+  </lyrics>
+</song>

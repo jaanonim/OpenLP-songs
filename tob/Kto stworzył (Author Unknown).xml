@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:08">
+  <properties>
+    <titles>
+      <title>Kto stworzył</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kto stworzył?<br/>Migocące gwiazdki, migocące gwiazdki, migocące gwiazdki<br/>Kto stworzył?<br/>Migocące gwiazdki - nasz Ojciec Bóg</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kto stworzył?<br/>Falujące morze, falujące morze, falujące morze<br/>Kto stworzył?<br/>Falujące morze - nasz Ojciec Bóg</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kto stworzył?<br/>Taką wielką rybę, taką wielką rybę, taką wielką rybę<br/>Kto stworzył?<br/>Taką wielką rybę - nasz Ojciec Bóg</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kto stworzył?<br/>Fruwające ptaszki, fruwające ptaszki, fruwające ptaszki<br/>Kto stworzył?<br/>Fruwające ptaszki - nasz Ojciec Bóg</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kto stworzył?<br/>Słonia z taką trąbą, słonia z taką trąbą, słonia z taką trąbą<br/>Kto stworzył?<br/>Słonia z taką trąbą - nasz Ojciec Bóg</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kto stworzył?<br/>Takiego niedźwiedzia, takiego niedźwiedzia, takiego niedźwiedzia<br/>Kto stworzył?<br/>Takiego niedźwiedzia - nasz Ojciec Bóg</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Kto stworzył?<br/>Ciebie i mnie.<br/>Kto stworzył?<br/>Ciebie i mnie - nasz Ojciec Bóg</lines>
+    </verse>
+  </lyrics>
+</song>

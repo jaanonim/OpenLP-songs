@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:56">
+  <properties>
+    <titles>
+      <title>Tak długo w tym świecie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="29"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tak długo w tym świecie błądziłem,<br/>Zewsząd grzechu otaczał mnie mrok,<br/>Aż Jezus, mój Pasterz mnie znalazł<br/>I do domu skierował mój krok.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Twoja dobroć i łaska<br/>Wciąż pójdą za mną w ślad<br/>Aż po kres, aż po kres moich dni /x2<br/>Zamieszkam tam, w domu Pańskim na długie czasy<br/>I z obfitego Jego stołu będę jeść.<br/>Twoja dobroć i łaska<br/>Wciąż pójdą za mną w ślad,<br/>Aż po kres, aż po kres moich dni</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdym zmęczony, posila mą duszę,<br/>Prostuje labirynt mych dróg.<br/>Na pasze zielone prowadzi,<br/>Bym odpocząć u wód cichych mógł.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kiedy pójdę przez śmierci dolinę,<br/>Nie będę niczego się bać.<br/>Bo Jezus mój Pasterz najlepszy,<br/>Przy mym boku obiecał wciąż stać.</lines>
+    </verse>
+  </lyrics>
+</song>

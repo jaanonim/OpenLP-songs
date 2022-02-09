@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:56">
+  <properties>
+    <titles>
+      <title>Gdy do Pana przyjdę</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="734"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy do Pana przyjdę,<br/>Gdzie jest chwały zdrój,<br/>Jemu się pokłonić<br/>Duch pośpieszy mój.<br/>U nóg Jego będzie<br/>Miejsce duszy mdłej,<br/>Póki nie obróci<br/>Ku mnie twarzy Swej.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy do Pana przyjdę<br/>Przygnębiony, mdły,<br/>On boleści moje<br/>Wszystkie zdejmie mi;<br/>Wszak mię umiłował<br/>Wpierw, nimem Go znał,<br/>Jakby wziąć miał teraz,<br/>Co Sam duszy dał?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wprawdzie jam niegodzien<br/>Nawet zdała być,<br/>Widzieć Cię tam w chwale,<br/>Z aniołami czcić,<br/>Aleś Ty i w śmierci<br/>Zdrój, co żywot ma,<br/>Większa niż me grzechy<br/>Jest wszak łaska Twa.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Będzie to Twej łaski<br/>Najcudniejszy dziw,<br/>Że największy grzesznik<br/>Z Tobą będzie żyw!<br/>Doba wiecznych wieków<br/>Nie wystarczy mi<br/>Na wypowiedzenie<br/>Łaski Twej i czci.</lines>
+    </verse>
+  </lyrics>
+</song>

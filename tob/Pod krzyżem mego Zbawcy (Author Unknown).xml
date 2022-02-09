@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:52">
+  <properties>
+    <titles>
+      <title>Pod krzyżem mego Zbawcy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="430"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pod krzyżem mego Zbawcy strudzony złożę skroń,<br/>tam przed pustyni skwarem mię wszechmocna chroni dłoń.<br/>Tam dusza ma bezpieczny schron w upalny znajdzie dzień,<br/>spragnionych słabych Zbawcy krzyż pod swój przygarnia cień.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Warowne to schronienie, wypróbowany grunt,<br/>gdzie z grzesznym pojednany Bóg, już z nim nie wchodzi w sąd!<br/>Co Jakub w błogim widział śnie, tym jest na jawie krzyż:<br/>Drabina, która wiedzie nas do tronu łaski wzwyż.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu pod Chrystusa krzyżem śmierć traci żądło swe,<br/>w ochronie błogiej Pańskich ran ratunek czeka mnie.<br/>Tu Pan z niezmiernej łaski Swej Łotrowi niebo dał,<br/>rozpięte Zbawcy ręce nam wskazują wieczny dział.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pod krzyżem już zostanę po wszystkie życia dni,<br/>nie pragnę więcej świateł czczych, boś, Panie, słońcem mi.<br/>Niech cały mi przepadnie świat, już nie dbam więcej on,<br/>miłością mą na krzyżu Pan, mój wzrok kieruję Doń!</lines>
+    </verse>
+  </lyrics>
+</song>

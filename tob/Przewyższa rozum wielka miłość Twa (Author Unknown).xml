@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:22">
+  <properties>
+    <titles>
+      <title>Przewyższa rozum wielka miłość Twa</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="98"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przewyższa rozum wielka miłość Twa,<br/>Mój Zbawicielu, jednak pragnę ja<br/>Miłości Twej głębiny wielkie znać<br/>I z nich do życia siły<br/>zdrój i pokój w serce brać.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przewyższa słowa wielka miłość Twa,<br/>Lecz żywych słów pożąda dusza ma,<br/>Słów, które wieść radosną niosą tu,<br/>Że Ty wyrywasz z nędzy,<br/>budzisz z grzechowego snu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Przewyższa chwałę ziemską miłośćTwa,<br/>Lecz śpiewać chwałę pragnę Tobie ja,<br/>Za miłość, która wzeszła w sercu mym<br/>I w nocy grzechu mnie olśniła<br/>jasnym blaskiem swym.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lecz jeśli nawet na to mnie nie stać,<br/>Bym cześć należną mógł Ci godnie dać,<br/>Naczynie puste do stóp niosę Ci,<br/>Strumieniem żywym, Panie,<br/>proszę, napełń serce mi!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Miłości płomień zapal w piersi mej,<br/>Bo źródłem jesteś Ty jedynie jej;<br/>Pragnienie wiarą zaspokajać chcę,<br/>Od wszelkich źródeł ziemskich<br/>całkiem odwróć, Panie mię.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Gdy Ciebie kiedyś ujrzę twarzą w twarz,<br/>Mój Zbawicielu, który serce znasz,<br/>To w pieniach chcę miłości chwałę wznieść<br/>I głębię jej opiewać wciąż<br/>i nieprzebraną treść.</lines>
+    </verse>
+  </lyrics>
+</song>

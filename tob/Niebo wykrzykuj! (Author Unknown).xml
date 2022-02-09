@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:19">
+  <properties>
+    <titles>
+      <title>Niebo wykrzykuj!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="39"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niebo wykrzykuj!<br/>Wy, chóry aniołów śpiewajcie!<br/>Zbawicielowi i Panu<br/>wesoło pląsajcie!<br/>Patrzcie, jak Bóg<br/>Do Swoich zniża się sługi<br/>Chwałę i cześć Mu oddajcie!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niebo, wykrzykuj!<br/>Weselcie się, ziemi kończyny!<br/>Bóg i grzesznicy<br/>jednają się już tej godziny.<br/>Pokoju wieść<br/>Wszystkim anioły chcą nieść;<br/>Cieszcie się z dobrej nowiny!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cud oglądajcie,<br/>jak bardzo Sam Bóg się , poniża!<br/>Miłość najczystsza<br/>się do nas w dzieciątku przybliża<br/>Z niebieskich strzech,<br/>Biorąc i gładząc nasz grzech.-<br/>Święta ogarnia nas cisza.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bóg jest wcielony.<br/>Któż pojmie tajemnic tę kartę?<br/>Bramy żywota<br/>są tutaj dla wszystkich otwarte.<br/>Patrzj i zważ!<br/>Pokój i radość tu masz,<br/>Balsam na serce rozdarte!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Królu najwyższy!<br/>Z miłości dziecięciem się stałeś,<br/>Serce me z Sobą na wieki<br/>miłością związałeś.<br/>Jestem więc Twój,<br/>A Tyś na wieki jest mój,<br/>Bo mię od wieków wybrałeś.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Emanuelu!<br/>Racz także się we mnie narodzić,<br/>Mnie zgubionego racz z Ojcem<br/>na wieki pogodzić!<br/>We mnie się wsław,<br/>W sercu mieszkanie Swe spraw,<br/>Racz je zupełnie odrodzić!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Zbawco, mój Jezu,<br/>chcę Ciebie miłować i sławić.<br/>Daruj, bym całym żywotem mógł<br/>radość Ci sprawić.<br/>Pomóż się stać Wiernym<br/>Twym uczniem i znać<br/>Ciebie i wiecznie rozsławić.</lines>
+    </verse>
+  </lyrics>
+</song>

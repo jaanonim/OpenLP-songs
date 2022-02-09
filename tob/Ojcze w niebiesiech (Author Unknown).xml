@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:45">
+  <properties>
+    <titles>
+      <title>Ojcze w niebiesiech</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="288"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ojcze w niebiesiech, jeśli to być może,<br/>niech ten kielich minie dziecię Twoje!<br/>Lecz gdy Twa wola inna, mocny Boże,<br/>spraw, niechaj męstwem serce me uzbroję.<br/>Niech, jak mój Zbawca niegdyś tam w ogrójcu,<br/>Bogu zaufam, łaskawemu Ojcu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dziej się Twa wola, chociaż Twoja droga<br/>nie moją drogą, ach, nie moją, Panie!<br/>Lecz kiedy sercem szarpie ból i trwoga,<br/>niech mi u boku wierny Zbawca stanie.<br/>Jak On po walce niegdyś w Getsemane,<br/>niech pokrzepiony od modłów powstanę.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dziej się Twa wola! Wierzę niewzruszenie,<br/>żeś Bogiem prawdy, żeś miłości Bogiem,<br/>że nie nad siły ześlesz doświadczenie;<br/>serce uciszysz w smutku, w bólu srogim.<br/>Jak memu Zbawcy wśród śmiertelnej trwogi,<br/>tak duszy mojej wrócisz pokój błogi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dziej się Twa wola! Ugnij moje serce,<br/>niechaj radośnie Tobie się ukorzy.<br/>O, jakże często w męce i rozterce Swojej<br/>szukało drogi, zamiast Bożej!<br/>Jak memu Zbawcy wpośród ciemnej nocy,<br/>przybądź mi, Ojcze, przybądź ku pomocy!</lines>
+    </verse>
+  </lyrics>
+</song>

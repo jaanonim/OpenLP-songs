@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:17">
+  <properties>
+    <titles>
+      <title>Gdy milknie śpiew</title>
+    </titles>
+    <copyright>1999 Thankyou Music</copyright>
+    <authors>
+      <author type="translate">Olga Białoń</author>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="193"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>meditation</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>longing</theme>
+      <theme>devotion</theme>
+      <theme>commitment</theme>
+      <theme>sacrifice</theme>
+      <theme>repentance</theme>
+      <theme>worship</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy milknie śpiew,<br/>gdy wszystko niknie w cień,<br/>liczysz się Ty,<br/>Pragnę przynieść Ci<br/>pragnienia duszy mej,<br/>u Twych złożyć stóp.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Przynoszę więcej niż pieśń, z serca wielbię Cię,<br/>bo Ty nie pragniesz dziś słów,<br/>Ty patrzysz głębiej niż ja, badasz serce me,<br/>chcesz znaleźć tam Miłość Twą.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chcę Ciebie dzisiaj z serca wielbić,<br/>Tyś wszystkim jest,<br/>Tyś wszystkim jest, Jezu.<br/>Przepraszam za me złe uczynki,<br/>Tyś wszystkim jest,<br/>Tyś wszystkim jest, Jezu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Boże, Królu nasz,<br/>któż wyrazi to<br/>jak wspaniałym Tyś.<br/>Czuję słabość mą,<br/>wszystko daję Ci,<br/>Każdy oddech mój.</lines>
+    </verse>
+  </lyrics>
+</song>

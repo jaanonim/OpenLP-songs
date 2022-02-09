@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:25">
+  <properties>
+    <titles>
+      <title>Pójdź do Jezusa, dziś jeszcze czas</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="168"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pójdź do Jezusa, dziś jeszcze czas!<br/>Usłysz głos Jego, nie bądź jak głaz!<br/>Wszak On tak bardzo miłuje nas,<br/>Woła tak słodko: pójdź!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ujrzym widok piękny jako cud,<br/>Gdy, rzuciwszy grzechu złość i brud,<br/>Wkroczymy wreszcie w niebieski gród.<br/>Jezu, przychodzę już!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pójdź o me dziecię, usłuchać chciej!<br/>Daj Mu swe serce, w sercu Go miej!<br/>Pewną przystanią On duszy twej,<br/>Więc Doń bez zwłoki pójdź!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wierz tylko silnie, Pan przyjmie cię!<br/>Czyliż nie czujesz, jak zbliża się?<br/>Z miłością otrze twej skruchy łzę.<br/>Pójdź, grzeszny człeku , pójdź!</lines>
+    </verse>
+  </lyrics>
+</song>

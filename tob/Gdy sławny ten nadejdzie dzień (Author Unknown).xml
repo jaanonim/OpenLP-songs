@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:47">
+  <properties>
+    <titles>
+      <title>Gdy sławny ten nadejdzie dzień</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="544"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy sławny ten nadejdzie dzień<br/>Twojego przyjścia, Panie nasz,<br/>Gdy do wybranej z jasnych chmur<br/>Radośnie Swoją skłonisz twarz:<br/>O Panie, z łaski wtedy daj,<br/>Bym z Tobą piękny dzielił raj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy archanielskiej trąby głos<br/>Donośnie zabrzmi w świata dal,<br/>Wzywając zbór: „0, wstań i chodź<br/>Z Wybranym do weselnych sal!"<br/>O, sprawże wtedy, Panie chwał,<br/>Bym udział w tej radości miał!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A gdy ubrana w śnieżny strój<br/>Oblubienica z ziemskich miast<br/>Do Twoich jasnych padnie stóp<br/>I pójdzie z Tobą wyżej gwiazd,<br/>Wtedy i mnie oglądać daj<br/>Wiecznej radości cudny kraj!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A kiedy skończysz dzieło Swe<br/>I członki z głową spoisz już,<br/>Gdy zbierzesz owoc trudów Swych:<br/>Miliony wyzwolonych dusz,<br/>To daruj, Jezu, z łaski Swej,<br/>Bym udział miał w radości tej!</lines>
+    </verse>
+  </lyrics>
+</song>

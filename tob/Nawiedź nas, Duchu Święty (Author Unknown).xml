@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:20">
+  <properties>
+    <titles>
+      <title>Nawiedź nas, Duchu Święty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="77"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nawiedź nas, Duchu Święty,<br/>nawiedź Mistrzu nasz wzięty,<br/>O Panie niepojęty!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jak sieroty czekamy,<br/>Obietnicy ufamy<br/>I do Ciebie wołamy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tylko Ty nas zdolnymi<br/>Uczynisz na tej ziemi<br/>Chodzić drogami Twymi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Rozpal serca wnętrzności<br/>Ogniem świętej miłości -<br/>Niech w nas stale zagości.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Spraw wśród nas przebudzenie,<br/>Daj Ducha ożywienie,<br/>W serca tchnij uwielbienie.</lines>
+    </verse>
+  </lyrics>
+</song>

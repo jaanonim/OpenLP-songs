@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:45">
+  <properties>
+    <titles>
+      <title>Boże, z Twoich rąk żyjemy</title>
+    </titles>
+    <authors>
+      <author type="words">Fr.Karpiński</author>
+      <author type="music">Fr.Karpiński</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="675"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boże, z Twoich rąk żyjemy,<br/>Choć naszymi pracujemy.<br/>Z Ciebie żyzność miewa rola,<br/>My zbieramy z Twego pola.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wszystko Cię, mój Boże, chwali,<br/>Aleśmy i to poznali,<br/>Że najmilsza Ci się zdała<br/>Pracującej ręki chwała.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ty, co rządzisz ziemią, niebem,<br/>Opatrz dzieci swoje chlebem,<br/>Ty nam daj urodzaj złotym<br/>My dajemy trud i poty.</lines>
+    </verse>
+  </lyrics>
+</song>

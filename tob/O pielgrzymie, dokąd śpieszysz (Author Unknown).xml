@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:41">
+  <properties>
+    <titles>
+      <title>O pielgrzymie, dokąd śpieszysz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="456"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>„O pielgrzymie, dokąd śpieszysz<br/>Z laską w ręku? Dokąd? Mów!"<br/>„Do lepszego idę kraju,<br/>Wedługo mego Króla słów.<br/>Przez doliny, pola, góry,<br/>Przez pustynie i przez bory,<br/>/ Przez pustynie i przez bory<br/>Zdążam do ojczystych stron." /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>„Cóż Cię czeka w onym kraju,<br/>Że tak wesół śpieszysz doń?"<br/>„Białe szaty i koronę<br/>Tam mi poda Pańska dłóń.<br/>Tam strumienie życia płyną,<br/>Tam sarońskie róże słyną,<br/>/ Tam sarońskie róże słyną,<br/>Tam jest wiecznej wiosny kraj." /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>„Czy nie boisz się samotny,<br/>Czy postrachy piekła znasz?"<br/>„Nie, bo wojska anielskiego<br/>Mnie otacza wierna straż.<br/>Jezus mnie za rękę wiedzie,<br/>On zaradzi wszelkiej biedzie,<br/>/ On zaradzi wszelkiej biedzie<br/>W drodze do ojczystych stron." /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>„Mój pielgrzymie, weź mnie z sobą!<br/>Chętnie pójdę w lepszy kraj."<br/>„Przystań do nas, pójdziem z tobą,<br/>Tylko swoją rękę daj!<br/>Pielgrzymujemy razem w wierze,<br/>Nikt nam skarbu nie zabierze,<br/>/ Nikt nam skarbu nie zabierze,<br/>Wnet ojczysty ujrzym bieg." /x2</lines>
+    </verse>
+  </lyrics>
+</song>

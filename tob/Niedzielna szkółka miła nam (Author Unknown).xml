@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:55">
+  <properties>
+    <titles>
+      <title>Niedzielna szkółka miła nam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="500"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niedzielna szkółka miła nam i coraz miiszą jest;<br/>w godzinie tej u niebios bram Duch nasz i serce jest.<br/>Tu uczą prawdy czystej nas, Jezusa kochać, ufać Mu,<br/>miłować bliźnich w każdy czas, szczęśliwym być już tu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Śpiew więc nasz niech głośno brzmi,<br/>na cały świat, ku Pańskiej czci:<br/>O, hosanna! O, hosanna! Jezu,<br/>niechaj wieczna będzie Ci!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nauczycielom wdzięczniśmy za miłość pracę, trud,<br/>za ich przykładem chcemy iść do Jezusowych trzód.<br/>Ojcowski gdy opuścim próg, i hen, w daleki pójdziem świat,<br/>nas wstrzyma od bezbożnych dróg wspomnienie dobrych rad.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Śpiew więc nasz niech głośno brzmi,<br/>na cały świat, ku Pańskiej czci:<br/>O, hosanna! O, hosanna! Jezu,<br/>niechaj wieczna będzie Ci!</lines>
+    </verse>
+  </lyrics>
+</song>

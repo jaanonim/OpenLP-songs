@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:03">
+  <properties>
+    <titles>
+      <title>Rannego słońca pierwszy promyk lśni</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="841"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rannego słońca pierwszy promyk lśni<br/>I mówi: „Bóg chce być światłością ci."<br/>A w krzakach wdzięczną piosenkę śpiewa ptak:<br/>„Chwal, tak jak ja, / Twojego Stwórcę rad. /x2 "</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niebieski kwiatek tak poucza mię:<br/>Pamiętaj człecze, zawsze modlić się.<br/>A mała. pszczółka brzęczy cicho mi:<br/>„Pilnie jak ja / Dla Zbawcy pracuj ty! /x2 "</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A gdy wieczorem dzwoni stary dzwon,<br/>Jak gdyby wszystkim wkoło mówił on:<br/>„Upływa szybko czas, znów minął dzień,<br/>Nie zmarnuj go, / Bo wieczność zbliża się /x2 "</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Przypomnieć pragnie ci wieczorny cień:<br/>„Podziękuj Bogu za miniony dzień."<br/>A gwiazdy mówią ci, co w górze lśnią:<br/>„O, śpij bez trwóg, / Nad tobą czuwa Bóg. /x2 "</lines>
+    </verse>
+  </lyrics>
+</song>

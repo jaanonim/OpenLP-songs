@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:22">
+  <properties>
+    <titles>
+      <title>Pójdżmy wszyscy do stajenki</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="1020"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pójdźmy wszyscy do stajenki,<br/>do Jezusa i Panienki<br/>Powitajmy Maleńkiego<br/>i Maryję Matkę Jego<br/>Powitajmy Maleńkiego<br/>i Maryję Matkę Jego</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Witaj, Jezu ukochany,<br/>od Patriarchów czekany<br/>Od Proroków ogłoszony,<br/>od narodów upragniony<br/>Od Proroków ogłoszony,<br/>od narodów upragniony</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Witaj, Dzieciąteczko w żłobie,<br/>wyznajemy Boga w Tobie<br/>Coś się narodził tej nocy,<br/>byś nas wyrwał z czarta mocy<br/>Coś się narodził tej nocy,<br/>byś nas wyrwał z czarta mocy</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Witaj Jezu nam zjawiony,<br/>witaj dwakroć narodzony<br/>Raz z Ojca przed wieków wiekiem,<br/>a teraz z matki człowiekiem<br/>Raz z Ojca przed wieków wiekiem,<br/>a teraz z matki człowiekiem</lines>
+    </verse>
+  </lyrics>
+</song>

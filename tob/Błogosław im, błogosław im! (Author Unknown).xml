@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:52">
+  <properties>
+    <titles>
+      <title>Błogosław im, błogosław im!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="642"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Błogosław im, błogosław im!<br/>Do Ciebie, niebios Panie,<br/>Wznosimy nasze komę dziś błaganie<br/>- Parze, stojącej przed obliczem Twym<br/>- Błogosław im, błogosław im, błogosław im!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zwycięstwo daj, zwycięstwo daj<br/>W cierpieniu, w ciężkim boju,<br/>I niech szukają w słowie Twym pokoju,<br/>Aż dojdą celu tam w królestwie Twym.<br/>- Błogosław im, błogosław im, błogosław im!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Swym Duchem rządź, Swym Duchem rządź<br/>Ich serca, życie całe,<br/>By były zawsze niezachwiane, stałe,<br/>W Twej społeczności chodząc śladem Twym.<br/>Błogosław im, błogosław im, błogosław im!</lines>
+    </verse>
+  </lyrics>
+</song>

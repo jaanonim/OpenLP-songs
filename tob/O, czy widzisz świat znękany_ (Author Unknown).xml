@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:45">
+  <properties>
+    <titles>
+      <title>O, czy widzisz świat znękany?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="493"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, czy widzisz świat znękany?<br/>Tylko miłość ma tę moc,<br/>By zagoić jego rany,<br/>Światło zlać w tę ciemną noc.<br/>Szczęścia wcale nie zna świat,<br/>Choć go kwieciem darzy maj,<br/>Nic w nim, oprócz złud i zdrad.<br/>Tylko miłość jemu daj!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Miłość, tak jak słonka żar<br/>Koi serca ciepłem swym.<br/>Choć to trudno, nieś ten dar<br/>W Bożej mocy w świecie złym.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeśli szczere masz pragnienie<br/>Nieść dla wszystkich wzdłuż i wszerz<br/>Pomoc, radę, pokrzepienie,<br/>Tylko miłość z sobą bierz.<br/>Miłość ta podniosła cię<br/>I ujęła twoją dłoń,<br/>Więc i ty w nią uzbrój się<br/>I do bliźnich z nią się skłoń.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nieraz duszom wszystko znika,<br/>Co radością było im,<br/>Ciebie miłość niech przenika,<br/>Niech ją ujrzą w życiu twym.<br/>Chce jej zaznać każdy człek.<br/>Jeśli bóle leczyć chcesz,<br/>Nie pomoże inny lek,<br/>- Tylko miłość podać śpiesz!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jeśli imię twe wpisane<br/>W księgi wiernych Bożych sług,<br/>Jest ci serce nowe dane.<br/>Byś miłować wszystkich mógł.<br/>Tą miłością wciąż masz żyć!<br/>A to hasło sobie weź:<br/>„Chcesz-li użytecznym być,<br/>Tylko miłość wszędzie nieś!"</lines>
+    </verse>
+  </lyrics>
+</song>

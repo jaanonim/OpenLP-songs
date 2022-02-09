@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:25">
+  <properties>
+    <titles>
+      <title>Płacz i ból</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="41"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Płacz i ból był żywotem mym,<br/>Sam dźwigałem swój krzyż.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Radość wróciła mi Golgota<br/>Znalazł mnie Chrystus Pan,<br/>Radość wróciła mi Golgota, Golgota, Golgota<br/>Radość wróciła mi Golgota<br/>Znalazł mnie Chrystus Pan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Panem mym był mój własny grzech.<br/>Wciąż staczam się w dół.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>W łasce swej, tak mi rzekł mój Pan:<br/>Złóż pod krzyżem swój grzech.</lines>
+    </verse>
+  </lyrics>
+</song>

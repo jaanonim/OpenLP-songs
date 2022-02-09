@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:00">
+  <properties>
+    <titles>
+      <title>Bije dzwon</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="113"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bije dzwon i zapowiada pożegnanie,<br/>Bije dzwon i zapowiada wszystko mi.<br/>Bije dzwon i mi tym biciem oznajmuje,<br/>Że ja pielgrzymem jestem tu, Królestwo tam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I myśl wspaniałą w każdy czas<br/>Ja przy tym biciu snuję wraz,<br/>I nową pieśń ja śpiewam wciąż,<br/>Do domu czas, do domu czas.<br/>Ja śpiewam Mu,<br/>Jak słodkie dźwięki pieśni tej,<br/>I pieśń tę śpiewać będę wciąż,<br/>Do domu czas!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bije dzwon, mi radość cichą w serce wlewa,<br/>Bije dzwon i to natchnienie daje mi.<br/>Bije dzwon i mi tym biciem oznajmuje,<br/>Że ja pielgrzymem jestem tu, Królestwo tam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bije dzwon, mi radość cichą w serce wlewa,<br/>Bije dzwon, do świętych gór wołając mnie.<br/>Bije dzwon, do Ciebie rękę ja podnoszę<br/>Wszechmocny Boże usłysz mnie, modlitwę mą.</lines>
+    </verse>
+  </lyrics>
+</song>

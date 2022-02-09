@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:17">
+  <properties>
+    <titles>
+      <title>Jezu mój, jakże kocham Cię</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="294"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Jezu mój, jakże kocham Cię wciąż!<br/>Jesteś najmilszy, i dobroć Twą znam!<br/>Jesteś mi gwiazdą poranną co dnia!<br/>Jezu mój, jakże kocham Cię wciąż!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Alleluja, Jezus mój jest Panem mym! Alleluja,<br/>Jezus mój jest wszystkim mi!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alleluja, Jezus zmarł, lecz zmartwychwstał?<br/>Alleluja, Jezus zmył mój wszelki grzech!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alleluja, Jezus chce Swą cichość dać! Alleluja,<br/>Jezus chce twe brzemię nieść!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alleluja, Jezu, przyjdź! Tak czekam Cię!<br/>Alleluja, Jezu, przyjdź po Kościół Swój!</lines>
+    </verse>
+  </lyrics>
+</song>

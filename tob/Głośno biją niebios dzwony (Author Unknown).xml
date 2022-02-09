@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:53">
+  <properties>
+    <titles>
+      <title>Głośno biją niebios dzwony</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="445"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Głośno biją niebios dzwony w świat daleki z rajskich kras.<br/>Ich donośne, wzniosłe tony głoszą hojny łaski czas.<br/>Wysławiajmy miłość Bożą, w której nam Jezusa dał;<br/>już nas grody nie zatrwożą, gdy z Nim mamy życia dział.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dzwonów jęk, śpiewu dźwięk płynie z ust anielskich w dół.<br/>Słodki ton z górnych stron: Dziś weselny stroją stół!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niebios dzwony zapraszają na wesele w rajską włość.<br/>Wszystkie bóle tam znikają, miejsce znajdzie każdy gość.<br/>Jezus darzy życia chlebem, złóżcie Jemu ciężar swój!<br/>Wiara was połączy z niebem, gdzie bogactwa macie zdrój.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Dzwonów jęk, śpiewu dźwięk płynie z ust anielskich w dół.<br/>Słodki ton z górnych stron: Dziś weselny stroją stół!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niebios dzwony ślą przestrogi dla oziębłych, gnuśnych dusz:<br/>O, nie dajcie zwieść się z drogi do Syjonu jasnych wzgórz!<br/>Jeszcze brama się otwiera, ciasna jest, a wąski tor;<br/>wewnątrz miłość płonie szczera, zewnątrz potępiony zbiór.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Dzwonów jęk, śpiewu dźwięk płynie z ust anielskich w dół.<br/>Słodki ton z górnych stron: Dziś weselny stroją stół!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Głośno dzwony ogłaszają: Nadszedł Pański rok nam już!<br/>Niech wybrani wyśpiewują z chórem rzesz zbawionych dusz!<br/>Prędko Król nasz się okaże, patrzcie, oto idzie już!<br/>Nieście Jemu życie w darze, wierni, by koronę wziąć.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Dzwonów jęk, śpiewu dźwięk płynie z ust anielskich w dół.<br/>Słodki ton z górnych stron: Dziś weselny stroją stół!</lines>
+    </verse>
+  </lyrics>
+</song>

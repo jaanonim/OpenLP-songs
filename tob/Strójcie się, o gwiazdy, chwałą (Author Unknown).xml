@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:17">
+  <properties>
+    <titles>
+      <title>Strójcie się, o gwiazdy, chwałą</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="43"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Strójcie się, o gwiazdy, chwałą,<br/>Idzie Książę wszystkich ziem;<br/>Już z pasterskich ust słyszało<br/>Pieśni chwały Betlejem.<br/>Co za klejnot, co za klejnot,<br/>Co za klejnot w żłóbku<br/>tam złożony był!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On wyleczy, On ratuje<br/>Z grzechów i z upadków wszech;<br/>Łaskę, miłość ci daruje<br/>I przebaczy każdy grzech.<br/>Jemu chwała, Jemu chwała,<br/>Zbawcy świata chwała,<br/>cześć, na wieki cześć!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nućcie pieśń o wybawieniu,<br/>Nieście ją na wszystek świat!<br/>W Bożych słów rozgłośnym pieniu<br/>Niech do wszystkich dojdzie chat<br/>Wybawienie, odpuszczenie,<br/>Aby triumfalny<br/>śpiew popłynął z serc!</lines>
+    </verse>
+  </lyrics>
+</song>

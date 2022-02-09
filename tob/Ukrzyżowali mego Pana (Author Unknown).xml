@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:00">
+  <properties>
+    <titles>
+      <title>Ukrzyżowali mego Pana</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="98"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ukrzyżowali mego Pana tam.<br/>W Jego dłoń wbili ostry gwóźdź.<br/>Tak cierpiał On, tego świata Pan,<br/>Przybity był, przybity był.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A kiedy pragnął, ocet dali Mu.<br/>Cały lud naśmiewał się,<br/>A nawet łotr urągał Mu.<br/>Sam wielki Bóg, opuścił Go.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, Alleluja! Jezus za mnie zmarł,<br/>Swoją krew, za mnie przelał On.<br/>Tę krew, co zmywa wszelki grzechu bród.<br/>O chwała Mu, o chwała Mu!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zechciej uwierzyć, Jezus zbawił cię,<br/>Jego krew może zmyć twój grzech.<br/>Nie zwlekaj wiec, On tak kocha cię.<br/>/ Cudownie z Nim, cudownie z Nim /x2</lines>
+    </verse>
+  </lyrics>
+</song>

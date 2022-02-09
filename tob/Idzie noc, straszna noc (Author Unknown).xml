@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:47">
+  <properties>
+    <titles>
+      <title>Idzie noc, straszna noc</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="541"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Idzie noc, straszna noc,<br/>Światem władnie kłamstwa moc;<br/>Gaśnie wiara Bożych ludzi,<br/>Któż ją znowu w nich obudzi?<br/>/ Któż im swoją pomoc da? /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Smutny czas, ważny czas,<br/>Zapał wiary prawie zgasł<br/>Zapomniały dzieci Boże<br/>O niebieskim celu w górze<br/>/ Znów się zaplątały w grzech. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oto On, Jezus!<br/>On Już opuszcza niebios tron;<br/>Cherubowie w pochód grają,<br/>Na wesele zapraszają:<br/>/ Spieszcie do syjońskich bram! /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Panie mój, Jezu mój,<br/>Ty Sam obudź Syjon Swój!<br/>Z rąk go wyrwij szatanowi,<br/>Niech go Święty Duch odnowi;<br/>/ Roznieć znowu światła zdrój! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

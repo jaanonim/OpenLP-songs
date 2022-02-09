@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:08">
+  <properties>
+    <titles>
+      <title>Tobie podobny, Panie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="57"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tobie podobny, Panie, chcę być,<br/>tylko z Twoją wolą zgodnie chcę żyć,<br/>wszystko na ołtarz dać, w Twojej<br/>miłości trwać, Tyś za mnie spłacił<br/>dług, , mój Pan i Bóg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tobie podobny, boś Ty mój Bóg,<br/>wszyskto,co moje, dam Ci do nóg,<br/>na jedno słowo Twe chcę poswiecić<br/>się. Jam wiernym sługą Twym,<br/>Tyś Panem mym!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tobie poddany czas, pieniądz, myśl,<br/>wszystkie bogactwa me, Panie, weź!<br/>Tyś mnie obdarzył wszak skarbem,<br/>co wiecznie trwa, wszystko<br/>więc daję Ci po wieczne dni.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tobie poddany,Panie, jam Twym,<br/>Tys dla mnie wszystkim, Tyś<br/>życiem mym. W Tobie jest pełnia ma,<br/>celem mym wola Twa, wszak żyję nie ja,<br/>lecz, Chrtste Ty!</lines>
+    </verse>
+  </lyrics>
+</song>

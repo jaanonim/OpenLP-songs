@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:54">
+  <properties>
+    <titles>
+      <title>261 NIE MA TAKICH GORZKICH ŁEZ</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie ma takich gorzkich łez,<br/>nie ma takich smutnych chwil,<br/>których nie uleczy mój Bóg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wstanę, ach, poderwę się<br/>pootwieram wszystkie drzwi<br/>Dobry Bóg przebaczy mój grzech</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wielbię Cię Panie mój,<br/>chcę się przytulić do twoich stóp<br/>tańczyć dla Ciebie Chwały pieśń.</lines>
+    </verse>
+  </lyrics>
+</song>

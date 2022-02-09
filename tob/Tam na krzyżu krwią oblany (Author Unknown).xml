@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:45">
+  <properties>
+    <titles>
+      <title>Tam na krzyżu krwią oblany</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="499"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tam na krzyżu krwią oblany,<br/>Zwisłeś, Jezu mój kochany;<br/>Rózgą gniewu byłeś smagany,<br/>Wszystek za mnie zniosłeś ból;<br/>/ Czymże ja służyłem Ci? /x2<br/>Wszystek za mnie zniosłeś ból,<br/>Czymże ja służyłem Ci?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tyś Baranku, własną duszę<br/>Za mnie w srogie dał katusze;<br/>Więcej grzeszyć już nie muszę,<br/>Za mnie podjąłeś śmierci znój.<br/>/ Czymże ja służyłem Ci? /x2<br/>Za mnie podjąłeś śmierci znój,<br/>Czymże ja służyłem Ci?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zakon rzucił swe przekleństwo,<br/>Ach, na całe człowieczeństwo,<br/>Lecz pzrez listość, Twe zwycięstwo,<br/>Uwolniłeś, Panie, mnie,<br/>/ Jam nie służył nigdy Ci. /x2<br/>Uwolniłeś, Panie, mnie,<br/>Ja zaś nie służyłem Ci.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lice moje wstydem płonie,<br/>Że tak marnie życie Trwonię,<br/>Lecz ujmuję Twoje dłonie,<br/>Błagam, Zbawco, naucz mnie<br/>/ Wszystkim, wszystkim służyć Ci, /x2<br/>O mój Zbawco, naucz mnie<br/>Wszystkim, wszystkim służyć Ci!</lines>
+    </verse>
+  </lyrics>
+</song>

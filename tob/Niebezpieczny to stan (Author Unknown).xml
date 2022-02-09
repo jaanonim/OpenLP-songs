@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:36">
+  <properties>
+    <titles>
+      <title>Niebezpieczny to stan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="138"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niebezpieczny to stan,<br/>gdy opuszczacie Pan,<br/>gdy cię Boży nie sięga już głos.<br/>Nowych wrażeń wciąż chcesz,<br/>z pustym tłumem w mrok mkniesz,<br/>czy to warto, czy to warto tak żyć?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Czyś obliczył już koszt,<br/>jeśli stracisz swój los,<br/>choćbyś zdobył na własność ten świat?<br/>Co zyskałeś ty, co, gubiąc duszę tu swą?<br/>Czy to warto, czy to warto tak żyć?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ty nie wahasz się nie,<br/>wieczne szczęście dać swe<br/>za marności tak rwącą się nić.<br/>Grzechu błysk wabi cię,<br/>w zdradną toń rzucasz się,<br/>czy to warto, czy to warto tak żyć?</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Czyś obliczył już koszt,<br/>jeśli stracisz swój los,<br/>choćbyś zdobył na własność ten świat?<br/>Co zyskałeś ty, co, gubiąc duszę tu swą?<br/>Czy to warto, czy to warto tak żyć?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Póki Boży głos brzmi i otwarte są drzwi,<br/>pośpiesz w Bożej miłości się skryć.<br/>Zlicz stracone swe dni, potem powiedz i ty:<br/>„O, nie warto, nie, nie warto tak żyć!"</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Czyś obliczył już koszt,<br/>jeśli stracisz swój los,<br/>choćbyś zdobył na własność ten świat?<br/>Co zyskałeś ty, co, gubiąc duszę tu swą?<br/>Czy to warto, czy to warto tak żyć?</lines>
+    </verse>
+  </lyrics>
+</song>

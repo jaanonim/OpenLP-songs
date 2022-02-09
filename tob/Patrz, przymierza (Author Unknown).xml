@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:32">
+  <properties>
+    <titles>
+      <title>Patrz, przymierza</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="53"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Patrz, przymierza sztandar świetny<br/>w niebo już się wzbił!<br/>Ramię Pańskie wspomożeniem słabych naszych sił.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pan Bóg z nami!<br/>hasłem naszym.<br/>Naprzód! Oto czas!<br/>Alleluja!<br/>Tam zwycięstwa wieniec wita nas!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Spójrz! Dokoła lud nieszczęsny<br/>srodze dręczy wróg;<br/>wielu padnie, ty stój silnie:<br/>Twą pomocą Bóg!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Pan Bóg z nami!<br/>hasłem naszym.<br/>Naprzód! Oto czas!<br/>Alleluja!<br/>Tam zwycięstwa wieniec wita nas!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Spójrz na święte godło krzyża,<br/>hasło Zbawcy znasz, w imię Boga<br/>Przedwiecznego dziś zwyciężać masz.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Pan Bóg z nami!<br/>hasłem naszym.<br/>Naprzód! Oto czas!<br/>Alleluja!<br/>Tam zwycięstwa wieniec wita nas!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wiernym bądź! Tak woła Jezus,<br/>dzień już bliski mój. Weź,<br/>o Panie, serca nasze,<br/>spuść nam łaski zdrój.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Pan Bóg z nami!<br/>hasłem naszym.<br/>Naprzód! Oto czas!<br/>Alleluja!<br/>Tam zwycięstwa wieniec wita nas!</lines>
+    </verse>
+  </lyrics>
+</song>

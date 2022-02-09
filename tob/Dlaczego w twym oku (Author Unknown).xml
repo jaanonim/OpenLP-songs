@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:39">
+  <properties>
+    <titles>
+      <title>Dlaczego w twym oku</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="181"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dlaczego w twym oku tak często lśni łza,<br/>dlaczego twa dusza tak rwie się i łka?<br/>Zwątpienie i smutek przygniata cię tak,<br/>że sił ci do życia i walki już brak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Za mało masz wiary, za dużo masz trwóg,<br/>za mało też ufasz, że dobry jest Bóg.<br/>Że Bóg twój jest wielki pamiętaj więc wciąż<br/>i zawsze z modlitwą do Niego ty dąż.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A z chwilą,gdy przyjdziesz pod krzyż Jego ty,<br/>zabierze twe troski,osuszy twe łzy;<br/>uleczy twe bóle, ukoi twój żal<br/>i wszystkie tęsknoty ulecą hen w dal</lines>
+    </verse>
+  </lyrics>
+</song>

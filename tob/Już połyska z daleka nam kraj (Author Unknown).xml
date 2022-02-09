@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:48">
+  <properties>
+    <titles>
+      <title>Już połyska z daleka nam kraj</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="354"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Już połyska z daleka nam kraj,<br/>okiem wiary widzimy go tu:<br/>Jezus wnet nam otworzy ten raj,<br/>źródła łaski pokoju tam są.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>// Wnet, o wnet, jaki cud, wejdzie<br/>z pląsaniem tam Pański lud // .</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szczęśliwości rozbrzmiewa tam głos,<br/>wszyscy Panu pokłony dać chcą.<br/>Żal przeminął, wspaniały ten los,<br/>ich obdarza pokojem i czcią.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>// Wnet, o wnet, jaki cud, wejdzie<br/>z pląsaniem tam Pański lud // .</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z nieliczonych ust śpiew błogi brzmi,<br/>Święty Duch wzniecił pienie to Sam,<br/>miłość Bożą w Jezusie zbór czci:<br/>O, jak błogo, jak błogo jest tam.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>// Wnet, o wnet, jaki cud, wejdzie<br/>z pląsaniem tam Pański lud // .</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:13">
+  <properties>
+    <titles>
+      <title>Wszędzie spotykam ludzi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="182"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wszędzie spotykam ludzi,<br/>Co pytają mnie!<br/>Czemu nie ma cudów dziś,<br/>Jak za dawnych dni?<br/>Lecz cuda są, ja wierzę w to,<br/>Bo Biblia mówi mi,<br/>Że Bóg wczoraj Bogiem cudów był,<br/>Tym samym jest i dziś</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bóg jest dziś taki sam,<br/>On jest wciąż taki sam.<br/>Jeśli wczoraj miał moc,<br/>To i dzisiaj ją ma.<br/>Słyszy twoje modlitwy,<br/>Potrzeby twe zna.<br/>Nie załamuj się więc,<br/>Bóg odpowiedź ci da</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Próbowałeś znaleźć wyjście<br/>Z tarapatów swych.<br/>Widzisz, że jedynie Bóg<br/>Może pomóc ci.<br/>On dzisiaj jest gotowy<br/>W tym Imieniu zrobić cud.<br/>Zaufaj Jego mocy dziś,<br/>Tylko uwierz Mu!</lines>
+    </verse>
+  </lyrics>
+</song>

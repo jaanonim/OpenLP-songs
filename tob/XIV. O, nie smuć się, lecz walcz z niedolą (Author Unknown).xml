@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:04">
+  <properties>
+    <titles>
+      <title>XIV. O, nie smuć się, lecz walcz z niedolą</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, nie smuć się, lecz walcz z niedolą,<br/>Tak słońca jakby mówi blask.<br/>O, nie smuć się! Pan zawsze z Tobą,<br/>Radośnie śpiewa z góry ptak.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, nie mów, że zbawienia nie ma,<br/>Gdy serce twe jest pełne trwóg.<br/>Wszak w ciemną noc jaśnieją gwiazdy,<br/>Im większy ból, tym bliżej Bóg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, nie smuć się, idź naprzód śmiało,<br/>Nadzieję zawsze w sercu miej!<br/>Gdy w życiu twym radości mało,<br/>W Jezusa miłość wierzyć chciej!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, nie smuć się! Wiosenny ranek<br/>Zwiastuje też świeżością róż,<br/>Że Pan jest tuż, że kocha ciebie<br/>I nie opuści nigdy już.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Słoneczny blask i kwiat chabrowy<br/>Natchnienie dają duszy mej;<br/>A dźwięki strun i ptasząt śpiew<br/>Też mówią wciąż: „O, nie smuć się!"</lines>
+    </verse>
+  </lyrics>
+</song>

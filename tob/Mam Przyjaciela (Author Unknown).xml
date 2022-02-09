@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:24">
+  <properties>
+    <titles>
+      <title>Mam Przyjaciela</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="149"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mam Przyjaciela,<br/>pełen On miłości,<br/>On spłacił cenę<br/>mej wolności krwią,<br/>Gdym błądził w grzechu,<br/>zaprzedany złości,<br/>On znalazł mnie,<br/>przyciągnął na Swą pierś.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chcesz pytać się<br/>o drogie imię Jego,<br/>Gdzie mieszka On,<br/>gdzie szukać Jego masz,<br/>On zwie się Jezus,<br/>u stóp krzyża Swego<br/>Dziś czeka ciebie,<br/>czy Mu serce dasz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Me serce<br/>miłość Jego ozłociła,<br/>A Jego krzyż<br/>balsamem stał się mym,<br/>Pokój i radość<br/>mnie opromieniła,<br/>Jasnością dusza<br/>wypełniła się.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I tobie On<br/>otwiera dziś ramiona,<br/>Więc odłóż grzech<br/>i miłość świeckich złud,<br/>I tobie będzie<br/>wina odpuszczona,<br/>A wtedy poznasz<br/>ty Golgoty cud.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:14">
+  <properties>
+    <titles>
+      <title>Nie ma innego</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="mł"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>NIE MA INNEGO JAK JEZUS<br/>NIE MA INNEGO JAK ON<br/>NIE MA INNEGO JAK JEZUS<br/>NIE MA INNEGO JAK ON</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ZAGLĄDAM WSZĘDZIE - NIE MA, NIE MA<br/>SZUKAM, SZUKAM, ALE NIE MA, NIE MA<br/>KRĄŻĘ, KRĄŻE -NIE MA, NIE MA<br/>NIE MA INNEGO JAK ON</lines>
+    </verse>
+  </lyrics>
+</song>

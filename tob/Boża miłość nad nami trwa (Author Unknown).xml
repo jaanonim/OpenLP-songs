@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:21">
+  <properties>
+    <titles>
+      <title>Boża miłość nad nami trwa</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="89"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boża miłość nad nami trwa,<br/>Chce nam życie opromienić,<br/>Padół płaczu w niebo zmienić,<br/>Zerwać więzy grzechu, zła.<br/>/ 0 jak słodko w mym sercu gra! /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bożą miłość któż sławi dość.<br/>Którą Jezus w sercach budzi,<br/>Gładząc grzechy wszystkich ludzi!<br/>A choć światem rządzi złość,<br/>/ W nas ta miłość wciąż będzie róść. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Więc miłości tej chwyćmy się!<br/>Już od pierwszej życia chwili<br/>Łaskę Swoją ku nam chyli,<br/>Wzywa: Dajcie serca swe!<br/>/ Weź, wołamy, weź. Panie, je! /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Boża miłość, obronny wał<br/>Duszę nam i ciało chroni<br/>Pośród niebezpieczeństw toni.<br/>Choć i w grzechach żyje świat,<br/>/ Wiecznie miłość ta będzie trwać! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

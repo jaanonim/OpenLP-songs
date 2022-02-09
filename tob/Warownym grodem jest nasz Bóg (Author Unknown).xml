@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:39">
+  <properties>
+    <titles>
+      <title>Warownym grodem jest nasz Bóg</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="180"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Warownym grodem jest nasz Bóg,<br/>orężem nam i zbroją!<br/>On nas wybawia z wszelkich trwóg,<br/>co nas tu niepokoją.<br/>Stary chytry wróg,<br/>radby on nas zmógł,<br/>moc i złości rój<br/>On na nas wiedzie w bój,<br/>na ziemi któż mu sprosta?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My złego nie zdołamy zmóc,<br/>wnet zginąć-by nam trzeba;<br/>lecz walczy za nas chrobry wódz,<br/>co Bóg Go zesłał z nieba.<br/>Kto On? pytasz się,<br/>Jezus On się zwie,<br/>Pan Bóg Sabaot,<br/>On złego strzaska grot,<br/>innego nie masz Boga.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Choć diabłów pełen byłby świat,<br/>co połknąćby nas chcieli,<br/>my nie boimy się ich zdrad,<br/>będziemy triumf mieli.<br/>Książę ziemi tej w całej złości swej<br/>nie poradzi nam,<br/>bo już skazany sam i słowo go powali.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>To słowo nam zostawią wżdy; „<br/>Bóg zapłać" nie powiemy;<br/>Pan z nami jest po wszystkie dni,<br/>z Swym Duchem, z dary Swymi.<br/>Niech pozbawią źli żony, dzieci, czci,<br/>chytra grabież ta im liche zyski da;<br/>Królestwo będzie nasze!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:37">
+  <properties>
+    <titles>
+      <title>Modlitwa Pańska</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="96"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ojcze nasz, któryś w niebie jest.<br/>Święć się Imię Twoje,<br/>Przyjdź Twe Królestwo,<br/>Bądź wola Twa,<br/>Jako w niebie tak i na ziemi!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chleba naszego powszedniego daj<br/>Dla nas na każdy dzień<br/>I nie wódź nas na pokuszenie<br/>Lecz zbaw nas ode złego.<br/>Albowiem Twoje jest Królestwo,<br/>Twoja chwała i moc na wieki wieków!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ojcze nasz, któryś w niebie jest.<br/>Święć się Imię Twoje,<br/>Przyjdź Twe Królestwo,<br/>Bądź wola Twa,<br/>Jako w niebie tak i na ziemi!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/Chleba naszego powszedniego daj<br/>Dla nas na każdy dzień<br/>I nie wódź nas na pokuszenie<br/>Lecz zbaw nas ode złego.<br/>Albowiem Twoje jest Królestwo,<br/>Twoja chwała i moc na wieki wieków!/ 2x<br/>Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

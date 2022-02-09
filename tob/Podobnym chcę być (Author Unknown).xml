@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:00">
+  <properties>
+    <titles>
+      <title>Podobnym chcę być</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="117"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Podobnym chcę być do Jezusa,<br/>W każdy dzień,<br/>Podobnym chcę być do Jezusa,<br/>W każdy dzień.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chcę być jak On, tak jak On<br/>Chodzić jak On, tak jak On<br/>Mówić jak on, tak jak On<br/>Patrzeć jak On, tak jak On<br/>Podobnym chce być do Jezusa<br/>W każdy dzień.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pod Jego kontrolę chcę oddać<br/>Wszelką myśl i każdy czyn.<br/>O, tak On musi mieć,<br/>Kierownictwo mych wszystkich życia dróg.</lines>
+    </verse>
+  </lyrics>
+</song>

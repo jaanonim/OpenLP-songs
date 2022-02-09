@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:17">
+  <properties>
+    <titles>
+      <title>Dziękować Ci Panie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="133"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dziękować Ci Panie chcę<br/>za miłość i łaskę Twą.<br/>Dziękować Ci Panie dzisiaj chcę,<br/>bo Ty sam chronisz kroki me.<br/>To Ty, to Ty, to Ty, to Ty<br/>To Ty - Bóg wszechmocny Adonai<br/>To Ty, to Ty, to Ty, to Ty<br/>To Ty - mój wszechmocny Pan.</lines>
+    </verse>
+  </lyrics>
+</song>

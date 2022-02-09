@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:40">
+  <properties>
+    <titles>
+      <title>W pamięci zawsze</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="207"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W pamięci zawsze, duszo, miej:<br/>Idź, gdy cię Jezus zwie,<br/>gdy cię wstrzymuje stanąć chciej,<br/>gdy woła pośpiesz się!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy chwali wtenczas uniż się,<br/>gdy kocha spocznij w Nim,<br/>gdy smaga za przestępstwa twe,<br/>karanie Jego przyjm!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy Jezus zsyła łaski Swe raz tam,<br/>to znowu tu, radosne to są wówczas dnie,<br/>gorąco dziękuj Mu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A gdy w potrzebie woła cię,<br/>w szeregu mężnych stań, lecz serce badaj,<br/>doświadcz je, nie słuchaj ludzkich zdań!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Swe serce Barankowi zwierz,<br/>bo On twój Pan i Król,<br/>pod Jego skrzydła tylko śpiesz gdy ci dolega ból.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:43">
+  <properties>
+    <titles>
+      <title>Ty tylko, Jezu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="255"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ty tylko, Jezu, moje grzeszne serce znasz;<br/>wolność prawdziwą, poświęcenie dasz.<br/>Jam pokoju nie miał, aż pod krzyż przyszedłem sam, tutaj,<br/>w Twoich ranach odpocznienie mam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jezu, drogi Jezu! Jam jest Twój,<br/>a Tyś jest mój! Dla mnie krew<br/>Twa płynie i osładza znój.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kiedym na krzyżu, Jezu, w wierze ujrzał Cię,<br/>radość niebieska ogarnęła mię,<br/>jakie morze szczęścia napełniło moją pierś!<br/>Z żalu i radości płynął strumień łez.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Jezu, drogi Jezu! Jam jest Twój,<br/>a Tyś jest mój! Dla mnie krew<br/>Twa płynie i osładza znój.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, jakiż pokój wciąż napełnia duszę mą,<br/>kiedy pomyślę, żem własnością Twą!<br/>Z Bogiem pojednany, Twoją krwią omyty już!<br/>Któż mej duszy radość tu zrozumie, któż?</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Jezu, drogi Jezu! Jam jest Twój,<br/>a Tyś jest mój! Dla mnie krew<br/>Twa płynie i osładza znój.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Więc odtąd, Jezu, wciąż mi przed oczyma stój,<br/>na krzyżu przybity Zbawicielu mój!<br/>Żeś Ty za mnie umarł, to jest mej nadziei grunt;<br/>ma pociecha, siła, życie płynie stąd.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Jezu, drogi Jezu! Jam jest Twój,<br/>a Tyś jest mój! Dla mnie krew<br/>Twa płynie i osładza znój.</lines>
+    </verse>
+  </lyrics>
+</song>

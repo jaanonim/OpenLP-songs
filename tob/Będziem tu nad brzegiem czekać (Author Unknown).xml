@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:48">
+  <properties>
+    <titles>
+      <title>Będziem tu nad brzegiem czekać</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="359"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Będziem tu nad brzegiem czekać i<br/>nadzieje ciche snuć, aż dobije z<br/>nami wreszcie do ojczyzny nasza łódź!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>W blaskach słońca, w Bożej chwale<br/>promienieje wieczny gród.<br/>O, porzućcie gorzkie żale,<br/>wnet ojczysty ujrzym ląd!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miłych braci już tak wielu przeszło<br/>na ojczysty łan, i my wkrótce<br/>dopłyniemy w obiecany Chanaan-.<br/>W blaskach słońca, w Bożej chwale<br/>promienieje wieczny gród.<br/>O, porzućcie gorzkie żale,<br/>wnet ojczysty ujrzym ląd!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wprawdzie ciemność jest dokoła,<br/>wiara nasza jeszcze mdła, ale oto<br/>Zbawca woła, aby za Nim rzesza szła.<br/>W blaskach słońca, w Bożej chwale<br/>promienieje wieczny gród.<br/>O, porzućcie gorzkie żale,<br/>wnet ojczysty ujrzym ląd!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy nas Jego trzyma ramię,<br/>wejdziem śmiało w śmierci dół,<br/>potem ujrzym kraj ojczysty,<br/>gdzie Bóg skazę wszelką zdjął.<br/>W blaskach słońca, w Bożej chwale<br/>promienieje wieczny gród.<br/>O, porzućcie gorzkie żale,<br/>wnet ojczysty ujrzym ląd!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Będziem czekać więc nad brzegiem<br/>i nadzieje cicho snuć, aż do brzegów,<br/>do niebieskich już dobije nasza łódź.<br/>W blaskach słońca, w Bożej chwale<br/>promienieje wieczny gród.<br/>O, porzućcie gorzkie żale,<br/>wnet ojczysty ujrzym ląd!</lines>
+    </verse>
+  </lyrics>
+</song>

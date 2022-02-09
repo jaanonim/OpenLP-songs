@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:12">
+  <properties>
+    <titles>
+      <title>Twe światło jest na drodze mej</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Twe światło jest na drodze mej<br/>Nic nie zgasi go<br/>Wiem nie zgubie się<br/>Bo we mnie jasno jest<br/>Świecisz Ty w każdej ciemności<br/>Blaskiem swym ogarniasz mnie</lines>
+    </verse>
+  </lyrics>
+</song>

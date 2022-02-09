@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:49">
+  <properties>
+    <titles>
+      <title>240 Zjednoczeni w Duchu</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Zjednoczeni w Duchu, zjednoczeni w Nim,<br/>zjednoczeni w Duchu, zjednoczeni w Nim,<br/>módlmy się, aby jedność była odnowiona w nas,<br/>aby świat cały poznał uczniów Chrystusa w nas,<br/>aby świat cały ujrzał miłość w nas. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Wraz z innymi pójdziemy, podaj mi swoją dłoń,<br/>wraz z innymi pójdziemy, podaj mi swoją dłoń.<br/>Wszystkim głosić będziemy tę radosną dla nas wieść,<br/>że nasz Pan kroczy z nami, że nasz Pan z nami jest,<br/>że nasz Pan zawsze z nami wszędzie jest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Chcemy razem pracować, chcemy złączyć swój trud,<br/>chcemy razem pracować, chcemy złączyć swój trud.<br/>By nie stracić godności, którą Pan obdarzył nas,<br/>aby strzec ludzką dumę, aby strzec dumę swą,<br/>żeby człowiek zachował godność swą.</lines>
+    </verse>
+  </lyrics>
+</song>

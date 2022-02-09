@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:16">
+  <properties>
+    <titles>
+      <title>Chrystus Pan, Boży Syn</title>
+      <title>Lamb of Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Bowater Ludmiła Rapanowicz</author>
+      <author type="music">Chris Bowater Ludmiła Rapanowicz</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="74"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chrystus Pan, Boży Syn,<br/>Zbawca nasz zgodził się<br/>wziąć mój grzech, za mnie umrzeć chciał,<br/>ażebym znał ogrom mych win<br/>i wiedział że, krew Jego zbawia,<br/>oczyszcza i leczy.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wywyższony bądź Jezu Baranku mój,<br/>Tyś jedyny odkupiciel, Tyś mój Król.<br/>Wywyższony bądź Boży Baranku,<br/>przed Twym tronem dziś najwyższy<br/>składam hołd.</lines>
+    </verse>
+  </lyrics>
+</song>

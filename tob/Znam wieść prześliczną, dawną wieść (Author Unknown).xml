@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:19">
+  <properties>
+    <titles>
+      <title>Znam wieść prześliczną, dawną wieść</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="46"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Znam wieść prześliczną, dawną wieść,<br/>Wspaniałą i radosną.<br/>Gdzie żal i rozpacz serca rwie,<br/>Ta wieść przesłodka koi je<br/>/ I cudną darzy wiosną. /x2<br/>O, wiosną!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raz tam, w przecudną, cichą noc<br/>Niebiosa zajaśniały,<br/>Narodził się niebieski Gość<br/>I rajską nam otworzył włość,<br/>/ A świat ocalał cały, /x2<br/>Świat cały.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dziś do nas łaska zbliża się<br/>I pełno jest radości,<br/>I tobie też, o duszo ma,<br/>Pan Jezus wszystko chętnie da,<br/>/ 0n w sercu twym zagości, /x2<br/>Zagości.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, wpuść Go, wpuść, to nie jest sen,<br/>On serce w ogród zmieni.<br/>Zasadzi w nim cudowny szczep,<br/>Co rodzi zawsze życia chleb<br/>/ I zawsze się zieleni, /x2<br/>Zieleni.</lines>
+    </verse>
+  </lyrics>
+</song>

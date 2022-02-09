@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:24">
+  <properties>
+    <titles>
+      <title>O Stworzycielu Duchu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="467"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Stworzycielu Duchu przyjdź,<br/>Nawiedź dusz wiernych Tobie krąg,<br/>Niebieską łaskę zesłać racz<br/>Sercem, co dziełem są Twych rąk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pocieszycielem jesteś zwan,<br/>I Najwyższego Boga dar,<br/>Tyś namaszczeniem naszych dusz,<br/>Zdrój żywy, miłość ognia żar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ty darzysz łaską siedemkroć,<br/>Bo moc z prawicy Ojca masz,<br/>Przez Ojca obiecany nam,<br/>Mową wzbogacasz język nasz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Światłem rozjaśnij naszą myśl,<br/>W serca nam miłość świętą wlej,<br/>I wątłą słabość naszych ciał,<br/>Pokrzep stałością mocy swej.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nieprzyjaciela odpędź w dal,<br/>I Twym pokojem obdarz wraz,<br/>Niech w drodze za przewodem Twym,<br/>Miniemy zło, co kusi nas.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Daj nam przez Ciebie Ojca znać,<br/>Daj, by i Syn poznany był,<br/>I Ciebie jedno Tchnienie Dwóch,<br/>Niech wyznajemy z wszystkich sił.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Niech Bogu Ojcu chwała brzmi,<br/>Synowi, który zmartwychwstał<br/>i temu co pociesza nas<br/>niech hołd wieczystych płynie chwał.<br/>Amen</lines>
+    </verse>
+  </lyrics>
+</song>

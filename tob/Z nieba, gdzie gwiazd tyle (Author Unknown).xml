@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:52">
+  <properties>
+    <titles>
+      <title>Z nieba, gdzie gwiazd tyle</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="639"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z nieba, gdzie gwiazd tyle,<br/>Gdzie aniołki są,<br/>Patrzy Bóg tak mile,<br/>Czego dzieci chcą.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Słucha też z radością<br/>Próśb ich w dzień i w noc,<br/>Wokół nich z miłością<br/>Swą roztacza moc.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Co dzień chlebem darzy<br/>Szczodrze Jego dłoń,<br/>Co dzień ma na straży,<br/>Wiedzie w rajską błoń.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Daje dziatkom siłę,<br/>Pieczę o nie ma;<br/>Że Mu są tak miłe,<br/>Więc też o nie dba,</lines>
+    </verse>
+  </lyrics>
+</song>

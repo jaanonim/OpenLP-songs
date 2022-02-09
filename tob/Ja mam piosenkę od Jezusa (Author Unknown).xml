@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:31">
+  <properties>
+    <titles>
+      <title>Ja mam piosenkę od Jezusa</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="301"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ja mam piosenkę od Jezusa<br/>Jakby kwiat z niebieskich stron<br/>Melodii słodszej nigdzie nie ma, nie<br/>Bo miłości jest to ton</lines>
+    </verse>
+    <verse name="c1">
+      <lines>W sercu moim brzmi ten złoty ton<br/>O, brzmi ten złoty ton<br/>Ta pieśń z niebieskich stron<br/>W sercu moim brzmi ten złoty ton<br/>Radości pieśń z niebieskich stron</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezusa mego z serca kocham<br/>Bo szedł za mnie w śmierć i zgon<br/>I włożył w usta moje piosnkę tę<br/>Której cudny dźwięczy ton</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Po wieczne czasy śpiewać będę<br/>Zbawcy mego chwałę, cześć,<br/>A jasny, górny Syjon wzdłuż i wszerz<br/>Będzie wdzięcznym pieniem brzmieć</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:55">
+  <properties>
+    <titles>
+      <title>Ostatni zew jeszcze, rozlega się wciąż</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="713"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ostatni zew jeszcze,<br/>Rozlega się wciąż:<br/>Grzeszniku nie zwlekaj,<br/>Do Zbawcy wnet dąż.<br/>O, pośpiesz,<br/>Dopóki ten łaski czas trwa,<br/>O, pośpiesz,<br/>A Jezus zbawienie ci da.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, śpiesz się,<br/>Bo może ostatni to zew,<br/>Przyjm Zbawcę,<br/>Za ciebie On przelał Swą krew.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przyszedłeś w Dom Boży,<br/>Nie ślepy to los,<br/>To Ducha Świętego<br/>Tu przywiódł Cię głos.<br/>Czy słyszysz jak słodko,<br/>Serdecznie cię zwie,<br/>Przez pieśni, modlitwy<br/>On wzruszyć Cię chce.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zebranie skończone<br/>I ciemno już wkrąg,<br/>A ty nie oddałeś<br/>Do Zbawcy się rąk,<br/>Ostatni zew przebrzmiał,<br/>Lecz w ciszy coś brzmi,<br/>To Jezus wciąż puka<br/>Do serca twych drzwi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jak długo pozwolisz<br/>Na dworze Mu stać,<br/>O, zechciej nareszcie<br/>Swe serce Mu dać,<br/>Na zew ten ostatni<br/>Odezwać się śpiesz,<br/>Gdyż Boża cierpliwość<br/>Raz skończy się też.</lines>
+    </verse>
+  </lyrics>
+</song>

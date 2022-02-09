@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:56">
+  <properties>
+    <titles>
+      <title>Miłości ton radośnie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="511"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Miłości ton radośnie w sercu moim brzmi,<br/>bo moim On, a Jegom ja po wszystkie dnr.<br/>Dla Niego też me światło w świecie lśni,<br/>a w sercu mym pieśń ciągle brzmi.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ty dziwisz się jak mogę śmiać się poprzez łzy?<br/>Skąd moja pieśń gdy serce w piersi z bólu drży?<br/>Więc powiem ci, to tylko Bożej łaski cud,<br/>że w sercu mym pieśń ciągle brzmi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niektórym pieśń osładza długą, ciemną noc,<br/>niektórych pieśń weseli, daje nową moc.<br/>Lecz moja pieśń na chwałę Stwórcy brzmi,<br/>w mym sercu brzmi po wszystkie dni.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ty dziwisz się jak mogę śmiać się poprzez łzy?<br/>Skąd moja pieśń gdy serce w piersi z bólu drży?<br/>Więc powiem ci, to tylko Bożej łaski cud,<br/>że w sercu mym pieśń ciągle brzmi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ty pytasz się, jak Zbawcy krew oczyszcza z win?<br/>Skąd wiem, że mi przebaczył grzechy Boży Syn?<br/>Skąd wiem, że mnie uczynił dzieckiem Swym?<br/>To Jego głos brzmi w sercu mym.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Ty dziwisz się jak mogę śmiać się poprzez łzy?<br/>Skąd moja pieśń gdy serce w piersi z bólu drży?<br/>Więc powiem ci, to tylko Bożej łaski cud,<br/>że w sercu mym pieśń ciągle brzmi.</lines>
+    </verse>
+  </lyrics>
+</song>

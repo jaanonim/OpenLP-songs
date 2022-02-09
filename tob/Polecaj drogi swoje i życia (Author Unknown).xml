@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:41">
+  <properties>
+    <titles>
+      <title>Polecaj drogi swoje i życia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="225"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Polecaj drogi swoje i życia swego los opiece możnej Pana,<br/>co zły odwraca cios; kto chmurom, wichrom,<br/>burzy wyznaczać umie szlak,<br/>Ten i na ścieżki twoje Swej łaski ześle znak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jedynie mocą Boga zwycięski stoczysz bój<br/>i tylko z Jego woli wytryśnie szczęścia zdrój.<br/>Ni troską, ni zgryzotą nie zmożesz przygód złych,<br/>we wszystkim Doń się zwracaj: On czeka modłów twych.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nie bolej duszo moja, wierz i nie lękaj się!<br/>Z boleści i utrapień sam Bóg wyzwoli cię.<br/>A gdy nadejdzie pora - jak jutrznie twoich łask<br/>ukaże ci w oddali radości błogiej blask.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Więc nie truj się goryczą, co trawi serce twe,<br/>co pęta twoją wolę i boleść w duszę tchnie;<br/>wszak nie ty jesteś władcą, nie ty sprawujesz rząd,<br/>oczekuj Wszechwładnego, na Jego światły Sąd.</lines>
+    </verse>
+  </lyrics>
+</song>

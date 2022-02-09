@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:00">
+  <properties>
+    <titles>
+      <title>Czy w twym sercu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="114"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czy w twym sercu pieśń radości ciągle brzmi?<br/>Pieśń radości wśród ciemności.<br/>Kiedy ból wyciska z oczu gorzkie łzy,<br/>Nawet wtedy Bóg dać może piosnkę ci.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nawet w ciemną noc, może pieśń w sercu brzmieć<br/>Nawet w chwili prób, zawsze aż po grób.<br/>Łatwo śpiewa się, kiedy słońca blask lśni.<br/>Śpiewać w ciemną noc, Bóg pomoże ci.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niech zmartwienia nie zagaszą pieśni twej,<br/>I w czas burzy, kwitną róże.<br/>Wszak po każdej ciemnej nocy przyjdzie dzień,<br/>Niech więc nigdy nic nie stłumi pieśni twej.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Już niedługo ciemną noc zamieni dzień,<br/>Już niedługo wierny sługo,<br/>Lecz na razie trzeba czuwać, modlić się,<br/>Wkrótce ziemską noc zamieni jasny dzień.</lines>
+    </verse>
+  </lyrics>
+</song>

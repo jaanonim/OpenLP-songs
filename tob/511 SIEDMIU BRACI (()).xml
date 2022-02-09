@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:54">
+  <properties>
+    <titles>
+      <title>511 SIEDMIU BRACI</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c2 v7 c3</verseOrder>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Było sobie siedmiu braci, handlowali sierścią,<br/>potem jeden z braci umarł, ich zostało sześciu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Josel weźmie skrzypiec Epfel weźmie bas,<br/>od podwórek do podwórek jeszcze jeden raz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Było sobie sześciu braci, handlowali gęsią,<br/>potem jeden z braci umarł, ich zostało pięciu. </lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Było sobie pięciu braci, handlowali serem,<br/>potem jeden z braci umarł, ich zostało czterech. </lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Było sobie czterech braci, oni mieli pech,<br/>no bo jeden z braci umarł, ich zostało trzech. </lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Było sobie raz trzech braci, handlowali puch,<br/>potem jeden z braci umarł, ich zostało dwóch. </lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Było sobie raz dwóch braci, handlowali chlebem,<br/>potem jeden z braci umarł, ich zostało jeden. </lines>
+    </verse>
+    <verse name="c2">
+      <lines><br/>Josel weźmie skrzypiec a kto weźmie bas? <br/>Od podwórek do podwórek już ostatni raz. 2x </lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>Było sobie jeden brat on zdrowy był jak byk<br/>ale i on w końcu umarł ich zostało nikt. </lines>
+    </verse>
+    <verse name="c3">
+      <lines><br/>Nikt nie weźmie skrzypiec, nikt nie weźmie bas,<br/>od podwórek do podwórek ani jeden raz.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:22">
+  <properties>
+    <titles>
+      <title>Ożywcze źródło tryska</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="114"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ożywcze źródło tryska<br/>Z Golgoty twardych skał,<br/>By grzesznik wodę żywą<br/>Na win obmycie miał.<br/>Czy wiesz? każdego woła<br/>Ku źródłu Boży Syn.<br/>Grzeszniku, pójdź do zdroju,<br/>Daj obmyć się z twych win!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Patrz, Golgoty źródło płynie,<br/>Golgoty źródło płynie,<br/>Tak, płynie wciąż dla wszystkich nas,<br/>Golgoty źródło płynie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy grzechy twe cię trwożą,<br/>Gdy cięży brzemię win,<br/>To wiedz, że ma dla ciebie<br/>Ratunek Boży Syn.<br/>Ku Niemu idź z ufnością,<br/>Gdy duch twój w trwodze łka,<br/>On ulży twej niedoli<br/>I pokój Swój ci da.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A owo źródło życia<br/>Dla ciebie płynie wciąż,<br/>Ku niemu przeto zawsze<br/>W niedoli chwilach dąż!<br/>Ku swej radości poznasz,<br/>Że Bóg jest Ojcem twym<br/>I znajdziesz źródło szczęścia<br/>Niewyczerpane w Nim.</lines>
+    </verse>
+  </lyrics>
+</song>

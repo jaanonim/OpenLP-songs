@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:44">
+  <properties>
+    <titles>
+      <title>Wiernym prawdzie świętej bądź</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="271"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wiernym prawdzie świętej bądź, Bogu zawsze służ,<br/>wiarą serce swoje rządź, niczego się nie trwóż.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bądź, jak Daniel, wierny mąż, gotów życie dać,<br/>i wyznawać Boga wciąż, wrogów się nie bać.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Żadnych wieści się nie bój, wiarą serce krzep,<br/>i przy Bogu zawsze stój, tę cnotę w braciach szczep.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Bądź, jak Daniel, wierny mąż, gotów życie dać,<br/>i wyznawać Boga wciąż, wrogów się nie bać.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Słowo Boże śmiało głoś, by ratować lud,<br/>i pomocy Bożej proś - owocny będzie trud.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Bądź, jak Daniel, wierny mąż, gotów życie dać,<br/>i wyznawać Boga wciąż, wrogów się nie bać.</lines>
+    </verse>
+  </lyrics>
+</song>

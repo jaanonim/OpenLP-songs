@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:01">
+  <properties>
+    <titles>
+      <title>Wiem, że Jezus przyjdzie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="155"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wiem, że Jezus przyjdzie i zabierze nas,<br/>A więc śpiewajmy chwałę w sercach naszych<br/>Wszyscy wraz<br/>Wierzę, że przyjdzie Pan, Mistrz nasz,<br/>Przyjdzie, jak obiecał i zabierze nas do Siebie<br/>Tam, gdzie poszedł Sam, nasz Jezus Pan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wkrótce Jezus przyjdzie na tą ziemię znów,<br/>Ażeby zabrać Swój pokorny, sprawiedliwy lud,<br/>Na pewno przyjdzie znów, po swój lud,<br/>Przyjdzie Jezus z aniołami,<br/>By zjednoczyć wspaniałością swoją nas<br/>On przyjdzie znów.</lines>
+    </verse>
+  </lyrics>
+</song>

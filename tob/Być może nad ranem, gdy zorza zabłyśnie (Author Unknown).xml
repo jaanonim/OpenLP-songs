@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:47">
+  <properties>
+    <titles>
+      <title>Być może nad ranem, gdy zorza zabłyśnie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="542"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Być może nad ranem, gdy zorza zabłyśnie<br/>I promień słoneczny przez mgły się przeciśnie,<br/>Ukaże się Jezus, jaśniejszy nad słońce,<br/>Wziąć z ziemi wybrany Swój lud.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A wtedy uwielbienia i wiecznych chwał<br/>zaśpiewamy Mu hymn:<br/>On już idzie, Alleluja! / Alleluja! Amen! /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Być może z wieczora, lub też o północy,<br/>W pełności Swej chwały i wielkiej Swej mocy<br/>Pan przyjdzie w promieniach Swej dziwnej światłości<br/>Wziąć w wieczne przybytki Swój lud.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I wojska niebieskie z Nim z nieba zstępują<br/>I dusze zbawionych z radością witają,<br/>I wszyscy radośnie śpiewają donośnie,<br/>Że z ziemi wziął wierny Swój lud.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, będzie to radość wejść bez cierpień, bólu<br/>Na sale weselne, chwalebny nasz Królu,<br/>I śpiewać hymn chwały, wdzięczności wspaniały,<br/>Żeś z ziemi wziął wierny Swój lud.</lines>
+    </verse>
+  </lyrics>
+</song>

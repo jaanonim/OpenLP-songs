@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:16">
+  <properties>
+    <titles>
+      <title>Duch Boży w nas woła Ojcze</title>
+    </titles>
+    <authors>
+      <author type="words">Ray Levesque Kazimierz Sosulski</author>
+      <author type="music">Ray Levesque Kazimierz Sosulski</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="121"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Duch Boży w nas woła Ojcze,<br/>Duch Boży w nas woła Ojcze,<br/>wewnątrz nas świadczy wciąż<br/>i potwierdza to,<br/>że za synów uznaje nas Bóg.</lines>
+    </verse>
+  </lyrics>
+</song>

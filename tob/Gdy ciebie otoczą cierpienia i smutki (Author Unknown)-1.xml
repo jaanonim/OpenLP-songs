@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:59">
+  <properties>
+    <titles>
+      <title>Gdy ciebie otoczą cierpienia i smutki</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="773"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy ciebie otoczą<br/>Cierpienia i smutki,<br/>I ciężko ci będzie,<br/>By zwalczyć co złe,<br/>Pamiętaj, że Zbawca twój<br/>Patrzy w tej chwili<br/>I On Swą cudowną<br/>Ci pomoc dać chce.<br/>Na los swój się nie skarż<br/>I nie trać nadziei,<br/>Zaufaj Mu szczerze i wierz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy chmury zwątpienia<br/>Zawisną nad tobą,<br/>A rozpacz i boleść<br/>Rozpiera ci pierś,<br/>To spójrz na Jezusa,<br/>On powstał z grobu,<br/>On wszystko zwyciężył,<br/>Więc patrz Nań i wierz!<br/>Pamiętaj, że Zbawca twój<br/>Patrzy w tej chwili,<br/>A On da zwycięstwo ci też.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy stracisz cierpliwość,<br/>Lub siły ci zabraknie<br/>I dusza upada w tej<br/>Walce ze złym, -<br/>Ty idź ze swoim Bogiem,<br/>Aż ujrzysz gród nowy,<br/>On Sam dopomoże<br/>I wesprze cię w tym.<br/>O szczęściu ponad to<br/>Nie może być mowy,<br/>Jak w Bożej miłości tu żyć.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:06">
+  <properties>
+    <titles>
+      <title>Dziękuj Mu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>/ Dziękuj Mu za życie, które masz w Nim<br/>Dziękuj Mu za życie, które dał / x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jezus za nas poniósł śmierć<br/>Na siebie wziął nasz grzech<br/>W Nim wolność darowana jest<br/>On zwyciężył śmierć<br/>Pokój przyniósł wszystkim nam<br/>Zwycięstwo w walce dał<br/>Nadziei życie pełne jest<br/>Dla dzieci Króla chwał<br/>Dla dzieci Króla chwał</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przez łaskę Bóg wybawił nas<br/>Darował życie nam<br/>Pan Jezus za nas wszystkich zmarł<br/>Bóg z martwych wzbudził Go<br/>W tryumfie przezwyciężył śmierć<br/>Osłabła diabła moc<br/>Zwyciężył Święty Boży Syn<br/>Jezus Chrystus Pan<br/>Jezus Chrystus Pan</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:03">
+  <properties>
+    <titles>
+      <title>Spracowany idę spać</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="842"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Spracowany idę spać;<br/>Boże, racz anioła dać,<br/>By na straży nocnej stał,<br/>I nieszczęściom odpór dał.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeślim zgrzeszył, Ojcze nasz,<br/>Grzech i winy moje zmaż,<br/>Krwią Jezusa, którą dał,<br/>Gdy na krzyżu za mnie zmarł.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Biednym, chorym do serc wlej<br/>Pokój, z wielkiej łaski Swej!<br/>A jak gwiazdki będą lśnić,<br/>By Cię wiecznie, Boże, czcić!</lines>
+    </verse>
+  </lyrics>
+</song>

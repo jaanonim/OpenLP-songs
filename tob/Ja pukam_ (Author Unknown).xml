@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:35">
+  <properties>
+    <titles>
+      <title>Ja pukam&lt;</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="124"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ja pukam, Ja,<br/>w ten święty łaski czas do serca twego drzwi!<br/>Tak mówi Pan: O, błogo temu z was, kto wnet otworzy mi!<br/>U niego Swe wesele sprawię i w łasce Swojej się rozsławię,<br/>Ja pukam, Ja! Ja pukam, Ja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja pukam, Ja!<br/>O, gdybyś spojrzeć chciał na twarz mą zlaną krwią!<br/>Gdy ujrzałbyś jak wielem tobie dał, nie gardziłbyś tak Mną!<br/>Ach, tak cię bardzo ukochałem i jakże długo cię szukałem,<br/>Ja pukam, Ja! Ja pukam, Ja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ja pukam, Ja!<br/>To głosu mego ton, czy nie poznajesz go?<br/>To łaski mej wezwanie z górnych stron,<br/>by zbawić duszę twą. Jam krew Swą,<br/>życie dał za ciebie. Byś ze mną był u Ojca w niebie<br/>// Ja pukam, Ja! // .</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ja pukam, Ja!<br/>Przychodzę jako gość do twego serca drzwi,<br/>lecz jutro już, gdy życia będzie dość,<br/>zapukasz u Mnie ty. Kto wykonywał wolę Moją,<br/>ten wejdzie tam do wrót pokoju.<br/>// Ja pukam, Ja! // .</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ja pukam Ja!<br/>O, nie mów, że to wiatr i zwiędłych liści ruch!<br/>To jestem Ja, Zbawiciel twój i Brat, to święty mówi Duch!<br/>Łagodnie jeszcze dziś cię proszę,<br/>lecz jutro wyrok ci ogłoszę.<br/>// Dziś pukam Ja // .</lines>
+    </verse>
+  </lyrics>
+</song>

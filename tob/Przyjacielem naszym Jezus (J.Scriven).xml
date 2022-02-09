@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:39">
+  <properties>
+    <titles>
+      <title>Przyjacielem naszym Jezus</title>
+    </titles>
+    <authors>
+      <author type="words">J.Scriven</author>
+      <author type="music">J.Scriven</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="416"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przyjacielem naszym Jezus -<br/>Jak wspaniałym, wiernym On!<br/>Z Ojcem Swoim nas pojednał<br/>I z szatańskich wyrwał szpon.<br/>Któż to może wypowiedzieć,<br/>Ile łask tracimy tu,<br/>Gdy modlitwę zaniedbamy,<br/>Nie ufając szczerze Mu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy nam wrogie moce grożą,<br/>Koło nas tu burza dmie,<br/>Nie musimy drżeć w bojaźni,<br/>Gdy modlimy z wiarą się,<br/>Jezus wiernym się okaże,<br/>Pomoc pewną zsyła nam;<br/>On potężnym jest Wybawcą<br/>I do próśb się skłania Sam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy nas smutki, troski dręczą<br/>Dniem i nocą, w każdy czas,<br/>Gdy ufamy, gdy wołamy,<br/>Jezus wyratuje nas.<br/>Gdy nas zdradzą Przyjaciele,<br/>Wznośmy głos przed łaski tron.<br/>Pan nas nigdy nie Opuści -<br/>Wiernym był i będzie On!</lines>
+    </verse>
+  </lyrics>
+</song>

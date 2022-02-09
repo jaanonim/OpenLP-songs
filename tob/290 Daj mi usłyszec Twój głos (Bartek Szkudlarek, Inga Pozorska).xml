@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:52:17">
+  <properties>
+    <titles>
+      <title>290 Daj mi usłyszec Twój głos</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1 c1 v3 c2 v4 c3 v5 c4</verseOrder>
+    <authors>
+      <author>Bartek Szkudlarek, Inga Pozorska</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik p. Kamila"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Daj mi usłyszeć Twój głos, rozpoznać go.<br/>Daj mi wybierać Twe słowa pośród tysiąca słów.<br/>Daj mi zobaczyć Twą twarz, zatrzymać wzrok.<br/>Pokój znajduję w Tobie, gdy widzę Ciebie blisko.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ref. Jezus... x8</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Daj mi łaskę Twą, bym nie bał się.<br/>Daj mi uwierzyć, że mogę czynić cuda w Twoje Imię.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Coda: Postaw mnie mocno na skale<br/>Umocnij mnie, wybieram Cię na zawsze.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdybyś mówił językami świata tego, nie znał granic,<br/>Wiedzę jego posiadł pełną, nic nie będziesz miał.<br/>To, co widzisz i co słyszysz, co smakujesz i co liczysz,<br/>Co posiadasz, to posiada cię.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>A ja kocham cię, mówi Pan.<br/>Naprawdę kocham cię, na wieki kocham cię. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Miłość czeka, nie zawodzi, Kiedy zdradzisz – nie odchodzę.<br/>Miłość nigdy nie ustaje, trwa.<br/>Jestem w tobie, zawsze byłem, <br/>Czekam dzisiaj - każdą chwilę z tobą spędzić, Życie twoje, chcę.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Bo ja kocham cię, mówi Pan.<br/>Naprawdę kocham cię, na wieki kocham cię. /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kocham proste twoje ścieżki, kocham proste twoje słowa<br/>Kocham piękne oczy twoje, widzę siebie w nich.<br/>Kocham jasne twe spojrzenie. Kocham jasne twoje myśli.<br/>Moje serce mocniej bije, mocniej bije dziś.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Kocham cię, mówi Pan.<br/>Naprawdę kocham cię, na wieki kocham cię. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

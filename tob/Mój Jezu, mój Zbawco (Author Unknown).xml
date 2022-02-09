@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:09">
+  <properties>
+    <titles>
+      <title>Mój Jezu, mój Zbawco</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mój Jezu, mój Zbawco<br/>Nie ma nikogo jak Ty<br/>Po wszystkie dni chwalić Cię chcę<br/>Wielkiej Twej miłości moc</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pociechą i tarczą<br/>Tyś siłą, ucieczką mą<br/>Niech wszystko to co życie ma<br/>Nie przestaje wielbić Cię.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wykrzykuj Panu, Niech Pieśń wzniesie się<br/>Moc i majestat Królowi chciej nieść<br/>Wzgórza, pagórki zanucą swą pieśń<br/>Na imienia Twego cześć</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Śpiewam radując się z dzieła Twych rąk<br/>Chcę zawsze Cię kochać<br/>Przy Tobie być wciąż<br/>Nic nie dorówna wszystkiemy<br/>Co dałeś mi!</lines>
+    </verse>
+  </lyrics>
+</song>

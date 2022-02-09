@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:22">
+  <properties>
+    <titles>
+      <title>Dzisiaj w Betlejem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="1009"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dzisiaj w Betlejem,<br/>dzisiaj w Betlejem<br/>wesoła nowina,<br/>że Panna czysta,<br/>że Panna czysta<br/>porodziła Syna.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chrystus się rodzi,<br/>nas oswobodzi,<br/>Anieli grają,<br/>króle witają,<br/>pasterze śpiewają,<br/>bydlęta klękają,<br/>cuda, cuda ogłaszają.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Maryja Panna,<br/>Maryja Panna<br/>Dzieciątko piastuje,<br/>i Józef Święty<br/>i Józef Święty<br/>Ono pielęgnuje.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Choć w stajeneczce,<br/>choć w stajeneczce<br/>Panna syna rodzi<br/>Przecież On wkrótce,<br/>przecież On wkrótce<br/>ludzi oswobodzi</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I Trzej Królowie<br/>i Trzej Królowie<br/>od wschodu przybyli<br/>I dary Panu<br/>i dary Panu<br/>kosztowne złożyli</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pójdźmy też i my<br/>pójdźmy też i my<br/>przywitać Jezusa<br/>Króla nad królami<br/>Króla nad królami<br/>uwielbić Chrystusa</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bądźże pochwalony,<br/>bądźże pochwalony<br/>dziś, nasz wieczny Panie<br/>Któryś złożony,<br/>któryś złożony<br/>na zielonym sianie</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Bądź pozdrowiony,<br/>bądź pozdrowiony<br/>Boże nieskończony<br/>Wsławimy Ciebie,<br/>wsławimy Ciebie,<br/>Jezu niezmierzony</lines>
+    </verse>
+  </lyrics>
+</song>

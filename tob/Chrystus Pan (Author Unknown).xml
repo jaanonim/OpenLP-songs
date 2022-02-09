@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:05">
+  <properties>
+    <titles>
+      <title>Chrystus Pan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chrystus Pan, Boży Syn<br/>Zbawca nasz zgodził się<br/>Wziąć mój grzech, za mnie umrzeć chciał<br/>Ażebym znał mój ogrom win<br/>I wiedział że<br/>Krew Jego zbawia, oczyszcza i leczy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wywyższony bądź Jezu, Baranku mój<br/>Tyś jedyny Odkupiciel, Tyś mój Król<br/>Wywyższony bądź Boży Baranku<br/>Przed Twym tronem dziś<br/>Najwyższy składam hołd</lines>
+    </verse>
+  </lyrics>
+</song>

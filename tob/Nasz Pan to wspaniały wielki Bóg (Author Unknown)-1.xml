@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:23">
+  <properties>
+    <titles>
+      <title>Nasz Pan to wspaniały wielki Bóg</title>
+      <title>Awesome God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="423"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wielki jest Pan, wszelkiej chwały godzien jest,<br/>Nasz Pan to wspaniały Bóg.<br/>Pokolenie pokoleniu przekazuje tę wieść,<br/>że nasz Pan to wspaniały Bóg.<br/>Nasz Bóg sprawiedliwy a zarazem miłosierny,<br/>Łaskawy we wszystkich dziełach swych,<br/>Pan blisko jest wszystkich którzy Go wzywają.<br/>Nasz Pan to wspaniały Bóg.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nasz Pan to wspaniały wielki Bóg,<br/>który włada nad nami,<br/>Więc głośmy wszystkim ludziom<br/>jak wielki jest nasz Pan. // x2 //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Choć wszyscy zgrzeszyli Jego Miłość nie ustaje.<br/>Nasz Pan to wspaniały Bóg.<br/>Dał Jezusa Syna Swego aby z grzechów nas wydobyć.<br/>Nasz Pan to wspaniały Bóg.<br/>On na krzyżu za nas umarł by pojednać nas z Ojcem,<br/>trzeciego dnia porankiem zmartwychwstał.<br/>Dał nam Swego Ducha by ogłosić to światu,<br/>że nasz Pan to wspaniały Bóg.</lines>
+    </verse>
+  </lyrics>
+</song>

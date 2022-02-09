@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:30">
+  <properties>
+    <titles>
+      <title>O Jezu, ja pragnę omyty być z plam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="280"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Jezu, ja pragnę omyty być z plam;<br/>Zamieszkaj i króluj Ty we mnie już Sam!<br/>Dopomóż, bym pozbył się bożków i zrzekł,<br/>Krwią Twoją omyty był bielszy nad śnieg.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tak, bielszy nad śnieg, o, bielszy nad śnieg!<br/>Krwią omyj mnie Swoją i wybiel nad śnieg!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie zostaw grzesznego<br/>w mym sercu już nic.<br/>By szczęście zbawionych<br/>jaśniało z mych lic,<br/>By obraz Twój, w sercu wyryty,<br/>mnie strzegł,<br/>I świecił białością,<br/>wspanialszą, niż śnieg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Jezu, ochotnie w ofierze Ci dam<br/>I siebie samego i wszystko, co mam.<br/>Ty tylko Sam kieruj i sprawuj mój bieg<br/>I szatą przyoblecz, co bielsza nad śnieg!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ja czekam z tęsknotą, o Jezu Ty mój,<br/>Przyjdź rychło i poświęć<br/>i z Sobą mię spój!<br/>Nie odszedł zawiedzion<br/>od Ciebie tu nikt,<br/>Więc teraz mię wybiel<br/>we krwi Swej nad śnieg.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jezusie, ja chwytam się<br/>w wierze Twych słów;<br/>Wyraźnie mi mówisz:<br/>Bądź czysty i zdrów!<br/>Me serce jest ciche,<br/>jak czysta toń rzek,<br/>Boś Ty je oczyścił,<br/>wybielił nad śnieg.</lines>
+    </verse>
+  </lyrics>
+</song>

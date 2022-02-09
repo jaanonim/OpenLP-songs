@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:49">
+  <properties>
+    <titles>
+      <title>Boże święty, objaw się</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="598"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boże święty, objaw się<br/>W Swoich wiernych gronie!<br/>Niechaj Duch co z góry tchnie,<br/>Serca nam owionie.<br/>Niechże wżdy ku Twej czci<br/>Modły w niebo lecą,<br/>Święty zapał niecą.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy swe modły święty zbór<br/>Przed tron wyśle Boży,<br/>To je wojsk anielskich chór<br/>Do stóp Pańskich złoży.<br/>Królem tam Jezus Sam,<br/>Wiecznym On kapłanem,<br/>Wszego świata Panem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jeśli jednej duszy głos,<br/>Gdy do Pana woła,<br/>Serce Jego przejąć wskroś<br/>I pozyskać zdoła,<br/>Czyżby nas, gdy Doń wraz<br/>Z prośbą przyjdziem miłą,<br/>Miał odepchnąć siłą?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, ta wielka modłów moc<br/>Nas do nieba wiedzie,<br/>Nic jej nie potrafi zmóc<br/>W szczęściu jak i w biedzie.<br/>Siła ta wiecznie trwa,<br/>Złe odpędza wrogi,<br/>Słabe wzmacnia nogi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Więc się, wierni, módlcie wciąż,<br/>Wznoście dłonie święte,<br/>Głoście, jako jeden mąż,<br/>Hymny czcią przejęte!<br/>Trwajcie w tej mocy cnej,<br/>Zęby modłów siła<br/>Ciemne mgły przebiła.</lines>
+    </verse>
+  </lyrics>
+</song>

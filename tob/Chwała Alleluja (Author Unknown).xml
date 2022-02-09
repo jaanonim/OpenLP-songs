@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:38">
+  <properties>
+    <titles>
+      <title>Chwała Alleluja</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="79"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Chwała, Alleluja,<br/>Chwała, Alleluja.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Niech Bogu wśród Chwał<br/>dziękczynna brzmi pieśń,<br/>swe serce Mu daj i ręce swe wznieś<br/>zaśpiewaj wraz z nami:<br/>Bóg Panem jest!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Słowem odwiecznym jest Boży Syn,<br/>Niebo i ziemia niech śpiewa Mu hymn,<br/>Bóg się zmiłował nad ludem swym.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Godzien jest Chwały Ten,<br/>co życie dał.<br/>Pokonał On śmierć, gdy z grobu wstał,<br/>darował nam życie co wiecznie trwa.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Święty, Święty Pan Bóg zastępów,<br/>On był jest i będzie na wieki wieków.<br/>Przyjdź Panie w Swej Chwale!<br/>Marana Tha.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:45">
+  <properties>
+    <titles>
+      <title>Wyznawajcie Chrystusa z radością</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="501"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wyznawajcie Chrystusa z radością,<br/>Bo was zbawił, napełnił błogością,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wyzyskujcie Dlań każdą sposobność! /x2<br/>Chcemy Pana wyznawać przed światem,<br/>Ze nam Zbawcą jest, Królem i Bratem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zapraszajcie przyjaciół do Niego,<br/>Bo w Nim siła, ratunek od złego.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Proście Boga o nowe zesłanie Swego Ducha,<br/>a naród powstanie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Służcie Panu wszystkimi siłami,<br/>A Swą chwałę objawi nad nami.</lines>
+    </verse>
+  </lyrics>
+</song>

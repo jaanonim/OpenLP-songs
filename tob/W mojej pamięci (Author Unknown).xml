@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:38">
+  <properties>
+    <titles>
+      <title>W mojej pamięci</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="169"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W mojej pamięci<br/>na zawsze się wrył,<br/>cudny, wspaniały ten dzień,<br/>gdy na rozdrożu<br/>w ciemnościach, bez sił,<br/>Zbawcę spotkałem wśród mgieł.<br/>Jakiż On wierny<br/>przyjaciel i druh,<br/>zaraz wyciągnął Swą dłoń,<br/>Jezus Zbawiciel,<br/>mój Pan, moje życie,<br/>już złudna nie grozi mi toń!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Niebiański blask wypełnił duszę mą,<br/>gdy Chrystus Pan<br/>mię obmył Swoją krwią,<br/>zgładzone grzechy me,<br/>kary już nie lękam się.<br/>Niebiański blask wypełnił duszę mą!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Z Ducha zrodzony<br/>do życia wśród chwał,<br/>z grzechów zwolniony przez krzyż,<br/>z żywą nadzieją,<br/>że w niebie mam dział,<br/>zdążam do domu, hen wzwyż.<br/>Wciąż wspominając<br/>pamiętny ten dzień,<br/>który tak wiele dał mi,<br/>gdy na rozstaju<br/>mój Jezus do raju<br/>z miłością ukazał mi drzwi!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Niebiański blask wypełnił duszę mą,<br/>gdy Chrystus Pan<br/>mię obmył Swoją krwią,<br/>zgładzone grzechy me,<br/>kary już nie lękam się.<br/>Niebiański blask wypełnił duszę mą!</lines>
+    </verse>
+  </lyrics>
+</song>

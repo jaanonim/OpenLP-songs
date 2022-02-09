@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:50">
+  <properties>
+    <titles>
+      <title>Jaśnieje wewnętrzne wszech chrześcijan życie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="606"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jaśnieje wewnętrzne wszech chrześcijan życie,<br/>Choć słońca na zewnątrz opalił ich żar;<br/>Czym Władca niebieski obdarzył ich skrycie,<br/>Nieznane jest światu, a cudny to dar.<br/>To, czego nikt nie wie, co tajnie się krzewi,<br/>Promienną światłością umysły ich zdobi<br/>I tym ich do Bożej godności sposobi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We wszystkim Adama są dziećmi zwykłymi,<br/>Z ziemskości znamieniem kazano im żyć<br/>I krewkość cielesna ich dręczy na ziemi,<br/>Jak wszyscy codziennie jeść muszą i pić.<br/>Jak wody i chleba, spoczynku im trzeba.<br/>Szczególna od innych nie różni ich cnota,<br/>Prócz tego, że gardzą marnością żywota.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lecz w duchu z Boskiego są szczepu zrodzeni,<br/>Bo Pan przez Swe słowo w nich życie tchnął Swe.<br/>Iskierka wytryska z niebiańskich płomieni<br/>- Żar nowy, noc nową wciąż du¬szom ich śle;<br/>A kiedy tam z góry anielskie im chóry<br/>W dziękczynnym śpiewaniu zawierzą radośnie,<br/>To pieśń ich aż w niebo uderzy donośnie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pielgrzymi na ziemi, a patrzą w niebiosy!<br/>Bezbronni są sami, a strzegą od zła;<br/>Choć zamęt dokoła, spokojne ich losy;<br/>Ubodzy, a każdy bezcenny skarb ma.<br/>W cierpieniu wytrwali, o rozkosz niedbali,<br/>Na pozór się zdają dla świata stępieni,<br/>Tym żywszą zaś wiarą są wciąż ożywieni.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gdy Chrystus, ich życie, ukaże się w chwale,<br/>Gdy kiedyś objawi się jakim jest Sam,<br/>To oni z Nim razem złączeni wspaniale<br/>Z przepychem nadziemskim ukażą się tam;<br/>I będą rządzili, i będą świecili<br/>Pochodnią na niebie płonącą rzęsiście,<br/>I radość na ziemię powróci wieczyście</lines>
+    </verse>
+  </lyrics>
+</song>

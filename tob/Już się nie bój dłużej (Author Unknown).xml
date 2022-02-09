@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:40">
+  <properties>
+    <titles>
+      <title>Już się nie bój dłużej</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="208"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Już się nie bój dłużej, Jam przy boku twym!<br/>To pochodnią naszą, gdy w ciemności drżym.<br/>Światło obietnicy świeci spoza wzgórz:<br/>Otom zawsze z tobą, nigdy nie puszczę cię już</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/Jam nigdy nie sam,<br/>jam nigdy nie sam<br/>tak mi mój Pan przyobiecał:<br/>„Nigdy nie będziesz już sam"/x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lilia cudna zwiędnie, woń utraci kwiat<br/>Słońce kiedyś zgaśnie, runie cały świat,<br/>Jezus moje Słońce świeci z niebios bram<br/>On mnie nie opuści, nigdy nie będę już sam</lines>
+    </verse>
+    <verse name="c2">
+      <lines>/Jam nigdy nie sam,<br/>jam nigdy nie sam<br/>tak mi mój Pan przyobiecał:<br/>„Nigdy nie będziesz już sam"/x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Choć na ścieżkach ciemnych czyha mnóstwo zła<br/>Słyszę, jak On mówi: Pójdź dziecino ma!<br/>W niebie już zobaczę Jego twarzą w twarz<br/>Tam Mu podziękuję za tę obronę i straż</lines>
+    </verse>
+    <verse name="c3">
+      <lines>/Jam nigdy nie sam,<br/>jam nigdy nie sam<br/>tak mi mój Pan przyobiecał:<br/>„Nigdy nie będziesz już sam"/x2</lines>
+    </verse>
+  </lyrics>
+</song>

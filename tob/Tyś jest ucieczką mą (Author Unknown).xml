@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:13">
+  <properties>
+    <titles>
+      <title>Tyś jest ucieczką mą</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="208"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tyś jest ucieczką mą,<br/>Tyś jest ochroną mą,<br/>W ucisku strzeżesz mnie od zguby.<br/>Otaczasz mnie zbawieniem Swym<br/>I dajesz radości pieśń.<br/>Gdy przyjdzie lęk i strach, będę ufać Ci!</lines>
+    </verse>
+  </lyrics>
+</song>

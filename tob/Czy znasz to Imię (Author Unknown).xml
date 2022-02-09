@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:34">
+  <properties>
+    <titles>
+      <title>Czy znasz to Imię</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="96"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czy znasz to imię,<br/>w którym jest zbawienie,<br/>dane nam przez Bożą moc?<br/>Tchnie ziemia, morze<br/>cudnym tym pragnieniem<br/>wielbić je i w dzień i w noc.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Imię Jezus,cudne imię Jezus!<br/>Czyż kto zacniejsze nad nie zna?<br/>Wszak nad imiona wszystkie imię Jezus<br/>głośnym echem w niebie gra</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To imię Jezus zawsze<br/>jasno świeci w pośród<br/>nocy, bólów, bied.<br/>Wciąż tli nadziei promyk<br/>Bożych dzieci, w nim<br/>odwagę wzmocnisz wnet</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Imię Jezus,cudne imię Jezus!<br/>Czyż kto zacniejsze nad nie zna?<br/>Wszak nad imiona wszystkie imię Jezus<br/>głośnym echem w niebie gra</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy się złamane serce<br/>w Nim zanurzy, znajdzie<br/>tam cudowny lek,<br/>choć głębią miota orkan<br/>strasznej burzy,<br/>Pan uciszy wichru jęk</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Imię Jezus,cudne imię Jezus!<br/>Czyż kto zacniejsze nad nie zna?<br/>Wszak nad imiona wszystkie imię Jezus<br/>głośnym echem w niebie gra</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy przyjdzie czas,<br/>imiona sławne zgasną,<br/>Imię Jezus będzie żyć;<br/>jak purpurowy odblask<br/>zorzy jasnej<br/>będzie we wieczności lśnić</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Imię Jezus,cudne imię Jezus!<br/>Czyż kto zacniejsze nad nie zna?<br/>Wszak nad imiona wszystkie imię Jezus<br/>głośnym echem w niebie gra</lines>
+    </verse>
+  </lyrics>
+</song>

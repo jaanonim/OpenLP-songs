@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:33">
+  <properties>
+    <titles>
+      <title>Świętemu Bogu</title>
+    </titles>
+    <copyright>1978 Integrity's Hosanna! Music</copyright>
+    <authors>
+      <author type="words">Henry Smith</author>
+      <author type="music">Henry Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="615"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>meditation</theme>
+      <theme>thanksgiving</theme>
+      <theme>gods-might</theme>
+      <theme>hope</theme>
+      <theme>gods-word</theme>
+      <theme>comfort</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Świętemu Bogu oddaj cześć!<br/>dziękczynną z serca śpiewaj pieśń<br/>Jezusa Syna Swego<br/>Bóg darował nam. (x2)<br/>W Nim słaby mocnym staje się,<br/>biedny niechaj wyzna, że<br/>bogaty jest, gdyż wszystko dał nam Bóg! // (x2)<br/>dał Bóg //</lines>
+    </verse>
+  </lyrics>
+</song>

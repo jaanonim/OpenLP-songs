@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:14">
+  <properties>
+    <titles>
+      <title>Wielkie są Twe dzieła</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="244"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wielkie są Twe dzieła,<br/>Wszystkie są cudowne,<br/>O,nasz Boże Wszechmocny!<br/>Sprawiedliwe drogi,<br/>Wszystkie są prawdziwe,<br/>Tyś Królem świętych, o Panie!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Któż by się nie bał Ciebie tak,<br/>By nie wielbić Cię?<br/>Bo świętym Bogiem jesteś Ty!<br/>Tyś Panem jest!<br/>Wszystkie ludy przyjdą<br/>Pokłon oddać Tobie,<br/>Bo Swą chwałą napełnisz ziemię!<br/>Alleluja! Alleluja! Alleluja! Amen!<br/>La, la,...</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:38">
+  <properties>
+    <titles>
+      <title>Mój jest Zbawiciel</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="166"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mój jest Zbawiciel, ustały już żale,<br/>w Nim radość, wytchnienie, On koi me łzy.<br/>O Jego ja muszę powiedzieć ci chwale,<br/>gorąco cię wezwać: o pójdź Doń i ty!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>On wszystkich miłuje, w ofierze się dał,<br/>bo wyrwać cię z śmierci i zbawić cię chciał.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Moim jest Ojciec zaufam Mu śmiele,<br/>że mnie ta nadzieja nie zwodzi, to wiem.<br/>Zobaczę Go kiedyś w chwalebnym już ciele.<br/>I ciebie bym znaleźć tam w świetle chciałbym.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>On wszystkich miłuje, w ofierze się dał,<br/>bo wyrwać cię z śmierci i zbawić cię chciał.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Moje jest niebo: tam stanę ubrany w uroki<br/>słoneczne mieniących się szat.<br/>Ten klejnot ci, bracie, też może być dany<br/>i ty możesz kiedyś w niebieski wejść świat.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>On wszystkich miłuje, w ofierze się dał,<br/>bo wyrwać cię z śmierci i zbawić cię chciał.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Moim jest pokój w burzliwym żywocie,<br/>me bóle On słodzi i zwilża mi skroń.<br/>Nie kupisz go w świecie za skarby i krocie,<br/>Pan dać go chce darmo, więc spiesznie idź Doń.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>On wszystkich miłuje, w ofierze się dał,<br/>bo wyrwać cię z śmierci i zbawić cię chciał.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Moje jest wszystko przez gorzką śmierć Pana,<br/>wierz tylko, On wszystko i tobie chce dać.<br/>Czyż krew ta na próżno za ciebie wylana,<br/>czy wiecznie byś w rzędzie zgubionych miał stać.</lines>
+    </verse>
+    <verse name="c5">
+      <lines>On wszystkich miłuje, w ofierze się dał,<br/>bo wyrwać cię z śmierci i zbawić cię chciał.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Gdy kiedyś Zbawca twe serce zdobędzie,<br/>o, nie milcz, lecz, bracie, rozgłaszaj to wciąż.<br/>Zwycięskiej miłości moc dziwną sław wszędzie,<br/>rozpalaj nią serca, z Jezusem je wiąż!</lines>
+    </verse>
+    <verse name="c6">
+      <lines>On wszystkich miłuje, w ofierze się dał,<br/>bo wyrwać cię z śmierci i zbawić cię chciał.</lines>
+    </verse>
+  </lyrics>
+</song>

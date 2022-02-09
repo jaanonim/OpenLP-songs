@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:37">
+  <properties>
+    <titles>
+      <title>O grzeszniku , patrz jak marne</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="146"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, grzeszniku, patrz jak marne,<br/>jak nietrwałe życie twe!<br/>Powróć dzisiaj do Jezusa,<br/>Jemu serce oddaj swe!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>On cię zbawi, On obmyje<br/>wszystkie winy twe zakryje,<br/>wszystkie winy twe zakryje<br/>Ten łaskawy Zbawca twój!<br/>Wszystkie winy twe zakryje<br/>Ten łaskawy Zbawca twój!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, grzeszniku, patrz, jak pyszne,<br/>jak złośliwe serce twe!<br/>Wyznaj grzechy Jezusowi,<br/>przed Nim szczerze ukórz się!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>On cię zbawi, On obmyje<br/>wszystkie winy twe zakryje,<br/>wszystkie winy twe zakryje<br/>Ten łaskawy Zbawca twój!<br/>Wszystkie winy twe zakryje<br/>Ten łaskawy Zbawca twój!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, grzeszniku, słysz, jak głośno<br/>Jezus dobry woła cię!<br/>I ty wołaj Go i zapisz<br/>Jego imię w serce swe!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>On cię zbawi, On obmyje<br/>wszystkie winy twe zakryje,<br/>wszystkie winy twe zakryje<br/>Ten łaskawy Zbawca twój!<br/>Wszystkie winy twe zakryje<br/>Ten łaskawy Zbawca twój!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, grzeszniku, na Golgotę<br/>obróć już spojrzenie twe;<br/>tam za ciebie On umierał,<br/>o twych grzechach dobrze wie!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>On cię zbawi, On obmyje<br/>wszystkie winy twe zakryje,<br/>wszystkie winy twe zakryje<br/>Ten łaskawy Zbawca twój!<br/>winy twe zakryje<br/>Ten łaskawy Zbawca twój!</lines>
+    </verse>
+  </lyrics>
+</song>

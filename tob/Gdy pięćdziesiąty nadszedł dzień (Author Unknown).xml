@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:54">
+  <properties>
+    <titles>
+      <title>Gdy pięćdziesiąty nadszedł dzień</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="694"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy pięćdziesiąty nadszedł dzień,<br/>Wśród jednomyślnych modłów tchnień,<br/>Nagle się głośny z nieba stał<br/>Szum, jakby wiatr gwałtowny wiał.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tak jak obiecał Boży Syn,<br/>Zlał Ducha Swego uczniom Swym;<br/>Ogniem ozdobił głowy ich,<br/>Dał nowe dary wpośród nich.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wielu myślało w sercu swym:<br/>To winem się upili złym!<br/>Upoił wprawdzie ich ten dar:<br/>Pańskiego Ducha święty żar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Inni znów byli pełni trwóg,<br/>Widząc, co czyni Jezus, Bóg.<br/>Proszą, pokażcie drogę nam,<br/>Co do zbawienia wiedzie bram!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jakiż cudowny Ducha wiew!<br/>W różnych językach zabrzmiał śpiew!<br/>Dzięki i chwały, hymny, cześć.<br/>Gdy ich Duch Święty zechciał wieść.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Duchowe dary dałeś nam,<br/>Byśmy Twym śladem śpieszyć tam<br/>Za Tobą mogli, Panie nasz,<br/>Aż Cię ujrzymy twarzą w twarz.</lines>
+    </verse>
+  </lyrics>
+</song>

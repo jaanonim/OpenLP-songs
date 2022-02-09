@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:27">
+  <properties>
+    <titles>
+      <title>Nie omijaj mnie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="206"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie omijaj mnie, o Zbawco,<br/>Z serca proszę Cię!<br/>Łaską wieluś już obdarzył,<br/>Nie omijaj mnie!<br/>Zbawco, Zbawco!<br/>Z serca proszę Cię,<br/>Łaską wieluś już obdarzył,<br/>Nie omijaj mnie!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tam do tronu Twej dobroci<br/>Duchem wzbijam się,<br/>Na kolanach błagam, proszę,<br/>Zbawco, ratuj mnie!<br/>Zbawco, Zbawco!<br/>Z serca proszę Cię:<br/>Na kolanach błagam, proszę,<br/>Zbawco, ratuj mnie!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ufam tylko Twym zasługom,<br/>Szukam łaski Twej;<br/>Pociesz duszę mą zbolałą,<br/>W serce pokój wlej!<br/>Zbawco, Zbawco!<br/>Z serca proszę Cię:<br/>Pociesz duszę mą zbolałą,<br/>W serce pokój wlej!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ty krynico mej pociechy,<br/>Ponad życie me,<br/>Ciebie tylko pragnę zawsze,<br/>Ciebie posiąść chcę.<br/>Zbawco, Zbawco!<br/>Z serca proszę Cię:<br/>Ciebie tylko pragnę zawsze,<br/>Ciebie posiąść chcę!</lines>
+    </verse>
+  </lyrics>
+</song>

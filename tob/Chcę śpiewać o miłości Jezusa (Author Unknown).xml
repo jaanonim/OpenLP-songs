@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:21">
+  <properties>
+    <titles>
+      <title>Chcę śpiewać o miłości Jezusa</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="91"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chcę śpiewać o miłości<br/>Jezusa w każdy czas,<br/>On z grzechów i upadków<br/>wyrywa co dzień nas.<br/>Przedziwna Jego łaska<br/>nad niebo wyższą jest<br/>I głębsza niźli morze<br/>ta przeradosna wieść!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Słodszą jest mi z dnia na dzień,<br/>Słodszą jest mi z dnia na dzień;<br/>Głębsza i bogatsza miłość Jezusowa<br/>Słodszą jest mi z dnia na dzień.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy Pan po ziemi chodził,<br/>rozsiewał światła blask,<br/>Śpieszyły za Nim rzesze,<br/>by czerpać z Jego łask.<br/>Strudonych zwał do Siebie,<br/>przywracał ślepym wzrok.<br/>I dotąd w Swej miłości<br/>mój każdy śledzi krok.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>W miłości Swej niezmiernej<br/>położył życie Swe<br/>Na krzyżu bez szemrania,<br/>bo tak ukochał mnie;<br/>W miłości niezgłębionej<br/>niósł krzyż na barkach Swych<br/>I cicho znosił męki,<br/>zdjął ciężar grzechów mych.</lines>
+    </verse>
+  </lyrics>
+</song>

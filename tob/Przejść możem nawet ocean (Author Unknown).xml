@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:47">
+  <properties>
+    <titles>
+      <title>Przejść możem nawet ocean</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="532"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przejść możem nawet ocean, ocean,<br/>Gdy wodzem naszym Chrystus Pan, Chrystus Pan:<br/>On nas przewiedzie pewnie rad, pewnie rad<br/>I zaprowadzi w chwały świat, w chwały świat.<br/>Wnet strapień noc I zguby moc<br/>Na słowo Jego ustać ma,<br/>Zorze nowego wzejdą dnia,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy burza huczy wkoło nas, wkoło nas<br/>I już nadziei promień zgasł, promień zgasł,<br/>Gdy się w głębinę nurza łódź, nurza łódź;<br/>Już nadchodzącą zgubę czuć, zgubę czuć,<br/>Gdy strachu ton Przed Pański tron<br/>Dojdzie, to On usłyszy go,<br/>Burzę uciszy dłonią Swą,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pan przez Czerwone morze w bród, morze w bród,<br/>Przez groźnie wzdęte fale wód, fale wód<br/>Lud Swój przeprawił jeszcze w czas, jeszcze w czas;<br/>On może przewieść także nas, także nas<br/>- Lud wierny Swój! Przez trud i bój.<br/>On, Król nasz, nie da zginąć nam,<br/>Wnet u niebieskich staniem bram.</lines>
+    </verse>
+  </lyrics>
+</song>

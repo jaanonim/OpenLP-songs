@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:52">
+  <properties>
+    <titles>
+      <title>Gdy widzę wieniec z cierni</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="434"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy widzę wieniec z cierni,<br/>co rani skronie Twe,<br/>o, Zbawco, ból głęboki i<br/>żal przenika mnie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bo wieniec Twój cierniowy<br/>spleciony z moich win,<br/>za któreś cierpieć musiał,<br/>Ty, Zbawca, Boży Syn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A każdy grzech, cosercu<br/>mojemu miłym był,<br/>ostrym się cierniem bólu,<br/>w skroń Twoją, Chryste, wpił.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, Głowo pełna bólu,<br/>w mych oczach żalu łzy,<br/>lecz w sercu spokój błogi,<br/>którym mnie darzysz Ty.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>By odpuszczenie grzechów,<br/>u Ojca zjednać nam,<br/>i spełnić Jego wolę,<br/>grzech świata niosłeś sam1.</lines>
+    </verse>
+  </lyrics>
+</song>

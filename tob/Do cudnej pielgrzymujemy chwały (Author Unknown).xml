@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:23">
+  <properties>
+    <titles>
+      <title>Do cudnej pielgrzymujemy chwały</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="134"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Do cudnej pielgrzymujemy chwały,<br/>O, czy chcesz, o, czy chcesz z nami iść?<br/>Gdzie wieczne pienia będą brzmiały,<br/>O, czy chcesz, o, czy chcesz z nami iść?<br/>Zbawionych tylu już na przedzie,<br/>W baranka wąski weszło ślad.<br/>I ciebie chętnie On powiedzie.<br/>O, czy chcesz, o czy chcesz z nami iść?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Baranka ujrzeć wierni śpieszą,<br/>O, czy chcesz, o, czy chcesz z nami iść?<br/>Czy wolisz zginąć z grzesznych rzeszą?<br/>O, czy chcesz, o, czy chcesz z nami iść?<br/>Idziemy do przecudnej włości,<br/>Gdzie nie ma miejsca grzech, ni złość;<br/>I ty masz miejsce w tej radości -<br/>O, czy chcesz, o czy chcesz z nami iść!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nieprzykra jest do stron tych droga,<br/>O, czy chcesz, o, czy chcesz z nami iść?<br/>Więc porzuć grzech i wróć do Boga,<br/>Jeśli chcesz, jeśli chcesz z nami iść!<br/>Zwie ciebie Zbawca umęczony:<br/>Pójdź do Mnie, dam ci pokój Swój!<br/>Przeze Mnie grzech już zwyciężony!<br/>O, czy chcesz, o czy chcesz za Nim iść!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ja czuję, że iść z wami muszę,<br/>O, ja chcę, o ja chcę z wami iść,<br/>Do Zbawcy nieść splamioną duszę;<br/>O, ja chcę, o ja chcę z wami iść.<br/>Z marnością swoją odstąp, świecie,<br/>Już twoją służbę rzucam dziś,<br/>Mnie Jezus krwią Swą kupił przecie,<br/>O, ja chcę, o ja chcę za Nim iść.</lines>
+    </verse>
+  </lyrics>
+</song>

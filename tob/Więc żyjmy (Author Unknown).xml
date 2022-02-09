@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:02">
+  <properties>
+    <titles>
+      <title>Więc żyjmy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="172"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Więc żyjmy, jak można najpiękniej,<br/>Czy wielkie, czy szare są dni,<br/>Bo życie, to skarb w naszych rękach<br/>I przez nas ma świat lepszym być!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Pośród wszystkich życia trosk i kłopotów,<br/>Gdy pod wiatr trzeba iść każdego dnia,<br/>Jedna prawda niech mi świeci, jak gwiazda,<br/>Że chrześcijanin to właśnie ja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wielka troska o budowę Królestwa,<br/>Niechaj więc w każdym z nas na zawsze trwa,<br/>I przeze mnie także Kościół ma rosnąć,<br/>Bo chrześcijanin to właśnie ja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Może jeśli będę dobrym człowiekiem,<br/>Który chce lepszym być każdego dnia,<br/>Pana Boga ktoś przeze mnie zobaczy,<br/>Bo chrześcijanin to właśnie ja.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:21">
+  <properties>
+    <titles>
+      <title>Jezus kocha cię</title>
+    </titles>
+    <authors>
+      <author type="words">Tomasz Kupka Grażyna Nowakowska</author>
+      <author type="music">Tomasz Kupka Grażyna Nowakowska</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="289"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mówisz<br/>"Nie wiem gdzie się podział sens"<br/>Jakiejś prawdy szukasz<br/>w swoich snach.<br/>Znowu noc i taki sam znów dzień,<br/>życie przecież szybko biegnie,<br/>biegnie tak.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Spójrz, On jest tu,<br/>Miłość dzisiaj daje ci.<br/>Jezus kocha cię<br/>i codzień pragnie blisko ciebie być.<br/>Jezus kocha cię.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie patrz na swą nędzę,<br/>słabość, grzech.<br/>Jezus chce przebaczyć ci uwierz Mu.<br/>Jego miłość puka do twych drzwi,<br/>On chce razem z tobą iść, z tobą żyć.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wieczność to twój dom,<br/>w sercu Boga przecież miejsce masz.<br/>Wciąż w ramionach Ojca będziesz żył,<br/>jeśli dziś otworzysz swoje drzwi.</lines>
+    </verse>
+  </lyrics>
+</song>

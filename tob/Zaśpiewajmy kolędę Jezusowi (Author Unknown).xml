@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:22">
+  <properties>
+    <titles>
+      <title>Zaśpiewajmy kolędę Jezusowi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="1027"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Zaśpiewajmy kolędę Jezusowi dziś,<br/>niech kolęduje z nami cała ziemia.<br/>Zaśpiewajmy kolędę Jezusowi dziś,<br/>niech kolęduje z nami cały świat.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Dziś w stajence mały Jezus się urodził<br/>i pobożnie swoje małe rączki złożył.<br/>Chociaż jest maleńki błogosławi już<br/>wszystkim którzy zaśpiewali Mu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W takt kolędy wieją wiatry,<br/>szumią drzewa,<br/>cały świat kolędy Jezusowi śpiewa.<br/>Niech kolędy nuta<br/>mocno w świcie brzmi,<br/>maleńkiemu Jezusowi dziś.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In excelsis Deo -<br/>śpiewajmy do Pana,<br/>a śpiewając - Gloria -<br/>zegnijmy kolana.<br/>Wielka radość dzisiaj<br/>ogarnęła nas,<br/>zaśpiewajmy Bogu jeszcze raz.</lines>
+    </verse>
+  </lyrics>
+</song>

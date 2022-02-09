@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:25">
+  <properties>
+    <titles>
+      <title>Zabierz mnie tam gdzie..</title>
+    </titles>
+    <copyright>Glory alleluja Music / word music, 1987 Glory Alleluia Music.</copyright>
+    <authors>
+      <author type="words">Dave Browning</author>
+      <author type="music">Dave Browning</author>
+      <author type="words">Kutless</author>
+      <author type="music">Kutless</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="782"/>
+    </songbooks>
+    <themes>
+      <theme>gods-might</theme>
+      <theme>prayer</theme>
+      <theme>longing</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie proszę zabierz mnie<br/>tam gdzie jest Twój tron.<br/>Zabierz mnie od tłumu ludzi<br/>przed oblicze Twe.<br/>Chcę być Panie blisko Ciebie,<br/>patrzeć w Twoją twarz,<br/>świat zostawić gdzieś daleko,<br/>w Twych objęciach trwać.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Zabierz mnie tam gdzie<br/>miejsce najświętsze,<br/>zabierz mnie przez Baranka krew.<br/>Zabierz mnie tam gdzie<br/>miejsce najświętsze,<br/>ogień włóż dotknij ust, otom jest.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:31">
+  <properties>
+    <titles>
+      <title>Panie, mną, Bo w Tobie wolność ma</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="292"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie, mną, Bo w Tobie wolność ma,<br/>Oręża pozbaw rękę mą;<br/>Twa moc zwycięstwo da.<br/>Ja w boju muszę lec.<br/>Gdy walczę w sile swej;<br/>Gdy ramię Twe mnie będzie strzec,<br/>Zwyciężę w mocy Twej.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Omdlałe serce me,<br/>Brak sił mi w drodze wzwyż<br/>I chwiejny krok mój, burze złe<br/>Miotają wzdłuż i wszerz.<br/>Me pęta mocą Swą<br/>Na czas i wieczność skrusz;<br/>Pojmany tu przez miłość Twą<br/>Zwycięsko przejdę już.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Daremne trudy me<br/>Bez Ciebie zawsze są<br/>Swym ogniem przeto rozpal mnie<br/>I ożyw mocą Swą.<br/>Świat Twych nie pozna sług,<br/>Gdy całym życiem ich<br/>Nie będzie Duch Twój rządzić mógł,<br/>Twej chwały pisać w nich.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Czystości woli brak,<br/>Nim Ty posiędziesz ją;<br/>Do tronu tylko wiedzie szlak<br/>Przez własną nicość mą.<br/>Ten mocno będzie stał<br/>I przetrwa każdy bój,<br/>Kto w sercu Twym schronienie miał,<br/>Tam znalazł życia zdrój.</lines>
+    </verse>
+  </lyrics>
+</song>

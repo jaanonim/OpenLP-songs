@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:32">
+  <properties>
+    <titles>
+      <title>Przesłodka jest wieść o Jezusie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="65"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przesłodka jest wieść o Jezusie<br/>Grzeszniku zbłąkany, o wierz<br/>Baranek ten Boży niewinny<br/>Na krzyżu za ciebie zmarł też</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O jakaż to cudna nowina,<br/>O jakaż radosna to wieść!<br/>Chociaż ziemia przeminie,<br/>To w chórach aniołów<br/>Wiek będzie wiekowi ją nieść.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niebiosa opuścił dla ziemi<br/>I krew za grzeszników Swą dał<br/>By każdy kto w Niego uwierzy<br/>Swych win odpuszczenie<br/>W Nim miał</lines>
+    </verse>
+    <verse name="c2">
+      <lines>O jakaż to cudna nowina,<br/>O jakaż radosna to wieść!<br/>Chociaż ziemia przeminie,<br/>To w chórach aniołów<br/>Wiek będzie wiekowi ją nieść.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pojednał nas z Bogiem<br/>Swą śmiercią<br/>I łaski otworzył nam zdrój<br/>O Jezu za bezmiar miłości<br/>Przyjm serce me w darze<br/>jam Twój</lines>
+    </verse>
+    <verse name="c3">
+      <lines>O jakaż to cudna nowina,<br/>O jakaż radosna to wieść!<br/>Chociaż ziemia przeminie,<br/>To w chórach aniołów<br/>Wiek będzie wiekowi ją nieść.</lines>
+    </verse>
+  </lyrics>
+</song>

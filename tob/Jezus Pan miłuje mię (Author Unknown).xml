@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:51">
+  <properties>
+    <titles>
+      <title>Jezus Pan miłuje mię</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="628"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus Pan miłuje mię,<br/>Bo to mówi w słowie Swym.<br/>Wszystkie dziatki woła On,<br/>Słodko zwie ze wszystkich stron.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jezus Pan miłuje mię,<br/>Bo to mówi w słowie Swym.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On mnie kocha! Jego krew<br/>Mnie omywa z grzechów wszech;<br/>On od złego zwalnia mię,<br/>Gdy do Niego zwracam się.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On mnie kocha słodko Sam,<br/>On mój lekarz i mój Pan.<br/>Wiernie zawsze strzeże mię,<br/>Szepcze czule: ,Kocham cię."</lines>
+    </verse>
+    <verse name="v4">
+      <lines>On mnie kocha, - dobrze wiem,<br/>- Gdy upadam, niesie mię,<br/>On pociesza, gdy mi źle<br/>I do nieba wiedzie mnie.</lines>
+    </verse>
+  </lyrics>
+</song>

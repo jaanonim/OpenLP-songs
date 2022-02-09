@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:04">
+  <properties>
+    <titles>
+      <title>Twe drogi są wyższe</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="221"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Twe drogi są wyższe od mych /x3<br/>Wyższe są.<br/>/ Wyższe, wyższe, znacznie wyższe,<br/>Wyższe, wyższe, wyższe są! /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/ Twe myśli są lepsze od mych! /x3<br/>Lepsze są.<br/>/ Lepsze, lepsze, znacznie lepsze,<br/>Lepsze, lepsze, lepsze są! /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/ Twa siła jest większa od mej! /x3<br/>Większa jest.<br/>/ Większa, większa, znacznie większa,<br/>Większa, większa, większa jest! /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lepsze, lepsze, znacznie lepsze!<br/>Wyższe, wyższe, wyższe są!<br/>Alleluja! Alleluja! Alleluja! Bogu cześć!<br/>Wyższe, wyższe...<br/>Lepsze, lepsze...<br/>Większa, większa...<br/>Alleluja...</lines>
+    </verse>
+  </lyrics>
+</song>

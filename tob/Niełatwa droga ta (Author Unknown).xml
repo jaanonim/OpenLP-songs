@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:44">
+  <properties>
+    <titles>
+      <title>Niełatwa droga ta</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="261"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niełatwa droga ta, co prowadzi do nieba<br/>i ciernie nieraz ranią do krwi.<br/>Niełatwa droga ta, ale Jezus jest ze mną,<br/>z Nim nawet w nocy słońce mi lśni!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nie, nie, niełatwa droga ta!<br/>Nie, nie, niełatwa droga ta!<br/>Lecz śmiało kroczę naprzód,<br/>bo Jezus jest ze mną,<br/>On dobrze moją drogę zna.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niełatwa droga ta, pełna głazów,<br/>wyboi i wiele niebezpieczeństw i prób,<br/>lecz Jezusowa dłoń mię uchroni od złego,<br/>usunie wszelki głaz spod mych nóg!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Nie, nie, niełatwa droga ta!<br/>Nie, nie, niełatwa droga ta!<br/>Lecz śmiało kroczę naprzód,<br/>bo Jezus jest ze mną,<br/>On dobrze moją drogę zna.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Choć bolą nogi me, często nuży pielgrzymka,<br/>choć cięży brzemię zmartwień i łez.<br/>Wytrwale kroczę wciąż do niebieskiej ojczyzny,<br/>tam przyjdzie wszystkim troskom mym kres.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Nie, nie, niełatwa droga ta!<br/>Nie, nie, niełatwa droga ta!<br/>Lecz śmiało kroczę naprzód,<br/>bo Jezus jest ze mną,<br/>On dobrze moją drogę zna.</lines>
+    </verse>
+  </lyrics>
+</song>

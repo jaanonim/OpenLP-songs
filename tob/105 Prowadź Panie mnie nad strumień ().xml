@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:43">
+  <properties>
+    <titles>
+      <title>105 Prowadź Panie mnie nad strumień</title>
+    </titles>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Prowadź Panie mnie nad strumień <br/>Prowadź, abym mógł popłynąć</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ukaż mi Panie Twoje serce <br/>Ukaż mi Panie Twój bok<br/>Daj, aby popłynęła woda <br/>Prowadź mnie ręką anioła</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Panie, poprowadź mnie dalej<br/>Tam, gdzie woda jest głębsza niż mój grzech <br/>Tam, gdzie rosną cudowne owoce<br/>Uzdrów mnie Panie Twoim Duchem</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Panie poprowadź mnie dalej<br/>Daj mi też stanąć w zatoce <br/>W tym, co zostawiłeś dla soli <br/>Daj mi odpocząć w zatoce<br/>Daj mi odpocząć w Twym krzyżu</lines>
+    </verse>
+  </lyrics>
+</song>

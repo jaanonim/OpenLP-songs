@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:38">
+  <properties>
+    <titles>
+      <title>O duszo moja, dzięki składaj</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="405"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O duszo moja, dzięki składaj,<br/>Wciąż dzięki składaj Bogu łask!<br/>Spojrzawszy w przeszłość, opowiadaj,<br/>Że cudów cię otoczył blask.<br/>Wszechmocny cię orlimi pióry<br/>Miłośnie, po ojcowsku niósł,<br/>Ochraniał i rozpraszał chmury,<br/>Że nie spadł z głowy twej ni włos.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na nowo dzisiaj Pan odmyka<br/>Swej łaski wiecznej jasne drzwi,<br/>Opiekę znowu ci przyrzeka,<br/>Wskazuje ślad wśród nocnej mgły;<br/>Co tylko masz, co serce czuje,<br/>U Pańskich nóg pokornie złóż,<br/>On łódką życia pokieruje<br/>I z mnogich ją wywiedzie burz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Co przyszłe czasy mieszczą w łonie,<br/>To wszystko Pan w Swym ręku ma,<br/>Bezpieczny jesteś w tej ochronie,<br/>On z tobą jest każdego dnia<br/>A skoro już w ojczyste progi<br/>Przeniesie cię do niebios wrót,<br/>Przezwyciężywszy śmierci trwogi<br/>Uwielbisz wiecznie łaski cud</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Przed wzrokiem twoim się roztoczy<br/>Kraina w barwie rajskich róż<br/>I obóz ujrzą twoje oczy,<br/>Co z miejsca nie wędruje już.<br/>Nierozerwalne jego liny,<br/>Na wieki stoi każdy pal;<br/>Tam mieszkać będą Boże syny,<br/>Tam płacz ucichnie, ból i żal.</lines>
+    </verse>
+  </lyrics>
+</song>

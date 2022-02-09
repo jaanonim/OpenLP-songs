@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:31">
+  <properties>
+    <titles>
+      <title>Nasze hasło Pan jest z nami</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="33"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nasze hasło Pan jest z nami był to naszych ojców śpiew,<br/>Pod Chrystusa sztandarami nieśli ludziom prawdy zew!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bracia, siostry, naprzód śmiało dążmy jako jeden mąż!<br/>Z naszym hasłem: Pan jest z nami, Boża siła z nami wciąż.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My dziedzice hasła tego idźmy z Bogiem w życia trud,<br/>Bóg uchroni nas od złego, pójdźmy śmiało, pójdźmy wprzód!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niech jak gromy brzmi echami, nasze hasło wzywa nas,<br/>Zawsze, wszędzie: Pan jest z nami, Jezus Chrystus wiedzie nas!</lines>
+    </verse>
+  </lyrics>
+</song>

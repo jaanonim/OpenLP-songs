@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:46">
+  <properties>
+    <titles>
+      <title>Z niedoli wielkiej</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="306"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z niedoli wielkiej, z udręczenia,<br/>rzucony burzą w straszny bój,<br/>błagalne w niebo ślę westchnienia:<br/>ach, Boże, ześlij pokój Swój!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ach, ześlij, ześlij ukojenie,<br/>w niedoli mojej pocieszenie,<br/>i pokój daj mi upragniony!<br/>O, Boże, ześlij pokój Swój!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, rozkaż wałom, ucisz burze,<br/>na wiatry rozszalałe skiń!<br/>Ach, pomóż oczy wznieść ku górze,<br/>na duszę mą kojąco wpłyń!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ach, ześlij, ześlij ukojenie,<br/>w niedoli mojej pocieszenie,<br/>i pokój daj mi upragniony!<br/>O, Boże, ześlij pokój Swój!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Daj, Panie, bym był pewny tego,<br/>że Twoja dobroć wiecznie trwa,<br/>że i wśród morza wzburzonego<br/>jest także przy mnie pomoc Twa!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Ach, ześlij, ześlij ukojenie,<br/>w niedoli mojej pocieszenie,<br/>i pokój daj mi upragniony!<br/>O, Boże, ześlij pokój Swój!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A Ty modlitwy me przyjmujesz,<br/>nade mną Swą rozjaśniasz twarz<br/>i jeszcze więcej obiecujesz,<br/>pełniejszy jeszcze pokój dasz.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Ach, ześlij, ześlij ukojenie,<br/>w niedoli mojej pocieszenie,<br/>i pokój daj mi upragniony!<br/>O, Boże, ześlij pokój Swój!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nie pragnę po to mieć pokoju,<br/>bym w grzechach mógł bezpiecznie spać,<br/>lecz pragnę czerpać z życia<br/>zdroju i siły z nieba ciągle brać.</lines>
+    </verse>
+    <verse name="c5">
+      <lines>Ach, ześlij, ześlij ukojenie,<br/>w niedoli mojej pocieszenie,<br/>i pokój daj mi upragniony!<br/>O, Boże, ześlij pokój Swój!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ach, Boże, ratuj z udręczenia<br/>rzuconych burzą w straszny bój,<br/>a wzniosą Ci dziękczynne pienia,<br/>żeś dał im błogi pokój Swój!</lines>
+    </verse>
+    <verse name="c6">
+      <lines>Ach, ześlij, ześlij ukojenie,<br/>w niedoli mojej pocieszenie,<br/>i pokój daj mi upragniony!<br/>O, Boże, ześlij pokój Swój!</lines>
+    </verse>
+  </lyrics>
+</song>

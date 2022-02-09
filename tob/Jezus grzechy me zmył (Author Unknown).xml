@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:31">
+  <properties>
+    <titles>
+      <title>Jezus grzechy me zmył</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="303"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus grzechy me zmył,<br/>Bym w radości już żył;<br/>Za to ja chwalić chcę Zbawiciela.<br/>W serce pokój mi wlał,<br/>We krwi Swej wolność dał,<br/>Odtąd już nic nie dręczy mię.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wierzę ja, wierzę ja,<br/>Wierzę tu memu Zbawicielowi;<br/>Wierzę ja, wierzę ja,<br/>Że On jest wieczny Boży Syn</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niebo przyrzekł mi Sam,<br/>Abym wiecznie żył tam;<br/>Za to ja chwalić chcę Zbawiciela.<br/>Odtąd w sercu juz mi<br/>Jego miłość się lśni,<br/>Chcę wysławiać Go, że jest mój.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On mi pokój Swój dał,<br/>Bym na wieki go miał;<br/>Za to ja chwalić chcę Zbawiciela.<br/>Chętnie świadczyć tu chcę,<br/>Że miłuje On mię,<br/>Za to godzien jest wiecznych chwał.</lines>
+    </verse>
+  </lyrics>
+</song>

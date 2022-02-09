@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:04">
+  <properties>
+    <titles>
+      <title>To życie jest jak cień</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="858"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To życie jest jak cień<br/>i więdnie jako kwiat,<br/>Gdy zmrozi go swym tchnieniem szron,<br/>wnet znika jego ślad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lecz źródłem życia Bóg;<br/>kto Mu swe serce da,<br/>Ten chociaż wstąpi w śmierci grób,<br/>na wieki żyje, itrwa!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I chociaż ciało się<br/>zamieni w zimny pył,<br/>Nasz nieśmiertelny, wolny duch,<br/>w swym Bogu będzie żył.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nie splami go tam grzech,<br/>nie zgnębi smutek, ból;<br/>Na wieki szczęściem będzie lśnić,<br/>gdzie jego Bóg i Król!</lines>
+    </verse>
+  </lyrics>
+</song>

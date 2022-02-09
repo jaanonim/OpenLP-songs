@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:37">
+  <properties>
+    <titles>
+      <title>O, Jezu grzechy swoje na Ciebie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="159"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, Jezu, grzechy swoje na Ciebie złżyć śmiem;<br/>Ty płacz i ciężkie znoje uciszysz, dobrze wiem,<br/>Tyś na mych grzechów rany przyłożył zbawczy lek,<br/>dziś w Twojej krwi przelanej jam bielszy niźli śnieg.<br/>Jam bielszy niźli śnieg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dość długo duszę moją ogarniał czarny mrok,<br/>dość długom bez pokoju był pełen bied i trwóg.<br/>Dziś jasność z krzyża święta przyświeca duszy mej;<br/>nie lęka się, bo zdjęta na zawsze klątwa z niej.<br/>Na zawsze klątwa z niej.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, Jezu, Słońce moje, cóż ja Ci za to dam,<br/>żeś te okrutne boje przecierpiał za mnie sam?<br/>Nie żądasz srebra, złota, Ty tylko serca chcesz;<br/>Tyś cel mój, ma tęsknota, bierz mię, Miłości bierz!<br/>Bierz mię Miłości, bierz!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:18">
+  <properties>
+    <titles>
+      <title>O, Panu bądź cześć</title>
+    </titles>
+    <authors>
+      <author type="words">W.P. Mackay</author>
+      <author type="music">W.P. Mackay</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="17"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, Panu bądź cześć,<br/>że nas kocha - Swój lud,<br/>Że nas kupił Swą krwią,<br/>wiedzie w cudny Swój gród!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Alleluja, bądź pochwalon!<br/>Niech Twa cześć płynie wzwyż!<br/>Alleluja, bądź pochwalon!<br/>Błogosław nam dziś!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, Panu bądź cześć,<br/>iż nam Ducha On dał!<br/>Życie nowe w nas tchnął,<br/>a do serc pokój wlał.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niech płynie dziś wzwyż<br/>cześć i chwała,<br/>I moc Barankowi,<br/>że śmierci pokonał już noc.</lines>
+    </verse>
+  </lyrics>
+</song>

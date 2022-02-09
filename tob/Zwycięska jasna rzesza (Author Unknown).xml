@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:32">
+  <properties>
+    <titles>
+      <title>Zwycięska jasna rzesza</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="48"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zwycięska jasna rzesza w niebieski zdąża gród,<br/>a wiele w jej szeregach rozbrzmiewa cudnych nut.<br/>Triumfu płyną dźwięki w dolinie gorzkich łez;<br/>śpiewają, że już walki zwycięski nastał kres.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Baranka tam uwielbia ten triumfalny śpiew;<br/>u krzyża się zaczyna, do górnych płyną stref,<br/>pieśń ta Jezusa sławi, moc dziwną Jego ran;<br/>zwiastuje, iż ratunek zupełny grzesznym dań.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy pieśni o Baranku rozpocznie jedna z dusz,<br/>natychmiast grono całe rozbrzmiewa wszerz i wzdłuż;<br/>Nie potrzebują słowa, a wnet poznają się.<br/>Najlepszą ich wymową twarz, co radością lśni.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, pieśni, kiedyż ciebie zanucim w niebie tam?<br/>Jutrzenko najjaśniejsza, kiedyż to wzejdziesz nam?<br/>Przygotuj wiernych, Panie, i grono swoje zbierz,<br/>chcemy Ci wiecznie śpiewać wśród uwielbionych rzesz!</lines>
+    </verse>
+  </lyrics>
+</song>

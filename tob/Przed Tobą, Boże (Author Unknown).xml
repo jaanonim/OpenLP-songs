@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:08">
+  <properties>
+    <titles>
+      <title>Przed Tobą, Boże</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="71"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przed Tobą, Boże, dzisiaj korze się,<br/>wyznaję w skrusze wszystkie grzechy me.<br/>Zgrzeszyłem, Panie,<br/>przed obliczem Twym.<br/>O, przebacz mi!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeżeli z ust mych wyszły słowa złe,<br/>jeżeli ktoś przeze mnie potknoł się,<br/>lub jeslim przed mym bliźnim<br/>zamknął drzwi.<br/>O, przebacz mi!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, przebacz winy, co wyznałem Ci,<br/>i skryte grzechy, choć nie znane mi,<br/>Sam prowadź mię przez wszystkie<br/>ziemskie dni.<br/>Do końca dni.</lines>
+    </verse>
+  </lyrics>
+</song>

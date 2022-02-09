@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:31">
+  <properties>
+    <titles>
+      <title>O, Boże! usłysz głos prośby naszej</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="45"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, Boże! usłysz głos prośby naszej,<br/>którą za naród zanosim swój!<br/>Przywróć nam jeszcze te złote czasy,<br/>gdy łask Twych jasnych nam płynął zdrój.<br/>Ach, Panie Święty, naród nasz miły<br/>prawdę Twą skaził w upadku swym,<br/>zbłądził od Ciebie, stracił swe siły,<br/>o, spójrz na niego, miej litość Ty!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W przybytkach naszych, Panie,<br/>niech znowu głos słodki<br/>Twoich rozbrzmiewa praw,<br/>daj wszędzie przystęp Twojemu słowu,<br/>przez wiarę, łaskę zbawienia spraw!<br/>My tych potomki, co położyli życie<br/>i mienie za prawdę Twą<br/>i za tym jednym tylko tęsknili,<br/>by i swej dziatwie zachować ją.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Poślij nam według myśli Swej ludzi,<br/>Ducha Swojego w narodzie wzbudź!<br/>Wiara i praca serc nam nie strudzi,<br/>lecz małoduszność serc naszych skróć!<br/>Powstań i ożyw swą niwę, Panie,<br/>i pobłogosław modłów tych siew,<br/>a wtedy lud nasz ze snu powstanie,<br/>pieśń Twą i nowy zanuci śpiew!</lines>
+    </verse>
+  </lyrics>
+</song>

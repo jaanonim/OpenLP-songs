@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:01">
+  <properties>
+    <titles>
+      <title>U Ciebie, Święty, wieczny Boże</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="809"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>U Ciebie, Święty, wieczny Boże,<br/>Zbawienna łaska tylko jest;<br/>Jej uczestnikiem stać się może,<br/>Kto z wiarą przyjął święty chrzest.<br/>I z Ducha już odrodził się,<br/>/ A sercem czystym wielbi Cię. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tyś raczył wezwać mnie do Siebie:<br/>Mam udział wziąć w Królestwie Twym.<br/>Dziedzictwo świętych daj mi w niebie,<br/>Mą duszę oświeć Słowem Swym,<br/>Bym oczyszczony z grzechu był,<br/>/ I w Twym przymierzu wiecznie żył. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wszechwładny Boże, Ojcze w niebie,<br/>Przyjąłeś mię za dziecię Swe.<br/>Chrystusie, Tyś mię wziął dla Siebie,<br/>Od śmierci odkupiłeś mię.<br/>O Duchu Święty, siłą Swą<br/>/ Istotę całą poświęć mą. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ach, Ojcze, Synu, Duchu Święty,<br/>Tyś świadkiem szczerych uczuć mych.<br/>Przez Ciebie w imię Twe przyjęty<br/>Do społeczności wiernych Twych,<br/>Pojmując powołanie me,<br/>/ Przełamię w sobie wszystko złe.;]</lines>
+    </verse>
+  </lyrics>
+</song>

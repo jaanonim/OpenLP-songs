@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:27:56">
+  <properties>
+    <titles>
+      <title>Oceany</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1 c1</verseOrder>
+    <authors>
+      <author>Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Znad oceanów do mnie wołasz<br/>Gdzie każdy krok niepewny jest<br/>Ty jesteś tam, gdzie niewiadoma<br/>Tam znajdę grunt dla wiary mej</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I będę wzywać imię Twe<br/>I ponad fale patrzeć chcę<br/>Gdy burzą się, mej duszy pokój w Tobie jest<br/>Gdzie pójdziesz Ty, ja pójdę też</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mój strach utonie w Twojej łasce<br/>Bo ręka Twa, prowadzi mnie<br/>I Ty mnie nigdy nie zawiodłeś<br/>Wiem teraz też nie zawiedziesz mnie</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Duchu prowadź mnie, gdzie wiara nie ma granic<br/>Daj mi chodzić nad wodami<br/>Gdziekolwiek mnie prowadzisz<br/><br/>Prowadź głębiej niż pójść mogą moje stopy<br/>Moja wiara się umocni<br/>W Twojej obecności</lines>
+    </verse>
+  </lyrics>
+</song>

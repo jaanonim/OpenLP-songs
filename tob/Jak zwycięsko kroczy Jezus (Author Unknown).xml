@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:47">
+  <properties>
+    <titles>
+      <title>Jak zwycięsko kroczy Jezus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="343"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak zwycięsko kroczy Jezus przez ten świat,<br/>wierne Jemu wojsko idzie za Nim w ślad!<br/>A gdzie nowe życie wnosi Boży Duch,<br/>stamtąd święte pieśni dolatują słuch.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bracia, siostry, pójdźcie z wszystkich stron,<br/>wiedźcie grzesznych tam przed Pański tron!<br/>Bracia, siostry, pójdźcie z wszystkich stron,<br/>wiedźcie wszystkich grzesznych tam przed Pański tron!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ludu Boży, rodzie świętych, zgromadź się,<br/>wznoś do nieba w modłach czyste serce swe,<br/>proście, świadczcie, zapraszajcie, gdzie się da,<br/>wiedźcie ślepych, znoście chromych z drogi zła.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Bracia, siostry, pójdźcie z wszystkich stron,<br/>wiedźcie grzesznych tam przed Pański tron!<br/>Bracia, siostry, pójdźcie z wszystkich stron,<br/>wiedźcie wszystkich grzesznych tam przed Pański tron!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy odwaga was opuszcza, gaśnie żar,<br/>to ożywi was na nowo Ducha dar!<br/>Spoglądajcie .na Jezusa, proście Go,<br/>by uzbroił Swoich świadków siłą Swą!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Któż by tego nie zapragnął szczęścia już,<br/>być wybawcą odkupionych drogo dusz.<br/>Jak to będzie, gdy wśród cudnych rajskich<br/>pól Swoich gości na wesele zwoła Król.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Bracia, siostry, pójdźcie z wszystkich stron,<br/>wiedźcie grzesznych tam przed Pański tron!<br/>Bracia, siostry, pójdźcie z wszystkich stron,<br/>wiedźcie wszystkich grzesznych tam przed Pański tron!</lines>
+    </verse>
+  </lyrics>
+</song>

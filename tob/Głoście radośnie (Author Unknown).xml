@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:28">
+  <properties>
+    <titles>
+      <title>Głoście radośnie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="9"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Głoście radośnie wszyscy wraz:<br/>Bóg kocha nas!<br/>Nastał cudowny łaski czas! Bóg kocha nas.<br/>O, rzućcie, grzeszni, rzućcie sny!<br/>Zbawienie minąć mogło by;<br/>już dzienna zorza spędza mgły,<br/>Bóg kocha nas! Bóg kocha nas, Bóg kocha nas,<br/>Głoście radośnie wszyscy wraz:<br/>Bóg kocha nas!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Głoście grzesznikom wszystkich stron:<br/>Bóg kocha nas!<br/>Opuścił swój niebieski tron, Bóg kocha nas!<br/>Patrzcie, Zbawiciel idzie już.<br/>Krzyż błyszczy w blasku jasnych zórz,<br/>do stóp Mu serce swoje złóż!<br/>Bóg kocha nas! Bóg kocha nas, Bóg kocha nas,<br/>Głoście radośnie wszyscy wraz:<br/>Bóg kocha nas!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pójdźcie wy wierni z wszystkich stron:<br/>Bóg kocha was!<br/>Wdzięczny i dobrotliwy On, Bóg kocha was!<br/>Bo On jest tarczą dzieci Swych,<br/>ufność, nadzieje wlewa w mdłych,<br/>w ciężkich pokusach krzepi ich<br/>Bóg Kocha nas! Bóg kocha nas, Bóg kocha nas,<br/>Głoście radośnie wszyscy wraz:<br/>Bóg kocha nas!</lines>
+    </verse>
+  </lyrics>
+</song>

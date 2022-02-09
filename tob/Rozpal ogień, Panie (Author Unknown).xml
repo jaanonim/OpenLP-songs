@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:14">
+  <properties>
+    <titles>
+      <title>Rozpal ogień, Panie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="220"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rozpal ogień, Panie, w moim sercu już,<br/>Niech jasno płonie chwaląc Ciebie wciąż!<br/>Wszystko, co posiadam, jest własnością Twą.<br/>Mech mnie Twe ręce mocno objąć chcą!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tyś źródłem życia i radości mej!<br/>Przez Ciebie ciemność już rozjaśnia się.<br/>Moje modlitwy słyszysz w chwili trwóg.<br/>Jezu, mój Zbawco, Tyś mój Pan i Bóg!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zechciej nas odgrodzić od działania zła.<br/>Niech da mi pokój mocna ręka Twa!.<br/>W ciemność świata tego Gwiazdą Swą mi świeć!<br/>Bądź przy mnie, Panie, nie oddalaj się!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wieczne światło Boże wnet zaświeci mi.<br/>Nie trać nadziei, duszo, światło lśni!<br/>Ucisz narzekania, gdy usłyszysz pieśń!<br/>Pan już nadchodzi! Śpiesz Go witać, śpiesz!</lines>
+    </verse>
+  </lyrics>
+</song>

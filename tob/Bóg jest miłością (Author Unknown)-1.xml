@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:21">
+  <properties>
+    <titles>
+      <title>Bóg jest miłością</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="90"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bóg jest miłością, On mnie odkupił,<br/>Bóg jest miłością, miłuje mię,<br/>Więc śpiewam w każdy czas:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bóg jest miłością,<br/>Bóg jest miłością,<br/>miłuje mię!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Leżałem w więzach mych żądz i grzechów,<br/>Nie mogłem srogich potargać pęt.<br/>Dziś, wolny, wznoszę pieśń:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Byłem w kajdanah śmierci okrutnej,<br/>Bo śmierć zapłatą jest naszyc win.<br/>Dziś, wolny, głoszę wciąż:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>On zesłał Syna, naszego Zbawcę,<br/>Jezusa zesłał, wyzwolił mię,<br/>Więc wielbię pieśnią Go:</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Święta Miłości, Tyś mym lekarzem,<br/>Ty koisz słodko najcięższy ból,<br/>Więc śpiewam Tobie rad:</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ty dajesz radość znękanej duszy,<br/>Sercu nędznemu Swój pokój ślesz,<br/>Więc smutnym niosę pieśń:</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Dziedzictwem moim jest radość wieczna,<br/>Dziedzictwem moim jest pokój Twój,<br/>Więc wdzięcznie śpiewam Ci:</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Chcę wielbić Ciebie, Miłości wieczna,<br/>Chcę sławić Ciebie do końca dni,<br/>Więc śpiewam w każdy czas:</lines>
+    </verse>
+  </lyrics>
+</song>

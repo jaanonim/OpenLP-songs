@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:22">
+  <properties>
+    <titles>
+      <title>O, zaśpiewaj ty z radości</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="116"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, zaśpiewaj ty z radości,<br/>Jezus poniósł twe słabości.<br/>Patrz, jak cały krwią On broczył,<br/>Niech łzy wdzięczne ronią oczy!<br/>On za ciebie oddał życie,<br/>Byś w Nim żywot miał obficie,<br/>Więc Mu wyznaj grzechy swoje -<br/>On oczyści serce twoje.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zguby grzesznik, nie ominie;<br/>Bez Jezusa każdy zginie.<br/>Cnoty twe - przed Bogiem winy,<br/>Grzechem są najlepsze czyny.<br/>Twe zasługi - złudzeń mara;<br/>Za nie też cię czeka kara.<br/>Ni na ziemi, ani w niebie<br/>Inny nikt nie zbawi ciebie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Czujesz, jak ci grzechy ciążą,<br/>Jak twą biedną duszę wiążą,<br/>Jak sumienie twe cię męczy,<br/>Jak cię nędza twoja dręczy?<br/>Otóż pójdź z kajdany swymi!<br/>Nie poradzisz sobie z nimi.<br/>Gdy krew Zbawcy na cię spłynie,<br/>Odziedziczysz ty zbawienie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jezus tylko zbawić może!<br/>On i tobie dopomoże<br/>Do pokuty i do wiary,<br/>Bo posiada łaski dary.<br/>Kto zbawienia chce pewności,<br/>Niech się chwyci tej ufności.<br/>Łaska z ran płynąca Pana<br/>Może być i tobie dana.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Uwierz tylko słowu Pana,<br/>Wnet się zgoi grzechu rana,<br/>Bo w Jezusa krwi przelanej<br/>Dług twych grzechów jest zmazany.<br/>Gdy grzech będzie z ciebie zdjęty,<br/>Będziesz mógł wieść żywot święty,<br/>Przy czym łaski sprawowanie<br/>Da ci siłę i wytrwanie.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oddaj serce Jezusowi,<br/>Jego chwałę to stanowi.<br/>On na krzyżu zbawił ciebie;<br/>Nikt nie wyrwie z grzechu siebie.<br/>Więc wysławiaj Go za rany,<br/>2e w nich pokój z Bogiem dany,<br/>I wyznawaj aż do grobu:<br/>Chrystus mnie odkupił Bogu</lines>
+    </verse>
+  </lyrics>
+</song>

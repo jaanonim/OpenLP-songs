@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:26">
+  <properties>
+    <titles>
+      <title>Ojcze połącz nas</title>
+      <title>father make us one</title>
+    </titles>
+    <authors>
+      <author type="words">Steve Hampton</author>
+      <author type="music">Steve Hampton</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="480"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ojcze połącz nas, Ojcze połącz nas,<br/>aby poznał świat, żeś nam Syna dał,<br/>Ojcze połącz nas.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezu połącz nas, Jezu połącz nas,<br/>aby poznał świat, że zbawiłeś nas,<br/>Jezu połącz nas.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Duchu połącz nas, Duchu połącz nas,<br/>aby poznał świat,<br/>że ty mieszkasz w nas,<br/>Duchu połącz nas.</lines>
+    </verse>
+  </lyrics>
+</song>

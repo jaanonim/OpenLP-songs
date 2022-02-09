@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:56">
+  <properties>
+    <titles>
+      <title>Bóg obmył oczy me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="18"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bóg obmył oczy me w potokach łez,<br/>Abym zobaczyć mógł pielgrzymki kres.<br/>On rozdarł serce me i zajrzał w głąb,<br/>Gdzie na dnie strach się krył i dumy trąd.<br/>On wymiótł wszelki grzech, wyplenił chwast,<br/>Aż w miejsce nocnych mgieł zajaśniał blask.<br/>I teraz dobrze wiem, dlaczego Bóg<br/>Me oczy obmył w łzach: bym widzieć mógł.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bóg obmył oczy me w potokach łez,<br/>Abym zobaczyć mógł, jak wielkim jest.<br/>Bym ujrzał blizny ran u rąk i nóg,<br/>Abym zrozumieć mógł, jak cierpiał Bóg.<br/>Widziałem krwawy ślad, którędy szedł,<br/>Gdy zajął miejsce me, zmarł za mój grzech.<br/>I teraz cieszę się, że dobry Bóg,<br/>Me oczy obmył w łzach: bym widzieć mógł.</lines>
+    </verse>
+  </lyrics>
+</song>

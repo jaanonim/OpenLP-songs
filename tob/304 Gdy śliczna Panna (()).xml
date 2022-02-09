@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:55">
+  <properties>
+    <titles>
+      <title>304 Gdy śliczna Panna</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.Gdy śliczna Panna Syna kołysała,<br/>Z wielkim weselem tak Jemu śpiewała<br/>"Lili, lili, laj, moje Dzieciąteczko,<br/>Lili, lili, laj, śliczne Paniąteczko.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wszystko stworzenie Śpiewaj Panu swemu<br/>Pomóż radości Wielkiej sercu memu<br/>Li li li li laj piękny Królewiczu<br/>Li li li li laj niebieski dziedzicu</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sypcie się z nieba śliczni aniołowie<br/>Śpiewajcie Panu niebiescy duchowie<br/>Li li li li laj mój wolny kwiateczku<br/>Li li li li laj ubogi żłobeczku </lines>
+    </verse>
+  </lyrics>
+</song>

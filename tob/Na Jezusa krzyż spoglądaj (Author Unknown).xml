@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:24">
+  <properties>
+    <titles>
+      <title>Na Jezusa krzyż spoglądaj</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="153"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na Jezusa krzyż spoglądaj,<br/>Gdy przygniata ciebie znój;<br/>Z Nim się, duszo miła, spój,<br/>Na Nim w wszystkim wciąż spolegaj!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Wierz w Jezusa, znajdziesz pokój,<br/>Znajdzie radość serce twe. /x2<br/>Wierz w Jezusa, znajdziesz pokój,<br/>Znajdzie radość serce twe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy upadasz pod swym grzechem,<br/>Na Golgotę wzrok swój zwróć!<br/>W Boże się ramiona rzuć,<br/>On twej duszy da pociechę!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezus pewnie wciąż powiedzie<br/>Labiryntem świata cię,<br/>Tylko pozwól wieść Mu się,<br/>Stanie obok w wszelkiej biedzie!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:20">
+  <properties>
+    <titles>
+      <title>Niech nas ogarnie łaska, Panie Twa</title>
+    </titles>
+    <authors>
+      <author type="words">Piotr Pałka</author>
+      <author type="music">Piotr Pałka</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="430"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niech nas ogarnie<br/>Łaska, Panie Twa.<br/>Duch Twój Święty<br/>Niech dotknie nas. // x2 //</lines>
+    </verse>
+  </lyrics>
+</song>

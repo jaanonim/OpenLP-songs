@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:13">
+  <properties>
+    <titles>
+      <title>Zimowisko2011 - Ja chcę być</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tam gdzie Jesteś Panie zawsze dobrze jest<br/>Obecność Twoja Boże dla mnie zawsze jest OK<br/>Dla Ciebie Panie żyje, Ty wyzwoliłeś mnie<br/>Ja nosze w sobie siłę, która niszczy chwile złe<br/>Ja patrzę na ten świat i widzę jak utyka<br/>Kierownica życia ludziom z rąk się wymyka<br/>Zegar wciąż tyka, a czas jest bezlitosny<br/>Zbliża się godzina, moment dla mas radosny</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Teraz jest czas łaski, a nie chwila riposty<br/>Zatrzymaj się na moment i posłuchaj naszej mowy<br/>Royal Rap w stu procentach dobry<br/>To wartej chłopaku jest dla Ciebie przeznaczony<br/>Wszystko dla Jezusa kierunek wyznaczony<br/>Wiemy o czym nawijamy, bo patrzymy z drugiej strony<br/>Być tam gdzie Jezus to motto tej załogi<br/>Przemyśl to człowieku skieruj nogi na te drogi</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/Ja chcę być zawsze tam, gdzie jesteś Ty<br/>Na zawsze tam gdzie Ty, bo tam jest dobrze mi /4x</lines>
+    </verse>
+  </lyrics>
+</song>

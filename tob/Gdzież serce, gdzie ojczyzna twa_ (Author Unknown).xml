@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:58">
+  <properties>
+    <titles>
+      <title>Gdzież serce, gdzie ojczyzna twa?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="758"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdzież serce, gdzie ojczyzna twa?<br/>Tam, kędy wiosna wiecznie trwa,<br/>Gdzie więcej nikt nie tonie w łzach,<br/>Umilkły skargi, minął strach.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdzie z piersi pierzchnął żal i ból,<br/>Jak łzawa rosa z rannych pól,<br/>Gdzie z ziemi już jest zdjęty lęk<br/>I w radość się zamienił jęk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ach, kiedyż ujrzę luby próg,<br/>Gdzie kres zasłanych cierniem dróg?<br/>Gdzie promienieje wieczny blask,<br/>Gdzie zdrój obfity Bożych łask?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tam w niebie, tara ojczyzna ma.<br/>Taro wiosna już bez przerwy trwa;<br/>Tam luby mój ojczysty kraj,<br/>Wszak tam jest upragnio¬ny raj.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Promiennym słońcem Jezus tam,<br/>Chrystusa Ojciec - Ojcem nam,<br/>Rodziną - niebian święty zbór,<br/>Przybytkiem - szczyt Syjońskich gór.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tam wiecznym blaskiem gwiazdy lśnią,<br/>Weselne pienia wiecznie brzmią.<br/>Już na myśl o tym wdzięcznie drga<br/>Znękana bólem dusza ma.</lines>
+    </verse>
+  </lyrics>
+</song>

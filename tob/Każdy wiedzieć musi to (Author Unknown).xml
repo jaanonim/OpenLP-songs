@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:55">
+  <properties>
+    <titles>
+      <title>Każdy wiedzieć musi to</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="504"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Każdy wiedzieć musi to //<br/>Każdy wiedzieć musi to -<br/>kim Jezus jest Jezus lilią jest doliny,<br/>On Poranną Gwiazdą mą,<br/>On Zbawiciel nasz jedyny,<br/>każdy wiedzieć musi to!<br/>Każdy wiedzieć, itd.</lines>
+    </verse>
+  </lyrics>
+</song>

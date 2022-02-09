@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:53">
+  <properties>
+    <titles>
+      <title>Jezu, bądź nam hasłem dziś</title>
+    </titles>
+    <authors>
+      <author type="words">B.Schmolk</author>
+      <author type="music">B.Schmolk</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="669"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezu, bądź nam hasłem dziś,<br/>Gdy rok nowy rozpoczęty,<br/>Imię Twoje i Twój krzyż<br/>Niech za sztandar służą święty<br/>Tym, co chcą przy Tobie stać<br/>I w przymierzu Twoim trwać.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dzieło pojednania w nas<br/>Tu przyjmijmy z czcią we wierze,<br/>Tak się ono w każdy czas<br/>Nam pomnoży w wielkiej miezre.<br/>I w tym nowym roku nam<br/>Chce dać błogość Jezus Sam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Drogą wąską aż po zgon<br/>W imię Zbawcy idźmy wszędzie!<br/>Gdy przewodnią gwiazdą On,<br/>Wszystko dobrym dla nas będzie:<br/>Kto się zawsze liczy z Nim,<br/>Nie zginie w świecie złym.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wszystkie troski, wszystek ból<br/>Imię Jego nam osłodzi,<br/>Przeciwności On, nasz Król,<br/>W błogosławieństw zdrój przerodzi.<br/>Niech nas wciąż olśniewa blask<br/>Przeobfitych Jego łask!</lines>
+    </verse>
+  </lyrics>
+</song>

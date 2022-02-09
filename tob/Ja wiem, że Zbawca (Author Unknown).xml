@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:07">
+  <properties>
+    <titles>
+      <title>Ja wiem, że Zbawca</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ja wiem że Zbawca zawsze kocha mnie,<br/>ja wiem, że Zbawca zawsze kocha mnie,<br/>tylko Jego kochać chcę, Jemu zawsze<br/>słuzyć chcę, ja wiem, że Zbawca<br/>zawsze kocha mnie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja wiem,że zawsze On pomoże mi,<br/>ja wiem że zawsze On pomoże mi,<br/>Tylko Jemu oddam się,<br/>On pobłogosławi mnie.<br/>Ja wiem, że zawsze On pomoże mi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ja wiem że Zbawca nie opusci mnie,<br/>ja wiem że Zbawca nie opusci mnie,<br/>Chroni mnie na kazdy czas<br/>I nade mną trzyma straż;<br/>Ja wiem, że Zbawca nie opusci mnie.</lines>
+    </verse>
+  </lyrics>
+</song>

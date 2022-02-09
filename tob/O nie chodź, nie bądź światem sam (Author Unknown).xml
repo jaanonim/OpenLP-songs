@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:24">
+  <properties>
+    <titles>
+      <title>O nie chodź, nie bądź światem sam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="159"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O nie chodź, nie bądź światem sam,<br/>Nie mijaj zbawczych wąskich bram;<br/>Pójdź z nami w Ojca dom!<br/>Pójdź z nami tam, gdzie błogi stan,<br/>Gdzie wiecznie cię pocieszy Pan,<br/>Gdzie koniec gorzkim łzom.<br/>O, pójdź, o, pójdź!<br/>Zbawiciel cię ratować chce.<br/>O, pójdź, o, pójdź!<br/>On czeka, nawołuje cię.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O synu marnotrawny, słysz,<br/>Pokieruj kroki swoje wzwyż;<br/>O, wróć do domu, wróć?<br/>Wygląda ciebie Ojciec twój;<br/>O, pośpiesz się, swe kroki zdwój,<br/>Wróć się do domu, wróć!<br/>O, pójdź, o, pójdź,<br/>Choć powrót tak się trudnym zda;<br/>O, pójdź, o, pójdź,<br/>Twój Ojciec z tobą litość ma!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zbłąkana córko, pójdź i ty,<br/>Nastaje dzień, więc porzuć sny<br/>I tylko Jemu wierz!<br/>Zbawienia twego pragnie Pan,<br/>Dla grzesznych w Nim jest pokój dań.<br/>Jak długo zwlekać chcesz?<br/>O, pójdź, o, pójdź,<br/>Choć grzechów ból dolega ci;<br/>O, pójdź, o, pójdź,<br/>Ratunek jest w Chrystusa krwi!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pójdź z nami, pójdź i nie błądź sam,<br/>Idziemy do niebieskich bram,<br/>Pójdź do przebłogich rzesz!<br/>Nas wiedzie Jezus, Zbawca nasz,<br/>Nas broni wierna Jego straż.<br/>Pójdź, pokój wieczny bierz!<br/>O, pójdź, o, pójdź,<br/>Pod krzyżem złóż już ciężar swój!<br/>O, pójdź, o, pójdź,<br/>Tam, tam jest pokrzepienia zdrój!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pójdź z nami, pójdź, a nie błądź już<br/>Twój Jezus woła, Zbawca dusz.<br/>Pójdź, wyznaj Mu swój grzech!<br/>W twym ręku dziś twój wieczny los;<br/>Dziś Zbawiciela woła głos,<br/>Nie zwiększaj brzemion swych!<br/>O, pójdź, o, pójdź<br/>Za Panem swoim w niebios dom!<br/>O, pójdź, o, pójdź;<br/>Wierz Jemu, a nie grzechu snom!</lines>
+    </verse>
+  </lyrics>
+</song>

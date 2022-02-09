@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:01">
+  <properties>
+    <titles>
+      <title>Wspaniały świat, prawdziwy raj</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="820"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wspaniały świat, prawdziwy raj<br/>Wzniósł Ojciec dla swych dzieci,<br/>Ich łany jeden zwilża deszcz,<br/>Im jedno słońce świeci.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lecz przyszedł grzech, synowie źli<br/>Swym Bogiem pogardzili,<br/>Przecudny ten szeroki świat<br/>W dolinę łez zmienili.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ach, Boże, daj, by jeszcze się<br/>Z nich nawróciło wielu<br/>I nowy żywot dla swych dusz<br/>Znalazło w Zbawicielu.</lines>
+    </verse>
+  </lyrics>
+</song>

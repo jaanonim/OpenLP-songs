@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:12">
+  <properties>
+    <titles>
+      <title>Kto Mi chwałę da</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="179"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Kto Mi chwałę da,<br/>ten uwielbi Mnie! /x2<br/>Kto naprawia drogę swą,<br/>By prosto po niej iść.<br/>Ten ujrzy zbawienie Me!</lines>
+    </verse>
+  </lyrics>
+</song>

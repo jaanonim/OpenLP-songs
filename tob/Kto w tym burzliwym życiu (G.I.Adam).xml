@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:58">
+  <properties>
+    <titles>
+      <title>Kto w tym burzliwym życiu</title>
+    </titles>
+    <authors>
+      <author type="words">G.I.Adam</author>
+      <author type="music">G.I.Adam</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="759"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kto w tym burzliwym życiu,<br/>Nam może pokój dać?<br/>Ożywczą wodę życia<br/>W spragnione usta wlać?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Zbawiciel nasz Pan /x2<br/>Zbawiciel nasz Pan,<br/>Wybawić tylko może On.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Troskami jam zgnębiony,<br/>Wkoło czyha wróg<br/>Ach, kto mnie poprowadzi,<br/>Wśród krętych życia dróg?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Grzech dręczy moją duszę,<br/>Szatana lękam się,<br/>Któż zdoła mnie obronić,<br/>Od zguby zbawić mnie?</lines>
+    </verse>
+  </lyrics>
+</song>

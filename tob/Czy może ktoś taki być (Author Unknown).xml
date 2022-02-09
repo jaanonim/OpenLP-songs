@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:11">
+  <properties>
+    <titles>
+      <title>Czy może ktoś taki być</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="103"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czy może ktoś taki być, jak Pan<br/>wśród wszelkich bóstw? Czy może<br/>ktoś taki być, jak Pan, nasz<br/>święty Bóg? Straszliwy w chwale,<br/>pełen cudów!<br/>Czy może ktoś taki być?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie, nikt nie może być,<br/>jak Pan, wśród wszelkich bóstw!<br/>Nie, nikt nie może być<br/>Jak Pan, nasz święty Bóg!<br/>Straszliwy w chwale, pełen cudów!<br/>Nie, nikt nie może być!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:18">
+  <properties>
+    <titles>
+      <title>Strójcie, wierni, harfy wasze</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="23"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Strójcie, wierni, harfy wasze,<br/>Wznieście chwały mocny chór!<br/>Alleluja, głoście zawsze:<br/>Z grzechu obmył Pan Swój zbór!<br/>Oto Jezus już pokonał<br/>Diabła, grzech i śmierci noc,<br/>Gdy na krzyżu za nas skonał.<br/>Wysławiajcie Bożą moc!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezus chce cię przyozdobić<br/>Mocą z góry, siłą Swą,<br/>On cię chce dla Siebie zdobyć,<br/>Byś oglądał chwałę tę.<br/>Więc śpiewajcie, dziatki Boże,<br/>Alleluja, chwalę, cześć!<br/>On zwycięstwo dać nam może,<br/>- Wierz i chciej Mu życie nieść!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tylko wiara poznać może<br/>Tę wszechmocną Pańską dłoń;<br/>Hymny śpiewa dziecię Boże,<br/>Mając tę zwycięską broń.<br/>Jezu, Jezu, bądź pochwaleń,<br/>Wielki Królu, Panie mój;<br/>Już szatański tron obalon,<br/>Jam na wieki tylko Twój!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wykrzykujcie, siostry, bracia!<br/>Władcy świata nieście cześć!<br/>Głos wasz niechaj Doń się zwraca,<br/>Nową pieśń Mu chciejcie nieść!<br/>Wejście w niebo już otwarte,<br/>Jezus Pan jest drzwiami tam;<br/>Dla nas wszystko w Nim zawarte,<br/>Wiecznych chwał On godzien Sam.</lines>
+    </verse>
+  </lyrics>
+</song>

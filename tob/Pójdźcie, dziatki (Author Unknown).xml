@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:55">
+  <properties>
+    <titles>
+      <title>Pójdźcie, dziatki</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="488"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pójdźcie dziatki, pójdźcie!<br/>Jezus woła tuu was!<br/>Śpieszcie się do Zbawcy,<br/>// Póki jeszcze czas. //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uczcie się od Niego,<br/>w Nim jest źródło łask,<br/>w Nim jest rozkosz życia,<br/>// Z Niego bije blask. //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, jak wielkie szczęście,<br/>dziatki, w szkółce być,<br/>uczyć się od Zbawcy,<br/>// Jak dla Niego żyć. //</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I my, Zbawco drogi,<br/>u Twych świętych nóg<br/>uczyć się pragniemy<br/>// Od Twych wiernych sług. //</lines>
+    </verse>
+  </lyrics>
+</song>

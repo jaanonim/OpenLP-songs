@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:08">
+  <properties>
+    <titles>
+      <title>Tak długo są sami</title>
+    </titles>
+    <authors>
+      <author type="words">Mate.O</author>
+      <author type="music">Mate.O</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tak długo są sami,<br/>Tak długo ciemność zakrywa ich świat.<br/>Drogą jedyną, by serca oczyścić jest umrzeć za grzech.<br/>Czy pójdziesz mój Synu, by zakryć ich winę i grzech,<br/>zakryć winę i grzech?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pójdę, pójdę, bo kocham Cię i pragnę pomóc im.<br/>Pójdę, pójdę, bo kocham Cię i chcę im miłość dać.<br/>Pójdę, pójdę, bo kocham ich i dam im życie swe.<br/>Pójdę, pójdę, bo kocham Cię i pragnę oddać się.</lines>
+    </verse>
+  </lyrics>
+</song>

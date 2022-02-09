@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:01">
+  <properties>
+    <titles>
+      <title>Błogosław związek nasz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="810"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Błogosław związek nasz,<br/>O Panie Boże Sam,<br/>Niech bratnia miłość łączy nas,<br/>Jak przykazałeś nam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przed Twój niebieski tron,<br/>Gorliwe modły ślem,<br/>Twe dziatki od niezgody chroń,<br/>Wiąż serca Duchem Swym.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Doczesny trud i znój,<br/>Ucz nas społecznie nieść,<br/>Dla ludu swego - wszak jest Twój,<br/>Głęboką miłość mieć.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy odejdziemy stąd,<br/>Jezusa Duch niech nas<br/>Prowadzi, strzeże, ma w nas rząd,<br/>Przez cały ziemski czas.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:28">
+  <properties>
+    <titles>
+      <title>Na wysokościach Bogu cześć</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="3"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na wysokościach Bogu cześć!<br/>I dzięki łasce Jego<br/>już nam nie może zguby nieść<br/>moc i potęga złego.<br/>Bóg w nas upodobanie ma<br/>i pokój już bez przerwy trwa,<br/>nieprzyjażń się skończyła.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O przyjmij, Boże, Ojcze nasz,<br/>dziękczynne nasze pienia,<br/>że wiernie o Swe dziatki dbasz<br/>i spełniasz ich życzenia.<br/>Bez granic jest potęga Twa,<br/>coś Ty uradził, wiecznie trwa,<br/>lepszego nie masz Pana!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, Jezu Chryste,<br/>Tyś jest Syn jedyny Najwyższego, z<br/>a winyś cierpiał sam bez win,<br/>Zbawiłeś świat od złego.<br/>Baranku Boży, Panie nasz,<br/>na łzy i prośby nasze zważ,<br/>o, zlituj się nad nami!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, Duchu Święty,<br/>w Tobie zdrój błogiego pokrzepienia.<br/>Swe wierne rzesze prowadź w bój<br/>z szatanem bez wytchnienia;<br/>o wybaw nas z paszczęki lwiej<br/>i użycz wiernej trzodzie<br/>Swej po boju odpocznienia.</lines>
+    </verse>
+  </lyrics>
+</song>

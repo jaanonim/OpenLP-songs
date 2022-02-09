@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:32">
+  <properties>
+    <titles>
+      <title>W drogę z nami</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="742"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W drogę z nami wyrusz Panie<br/>nam nie wolno w miejscu stać.<br/>Gdy zbłądzimy podaj rękę,<br/>gdy upadniemy - pomóż wstać.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I do serca Twego prowadź,<br/>prowadź nas. // x2 //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zabierz smutek, przywróć radość,<br/>osłabionym dodaj sił,<br/>byśmy innym nieść pomogli<br/>ciężar krzyża przez ten świat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Poprzez piachy, ostów kolce,<br/>z nami idź do niebios bram.<br/>Po pustyniach wody swojej<br/>zabłąkanym zechciej dać.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy do Pana odejdziemy<br/>niech nie płacze po nas nikt,<br/>bo my przecież z Nim być chcemy,<br/>Jego łaską wiecznie żyć.</lines>
+    </verse>
+  </lyrics>
+</song>

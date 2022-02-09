@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:52">
+  <properties>
+    <titles>
+      <title>O, przed wami stoi Pan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="643"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, przed wami stoi Pan,<br/>Który dał małżeński stan.<br/>Ten to Władca wszystkich ziem<br/>Z wami pragnie złączyć się.<br/>On przed wami pragnie iść,<br/>By was Swoją drogą wieść<br/>I za waszą trzymać dłoń,<br/>Aż was wwiedzie w niebios błoń.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wśród codziennych życia dróg<br/>Wodzem waszym chce być Bóg.<br/>Z wami dzielić smutku dni<br/>I gdy radość w sercu lśni.<br/>W serca wasze pragnie wejść,<br/>By je z Sobą w jedno spleść;<br/>Chce na zawsze mieszkać tam<br/>I być dla was wszystkim Sam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy się schyli życia bieg,<br/>I ojczysty ujrzym brzeg,<br/>Kiedy syci ziemskich dni<br/>Staniem już u raju drzwi:<br/>Jaka błogość czeka nas,<br/>Spocząć z Nim wśród wiecznych kras,<br/>Tam przyodziać jasną biel<br/>- Warto ten osiągnąć ceł!</lines>
+    </verse>
+  </lyrics>
+</song>

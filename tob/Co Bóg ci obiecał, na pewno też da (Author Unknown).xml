@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:36">
+  <properties>
+    <titles>
+      <title>Co Bóg ci obiecał, na pewno też da</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="371"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Co Bóg ci obiecał, na pewno też da,<br/>Co rzekł, nie ulegnie już zmianie;<br/>Choć rzeczą tak trudną to często się zda,<br/>Bóg wierny Swym słowom zostanie!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, nie wątp więc nigdy,<br/>z ufnością Doń śpiesz,<br/>Tu szkodzi niewiara i chwianie!<br/>Usłuchaj i wierz,<br/>Za słowo Go bierz,<br/>On wierny Swym słowom zostanie!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Świat wierzy w znikomość,<br/>miłuje swą złość,<br/>Na blasku on czczym poprzestanie,<br/>Zaś Pan w obiecaną<br/>wprowadzi cię włość,<br/>On wierny Swym słowom zostanie!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, Bóg nie zawiedzie,<br/>choć runie i świat!<br/>Jak błogo, gdy w Nim masz ufanie!<br/>On słyszy twe prośby,<br/>pomoże ci rad;<br/>On wierny Swym słowom zostanie!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wnet dojdziesz do celu,<br/>ukończysz swój bieg;<br/>Pan da ci u Siebie mieszkanie<br/>I w szatę oblecze cię bielszą niż śnieg<br/>- On wiernym Swym słowom zostanie!</lines>
+    </verse>
+  </lyrics>
+</song>

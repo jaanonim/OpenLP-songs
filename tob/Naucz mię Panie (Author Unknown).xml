@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:46">
+  <properties>
+    <titles>
+      <title>Naucz mię Panie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="308"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Naucz mię Panie, modlić się dziś.<br/>Usłysz błaganie, do mnie się zniż.<br/>Zgodnie z Twą wolą tylko chcę żyć,<br/>naucz mnie, Panie modlić się dziś!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Z Tobą, mój Panie, tylko chcę żyć.<br/>W Tobie przebywać, w Tobie się skryć.<br/>We mnie zamieszkaj Sam Duchem Swym,<br/>Tyś moją siłą, Tyś życiem mym!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Siłę w modlitwie, Boże daj mi,<br/>w tym grzesznym świecie, co z wiernych drwi.<br/>Dusze ginące chcę przynieść Ci,<br/>siłę w modlitwie, Boże, daj mi!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Z Tobą, mój Panie, tylko chcę żyć.<br/>W Tobie przebywać, w Tobie się skryć.<br/>We mnie zamieszkaj Sam Duchem Swym,<br/>Tyś moją siłą, Tyś życiem mym!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Me słabe siły sam wzmocnić chciej,<br/>nagnij mą wolę do woli Twej.<br/>Moc Twego Ducha w serce me zlej,<br/>Mocą do czynu napełnij mię!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Z Tobą, mój Panie, tylko chcę żyć.<br/>W Tobie przebywać, w Tobie się skryć.<br/>We mnie zamieszkaj Sam Duchem Swym,<br/>Tyś moją siłą, Tyś życiem mym!</lines>
+    </verse>
+  </lyrics>
+</song>

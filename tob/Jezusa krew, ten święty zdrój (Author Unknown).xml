@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:46">
+  <properties>
+    <titles>
+      <title>Jezusa krew, ten święty zdrój</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="322"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezusa krew, ten święty zdrój,<br/>oczyszcza serce me i daje pewność,<br/>iż Pan mój wziął mię za dziecię Swe.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, ta krew, ta droga krew, co ucisza Boży<br/>gniew, strzeże w zwątpień ciemną noc,<br/>tej drogiej krwi cudowna moc.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jedynie Jezusowa krew zwycięża grzechu noc,<br/>do życia wiedzie piekłu wbrew, tej krwi najdroższej moc.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>O, ta krew, ta droga krew, co ucisza Boży<br/>gniew, strzeże w zwątpień ciemną noc,<br/>tej drogiej krwi cudowna moc.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jedynie Jezusowa krew da wejść do raju bram.<br/>Tej krwi wspaniały, czysty zdrój jest twierdzą pewną nam.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>O, ta krew, ta droga krew, co ucisza Boży<br/>gniew, strzeże w zwątpień ciemną noc,<br/>tej drogiej krwi cudowna moc.</lines>
+    </verse>
+  </lyrics>
+</song>

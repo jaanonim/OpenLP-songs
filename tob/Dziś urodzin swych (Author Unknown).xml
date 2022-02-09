@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:54">
+  <properties>
+    <titles>
+      <title>Dziś urodzin swych</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="483"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dziś urodzin swych, bracie, obchodzisz dzień.<br/>Cieszmy się, cieszmy się!<br/>Chcemy się razem z tobą radować zeń,<br/>o, cieszmy się! Pan aż dotąd cię wiódł wierną<br/>ręką Swą, błogosławił wysiłki i pracę twą,<br/>w dniach doświadczeń i smutku On cieszył cię,<br/>dziękuj Mu za to wszystko i raduj się!<br/>Cieszmy się, cieszmy się, że<br/>Pan po dziś dzień zachował cię.<br/>Cieszmy się, cieszmy się, o, cieszmy się!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Teraz wszyscy tu razem życzymy<br/>ci długich lat, długich lat, błogosławieństw<br/>od Boga i zdrowia, i szczęśliwych lat!<br/>Krocz i nadal za Panem i wiernym bądź,<br/>rozpocząłeś bieg dobrze i dobrze skończ,<br/>aż ci Bóg twój koronę zwycięstwa da,<br/>wtedy będzie zupełna już radość twa.<br/>Długich lat, długich lat życzymy ci,<br/>bracie, długich lat, długich lat,<br/>długich lat, szczęśliwych lat!</lines>
+    </verse>
+  </lyrics>
+</song>

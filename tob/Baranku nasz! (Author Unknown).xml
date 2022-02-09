@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:50">
+  <properties>
+    <titles>
+      <title>Baranku nasz!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="596"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Baranku nasz!<br/>Twe rzesze wielbią Ciebie wraz,<br/>Czy w dzień, czy w noc.<br/>W miłości Twej Tyś grzech zwyciężył;<br/>w śmierci Swej. - szatana moc.<br/>Alleluja, alleluja, alleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tyś zbawił nas;<br/>W miłości Twej możemy już<br/>Odpocząć wraz. Gotowi tu<br/>Jak ród kapłański służyć<br/>Ci Po wieczny czas.<br/>Alleluja, alleluja, alleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zwycięstwo już<br/>Jest nasze w dobry lub zły dzień.<br/>Przez Twoją moc.<br/>Twym śladem wzwyż<br/>Za Tobą chcemy iść przez, krzyż<br/>Aż w śmierci noc.<br/>Alleluja, alleluja, alleluja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tęsknimy tu<br/>Za przyjścia Twego sławnym dniem,<br/>O Królu nasz, Gdy z nami wraz<br/>Zniweczysz możnych świata Ty<br/>Po wszystek czas.<br/>Alleluja, alleluja, alleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

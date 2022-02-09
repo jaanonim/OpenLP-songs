@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:09">
+  <properties>
+    <titles>
+      <title>My którzy wszystko liczymy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My którzy wszystko liczymy<br/>Ciebie mamy za darmo<br/>Dajesz nam Siebie w całości<br/>I jesteś taki rozrzutny</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Każdy wschód słońca Ciebie zapowiada<br/>Nie pozwól nam przespać poranka /2x</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dałeś nam Siebie za darmo<br/>Twoja hojność zdumiewa<br/>Naucz nas liczyć dni nasze<br/>Niech człowiek już nie umiera</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ty jesteś pełnią życia<br/>Daj nam Twojego chleba<br/>Daj nam oddychać wiecznością<br/>Twój oddech ożywia i wspiera</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Przyjdź Panie przyjdź nareszcie<br/>Jak przyszedłeś już kiedyś<br/>A co dzień nowy wschód słońca<br/>Niech Ciebie nam zapowiada</lines>
+    </verse>
+  </lyrics>
+</song>

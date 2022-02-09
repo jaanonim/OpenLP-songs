@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:51">
+  <properties>
+    <titles>
+      <title>Toruj Jezu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="620"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Toruj Jezu,<br/>Sam Drogę życia nam!<br/>My, gdy Wodzem Cię ujrzymy,<br/>Siadem Twoim podążymy;<br/>Wskaż do nieba bram Wąską.<br/>ścieżkę nam!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W utrapienia czas,<br/>Panie, wzmacniaj nas!<br/>Kiedy boleść serce targa,<br/>Niech w nim nie powstanie skarga;<br/>Wszak przez krzyż i znój<br/>Tor prowadzi Twój.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy nam własny los<br/>Niesie ciężki cios,<br/>Gdy na widok bratniej doli<br/>Serce w głębi nas zaboli,<br/>Wskaż nam naszych łez<br/>Ostateczny kres!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Życiem naszym rządź,<br/>Jezu, przy nas bądź!<br/>Gdy po cierniach każesz kroczyć,<br/>Racz opieką nas otoczyć,<br/>Po upływie dni<br/>Otwórz niebios drzwi!</lines>
+    </verse>
+  </lyrics>
+</song>

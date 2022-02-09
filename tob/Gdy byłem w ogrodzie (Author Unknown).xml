@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:06">
+  <properties>
+    <titles>
+      <title>Gdy byłem w ogrodzie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="296"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy byłem w ogrodzie raz sam<br/>Krople rosy lśniły na róży,<br/>I w ten cichy czas, wśród porannych kras<br/>Słyszałem ja głos Boży.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tyś własnością mą, szepcze cicho On<br/>Tyś na wieki wieczne jest mój.<br/>Serce w piersi drży od radości mi<br/>Gdy, Zbawco głos słyszę Twój.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy mówi On, słów Jego dźwięk<br/>Jakże słodko brzmi z niebios toni,<br/>A melodii ton, którą dał mi On<br/>Wciąż w sercu moim dzwoni.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, Jezu mój pozwól mi być<br/>Wiecznie z Tobą pośród tej ciszy.<br/>Zawsze do mnie mów,<br/>Niechaj dźwięk Twych słów<br/>Me ucho ciągle słyszy.</lines>
+    </verse>
+  </lyrics>
+</song>

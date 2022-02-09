@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:32">
+  <properties>
+    <titles>
+      <title>Wszyscy, co składają W Panu swe ufanie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="428"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wszyscy, co składają W Panu swe ufanie,<br/>Stali pozostają Zawsze niezachwianie;<br/>Stoją pewnie, jak Syjońskich gór<br/>Niezdobyty mur. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jako Jeruzalem Góry opasały,<br/>Tak Wszechmocny wałem<br/>Lud Swój chroni cały,<br/>Spieszy mu z pomocą w dzień i w noc<br/>/ Ten zwycięski Wódz. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zbawca nie zaniecha Swoich wielbicieli,<br/>Ale się uciecha Skończy gnębicieli;<br/>Ich zamysły, ich podstępny plan<br/>[ Pokrzyżuje Pan. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tym, co są prawego Serca, Pan pomaga,<br/>Zaś przyjaciół złego<br/>W świętym gniewie smaga.<br/>Wiecznie więc dla wiernych będzie sług<br/>/ Pewną twierdzą Bóg. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

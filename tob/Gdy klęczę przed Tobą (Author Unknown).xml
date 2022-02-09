@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:17">
+  <properties>
+    <titles>
+      <title>Gdy klęczę przed Tobą</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="192"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy klęczę przed Tobą<br/>modlę się i składam hołd,<br/>weź ten dzień, uczyń go swym<br/>i we mnie miłość wznieć.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ave Maria gratia plena<br/>Dominus tecum Benedicta Tu // x2 //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wszystko Tobie daję,<br/>każdy sen i każdą myśl.<br/>Matko Boga, Matko moja<br/>wznieś je przed Boga tron.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy klęczę przed Tobą<br/>widzę Twą radosną twarz.<br/>Każda myśl, każde słowo<br/>niech spocznie w dłoniach Twych.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:12">
+  <properties>
+    <titles>
+      <title>Tak Bóg umiłował</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>BÓG TAK UMIŁOWAŁ ŚWIAT<br/>ŻE SYNA SWEGO<br/>JEDNORODZONEGO DAŁ<br/>ABY KAŻDY<br/>KTO W NIEGO WIERZY<br/>NIE ZGINĄŁ<br/>ALE ŻYWOT WIECZNY MIAŁ<br/>O - O - O JEZUS / 3x</lines>
+    </verse>
+    <verse name="v2">
+      <lines>BÓG NIE UMARŁ<br/>NIE ON ŻYJE /3x<br/>DAJ MU RĘCE SWE<br/>DAJ MU STOPY SWE<br/>DAJ MU SERCE SWE<br/>DAJ MU DUSZĘ SWĄ<br/>ON ZAWSZE Z TOBĄ JEST</lines>
+    </verse>
+    <verse name="v3">
+      <lines>MÓJ BÓG WIELKI JEST<br/>TAK MOCNY I SILNY<br/>ŻE MOŻE ON WSZYSTKO UCZYNIĆ /2x<br/>I GÓRY SĄ JEGO<br/>DOLINY SĄ JEGO<br/>I MORZA UCZYNIŁ ON TEŻ<br/>MÓJ BÓG WIELKI JEST<br/>TAK MOCNY I SILNY<br/>ŻE MOŻE ON WSZYSTKO UCZYNIĆ</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:26">
+  <properties>
+    <titles>
+      <title>Pośpiesz, pośpiesz do pokutowania</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="196"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pośpiesz, pośpiesz do pokutowania<br/>Do twojego z Bogiem pojednania!<br/>Nie uspokoiszli Boga,<br/>Wiedz, że na cię<br/>przyjdzie bieda mnoga!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niech to najprzód serce twe obaczy,<br/>że Bóg żądać śmierci twej nie raczy,<br/>Ale pragnie życia twego<br/>I byś godnym był litości Jego.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wierz mi, czas przyjemny jest do tego,<br/>Byś swą duszę skłonił do dobrego,<br/>Bo po śmierci nawrócenia<br/>Nie masz, ani z piekła wybawienia.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zda się tobie, pókiś jest w młodości,<br/>Że używać trzeba ci marności,<br/>Lecz nadzieja cię oszuka,<br/>Gdy do serca nagle śmierć zapuka.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Panie Jezu, racz dla męki Twojej<br/>Przyjąć duszę mą do łaski Swojej!<br/>Tobie grzechy me wyznaję<br/>I statecznym w wierze Ci zostaję.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Racz Swym Duchem serce me sprawować<br/>I w Twym posłuszeństwie je zachować,<br/>Bym nadzieję w doczesności,<br/>A zbawienie potem miał w wieczności</lines>
+    </verse>
+  </lyrics>
+</song>

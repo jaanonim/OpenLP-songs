@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:31">
+  <properties>
+    <titles>
+      <title>Uwierz</title>
+    </titles>
+    <authors>
+      <author type="words">Tomasz Kupka Grażyna Nowakowska</author>
+      <author type="music">Tomasz Kupka Grażyna Nowakowska</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="687"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Uwierz, uwierz Jego Słowom,<br/>Uwierz, uwierz Jego Miłości,<br/>zawierz Ukrzyżowanemu.<br/>(Zmartwychwstałemu)<br/>(Uwielbionemu Panu)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jest taki ból<br/>jakby kwiat płonął w ogniu,<br/>jakby ktoś umierał,<br/>jakby przyszła zima<br/>las zielony stawał się pustynią.<br/>Jest taka wiara pośród zgliszcz,<br/>zieloność traw, promień światła,<br/>pył przemienia się w tęczę,<br/>śpiewa ptak, goją się rany.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ufności nie zabraknie<br/>choćby była samotna.<br/>Świt wciąż będzie świtem<br/>po tysiącu nocach.<br/>Kwiat umiera, lecz rodzi się owoc.<br/>Miłość nie trwa w czasie,<br/>lecz żyje, żyje wiecznością.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kiedy serce jak głaz<br/>z wiary wytryśnie źródło.<br/>Kiedy smutek i lęk,<br/>ufnie podaj Bogu dłoń.<br/>Kiedy wzbiera rzeka trwogi<br/>popłyń w Miłości port.</lines>
+    </verse>
+  </lyrics>
+</song>

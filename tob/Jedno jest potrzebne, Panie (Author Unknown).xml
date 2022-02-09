@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:35">
+  <properties>
+    <titles>
+      <title>Jedno jest potrzebne, Panie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="339"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jedno jest potrzebne, Panie!<br/>Daj mi rychło poznać je!<br/>Wszystkie sprawy świata tego<br/>Ciężkim jarzmem stają się,<br/>Pod którym się serce daremnie frasuje<br/>I zamiast radości ból sobie gotuje.<br/>To jedno gdy zyskam, zachowam je rad,<br/>To jedno zastąpi mi cały ten świat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeśli chcesz je znaleźć, duszo,<br/>To nie tam, gdzie ziemska śniedź.<br/>Niech marności cię nie kuszą,<br/>Ponad ziemskie sfery wzleć!<br/>Gdzie z Bogiem się<br/>ludzkość po wieki jednoczy<br/>I gdzie doskonałość<br/>olśniewa nam oczy;<br/>Tam cząstka najlepsza,<br/>jedyny skarb mój,<br/>Me jedno, me wszystko,<br/>zbawienia tam zdrój.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z czym przed Bogiem się ostoję?<br/>Tylko z Tobą, skarbie mój!<br/>I jedynie przez krew Twoją<br/>Mogę wziąć zbawienia strój.<br/>Tyś Sam wykupienie<br/>zgotował mi, Panie,<br/>Gdyś życie na krzyżu<br/>Swe położył za mnie;<br/>Tam szatę zbawienia<br/>zdobyłeś Ty mi,<br/>Dla której ma wiara<br/>na wieki się lśni.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Daj, by dusza moja cała<br/>Mogła na Twój obraz żyć,<br/>Ciebie Panem swym obrała;<br/>Poświęceniem racz jej być!<br/>A czego do życia Boskiego potrzeba,<br/>Jest w Tobie, mój Zbawco,<br/>tu dane mi z nieba.<br/>Ty zerwij me więzy,<br/>uwolnić mnie chciej<br/>I życie Twe, Jezu,<br/>do serca mi wlej!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Więc Ty, Jezu mój jedyny,<br/>Zechciej wszystkim dla mnie być;<br/>Doświadcz myśli, osądź czyny,<br/>Nie daj mi w obłudzie żyć.<br/>Patrz, czyli po błędnych<br/>manowcach nie kroczę;<br/>Niech nigdy z dróg Twoich<br/>zbawiennych nie zboczę;<br/>Bym nie dbał o życie,<br/>ni śmierci się bał,<br/>Lecz zyskał Jezusa<br/>- niezbędny skarb.</lines>
+    </verse>
+  </lyrics>
+</song>

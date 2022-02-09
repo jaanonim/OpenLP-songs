@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:37">
+  <properties>
+    <titles>
+      <title>Gdy się życia srożą burze</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="379"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy się życia srożą burze,<br/>Gdy i mocni chwieją się,<br/>Ufnie wznoszę wzrok ku górze,<br/>Wiem, że Ojciec trzyma mię.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>On zakryje Swoje dziecię,<br/>Że mię burz nie strwoży toń,<br/>On ochroni Swoje dziecię,<br/>Gdy mię pod Swą skryje dłoń</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy przygniotą mię cierpienia,<br/>Jego w nich tu poznać śmiem;<br/>One wiodą do zbawienia<br/>I do Niego zbliżą mię.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy mię pokus rój otoczy,<br/>A przeciwnik grozi mi,<br/>To do Pana wzniosę oczy,<br/>Zeń mi nowa siła lśni.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Niechaj więc się burza sroży,<br/>Choć wokoło ciemna noc,<br/>Moja dusza się nie trwoży;<br/>Patrzę na Jezusa moc.</lines>
+    </verse>
+  </lyrics>
+</song>

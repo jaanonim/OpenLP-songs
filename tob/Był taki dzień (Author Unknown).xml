@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:05">
+  <properties>
+    <titles>
+      <title>Był taki dzień</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="237"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Był taki dzień w mym życiu,<br/>Że Jezus przy mnie stanął<br/>I zrozumiałem, że On kocha mnie!<br/>Więc z całej mojej duszy,<br/>Ze wszystkich sił i myśli<br/>Chcę mocniej kochać Zbawcę<br/>Z dnia na dzień.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chcę mocniej kochać Zbawcę<br/>Z dnia na dzień.<br/>Miłością przezwyciężać to, co złe.<br/>Choć zdaję sobie sprawę,<br/>Że siły me są słabe,<br/>Chcę mocniej kochać Zbawcę<br/>Z dnia na dzień.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Codziennie wciąż na nowo<br/>Odkrywam miłość Bożą!<br/>I widzę jak mnie chroni Jego dłoń!<br/>Więc z całej mojej duszy,<br/>Ze wszystkich sił i myśli<br/>Chcę mocniej kochać Zbawcę<br/>Z dnia na dzień.</lines>
+    </verse>
+  </lyrics>
+</song>

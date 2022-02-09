@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:56">
+  <properties>
+    <titles>
+      <title>Jak jestem szczęśliwy w Jezusie!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="747"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak jestem szczęśliwy w Jezusie!<br/>Obmyła mój grzech Jego krew.<br/>I z serca pełnego radości<br/>Rozbrzmiewa dziękczynny mój śpiew.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jak jestem szczęśliwy w Jezusie,<br/>Od grzechów już wolny i win,<br/>Jak jestem szczęśliwy<br/>bo przecież Sam Boży<br/>ukochał mię Syn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jak jestem szczęśliwy w Jezusie!<br/>U stóp Jego spocząć już śmiem.<br/>Umacnia mię moc Jego łaski,<br/>Zaufać zupełnie Mu chcę.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jak jestem szczęśliwy w Jezusie!<br/>Otoczył pokojem mię Swym.<br/>Jak cudnie zaś będzie tam w niebie,<br/>Gdy wiecznie zostanę już z Nim.</lines>
+    </verse>
+  </lyrics>
+</song>

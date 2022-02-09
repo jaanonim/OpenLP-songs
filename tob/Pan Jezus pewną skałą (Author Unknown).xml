@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:33">
+  <properties>
+    <titles>
+      <title>Pan Jezus pewną skałą</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="409"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pan Jezus pewną skałą,<br/>Nic nie poruszy jej;<br/>Ostoją doskonałą,<br/>Moc życia płynie z niej.<br/>On daje w każdym boju<br/>Do zwycięstw mocną broń;<br/>Wśród trudów, niepokoju<br/>W Nim lśni pokoju toń.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W Nim mamy swe schronienie<br/>W ucisku, w wichrze burz,<br/>W Nim dla nas odpocznienie<br/>I moc dla naszych dusz.<br/>Zdrój łaski z Niego tryska,<br/>Nie trzeba nam się bać,<br/>Gdyż Pana moc jest bliska,<br/>Pozwala pewnie stać.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Obfitość z Niego spływa<br/>Spragnionym, głodnym wszem,<br/>Lecz wiarą się zdobywa<br/>Zupełność życia w Nim.<br/>A gdy nas Pan powoła<br/>W ojczyznę, pełną kras,<br/>Któż to opisać zdoła,<br/>Co tam otoczy nas!</lines>
+    </verse>
+  </lyrics>
+</song>

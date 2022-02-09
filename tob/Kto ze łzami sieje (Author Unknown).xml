@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:47">
+  <properties>
+    <titles>
+      <title>Kto ze łzami sieje</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="347"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kto ze łzami sieje Bożych słów nasienie,<br/>Temu Pan nagrodę w swym królestwie da;<br/>Tu mu daje siłę, by mógł znieść cierpienie,<br/>O, nie nadaremną będzie siejba ta.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/Radość będzie żąć,Radość będzie żąć<br/>Kto ze łzami sieje, radość będzie żąć!/x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Z rana siej nasienie prawdy i miłości,<br/>A nie odpoczywaj, choć dokucza żar.<br/>Pracuj do wieczora, w smutku, czy w przykrości,<br/>Użyj każdą chwilę, którą Bóg ci dał.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>/Radość będzie żąć,Radość będzie żąć<br/>Kto ze łzami sieje, radość będzie żąć!/x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z wiarą i ufnością dobre siej nasienie<br/>W ciernie i przy drodze, i na szczytach skał,<br/>Ono sobie znajdzie urodzajną ziemię<br/>I korzyści wielkie będziesz z niego miał.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>/Radość będzie żąć,Radość będzie żąć<br/>Kto ze łzami sieje, radość będzie żąć!/x2</lines>
+    </verse>
+  </lyrics>
+</song>

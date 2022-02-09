@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:18">
+  <properties>
+    <titles>
+      <title>Jak mam powitać Ciebie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="28"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak mam powitać Ciebie<br/>I jak Cię przyjąć mam,<br/>Odwieczny Królu w niebie,<br/>Coś do mnie przybył Sam?<br/>Bądź Sam, o Jezu, Panie,<br/>Pochodnią moich nóg,<br/>Bym Ci na powitanie<br/>Dziś radość sprawić mógł!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zielone Tobie palmy<br/>Na drogę Syjon słał<br/>- Ja zaś Ci śpiewam psalmy<br/>I wdzięczne pieśni chwał.<br/>Me serce nieustannie<br/>Natchnionym pieniem, brzmi;<br/>Na Twoją służbę, Panie,<br/>Poświęcę wszystkie dni.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Leżałem skrępowany,<br/>A Tyś mi wolność dał;<br/>Gdym hańbą był odziany,<br/>Tyś szatę chwały wdział.<br/>Sam nędzę mą przykryłeś<br/>I wywyższyłeś tak,<br/>Że mi na dziękowanie<br/>I słów i pieśni brak.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I cóż Cię zniewoliło,<br/>Żeś do mnie z nieba zszedł?<br/>Kochanie Cię skłoniło,<br/>Że ziemię, pełną bied,<br/>Cierpieniem napełnioną,<br/>Ciernistych pełną dróg,<br/>Potokiem łez zroszoną,<br/>Wybawiasz z śmierci rąk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Warn troszczyć się nie trzeba,<br/>Ni silić w dzień i w noc,<br/>Jak dostać się do nieba<br/>Przez własną swoją moc.<br/>Pan niebo wam przynosi,<br/>Sam doń zaprasza was,<br/>Rok miłościwy głosi,<br/>Pociesza w każdy czas.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Te słowa, smutna rzeszo,<br/>Głęboko w serce wpisz,<br/>Bo one cię pocieszą,<br/>Gdy ciężki dojmie krzyż!<br/>Więc porzuć swe starania!<br/>Zbawiciel już u drzwi;<br/>On wejdzie niespodzianie,<br/>Obetrze twoje łzy.</lines>
+    </verse>
+  </lyrics>
+</song>

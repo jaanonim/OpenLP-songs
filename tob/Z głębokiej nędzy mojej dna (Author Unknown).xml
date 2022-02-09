@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:39">
+  <properties>
+    <titles>
+      <title>Z głębokiej nędzy mojej dna</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="429"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z głębokiej nędzy mojej dna<br/>Do Ciebie wołam, Panie!<br/>Niech nieprzebrana łaska Twa<br/>Usłyszy me błaganie.<br/>Bo jeśli każdy ludzki błąd<br/>Pod sprawiedliwy weźmiesz sąd,<br/>Któż wtedy się ostoi?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, tylko jedna łaska Twa<br/>Me grzechy zgładzić może,<br/>A na nic ludzka moc się zda<br/>- Wyznaję to w pokorze.<br/>Bo czym się człowiek chlubić chce?<br/>Niech tylko Ciebie boi się<br/>I łaski Twojej błaga.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na litość Twą się całkiem zdam,<br/>Nie liczę na swe czyny;<br/>Nadzieję w Tobie tylko mam,<br/>Że mi odpuścisz winy.<br/>To mi przyrzeka słowo Twe<br/>- Pociecha moja, światło me,<br/>Otucha moja cała.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A choćbym w trosce spędzać miał<br/>Noc całą aż do rana,<br/>W ufności jednak będę trwał,<br/>Że pomoc mam u Pana.<br/>Tak, prawy Izraelu, bądź<br/>Odrodzeń z Ducha, Nim się rządź<br/>I ufaj Bogu stale.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Choć nas przytłacza ogrom win,<br/>Możniejsza łaska Boska;<br/>Choć grzeszny każdy ludzki czyn,<br/>Lecz Bóg się o nas troska.<br/>On, Pasterz dobry, owce Swe<br/>Wybawić i odkupić chce<br/>Od wszelkich nieprawości.</lines>
+    </verse>
+  </lyrics>
+</song>

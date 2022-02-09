@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:14">
+  <properties>
+    <titles>
+      <title>Tyś jest Najświętszy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="245"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tyś jest Najświętszy (2X)<br/>Tyś jest Najświętszy nasz Bóg!<br/>Stworzenie Cię wielbi,<br/>Święci Cię chwalą.<br/>Tyś jest Najświętszy nasz Bóg!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tyś jest Najwyższy (x2)<br/>Tyś jest Najwyższy nasz Bóg!<br/>Stworzenie Cię wielbi,<br/>Święci Cię chwalą.<br/>Tyś jest Najwyższy nasz Bóg!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tyś jest cudowny (x2)<br/>Tyś jest cudowny nasz Bóg!<br/>Stworzenie Cię wielbi,<br/>Święci Cię chwalą.<br/>Tyś jest cudowny nasz Bóg!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tyś jest potężny (x2)<br/>Tyś jest potężny nasz Bóg!<br/>Stworzenie Cię wielbi,<br/>Święci Cię chwalą.<br/>Tyś jest potężny nasz Bóg!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:55">
+  <properties>
+    <titles>
+      <title>Owiec zgubionych Pasterz wciąż szuka</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="714"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Owiec zgubionych<br/>Pasterz wciąż szuka,<br/>Chodzi po górach<br/>Tak w dzień jak w noc;<br/>/ Przychodźcie do Mnie,<br/>Wszystkich On woła,<br/>Dokąd słyszycie jeszcze<br/>Mój głos. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Śmiało On idzie<br/>Pomiędzy góry,<br/>Zgubioną owcę<br/>Prowadzi już.<br/>/ A aniołowie<br/>Śpiewają chórem,<br/>Wielbią Jezusa<br/>Z całych swych dusz /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szukajcie grzesznych<br/>W ciemnościach świata,<br/>Którzy upadli<br/>W grzechy i kłam;<br/>/ Ukażcie im<br/>Drogę zbawienia,<br/>Która prowadzi<br/>Do niebios bram /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tak, i ja pójdę<br/>Drogą Jezusa,<br/>By dawać pomoc tym,<br/>Kto jej chce.<br/>/ Biednych i grzesznych,<br/>Smutnych i chorych<br/>Będę pocieszał,<br/>Ich serce mdłe. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

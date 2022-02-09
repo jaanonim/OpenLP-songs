@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:40">
+  <properties>
+    <titles>
+      <title>Kiedy chmury ciemne cię zatrwożą</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="204"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kiedy chmury ciemne cię zatrwożą,<br/>powiedz to Zbawcy, powiedz to Zbawcy,<br/>gdy zasłonią tobie miłość Bożą,<br/>wszystko to Zbawcy wnet mów!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Powiedz to Zbawcy, powiedz to Zbawcy!<br/>On Przyjacielem jest twym,<br/>gdy twe serce nagle coś zatrwoży,<br/>wszystko to Zbawcy wnet mów!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy twym sercem pragnie wróg zawładnąć,<br/>powiedz to Zbawcy, powiedz to Zbawcy,<br/>kiedy siły twoje zaczną słabnąć,<br/>wszystko to Zbawcy wnet mów!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Powiedz to Zbawcy, powiedz to Zbawcy!<br/>On Przyjacielem jest twym,<br/>gdy twe serce nagle coś zatrwoży,<br/>wszystko to Zbawcy wnet mów!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy w twym sercu czasem smutek gości,<br/>powiedz to Zbawcy, powiedz to Zbawcy,<br/>lub gdy znowu pełne jest radości,<br/>wszystko to Zbawcy wnet mów.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Powiedz to Zbawcy, powiedz to Zbawcy!<br/>On Przyjacielem jest twym,<br/>gdy twe serce nagle coś zatrwoży,<br/>wszystko to Zbawcy wnet mów!</lines>
+    </verse>
+  </lyrics>
+</song>

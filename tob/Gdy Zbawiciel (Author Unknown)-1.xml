@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:51">
+  <properties>
+    <titles>
+      <title>Gdy Zbawiciel</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="624"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy Zbawiciel, gdy Zbawiciel<br/>przyjdzie jako Król<br/>I zgromadzi, wszystkich wiernych<br/>wśród niebieskich pól,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wtedy będą jak gwiazdy<br/>w promieniach się lśnić,<br/>Jak kosztowne kamienie<br/>swym blaskiem Go czcić.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On zgromadzi, On zgromadzi<br/>cały święty zbór;<br/>Wszystkie dusze,<br/>co wstępują w krwawy Jego tor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Także dziatki, małe dziatki<br/>mieć u Siebie chce,<br/>Co Mu szczerze i z ochotą<br/>dają serca swe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Więc wy mali, wy dorośli,<br/>Jezus woła was,<br/>On was zbawi, uszczęśliwi;<br/>chodźcie, póki czas!<br/>Tam będziemy jak gwiazdy<br/>w promieniach się lśnić,<br/>Jak kosztowne kamienie<br/>swym blaskiem Go czcić,</lines>
+    </verse>
+  </lyrics>
+</song>

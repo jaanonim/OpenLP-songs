@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:26">
+  <properties>
+    <titles>
+      <title>Chcę do Jezusa mego</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="436"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chcę do Jezusa mego<br/>Podobnym zawsze być,<br/>Chcę o Nim śpiewać wszędzie,<br/>Dopóki będę żyć.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On przyszedł, by nas zbawić,<br/>Na śmierć oddając się.<br/>Chcę chętnie o tym świadczyć,<br/>Jak On wybawił mnie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chcę tak być wiernym Jemu,<br/>Jak On jest w Słowie Swym,<br/>Niech wie ten świat, że Jezus<br/>JEst ideałem mym.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Chcę być czystego serca,<br/>By Pana ujrzeć tam,<br/>Gdzie On i dla mnie miejsce<br/>Zgotować poszedł Sam.</lines>
+    </verse>
+  </lyrics>
+</song>

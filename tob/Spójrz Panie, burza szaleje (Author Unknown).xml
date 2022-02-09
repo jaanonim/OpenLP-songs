@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:39">
+  <properties>
+    <titles>
+      <title>Spójrz Panie, burza szaleje</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="418"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Spójrz Panie, burza szaleje<br/>I wicher wokoło dmie,<br/>Nadziei promień ciemnieje,<br/>Ciemności nam grożą złe.<br/>Lecz Swą prawicę wznieś, Panie,<br/>A wicher nie będzie wiał;<br/>Kiedy pośród nas postać Twa stanie,<br/>Wnet burzy zamilknie szał.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gdy wichry i burze usłyszą<br/>Twój głos: Ucisz się!<br/>Fale uciszysz wzburzone<br/>I serce ukoisz strwożone,<br/>Tyś niebios i ziemi jest Królem Sam<br/>I w łasce Swej nie dasz zaginąć nam!<br/>Usłyszą wichry i burze Twój głos:<br/>Ucisz się, ucisz się!<br/>Usłyszą wichry i burze Twój głos:<br/>Umilknij już!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wśród burzy pokus, nasz Boże,<br/>Tyś pewnym ratunkiem nam.<br/>Gdyś z nami, wtedy nie zmoże<br/>Nas grzech, ni piekielny kłam.<br/>Choć fale w tym świecie dążą,<br/>By zgubić nas w nurtach swych,<br/>Jednak mocnej Twej dłoni nie zwiążą,<br/>Ni ramion nie zmogą Twych.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy wzrok nasz i serce całe<br/>Do Ciebie skierujem już,<br/>Znajdziem odpocznienie stałe<br/>Na piersi Twej w pośród burz.<br/>Tam pokój serce owładnie<br/>I nic nie zaszkodzi nam,<br/>Wszelki z duszy już smutek, żal spadnie,<br/>Strach wszelki zaniknie tam.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:41">
+  <properties>
+    <titles>
+      <title>Gdy pokój niebieski</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="228"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy pokój niebieski Bóg w duszę mi tchnie,<br/>choć burzy zagraża mi szał,<br/>to jednak we wierze pieśń chwały Mu śle:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>„Błogo mi w Panu mam wieczny dział".<br/>Błogo mi, błogo mi, błogo mi,<br/>w Panu mam wieczny dział!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy trwogą śmiertelną przejmuje mię wróg<br/>i grozi mi wciąż jego strzał, to świeci mi gwiazda:<br/>„Pan wroga już zmógł w Swej krwi świetne zwycięstwo mi dał".</lines>
+    </verse>
+    <verse name="c2">
+      <lines>„Błogo mi w Panu mam wieczny dział".<br/>Błogo mi, błogo mi, błogo mi,<br/>w Panu mam wieczny dział!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Baranek już zgładził grzechowy mój dług,<br/>gdy za mnie przekleństwem się stał;<br/>i za mnie na krzyżu wśród krwawych zmarł strug,<br/>moja duszo, nie żałuj Mu chwał.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>„Błogo mi w Panu mam wieczny dział".<br/>Błogo mi, błogo mi, błogo mi,<br/>w Panu mam wieczny dział!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nikt więcej z Chrystusa nie wyrwie mię rąk,<br/>jak gwiazda On będzie mi lśnił,<br/>ja będę wesele i pokój od mąk<br/>i cną radość na wieki w Nim miał.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>„Błogo mi w Panu mam wieczny dział".<br/>Błogo mi, błogo mi, błogo mi,<br/>w Panu mam wieczny dział!</lines>
+    </verse>
+  </lyrics>
+</song>

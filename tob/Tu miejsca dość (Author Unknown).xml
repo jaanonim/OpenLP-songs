@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:35">
+  <properties>
+    <titles>
+      <title>Tu miejsca dość</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="118"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu miejsca dość!<br/>Nie pełny jeszcze dom, nie obsadzony stół!<br/>Otwarte drzwi, spraszajcie nędznyth tłum,<br/>spraszajcie z miast i siół!<br/>Zbierajcie chromych, opuszczonych,<br/>brzmieniem grzechu obciążonych,<br/>tu miejsca dość! Tu miejsca dość!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jest jeszcze czas!<br/>Radosna jeszcze wieść pod twój dobiega dach:<br/>O, wstań, o, wstań i śpiesz swe życie nieść,<br/>w ten ratunkowy gmach!<br/>Boć jeszcze nie zamknięte wrota,<br/>nie minął jeszcze czas żywota,<br/>jest jeszcze czas! Jest jeszcze czas!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Najwyższy czas!<br/>Godziny prędko mkną, już północ bije z wież,<br/>a z tamtych stron weselne blaski lśnią,<br/>drużyno, lampy bierz!<br/>Już oblubieńca widać z dali,<br/>niech każda lampy swe zapali.<br/>Najwyższy czas! Najwyższy czas!</lines>
+    </verse>
+  </lyrics>
+</song>

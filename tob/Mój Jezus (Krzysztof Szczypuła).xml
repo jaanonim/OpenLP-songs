@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:23">
+  <properties>
+    <titles>
+      <title>Mój Jezus</title>
+    </titles>
+    <authors>
+      <author type="words">Krzysztof Szczypuła</author>
+      <author type="music">Krzysztof Szczypuła</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="391"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Mój Jezus Królem królów jest,<br/>Mój Jezus władać będzie wciąż.<br/>Królestwo Jego wiecznie trwa,<br/>On zbawił duszę mą i teraz<br/>we mnie mieszka już. // x2 //</lines>
+    </verse>
+    <verse name="v1">
+      <lines>On dał mi całkiem nowe życie,<br/>uczynił mnie dzieckiem światłości<br/>Dziedzictwem swym obdarzył mnie,<br/>bo umiłował mnie mój Ojciec Bóg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On wziął na siebie moje winy,<br/>On wyrwał mnie z królestwa ciemności,<br/>Choroby wszystkie wziął na siebie<br/>i już nie muszę się niczego bać.</lines>
+    </verse>
+  </lyrics>
+</song>

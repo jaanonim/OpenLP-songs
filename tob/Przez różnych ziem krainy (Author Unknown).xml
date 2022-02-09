@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:22">
+  <properties>
+    <titles>
+      <title>Przez różnych ziem krainy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="118"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przez różnych ziem krainy<br/>Prowadził mnie już Bóg,<br/>Nie jednem górskie szczyty<br/>Oglądać w krasie mógł,<br/>Lecz ponad wszystkie góry,<br/>W pokorze stwierdzić chcę,<br/>Ja cenię nade wszystko<br/>Golgoty wzgórek ten.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie wznosi się w obłoki<br/>Ponury jego szczyt,<br/>Nie zdobią go uroki<br/>Zórz pięknych w ranny świt,<br/>Lecz ziemi tak daleki<br/>Nie byłem w duszy mej,<br/>A niebu znów tak bliski,<br/>Jak na Golgocie tej.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tam setnik bił się w piersi,<br/>Wyznając grzechy swe;<br/>Tam łotra w bólach śmierci<br/>Do raju Jezus zwie,-<br/>Tam chór aniołów będzie<br/>Na harfach zawsze grał;<br/>Hymn o Golgocie wzgórzu<br/>Na wieki będzie brzmiał.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tam wędruj, mój pielgrzymie,<br/>Tam znajdziesz pokój swój;<br/>Tam, u stóp Zbawiciela<br/>Złóż brzemię grzechów, znój,<br/>A potem świadcz i śpiewaj,<br/>Jak błogo było tam!<br/>Wszak droga przez Golgotę<br/>Do niebios wiedzie bram.</lines>
+    </verse>
+  </lyrics>
+</song>

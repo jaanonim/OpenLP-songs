@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:18">
+  <properties>
+    <titles>
+      <title>Pan Zastępów godzien chwały</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="20"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pan Zastępów godzien chwały,<br/>Tylko w Nim nasz żywot cały,<br/>Nasze szczęście i nasz gród.<br/>Niech Mu chwały zabrzmią psalmy,<br/>Że zwycięstwa da nam palmy<br/>I do wiecznych wzywa wód.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wsze stworzenie, pójdź i śpiewaj,<br/>Jego chwały woń rozsiewaj,<br/>Bo jest godzien czci nasz Bóg!<br/>Jemu niech przez całe życie<br/>Strumień wdzięcznych pień obficie<br/>Płynie, aż w wieczności próg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Choć się nieraz burze wzmogą,<br/>Jednak tego nie przemogą,<br/>Kto w Nim ma ufności grunt.<br/>On zwycięzcą w każdym boju,<br/>W Nim kres nędzy, łez i znoju,<br/>Aż nas z Sobą weźmie stąd.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Choćby góry się wzruszyły<br/>I pagórki poruszyły,<br/>Cały świat by w gruzach legł<br/>- Nam nic jednak nie zaszkodzi,<br/>Gdy nas Jego dłoń. prowadzi;<br/>Z nami jest przedwieczny Bóg.</lines>
+    </verse>
+  </lyrics>
+</song>

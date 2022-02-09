@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:35">
+  <properties>
+    <titles>
+      <title>Bóg dał mi życie nowe</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="35"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bóg dał mi życie nowe,<br/>Przemienił, przekształtował,<br/>Dziś w Jego łasce wiernie trwam.<br/>Miłością doskonałą ogarnął duszę całą<br/>Dziś w Jego łasce wiernie trwam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dlatego śpiewam Mu,<br/>Po wszystkie moje dni.<br/>Dziękować chcę<br/>Za wszystko co mi dał.<br/>Radości granic nie ma,<br/>Gdy Pan mnie rozpromienia,<br/>Dziś w Jego łasce wiernie trwam.</lines>
+    </verse>
+  </lyrics>
+</song>

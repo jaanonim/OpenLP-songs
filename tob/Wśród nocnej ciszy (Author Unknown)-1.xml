@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:13">
+  <properties>
+    <titles>
+      <title>Wśród nocnej ciszy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wśród nocnej ciszy głos się rozchodzi:<br/>Wstańcie, pasterze - Bóg się wam rodzi!<br/>Czem prędzej się wybierajcie,<br/>Do Betlejem pospieszajcie<br/>Przywitać Pana.<br/>Przywitać Pana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Poszli, znaleźli Dzieciątko w żłobie,<br/>Z wszystkimi znaki danymi sobie.<br/>Jako Bogu cześć Mu dali,<br/>A witając zawołali,<br/>Z wielkiej radości.<br/>Z wielkiej radości.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ach, witaj Zbawco, z dawna żądany!<br/>Tyle tysięcy lat wyglądany;<br/>Na Ciebie króle, prorocy<br/>Czekali, a Tyś tej nocy<br/>Nam się objawił.<br/>Nam się objawił.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I my czekamy na Ciebie, Pana,<br/>A skoro przyjdziesz na głos kapłana,<br/>Padniemy na twarz przed Tobą,<br/>Wierząc, żeś jest pod osobą<br/>Chleba i wina.<br/>Chleba i wina.</lines>
+    </verse>
+  </lyrics>
+</song>

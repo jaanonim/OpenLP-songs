@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:48">
+  <properties>
+    <titles>
+      <title>Jam stęskniony</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="367"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jam stęskniony, jam stęskniony,<br/>o mój Jezu uwielbiony, ujrzeć Cię,<br/>bo mym pragnieniem spocząć<br/>pod Twych skrzydeł cieniem<br/>//  I przed tronem Twoim stać // .</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Światło drogie, światło drogie,<br/>co rozpraszasz chmury wrogie!<br/>Kiedyż, kiedyż z wybranymi<br/>przed Twój tron dopuszczonymi<br/>// Ujrzę lica Twego blask // .</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hymn wspaniały, hymn wspaniały<br/>wznosi chór aniołów cały.<br/>Ach! gdzież skrzydła do polotu,<br/>bym od ziemskich nędz, kłopotów<br/>// Wzniósł się do Syjonu wzgórz! //</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, błogości, o, błogości!<br/>W niebie pielgrzym gdy zagości,<br/>w złotym grodzie, o, mój Panie,<br/>tego pojąć jam nie w stanie<br/>// Jaka błogość będzie tam // .</lines>
+    </verse>
+  </lyrics>
+</song>

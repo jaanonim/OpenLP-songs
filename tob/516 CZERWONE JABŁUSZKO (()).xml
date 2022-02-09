@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:54">
+  <properties>
+    <titles>
+      <title>516 CZERWONE JABŁUSZKO</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czerwone jabłuszko przekrojone na krzyż,<br/>Czemu ty, dziewczyno, krzywo na mnie patrzysz?</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Gęsi za wodą, kaczki za wodą,<br/>Uciekaj, dziewczyno, bo cię pobodą!<br/>Ja ci buzi dam, ty mi buzi dasz,<br/>Ja cię nie wydam, ty mnie nie wydasz!<br/>Mazurek, mazureczek, <br/>oberek, obereczek, <br/>kujawiak, kujawiaczek,<br/>Chodźże Maryś, chodźże, chodź, chodź!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Czerwone jabłuszko po ziemi się toczy,<br/>Tego chłopca kocham, co ma czarne oczy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Żebym ja wiedziała, żeś ty chłopak stały<br/>To by moje oczka za tobą patrzały.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Tam, gdzie woda czysta, tam koniki piją,<br/>Gdzie ładne dziewuchy, tam się chłopcy biją.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Nie bijta się chłopcy, na Boga Świętego,<br/>Nie wyjdę za wszystkich, tylko za jednego.</lines>
+    </verse>
+  </lyrics>
+</song>

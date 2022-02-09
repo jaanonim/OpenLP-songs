@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:30">
+  <properties>
+    <titles>
+      <title>Ucisz mnie Panie, to prośbą jest mą</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="288"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ucisz mnie Panie, to prośbą jest mą,<br/>W ciszy poznawać chcę prawdę Twą;<br/>Ucisz, gdy słuchać Twej mowy mam,<br/>Ucisz, bym z Tobą mógł być sam na sam!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, ucisz mnie, zupełnie ścisz,<br/>I do mnie, Zbawco mój, się zbliż,<br/>Na wieczność przygotować chciej<br/>Mnie w świętej społeczności Twej!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uczyń mnie cichym, gdy ciężar mi dasz,<br/>Cichym w tej wierze: Ty trud mój znasz!<br/>Cichym, bym mógł się na moc Twą zdać,<br/>Cicho w miłości, co strzeże mię, stać.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Naucz mnie w ciszy,<br/>gdy czekać mam, trwać.<br/>W ciszy bojować, pracować, stać,<br/>W ciszy ból innych i szczęście znieść,<br/>Bym pomoc bliźnim gotowy był nieść.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ścisz mą istotę, zupełnie ścisz mię,<br/>Niech to, co Ty chcesz, ze serca chcę,<br/>Abyś Ty wielkim, ja małym był,<br/>Byś mi był wszystkim, bym w Tobie ja żył.</lines>
+    </verse>
+  </lyrics>
+</song>

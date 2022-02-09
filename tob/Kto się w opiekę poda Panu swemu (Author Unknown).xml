@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:37">
+  <properties>
+    <titles>
+      <title>Kto się w opiekę poda Panu swemu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="389"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kto się w opiekę poda Panu swemu,<br/>A całym sercem stale ufa Jemu,<br/>Śmiele rzec może: Mam obrońcę Boga,<br/>Nie przyjdzie na mnie<br/>/ żadna straszna trwoga. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ciebie z zasadzek łowczych On wybawi<br/>I w zaraźliwym powietrzu zastawi,<br/>W cieniu Swych skrzydeł<br/>zachowa cię wiecznie<br/>Pod Jego pióry<br/>/ odpoczniesz bezpiecznie. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Stateczność Jego tarcz i puklerz mocny,<br/>Za którym stojąc,<br/>Na strach żaden nocny,<br/>Na żadną trwogę,<br/>Ani dbaj na strzały,<br/>Którymi miota<br/>/ przygoda w dzień biały, /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Stąd koło ciebie tysiąc głów polęże,<br/>Stąd drugi tysiąc, ciebie nie dosięże<br/>Miecz nieuchronny, a ty sam swoimi<br/>Oczyma ujrzysz<br/>/ pomstę nad grzesznymi. /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Iżeś rzekł Panu:<br/>Tyś nadzieją moją<br/>- Iż Bóg najwyższy jest ucieczką twoją,<br/>Nie dotknie ciebie żadna zła przygoda,<br/>Ani się znajdzie<br/>/ w domu twoim szkoda. /x2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Aniołom Swoim każe cię pilnować,<br/>Gdziekolwiek stąpisz, którzy cię piastować<br/>Na rękach będą, abyś, idąc drogą,<br/>Na ostry kamień<br/>/ nie ugodził nogą. /x2</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Słuchaj, co mówi Pan:<br/>Kto Mię miłuje,<br/>A z wolą Moją zgodnie postępuje,<br/>I Ja go także w każdą jego trwogę<br/>Tu nie zapomnę,<br/>/ owszem go wspomogę, /x2</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Glos jego u Mnie nie będzie wzgardzony,<br/>Ja z nim w przygodzie, ode Mnie obrony<br/>On pewien będzie, pewien i zacności<br/>I lat sędziwych<br/>/ I Mej życzliwości. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

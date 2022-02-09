@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:55">
+  <properties>
+    <titles>
+      <title>Dziateczki, dziateczki</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="493"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dziateczki, dziateczki, o, śpieszcie się wraz!<br/>Do żłóbka w Betlejem Bóg woła dziś was,<br/>i z nieba zwiastuje radosną wieść wam,<br/>Syn Boży, Zbawiciel, narodził się tam!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W maleńkim Dzieciątku objawił się Bóg,<br/>w Betlejem przestąpił On dziś świata próg,<br/>więc świeci światłością niebiańską gwiazd zbiór,<br/>i, klęcząc, pasterzy wysławia Go chór.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I wam ta choinka przynosi tę wieść,<br/>i wasze też winny rączęta się spleść,<br/>i wraz z pasterzami kolana się zgiąć,<br/>i w pieniu aniołów dziś udział też wziąć.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, miłe Dzieciątko, Bóg z Boga, Bóg Syn,<br/>coś cierpiał za grzechy ludzkości, bez win!<br/>Do Ciebie dziękczynny zasyłam ten hymn,<br/>o, proszę, w ofierze serduszko me przyjm!</lines>
+    </verse>
+  </lyrics>
+</song>

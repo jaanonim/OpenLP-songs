@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:52">
+  <properties>
+    <titles>
+      <title>Mędrcy świata</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="420"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mędrcy świata, monarchowie,<br/>dokąd się śpieszycie?<br/>Jakież cuda wam opowie<br/>Betlejemskie Dziecię?<br/>// Ono w żłobie nie ma tronu,<br/>ani władzy świata,<br/>który pragnąc Jego zgonu,<br/>cierniem skroń Mu splata. //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mędrcy świata, złość okrutna<br/>Dziecię prześladuje,<br/>wieść okropna, wieść to smutna,<br/>Herod zdradę knuje.<br/>// Sprawa Boża potępiana,<br/>wierni ucisk mają;<br/>jeszcze dziś Chrystusa Pana<br/>na krzyż przybijają. //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Czyż was to nic nie odstrasza?<br/>Czy się nie wrócicie?<br/>Nie daremnaż wiara wasza<br/>w to mizerne Dziecię?<br/>// O, mądrości niezbadana,<br/>błoga ócz jasności,<br/>która widzieć niebios Pana<br/>może w tej słabości! //</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Choć w pieluszkach owinięty,<br/>wielkie czyni cudy,<br/>chwała Jego ponad trony,<br/>olśni wszystkie ludy;<br/>// Mędrcy świata, wznieście oko,<br/>idą już narody.<br/>Z dary swymi, z czcią głęboką,<br/>zażyć cnej ochłody! //</lines>
+    </verse>
+    <verse name="v5">
+      <lines>My do Ciebie pośpieszymy,<br/>co spoczywasz w żłobie,<br/>z mocarzami, z maluczkimi,<br/>pokłon oddać Tobie.<br/>// Pójdziem, by kadzidło, złoto<br/>przynieść Ci w ofierze,<br/>dary swoje Ci z ochotą<br/>niesiem, Jezu, szczerze! //</lines>
+    </verse>
+  </lyrics>
+</song>

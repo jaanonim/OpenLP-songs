@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:56">
+  <properties>
+    <titles>
+      <title>W więzach grzechu, jak w niewoli</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="742"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W więzach grzechu, jak w niewoli.<br/>Biedny człowiek czoło gnie,<br/>Ale Jezus umęczony<br/>Wieść radosną jemu śle.<br/>/ Biedny człeku z więzów<br/>Ja uwolnię cię. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeśli kiedyś przyjaciele,<br/>W chwili złe} odstąpią cię,<br/>Jeśli burza w krąg szaleje,<br/>Grzmoty biją, wicher dmie.<br/>/ Ty się nie smuć,<br/>Jezus kocha dzieci Swe. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wszystkie twe choroby, rany,<br/>Jezus ci uleczy Sam.<br/>Krocz więc naprzód, bądź wytrwały,<br/>W niebie wynagrodzi Pan.<br/>/ Wszystkie burze zcichną wnet<br/>u niebios bram. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

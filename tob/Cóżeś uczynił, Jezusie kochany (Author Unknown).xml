@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:19">
+  <properties>
+    <titles>
+      <title>Cóżeś uczynił, Jezusie kochany</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="48"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cóżeś uczynił, Jezusie kochany,<br/>Że na Cię wyrok tak srogi wydany?<br/>Jaka jest wina, jaki czyn zbrodniczy<br/>O pomstę krzyczy?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ciebie biczują, cierniem koronują,<br/>Lżą urągliwie Cię i policzkują.<br/>Octem i żółcią na krzyżu, spragniony,<br/>Jesteś pojony.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Twoich mąk wszystkich<br/>jakaż jest przyczyna?<br/>Ach, moja Ciebie uderzyła wina!<br/>Coś cierpiał, Jezu,<br/>jam wszystko zawinił,<br/>żem źle czynił.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Któż może pojąć tak cudowną karę:<br/>Pasterz za owce idzie na ofiarę.<br/>Pan sprawiedliwy oto spłaca długi<br/>Za Swoje sługi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O miłość wielka, miłość to bez miary<br/>Podjęła chętnie te okropne kary.<br/>Chciałem rozkoszą tutaj być pojony -<br/>Tyś był męczony.</lines>
+    </verse>
+  </lyrics>
+</song>

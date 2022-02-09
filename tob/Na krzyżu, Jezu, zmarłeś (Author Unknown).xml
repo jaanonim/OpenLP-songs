@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:19">
+  <properties>
+    <titles>
+      <title>Na krzyżu, Jezu, zmarłeś</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="52"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na krzyżu, Jezu, zmarłeś,<br/>Jak łotr nie godzien czci;<br/>Swą śmiercią mi otwarłeś<br/>Do życia w niebie drzwi.<br/>O, jak Barabasz grzeszny<br/>Jam śmierci godzien był,<br/>/ Umarłeś Ty, bezgrzeszny,<br/>Bym wiecznie z Tobą żył. /x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ 0, chwała Tobie, Panie,<br/>Żeś za mnie umarł Ty!<br/>Przez, gorzkie Twe skonanie<br/>Jest żywot dany mi. /x2<br/>/ Jest żywot dany mi. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tyś był ukrzyżowany,<br/>Toczyłeś z śmiercią bój,<br/>Zadano Tobie rany,<br/>Jedyny Zbawco mój!<br/>O, pomóż ukrzyżować<br/>Me ciało, pełne żądz,<br/>/ I dobry bój bojować,<br/>Grzechowe pęta zmóc. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chcę w każdej życia porze<br/>Rozważać słowa Twe,<br/>Gdyś wołał: „Czemuś, Boże,<br/>Opuścił dzisiaj Mnie?"<br/>To moje grzechy, Panie,<br/>Obiegły rojem Cię;<br/>/ Bóg nie mógł patrzeć na nie,<br/>Odwrócił przeto się. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, daj pamiętać o tym,<br/>Rozumieć słowa Twe,<br/>Gdy, zlany krwią i potem,<br/>Tyś rzekł: „Spełniło się!"<br/>Spełniło się zbawienie,<br/>Mam żywot w Twojej krwi,<br/>/ W Twej męce ukojenie;<br/>O, dzięki, Panie, Ci! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

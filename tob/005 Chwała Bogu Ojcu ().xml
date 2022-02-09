@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:38">
+  <properties>
+    <titles>
+      <title>005 Chwała Bogu Ojcu</title>
+    </titles>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chwała Bogu Ojcu, W chwale jego Syn, <br/>Chwała Tobie Duchu, Tworzysz jedno w Nich. <br/>Śpiewajmy Alleluja Panu, <br/>Alleluja, Alleluja /x2</lines>
+    </verse>
+  </lyrics>
+</song>

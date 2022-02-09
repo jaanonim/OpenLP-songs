@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:21">
+  <properties>
+    <titles>
+      <title>O Boże, Duchu, o Światłości</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="79"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Boże, Duchu, o Światłości,<br/>Co w cieniu śmierci świecisz nam,<br/>Opiera Ci się moc ciemności,<br/>Nie cierpi Ciebie złość i kłam,<br/>Lecz ja się Tobie poddać wolę<br/>I Tobie zwierzyć swą niedolę.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W mym sercu wszystko wykryj, Panie,<br/>Co nie jest czystym w świetle Twym!<br/>Niech boli grzechów odkrywanie,<br/>Gdy tylko jest zbawieniem mym.<br/>Ty wyswobodzisz mnie z ciemności,<br/>Abym obcował w Twej światłości.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Grzechowi tu nikt nie podoła,<br/>Nie wskóram nic wysiłkiem mym.<br/>Duch, Panie, mię odrodzić zdoła,<br/>Bym czystym był dziecięciem Twym.<br/>Bądź, Duchu, życiem ducha mego,<br/>Bo we mnie nie ma nic dobrego.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O życia Zdroju, co nam płyniesz<br/>Z niebieskich, kryształowych twierdz,<br/>W padole przecież nie ominiesz<br/>Pragnących i pokornych serc.<br/>O Duchu, spójrz na biedę moją,<br/>Ach, pokrzep mię z żywota zdroju!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Przybliżę teraz się do Ciebie,<br/>Porzucę, co znikome, czcze;<br/>Zapomnieć chcę samego siebie<br/>I czekać, aż objawisz się.<br/>Wszak Ciebie, Duchu, Światło z nieba,<br/>Na próżno czekać nie potrzeba.</lines>
+    </verse>
+  </lyrics>
+</song>

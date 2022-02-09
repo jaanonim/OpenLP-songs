@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:04">
+  <properties>
+    <titles>
+      <title>Do grobu proch kładziemy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="856"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Do grobu proch kładziemy,<br/>Gdzie spocznie drogi brat.<br/>Żegnamy na tej ziemi<br/>Ten zwiędły życia kwiat.<br/>My wieńce ci składamy...<br/>Czy patrzysz na nie rad?<br/>Do Domu wyprawiamy<br/>/ Wszak żegnasz już ten świat /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Do domu rodzinnego<br/>Nas wzywa wszystkich Bóg,<br/>Do życia spokojnego,<br/>Gdzie nie ma żadnych trwóg.<br/>Na łonie Ojca w niebie,<br/>- Tam cisza wiecznie trwa<br/>- Tam czeka On na ciebie.<br/>/ Spoczynek błogi da. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

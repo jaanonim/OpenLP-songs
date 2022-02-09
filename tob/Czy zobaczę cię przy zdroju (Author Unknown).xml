@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:23">
+  <properties>
+    <titles>
+      <title>Czy zobaczę cię przy zdroju</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="129"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czy zobaczę cię przy zdroju,<br/>Tam gdzie wiecznej chwały kraj?<br/>Czy nie tęsknisz do pokoju,<br/>Gdzie przebłogi kwitnie raj?<br/>Tam radosne wykrzykania<br/>Koło źródła życia brzmią<br/>Tam zbawionych Pan osłania;<br/>Czy tam znajdę duszę Twą?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, ja pragnę przyjść do zdroju,<br/>Do przejrzystych życia wód,<br/>Gdzie się rany wszystkie zgoją,<br/>Gdzie powitam Boży lud.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czy zobaczę cię przy zdroju,<br/>Gdzie już tony słychać harf,<br/>Gdzie wybrani wszyscy stoją<br/>W szatach z promienistych barw?<br/>Tam będziemy wyśpiewywać,<br/>Tam popłynie słodki ton;<br/>Czy nie chciałbyś tam przebywać,<br/>Wpośród pląsających gron?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Czy zobaczę cię przy zdroju,<br/>Gdy w ojcowski wstąpie gmach,<br/>Czy cię znajdę bez pokoju,<br/>Tonącego w gorzkich łzach?<br/>Tam dla obciążonych płonie<br/>Ogień zbawczych, wyższych sił;<br/>Szczęsny los na Zbawcy łonie!<br/>Czy i ty z Nim będziesz żył?</lines>
+    </verse>
+  </lyrics>
+</song>

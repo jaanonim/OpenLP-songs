@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:12">
+  <properties>
+    <titles>
+      <title>Uszy, oczy ręce dwie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Uszy, oczy ręce dwie<br/>Buzia nie zamyka się<br/>Pan Bóg ci to wszystko dał<br/>Żebyś śpiewał mu i grał</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Na gitarze i na flecie<br/>I na rogu jeśli chcecie<br/>Graj i śpiewaj z nami bracie<br/>W lesie w szkole, no i w chacie</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jak nie idzie ci śpiewanie<br/>Tylko na grzebieniu granie<br/>To na karpia śpiewaj - hej<br/>Radość i zabawę miej</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Długie trąby i tamburyna<br/>Dudy, listek okaryna<br/>I nie musisz nutek znać<br/>Żeby śpiewać mu i grać</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/ Bo granie i śpiewanie to twoje zadanie / 4x</lines>
+    </verse>
+  </lyrics>
+</song>

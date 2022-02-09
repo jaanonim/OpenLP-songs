@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:36">
+  <properties>
+    <titles>
+      <title>On jest tu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="132"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On jest tu, On jest tu,<br/>Jezus Chrystus Król!<br/>Więc przed Nim się w pokorze skłoń<br/>i w sercu swym Go tul!<br/>Niebiosa, ziemia, mnóstwo gwiazd<br/>ku Jego nucą czci,<br/>/I ty wysławiaj Jego moc,<br/>wyśpiewuj Mu i ty!/x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czas już, czas, wielki czas,<br/>na kolana paść,<br/>Wysławiać Jego mękę, krzyż ,<br/>do stóp Mu serce kłaść,<br/>Na ołtarz żywot złożyć swój,<br/>jak On go kiedyś dał,<br/>/By na tym świecie zawsze z nas<br/>Swych służebników miał./x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wyznaj Go, wyznaj Go!<br/>On twój Bóg i Pan,<br/>O, wyznaj Go, weź Jego krzyż,<br/>nie wstydź się Jego ran!<br/>On pośród Swych niebieskich rzesz<br/>przed Ojcem wyzna cię,<br/>/Więc dziś przed ludźmi wyznaj Go,<br/>swej wiary nie kryj, nie!/x2</lines>
+    </verse>
+  </lyrics>
+</song>

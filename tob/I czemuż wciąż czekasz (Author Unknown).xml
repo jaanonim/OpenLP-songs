@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:23">
+  <properties>
+    <titles>
+      <title>I czemuż wciąż czekasz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="139"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I czemuż wciąż czekasz, ma duszo?<br/>O chciejże czym prędzej już wstać!<br/>Twój Zbawca od dawna cię woła,<br/>Chce błogi Swój pokój Ci dać.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Czemu, czemu?<br/>Czemu ty nie chcesz Doń przyjść?<br/>Czemu, czemu?<br/>Do Jego pokoju wnijść?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na cóż zwlekanie się przyda,<br/>Dlaczegóż na dworze masz stać,<br/>Gdy Jezus, sam Jezus, twój Zbawca<br/>Chce wieczny Swój pokój ci dać?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Czy w sercu wyraźnie nie czujesz,<br/>Jak Święty Duch ciągnie cię Doń?<br/>Czy nie chcesz być wolnym od grzechów?<br/>Czy niebios nie wabi cię błoń?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Więc czemuż nie śpieszysz Doń, duszo,<br/>Nim przyjdzie twa śmierć i twój sąd?<br/>Jezusa krew jeszcze cię zbawi,<br/>Lecz zwlekać, to zgubny jest błąd.</lines>
+    </verse>
+  </lyrics>
+</song>

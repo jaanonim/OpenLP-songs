@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:22">
+  <properties>
+    <titles>
+      <title>Znam miłość Jezusa wspaniałą</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="100"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Znam miłość Jezusa wspaniałą,<br/>Jej głębia bez brzegu, bez dna.<br/>Osładza pielgrzymkę mą całą,<br/>Coraz słodszą jest dla mnie co dnia.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Słodszą i droższą jest mi,<br/>Szczęściem napełnia ma dni.<br/>Ta miłość Jezusa, tak błoga,<br/>Coraz cudniej, wspanialej wciąż lśni.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On ze mną! Nie lękam się złego,<br/>Z Nim mogę i śmierci przejść jar,<br/>Gdzie śmiem poznać moc łaski Jego<br/>I tę głębię miłości bez miar</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chcę iść za Nim w szczęściu i biedzie,<br/>Wśród blasków słonecznych, lub mgły,<br/>A choć mnie przez ogień powiedzie,<br/>Moge rzec: Przyjmę rad, co dasz Ty.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ja ujrzę twarz Jego w wieczności,<br/>Choć już tu na Ziemi Go znam,<br/>A toń Jego wiecznej miłości<br/>Coraz słodszą mi będzie i tam</lines>
+    </verse>
+  </lyrics>
+</song>

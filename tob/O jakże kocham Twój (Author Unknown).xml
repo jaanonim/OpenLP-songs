@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:32">
+  <properties>
+    <titles>
+      <title>O jakże kocham Twój</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="59"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, jakże kocham Twój,<br/>najświętszy, Boże dom.<br/>/Ten żywy Kościół z ludzkich dusz,<br/>zbawionych Twoją krwią./</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jak oka strzeżesz go,<br/>ten cenny klejnot Twój,<br/>/Zasłaniasz od napaści zła,<br/>o drogi Boże mój!/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ja pragnę zawsze mieć<br/>z Kościołem łączność Twym.<br/>/Radości i ciężary nieść<br/>w dniu dobrym jak i złym./</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A gdy się skończy już<br/>pielgrzymki ziemskiej znój,<br/>/Wraz z milionami świętych dusz,<br/>mię przyjmiesz Boże mój./</lines>
+    </verse>
+  </lyrics>
+</song>

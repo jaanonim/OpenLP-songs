@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:45">
+  <properties>
+    <titles>
+      <title>Jezusowi zwierzam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="279"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezusowi zwierzam ufnie<br/>każdy ból i troskę swą,<br/>On mnie nigdy nie opuści,<br/>w Swoim słowie przyrzekł to.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>// Jemu ufam //  Jemu zawsze ufać chcę,<br/>// Jemu ufam //  Jezus nie odtrąci mnie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Grzechy swoje niosę Jemu,<br/>On obmywa mnie z mych win,<br/>On uświęca myśli moje,<br/>by wydały dobry czyn.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>// Jemu ufam //  Jemu zawsze ufać chcę,<br/>// Jemu ufam //  Jezus nie odtrąci mnie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Trwogę swoją niosę Jemu,<br/>o, bo miłość nie zna trwóg,<br/>gdy ciernistą idę drogą,<br/>Swoją pomoc da mi Bóg.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>// Jemu ufam //  Jemu zawsze ufać chcę,<br/>// Jemu ufam //  Jezus nie odtrąci mnie.</lines>
+    </verse>
+  </lyrics>
+</song>

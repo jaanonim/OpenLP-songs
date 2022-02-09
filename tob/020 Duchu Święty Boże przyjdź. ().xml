@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:39">
+  <properties>
+    <titles>
+      <title>020 Duchu Święty Boże przyjdź.</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Duchu Święty Boże przyjdź.<br/>Przyjdź Duchu Światło<br/>Duchu Ogniu, przyjdź, Przyjdź i rozpal nas.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Przyjdź, Duchu Ojca, bądź naszym światłem, <br/>Niech promienieje Twej chwały blask.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, Świadku prawdziwy, umocnij nas,<br/>Chcemy rozgłaszać - ZMARTWYCHWSTAŁ PAN!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Przyjdź, Źródło Niebieskie, przyjdź Zdroju Życia,<br/>Bądź nam uzdrowieniem, moc sercom daj.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Duchu radości, rozraduj Kościół,<br/>niech płynie z serc naszych Baranka pieśń.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ty daj nam doświadczyć miłości Ojca,<br/>Oblicze Chrystusa objawiaj nam.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bądź nam tchnieniem życia, światła promieniem,<br/>przez Ciebie jaśnieje Chrystusa krzyż.</lines>
+    </verse>
+  </lyrics>
+</song>

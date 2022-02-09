@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:12">
+  <properties>
+    <titles>
+      <title>Pełnoscią Pan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="184"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie z dzieł sprawiedliwości naszej,<br/>z łaski stało się. Nie z dzieł<br/>sprawiedliwości naszej, z łaski<br/>stało się. Nie z dzieł<br/>sprawiedliwosci naszej, z łaski<br/>stało się,<br/>że mamy swą pełność w Nim!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ref:<br/>Pełnością Pan!<br/>Pełnością Pan!<br/>W Chrystusie pełność mam!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>{ W Chrystusa ciele cała pełnia<br/>Bożej chwały jest } 3x<br/>Dlatego mam pełnię w Nim.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>{ Więc zdążam, by pochwycić to,<br/>co Bóg w Chrystusie dał } 3x<br/>Bo moją pełnością Pan!</lines>
+    </verse>
+  </lyrics>
+</song>

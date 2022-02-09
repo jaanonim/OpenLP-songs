@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:03">
+  <properties>
+    <titles>
+      <title>W jednym małym kątku</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="846"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W jednym małym kątku<br/>Słońce wita nas,<br/>Siejcie dobre ziarnko,<br/>Wyda owoc w czas.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tam, w tym kątku, małym kątku,<br/>Kwitną kwiaty już,<br/>Aby każdy swoją wonią<br/>Panu chwałę niósł.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W tym najmniejszym kątku<br/>Miłość twoją siej,<br/>Pewnie ci rozkwitnie<br/>Wiara, ufność z niej.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tam, w tym małym kątku<br/>Cicho, wiernie służ,<br/>Ufaj Boskiej łasce<br/>Pomoc Jego tuż.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wszędzie gdzie przebywasz,<br/>Pomoc wszystkim nieś<br/>I w najmniejszym kątku<br/>Bogu oddaj cześć;</lines>
+    </verse>
+  </lyrics>
+</song>

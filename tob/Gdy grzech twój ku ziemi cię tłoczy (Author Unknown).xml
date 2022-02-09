@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:44">
+  <properties>
+    <titles>
+      <title>Gdy grzech twój ku ziemi cię tłoczy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="482"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy grzech twój ku ziemi cię tłoczy,<br/>Gdy z bólu twe serce ci drga,<br/>Do Zbawicy śpiesz z swoją niedolą,<br/>On pokój i szczęście ci da.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, śpiesz do Jezusa w niedoli<br/>I w cień Jeo krzyża się schroń;<br/>Gdy wszystko cię w życiu zawiedzie,<br/>On poda pomocną ci dłoń.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A kiedy z wtych plec spadnie brzemię,<br/>Zapląsa wśród łask serce twe,<br/>To schyl się miłośnie do brata,<br/>Którego grzech gniecie i rwie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Opowiedz o łasce mu Bożej,<br/>Nowinę radosną z nim dziel<br/>I wskaż mu ten wielki, jedyny<br/>zywota i dążeń swych cel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, pięknież to, wielkie zadanie<br/>U życia rozstajnych starć dróg<br/>I mówić zbłąkanym i smutnym,<br/>Jak wielkim w miłości jest Bóg.</lines>
+    </verse>
+  </lyrics>
+</song>

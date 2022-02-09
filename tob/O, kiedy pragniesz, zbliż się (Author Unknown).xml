@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:30">
+  <properties>
+    <titles>
+      <title>O, kiedy pragniesz, zbliż się</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="282"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, kiedy pragniesz, zbliż się,<br/>Pij z żywych życia Wód.<br/>/ Choć z wielu wód czerpałeś już,<br/>Pragnienie masz wciąż i głód /x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chodź pić do zdroju! Dla ciebie on tu trysł.<br/>Pij tylko, a Jezus da ci moc i wiary zmysł.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zdrój ten dał pokrzepienie<br/>Pielgrzymom mnogim tam.<br/>/ Jak błoga radość: z krzyża zdrój<br/>Nie może już wyschnąć nam! /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pij wciąż na nowo, duszo,<br/>By twoja rosła moc,<br/>/ Byś mieczem Ducha umiał ty<br/>Rozpędzać tu grzechu noc. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy Pan na końcu biegu<br/>Da błogo spocząć nam,<br/>/ To czerpać będziem z żywych wód<br/>U Boga już w raju tam. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

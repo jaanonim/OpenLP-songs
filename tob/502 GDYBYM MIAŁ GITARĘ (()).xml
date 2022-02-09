@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:53">
+  <properties>
+    <titles>
+      <title>502 GDYBYM MIAŁ GITARĘ</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdybym miał gitarę,<br/>To bym na niej grał.<br/>Opowiedziałbym o swej miłości,<br/>Którą przeżyłem sam. /2x</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A wszystko te czarne oczy,<br/>Gdybym ja je miał.     <br/>Za te czarne, cudne oczęta,<br/>Serce, dusze bym dał. /2x</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fajki ja nie palę,<br/>Wódki nie piję.<br/>Ale z żalu, z żalu wielkiego,<br/>Ledwie co żyję. /2x </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ludzie mówią głupi<br/>Po coś ty ją brał?<br/>Po coś to dziewczę czarne, figlarne,<br/>Mocno pokochał? /2x</lines>
+    </verse>
+  </lyrics>
+</song>

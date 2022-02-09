@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:34">
+  <properties>
+    <titles>
+      <title>Jezus kocha małe dzieci</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="1"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus kocha małe dzieci,<br/>Wszystkie dzieci w świecie tym.<br/>Czarne, żółte, białe też<br/>I czerwone, jakie chcesz.<br/>Jezus kocha wszystkie dzieci<br/>W świecie tym.</lines>
+    </verse>
+  </lyrics>
+</song>

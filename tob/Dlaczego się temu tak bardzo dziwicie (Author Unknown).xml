@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:23">
+  <properties>
+    <titles>
+      <title>Dlaczego się temu tak bardzo dziwicie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="131"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dlaczego się temu<br/>tak bardzo dziwicie,<br/>Że chromy powstaje i chodzi?<br/>Uwierzcie, a cuda<br/>wspanialsze ujrzycie,<br/>Gdy Jezus wam serca odrodzi.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Na ziemi, na niebie<br/>króluje od lat;<br/>W tym tylko imieniu<br/>zbawienie ma świat. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>DIaczegóż się na nas<br/>tak pilnie patrzycie?<br/>l wasza jest nędza jednaka.<br/>Lecz Jezus, co niebu<br/>i ziemi dał życie,<br/>Podnosi, przyjmuje żebraka.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>DIaczegóż wy stale<br/>w to jeszcze wątpicie,<br/>Że w Panu rękojmia zwycięstwa?<br/>On wtedy nam radość<br/>da w pełnym rozkwicie,<br/>Gdy wiedzie przez ogień męczeństwa.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>DIaczegóż się jeszcze<br/>tak bardzo dziwicie,<br/>Że wiernie trzymamy się Pana?<br/>Trzymamy się Jego,<br/>bo wiemy niezbicie:<br/>W Nim pewność zbawienia nam dana.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Czy także się kiedyś<br/>radośnie zdziwicie,<br/>Gdy wróci w obłokach Król chwały?<br/>Czy może w przestrachu<br/>zawołać musicie:<br/>Przykryjcie nas, góry i skały.'?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O, zwróćcie z podziwem<br/>do Pana swe oczy,<br/>Z podziwem kornego wielbienia!<br/>On serce rozjaśni,<br/>cudami otoczy,<br/>Wyzwoli ze śmierci, zginienia.</lines>
+    </verse>
+  </lyrics>
+</song>

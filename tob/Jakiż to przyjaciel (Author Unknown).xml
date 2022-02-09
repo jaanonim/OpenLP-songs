@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:00">
+  <properties>
+    <titles>
+      <title>Jakiż to przyjaciel</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="97"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jakiż to przyjaciel Jezus,<br/>Wszystkie grzechy poniósł sam,<br/>Obdarował wielką łaską,<br/>Prośby wszystkich słucha rad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jakże często pokój tracisz,<br/>Niepotrzebnie cierpisz sam,<br/>Kiedy zapomnisz o tym,<br/>Aby przyjść przed Zbawcy tron.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jeśli próby, pokuszenia,<br/>Zmartwień moc przygniata cię,<br/>Nigdy o tym nie zapomnij,<br/>Aby przyjść przed Zbawcy tron.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Chcesz mieć swego przyjaciela,<br/>Jezus, On chce z tobą być,<br/>On zna wszystkie twe słabości,<br/>Tylko przyjdź przed Jego tron.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesteś słaby, ociężały,<br/>Ciężar twój przygniata cię,<br/>Drogi Zbawca ci pomoże,<br/>Tylko przyjdź przed jego tron.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Choć odejdą przyjaciele,<br/>Jezus zawsze wiernym jest.<br/>W jego rękach masz podporę,<br/>On pocieszy w każdy czas.</lines>
+    </verse>
+  </lyrics>
+</song>

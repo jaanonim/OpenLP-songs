@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:46">
+  <properties>
+    <titles>
+      <title>Któż to przed stolicą Bożą?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="520"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Któż to przed stolicą Bożą?<br/>Cóż to tam za rzesze są?<br/>Wszyscy z nich korony noszą,<br/>Jako gwiazdy jasne lśnią; Alleluja!<br/>- zewsząd brzmi, Słychać śpiew ku Bożej czci.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Któż są ci, co noszą palmy,<br/>Jak zwycięzcy w rękach swych,<br/>Co śpiewają Temu psalmy,<br/>Co zwyciężył śmierć i grzech?<br/>Co za walka, jaki bój<br/>Zdobył im zwycięzców strój?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Któż są ci, co szaty noszą<br/>Bielsze ponad czysty śnieg?<br/>Którym z jasnych widać oczu,<br/>Że skończyli szczęśnie bieg?<br/>Stoją u srebrzy¬stych wód,<br/>Skądże oni przyszli, skąd?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cić są, którzy bój toczyli<br/>Dla wielkiego Boga czci,<br/>Świat i śmierć przezwyciężyli<br/>I za Panem wiernie szli. Teraz,<br/>gdy skończony bój,<br/>Zdobi ich zwycięski strój.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Cić są, co w ucisku byli,<br/>Krwią Baranka zmogli grzech,<br/>Szaty swoje w niej omyli,<br/>Wybielili ponad śnieg.<br/>Przed stolicą Bożą wciąż<br/>Swego Pana kornie czczą.</lines>
+    </verse>
+  </lyrics>
+</song>

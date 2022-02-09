@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:09">
+  <properties>
+    <titles>
+      <title>Niech wam błogosławi Pan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niech wam błogosławi Pan<br/>Niechaj was strzeże<br/>Niech rozjaśni oblicze swe nad wami<br/>I niech miłościw wam będzie<br/>Niech wam błogosławi Pan<br/>Niechaj was strzeże<br/>Niech obróci twarz swoją ku wam<br/>I niech da wam swój pokój</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Niech wam błogosławi Pan<br/>Niech wam błogosławi Pan<br/>Niech wam błogosławi Pan<br/>Niech wam błogosławi Pan<br/>Niech wam błogosławi<br/>Niech wam błogosławi<br/>Niech wam błogosławi<br/>Pan</lines>
+    </verse>
+  </lyrics>
+</song>

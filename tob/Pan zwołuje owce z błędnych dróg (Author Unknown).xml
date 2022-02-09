@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:25">
+  <properties>
+    <titles>
+      <title>Pan zwołuje owce z błędnych dróg</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="164"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pan zwołuje owce z błędnych dróg,<br/>Które szatan uwiódł w grzech i zmógł;<br/>W dzień i w nocy woła je,<br/>Przeszukuje miasta, wsie.<br/>Ach, czy znajdzie, czy dowoła,<br/>Co ujarzmił wróg?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wróć się jeszcze, droga duszo, wróć,<br/>Nie daj się w grzechowe pęta skuć!<br/>Wszyscy, których dręczy grzech,<br/>Brzemię żądz i pokus złych,<br/>Pójdźcie dziś do Zbawiciela<br/>Uwolnienie wziąć!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy okropny przyjdzie sądu dzień,<br/>Z przeciwników nie zostanie cień.<br/>Jakże przed Nim będziesz stać,<br/>Gdy ci liczbę przyjdzie zdać?<br/>Jakże przed Nim się wymówisz?<br/>Raczej uwierz Weń!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pójdź więc do Mnie, a ostoisz się,<br/>Gdy w swe serce z wiarą przyjmiesz Mię!<br/>Jam za ciebie umarł raz,<br/>Odtąd aż po wieczny czas<br/>Ma ofiara i śmierć Moja<br/>Kryje w łasce cię!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ja cię wiodę do niebieskich bram;<br/>Klucze piekła Ja w Swej ręce mam,<br/>Więc łachmany grzechu zrzuć,<br/>Do Mnie swoje serce zwróć!<br/>Strój odświętny, szatę chwały<br/>Ja jedynie dam.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Pójdź do domu,w ziemię wiecznych kras!<br/>Wróć się, póki jeszcze łaski czas!<br/>W świecie grzechu wichry dmą,<br/>Niepokoje serca rwą.<br/>Pójdź do Pana, byś nie zginął<br/>Wśród tonących mas.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Cóż Mu, duszo, odpowiedzieć chcesz?<br/>Jakże prośbie tej odmówić śmiesz?<br/>Łaska Boża woła wzwyż;<br/>Pan za ciebie poniósł krzyż -<br/>Pójdź, nim łaski czas przeminie,<br/>Przyjmij Go i wierz!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:49">
+  <properties>
+    <titles>
+      <title>Przychodźcie do Mnie! - woła Pan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="583"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przychodźcie do Mnie! - woła Pan<br/>- Ja ujmę waszą dłoń,<br/>Choć przyjdzie iść przez cierpień łan<br/>Stąd na niebieską błoń.<br/>Synowie ludzcy, pójdźcie wraz!<br/>Do odpocznienia wiodę was,<br/>Tam pląsa wybawionych zbór,<br/>Zwycięski śpiewa chór</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O jak kosztowny los,<br/>Cudny los, szczęsny los,<br/>O jak kosztowny los<br/>W Jezusie spotkał nas!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Posłuchaj, jak brzmi śpiewu ton<br/>Niebieskich, świętych dusz,<br/>Gdy grzesznik się przed Pana tron<br/>W pokucie zbliża już.<br/>Jezusa krew tam wielbią wciąż,<br/>Co czyni cuda wszerz i wzdłuż,<br/>I tę cudowną Bożą moc, Co spędza grzechu noc.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy Pan zawezwie mile<br/>Swych W tym ostatecznym dniu:<br/>O, pójdźcie do przybytków Mych,<br/>By żyć na wieki tu!<br/>- To będą usta pełne czci,<br/>A całe niebo chwałą brzmi,<br/>Że dziwne rzeczy Pan Bóg Sam<br/>Uczynił wszystkim nam.<br/>O jak kosztowny los,<br/>Cudny los, szczęsny los,<br/>O jak kosztowny los<br/>W Jezusie spotkał nas!<br/>Tam rzesze wybawionych dusz<br/>Do wiecznych gód zasiadły już,<br/>A z ust ich „alleluja" brzmi<br/>- Hymn dla Baranka czci.</lines>
+    </verse>
+  </lyrics>
+</song>

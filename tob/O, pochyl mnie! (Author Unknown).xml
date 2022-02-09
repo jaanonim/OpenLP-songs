@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:39">
+  <properties>
+    <titles>
+      <title>O, pochyl mnie!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="192"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O pochyl mnie! Jak zboża łan poranku wiewem,<br/>Panie, gniesz, tak racz przed Ducha tchnieniem<br/>mnie w pokorze świętej chylić też.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A jeśli krnąbrne serce me nie podda się,<br/>gdy działa Duch, racz, mocy Pańska,<br/>w ogniu przyjść, co złe wypalić, rozbić w puch!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, racz mnie tak głęboko giąć,<br/>jak się przed burzą fala gnie,<br/>a jak rozbija ją o brzeg, tak rozbij grzeszne serce me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, ugnij mnie! Jak biegiem wód kieruje mądrze wyrok Twój,<br/>tak racz w pustynną suszę serc, skierować łask ożywczy zdrój.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tak, jak ogrodnik dłonią swą latorośl winną schyla, gnie,<br/>tak ze mną czyń, bo wolę mą pod Twoją wolę poddać chcę.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O, pochyl mnie! I z gliny tej tak na nic nie przydatnej Ci,<br/>naczynie użyteczne stwórz, co Cię w pokorze szczerze czci.</lines>
+    </verse>
+  </lyrics>
+</song>

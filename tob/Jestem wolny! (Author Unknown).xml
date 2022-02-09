@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:17">
+  <properties>
+    <titles>
+      <title>Jestem wolny!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="211"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Radością mą wielką, Panie jest<br/>Dziś wolność Twa!<br/>Bo przebaczyłeś mi wszystkie winy.<br/>Jezus, mój Pan, uczynił wszystko,<br/>Spłacił mój dług.<br/>Jestem wolny, nareszcie wolny!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Alleluja, Panie, serce moje wielbi Cię?<br/>Me stopy tańczą, me dłonie klaszczą,<br/>A usta wielbią Cię!<br/>Jestem wolny! Jestem wolny!<br/>Nareszcie wolny!<br/>Jestem wolny! Jestem wolny!<br/>W Chrystusie wolny!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przed Twoim być tronem, Panie, dziś<br/>Oznacza żyć!<br/>Bo przebaczyłeś mi wszystkie winy!<br/>Przeszłość już za mną, łaskę mam Twoją<br/>I nadzieję też!<br/>Jestem wolny, nareszcie wolny!</lines>
+    </verse>
+  </lyrics>
+</song>

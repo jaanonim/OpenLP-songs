@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:34">
+  <properties>
+    <titles>
+      <title>Ręce Jezusowe</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="82"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ręce Jezusowe, podniesione wzwyż.<br/>Ręce które za mnie niosły ciężki krzyż.<br/>Ręce co czyniły tylko dobro wkrąg.<br/>„Alleluja!" śpiewaj. Cześć dla świętych rąk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niby kwiaty lilii śnieżna rąk tych biel.<br/>Miłość współczująca rąk tych jeden cel.<br/>Ręce, które chromych upewniały krok,<br/>z przebaczenia darem przywracały wzrok.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ręce, które koją wszelki serca ból.<br/>Kto ma takie ręce? Tylko Jezus Król!<br/>Ręce, co mnożyły głodnym ryby, chleb,<br/>ręce, co wskrzeszały martwy gliny zlep.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ręce, co krwawiły od krzyżowych ran.<br/>Ręce zbawiające ma mój Jezus Pan.<br/>W rękach tych nadzieję położyłem swą,<br/>one mnie prowadzą wąską drogą cną.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ręce Jezusowe wszystkich objąć chcą.<br/>Przyjdź do rąk tych cudnych z całą winą swą.<br/>Nie wiesz jak je poznać, święte ręce te?<br/>Rany dwie od gwoźdźi i zakrzepła krew!</lines>
+    </verse>
+  </lyrics>
+</song>

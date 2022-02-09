@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:01">
+  <properties>
+    <titles>
+      <title>Wdzięczny, rozkoszny Syjonie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="807"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wdzięczny, rozkoszny Syjonie,<br/>Błogi spoczynek masz,<br/>Rannym w swej błogiej ochronie<br/>Gojący balsam dasz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wdzięczny, rozkoszny Syjonie,<br/>Do ciebie śpieszę się,<br/>A ilekroć smutne łzy ronię,<br/>O twojej błogości śnię.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Duszom zaćmionym tu wschodzi<br/>Słoneczny światła zdrój,<br/>Kto między niebian przychodzi,<br/>Ten bieg zakończył swój.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu włada Zbawca mój w chwale,<br/>Serca chcą śpiewać wtór,<br/>Gdy się odezwie wspaniale<br/>Dziękczynnych pieśni chór.</lines>
+    </verse>
+  </lyrics>
+</song>

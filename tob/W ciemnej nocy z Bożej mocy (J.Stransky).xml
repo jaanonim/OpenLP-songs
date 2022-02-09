@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:20">
+  <properties>
+    <titles>
+      <title>W ciemnej nocy z Bożej mocy</title>
+    </titles>
+    <authors>
+      <author type="words">J.Stransky</author>
+      <author type="music">J.Stransky</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="63"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W ciemnej nocy z Bożej mocy<br/>Blask z nad grobu spędza cień;<br/>Gorejące, niegasnące,<br/>Cudne światło wzbudza dzień.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czyja siła roznieciła<br/>W domu śmierci zorzę tę?<br/>Tyś to, Panie, nasz Hetmanie,<br/>Królu chwały, zjawił się.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>W ciężkim boju, w skwarnym znoju<br/>Tyś skrwawioną schylił skroń;<br/>Lecz powstałeś, ukazałeś<br/>Uczniom Swym przebitą dłoń.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Z boju Twego zwycięskiego<br/>My też radujemy się;<br/>Pokornymi głosy swymi<br/>Wszyscy wdzięcznie czcimy Cię.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Promienneo światła Twego<br/>Nie odbieraj, Panie, nam!<br/>Jaśniej stale, aż ku chwale<br/>W niebo wezwiesz wiernych Sam.</lines>
+    </verse>
+  </lyrics>
+</song>

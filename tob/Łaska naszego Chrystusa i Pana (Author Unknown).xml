@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:01">
+  <properties>
+    <titles>
+      <title>Łaska naszego Chrystusa i Pana</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="392"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Łaska naszego Chrystusa i Pana,<br/>I miłość Boża wraz ze społecznością<br/>Ducha Świętego,<br/>Niechaj będzie z nami,<br/>Z nami wszystkimi.<br/>Amen, amen, amen.</lines>
+    </verse>
+  </lyrics>
+</song>

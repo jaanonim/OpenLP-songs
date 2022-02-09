@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:08">
+  <properties>
+    <titles>
+      <title>Zamieszkaj w mym ogrodzie</title>
+    </titles>
+    <authors>
+      <author type="words">Mate.O</author>
+      <author type="music">Mate.O</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy wokół jeszcze nic nie było,tylko jeden Bóg,<br/>Zapragnął kogoś, kogo zawsze kochać by mógł,<br/>Tak stworzył Bóg człowieka, i na obraz stworzył Swój,<br/>By kochać go, by mieszkał z nim na ziemi jako Król.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Zamieszkaj w mym ogrodzie,<br/>zamieszkaj blisko mnie<br/>zamieszkaj byśmy bliżej mogli poznać się!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lecz człowiek wybrał inną drogę, by bez Boga żyć,<br/>Myślał, że tak będzie lepiej samemu sobie żyć.<br/>Nie wiedział, że zaufał komuś kto go zniszczyć chciał,<br/>Zapomniał Boga, który kiedyś tak powiedzieć miał:</lines>
+    </verse>
+  </lyrics>
+</song>

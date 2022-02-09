@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:37">
+  <properties>
+    <titles>
+      <title>Jedno mieć</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="144"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jedno mieć, musisz mieć,<br/>duszo, jedno musisz mieć!<br/>Musisz szukać, znaleźć Pana,<br/>co za ciebie poniósł śmierć,<br/>dać się wyrwać z rąk szatana<br/>i własnością Zbawiciela być,<br/>Jemu żyć, Jemu żyć!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jedno mieć, musisz mieć!<br/>Czy Jezusa wybrać chcesz?<br/>Że na Jego zbawczej piersi jest spoczynek,<br/>czy to wiesz? Dał za ciebie zranić serce,<br/>niosąc sprawiedliwy Boży gniew,<br/>wylał krew, własną krew.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jedno mieć, musisz mieć!<br/>Jezus woła: Do mnie pójdź!<br/>Ze swoimi przestępstwami,<br/>Jemu się w ramiona rzuć<br/>i ze szczerej skruchy łzami proś,<br/>by podniósł cię z upadków twych;<br/>strzeż się ich, strzeż się ich!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jedno mieć, musisz mieć!<br/>Porzuć ciężar, który gnie!<br/>Rzuć chwiejące się podpory,<br/>słowa Zbawcy uchwyć się!<br/>On do wspomagania skory,<br/>przykazania Jego tylko strzeż,<br/>przy tym wierz, silnie wierz!</lines>
+    </verse>
+  </lyrics>
+</song>

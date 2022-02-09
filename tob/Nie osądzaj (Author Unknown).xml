@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:05">
+  <properties>
+    <titles>
+      <title>Nie osądzaj</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="248"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie osądzaj byś sądzonym nie był sam.<br/>Nie dostrzegaj w oku swego brata źdźbła.<br/>Popatrz najpierw na samego siebie tak,<br/>A zobaczysz jakim byłeś jesteś sam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zapamiętaj bracie, siostro jeszcze raz<br/>Jeśli sądzisz kogoś ostro, dobrze zważ,<br/>Jaką miarą mierzysz tak odmierzą ci,<br/>Sam w swe sidła jeszcze kiedyś możesz wpaść.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jeśli jesteś dobrym dobry owoc dasz,<br/>Jeśli tylko całe Słowo Boże znasz.<br/>Ono zawsze tak wyraźnie mówi ci,<br/>Że nie można zbierać z ciernia smacznych fig.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tak jak komuś czynisz dobrze albo źle,<br/>Tak też w życiu tobie będzie wiodło się.<br/>Zapamiętaj dobrze to co mówię ci,<br/>Boży człowiek będzie zawsze święcie żył.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:31">
+  <properties>
+    <titles>
+      <title>Uwielbia dusza moja</title>
+    </titles>
+    <authors>
+      <author type="words">Kiko Arguello</author>
+      <author type="music">Kiko Arguello</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="682"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Uwielbia dusza moja Pana mego moc.<br/>Raduje się me serce w Bogu Zbawcy mym.<br/>Uwielbia dusza moja Pana mego moc.<br/>Raduje się me serce w Bogu Zbawcy mym.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Oto mnie teraz błogosławić będą<br/>wszystkie pokolenia ziemi,<br/>gdyż wielkie rzeczy mi uczynił Wszechmogący,<br/>Święte jest Imię Jego.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On pokazał moc ramienia Swego,<br/>rozproszył w sercu się pyszniących.<br/>Mocarzom świata trony wywraca,<br/>a wywyższa pokornych.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Głodnych nasyca hojnie dobrami swymi,<br/>bogaczów z niczym odprawia.<br/>On przygarnął lud Swój wierny,<br/>bo Miłość Jego wieczna jest.</lines>
+    </verse>
+  </lyrics>
+</song>

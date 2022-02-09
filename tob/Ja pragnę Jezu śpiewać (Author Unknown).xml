@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:22">
+  <properties>
+    <titles>
+      <title>Ja pragnę Jezu śpiewać</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="106"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ja pragnę Jezu, śpiewać ku Twej chwale,<br/>Wysławiać łaski niewymownej cud;<br/>Podziwiać muszę Twoje dzieło stale,<br/>Któreś wykonał przez Swą śmierć i trud.<br/>Tyś w ciele zszedł, gdy świat był pełen złości.<br/>Tyś podjął krzyż, wzgardziwszy duszą Swą;<br/>Któż pozna w pełni głębię Twej miłości,<br/>Gdyś pośród mąk ratował duszę mą!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Z ofiary Twojej moc cudowna spływa,<br/>Ostoją pewną Twój jest dla mnie krzyż;<br/>Tu moja dusza kajdan się pozbywa,<br/>By, łaską Twą wiedziona, śpieszyć wzwyż.<br/>Tum ujrzał Twoje krwią zbroczone skronie,<br/>Ten widok spędził złudne grzechu sny,<br/>Przez Twe cierpienia spocząć na Twym łonie<br/>I poznać śmiałem, jak wspaniałyś Ty.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tyś przezwyciężył śmiercią Swą szatana,<br/>Zniweczyłeś grzechu wszelką moc i czar.<br/>Przez Twą ofiarę Ducha moc wylana;<br/>Nowego życia z niej spływa dar.<br/>Przez moc tę dusza wzbija się do lotu,<br/>Przez moc tę Sam sprawujesz dzieło Swe.<br/>Tyś Jezu mój, nie szczędził krwi, ni potu,<br/>By pracą duszy Swej oczyścić mnie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Jezu mój! Nic Tobie dać nie mogę,<br/>Wszak moją nędzę Sam najlepiej znasz;<br/>Lecz proszę Cię: Ty toruj moją drogę<br/>I niech jasnieje Twa nade mną twarz,<br/>Twój niechaj Duch przenika me dążenia;<br/>Me życie całe pragnę w Tobie skryć,<br/>Niech Twoja łaska wciąż mnie opromienia,<br/>Bym mógł owocem pracy Twojej być.</lines>
+    </verse>
+  </lyrics>
+</song>

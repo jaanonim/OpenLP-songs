@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:55">
+  <properties>
+    <titles>
+      <title>275 ŚPIJ DZIECINO MAŁA</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c2 c1</verseOrder>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jakaś światłość nad Betlejem się rozchodzi.<br/>W środku nocy przerażony świat się budzi.<br/>Dzisiaj Chrystus tutaj właśnie się narodził,<br/>Do nas przyszedł, bo ukochał wszystkich ludzi.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Teraz śpij Dziecino mała.<br/>Teraz śpij Dziecino miła.<br/>Ziemia bogactw Ci nie dała,<br/>Bo bez Ciebie biedną była.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Już pasterze prości ludzie biegną z dala, <br/>Oddać pokłon Tobie Panu nad panami. <br/>Mówią sobie "Jakaż łaska nas spotkała, <br/>Że Bóg przyszedł, że chce zostać razem z nami!" </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z wschodnich krain przyszli jeszcze trzej Królowie <br/>Każdy myślał "Cos wielkiego dziś zobaczę"<br/>I zdziwili się ci wielcy monarchowie <br/>Że ich Król jest malusieńki i że płacze </lines>
+    </verse>
+    <verse name="c2">
+      <lines>Nie płacz już Dziecino mała <br/>Nie płacz już Dziecino miła<br/>Ziemia tym Cię zasmuciła<br/>Że tak mocno w grzech utkwiła</lines>
+    </verse>
+  </lyrics>
+</song>

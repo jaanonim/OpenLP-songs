@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:32">
+  <properties>
+    <titles>
+      <title>Pokój w Jezusie</title>
+    </titles>
+    <authors>
+      <author type="words">J.Paul</author>
+      <author type="music">J.Paul</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="313"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pokój w Jezusie, jak morskich fal toń!<br/>Pan Bóg wszechmocny cię bierze w Swą dłoń;<br/>W Bogu trwaj cicho, On chce strzec twych dróg -<br/>Pokój to wyższy, niż pojąć byś mógł.<br/>Radość, choć znój, pokój, choć bój -<br/>To pokój, który daruje sam Pan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W Nim pośwęconym ty możesz tu być,<br/>Wolny od grzechu i trwogi już żyć.<br/>W moc z wysokości oblecze cię Bóg,<br/>Byś w pokuszeniach zwycięzcą być mógł.<br/>W Nim możesz mieć Żywot, nie śmierć -<br/>To czyni pokój, to daje nam Pan.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cicha łagodność, nie kazi jej gniew,<br/>Wśród krzywd cierpliwość - żywota to siew -<br/>Miłość, pokora, co w sercu wciąż trwa,<br/>Innych za wyższych nad siebie tu ma.<br/>Radość tu w Nim, Zwycięstwo w złym,<br/>To jest w pokoju, co daje sam Pan.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pokój w Jezusie! On wszystko ci da,<br/>Czyni cię prawym, cierpliwym wśód zła;<br/>Szczerość, niewinność ozdobi twą skroń,<br/>Wierność, prostotę da Pańska ci dłoń.<br/>Obierz więc już Jemu żyć wciąż!<br/>A poznasz, że cię już tu zbawia Pan.</lines>
+    </verse>
+  </lyrics>
+</song>

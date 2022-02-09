@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:15">
+  <properties>
+    <titles>
+      <title>Rozpal me serce</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="286"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rozpal me serce, Panie mój!<br/>Składam w ofierze je.<br/>Nie daj, bym gdzieś zatrzymał się,<br/>Lub zawód Ci sprawić mógł!<br/>Weź mnie i wszystko to, co mam,<br/>I przytul mnie blisko tak,<br/>Bym słyszał i czuł<br/>W sercu Twym wielki żar<br/>Bym spłonąć dla Ciebie mógł!</lines>
+    </verse>
+  </lyrics>
+</song>

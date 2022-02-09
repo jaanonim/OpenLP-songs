@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:35">
+  <properties>
+    <titles>
+      <title>Kto poda sercu, ulgi zdrój?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="344"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kto poda sercu, ulgi zdrój?<br/>Kto je wybawi z boju?<br/>Gdzie znajdzie biedna dusza ma<br/>Uroczą błoń pokoju?<br/>O jakże rada by już przejść<br/>Te progi jasno lśniące,<br/>Poza którymi słońce lśni<br/>/ Już nie gasnące. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tę błoń pokoju dobrze znam,<br/>Ten czysty zdrój źródlany,<br/>Bo jest to Chrystusowy krzyż<br/>I święte Jego rany<br/>Do wszystkich skłopotanych serc<br/>Stąd pokój cudny spływa,<br/>Tam się ukryła dusza ma<br/>/ I odpoczywa. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu pokój z onych górnych stref<br/>Ogarnia serce moje;<br/>W ten zbawczy zapatrzony znak<br/>Ciężary składam swoje.<br/>Gdym oto progi Jego ran<br/>Przekroczył jasno lśniące,<br/>I w mojej duszy słońce lśni<br/>/ Już nie gasnące. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, pójdźcie ze mną, pójdźcie, wy,<br/>Ciężarem przygnębieni!<br/>O, nie wypłynie ulgi zdrój<br/>Na biednej łez pustyni;<br/>Co znajdziem tam, to cień i kłam,<br/>To mary znikające;<br/>W niebiesiech tylko słońce lśni<br/>/ Już nie gasnące. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

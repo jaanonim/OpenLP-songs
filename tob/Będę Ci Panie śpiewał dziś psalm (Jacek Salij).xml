@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:15">
+  <properties>
+    <titles>
+      <title>Będę Ci Panie śpiewał dziś psalm</title>
+    </titles>
+    <authors>
+      <author type="words">Jacek Salij</author>
+      <author type="music">Jacek Salij</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="36"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Będę Ci Panie śpiewał dziś psalm,<br/>Śpiewał dziś psalm o Panie .<br/>Będę wysławiał majestat Twój,<br/>na wieki Panie mój.</lines>
+    </verse>
+  </lyrics>
+</song>

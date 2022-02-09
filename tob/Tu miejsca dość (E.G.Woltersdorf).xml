@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:51">
+  <properties>
+    <titles>
+      <title>Tu miejsca dość</title>
+    </titles>
+    <authors>
+      <author type="words">E.G.Woltersdorf</author>
+      <author type="music">E.G.Woltersdorf</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="616"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu miejsca dość!<br/>Niepełny jeszcze dom,<br/>Nieobsadzony stół,<br/>Otwarte drzwi!<br/>Spraszajcie nędznych tłum,<br/>Spraszajcie z miast siół!<br/>Zbierajcie chromych, opuszczonych,<br/>Brzemieniem grzechu obciążonych!<br/>/ Tu miejsca dość! /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jest jeszcze czas!<br/>Miłości pełna wieść<br/>Pod twój przychodzi dach,<br/>Więc wstań!<br/>Więc wstań<br/>I śpiesz swe życie nieść<br/>W ten wybawienia gmach,<br/>Boć jeszcze nie zamknięte wrota,<br/>Nie minął jeszcze czas żywota.<br/>/ Jest jeszcze czas! /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Najwyższy czas!<br/>Godziny prędko mkną,<br/>Już północ biej z wież!<br/>A z tamtych stron<br/>Weselne blaski lśnią!<br/>Drużyno, lampy bierz!<br/>Już Oblubieńca widać z dali;<br/>Niech każda lampę swą zapali!<br/>/ Najwyższy czas /x2</lines>
+    </verse>
+  </lyrics>
+</song>

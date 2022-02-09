@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:03">
+  <properties>
+    <titles>
+      <title>Niech moim sercem Pan Jezus wciąż włada</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="834"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niech moim sercem Pan Jezus wciąż włada.<br/>W myślach, uczuciach niech mieszka On Sam,<br/>Większej miłości nikt w świecie mi nie da,<br/>W Nim tylko pokój serdeczny już mam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dosyć już troski i dosyć niewoli.<br/>Brat i Zbawiciel na wieki jest mój!<br/>On nie opuści mnie w życia niedoli,<br/>W Domu zamieszkam, gdy skończy się znój.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chrystus obdarzył wspaniała wolnością,<br/>Ręką potężną łańcuchy me zdjął.<br/>Ducha napełnił obfitą miłością,<br/>Olej pokoju w mą duszę On wlał.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy w walce ciężkiej ma dusza ustanie<br/>Siły duchowej On raczy dać Sam.<br/>On mnie oczyści dobroci strumieniem,<br/>Radość, nadzieję i siły w Nim mam.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bój się zakończy, w przybytki pokoju<br/>W radość niebiańską wprowadzi mnie Pan.<br/>Wielkiej radości nie wzruszą już znoje<br/>W Ojca objęciach wypocznę więc tam.</lines>
+    </verse>
+  </lyrics>
+</song>

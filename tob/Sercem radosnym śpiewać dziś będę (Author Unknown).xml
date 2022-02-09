@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:57">
+  <properties>
+    <titles>
+      <title>Sercem radosnym śpiewać dziś będę</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="754"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sercem radosnym śpiewać dziś będę<br/>Chwałę wciąż Temu, co zbawił mnie,<br/>Więzy grzechowe śmiercią przekreślił,<br/>W serce zmęczone Swój pokój śle.<br/>/ Chwalić Go pragnę wciąż aż po zgon,<br/>Życia światłością jest tylko On.<br/>Zmartwień się nie bój,<br/>W wiarę się uzbrój,<br/>Wkrótce twych nieszczęść kres. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Precz wszystkie trwogi,<br/>Nie zboczę z drogi,<br/>Bo pielgrzymuję do jasnych stron,<br/>Dążę wytrwale, gdzie mój Pan w chwale<br/>W niebie u Ojca ma złoty tron.<br/>/ O, jakże marne są życia dnie,<br/>W Bogu jedynie jest szczęście me.<br/>On mocą moją, Życia ostoją,<br/>Jemu oddaję się. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chwila za chwilą Tu szybko mija,<br/>Krótko na ziemi dzień szczęścia trwa!<br/>Lecz w górze, w niebie, Pan przyjmie ciebie,<br/>Wieniec wieczności w nagrodę da.<br/>/ O, jakże bodrze być zawsze z Nim,<br/>Gdy On nazywa dziecięciem Swym.<br/>Tam z Aniołami, Psalm nad psalmami<br/>Śpiewać będziemy Mu. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

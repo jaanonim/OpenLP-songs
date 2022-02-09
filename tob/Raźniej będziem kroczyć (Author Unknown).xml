@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:41">
+  <properties>
+    <titles>
+      <title>Raźniej będziem kroczyć</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="461"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Raźniej będziem kroczyć poprzez życie swe,<br/>Gdy będziemy ufać Jezusowi,<br/>Moc znajdziemy, którą Pan nam z nieba śle,<br/>Gdy będziemy ufać Jezusowi.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Zajaśnieje droga nam,<br/>strzec nasz będzie Pan Bóg Sam,<br/>I z radością wejdziem tam,<br/>Gdy będziemy ufać Jezusowi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Obietnice Pańskie jasne staną się,<br/>Gdy będziemy ufać Jezusowi,<br/>Pokój Swój rozleje w sercach Pan, to wiem,<br/>Gdy będziemy ufać Jezusowi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z wolą Bożą postawimy każdy krok,<br/>Gdy będziemy ufać Jezusowi.<br/>Wiarą przejść możemy każdy mrok,<br/>Gdy będziemy ufać Jezusowi.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:31">
+  <properties>
+    <titles>
+      <title>Błogiej radości nastąpił mi czas</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="294"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Błogiej radości nastąpił mi czas,<br/>Odkąd już wiem, że miłuje Bóg nas,<br/>Bo w księdze świętej znajduję ja to,<br/>Że mnie Pan przyjął już na własność Swą.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, co za szczęście, spotkało mnie:<br/>Jezus, mój Pan miłuje mnie!<br/>O, co za szczęście spotkało mnie:<br/>Miłuje mnie, tak, mnie!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, co za szczęście, że Zbawcę już znam,<br/>Dostęp też przezeń do Ojca już mam!<br/>Wszyscy też ze mną radujcie się wraz,<br/>Bo Bóg miłuje w Jezusie i was.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chociaż bez Niego jam żył tyle lat,<br/>Wierny ten Pasterz mój szedł za mną w ślad.<br/>Dzisiaj me serce ku Niemu się rwie,<br/>Kiedy ja słyszę, że kocha Pan mnie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Serca nie trwoży tu żadne już zło,<br/>Pan mój mnie kocha, ja kocham też Go.<br/>On mnie wybawił, On poszedł na krzyż,<br/>Abym do Niego mógł dostać się wzwyż.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gdyby kto spytał, skąd pewność tę mam,<br/>Rzeknę, że w Biblii Bóg głosi ją Sam.<br/>O, co za szczęście, gdy Jego Duch tchnie<br/>W serce me wieść tę, iż kocha Pan mnie!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Trwoga się każda rozwiewa jak dym;<br/>Miłość mam Jego i pokój mam w Nim.<br/>Mocy szatana nie lękam się już,<br/>Gdyż wiem, że Jezus mój jest przy mnie tuż.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:53">
+  <properties>
+    <titles>
+      <title>O, Duchu Święty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="457"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, Duchu Święty, Stwórco, przyjdź,<br/>do serc Swojego ludu wnijdź,<br/>racz łaskę na Swe rzesze zlać,<br/>by mogły się świętymi stać.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pociechę w Tobie dał nam Pan,<br/>Ty duszę naszą leczysz z ran, Ty,<br/>źródło życia, tchnieniem Swym<br/>pokrzepiasz serca w życiu tym.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ty umysł nasz oświecić chciej<br/>i miłość w serca nasze wlej,<br/>niech Twoja moc nam siłę da<br/>i niech nas wspiera łaska Twa.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ty moc nieprzyjaciela skrusz i<br/>pokój w sercach naszych stwórz.<br/>Niech zawsze wierni radzie Twej,<br/>stawiamy opór mocy złej.</lines>
+    </verse>
+  </lyrics>
+</song>

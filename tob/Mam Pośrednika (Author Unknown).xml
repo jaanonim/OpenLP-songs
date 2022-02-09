@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:36">
+  <properties>
+    <titles>
+      <title>Mam Pośrednika</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="136"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mam Pośrednika, obrońcę tam w górze,<br/>pewności tej ziemia nie mogła mi dać;<br/>modłami i życiem starania dołożę,<br/>byś także się Jego poddanym mógł stać.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, niechby me modły cię z grzechu wywiodły!<br/>Ja błagam Cię, Panie: Każdemu się zjaw!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pełnego łaski w niebiesiech mam Ojca,<br/>On w żywej nadziei wprowadził mię raj.<br/>Powoła do Siebie mię z cierpień ogrójca;<br/>na rękach miłości też wznieść się Doń daj!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>O, niechby me modły cię z grzechu wywiodły!<br/>Ja błagam Cię, Panie: Każdemu się zjaw!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pokoju strumień mi z serca wypływa,<br/>którego świat nie zna, nie widzi, ni da.<br/>Mój Zbawca mię w cieniu Swych skrzydeł zakrywa,<br/>czyż twojej światłości nie mąci już ćma?</lines>
+    </verse>
+    <verse name="c3">
+      <lines>O, niechby me modły cię z grzechu wywiodły!<br/>Ja błagam Cię, Panie: Każdemu się zjaw!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A jeśli serce twe Zbawcę poznało,<br/>zwiastujże to innym i wywodź ich z ćmy,<br/>by wszyscy, gdy im się zbawienie już stało,<br/>kochali, sławili, wielbili, jak ty!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>O, niechby me modły cię z grzechu wywiodły!<br/>Ja błagam Cię, Panie: Każdemu się zjaw!</lines>
+    </verse>
+  </lyrics>
+</song>

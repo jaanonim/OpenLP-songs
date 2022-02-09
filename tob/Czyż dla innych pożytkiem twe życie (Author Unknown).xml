@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:47">
+  <properties>
+    <titles>
+      <title>Czyż dla innych pożytkiem twe życie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="336"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czyż dla innych pożytkiem twe życie?<br/>Boża miłość czy w tobie jaśnieje?<br/>Czy grzesznikom zwiastujesz zbawienie<br/>i w zgubionych rozniecasz nadzieję?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Daj, bym pożytkiem dla innych był dziś!<br/>Z miłością Swoją do serca się zbliż!<br/>W me biedne życie zlej łask obficie,<br/>abym pożytkiem dla innych był dziś!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czyż pomocą dla innych twe życie?<br/>Czy swym bliźnim brzemiona zdejmujesz?<br/>Maszli balsam dla serc utrapionych,<br/>czy strudzonym spoczynek wskazujesz?</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Daj, bym pożytkiem dla innych był dziś!<br/>Z miłością Swoją do serca się zbliż!<br/>W me biedne życie zlej łask obficie,<br/>abym pożytkiem dla innych był dziś!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Czyż ochłodą dla innych twe życie?<br/>Czyś jest chętny i zawsze gotowy twym<br/>najmniejszym, w czym możesz, usłużyć i<br/>z niedoli ich dźwignąć grzechowej?</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Daj, bym pożytkiem dla innych był dziś!<br/>Z miłością Swoją do serca się zbliż!<br/>W me biedne życie zlej łask obficie,<br/>abym pożytkiem dla innych był dziś!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ach, daremne i próżne twe życie,<br/>jeśli miejsce zostawiasz grzechowi.<br/>Panu przeto się oddaj zupełnie,<br/>On ożywi cię, wzmocni, odnowi!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Daj, bym pożytkiem dla innych był dziś!<br/>Z miłością Swoją do serca się zbliż!<br/>W me biedne życie zlej łask obficie,<br/>abym pożytkiem dla innych był dziś!</lines>
+    </verse>
+  </lyrics>
+</song>

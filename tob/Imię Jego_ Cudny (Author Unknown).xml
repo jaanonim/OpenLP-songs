@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:59">
+  <properties>
+    <titles>
+      <title>Imię Jego: Cudny</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="775"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Imię Jego: Cudny,<br/>Moc wypływa Zeń,<br/>Stanie świat obłudny<br/>Przed Nim w sądu dzień.<br/>Imię Jego: Sława,<br/>Wierny Ojca wzór.<br/>Pokłon Mu oddaje cały<br/>Niebian zbór.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Imię Jego: Słowo,<br/>Wiekuisty Bóg,<br/>Światy się na nowo<br/>Rodzą, rzesze sług.<br/>Imię Jego: Wierny,<br/>Do ostatnich dni.<br/>W łasce nas niezmiernej<br/>Wyrwał z grzechów ćmy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Imię Mu: Łagodny,<br/>Pasterz Bożych stad.<br/>On nasyci głodny<br/>I spragniony świat.<br/>On nasz Oblubieniec,<br/>Tęskne serca zna.<br/>Grzeszny świata jeniec<br/>W Nim swobodę ma.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dziwnie nam doradza<br/>W czasie ciężkich bied.<br/>Z troski wyprowadza<br/>I pomaga wnet.<br/>Od Ojcowskiej twarzy<br/>W Nim odblaski lśnią.<br/>Miłość On rozżarzy,<br/>Więc Doń serca lgną.</lines>
+    </verse>
+  </lyrics>
+</song>

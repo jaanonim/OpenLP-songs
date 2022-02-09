@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:50">
+  <properties>
+    <titles>
+      <title>801 Rota</title>
+    </titles>
+    <authors>
+      <author>Maria Konopnicka</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie rzucim ziemi, skąd nasz ród.<br/>Nie damy pogrześć mowy,<br/>Polski my naród, polski lud,<br/>Królewski szczep piastowy.<br/>Nie damy, by nas gnębił wróg.<br/>Tak nam dopomóż Bóg!<br/>Tak nam dopomóż Bóg! </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Do krwi ostatniej kropli z żył<br/>Bronić będziemy ducha,<br/>Aż się rozpadnie w proch i pył<br/>Krzyżacka zawierucha.<br/>Twierdzą nam będzie każdy próg.<br/>Tak nam dopomóż Bóg!<br/>Tak nam dopomóż Bóg! </lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Nie będzie Niemiec pluł nam w twarz,<br/>Ni dzieci nam germanił,<br/>Orężny wstanie hufiec nasz,<br/>Duch będzie nam hetmanił.<br/>Pójdziem, gdy zabrzmi złoty róg.<br/>Tak nam dopomóż Bóg!<br/>Tak nam dopomóż Bóg!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Nie damy miana Polski zgnieść,<br/>Nie pójdziem żywo w trumnę,<br/>W Ojczyzny imię i w jej cześć<br/>Podnosim czoła dumne.<br/>Odzyska ziemię dziadów wnuk.<br/>Tak nam dopomóż Bóg!<br/>Tak nam dopomóż Bóg!</lines>
+    </verse>
+  </lyrics>
+</song>

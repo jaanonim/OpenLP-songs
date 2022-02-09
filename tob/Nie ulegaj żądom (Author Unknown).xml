@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:39">
+  <properties>
+    <titles>
+      <title>Nie ulegaj żądom</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="191"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie ulegaj żądom, one łudzą cię,<br/>oddal gniew na zawsze, zwalczaj w sobie zło,<br/>jeśli mdlejesz w boju, Pan jest mocą twoją,<br/>Jemu tylko ufaj, On pomoże ci.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Siłą Ducha cię natchnie,<br/>wspierać też będzie zawsze,<br/>uczci za wierność sławnie,<br/>wiecznie, w niebiesiech, tam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dbaj o święte życie, czystość myśli,<br/>słów, obojętność zwalczaj, prawdę śmiało mów,<br/>maszli ciężkie boje, wiesz gdzie męstwa zdroje,<br/>Bogu tylko ufaj, On pomoże ci.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Siłą Ducha cię natchnie,<br/>wspierać też będzie zawsze,<br/>uczci za wierność sławnie,<br/>wiecznie, w niebiesiech, tam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Celem tego życia wieczna chwała jest,<br/>dla niej chętnie poświęć złudną świata cześć,<br/>manną słów Jezusa niech żyje twa dusza;<br/>w Bogu tylko ufaj, On cię wesprze sam.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Siłą Ducha cię natchnie,<br/>wspierać też będzie zawsze,<br/>uczci za wierność sławnie,<br/>wiecznie, w niebiesiech, tam.</lines>
+    </verse>
+  </lyrics>
+</song>

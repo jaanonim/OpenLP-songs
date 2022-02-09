@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:09">
+  <properties>
+    <titles>
+      <title>Święty, święty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="53"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Święty, święty, święty, święty,<br/>Święty, święty, Bóg Wszechmogący.<br/>Dziś wznosimy nasze serca<br/>Uwielbiając miłość Twą,<br/>Święty, święty, święty, święty!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dobry Ojcze, dobry Ojcze!<br/>Jak to dobrze być Twym dzieckiem<br/>Dobry Ojcze.<br/>Dziś wznosimy nasze głowy<br/>Uwielbiając miłość Twą,<br/>Dobry Ojcze, drogi Ojcze!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Drogi Jezu, drogi Jezu!<br/>Swoją krwią nas odkupiłeś<br/>Drogi Jezu.<br/>Dziś wznosimy nasze dłonie<br/>Uwielbiając miłość Twą,<br/>Drogi Jezu, drogi Jezu!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Duchu Święty, Duchu Święty!<br/>Przyjdź, napełnij nas swą mocą<br/>Duchu Święty.<br/>Dziś wznosimy nasze głosy<br/>Uwielbiając miłość Twą,<br/>Duchu Święty, Duchu Święty!</lines>
+    </verse>
+  </lyrics>
+</song>

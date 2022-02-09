@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:34">
+  <properties>
+    <titles>
+      <title>O dzień znów bliżej</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="12"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy nocne cienie kładą się.<br/>O dzień znów bliżej dom,<br/>Gdy światło pierzcha wokół mnie.<br/>Wpatrzony w gwiezdny strop,<br/>Przeżywam znów minione dnie,<br/>Radości, smutki, każdy krok,<br/>Do domu zbliża mnie.</lines>
+    </verse>
+  </lyrics>
+</song>

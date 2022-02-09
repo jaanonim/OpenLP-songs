@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:23">
+  <properties>
+    <titles>
+      <title>Maryjo Matko ma</title>
+    </titles>
+    <authors>
+      <author type="words">Tomasz Kupka Grażyna Nowakowska</author>
+      <author type="music">Tomasz Kupka Grażyna Nowakowska</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="384"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Anielskie powitanie,<br/>głos nagły jak świt<br/>i zdziwiona pytasz<br/>jak to mas się stać.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Maryjo o, najpiękniejsza<br/>zachwycie Żywego Słowa.<br/>Niepokalana, Umiłowana,<br/>Maryjo matko ma.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I znów szarość chwil co dzień,<br/>lecz radość w Twym sercu,<br/>że w Tobie choć nie wiesz jak<br/>zamieszkał Boży Syn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>W miłości nie ustająca,<br/>radością promieniująca,<br/>pokoju Królowo<br/>naucz pięknie żyć.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tak w trudzie lecz wierze ufnej,<br/>w niewiadomym jutrze,<br/>choć z sercem pełnym bólu,<br/>miłością żyjesz z Nim.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:11">
+  <properties>
+    <titles>
+      <title>Ręce me wznoszę</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Ręce me wznoszę,<br/>Wznoszę ku górom<br/>Skąd pomoc przyjdzie mi<br/>Pomoże mi Bóg, Stworzyciel nieba<br/>Pan Twórca ziemi tej /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tak potrzebuję Cię<br/>W Tobie nadzieję mam<br/>Do Ciebie modlę się<br/>Czekam cierpliwie tak,<br/>Aż wyratujesz mnie<br/>Ocalisz życie me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dzięki Ci za wszystko<br/>Za me nowe życie<br/>Za Twojego Ducha<br/>Dzięki Ci Panie</lines>
+    </verse>
+  </lyrics>
+</song>

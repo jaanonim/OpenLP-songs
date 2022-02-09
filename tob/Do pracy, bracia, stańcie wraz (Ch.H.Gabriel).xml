@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:44">
+  <properties>
+    <titles>
+      <title>Do pracy, bracia, stańcie wraz</title>
+    </titles>
+    <authors>
+      <author type="words">Ch.H.Gabriel</author>
+      <author type="music">Ch.H.Gabriel</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="479"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Do pracy, bracia, stańcie wraz,<br/>Bóg dzisiaj do żniw woła nas,<br/>Gromadzić każe bujny plon,<br/>Żniwiarzy wzywa ze wszech stron.<br/>A więc do pracy stańmy już,<br/>Zbierajmy kłosy bliźnich dusz<br/>I pamiętajmy w każdy czas,<br/>Że na to Pan tu wezwał nas.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Patrzcie, pola niałe wzdłuż,<br/>Bóg do pracy woła,<br/>Chociaż ręce mdleją już,<br/>Pot się leje z czoła;<br/>Szybko mija życia czas,<br/>Wkrótce Król zawezwie nas,<br/>Wkrótce, wkrótce<br/>Król zawezwie nas.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Więc chociaż ciężki pracy znój,<br/>Żniwiarzy niech nie spocznie rój,<br/>Niech żadna się nie cofnie dłoń,<br/>Aż zżęta będzie Boża błoń.<br/>I choć grom huczy, wicher dmie,<br/>Nie zejdziem z pola tego, nie,<br/>Do ostatniego trwajmy tchu,<br/>Bo Bóg nas Sam powołał tu!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Przeminie rychło żniwny znój,<br/>Zażąda plonu Zbawca twój,<br/>Więc żwawa rzeszo, sierpy bierz,<br/>Dokończyć pracę raźno śpiesz!<br/>Pan wezwie wkrótce wiernych Swych,<br/>Ozdobi wieńcem skromnie ich;<br/>Wezwani przed Baranka tron<br/>Doczesnych trudów zbiorą plon.</lines>
+    </verse>
+  </lyrics>
+</song>

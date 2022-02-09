@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:32">
+  <properties>
+    <titles>
+      <title>Słoneczne pola, promienne wzgórza</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="315"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Słoneczne pola, promienne wzgórza!<br/>Kroczyć z Jezusem, to istny raj!<br/>On przyrzekł, że mnie nie puści nigdy,<br/>Pewnie zawiedzie w ojcowski kraj.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Radość niebiańska, Słońce niebieskie<br/>Serce napełnia mi blaskiem Swym.<br/>Alleluja! źródło radosne<br/>- Zbawco wspaniały, Jezu, Tyś mym!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Srożą się burze i grożą chmury,<br/>- Jezus, mój Zbawca nie puści mnie.<br/>Zawsze i wszędzie pod Jego pióry<br/>- On mi Swe światło i w nocy śle.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Promienne Słońce, Słońce miłości,<br/>Piękna jest droga tu w świetle Twym!<br/>Chcę Ciebie chwalić, uwielbiać, sławić,<br/>Aż kiedyś w górze ja ujrzę Cię</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:46">
+  <properties>
+    <titles>
+      <title>Ojcze, błagam, nie opuszczaj mię!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="305"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ojcze, błagam, nie opuszczaj mię!<br/>w niepewnościach się znajduję,<br/>błądzę, ślepo poszukuję,<br/>ach, rozjaśnij przecież ścieżki me!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ojcze mój, Panie mój!<br/>Przed oblicze Twoje trafić chcę;<br/>Ojcze mój, Panie mój,<br/>według rady Swojej prowadź mię</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ojcze, podaj mi łaskawie dłoń!<br/>Na Twój rozkaz słońca płoną,<br/>Tyś robaczka jest obroną, jam<br/>Twe dziecię, więc się do mnie skłoń!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ojcze mój, Panie mój!<br/>Przed oblicze Twoje trafić chcę;<br/>Ojcze mój, Panie mój,<br/>według rady Swojej prowadź mię</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ojcze, błagam Cię o łaskę Twą!<br/>Zawsze nieposłuszny byłem, przeto<br/>drogę Twą zgubiłem, nie wiem,<br/>gdzie przewodnie gwiazdy lśnią.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Ojcze mój, Panie mój!<br/>Przed oblicze Twoje trafić chcę;<br/>Ojcze mój, Panie mój,<br/>według rady Swojej prowadź mię</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ojcze, ukój mej tęsknoty ból!<br/>Swoją otocz mię opieką,<br/>gdyż ojczyzna ma daleko;<br/>w tym tułactwie mię do serca tul!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Ojcze mój, Panie mój!<br/>Przed oblicze Twoje trafić chcę;<br/>Ojcze mój, Panie mój,<br/>według rady Swojej prowadź mię</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ojcze, ześlij błogi pokój Swój!<br/>Gdy Twój słodki głos usłyszę,<br/>wnet ukorzę się, uciszę;<br/>w dole śmierci znajdę życia zdrój.</lines>
+    </verse>
+    <verse name="c5">
+      <lines>Ojcze mój, Panie mój!<br/>Przed oblicze Twoje trafić chcę;<br/>Ojcze mój, Panie mój,<br/>według rady Swojej prowadź mię</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ojcze, prowadź mię do chwały wzwyż!<br/>Przez niepewność, ból i chmurę<br/>prowadź dziecię Swoje w górę.<br/>Niech drabiną w niebo będzie krzyż!</lines>
+    </verse>
+    <verse name="c6">
+      <lines>Ojcze mój, Panie mój!<br/>Przed oblicze Twoje trafić chcę;<br/>Ojcze mój, Panie mój,<br/>według rady Swojej prowadź mię</lines>
+    </verse>
+  </lyrics>
+</song>

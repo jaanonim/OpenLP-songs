@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:20">
+  <properties>
+    <titles>
+      <title>Jezus Chrystus Panem jest</title>
+    </titles>
+    <authors>
+      <author type="translate">Iwona Bednarz</author>
+      <author type="words">Graham Kendrick</author>
+      <author type="music">Graham Kendrick</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="282"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus Chrystus Panem jest, //<br/>Król to Królów Panów Pan. //<br/>Cała ziemia Jego jest, //<br/>Po najdalszy świata kres. //</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jezus, Jezus Królów Król,<br/>Królów Król.<br/>Jezus, Jezus świata Pan,<br/>świata Pan.<br/>Świata Pan, świata Pan!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On okrzykiem w walce jest, //<br/>Sprawiedliwość niesie nam. //<br/>Poznać bardziej chcemy Go, //<br/>w marszu wielbiąc Imię to. //</lines>
+    </verse>
+  </lyrics>
+</song>

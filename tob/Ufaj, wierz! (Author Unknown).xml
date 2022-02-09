@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:14">
+  <properties>
+    <titles>
+      <title>Ufaj, wierz!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="253"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ufaj, wierz! Ufaj, wierz!<br/>Ufaj, wierz Panu wciąż!<br/>Ufaj, wierz Panu wciąż,<br/>/ Tak jak góra Syjon nie chwieje się,<br/>Lecz trwać będzie mocno na wieki! /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bo Pan otaczać będzie lud Swój<br/>I aż na wieki będzie strzec!<br/>Bo Pan otaczać będzie lud Swój<br/>I aż na wieki<br/>Strzec go zawsze będzie!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ufaj, wierz! Ufaj, wierz!<br/>Ufaj, wierz Panu wciąż!<br/>Ufaj, wierz Panu wciąż,<br/>/ Tak jak góra Syjon nie chwieje się,<br/>Lecz trwać będzie mocno na wieki! /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alleluja! Alleluja! Alleluja!<br/>Alleluja! Alleluja! Alleluja!<br/>Alleluja! Amen!</lines>
+    </verse>
+  </lyrics>
+</song>

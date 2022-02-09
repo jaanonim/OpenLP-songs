@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:02">
+  <properties>
+    <titles>
+      <title>Wielu ludzi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="167"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wielu ludzi mówi o niebie,<br/>Że pójdą tam pewnego dnia,<br/>Lecz grzech zakrywa im prawdę tę,<br/>Że Jezus drogą jest sam.<br/>Więc my, którzy mamy Jezusa,<br/>Świadczymy o Nim wszystkim wkrąg,<br/>Że trzeba zbawienie dzisiaj wziąć<br/>Z Jezusa rąk!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Najwspanialszym miejscem jest niebo<br/>Świeci tam Jezusa blask!<br/>Chcę ujrzeć twarz mego Zbawcy,<br/>W niebie pełnym chwały i łask!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Żyjmy i pracujmy dla Pana,<br/>Służmy Jemu w każdy czas,<br/>Bo kiedy przyjdzie Zbawiciel nasz,<br/>Do nieba weźmie nas.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uczyń Jego także mieszkańcem<br/>Dla tych, których dręczy grzech<br/>By potem móc w niebie śpiewać<br/>Radości pieśń!</lines>
+    </verse>
+  </lyrics>
+</song>

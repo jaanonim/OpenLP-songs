@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:49">
+  <properties>
+    <titles>
+      <title>Otwarte jest niebo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="395"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Otwarte jest niebo, o, serce, czy wiesz?<br/>Bo Jezus krew przelał, więc z tego się</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na krzyżu Golgoty, tam cierpiał za cię,<br/>za wszystkich grzeszników umęczyć dał się.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, przyjdźże do Zbawcy, Doń, duszo, się śpiesz,<br/>On rad ci pomoże, więc Jemu się zwierz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>krew Pana Jezusa wygładzi wnet je.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>trwaj i wszystkie swe bóle i troski Mu zdaj.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>na wieki twym Zbawcą chce być.</lines>
+    </verse>
+  </lyrics>
+</song>

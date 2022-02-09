@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:51">
+  <properties>
+    <titles>
+      <title>Imię Jego</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="417"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Imię Jego: Cudny, moc wypływa Zeń.<br/>Stanie świat obłudny przed Nim w sądu dzień.<br/>Imię Jego Sława, wierny Ojca wzór;<br/>pokłon Mu oddawa cały niebian zbór.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Imię Jego: Słowo, Wiekuisty Bóg;<br/>światy się na nowo rodzą z Jego rąk.<br/>Imię Jego: Wierny do ostatnich dni;<br/>w łasce nas niezmiernej wyrwał z grzechów ćmy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Imię ma: Łagodny, Pasterz Bożych stad;<br/>On nasyci głodny i spragniony świat.<br/>On nasz Oblubieniec, tęskne serca zna;<br/>grzeszny świata jeniec w Nim swobodę ma.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dziwnie nam doradza w czasie ciężkich bied,<br/>z troski wyprowadza i pomaga wnet.<br/>Od Ojcowskiej twarzy w Nim odblaski lśnią.<br/>On miłością darzy, więc Doń serca lgną.</lines>
+    </verse>
+  </lyrics>
+</song>

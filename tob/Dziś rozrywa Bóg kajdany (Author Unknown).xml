@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:08">
+  <properties>
+    <titles>
+      <title>Dziś rozrywa Bóg kajdany</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="67"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>{Dziś rozrywa Bóg kajdany,} 3x<br/>i swobodę daje nam.<br/>My nie możemy dłużej bez Jezusa żyć.<br/>On fundamentem i nadzieją naszą jest,<br/>On nas wyzwala z więzów grzechu, śmierci, piekła.<br/>My nie możemy dłużej bez Jezusa żyć.</lines>
+    </verse>
+  </lyrics>
+</song>

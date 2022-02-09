@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:32">
+  <properties>
+    <titles>
+      <title>Radosną pieśń chwały w sercu mam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="314"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Radosną pieśń chwały w sercu mam,<br/>o Boże mój, o Boże mój!<br/>Twoją Ojcowską ja miłość znam<br/>i dobroć Twą, i łaskę.<br/>Duch mój radośnie tu z ziemskich stron<br/>Do Ciebie wzniesie się przed Twój tron,<br/>W Twoim objęciu tam spocznie on<br/>I dozna Twojej łaski.<br/>Nie, ja nie lękam się, nie, ja nie lękam się!<br/>Mym przyjacielem jest Jezus Pan,<br/>Doznaję Jego łaski.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rajski powiewie pokoju, wioń<br/>do naszych serc, do naszych serc!<br/>Do serc zwątlałych Twój pokój wlej<br/>i nową daj im siłę!<br/>Gdy nas owionie Twa Ducha moc,<br/>W dzień jasny przemieni wszelką noc,<br/>Grzech nie potrafi na wtedy zmóc,<br/>Boś Ty jest naszą siłą!<br/>Nie, ja nie lękam się,<br/>nie, ja nie lękam się!<br/>Mym przyjacielem jest Jezus Pan,<br/>Daje mi moc i siłę</lines>
+    </verse>
+  </lyrics>
+</song>

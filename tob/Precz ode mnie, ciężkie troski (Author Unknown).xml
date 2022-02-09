@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:38">
+  <properties>
+    <titles>
+      <title>Precz ode mnie, ciężkie troski</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="414"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Precz ode mnie, ciężkie troski,<br/>Stróż mój żyje, czuwa wciąż.<br/>Zna mój Pocieszyciel Boski<br/>Boleść, którą zadał wąż.<br/>/ Co Bóg chce i czyni tu,<br/>Jest mym dobrem, chwała Mu! /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeszcze przed powstaniem świata<br/>On los życia mego znał,<br/>Nosił mię przez wszystkie lata<br/>I jak Ojciec o mnie dbał.<br/>/ Tu nie rządzi ślepy los<br/>- Bóg we wszystkim ma Swój głos. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Policz wszystkie chwile twoje,<br/>Odkąd błysł ci życia brzask,<br/>Zlicz cierpienia, trudy, znoje,<br/>Lecz i szczęście z Jego łask.<br/>/ Powiedz, czy nie zawsze Bóg<br/>Mądrze wiódł twój każdy krok? /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Poświęć Panu całe życie,<br/>Nie troszcz się, zaufaj Mu!<br/>On jest Ojcem - da obficie,<br/>Co ci jest potrzebnym tu.<br/>/ Proś Go więc po wszystkie dni:<br/>Ojcze, pobłogosław mi! /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Módl się więc i nie bądź trwożny<br/>Chwiejny na kształt morskich fal.<br/>Gdyś ubogi, On wielmożny,<br/>Ufaj Mu, On zna twój żal<br/>/ Pan zaradzi, nie bój się,<br/>Jego moc wybawi cię. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

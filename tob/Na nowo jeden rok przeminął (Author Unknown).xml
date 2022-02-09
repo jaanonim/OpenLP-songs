@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:53">
+  <properties>
+    <titles>
+      <title>Na nowo jeden rok przeminął</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="670"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na nowo jeden rok przeminął,<br/>Cel dążeń naszych - wieczność zbliża się.<br/>Żem pośród nieszczęść nie zaginął,<br/>Że dobroć Twa wspierała ciągle mię,<br/>Zawdzięczam Tobie, Panie, Boże mój!<br/>Bom ja tak w życiu jak i w śmierci Twój.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Znikają krótkie życia chwile,<br/>Nietrwałą jest ziemskiego szczęścia moc,<br/>Ach, nieraz słońce świeci mile,<br/>A wnet je tłumi ciemna burzy noc,<br/>Gdy, Boże, ręka Twa osłania mię<br/>Nieszczęścia wtedy nie ulęknę się.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ty jesteś, Boże, tarczą moją,<br/>Twa łaska nowych mi udziela sił;<br/>Gdym błagał Cię o pomoc Twoją,<br/>Tyś mi obroną i pociechą był.<br/>Dlaczegóż bym się miał przyszłości bać,<br/>Gdyś raczył mi dowody łaski dać?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Twe imię święte będę sławił<br/>I w Twym przymierzu będę ciągle trwał,<br/>Boś mię od złego, Panie, zbawił<br/>I w słowie Swym obfitość pociech dał.<br/>Słabości moje racz przebaczyć ii,<br/>I łaskę zlej na przyszłe życia dni!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sam wspieraj chwiejne kroki moje<br/>I każej chwili racz kierować mną!<br/>Gdy śmierć tworzy swe podwoje,<br/>Wprowadzisz mię, gdzie wierni Twoi są.<br/>Niebiański wówczas głosu Twego dźwięk<br/>Ostatni piersi moich stłumi jęk.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:55">
+  <properties>
+    <titles>
+      <title>Na zew Zbawcy ja się ozwę</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="507"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Na zew Zbawcy ja się ozwę //<br/>na zew Zbawcy ja się ozwę,<br/>ja się ozwę, gdy zawoła mnie.<br/>// Będę pilnie słuchać // ,<br/>aż usłyszę także imię me.<br/>// Będę pilnie słuchać // ,<br/>aż usłyszę także imię me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>// Z wdzięcznym sercem ja się ozwę //<br/>Z wdzięcznym sercem ja się ozwę,<br/>gdy usłyszę, że On woła mnie.<br/>// Będę pilnie słuchać // ,<br/>aż usłyszę także imię me.<br/>// Będę pilnie słuchać // ,<br/>aż usłyszę także imię me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>// Na zew Zbawcy czy odpowiesz? //<br/>Na zew Zbawcy czy odpowiesz?<br/>Czy odpowiesz, gdy zawoła cię?<br/>// Musisz pilnie słuchać //<br/>aż usłyszysz także imię twe.<br/>// Musisz pilnie słuchać //<br/>aż usłyszysz także imię twe*.</lines>
+    </verse>
+  </lyrics>
+</song>

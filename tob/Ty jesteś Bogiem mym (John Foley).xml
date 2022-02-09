@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:31">
+  <properties>
+    <titles>
+      <title>Ty jesteś Bogiem mym</title>
+      <title>For You are my God</title>
+    </titles>
+    <authors>
+      <author type="words">John Foley</author>
+      <author type="music">John Foley</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="649"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ty jesteś Bogiem mym,<br/>Ty jesteś radością mą<br/>uwielbiam Cię Panie. // x2 //</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Połóż mnie jak pieczęć<br/>na Twym sercu,<br/>jak pieczęć na Twoim ramieniu,<br/>bo jak śmierć potężna jest miłość<br/>a zazdrość jej nieprzejednana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie lękam się, bo Ty mnie wybawiłeś,<br/>Wezwałeś po imieniu jam Twój.<br/>Gdzie pójdę, tam Ty będziesz ze mną,<br/>Bo Ty jesteś Jahwe, mój Bóg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rozważmy, oceńmy swe drogi,<br/>Powróćmy do Boga Jahwe,<br/>Wraz z dłońmi wznieśmy i serca<br/>do Boga naszego w niebiosach.</lines>
+    </verse>
+  </lyrics>
+</song>

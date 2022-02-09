@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:52">
+  <properties>
+    <titles>
+      <title>O, pójdź na Golgotę</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="426"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, pójdź na Golgotę, kto żyw, okropny<br/>oglądać tam widok i dziw:<br/>To Mesjasz do krzyża przybity przez lud,<br/>któremu poświęcał swe życie i trud.<br/>Oddajmy Mu hołd!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, pójdź na Golgotę i sądź, czy możesz ty<br/>nadal w swych grzechach tak brnąć:<br/>Za ciebie przelewał Zbawiciel swą krew,<br/>żeś Bogu twojemu sprzeciwiał się wbrew.<br/>Oddajmy Mu hołd!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, patrz na Golgocie twój Król! Cierpliwie<br/>za ciebie przenosił On ból,<br/>z kielicha twojego zabójczy pił jad i<br/>ducha oddając, śmiertelnie On zbladł.<br/>Oddajmy Mu hołd!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, spójrz: na Golgocie tam wzwyż, tam<br/>Jezus wyciąga swe ręce na krzyż.<br/>„Ach przebacz im, Ojcze, i na mnie zwróć cios -<br/>nie wiedzą co czynią" - tak wołał On w głos.<br/>Oddajmy Mu hołd!</lines>
+    </verse>
+  </lyrics>
+</song>

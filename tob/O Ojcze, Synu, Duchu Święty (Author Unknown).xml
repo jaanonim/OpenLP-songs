@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:49">
+  <properties>
+    <titles>
+      <title>O Ojcze, Synu, Duchu Święty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="590"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Ojcze, Synu, Duchu Święty,<br/>Ochrzczony jestem w imię Twe,<br/>Do rzeszy sług Twych jam przyjęty,<br/>Do ludu, co się świętym zwie.<br/>Przymierzem z Panem dla mnie jest<br/>Sumienia mego teraz chrzest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dziedzicem, synem Twym się stałem<br/>Przez łaskę Twą, o Boże mój!<br/>Plon, Chryste, śmierci Twej mym działem;<br/>I dla mnieś znosił krwawy znój!<br/>Tyś, Duchu Święty, we mnie żyć<br/>I mą pociechą przyrzekł być.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na nowo Tobie się oddaję<br/>Z swym duchem oraz z ciałem swym.<br/>Strzeż, niech w wierności nie ustaję,<br/>I miej w opiece mię przed złym!<br/>A każda kropla mojej krwi,<br/>Niech tylko służy ku Twej czci.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Ojcze, Synu, Duchu Święty,<br/>Niech w tym przymierzu wiernie trwam;<br/>Daj mocy, bym był nieugięty,<br/>Dopóki żyć na ziemi mam!<br/>Własnością Twoją pragnę, być<br/>I ku Twej chwale wiecznie żyć</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:41">
+  <properties>
+    <titles>
+      <title>Kto tak na Bogu swym polega</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="224"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kto tak na Bogu swym polega i Go uwielbia<br/>w każdy dzień, gdy smutek mu i krzyż dolega.<br/>Pan go cudownie zdejmie zeń. Kto tak się z wolą<br/>Pańską zrósł, ten nie na piasku dom swój wzniósł.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cóż nam pomogą ciężkie troski, wzdychania:<br/>Ach, mój Boże, ach! Czyż tym osłodzim ucisk gorzki,<br/>gdy oczy ciągle toną w łzach?<br/>Im więcej biadasz ty i łkasz,<br/>tym większy w sercu ciężar masz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wytrwajże tylko w swej niedoli,<br/>posłusznie się na Boga zdaj i czekaj:<br/>wkrótce z Jego woli wykwitnie ci niezwiędły maj.<br/>Bóg, co w Chrystusie wybrał nas, wie,<br/>co nam dawać w każdy czas.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>On ma stosowny czas radości i czegoć trzeba,<br/>dobrze wie. Gdy dochowamy Mu wierności,<br/>gdy fałszem duszy brzydzim się,<br/>przychodzi wnet z niebieskich bram i pomoc hojną niesie nam.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Z modlitwą szczerą i śpiewaniem wypełniaj obowiązek swój,<br/>a Bóg otoczy cię staraniem i wskaże szczęśliwości zdrój.<br/>Kto się na Pana ufnie zda, wiernego w Nim obrońcę ma.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:20">
+  <properties>
+    <titles>
+      <title>Zbawicielu wywyższony</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="70"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zbawicielu wywyższony,<br/>Miły Jezu Ty!<br/>Tron Twój, chwałą ozdobiony,<br/>Cudnym blaskiem lśni.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wszyscy z Tobą iść chcemy,<br/>Innej drogi nie wiemy;<br/>Wciąż przy Tobie chcemy stać,<br/>chcemy stać,<br/>Życie Ci w ofierze dać,<br/>życie dać.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niebo tronem Twojej chwały,<br/>Świat u Twoich nóg.<br/>Podwaliny piekła drżały,<br/>Gdyś szatana zmógł.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Drogą wąską cierpień, bólu<br/>Przejść musiałeś raz;<br/>Teraz, uwielbiony Królu,<br/>W niebo zwiesz i nas.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ach, na sercu Twoim, Panie,<br/>Odpoczynku zdrój;<br/>Żal i boleść już ustanie<br/>Temu, kto jest Twój.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tam, gdzie szczęście niezaćmione,<br/>Gdzie tron wieczny masz,<br/>Gdzie korony przyrzeczone<br/>Bojownikom dasz,</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Refr.: Tam za Tobą dojdziemy,<br/>Tam modlitwy swe ślemy;<br/>Tam korony będą lśnić,<br/>będą lśnić,<br/>Z Tobą wiecznie będziem żyć,<br/>będziem żyć.</lines>
+    </verse>
+  </lyrics>
+</song>

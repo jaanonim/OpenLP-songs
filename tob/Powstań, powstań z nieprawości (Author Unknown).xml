@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:24">
+  <properties>
+    <titles>
+      <title>Powstań, powstań z nieprawości</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="150"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Powstań, powstań z nieprawości,<br/>Duszo, póki czas miłości,<br/>Powstań z twojej ospałości!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wspomnij sobie, żeś grzeszyła,<br/>Zakon Pański przestąpiła,<br/>Na karanie zasłużyła.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lecz Bóg jednak cię miłował,<br/>Syna Swego ci darował,<br/>Przezeń łaskę ofiarował.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Chrystus, chcąc odkupić ciebie,<br/>Żył w niskości i w potrzebie,<br/>Na śmierć podał za cię Siebie.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pomnij na to, duszo miła,<br/>I patrz, byś już nie grzeszyła,<br/>Całym sercem Dlań tu żyła.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Pomnij, że ty dnia sądnego<br/>Musisz liczbę dać z wszystkiego,<br/>Coś czyniła czasu tego.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Wszystko tam na jawie stanie;<br/>Nie pomoże ukrywanie,<br/>Ani usprawiedliwianie.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Któż zastąpi cię w tej dobie?<br/>Kto łaskawym będzie tobie?<br/>Chrystus - Jego zjednaj sobie!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Idź do Niego w prawej wierze,<br/>Spój się z Nim miłością szczerze,<br/>On od zguby cię ustrzeże!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Czyń tak, jak On, wolę twego<br/>Ojca w niebie łaskawego,<br/>A nic cię nie spotka złego</lines>
+    </verse>
+  </lyrics>
+</song>

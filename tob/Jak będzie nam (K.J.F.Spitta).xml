@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:48">
+  <properties>
+    <titles>
+      <title>Jak będzie nam</title>
+    </titles>
+    <authors>
+      <author type="words">K.J.F.Spitta</author>
+      <author type="music">K.J.F.Spitta</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="569"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak będzie nam, gdy po skończonym boju,<br/>Ciężkim, ostatnim przewalczonym już,<br/>Z obczyzny się przeniesiem do pokoju,<br/>Przez bramę wieczną do Ojczyzny dusz!<br/>Gdy resztę z naszych nóg strząśniemy pyłu,<br/>Z oblicza zetrzem pot ostatni raz,<br/>Gdy ujrzym to, co nieraz nas krzepiło<br/>I nową pocą napełniło nas.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jak będzie nam, gdy staniem tam oblani<br/>Jasnością wieczną niegasnących zórz,<br/>Gdzie, o roskoszy, nic nas już nie zrani,<br/>I grzech i krzyż przestaną nękać już.<br/>Gdy Pan skinieniem wezwie nas prawicy,<br/>A my spokojni, nie znający trwóg,<br/>Staniemy przed Nim jako domownicy,<br/>I gdy mas jak Swe dzieci przyjmie Bóg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jak będzie nam, gdy dusza wyzwolona<br/>W skrzydła uderzy, aby lecieć tam,<br/>Skąd Bóg wyciąga do niej Swe ramiona<br/>I chce ją wieść do Swego raju bram.<br/>Gdy z ócz zasłona wszelka wreszcie spadnie,<br/>Jak przed blaskami słońca pierzcha zmrok;<br/>Kiedy widzenia zachwyt nas ogarnie<br/>I Boży tron olśniony ujrzy wzrok.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jak będzie nam, gdy głos usłyszym Pana:<br/>„Błogosławieni, pójdźcie, pójdźcie wraz!"<br/>I błyśnie ku nam Zbawcy twarz świetlana,<br/>Co kiedyś pełna była krwawych zmaz!<br/>Gdy w oczy spojrzym, niedgyś zapłakane<br/>Przez zatwardziałość serc, przez mnóstwo win;<br/>Gdy ran ujrzym, ach, dla nas zadane,<br/>Przez które nas odkupił Boży Syn!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jak będzie nam, - o, nie widziały oczy<br/>I nie słyszały uszy, jakich łask<br/>Wspaniałość wieczna w niebie nas otoczy,<br/>Gdy wzgórz Syjonu cudny ujrzym blask.<br/>Więc w górę pnijmy się po stromej drodze<br/>I niech nie zraża nas pielgrzymki trud:<br/>Daj, Paniem stanąć utrudzonej nodze<br/>U jasnych, triumfalnych raju wrót!</lines>
+    </verse>
+  </lyrics>
+</song>

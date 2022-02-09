@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:39">
+  <properties>
+    <titles>
+      <title>Bądź pasterzem naszym, Panie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="431"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bądź pasterzem naszym, Panie,<br/>Stadem Twym pragniemy być;<br/>Wiedz je przez świat, aż tam stanie,<br/>Gdzie ma z Tobą wiecznie żyć.<br/>Żadna owca stada Twego<br/>Wpaść nie musi w zguby toń,<br/>Bowiem z boju je każdego<br/>Mocna Twa wyrywa dłoń.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W kogo, Jezu, jak nie w Ciebie<br/>Mamy wierzyć, wszak Ty Sam,<br/>Opuściwszy tron Swój w niebie.<br/>Darowałeś Siebie nam.<br/>Pomoc Twa dla wszystkich wszędzie<br/>Dana jest w ofierze tej,<br/>Więc i my w Twych wiernych rzędzie<br/>Chcemy iść po drodze Twej.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chociaż Ciebie nie widzimy<br/>Dzisiaj jeszcze twarzą w twarz,<br/>Jednak imię Twe wielbimy,<br/>Ze nam twarz Swą ujrzeć dasz,<br/>Gdy przed tronem Twym staniemy,<br/>A Ty Bogu oddasz nas.<br/>Spraw, niech lepiej poznajemy,<br/>Żeśmy Twoi w każdy czas.</lines>
+    </verse>
+  </lyrics>
+</song>

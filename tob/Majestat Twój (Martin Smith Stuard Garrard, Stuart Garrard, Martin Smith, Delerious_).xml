@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:23">
+  <properties>
+    <titles>
+      <title>Majestat Twój</title>
+    </titles>
+    <copyright>2003, 2004 Curious? Music UK</copyright>
+    <authors>
+      <author type="words">Martin Smith Stuard Garrard</author>
+      <author type="music">Martin Smith Stuard Garrard</author>
+      <author type="words">Stuart Garrard</author>
+      <author type="music">Stuart Garrard</author>
+      <author type="words">Martin Smith</author>
+      <author type="music">Martin Smith</author>
+      <author type="words">Delerious?</author>
+      <author type="music">Delerious?</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="383"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oto ja przychodzę przed Majestat Twój<br/>Płaszcz Twej łaski okrywa mnie<br/>Zbliżam się, człowiek, który grzechu brud<br/>Krwią Baranka zmyć z siebie mógł<br/>Teraz wiem<br/>jak wielka Twoja Miłość jest,<br/>Oddałeś życie by w ofierze złożyć je.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Królu mój, Królu mój<br/>Twa łaska na mnie wylała się<br/>Ożywiła ducha, zbawiła mnie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miłość Twa pokory uczy, przebacza grzech<br/>I chce, bym innym przebaczał też<br/>Stoję tu, bo wola Twa spełniła się<br/>Gdy święty ogień uświęcił mnie<br/>Teraz wiem<br/>jak wielka Twoja Miłość jest,<br/>Oddałeś życie by w ofierze złożyć je.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Królu mój, Królu mój<br/>Twa łaska na mnie wylała się<br/>Ożywiła ducha, zbawiła mnie.<br/>Królu mój, Królu mój<br/>Wdzięcznością serce wypełnia się<br/>Gdy przychodzę przed Majestat Twój,<br/>Królu mój.</lines>
+    </verse>
+  </lyrics>
+</song>

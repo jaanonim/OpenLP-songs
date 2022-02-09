@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:08">
+  <properties>
+    <titles>
+      <title>Lulajże Jezuniu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lulajże, Jezuniu, moja perełko,<br/>Lulaj ulubione me pieścidełko.<br/>Lulajże, Jezuniu, lulajże, lulaj,<br/>A ty, Go Matulu, w płaczu utulaj.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zamknijże znużone płaczem powieczki,<br/>Utulże zemdlone łkaniem usteczki,<br/>Lulajże, Jezuniu, lulajże, lulaj!<br/>A ty, Go Matulu, w płaczu utulaj.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lulajże, pielkniuchny nasz Aniołeczku,<br/>Lulajże,wdzięczniuchny świata kwiateczku.<br/>Lulajże, Jezuniu, lulajże, lulaj,<br/>A ty, Go Matulu, w płaczu utulaj.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lulajże, różyczko najozdobniejsza,<br/>Lulajże, lilijko najprzyjemniejsza.<br/>Lulajże, Jezuniu, lulajże, lulaj,<br/>A ty, Go Matulu, w płaczu utulaj.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lulajże, prześliczna oczom gwiazdeczko,<br/>Lulaj, najśliczniejsze świata słoneczko.<br/>Lulajże, Jezuniu, lulajże, lulaj,<br/>A ty, Go Matulu, w płaczu utulaj.</lines>
+    </verse>
+  </lyrics>
+</song>

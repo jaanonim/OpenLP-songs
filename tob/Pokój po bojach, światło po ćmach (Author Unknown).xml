@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:52">
+  <properties>
+    <titles>
+      <title>Pokój po bojach, światło po ćmach</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="653"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pokój po bojach, światło po ćmach,<br/>Po smutku wejście w błogości gmach;<br/>Słońce przebłyska z posępnych chmur,<br/>Wytchnienie spływa z niebieskich gór.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Radość po żalu, po bólach lek,<br/>Po stratach życia słoneczny wiek,<br/>Moc po słabości, po hańbie cześć;<br/>Burze uciszy pokoju wieść.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Po trudach życia ochłody cień,<br/>Po klęskach sławny zwycięstwa dzień;<br/>Wielkie uciski, gorycz i krzyż<br/>Niosą koronę z niebieskich wyż.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Po nędzy hojność, wolność od mąk,<br/>Powrót z wygnania do Ojca rąk.<br/>Po śmierci życie, życie wśród chwał,<br/>- To odkupionych wspaniały dział.</lines>
+    </verse>
+  </lyrics>
+</song>

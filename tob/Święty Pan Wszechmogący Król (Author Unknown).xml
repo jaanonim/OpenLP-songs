@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:14">
+  <properties>
+    <titles>
+      <title>Święty Pan Wszechmogący Król</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Święty Pan Wszechmogący Król<br/>Święty Pan w chwałach swego ludu Tyś /x2<br/>/ W Twej chwale stoję tu<br/>Miłość Twa otacza mnie<br/>Teraz już wiem że święty jesteś Ty /x2</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:38">
+  <properties>
+    <titles>
+      <title>004 Gdy schodzimy się</title>
+    </titles>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="p">
+        <open>&lt;p&gt;</open>
+        <close>&lt;/p&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy schodzimy się, <br/>niech Święty Duch w nas działa <br/>Gdy schodzimy się, by wielbić Imię Twe. <br/>Wiemy dobrze, że gdy serca są otwarte,<br/><tag name="p"/><br/>Błogosławisz mocą swą <br/>Błogosławisz, boś obiecał to <br/>Błogosławisz mocą swą.</lines>
+    </verse>
+  </lyrics>
+</song>

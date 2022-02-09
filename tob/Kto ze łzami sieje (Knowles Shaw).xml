@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:00">
+  <properties>
+    <titles>
+      <title>Kto ze łzami sieje</title>
+    </titles>
+    <authors>
+      <author type="words">Knowles Shaw</author>
+      <author type="music">Knowles Shaw</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="789"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kto ze łzami sieje<br/>dobre tu nasienie,<br/>Wielką mu nagrodę<br/>da w przyszłości Bóg.<br/>Daje mu też siły,<br/>by znosił cierpienie,<br/>W społeczności świętych,<br/>radość będzie żąć.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Radość będzie żąć,<br/>radość będzie żąć,<br/>Tam w obozie świętych,<br/>radość będzie żąć. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Więc rozsiewaj z rana<br/>ziarno błogiej wieści<br/>I nie odpoczywaj,<br/>choć dokucza żar!<br/>Pracuj do wieczora<br/>w smutku i w przykrości,<br/>Użyj każdą chwilę,<br/>którą Bóg ci dał.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z wiarą i z miłością<br/>Boże siej nasienie:<br/>Podle drogi, w ciernie,<br/>i na szczytach skał.<br/>Ono sobie znajdzie<br/>urodzajną ziemię<br/>I korzyści wielkie<br/>będziesz z niego miał.</lines>
+    </verse>
+  </lyrics>
+</song>

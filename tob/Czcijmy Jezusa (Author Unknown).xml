@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:27">
+  <properties>
+    <titles>
+      <title>Czcijmy Jezusa</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czcijmy Jezusa, czcijmy Go<br/>Oddajmy mu chwałę<br/>Czcijmy Jezusa czcijmy Go<br/>Powstał z martwych<br/>Powstał z martwych<br/>I on żyje na wieki już<br/>Więc razem<br/>Radujmy się<br/>Świętując<br/>Zmartwychwstania dzień</lines>
+    </verse>
+  </lyrics>
+</song>

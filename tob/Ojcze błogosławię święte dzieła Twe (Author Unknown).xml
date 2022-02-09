@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:26">
+  <properties>
+    <titles>
+      <title>Ojcze błogosławię święte dzieła Twe</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="477"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ojcze błogosławię święte dzieła Twe,<br/>Ty mi dajesz życie, zmieniasz serce me.<br/>Pozwól mi przy Tobie<br/>Panie blisko trwać,<br/>bym mógł ludziom Ciebie<br/>swoim życiem dać.<br/>Ojcze, Ojcze Ojcze.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dzięki Boży Synu, że znalazłeś mnie<br/>Twoja wielka miłość skryła grzechy me.<br/>Jesteś blisko Panie by swe ziarno siać,<br/>wielbię Twoje Imię<br/>życie swe chcę Ci dać.<br/>Jezu, Jezu , Jezu</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chwała Tobie Duchu,<br/>za Twą świętą moc,<br/>Ty mi dajesz życie, rozjaśniasz noc.<br/>Prowadź moje myśli,<br/>w moim życiu trwaj,<br/>chcę Twój przynieść owoc,<br/>więc swą pieczęć daj.<br/>Duchu, Duchu, Duchu.</lines>
+    </verse>
+  </lyrics>
+</song>

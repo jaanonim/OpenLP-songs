@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:15">
+  <properties>
+    <titles>
+      <title>Droga siostro ma</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="285"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Drogi bracie mój,<br/>Chcę w tej chwili prosić cię,<br/>Przez moc krwi, którą przelał nasz Pan!<br/>Abyś bracie mój mi przebaczył winy me,<br/>Żeby nic więcej nie dzieliło nas!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Okaż mi Panie łaskę swą,<br/>Otwórz serce me<br/>I daj zbawienie mi,<br/>Panie mój, Tyś miłością jest!<br/>Pewność w sercu mam,<br/>że pocieszysz mnie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Droga siostro ma,<br/>Chcę w tej chwili prosić cię,<br/>Przez moc krwi, którą przelał nasz Pan!<br/>Abyś siostro ma przebaczyła winy me,<br/>Żeby nic więcej nie dzieliło nas!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Drogi Boże mój, Chcę w tej chwili prosić Cię,<br/>Przez moc krwi, którą przelał Twój Syn!<br/>Abyś Boże mój mi przebaczył winy me,<br/>Żeby nic więcej nie dzieliło nas!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, przebacz mi! /x6</lines>
+    </verse>
+  </lyrics>
+</song>

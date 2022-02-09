@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:31">
+  <properties>
+    <titles>
+      <title>Serca razem połączone</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="32"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Serca razem połączone trwają razem w Bogu swym,<br/>niech miłością rozpalone modłów Go ogarną tchem.<br/>Jezus Głową, my członkami, słońcem On, odblaskiem my,<br/>niech świętymi płomieniami Jego miłość w nas się tli.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pójdźcie, pójdźcie łaski dzieci, wzmocnić swe przymierze znów, niech w was święty zapał wznieci chęć pełnienia Wodza słów.<br/>Gdy zaś łańcuch się rozrywa, gdy mu brak miłości sił,<br/>niech gorliwie każdy wzywa, aby znów spojony był.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tyś, Miłości, przykazała, że miłością mamy żyć,<br/>niech więc dusza ogniem pała, zawsze Ty ją łaską syć!<br/>Zapal naszych serc świątynie, żeby każdy poznać mógł,<br/>że prawdziwa miłość płynie z Twej miłości żywych strug.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tak nas połącz węzły Swymi, jakeś z Ojcem złączon sam,<br/>by już wnet z tej znikło ziemi rozerwanie, fałsz i kłam.<br/>Niech jedynie : Twych ołtarzy bierzem w duszę światła blask, a świat cały, młodzi, starzy, wielkość Twoich pozna łask.</lines>
+    </verse>
+  </lyrics>
+</song>

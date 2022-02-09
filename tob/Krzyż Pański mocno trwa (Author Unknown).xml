@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:22">
+  <properties>
+    <titles>
+      <title>Krzyż Pański mocno trwa</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="108"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krzyż Pański mocno trwa,<br/>Alleluja, alleluja!<br/>W nim jest nadzieja ma,<br/>Alleluja, alleluja!<br/>Podnosi piekło broń,<br/>A świat złośliwą dłoń -<br/>Nie zniszczy krzyża nikt,<br/>Alleluja, sławcie krzyż!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Alleluja, alleluja,<br/>Alleluja, sławcie krzyż!<br/>Alleluja, alleluja,<br/>Wiecznie nam zostanie krzyż!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ten dawny, szorstki krzyż,<br/>Alleluja, alleluja!<br/>Prowadzi nas tu wzwyż,<br/>Alleluja, alleluja!<br/>Na nim wykonał Pan,<br/>Co Bóg z miłości dał,<br/>By grzesznik radość miał.<br/>Alleluja, sławcie krzyż!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, sławcie krzyża moc,<br/>Alleluja, alleluja!<br/>Co w światłość zmienia noc.<br/>Alleluja, alleluja!<br/>Ten krzyż nam zdobi skroń<br/>I w boju daje broń,<br/>Do zwycięstw wiedzie on.<br/>Alleluja, sławcie krzyż!</lines>
+    </verse>
+  </lyrics>
+</song>

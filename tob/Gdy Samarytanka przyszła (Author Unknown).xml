@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:34">
+  <properties>
+    <titles>
+      <title>Gdy Samarytanka przyszła</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="87"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy Samarytanka przyszła wodę czerpać,<br/>Chrystus ją prosił, by Mu wody dała i rozmawiał z nią.<br/>On, Zbawiciel pełen łaski, pragnął grzech jej ciężki zdjąć,<br/>by zechciała ku zbawieniu wodę życia wziąć.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tej cudownej wieści słuchaj, miłość Bóg objawił nam,<br/>Chrystus też na ciebie czeka jak przy studni tam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W kraju cudów Boskiej chwały<br/>Chrystus Pan powiedział jej jak jej lata upływały,<br/>serce płonie w niej. Do Samarii ona śpieszy i ludowi niesie wieść:<br/>„Pójdźcie może to jest Mesjasz, dajmy Jemu cześć".</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Teraz także woda życia dla pragnących<br/>płynie wciąż łatwa ona do zdobycia, tam spragniony dąż!<br/>Niechaj wiedzą o tym wszyscy: Bóg nam źródło łaski dał;<br/>przyjdźcież grzeszni do Chrystusa po swój życia dział.</lines>
+    </verse>
+  </lyrics>
+</song>

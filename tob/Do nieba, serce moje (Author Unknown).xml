@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:48">
+  <properties>
+    <titles>
+      <title>Do nieba, serce moje</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="567"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Do nieba, serce moje,<br/>Tam, tam do nieba śpiesz,<br/>Bo świata zgiełk i znoje<br/>Nie dadząć szczęścia - wierz!<br/>Gdzie pasie Swych Baranek,<br/>Tam prawy twój przystanek<br/>Tam pokój będziesz mieć;<br/>Do nieba, serce wzięć!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy czujesz się związany,<br/>Kajdany śmiele skrusz!<br/>Bo wróg jest pokonany<br/>I wolność dana już;<br/>Baranka sztandar święty<br/>Zwycięsko rozwinięty!<br/>Tam kwitnie pokój twój,<br/>Więc się do nieba strój!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Po duszę twą stęsknioną<br/>Wyciąga Ojciec dłoń,<br/>By wziąć cię na Swe łono<br/>I chwałą olśnić skroń.<br/>Darujeć szatę białą<br/>Jedwabną i wspaniałą,<br/>Tam pokój będziesz mieć.<br/>Do nieba, serce, wzięć!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Baranku, w rajskich górach,<br/>O jak Ty jasno lśnisz!<br/>Na orlich bym ja piórach<br/>Do Ciebie leciał wzwyż,<br/>Gdzie w jasnych świateł bieli<br/>Twa rzesza się weseli,<br/>Gdzie pokój koi pierś.<br/>O, wznieś mię w niebo, wznieś!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dziś jednak się w pokorze<br/>Polecam woli Twej,<br/>Niech będzie we mnie, Boże,<br/>Mej woli coraz mniej.<br/>Cierpliwie czekać będę,<br/>Aż bło¬gość tę posiędę,<br/>Aż mię zawołać chcesz:<br/>„Tam, tam do nieba śpiesz!"</lines>
+    </verse>
+  </lyrics>
+</song>

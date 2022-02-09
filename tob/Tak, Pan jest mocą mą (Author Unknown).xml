@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:04">
+  <properties>
+    <titles>
+      <title>Tak, Pan jest mocą mą</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="218"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tak, Pan jest mocą mą!<br/>Tak, Pan jest siłą mą!<br/>Moje serce ufa Mu i raduje się!<br/>Tak, Pan jest skałą mą!<br/>Tak, Pan jest tarczą mą!<br/>Moje serce ufa Mu i raduje się!<br/>/ Serce me jest radości pełne<br/>I pieśnią tą chcę wielbić Go! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

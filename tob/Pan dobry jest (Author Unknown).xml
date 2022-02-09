@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:30">
+  <properties>
+    <titles>
+      <title>Pan dobry jest</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="21"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pan dobry jest! Dziękujcie Mu,<br/>bo miłosierdzie<br/>i wielka Jego łaska wiecznie trwa!<br/>Na wieki ona trwa, na wieki ona trwa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pan godzien jest dziękczynnych chwał.<br/>O duszo moja,<br/>ty nie zapomnij mnóstwa Bożych łask!<br/>Mnogości Bożych łask, mnogości Bożych łask.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pan możny jest! Wszechmocny Bóg,<br/>a Jego mądrość<br/>i Jego moc co odnawia się.<br/>Co dzień odnawia się, co dzień odnawia się.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pan wielki jest! Potężny On!<br/>A imię Jego niech wciąż uwielbia kornie cały świat!<br/>Niech wielbi cały świat,<br/>niech wielbi cały świat!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pan święty jest! Najświętszy On!<br/>Ze czcią najwyższą<br/>niech będzie mianowane imię to!<br/>Przedziwne imię to, przedziwne imię to.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Więc śpiewaj Mu! Wyśpiewuj cześć!<br/>Z dziękczynnym chórem i głos twój<br/>niech przed Pański dojdzie tron!<br/>Przed Pański dojdzie tron! Przed Pański dojdzie tron!</lines>
+    </verse>
+  </lyrics>
+</song>

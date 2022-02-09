@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:46">
+  <properties>
+    <titles>
+      <title>Na Twoim krzyżu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="320"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na Twoim krzyżu, Zbawicielu, umarła grzechu mego moc.<br/>Zwycięstwo, siłę, odpuszczenie przyniosła<br/>Twojej śmierci noc. Poniosłeś karę za mnie sam,<br/>// O, cóż Ci, Panie, za to dam? //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie żądasz złota, wszystko Twoje, piękności<br/>ziemi wszystkie masz. Na tronie siadłeś<br/>w Bożej chwale i niebo, całą ziemię masz.<br/>Ach, cóż przyniosę, Królu mój?<br/>// Czym Tobie dług wypłacę swój? //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kiedy rozmyślam o Twych mękach, o ciele<br/>Twym zbroczonym krwią, o Twych przebitych<br/>nogach, rękach, o oczach zaszłych śmierci<br/>mgłą, gdy przyjdzie mi pod krzyżem stać<br/>// O, Jezu, cóż Ci w zamian dać? //</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Z odmętów świata chciwie piłem, a za to<br/>Tyś boleśnie zmarł. Rozkoszą ziemi tylko<br/>żyłem, Twe serce spalił męki żar.<br/>Mnie ujarzmiła próżna cześć,<br/>// Tyś w hańbie musiał życie wieść. //</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ty za mnie zapłaciłeś długi! Czyż mogę<br/>z tego radość mieć, gdy tylko na to wspomnę<br/>sobie, jak o mnie Ty musiałeś drżeć?<br/>Jakżebym ten ogromny dług,<br/>// Mój Jezu, Tobie spłacić mógł? //</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jam niczym - Słowo Twoje stwierdza, a gdyś<br/>Swe życie za mnie dał, dlategoś chętnie<br/>je położył, boś serca mego za to chciał.<br/>Że sercem dług zapłacić mam,<br/>// O, więc Ci serce swoje dam! //</lines>
+    </verse>
+  </lyrics>
+</song>

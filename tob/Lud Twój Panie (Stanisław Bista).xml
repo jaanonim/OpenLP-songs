@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:38">
+  <properties>
+    <titles>
+      <title>Lud Twój Panie</title>
+    </titles>
+    <authors>
+      <author type="words">Stanisław Bista</author>
+      <author type="music">Stanisław Bista</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="353"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Lud twój Panie lud pielgrzymi<br/>prosi byś był światłem.<br/>Byś na drodze do Królestwa<br/>wzmacniał serca Twoim ciałem.<br/>Zostań, zostań wśród nas<br/>o Panie.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Chlebie życia,<br/>Tyś sam jest naszą siłą<br/>i czynisz trudną drogę tak bezpieczną.<br/>Jeśli siły na tym szlaku w nas osłabną,<br/>ręka Twoja niech obdarza nas nadzieją.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Twoja krew niechaj<br/>jest napojem mocy<br/>i kieruje zapał kroków w Twoje ślady.<br/>Jeśli radość gaśnie w sercach od słabości,<br/>Twój głos sprawi, że obudzi się w nas świeżość.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Twoje ciało, o Jezu, rodzi Kościół,<br/>bo uczysz, żeśmy braćmi w pyle drogi.<br/>Jeśli krzywdy niszczą światło Twej Miłości,<br/>z Twego serca płynie nowe przebaczenie.</lines>
+    </verse>
+  </lyrics>
+</song>

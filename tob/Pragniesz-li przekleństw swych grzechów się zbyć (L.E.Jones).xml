@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:30">
+  <properties>
+    <titles>
+      <title>Pragniesz-li przekleństw swych grzechów się zbyć</title>
+    </titles>
+    <authors>
+      <author type="words">L.E.Jones</author>
+      <author type="music">L.E.Jones</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="285"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pragniesz-li przekleństw<br/>swych grzechów się zbyć<br/>Jest moc w świętej krwi,<br/>Moc w świętej krwi.<br/>O, pójdź, byś zawsze pokojem mógł żyć,<br/>Gdyż nas święta oczyszcza krew.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, jest moc, moc, o, przecudna moc<br/>W świętej krwi, w świętej krwi.<br/>O, jest moc, moc, zwycięstw pełna moc<br/>W świętej Zbawicielowej krwi!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czy chciałbyś żądz swego ciała się zbyć?<br/>Jest moc w świętej krwi,<br/>Moc w świętej krwi.<br/>Z Golgoty krew wszelki brud może zmyć;<br/>Zwyciężysz przez moc świętej krwi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Czy chciałbyś bielszym być,<br/>bielszym niż śnieg?<br/>Jest moc w śwętej krwi,<br/>Moc w świętej krwi.<br/>Dla serc zbolałych najlepszy w niej lek;<br/>Oczyszczenie jest w świętej krwi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Czy chcesz z Chrystusem<br/>swe życie tu wieść?<br/>Jest moc w świętej krwi,<br/>Moc w świętej krwi.<br/>Chcesz-li żyć Panu i chwałę Mu nieść?<br/>Codziennie masz siłę w tej krwi.</lines>
+    </verse>
+  </lyrics>
+</song>

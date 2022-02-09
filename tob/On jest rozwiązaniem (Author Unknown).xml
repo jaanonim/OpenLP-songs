@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:28">
+  <properties>
+    <titles>
+      <title>On jest rozwiązaniem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="259"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ On jest rozwiązaniem dla ludzkości dziś<br/>Nie ma innej drogi, Jezus tylko On /x2<br/>Może masz pytanie nurtujące twoją myśl,<br/>Pokój gdzieś daleko jest<br/>Grzech goni ciebie jak cień.<br/>Lecz jedną rzecz na pewno wiem,<br/>Rzecz najlepszą na twój ból:<br/>On jest rozwiązaniem, Jezus tylko On.</lines>
+    </verse>
+  </lyrics>
+</song>

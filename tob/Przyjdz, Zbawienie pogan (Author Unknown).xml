@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:18">
+  <properties>
+    <titles>
+      <title>Przyjdz, Zbawienie pogan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="27"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przyjdź, Zbawienie pogan, przyjdź,<br/>Jezu, Boże dziecię!<br/>Tobie muszą złożyć hołd<br/>Wszystkie ludy w świecie</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gwiazdo nad gwiazdami,<br/>Zaświeć Ty nad nami!<br/>Panie, zmiłuj się,<br/>Chryste, zmiłuj się!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Z niebios chwały, Jezu, zstąp,<br/>Otwórz je, o Panie!<br/>Swój wspaniały opuść tron,<br/>Królu i Hetmanie!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Świat objęła straszna noc,<br/>W której wiecznie zginiem;<br/>Tylko gdy Ty podasz dłoń,<br/>Z morza zgub wypłyniem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Powstań i objaśnij się Gwiazdo Jakubowa!<br/>Niech ożyje w blasku Twym<br/>w nas nadzieja nowa.<br/>Synu z Panny czystej.<br/>Przyjdź dziś, Wiekuisty!<br/>Panie, zmiłuj się,<br/>Chryste, zmiłuj się</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Do tych modłów, do tych próśb<br/>My się przyłączamy;<br/>Przodków ród chciał ujrzeć Go,<br/>My Go też czekamy.<br/>Przyjdź, najdroższy Gościu,<br/>Ze Swą wspaniałością!<br/>Panie, zmiłuj się,<br/>Chryste, zmiłuj się!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:31">
+  <properties>
+    <titles>
+      <title>Niegdyś noc mnie ogarniała</title>
+    </titles>
+    <authors>
+      <author type="words">E.E.Hewitt</author>
+      <author type="music">E.E.Hewitt</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="309"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niegdyś noc mnie ogarniała,<br/>Serce pełnem grzechu miał,<br/>Lecz mi zorza zajaśniała,<br/>Gdy w me serce Pan Swą miłość wlał.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ja nie pojmę nigdy tej miłości,<br/>Którą Jezus umiłował mnie;<br/>Ona głębasza od najgłębszych toni,<br/>Któż ją zmiwrzyć chce?<br/>Miłość ta w Chrystusie jest jedynie;<br/>W duszy zabrzmiał hymn niebieskich chwał,<br/>Stałem się własnością Jego,<br/>Gdy w me serce Pan swą miłość wlał.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Łaska ta dla wszystkich dana.<br/>Ten, kto wierzy, przyjąć śmie<br/>Czystość, świętość przez moc Pana,<br/>Który Sam kierować życiem chce.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Żyć dla bliźnich i dla Niego<br/>W tej miłości, to mój dział.<br/>Chlubą mą się krzyż stał Jego,<br/>Gdy w me serce Pan Swą miłość wlał.</lines>
+    </verse>
+  </lyrics>
+</song>

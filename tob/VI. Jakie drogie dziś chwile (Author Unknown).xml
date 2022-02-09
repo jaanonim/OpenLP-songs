@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:04">
+  <properties>
+    <titles>
+      <title>VI. Jakie drogie dziś chwile</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jakie drogie dziś chwile<br/>zgotował Bóg nam.<br/>Bracia, siostry, widzimy się znów<br/>/ O, jak błogo, że Zbawca<br/>jest Duchem tu Sam,<br/>Chcemy Jego posłuchać więc Słów /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jakże miło się spotkać<br/>przed Panem tu znów,<br/>W sercu świata ucieszył się gwar.<br/>/ Jakie szczęście, gdy nami<br/>kieruje Sam Pan;<br/>O jak cudny, jak błogi to stan! /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pielgrzymują na Syjon<br/>spoczniemy dziś znów<br/>U wód życia, chłodzących nasz znój;<br/>/ Na „Taborze" tak błogo,<br/>lecz zejść trzeba w dół,<br/>Dalej z grzechem i kłamstwem wieść bój. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>W społeczności tej świętej<br/>tak błogo nam być,<br/>Gdzie życiowy ukoił się już ból;<br/>/ Czym oaza w pustyni,<br/>schronisko wśród gór,<br/>Tym dla duszy w tym świecie jest Zbór. /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Doznajemy tu łaski,<br/>Pan bliski jest nam,<br/>W Jego mocy kroczymy przez świat;<br/>/ Pod sztandarem miłości<br/>nasz śpiew raźniej brzmi;<br/>Gdy do raju otwarte są drzwi /x2</lines>
+    </verse>
+  </lyrics>
+</song>

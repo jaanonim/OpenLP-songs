@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:59">
+  <properties>
+    <titles>
+      <title>Naucz modlić się Boże do Ciebie</title>
+    </titles>
+    <authors>
+      <author type="words">P.E.Rozogin</author>
+      <author type="music">P.E.Rozogin</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="760"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Naucz modlić się Boże do Ciebie,<br/>Całą duszą i sercem Cię czcić.<br/>W poświęceniu, zaparciu się siebie<br/>/ Służyć Tobie i wiernym Ci być /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Naucz modlić się Boże do Ciebie,<br/>Moje serce w ofierze Ci dać.<br/>Naucz szczerze miłować bliźniego<br/>/ I na zawsze w miłości Twej trwać /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Naucz modlić się Boże do Ciebie.<br/>Wszystko jawne przed Tobą ma być.<br/>Naucz zawsze i w każdej potrzebie<br/>/ Szukać Ciebie i z Tobą wciąż żyć /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Naucz modlić się Boże do Ciebie,<br/>Gdy me życie spokojne jak toń.<br/>I gdy w burzy, w ucisku w potrzebie<br/>/ Raczże zawsze mi podać Swą dłoń /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Naucz modlić się Boże do Ciebie.<br/>W przykazaniach codziennie Twych żyć.<br/>Daj mi spocząć po trudach mych w niebie<br/>/ Bym na wieki szczęśliwym mógł być /x2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Naucz modlić się Boże do Ciebie,<br/>W woli Twojej odnaleźć swój cel.<br/>A gdy przejmiesz mnie w końcu do siebie<br/>/ Przyobleczesz w najświętszą mnie biel /x2</lines>
+    </verse>
+  </lyrics>
+</song>

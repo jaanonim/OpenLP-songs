@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:05">
+  <properties>
+    <titles>
+      <title>Żyje Pan, żyje Pan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="238"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Żyje Pan, żyje Pan!<br/>Żyje Pan, radujmy się!<br/>Jezus zmartwychwstał, chwała Mu! /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Śmierć już dłużej nie panuje,<br/>Zwyciężona piekieł moc!<br/>Jezus Król nasz triumfuje,<br/>Alleluja, śpiewam Mu!<br/>Żyje Pan...</lines>
+    </verse>
+  </lyrics>
+</song>

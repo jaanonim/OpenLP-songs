@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:40">
+  <properties>
+    <titles>
+      <title>Kochaj</title>
+    </titles>
+    <authors>
+      <author type="words">L.Otto</author>
+      <author type="music">L.Otto</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="447"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kochaj! - taz Zbawca świata nam rozkazał.<br/>Jego rozkazom któż się oprzeć zdoła?<br/>Ten, co miłością świata grzechy zmazał -<br/>Kochaj!<br/>Tak do nas / z krzyża Swego woła. / x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kochaj! - a kogo, o to się nie pytaj;<br/>Chrystus wyjątku nie zna żadnego.<br/>Weź Ewangelię, otwórz ją i czytaj:<br/>„Kochaj bliźniego swego,<br/>/ jak siebie samego!" / x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A któż jest bliźnim? Ten, co z duszy<br/>Z tobą zawoła: Ojcze, coś jest w niebie! -<br/>I ten, co krwawe twoje łzy osuszy,<br/>Co ci aniołem / w każdej jest potrzebie. / x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Któż jeszcze bliźnim? Każdy, który z tobą<br/>Drogą krzyżową do wrót nieba śpieszy,<br/>Dla kogo ciernie życia są ozdobą,<br/>Co z tobą płacze, / z tobą się też cieszy. /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Któż bliźnim twoim? Ten też, co dla ciebie<br/>Jakby ze skały serce ma wykute,<br/>Co cię opuszcza w ciężkiej twej otrzebie,<br/>niosąc pociski / w sercu swym zatrute. /x2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Gdy mu odpuścisz dla miłości Boga<br/>I za złe dobrym hojnie się wypłacisz,<br/>Wtenczas zwyciężysz siebie oraz wroga,<br/>Miłością krzyża / duszę swą wzbogacisz. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

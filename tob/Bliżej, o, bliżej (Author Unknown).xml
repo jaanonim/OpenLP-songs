@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:29">
+  <properties>
+    <titles>
+      <title>Bliżej, o, bliżej</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="253"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bliżej, o, bliżej<br/>wznieś mię i tul<br/>Do Siebie, Chryste,<br/>przez radość i ból!<br/>Trzymaj mię zawsze<br/>na sercu Swym,<br/>/ Synu człowieczy,<br/>i nocą i dniem! /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bliżej, o, bliżej!<br/>Tu mnie nie stać<br/>Na nic, co bym Ci,<br/>mój Panie, mógł dać.<br/>Ach, tylko serce skażone mam;<br/>/ Weź je, mój Królu,<br/>i oczyść je Sam! /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bliżej, o, bliżej!<br/>Porzucić chcę wszystko,<br/>Co jeszcze do świata mię rwie,<br/>Co mi odrywa łaski Twej dar:<br/>/ Świeckie rozkosze<br/>i złudny ich czar. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bliżej, o, bliżej!<br/>Me więzy skrusz;<br/>Niech w nich nie muszę<br/>szamotać się już;<br/>By się Twe życie<br/>w mym mogło lśnić,<br/>/ Bym w Tobie, Jezu,<br/>prawdziwie mógł żyć! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

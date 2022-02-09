@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:02">
+  <properties>
+    <titles>
+      <title>Młodości moja, byłaś tak cudna</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="831"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Młodości moja, byłaś tak cudna,<br/>Ty już odeszłaś ode mnie w dal,<br/>Skroń moja srebrzy się dziś siwizną,<br/>Młodości moja, nie wrócę cię!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przeszło dzieciństwo, przechodzi młodość,<br/>W niepamięć poszły przeżycia me,<br/>To tylko jedno mam wciąż w pamięci,<br/>Ze w młodym wieku poznałem Cię.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Panie Boże, bądź miłościwy,<br/>W mych trudnych chwilach dopomóż mi;<br/>Nawet w starości, w mojej słabości,<br/>Błogosław Ojcze do końca dni!</lines>
+    </verse>
+  </lyrics>
+</song>

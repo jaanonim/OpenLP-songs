@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:45">
+  <properties>
+    <titles>
+      <title>Czekaj, duszo moja</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="293"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czekaj, duszo moja, z pokorą, czcią!<br/>Bóg zna boleść twoją, w radość zmieni ją.<br/>Przez chmury, mgłę blask przebije się,<br/>słońce znów zaświeci i ogrzeje cię.<br/>W tej życia toni, wśród pokus, trwóg,<br/>zawsze cię obroni twój wierny Bóg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czekaj, duszo moja, z pokorą, czcią!<br/>Bóg zna boleść twoją, w radość zmieni ją.<br/>On, wierny Stróż, zew twój słyszał już,<br/>idzie ci z pomocą wśród życiowych burz,<br/>w wiecznej miłości wiele ci dróg<br/>wskaże do radości twój wierny Bóg!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Czekaj, duszo moja, z pokorą, czcią!<br/>Bóg zna boleść twoją, w radość zmieni ją.<br/>Skończy się bój i pielgrzymki znój,<br/>skargi twe ustaną, Pan lud przyjmie Swój.<br/>Wolna na wieki, o, duszo ma,<br/>wzniesiesz Panu dzięki, alleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

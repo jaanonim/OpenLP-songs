@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:45">
+  <properties>
+    <titles>
+      <title>Zbudź, Panie, ducha ojców wiary</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="506"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zbudź, Panie, ducha ojców wiary,<br/>Syjonu stróżów, którzy dzierżąc straż,<br/>Tak w nocy, jak też w dzienne skwary<br/>Stawali wrogom śmiało twarzą w twarz!<br/>Daj, by ich głos po krańce ziemi biegł,<br/>By cały świat u stóp Twych kornie legł!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niech ogień Twój rozpłomienieje<br/>I rychło już ogarnie wszelki kraj.<br/>O Panie, niwa już bieleje,<br/>Więc wielu chętnych nam żniwiarzy daj!<br/>Ulituj się, ulituj, Panie żniw,<br/>Sług garstka Twych, a wielki obszar niw.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wszak Syn Twój słowy wyraźnymi<br/>Rozkazał uczniom o to modlić się,<br/>Więc nawiedź kraje wszystkiej ziemi,<br/>Ożywczym przebudzeniem nawiedź je!<br/>Gorąco prosim, Panie, nawiedź nas!<br/>O, daj narodom wszystkim łaski czas!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ewangelistów rzesze mnogie<br/>Wzbudź, Panie, zbrojne w słowa Twego moc;<br/>Z pomocą śpiesz, skrusz siły wrogie,<br/>Szatana ukróć, rozwiej grzechu noc!<br/>Niech ziemi krąg już cały rychło brzmi<br/>Imienia Twego chwałą ku Twej czci!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ach, zbuduj Sobie z serc świątynię,<br/>Swojego Ducha, Panie, racz nam dać!<br/>Niech imię Twe wśród nas zasłynie,<br/>Swe sprawy święte nam na serce kładź!<br/>Pasterzy wiernych racz zborowi dać,<br/>Wciąż chętnych modły swe przed tron Twój słać!</lines>
+    </verse>
+  </lyrics>
+</song>

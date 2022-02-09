@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:32">
+  <properties>
+    <titles>
+      <title>Dajcie mi Biblię</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="63"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dajcie mi Biblię,<br/>gwiazdę wśród ciemności,<br/>by pocieszyła smutne<br/>serce me.<br/>Nic nie zamroczy<br/>cudnej jej jasności,<br/>na ścieżki ciemne<br/>ona światło śle.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dajcie mi Biblię<br/>z jej nowiną błogą,<br/>że Bóg mi w Zbawcy<br/>żywot wieczny dał.<br/>Ona powiedzie<br/>pewnie wąską drogą<br/>przez mroki świata<br/>do niebiańskich chwał.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dajcie mi Biblię,<br/>gdy ma dusza płacze,<br/>gdy grzech napełnił<br/>strachem serce me.<br/>Niechaj w jej świetle<br/>jasno znów zobaczę,<br/>że mój Zbawiciel<br/>wiernie kocha mnie.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Dajcie mi Biblię<br/>z jej nowiną błogą,<br/>że Bóg mi w Zbawcy<br/>żywot wieczny dał.<br/>Ona powiedzie<br/>pewnie wąską drogą<br/>przez mroki świata<br/>do niebiańskich chwał.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dajcie mi Biblię,<br/>lampę nogom moim,<br/>niech mi ukaże<br/>grozę krętych dróg.<br/>Ile przepaści,<br/>głazów i wyboi,<br/>kryje ta ścieżka,<br/>którą radzi wróg.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Dajcie mi Biblię<br/>z jej nowiną błogą,<br/>że Bóg mi w Zbawcy<br/>żywot wieczny dał.<br/>Ona powiedzie<br/>pewnie wąską drogą<br/>przez mroki świata<br/>do niebiańskich chwał.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dajcie mi Biblię,<br/>lampę Chanaanu,<br/>niech światło rzuci<br/>i w otwarty grób.<br/>Niech mi ukaże<br/>chwałę wód Jordanu,<br/>a za Jordanem<br/>jasny niebios próg.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Dajcie mi Biblię<br/>z jej nowiną błogą,<br/>że Bóg mi w Zbawcy<br/>żywot wieczny dał.<br/>Ona powiedzie<br/>pewnie wąską drogą<br/>przez mroki świata<br/>do niebiańskich chwał.</lines>
+    </verse>
+  </lyrics>
+</song>

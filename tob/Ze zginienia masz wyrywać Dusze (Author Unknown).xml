@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:45">
+  <properties>
+    <titles>
+      <title>Ze zginienia masz wyrywać Dusze</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="504"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ze zginienia masz wyrywać Dusze,<br/>gdyż upływa dzień,<br/>Mdłym kajdany rozwiązywać,<br/>Nim nadejdzie zguby dzień!<br/>Pańskim bądź promieniem ty,<br/>Nim zapadną nocne ćmy!<br/>Do wiecznego płynie snu<br/>Bez ustanku dzień po dniu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Dzień po dniu, dzień po dniu! /x2<br/>Wiele jeszcze pracy tu,<br/>Prędko mija dzień po dniu!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czyż na marność chwil ci zbywa?<br/>Patrz, odleci wkrótce dzień!<br/>Śpiących zguba już porywa,<br/>Już się kończy łaski dzień!<br/>W złości jest pogrążeń świat,<br/>W twardą on niewolę wpadł;<br/>Spiesz z pomocą więc co tchu,<br/>Gdyż upływa dzień po dniu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zerwij, zerwij więzy świata,<br/>Nim upłynie krótki dzień!<br/>Straszna czeka świat zapłata,<br/>Jego zbytków mija dzień.<br/>Ustawicznie miłość krzew,<br/>Plon przyniesie wiary siew;<br/>Czasy żniwa prędko mkną,<br/>Już upływa dzień po w dniu.</lines>
+    </verse>
+  </lyrics>
+</song>

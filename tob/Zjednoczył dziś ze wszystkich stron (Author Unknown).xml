@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:51">
+  <properties>
+    <titles>
+      <title>Zjednoczył dziś ze wszystkich stron</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="622"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zjednoczył dziś ze wszystkich stron<br/>Duch Święty nas przed Boży tron<br/>W modlitwach, dziękczynieniu.<br/>O Jezu, święty Zbawco Ty,<br/>Na krzyżu zmarły, wskrzeszeń w czci,<br/>Bądź w naszym zgromadzeniu!<br/>Przyjmij, przyjmij to śpiewanie!<br/>Tobie, Panie, Je składamy,<br/>Miłość Twoją wysławiamy!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gorczyczne ziarno - mały krzew,<br/>Wyrasta wszak w największe z drzew<br/>I bujnie się rozszerza,<br/>I z roku w rok powiększa się.<br/>Tysiące serc wysławia Cię,<br/>Co przyszły do przymierza;<br/>Chce nieść Twą cześć, Życia tchnienie<br/>I zbawienie Wszędzie głosić,<br/>Do wszech kra¬jów ziemi nosić.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Twój jest ten świat, Twoimiśmy<br/>l wszystkie ludy padną Ci<br/>Do nóg Twych kiedyś, Panie;<br/>Obudzisz je, zwyciężysz grzech;<br/>Już dziś pierwiastki wiedziesz z nich<br/>Do Salem na mieszkanie.<br/>Tworzysz, mnożysz Światła zdroje;<br/>Stadko Twoje Ty rozmnożysz,<br/>Wroga Swego upokorzysz.</lines>
+    </verse>
+  </lyrics>
+</song>

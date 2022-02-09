@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:03">
+  <properties>
+    <titles>
+      <title>Daj Boże Swym dziatkom na wszystkie ich dni</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="852"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Daj Boże Swym dziatkom na wszystkie ich dni<br/>/ Ochronę i szczęście, niech wciąż służą Ci. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich życie przyjemnie niech płynie co dzień,<br/>/ Niech światłość Twej łaski rozprasza im cień. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mądrości Swej, Boże, Ty w życiu im dasz;<br/>/ Nad wszystkie bogactwa - pokojem ich darz. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Daj świętość im, Boże, w miłości ich święć,<br/>/ Dążenia do nieba zachowaj w nich chęć. /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>W nadziei racz, Panie, utwierdzać wciąż ich,<br/>/ A wiarę w ich sercach posilać chciej mdłych. /x2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Daj odczuć im, Panie, że z nimi Twój Duch,<br/>/ Że jesteś wciąż przy nich, ich Pasterz i Druh. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

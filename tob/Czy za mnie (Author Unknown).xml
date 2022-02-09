@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:46">
+  <properties>
+    <titles>
+      <title>Czy za mnie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="327"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czy za mnie przelał Boży Syn na krzyżu świętą krew,<br/>by mnie od wszelkich zbawić win, przejednać Ojca gniew?<br/>Tak, za ciebie Pan przelał krew Swych ran, za ciebie,<br/>za mnie poniósł skon, za wszystkich umarł Pan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czy dla mnie zwalczał piekła noc,czy za mnie<br/>poniósł skon, by łamiąc straszną grzechu moc,<br/>przed Boży wieść mnie tron. Tak, za ciebie Pan<br/>przelał krew Swych ran, za ciebie,<br/>za mnie poniósł skon, za wszystkich umarł Pan.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdyś, Zbawco, z śmiercią toczył bój, Bóg słońca,<br/>zgasił blask. Ach, czym zapłacę, Panie mój,<br/>za ogrom Twoich łask? Wszak to za mnie Pan<br/>przelał krew Swych ran, za ciebie, za mnie<br/>poniósł skon, za wszystkich umarł Pan.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wdzięczności, skruchy leję łzy, ze wstydem<br/>kryjąc twarz i wołam: „Serce uzdrów mi,<br/>wszak nędzę jego znasz." O, pośpieszmy<br/>cześć Panu swemu nieść, gdyż za nas krew<br/>Swą przelał Pan, O, chwała Bogu, cześć!</lines>
+    </verse>
+  </lyrics>
+</song>

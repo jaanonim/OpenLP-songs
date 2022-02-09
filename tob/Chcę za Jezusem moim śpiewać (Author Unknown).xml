@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:33">
+  <properties>
+    <titles>
+      <title>Chcę za Jezusem moim śpiewać</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="69"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chcę o Jezusie moim śpiewać,<br/>wysławiać wielkość Jego cnót,<br/>śpiewać o Jego mękach gorzkich,<br/>przez które złamał śmierci grot.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wysławiajcie mego Jezusa,<br/>miłość i wiele Jego cnót,<br/>nućcie o Jego mękach gorzkich przez<br/>które złamał śmierci grot.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Wysławiajcie mego Jezusa,<br/>miłość i wiele Jego cnót,<br/>nućcie o Jego mękach gorzkich przez<br/>które złamał śmierci grot.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chcę cudownego wciąż wysławiać<br/>grzeszników przyjaciela w głos.<br/>Z Bogiem łaskawie mię pojednał,<br/>do duszy mej Swe światło wniósł.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Wysławiajcie mego Jezusa,<br/>miłość i wiele Jego cnót,<br/>nućcie o Jego mękach gorzkich przez<br/>które złamał śmierci grot.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Drogiego Zbawcę chcę uwielbiać,<br/>to jest ów niezwalczony wódz.<br/>Zwycięsko swoich przeprowadzi przez piekło,<br/>śmierć i grzechu noc.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Wysławiajcie mego Jezusa,<br/>miłość i wiele Jego cnót,<br/>nućcie o Jego mękach gorzkich przez<br/>które złamał śmierci grot.</lines>
+    </verse>
+  </lyrics>
+</song>

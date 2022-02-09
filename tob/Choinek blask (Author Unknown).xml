@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:38">
+  <properties>
+    <titles>
+      <title>Choinek blask</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="1006"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Choinek blask rozświetla noc<br/>na niebie pięknych gwiazd miliony.<br/>// I właśnie w taką noc,<br/>ktoś otworzył drzwi,<br/>Ktoś na kogo wciąż czekałem. //<br/>Daba daba da da da..... x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I wejdzie, będzie ze mną wraz<br/>czym szczerze serce me ucieszy.<br/>Chociaż maleńki jest,<br/>radość wielką wniósł,<br/>sam Jezus przyszedł do mnie dziś.<br/>Daba daba da da da..... x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z Jezusem małym jestem już<br/>i w sercu moim chowam Go.<br/>Chociaż maleńki jest,<br/>radość wielką wniósł,<br/>sam Jezus przyszedł do mnie dziś.<br/>Daba daba da da da..... x2</lines>
+    </verse>
+  </lyrics>
+</song>

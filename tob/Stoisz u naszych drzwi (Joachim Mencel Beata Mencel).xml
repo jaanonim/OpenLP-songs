@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:30">
+  <properties>
+    <titles>
+      <title>Stoisz u naszych drzwi</title>
+    </titles>
+    <authors>
+      <author type="words">Joachim Mencel Beata Mencel</author>
+      <author type="music">Joachim Mencel Beata Mencel</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="585"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Stoisz u naszych drzwi kołaczesz długo<br/>Słowa życia wiecznego masz.<br/>Kto Twój usłyszy głos i drzwi otworzy<br/>Będzie trwał w Tobie, a Ty w nim.<br/>Panie wielka jest Miłość Twa,<br/>Tak cierpliwa, wierna i łaskawa,<br/>chcesz Ją wnieść do naszych serc.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Panie wejdź, zamieszkaj w nas<br/>Panie Ty dar życia masz<br/>Panie przyjdź umocnij nas<br/>Byśmy wytrwali w miłości Twej.</lines>
+    </verse>
+  </lyrics>
+</song>

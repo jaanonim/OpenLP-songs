@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:01">
+  <properties>
+    <titles>
+      <title>W drogę z nami</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="145"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. W drogę z nami, wyrusz Panie<br/>Nam nie wolno w miejscu stać<br/>Gdy zbłądzimy podaj rękę,<br/>Gdy upadniemy pomóż wstać.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ I do serca swego prowadź,<br/>Prowadź sam /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Poprzez kwiaty ostów kolce,<br/>Z nami idź do niebios bram<br/>Byśmy innym nieść pomogli<br/>Ciężar krzyża przez ten świat</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Byśmy innym mogli pomóc<br/>Jasne światło w życie wnieść<br/>Byśmy wnieśli moc i ogień<br/>W oczach blask a w sercach żar</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Gdy do Pana odejdziemy,<br/>Niech nie płacze po nas nikt<br/>Bo my przecież z nim być chcemy<br/>W jego chwale wiecznie żyć</lines>
+    </verse>
+  </lyrics>
+</song>

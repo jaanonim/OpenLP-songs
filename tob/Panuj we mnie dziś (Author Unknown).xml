@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:10">
+  <properties>
+    <titles>
+      <title>Panuj we mnie dziś</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Po całej ziemi tej Ty rządzisz sam,<br/>Górski strumień i słońce<br/>Stworzyłeś nam<br/>Lecz mój jedyny cel, jedyna prośba ma<br/>Byś Ty panował we mnie sam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Panuj we mnie dziś, Panie w mocy Swej<br/>Nad każdym moim snem<br/>W najmroczniejszy dzień<br/>Tyś Panem jest nad wszystkim tym<br/>Co mam, więc panuj we mnie Jezu sam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Każda moja myśl, każde słowo me<br/>Niech będzie piękne<br/>I niech odzwierciedla Cię<br/>Ty znaczysz więcej niż<br/>To, co na ziemi mam,<br/>Więc panuj we mnie Jezu sam.</lines>
+    </verse>
+  </lyrics>
+</song>

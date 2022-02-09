@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:20">
+  <properties>
+    <titles>
+      <title>O śmierci, gdzież jest bodziec twój?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="59"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O śmierci, gdzież jest bodziec twój?<br/>Gdzież piekło, twe zwycięstwo?<br/>Cóż może szatan szkodzić nam?<br/>Nic jego okrucieństwo!<br/>Niech będzie pochwalony Bóg,<br/>Na zawsze zwyciężony wróg<br/>W Chrystusie Zbawicielu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Z Chrystusem kto w pokucie swej<br/>Z upadków, z grzechów wstanie,<br/>Od śmierci wtórej wolny jest<br/>I żyje nieprzerwanie.<br/>Śmierć utraciła władzę swą,<br/>Niewinność, żywot dane są,<br/>A także nieśmiertelność.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zabity był Pan Jezus nasz,<br/>Lecz powstał z grobu Swego.<br/>Gdy jako Głowa powstał On,<br/>I członki wstaną Jego.<br/>Kto się Jezusa trzyma słów,<br/>Choć w grobie legnie,<br/>wstanie znów, Bo żyje, choć umiera.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zdobyczą Wielkiej Nocy to,<br/>Że wiecznie już naszymi<br/>Zbawienie, pokój, radość są<br/>Na niebie i na ziemi.<br/>Czekamy, aż nadejdzie czas,<br/>Podobni będziem wówczas wraz<br/>Już do Chrystusa Pana.</lines>
+    </verse>
+  </lyrics>
+</song>

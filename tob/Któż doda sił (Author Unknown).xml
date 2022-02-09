@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:48">
+  <properties>
+    <titles>
+      <title>Któż doda sił</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="366"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Któż doda sił na drogę w daleki rajski świat?<br/>Kto wskaże mi na drodze ukryte sidła zdrad?<br/>Kto mi w obczyźnie smutnej da dom rodzinny mój?<br/>Bóg mój i Brat, Pan Jezus, mojego życia zdrój.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kto mi przy boku stanie w osamotnieniu mym?<br/>Gdzie swe rozgrzeję ręce, ziębnące z każdym dniem?<br/>W godzinach pokus ciężkich do kogo wołać mam?<br/>Kto przyjdzie mi z pomocą? Mój oblubieniec sam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kto mi osłodzi trudy, gdy się powodzi źle?<br/>Kto wśród zawodów gorzkich pokrzepi siły mdłe?<br/>Kto tam nauczy wierzyć, gdzie się to głupstwem zda?<br/>Przymierza Anioł - Jezus, w złym czasie siłę da.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kto wwiedzie mię do nieba, gdy się zakończy bój?<br/>I kto tam przygotował dla niebian jasny strój?<br/>Kto wtedy mi ukaże Ojczystą piękną błoń?<br/>To Jezus mój i Zbawca, o, jakże tęsknię Doń!</lines>
+    </verse>
+  </lyrics>
+</song>

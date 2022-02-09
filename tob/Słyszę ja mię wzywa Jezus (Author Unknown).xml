@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:37">
+  <properties>
+    <titles>
+      <title>Słyszę ja mię wzywa Jezus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="158"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Słyszę jak mię wzywa Jezus // ,<br/>Słyszę jak mię wzywa Jezus:<br/>weź swój krzyż i zdążaj za Mną w ślad!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>// Za tym głosem kroczyć pragnę // ,<br/>Za tym głosem kroczyć pragnę poprzez ciernie,<br/>których pełen świat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>// Jestem gotów na Golgotę // ,<br/>Jestem gotów na Golgotę,<br/>za Jezusem wszędzie idę w ślad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>// Z Nim pokonam ja przeszkody // ,<br/>z Nim pokonam ja przeszkody<br/>i przestąpię wiecznej chwały próg.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>// Złoty wieniec da mi Jezus // ,<br/>złoty wieniec da mi Jezus,<br/>gdy przed Boga jasny przyjdę tron.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>// Duszo moja, ufaj śmiało // ,<br/>duszo moja ufaj śmiało,<br/>Jezus wkrótce przyjdzie zabrać cię.</lines>
+    </verse>
+  </lyrics>
+</song>

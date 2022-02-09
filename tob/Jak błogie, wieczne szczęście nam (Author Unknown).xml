@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:20">
+  <properties>
+    <titles>
+      <title>Jak błogie, wieczne szczęście nam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="72"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak błogie, wieczne szczęście nam<br/>Na krzyżu zdobył Pan!<br/>O duszo, śpiesz do szczęścia bram!<br/>Krew Jego drogą tam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, nie wątp, serce, tylko wierz,<br/>Co Bóg ci przyrzekł twój,<br/>Iż czasu Swego w serce twe<br/>Swój święty zleje zdrój.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To słowo Jego jasno nam<br/>Tę obietnicę śle,<br/>Że Duchem Swoim Pan Bóg<br/>Sam Lud Swój napełnić chce.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dlatego zmarł i z martwych wstał<br/>I Swój wybawił lud,<br/>By Ducha Swego wiernym dał.<br/>Objawił łaski cud.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O Jezu, oto kładę się<br/>Na ołtarz całkiem Ci;<br/>Swym ogniem racz napełnić mię,<br/>Twój żar niech we mnie tli!</lines>
+    </verse>
+  </lyrics>
+</song>

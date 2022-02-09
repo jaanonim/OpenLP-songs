@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:48">
+  <properties>
+    <titles>
+      <title>„Zbudźcie się!" - tak ci wołają</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="560"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>„Zbudźcie się!" - tak ci wołają,<br/>Co w grodzie świętym straż trzymają:<br/>Syjonie, północ! Porzuć sny!<br/>Oblubieniec twój nadchodzi,<br/>Zbawienia dzień się w blaskach rodzi;<br/>Dziewice mądre, gdzieście wy?<br/>To On, ocknijcie się!<br/>Weźmijcie lampy swe!<br/>Alleluja! Już godów czas!<br/>Wzywają was! Pośpieszcie Pana witać wraz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Serca rozbudzonej rzeszy<br/>Głos stróżów świętych wielce cieszy,<br/>Powstaje Syjon, zdobi się.<br/>Z niebios kroczy Druh wspaniały,<br/>Pan pełen łaski, prawdy, chwały;<br/>Promienne blaski Swoje śle.<br/>O Jezu, do nas zejdź!<br/>Korono chwały, przyjdź!<br/>O, hosanna! Do niebios bram<br/>Prowadzisz Sam. Weselne gody sprawisz nam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Święty, święty! - lud Twój śpiewa,<br/>Anielskie wojsko hymn wygrywa<br/>I słodkich lutni dżwięczy ton.<br/>Z pereł miasta Twego bramy;<br/>Tam w niebian gronie otaczamy<br/>Wyniosły Twój i święty tron.<br/>Czyż zgłębi rozum mój Majestat Boży Twój?<br/>O radości! Więc rzesza Twa<br/>Hymn wieczny gra<br/>Na Twoją cześć, alleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:50">
+  <properties>
+    <titles>
+      <title>Z Bogiem bądźcie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="390"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z Bogiem bądźcie, aż się zejdziem znów!<br/>Radą Swą niech On was wodzi,<br/>od wszelkiego zła odgrodzi.<br/>Z Bogiem bądźcie, aż się zejdziem znów!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Aż się znów zejdziem, znów,<br/>aż zejdziemy się u Zbawcy stóp.<br/>Aż się znów zejdziem, znów,<br/>aż u Zbawcy stóp się zejdziem znów!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Z Bogiem bądźcie, aż się zejdziem znów!<br/>Niech skrzydłami was przykrywa,<br/>niech na niczym wam nie zbywa;<br/>z Bogiem bądźcie, aż się zejdziem znów!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Aż się znów zejdziem, znów,<br/>aż zejdziemy się u Zbawcy stóp.<br/>Aż się znów zejdziem, znów,<br/>aż u Zbawcy stóp się zejdziem znów!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z Bogiem bądźcie, aż się zejdziem znów!<br/>Wśród burzliwych życia toni Jego ramię was osłoni.<br/>Z Bogiem bądźcie, aż się zejdziem znów!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Aż się znów zejdziem, znów,<br/>aż zejdziemy się u Zbawcy stóp.<br/>Aż się znów zejdziem, znów,<br/>aż u Zbawcy stóp się zejdziem znów!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:37">
+  <properties>
+    <titles>
+      <title>Z pokorą z podziwem spoglądam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="152"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z pokorą podziwem spoglądam<br/>w to morze litości i łask<br/>i słucham poselstwa pokoju olśniewa<br/>niebieski mię blask.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Krzyż Jego mój gładzi dług<br/>Krew jego mój zmywa brud<br/>Mą wolą zawładnął już Bóg<br/>Bezpiecznie mię On będzie wiódł.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tak długo się trapił, bojował<br/>I wzdychał pod jarzmem swych win<br/>Lecz skorom swe serce mu oddał<br/>Miłości odrodził mię czyn.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Krzyż Jego mój gładzi dług<br/>Krew jego mój zmywa brud<br/>Mą wolą zawładnął już Bóg<br/>Bezpiecznie mię On będzie wiódł.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Łagodnie wyciągnął swe dłonie<br/>Tyś zdrowe me dziecię!<br/>Mi rzekł. I siła znów we mnie wstąpiła<br/>Gdy szat Jego ująłem brzeg.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Krzyż Jego mój gładzi dług<br/>Krew jego mój zmywa brud<br/>Mą wolą zawładnął już Bóg<br/>Bezpiecznie mię On będzie wiódł.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Przybliża się Książę Pokoju<br/>I twą też rozjaśnić chce twarz<br/>Posłuchaj jak mile cię woła<br/>Tu pokój, tu życie już masz!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Krzyż Jego mój gładzi dług<br/>Krew jego mój zmywa brud<br/>Mą wolą zawładnął już Bóg<br/>Bezpiecznie mię On będzie wiódł.</lines>
+    </verse>
+  </lyrics>
+</song>

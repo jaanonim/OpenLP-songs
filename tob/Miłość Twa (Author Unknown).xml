@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:01">
+  <properties>
+    <titles>
+      <title>Miłość Twa</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="136"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Miłość Twa tak cudowna jest /3x<br/>Twa miłość jest.<br/>Wyższa niż szczyty wysokich gór,<br/>Głębsza niż dno najgłębszych mórz,<br/>Szersza niż przestrzeń dokoła nas,<br/>Twa miłość jest!</lines>
+    </verse>
+  </lyrics>
+</song>

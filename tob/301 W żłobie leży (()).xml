@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:55">
+  <properties>
+    <titles>
+      <title>301 W żłobie leży</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W żłobie leży, któż pobieży<br/>kolędować  Małemu?<br/>Jezusowi Chrystusowi<br/>dziś  nam narodzonemu?<br/>Pastuszkowie, przybywajcie,<br/>Jemu wdzięcznie przygrywajcie,<br/>jako Panu naszemu. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. My zaś sami z piosneczkami <br/>Za wami pośpieszmy, <br/>I tak tego, maleńkiego, <br/>Niech wszyscy zobaczmy: <br/>Jak ubogo narodzony, <br/>Płacze w stajni położony, <br/>Więc go dziś ucieszymy. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Naprzód tedy, niechaj wszędy <br/>Zabrzmi świat w wesołości, <br/>Że posłany nam jest dany <br/>Emmanuel w niskości! <br/>Jego tedy przywitajmy, <br/>Z aniołami zaśpiewajmy <br/>Chwała na wysokości!</lines>
+    </verse>
+  </lyrics>
+</song>

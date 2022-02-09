@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:22">
+  <properties>
+    <titles>
+      <title>Jezus malusieńki</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="1012"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus malusieńki<br/>leży wśród stajenki<br/>Płacze z zimna nie dała mu<br/>matula sukienki.<br/>Płacze z zimna nie dała mu<br/>matula sukienki.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bo uboga była,<br/>rąbek z głowy zdjęła,<br/>w który Dziecię owinąwszy,<br/>siankiem Je okryła<br/>w który Dziecię owinąwszy,<br/>siankiem Je okryła</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nie ma kolebeczki,<br/>ani poduszeczki,<br/>We żłobie Mu położyła<br/>siana pod główeczki.<br/>We żłobie Mu położyła<br/>siana pod główeczki.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy Dziecina kwili,<br/>patrzy w każdej chwili.<br/>Na Dzieciątko boskie w żłóbku,<br/>oko jej nie myli.<br/>Na Dzieciątko boskie w żłóbku,<br/>oko jej nie myli.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Panienka truchleje,<br/>a mówiąc łzy leje<br/>O mój Synu ! Wola Twoja,<br/>nie moja się dzieje.<br/>O mój Synu ! Wola Twoja,<br/>nie moja się dzieje.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tylko nie płacz, proszę,<br/>bo żalu nie zniosę,<br/>Dosyć go mam z męki Twojej,<br/>którą w sercu noszę.<br/>Dosyć go mam z męki Twojej,<br/>którą w sercu noszę.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Pokłon oddawajmy,<br/>Bogiem go wyznajmy<br/>To Dzieciątko ubożuchne<br/>ludziom ogłaszajmy.<br/>To Dzieciątko ubożuchne<br/>ludziom ogłaszajmy.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Józefie stajenki,<br/>daj z ogniem fajerki<br/>Grzać Dziecinę, sam co prędzej<br/>podpieraj stajenki.<br/>Grzać Dziecinę, sam co prędzej<br/>podpieraj stajenki,</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Niech Go wszyscy znają,<br/>serdecznie kochają<br/>Za tak wielkie poniżenie<br/>chwałę Mu oddają<br/>Za tak wielkie poniżenie<br/>chwałę Mu oddają.</lines>
+    </verse>
+  </lyrics>
+</song>

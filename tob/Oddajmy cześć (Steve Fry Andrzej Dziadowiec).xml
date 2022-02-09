@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:25">
+  <properties>
+    <titles>
+      <title>Oddajmy cześć</title>
+    </titles>
+    <authors>
+      <author type="words">Steve Fry Andrzej Dziadowiec</author>
+      <author type="music">Steve Fry Andrzej Dziadowiec</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="473"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oddajmy cześć<br/>wiecznemu Panu Chwał,<br/>pokłońmy się  Temu, który<br/>rozpostarł niebiosa<br/>i utwierdził ziemi krąg.<br/>Jego Chwała<br/>wznosi się ponad szczyty gór,<br/>Jego łaska<br/>nad nami jest, a niebo Jego tron.<br/>// Bóg to nasz Pan i tylko On //</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:26">
+  <properties>
+    <titles>
+      <title>Kiedy w serce w grzech wplątane</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="185"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kiedy w serce w grzech wplątane<br/>Padnie światło Bożych słów,<br/>Tobie ono jest zesłane<br/>Przyjm je, zbudź się z grzechu snów!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Słyszę, słyszę, o, ja słyszę,<br/>Słyszę, jak Pan woła mnie.<br/>Słyszę, słyszę, o, ja słyszę,<br/>Jak mnie On do Siebie zwie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezus cichym głosem woła,<br/>Wzywa cię do Siebie wciąż.<br/>Serce oprzeć się nie zdoła,<br/>Gdy zrozumie głos ten już.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Swego słowa prawdę jasną<br/>Chce nam w serca nasze tchnąć,<br/>Ze bez Niego lampy zgasną,<br/>Gdy nas z ziemi zechce wziąć.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Duszo, ciebie Jezus z nieba<br/>Woła słodkim głosem Swym.<br/>Odkupienia tobie trzeba;<br/>Pójdź, a On. uzdrowi cię!</lines>
+    </verse>
+  </lyrics>
+</song>

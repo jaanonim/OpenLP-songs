@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:55">
+  <properties>
+    <titles>
+      <title>277 Wszystkie moje troski</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wszystkie moje troski i kłopoty<br/>W Twoje ręce oddam Panie mój.<br/>Bardzo cieszę się że właśnie nas wybrałeś,<br/>Byśmy idąc nieśli imię Twe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zawsze chciałem zostać apostołem,<br/>Było to pragnienie w życiu mym.<br/>Gdy odejdziesz to napiszemy Ewangelię.<br/>Aby imię Twe znał cały świat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Każdy człowiek pragnie być szczęśliwym,<br/>Bóg obiecał wieczne szczęście dać,<br/>Chce byś pomógł ludzi doprowadzić tam,<br/>Gdzie będzie wieczne szczęście o On sam.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Spróbuj także ty kochać człowieka,<br/>Chciej odnaleźć dobroć, miłość w nim.<br/>Nie skazuj go na to, aby przepadł gdzieś,<br/>Skąd nie będzie mógł już wrócić tu.</lines>
+    </verse>
+  </lyrics>
+</song>

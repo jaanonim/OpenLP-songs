@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:30">
+  <properties>
+    <titles>
+      <title>Spojrzeniem przenikaj mię Swym</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="286"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Spojrzeniem przenikaj mię Swym,<br/>Wybadaj mą duszę i zważ!<br/>Że próżna i lekka, to wiem,<br/>Więc kornie się zbliżam,<br/>Pokornie się zbliżam<br/>Przed Twą świętą twarz,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cóż marny obchodzi mię świat?<br/>Wszak nie da pokoju ni krzty;<br/>O, wyżej prowadzi mój ślad,<br/>Mój klejnot najdroższy,<br/>Mój klejnot najmilszy,<br/>Mój Jezu - toś Ty!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Co sercu najmilsze, toć dam.<br/>Ma własność na ziemi jest Twą!<br/>Czy za nią uganiać się mam?<br/>Tyś Sam, Panie Jezu,<br/>Tyś Sam, Panie Jezu,<br/>Własnością jest mą.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>W tej wierze chcę<br/>Ciebie się jąć,<br/>żeś odjął i zgładził mój grzech<br/>I serce złe raczył mi wziąć,<br/>Boś, Panie łaskawy,<br/>Obrońco wszechmocny,<br/>Ratunkiem jest wszech!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Cześć Tobie, o Jezu mój, cześć!<br/>Ty jesteś krynicą mych sił,<br/>Sam trzymać mię raczysz i wieść;<br/>Ty możesz ratować<br/>I chcesz mię ratować,<br/>Jam z Tobą się zżył.</lines>
+    </verse>
+  </lyrics>
+</song>

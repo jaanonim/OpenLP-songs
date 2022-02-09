@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:51">
+  <properties>
+    <titles>
+      <title>Złączmy wszyscy swoje głosy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="638"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Złączmy wszyscy swoje głosy,<br/>Niech się wzbiją aż w niebiosy,<br/>Niech pochwalą Pana wraz.<br/>W polach, w lasach, w sadzie, w gaju<br/>Ptaszki Stwórcy cześć śpiewają<br/>- / Czy zawstydzić mają nas? /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wszyscy Panu pieśń śpiewajmy,<br/>Na wsze strony rozgłaszajmy,<br/>Jaki dobry jest nasz Pan.<br/>Od najpierwszej chwili życia<br/>Jego miłość nam przyświeca;<br/>/ 0n czci naszej godzien Sam. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Już nas kwiatki uczą o tym,<br/>Jak pod słońca wpływem złotym<br/>Kwitnąc, miłą szerzą woń,<br/>Jakby mówić do nas chciały:<br/>Dąż do światła, pókiś mały,<br/>/ Do Jezusa - tylko Doń! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

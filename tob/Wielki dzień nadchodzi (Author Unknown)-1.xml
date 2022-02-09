@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:34">
+  <properties>
+    <titles>
+      <title>Wielki dzień nadchodzi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="16"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wielki dzień nadchodzi, ten dzień nadchodzi.<br/>Wielki dzień nadchodzi w chwale swej.<br/>Gdy na prawo, na lewo Bóg podzieli cały lud.<br/>Czyś gotowy na ten wielki dzień?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Czyś gotowy? Czyś gotowy?<br/>Czyś gotowy przyjść na sądny dzień?<br/>Czyś gotowy? Czyś gotowy?<br/>Przyjść na sądny dzień?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jasny dzień nadchodzi, ten dzień nadchodzi.<br/>Jasny dzień nadchodzi w chwale swej.<br/>Lecz ta jasność jest dla tych,<br/>W czyich sercach mieszka Bóg.<br/>Czyś gotowy na ten jasny dzień?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Straszny dzień nadchodzi, ten dzień nadchodzi.<br/>Straszny dzień nadchodzi w chwale swej.<br/>Kiedy grzesznik usłyszy wyrok swój:<br/>„Ja nie znam cię!"<br/>Czyś gotowy na ten straszny dzień?</lines>
+    </verse>
+  </lyrics>
+</song>

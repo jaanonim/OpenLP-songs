@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:53">
+  <properties>
+    <titles>
+      <title>501 STOLAT</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sto lat, sto lat, sto lat, sto lat<br/>Niechaj żyje nam /X2<br/>Niech żyje nam, Niech żyje nam<br/>Sto lat, sto lat, sto lat, sto lat<br/>Niechaj żyje nam</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W zdrowiu, w szczęściu, w pomyślności<br/>Niechaj żyje nam /X2<br/>Niech żyje nam, Niech żyje nam<br/>W zdrowiu, w szczęściu, w pomyślności<br/>Niechaj żyje nam</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dla Jezusa i Maryi<br/>Niechaj żyje nam /X2<br/>Niech żyje nam, Niech żyje nam<br/>Dla Jezusa i Maryi<br/>Niechaj żyje nam</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dla parafii i kościoła<br/>Niechaj żyje nam /X2<br/>Niech żyje nam, Niech żyje nam<br/>Dla parafii i kościoła<br/>Niechaj żyje nam</lines>
+    </verse>
+  </lyrics>
+</song>

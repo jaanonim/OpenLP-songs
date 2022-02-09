@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:15">
+  <properties>
+    <titles>
+      <title>Bóg potrzebuje Ciebie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="46"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bóg potrzebuje Ciebie<br/>dużo bardziej potrzebuje Ciebie. // x2<br/>Potrzebuje Ciebie<br/>dużo bardziej niż Nieba,<br/>Potrzebuje Ciebie<br/>dużo bardziej niż ziemi,<br/>Potrzebuje Ciebie<br/>dużo bardziej niż morza,<br/>potrzebuje Ciebie. //</lines>
+    </verse>
+  </lyrics>
+</song>

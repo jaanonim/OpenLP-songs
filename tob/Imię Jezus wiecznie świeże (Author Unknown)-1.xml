@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:23">
+  <properties>
+    <titles>
+      <title>Imię Jezus wiecznie świeże</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="141"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Imię Jezus wiecznie świeże,<br/>Zniszczyć go nie może czas,<br/>Więc Jezusa imieniowi<br/>Niechaj śpiewa każdy z nas.<br/>W tym imieniu żywot wieczny,<br/>Wolność błoga z rajskich stron,<br/>W nim Swą miłość niewymowną<br/>Wszystkim nam objawił On.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Imię Jezus najpiękniejsze,<br/>Niesie w serca światła blask,<br/>W tym imieniu znajdziesz niebo,<br/>Wybawienie, hojność łask.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Imię Jezus niechaj zabrzmi,<br/>Niech je pozna cały świat!<br/>Wszak w nim tylko pokój znajdziesz,<br/>Znajdziesz lek na grzechu jad.<br/>Przed Jezusem złość ucieka,<br/>Przed Jezusem pierzcha noc,<br/>Bo w imieniu Jego tylko<br/>Znajdziesz do zwycięstwa moc.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Imię Jezus jako gwiazda<br/>Błyszczy na niebieskim tle,<br/>Ono ciebie do wolności,<br/>Do zbawienia słodko zwie.<br/>Choćby wszystkie światła zgasły,<br/>Choćby nastał wieczny mrok,<br/>Imię Jezus będzie świecić,<br/>Bo w nim żyje wieczny Bóg</lines>
+    </verse>
+  </lyrics>
+</song>

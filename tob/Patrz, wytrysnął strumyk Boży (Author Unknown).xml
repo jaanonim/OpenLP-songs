@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:55">
+  <properties>
+    <titles>
+      <title>Patrz, wytrysnął strumyk Boży</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="715"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Patrz, wytrysnął strumyk Boży,<br/>Cicho płynie pośród pól;<br/>Kogo tylko los zatrwoży,<br/>Niech tu przyjdzie koić ból.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Boży strumyk, nowe życie,<br/>Płynie z Zbawcy nam obficie,<br/>Pijmy z Niego i dziękujmy<br/>Za ten drogi, Boży, dar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Spójrz, tysiące słabych ludzi<br/>Się wzmocniło u tych wód,<br/>Bo ten strumyk radość budzi,<br/>Idź oglądać Boży cud!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jeśli nie znasz Jego siły,<br/>Przyjdź, zakosztuj, osądź sam,<br/>Bo ten strumyk, bracie miły,<br/>Jest od Boga ludziom dań!</lines>
+    </verse>
+  </lyrics>
+</song>

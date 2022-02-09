@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:03">
+  <properties>
+    <titles>
+      <title>Młodości moja</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="832"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Młodości moja,<br/>Tyś jest jak wiosna,<br/>Taka szczęśliwa,<br/>taka radosna.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wznoś się do nieba,<br/>Byś zawsze była,<br/>Młodości moja<br/>W Bogu szczęśliwa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Młodości moja,<br/>Bądź mi aniołem,<br/>Prowadź mię w życiu<br/>Ducha pokojem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Młodości moja,<br/>Módl się do Boga,<br/>Gdy w twoim życiu<br/>Spotka, cię trwoga.</lines>
+    </verse>
+  </lyrics>
+</song>

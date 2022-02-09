@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:37">
+  <properties>
+    <titles>
+      <title>Nasz Bóg wielki jest</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="87"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W splendorze chwały Bóg,<br/>a majestacie Król,<br/>Hołd ziemia składa Mu,<br/>ziemia składa Mu.<br/>Skąpany w świetle jest,<br/>w mrok pierzchnął drżący cień,<br/>na Jego głosu dźwięk,<br/>Jego głosu dźwięk.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nasz Bóg wielki jest,<br/>śpiewaj tak,<br/>Nasz Bóg wielki jest,<br/>by poznał świat, że Bóg,<br/>Nasz Pan wielki jest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Od wieczności trwa,<br/>a w Jego ręku czas,<br/>Początkiem, końcem jest,<br/>początkiem, końcem jest.<br/>Trój jedyny Bóg,<br/>Ojciec Syn i Duch,<br/>Baranek Judy Lew,<br/>Baranek Judy Lew.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/W niebie świętych tłum<br/>cześć oddaje Mu,<br/>więc śpiewaj,<br/>że nasz Bóg wielki jest./x2</lines>
+    </verse>
+  </lyrics>
+</song>

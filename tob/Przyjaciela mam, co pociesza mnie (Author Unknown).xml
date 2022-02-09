@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:34">
+  <properties>
+    <titles>
+      <title>Przyjaciela mam, co pociesza mnie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="100"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przyjaciela mam, co pociesza mię,<br/>gdy o Jego ramię oprę się,<br/>On pokojem Swym,szczęściem darzy mię,<br/>gdy o Jego ramię oprę się.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Boże ramię, to jest w ucisku pewny gród;<br/>Boże ramię do niebieskich mnie zawiedzie wrót</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O jak słodko mi Jego uczniem być,<br/>gdy o jego ramię oprę się,<br/>w Jego świetle iść, w Jego mocy żyć,<br/>gdy o Jego ramię oprę się.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Boże ramię, to jest w ucisku pewny gród;<br/>Boże ramię do niebieskich mnie zawiedzie wrót</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bać nie muszę się, ani ronić łez,<br/>gdy o jego ramię oprę się,<br/>w Jego świetle iść, w Jego mocy żyć,<br/>gdy o Jego ramię oprę się.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Boże ramię, to jest w ucisku pewny gród;<br/>Boże ramię do niebieskich mnie zawiedzie wrót</lines>
+    </verse>
+  </lyrics>
+</song>

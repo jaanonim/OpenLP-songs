@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:31">
+  <properties>
+    <titles>
+      <title>Jak błogo zbawionym być</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="293"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak błogo zbawionym być Twą, Panie, krwią!<br/>Głęboko w niej mogę skryć Nieczystość swą.<br/>Zatopion tu chytry wąż, Zgasł grzechów żar,<br/>Więc wielbię gorąco wciąż Łaskę bez miar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, sławcież miłości moc, Wielkiej miłości moc,<br/>Wielkiej miłości moc, Co zbawia nas!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jak błogo zbawionym być Twą, Panie, krwią!<br/>Już w trwodze nie muszę żyć, Rzuciłem ją,<br/>Wszak nowy zabłysnął dzień W pielgrzymce mej;<br/>Zwątpienia nie zaćmi cień Światłości tej.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jak błogo zbawionym być Twą, Panie, krwią!<br/>Choroby złe mogę zmyć Cudownie nią.<br/>Ciężary ze serca mi Zrzuca tu Bóg;<br/>Radości już płyną łzy U Pańskich nóg.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jezusie, ja śpiewam Ci Pieśń chwały w głos,<br/>Żeś w duszę znękaną mi Wesele wniósł.<br/>Kajdany już w sercu mym Ręka Twa rwie.<br/>Zbawienie mam w słowie tym. „Spełniło się."</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:34">
+  <properties>
+    <titles>
+      <title>Jezusowi chcę śpiewać ku chwale</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="85"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezusowi chce śpiewać ku chwale,<br/>bo On jest siłą mą, życiem mym,<br/>On ratował mnie z nędzy i śmierci,<br/>bez nadziei gdym szedł światem ty.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tyś swą krwią mnie wykupił, mój Jezu,<br/>Tyś mnie wyrwał i wiódł z drogi złej.<br/>Chcę Ci śpiewać, wysławiać Cię stale;<br/>niech Twa cześć płynie wciąż z duszy mej</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezusowi Chcę śpiewać ku chwale,<br/>On radością co dnia syci mnie.<br/>Ja nie mogę Go zaprzeć milczeniem;<br/>Jego sławić me serce się rwie.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Tyś swą krwią mnie wykupił, mój Jezu,<br/>Tyś mnie wyrwał i wiódł z drogi złej.<br/>Chcę Ci śpiewać, wysławiać Cię stale;<br/>niech Twa cześć płynie wciąż z duszy mej</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezusowi chcę śpiewać ku chwale,<br/>pośród gwaru i trosk szarych dni.<br/>Choć i boleść, lub bój sercem miota,<br/>w jego głębi niech chwała wciąż brzmi.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Tyś swą krwią mnie wykupił, mój Jezu,<br/>Tyś mnie wyrwał i wiódł z drogi złej.<br/>Chcę Ci śpiewać, wysławiać Cię stale;<br/>niech Twa cześć płynie wciąż z duszy mej</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jezusowi chcę śpiewać ku chwale,<br/>w drodze wzwyż wielbić Go z wszystkich sił,<br/>potem stać wiecznie przed Jego tronem,<br/>gdzie zbawionych Go chór będzie czcił.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Tyś swą krwią mnie wykupił, mój Jezu,<br/>Tyś mnie wyrwał i wiódł z drogi złej.<br/>Chcę Ci śpiewać, wysławiać Cię stale;<br/>niech Twa cześć płynie wciąż z duszy mej</lines>
+    </verse>
+  </lyrics>
+</song>

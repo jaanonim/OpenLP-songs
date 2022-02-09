@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:09">
+  <properties>
+    <titles>
+      <title>Nie chlubmy się tym</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie chlubmy się tym,<br/>Że znamy wielkich ludzi<br/>Należymy przecież do Jezusa /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On zapewnił nam przyszłość<br/>Dwa o teraźniejszość<br/>Mówiąc krótko, wszystko jest nasze /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A życie i śmierć, nie nasz to ból głowy<br/>Bo życie i śmierć On zwyciężył<br/>Więc życie i śmierć, nie nasz to ból głowy<br/>Nalezymy przecież do Jezusa /x2</lines>
+    </verse>
+  </lyrics>
+</song>

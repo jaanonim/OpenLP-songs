@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:10">
+  <properties>
+    <titles>
+      <title>Panie mym pragnieniem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie mym pragnieniem jest<br/>Wywyższać Cię<br/>Całym swoim sercem<br/>Uwielbiać Cię<br/>Wszystkim co jest we mnie<br/>Wychwalam Cię<br/>Wszystko co jest cenne<br/>W Tobie mam</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Serce oddaje Ci<br/>I duszę Panie mój<br/>Dla Ciebie pragnę żyć<br/>Każdy dzień, każdą noc<br/>Każdą chwilę daną mi<br/>Zrób ze mną to co chcesz</lines>
+    </verse>
+  </lyrics>
+</song>

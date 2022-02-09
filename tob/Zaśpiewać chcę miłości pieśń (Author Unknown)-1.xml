@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:35">
+  <properties>
+    <titles>
+      <title>Zaśpiewać chcę miłości pieśń</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="45"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zaśpiewać chcę miłości pieśń,<br/>Memu Zbawcy, Jezusowi.<br/>Za dzieła Twe wysławiam Cię,<br/>Kochany Zbawco, drogi Jezu,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raduję się bo nazwałeś mnie swym,<br/>Tylko z Tobą pragnę żyć.<br/>W Twych ramionach się skryć,<br/>W Twych ramionach się skryć,<br/>Więc przytul mnie i ukryj mnie,<br/>W Twych ramionach dziś.</lines>
+    </verse>
+  </lyrics>
+</song>

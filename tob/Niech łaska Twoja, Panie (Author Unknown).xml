@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:50">
+  <properties>
+    <titles>
+      <title>Niech łaska Twoja, Panie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="610"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niech łaska Twoja, Panie,<br/>Zostanie z nami wciąż:<br/>Przez dziwne jej działanie<br/>Nas z Sobą mocno zwiąż!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na wąskiej życia ścieżce<br/>Nie uda się ni. krok,<br/>Jeśliby w Swojej lasce<br/>Przed nami nie szedł Bóg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nikt tego nie żałuje,<br/>Kto się na łaskę zda;<br/>Pan wiernych poratuje,<br/>Oświeci blaskiem dnia.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>U Pana, w służbie Jego<br/>Bolesnych nie ma strat,<br/>Gdyż łaska Przedwiecznego<br/>Przewyższa cały świat.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Spraw, byśmy zwyciężyli<br/>Przez moc Twej świętej krwi,<br/>Co w najczarniejszej chwili<br/>Potęgą cudów lśni.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Wołamy zawsze, Panie,<br/>Do Twoich niebios bram:<br/>„Niech łaska Twa zostanie<br/>Na wieczną własność nam!"</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:22">
+  <properties>
+    <titles>
+      <title>Z narodzenie Pana</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="1026"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z narodzenia Pana dzień dziś wesoły,<br/>Wyśpiewują chwałę Bogu żywioły!<br/>Radość ludzi wszędy słynie,<br/>Anioł budzi przy dolinie<br/>Pasterzy, co paśli pod borem woły!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wypada wśród nocy ogień z obłoku!<br/>Dumają pasterze przy tym widoku.<br/>Każdy pyta, co się dzieje,<br/>Czy nie świta, czy nie dnieje,<br/>Skąd ta łuna bije, tak miła oku?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ale gdy anielskie głosy słyszeli,<br/>Zaraz do Betlejem prosto bieżeli.<br/>Tam witali w żłobie Pana,<br/>Poklękali na kolana<br/>I oddali dary, co z sobą wzięli.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I my z pastuszkami dziś się radujmy,<br/>Chwałę z aniołami wraz wyśpiewujmy!<br/>Bo ten Jezus, z nieba dany,<br/>Weźmie nas między niebiany,<br/>Tylko Go z całego serca miłujmy!</lines>
+    </verse>
+  </lyrics>
+</song>

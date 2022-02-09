@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:14">
+  <properties>
+    <titles>
+      <title>Pocieszajcie, pocieszajcie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="251"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pocieszajcie, pocieszajcie Mój lud! (3X)<br/>Tak mówi nasz Bóg.<br/>Oto Ja zbiorę ich<br/>Ze wszystkich stron,<br/>Do których rozproszyłem ich.<br/>I będą bezpiecznie mieszkać<br/>W kraju swym,<br/>A Ja będę Bogiem ich.<br/>Pocieszajcie...</lines>
+    </verse>
+  </lyrics>
+</song>

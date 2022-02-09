@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:22">
+  <properties>
+    <titles>
+      <title>Jezus woła pośród zgiełku</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="136"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus woła pośród zgiełku,<br/>Pośród życia srogich burz.<br/>Dzień po dniu głos Jego słyszysz:<br/>Duszo, pójdź i Bogu służ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezus woła, Jezus wzywa:<br/>Porzuć ścieżki świata już,<br/>Nie pożądaj ponęt jego,<br/>Ukorz się i Bogu służ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>W chwilach smutku i radości,<br/>W chwilach pracy On cię zwie;<br/>Woła ciebie nieustannie:<br/>Duszo, nie zapomnij Mnie!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jezus woła, Jezus wzywa,<br/>Obyś słyszał Jego głos!<br/>Niech ci Bóg otworzy serce,<br/>Byś się z Nim w miłości zrósł,</lines>
+    </verse>
+  </lyrics>
+</song>

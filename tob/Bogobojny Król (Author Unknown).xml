@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:39">
+  <properties>
+    <titles>
+      <title>Bogobojny Król</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bogobojny Król w przededniu wojny<br/>O lud swój modlił się<br/>Bóg powiedział mu "Daję ci zwycięztwo,<br/>Więc już nie lękaj się<br/>Teraz odłóż swój miecz<br/>Choć to walki czas<br/>Bitwa w mych rękach jest" - Mówi Pan</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Śpiewaj Panu pieśń<br/>Niech radosny dźwięk zabrzmi echem<br/>I niech go słyszy świat<br/>Wojna wkoło nas ale nie bój się<br/>Ufaj Bogu, to On zwycięzcą jest</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chociaż tyle zła dokoła ciebie<br/>Choć tyle pokus w krąg<br/>To obiecał Bóg, że cię nie opuści<br/>Po prostu uwierz Mu<br/>Teraz podnieś swój głos<br/>Oto walki czas<br/>Bitwa w mych rękach jest mówi Pan</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niech usłyszy świat<br/>Że nasz Bóg naprawdę jest dobry<br/>Uwielbiajmy Go<br/>Jego łaska się nigdy nie kończy<br/>Nasz Pan jest cudowny</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:32">
+  <properties>
+    <titles>
+      <title>Z niebiańskich krain jest nasz ród</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="60"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z niebiańskich krain jest nasz ród,<br/>my z tych co Chrystusowi,<br/>oddali pierwsi krew i trud,<br/>i teraz dać gotowi;<br/>bo Ojcem naszym jest nasz Bóg,<br/>Ojczyzną niebios próg!<br/>Ojczyzną niebios próg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My idziem zwalczać piekieł<br/>moc orężem księgi Bożej,<br/>aż się rozjaśni fałszu noc,<br/>zaświta prawdy zorza.<br/>Nie wątpim, że upadnie wróg,<br/>bo nam pomoże Bóg!<br/>Bo nam pomoże Bóg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dokona to Jezusa krew,<br/>za Polskę też przelana;<br/>obmyci w niej,<br/>zanućmy śpiew na chwałę Zbawcy Pana.<br/>W dzień, gdy aniołów zagrzmi róg,<br/>nas przyjmie dobry Bóg.<br/>Nas przyjmie dobry Bóg.</lines>
+    </verse>
+  </lyrics>
+</song>

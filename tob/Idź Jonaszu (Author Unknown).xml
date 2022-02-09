@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:07">
+  <properties>
+    <titles>
+      <title>Idź Jonaszu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pewnego dnia powiedział Bóg do Jonasza:<br/>/ "Idź Jonaszu do Niniwy, idź!" / x2<br/>Lecz Jonasz mówi nie:<br/>"Nie, nie pójdę do Niniwy, nie,<br/>Zmęczony jestem boję się".<br/>Przed Bogiem jonasz uciec chciał,<br/>Na statek wsiadł i zasnął tam<br/>Bo do niniwy nie chciał pójść<br/>Choć kazał jemu Bóg.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O! Idź Jonaszu do Niniwy, idź!<br/>Nie pójdę.<br/>Idź Jonaszu do Niniwy, idź!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wtem burzę posłał Bóg<br/>I na statku zapanował strach<br/>Kiedy JOnasz twardo sobie spał<br/>Wtedy woła ktoś Jonaszu wstań<br/>A Jonasz rzekł:<br/>"Przepraszam bardzo,<br/>Ja przed Bogiem chowam się<br/>Naprawdę skryć się chcę"</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wtedy w morzu znalazł się<br/>Tam wielką rybę posłał Bóg<br/>Połknęła go, by Jonasz mógł<br/>Zawołać z głębi duszy swej:<br/>"Przepraszam Panie Boże Cię"<br/>Wtem ryba wyrzuciła go<br/>Na całkiem suchy ląd.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>O! Idź Jonaszu do Niniwy, idź!<br/>Już idę.<br/>Idź Jonaszu do Niniwy, idź!<br/>Do Niniwy idę już!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:31">
+  <properties>
+    <titles>
+      <title>Ucz chodzić mię z Bogiem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="289"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ucz chodzić mię z Bogiem,<br/>jak Enoch tu raz,<br/>Mój Zbawco, w dzień każdy<br/>i w noc,<br/>Bym w błogiej bliskości Twej<br/>był w każdy czas,<br/>Niesiony wciąż przez Bożą moc.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wspaniała to droga, Jezu,<br/>Tyś Sam Zwycięzcą już we mnie się stał.<br/>Tyś Bóg i Pan mój,<br/>Tyś za mnie szedł w bój,<br/>Przyjm pieśni wdzięczności i chwał!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W miłości niezmiernej<br/>z grzechowych minie ran,<br/>Z trwóg wszelkich uwolnił i złud:<br/>Przedziwna to łaska,<br/>jedynie mój Pan<br/>Wykonał na krzyżu ten cud.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Umarły dla świata,<br/>nic nie chcę z nim mieć,<br/>Lecz Pańskim narzędziem tu być!<br/>Nic nie znać innego,<br/>nie żądać, ni chcieć,<br/>Jak tylko ku czci Jego żyć!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Twe imię wysławiać<br/>i wielbić chcę już,<br/>Dopóki Twej łaski trwa czas.<br/>Spoczywam, podziwiam,<br/>uwielbiam Cię wciąż,<br/>Aż ujrzę w wieczności Cię raz.</lines>
+    </verse>
+  </lyrics>
+</song>

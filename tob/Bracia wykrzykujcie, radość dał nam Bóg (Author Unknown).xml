@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:28">
+  <properties>
+    <titles>
+      <title>Bracia wykrzykujcie, radość dał nam Bóg</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="2"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bracia wykrzykujcie,<br/>radość dał nam Bóg<br/>siostry się radujcie:<br/>zwyciężony wróg!<br/>Niegdyś obcy sobie,<br/>teraz nućmy śpiew,<br/>łączy nas Chrystusa<br/>droga, święta krew</lines>
+    </verse>
+    <verse name="c1">
+      <lines>W głos wołajcie alleluja!<br/>Bóg nas przyjął, zmazał dług,<br/>a imiona nasze w niebie<br/>wpisał w poczet Swoich sług.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nas nie straszy teraz<br/>góry Synaj grom,<br/>ani śmiercią grozi<br/>święty Boży dom.<br/>Nas ominie Boski<br/>sprawiedliwy gniew,<br/>broni nas Chrystusa<br/>święta, droga krew.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wiarą i miłością<br/>zdobim życia bieg,<br/>krwią Jezusa zmyci,<br/>bielsi my nad śnieg.<br/>Tą ufnością mocni,<br/>znowu nućmy śpiew<br/>Zbawia nas Chrystusa<br/>droga, święta krew.</lines>
+    </verse>
+  </lyrics>
+</song>

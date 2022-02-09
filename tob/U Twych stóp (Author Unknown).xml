@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:12">
+  <properties>
+    <titles>
+      <title>U Twych stóp</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>U Twych stóp, to tu<br/>Miejsce święte jest<br/>Pragnę przyjść i skłonić się<br/>Bo móc z Tobą być<br/>To zachwyca mnie<br/>Więc pokornie chylę się</lines>
+    </verse>
+    <verse name="v1">
+      <lines>W tej chwili tak po prostu<br/>Chcę z Tobą być<br/>Wpatrzony w Twoją twarz<br/>Ty wiesz, że tak niewiele<br/>Zrobię sam<br/>A więc przyjdź i dotknij mnie</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To wszystko czego pragnę<br/>To z Tobą być<br/>Do Twej światłości wejść<br/>Chcę, aby Duch Twój teraz<br/>Ogarnął mnie<br/>Będę zawsze wielbić Cię</lines>
+    </verse>
+  </lyrics>
+</song>

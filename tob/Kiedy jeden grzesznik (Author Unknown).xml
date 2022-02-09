@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:05">
+  <properties>
+    <titles>
+      <title>Kiedy jeden grzesznik</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="252"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kiedy jeden grzesznik nawróci się<br/>Całe niebo raduje się.<br/>Kiedy jeden grzesznik odnajdzie drogę Twą<br/>Całe niebo raduje się.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Całe niebo raduje się /x2<br/>Kiedy jeden grzesznik odnajdzie drogę Twą<br/>Całe niebo raduje się.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kiedy jeden grzesznik w pokorze wzywa Cię<br/>Całe niebo raduje się.<br/>Kiedy jeden grzesznik wyznaje grzechy swe<br/>Całe niebo raduje się.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kiedy śpiewam Tobie pochwalną pieśń<br/>Całe niebo raduje się.<br/>Kiedy śpiewam Tobie pochwalny psalm<br/>Całe niebo raduje się.</lines>
+    </verse>
+  </lyrics>
+</song>

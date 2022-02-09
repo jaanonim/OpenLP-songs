@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:19">
+  <properties>
+    <titles>
+      <title>Strumyków pięć I źródeł pięć</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="54"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Strumyków pięć I źródeł pięć<br/>Z jednego tryska zdroju.<br/>Mój bracie, przyjdź<br/>Z tych źródeł pić,<br/>A rany twe się zgoją.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ten czysty zdrój, O Jezu mój,<br/>Toś Ty z Twoimi rany!<br/>W strumieniach tych<br/>Zatonie grzech<br/>I żywot mój skalany.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Strumyków pięć Mą grzeszną chęć<br/>I myśli zmieni płonne.<br/>Przez świętą krew<br/>Jam jednym z drzew,<br/>Co wiecznie są zielone.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tyś czysty zdrój, O Panie mój,<br/>Baranku Boży, Chryste!<br/>Me grzechy zmyj,<br/>W myn sercu żyj;<br/>Przez Ciebie ono czyste.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Strumieni pięć I źródeł pięć<br/>Na nowe ziemi płynie.<br/>U jasnych wód<br/>Tam Boży lud<br/>Tam zgaśnie me pragnienie.</lines>
+    </verse>
+  </lyrics>
+</song>

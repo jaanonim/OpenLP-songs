@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:35">
+  <properties>
+    <titles>
+      <title>Jezu, któż jak Ty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="340"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezu, któż jak Ty<br/>Daje pokój mi?<br/>Z łaski Twej poznałem Ciebie,<br/>Tyś mym życiem tu i w niebie,<br/>Światłość Twa mi lśni,<br/>Tyś pokojem mi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezu, życiemś mi,<br/>Dla mnieś śmierć starł Ty,<br/>By dać grzechów odpuszczenie,<br/>Od kar wiecznych uwolnienie.<br/>Wiedziesz mię do bram<br/>Niebios z łaski Sam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zwyciężyłeś świat,<br/>Szatan przez Cię padł;<br/>Połamana władza piekła,<br/>Śmierć ofiary się wyrzekła,<br/>Gdy spłaciłeś dług<br/>Swych upadłych sług.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wzór pokory Swej,<br/>Panie, na mnie wdziej,<br/>By się we mnie nie krzewiła<br/>Gniewu, pychy, grzechu siła!<br/>Wzorem bądź Ty Sam,<br/>Jak ja żyć tu mam!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gdy pokusy moc<br/>W straszną burzy noc<br/>Niepokoi moje serce,<br/>Ty mi pomóż w tej rozterce;<br/>Stańże przy mnie tuż,<br/>Boś mej duszy stróż!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Daj mi Swoich sił,<br/>Abym gotów był<br/>Dać w ofierze życie, mienie,<br/>I nie zważać na cierpienie.<br/>Staczać wiary bój<br/>Pomóż, Zbawco mój.</lines>
+    </verse>
+  </lyrics>
+</song>

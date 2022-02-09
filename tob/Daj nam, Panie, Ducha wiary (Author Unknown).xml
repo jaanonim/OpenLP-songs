@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:44">
+  <properties>
+    <titles>
+      <title>Daj nam, Panie, Ducha wiary</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="478"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Daj nam, Panie, Ducha wiary,<br/>Ducha modlitw, Ducha sił,<br/>Obdarz nas świętymi dary,<br/>By z nas każdy świadkiem był.<br/>Ty wiesz, co za ulepieniem<br/>Każdy z nas tu w ciele jest,<br/>Ty bądź naszym poświęceniem,<br/>Daj Świętego Ducha chrzest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Daj i nam Abrama wiarę,<br/>Który tak ból serca zmógł,<br/>Ze dał syna na ofiarę,<br/>Gdy zażądał tego Bóg.<br/>Daj Józefa nieugiętość,<br/>Który wolał w lochy pójść,<br/>Niż zasmucić Boga świętość,<br/>Niż przez grzech dać uwieść się.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Daj i nam moc Eliasza,<br/>Który Boga uczcić mógł,<br/>Kiedy lud na Karmel spraszał<br/>- Klęskę poniósł Pański wróg.<br/>Daj odwagę Daniela,<br/>Który znalazł się wśród lwów,<br/>Lecz z trwóg, ognia, cierpień wiela<br/>Wyszedł cało, wyszedł zdrów.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Daj nam apostołów śmiałość,<br/>Nieugiętą jako stal,<br/>Uzbrój w męstwo i wytrwałość<br/>Wpośród niebezpiecznych fal!<br/>Daj nam pokój też Szczepana,<br/>Który, patrząc w niebo, stał.<br/>Kiedy go kamienowano,<br/>Za swych wrogów prośby słał.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tyś dał obłok świadków, Panie,<br/>Co przed nami szli w Twój ślad,<br/>Byśmy biegli nieustannie<br/>Wąską drogą przez ten świat.<br/>Chcemy patrzeć wciąż na Ciebie,<br/>Tyś nasz Król jest i nasz Wódz,<br/>Tyś wysoko usiadł w niebie<br/>By ratować, służyć móc.</lines>
+    </verse>
+  </lyrics>
+</song>

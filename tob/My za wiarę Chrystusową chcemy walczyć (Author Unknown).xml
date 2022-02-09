@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:31">
+  <properties>
+    <titles>
+      <title>My za wiarę Chrystusową chcemy walczyć</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="40"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My za wiarę Chrystusową chcemy walczyć,<br/>życie dać; drogą żywą i wcią;<br/>nową naprzód kroczyć, w wierze trwać.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Do szeregu stańmy społem,<br/>jako jeden silny maż, w jednej myśli,<br/>z jasnym czołem za Chrystusem idźmy wciąż!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Walka ciężka ogień mocny, aż w posadach ziemia drży,<br/>ale Wódz nasz jest wszechmocny,<br/>Jego sztandar w górze lśni.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Do szeregu stańmy społem,<br/>jako jeden silny maż, w jednej myśli,<br/>z jasnym czołem za Chrystusem idźmy wciąż!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Siłą wiary mur Syjonu<br/>brońmy stale dzień i noc,<br/>a orężem Gedeona złamiem wroga groźną moc.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Do szeregu stańmy społem,<br/>jako jeden silny maż, w jednej myśli,<br/>z jasnym czołem za Chrystusem idźmy wciąż!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>W górę sztandar Chrystusowy!<br/>Ewangelii wieczny cud,<br/>przełamiemy wnet zapory i do Boga przyjdzie lud.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Do szeregu stańmy społem,<br/>jako jeden silny maż, w jednej myśli,<br/>z jasnym czołem za Chrystusem idźmy wciąż!</lines>
+    </verse>
+  </lyrics>
+</song>

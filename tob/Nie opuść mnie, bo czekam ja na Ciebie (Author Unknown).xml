@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:35">
+  <properties>
+    <titles>
+      <title>Nie opuść mnie, bo czekam ja na Ciebie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="347"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie opuść mnie, bo czekam ja na Ciebie,<br/>A oczy Cię szukają tam na niebie!<br/>Nie odmów mi pomocy Swej w potrzebie!<br/>Nie opuść mnie, nie opuść mnie!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie opuść mnie! Gdy za mną trwoga goni,<br/>To nowe mi widoki niech odsłoni<br/>Mocna Twa dłoń, a łaska Twa mnie broni.<br/>Nie opuść mnie, nie opuść mnie!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nie opuść mnie, gdy wola ma wątleje;<br/>Bądź przy mnie, gdy się wiara moja chwieje!<br/>Gdy słabnie duch i traci już nadzieję,<br/>Nie opuść mnie, nie opuść mnie!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nie opuść mnie,<br/>bym wszystko znosił, Panie,<br/>A w końcu, gdy mój<br/>wieczór już nastanie,<br/>Ty o mnie miej,<br/>o Boże mój, staranie!<br/>Nie opuść mnie, nie opuść mnie!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:20">
+  <properties>
+    <titles>
+      <title>Jest jedno Ciało</title>
+      <title>People of the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Robert Gay Krzysztof Antoniuk</author>
+      <author type="music">Robert Gay Krzysztof Antoniuk</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="272"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jest jedno Ciało, jest jeden Pan.<br/>Jednoczy nas w Duchu, byśmy razem szli.<br/>Usta głoszą chwałę Mu, w ręku słowa Jego miecz,<br/>w moc odziani tak idziemy<br/>zdobywamy ziemię tę.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesteśmy ludem Króla Chwał,<br/>Jego świętym narodem,<br/>wybranym pokoleniem,<br/>by objawiać Jego cześć.<br/>Jesteśmy ludem Króla Chwał,<br/>Jego Świętym narodem,<br/>wielbimy Jezusa,<br/>On jest Królem całej ziemi tej.</lines>
+    </verse>
+  </lyrics>
+</song>

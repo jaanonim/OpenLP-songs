@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:25">
+  <properties>
+    <titles>
+      <title>Pójdźcie wszyscy po zbawienie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="166"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pójdźcie wszyscy po zbawienie,<br/>Pójdźcie wszyscy grzeszni wraz!<br/>Jezus daje odpuszczenie,<br/>Dziś przyjemny łaski czas.<br/>Pójdźcie wszyscy biedni, słabi,<br/>Obarczeni winą swą,<br/>Jezus chce i was posilić;<br/>Pójdźcie, tu radości są!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pójdźcie, Żydzi i poganie,<br/>Do weselnych pójdźcie gód!<br/>Pójdźcie i wy, chrześcijanie,<br/>Zaspokoić duszy głód!<br/>Oto Ojciec was wygląda,<br/>Wszystkim chce odpuścić dług;<br/>Szaty, pierścień i obuwie<br/>Podaruje wam wasz Bóg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pójdźcie, biedni i bogaci!<br/>Czemu chcecie z dala stać?<br/>Dłużej już nie odkładajcie,<br/>Dziś Mu serce chciejcie dać!<br/>Idźcie tylko, gdy was wiedzie,<br/>Idźcie, bo On zbawi was,<br/>Chromi, ślepi, starzy, młodzi -<br/>Dziś dla wszystkich łąski czas!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pójdźcie i wy, pokalani,<br/>Niech was nie wstrzymuje wstyd -<br/>By usłyszeć wieść zbawienia,<br/>By niebieski ujrzeć świt.<br/>Oto świata noc nadchodzi<br/>I już się nachylił dzień,<br/>Ale póki Jezus blisko,<br/>Póki czas, uwierzćie Weń!</lines>
+    </verse>
+  </lyrics>
+</song>

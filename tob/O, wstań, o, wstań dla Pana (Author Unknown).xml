@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:46">
+  <properties>
+    <titles>
+      <title>O, wstań, o, wstań dla Pana</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="529"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, wstań, o, wstań dla Pana,<br/>kto niesiesz Pański krzyż;<br/>W radosnej podnieś wierze<br/>ty Jego sztandar wzwyż,<br/>Aż każdy wróg polegnie,<br/>a Królem będzie Pan!<br/>Swych wiernych On powiedzie<br/>w zwycięstwa błogi stan.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wstań dla Jezusa,<br/>kto pragnie święcie żyć,<br/>Zwycięsko podnieś sztandar,<br/>bo musi Pan Sam zwycięzcą być!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, wstań, o„ wstań dla Pana,<br/>już trąby wzywa ton,<br/>Do boju w pole chwały,<br/>bo za nas walczy On!<br/>Nic nie śmie nas powstrzymać;<br/>Duch Boży daje sił,<br/>By każdy tu zwycięzcą<br/>w tym boju wiary był.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, wstań, o, wstań dla Pana<br/>i w sile Jego chodź,<br/>Nie ufaj w niczym ziemskim,<br/>lecz w górę oczy zwróć!<br/>Przyoblecz zbroję Ducha<br/>i czuwaj, módl się wciąż<br/>I jak bojownik stały<br/>Mu wiernie w boju służ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, wstań, o, wstań dla Pana,<br/>już bój się kończy ten;<br/>Po zgiełku walk nastąpi<br/>zwycięskiej pieśni hymn.<br/>Każdemu, co zwycięży,<br/>Pan Swą koronę da,<br/>I usiąść na Swym tronie,<br/>co już na wieki.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:19">
+  <properties>
+    <titles>
+      <title>Na Golgotę, duszo, śpiesz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="51"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na Golgotę, duszo, śpiesz,<br/>Stań pod krzyżem Zbawiciela<br/>I w swym żalu tym się ciesz.<br/>Żeć Bóg przezeń łask udziela.<br/>Tam rozważaj Pański zgon,<br/>Żyć i umrzeć chciej, jak On.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Patrz, na krzyżu wisi Pan<br/>Między ziemią. i niebiosy,<br/>Krwią oblany z mnogich ran,<br/>Ważąc wieczne grzesznych losy.<br/>Ciężki z śmiercią tocząc bój,<br/>Kona w mękach Zbawca twój</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zbawicielu, Tyś bez win,<br/>Twej miłości nie masz miary,<br/>Gdyż Ty, święty Boży Syn,<br/>Mnie należne znosisz kary;<br/>By przejednać Boży gniew,<br/>Ty przelewasz Swoją krew.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cóż Ci, Zbawco, za to dam,<br/>Żeś odkupił mnie grzesznego?<br/>Nic nie pragniesz od nas Sam,<br/>Oprócz serca skruszonego.<br/>Weź je, Panie, obudź w nim<br/>Żywot nowy Duchem Swym</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Przyjmij mię na własność Swą,<br/>Udziel pociech z Twojej męki;<br/>Pomóż zwalczyć żądzę złą<br/>I wyśpiewać w sercu dzięki.<br/>Ty mię wiedź przez krzyż i znój<br/>Tam, gdzieś Ty jest, Jezu mój!</lines>
+    </verse>
+  </lyrics>
+</song>

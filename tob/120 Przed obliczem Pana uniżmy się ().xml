@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:44">
+  <properties>
+    <titles>
+      <title>120 Przed obliczem Pana uniżmy się</title>
+    </titles>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przed obliczem Pana uniżmy się <br/>Pan sam wywyższy nas <br/>Jego jest ziemia i czas <br/>Pan sam wywyższy nas.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Z pokorą stań przed Panem swym<br/>Pan sam wywyższy nas <br/>Jego jest ziemia i czas <br/>Pan sam wywyższy nas.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wszystkie swoje troski oddajmy Mu.<br/>Pan sam wywyższy nas <br/>Jego jest ziemia i czas <br/>Pan sam wywyższy nas.</lines>
+    </verse>
+  </lyrics>
+</song>

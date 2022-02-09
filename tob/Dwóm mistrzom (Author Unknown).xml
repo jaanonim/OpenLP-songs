@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:56">
+  <properties>
+    <titles>
+      <title>Dwóm mistrzom</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="43"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dwóm mistrzom służyć nie możesz,<br/>Jeden z nich kłamcą jest.<br/>Pewnego dnia musisz wybrać<br/>I zdecydować się</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zdecyduj, komu chcesz służyć,<br/>I powiedz z kim chcesz żyć,<br/>Pan daje ci swoją rękę<br/>Dziś Jemu życie swe daj.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Świat daje ci swe bogactwa,<br/>A Jezus pokój daje Ci.<br/>Ofiaruj Mu swoją miłość,<br/>Bo prawdziwą wolnością jest On.</lines>
+    </verse>
+  </lyrics>
+</song>

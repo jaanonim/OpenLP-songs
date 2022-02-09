@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:47">
+  <properties>
+    <titles>
+      <title>Służebnicy, o czemuż stoicie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="345"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Służebnicy, o czemuż stoicie,<br/>tu bezczynnie wasz trwoniąc czas?<br/>Pracy dość w Mej winnicy znajdziecie,<br/>chwastem zarasta świat wkoło was.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, ta noc, ta noc, ta grzechu noc.<br/>O ta ciemna, ta ciemna grzechu noc!<br/>O, niech świeci, niech świeci nam<br/>nieba blask i słodkiej Ewangelii moc!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oczy wasze podnieście do góry,<br/>a przypatrzcie się łanom zbóż!<br/>Kłos bieleje, gotowe są zbiory,<br/>wkrótce się wieczór przybliży już.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>O, ta noc, ta noc, ta grzechu noc.<br/>O ta ciemna, ta ciemna grzechu noc!<br/>O, niech świeci, niech świeci nam<br/>nieba blask i słodkiej Ewangelii moc!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, jak mało jest chętnych do pracy,<br/>próżno Pan nawołuje ich;<br/>Proście Mistrza i Pana winnicy,<br/>pracowników niech On wyśle Swych.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>O, ta noc, ta noc, ta grzechu noc.<br/>O ta ciemna, ta ciemna grzechu noc!<br/>O, niech świeci, niech świeci nam<br/>nieba blask i słodkiej Ewangelii moc!</lines>
+    </verse>
+  </lyrics>
+</song>

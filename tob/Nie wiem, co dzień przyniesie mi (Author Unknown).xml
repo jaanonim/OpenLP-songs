@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:43">
+  <properties>
+    <titles>
+      <title>Nie wiem, co dzień przyniesie mi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="254"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie wiem, co dzień przyniesie mi,<br/>lecz to nie trwoży mię,<br/>gdyż moja dusza ufa Ci,<br/>i Tobie zwierza się.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A więc spokojnie czekać chcę,<br/>jak, Panie, Sam powiedziesz mię.<br/>Bo zaprowadzisz pewnie tam,<br/>gdzie Twoją chwałę widzieć mam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie wiem, co dzień przyniesie mi,<br/>lecz to na pewno wiem,<br/>że z Twych obietnic<br/>i Twych słów mam radość w sercu mym.<br/>A więc spokojnie czekać chcę,<br/>jak, Panie, Sam powiedziesz mię.<br/>Bo zaprowadzisz pewnie tam,<br/>gdzie Twoją chwałę widzieć mam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nie wiem, co dzień przyniesie mi,<br/>czy radość, albo znój;<br/>na rękach mię jak dziecię Swe,<br/>wciąż nosi Ojciec mój.<br/>A więc spokojnie czekać chcę,<br/>jak, Panie, Sam powiedziesz mię.<br/>Bo zaprowadzisz pewnie tam,<br/>gdzie Twoją chwałę widzieć mam.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nie wiem, co dzień przyniesie mi,<br/>czy w nim nie zjawisz się?<br/>Abym naprzeciw wyjść mógł Ci,<br/>Ty Sam przygotuj mię!<br/>A więc spokojnie czekać chcę,<br/>jak, Panie, Sam powiedziesz mię.<br/>Bo zaprowadzisz pewnie tam,<br/>gdzie Twoją chwałę widzieć mam.</lines>
+    </verse>
+  </lyrics>
+</song>

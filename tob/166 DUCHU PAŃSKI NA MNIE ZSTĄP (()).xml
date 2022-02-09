@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:46">
+  <properties>
+    <titles>
+      <title>166 DUCHU PAŃSKI NA MNIE ZSTĄP</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Duchu Pański na mnie zstąp<br/>Duchu Pański na mnie zstąp<br/>Abym dzisiaj wyznał, że<br/>Tylko Jezus Panem jest,<br/>Moim Panem jest.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Dotknij mnie, przemień mnie,<br/>Z ciała serce daj	<br/>Dotknij mnie, przemień mnie,<br/>Ducha swego daj.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Duchu Pański na mnie zstąp<br/>Duchu Pański na mnie zstąp<br/>Abym dzisiaj wyznał, że<br/>Tylko Jezus Panem jest,<br/>Moim Panem jest.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Dotknij nas, przemień nas, <br/>z ciała serca daj<br/>Dotknij nas, przemień nas, <br/>Ducha swego daj<br/></lines>
+    </verse>
+  </lyrics>
+</song>

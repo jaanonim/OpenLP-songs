@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:06">
+  <properties>
+    <titles>
+      <title>Wnet nadejdzie dzień</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="294"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Wnet nadejdzie dzień<br/>Gdy ujrzymy króla chwał /x3<br/>Alleluja! Alleluja!<br/>Gdy ujrzymy Króla chwał!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/ Wnet ustanie płacz<br/>Gdy ujrzymy króla chwał /x3<br/>Alleluja! Alleluja!<br/>Gdy ujrzymy Króla chwał!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/ Wnet ustanie śmierć<br/>Gdy ujrzymy króla chwał /x3<br/>Alleluja! Alleluja!<br/>Gdy ujrzymy Króla chwał!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wnet przyjdzie dzień<br/>Gdy ujrzymy króla chwał<br/>Z aniołami przyjdzie On<br/>By zabrać kościół Swój<br/>Tak jak obiecał przyjdzie<br/>Zabrać wierny lud<br/>Odgłos trąb towarzyszyć będzie Mu</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wnet nadejdzie dzień<br/>Gdy ujrzymy króla chwał<br/>Wnet ustanie płacz<br/>Gdy ujrzymy króla chwał<br/>Wnet ustanie śmierć<br/>Gdy ujrzymy króla chwał<br/>Alleluja! Alleluja!<br/>Gdy ujrzymy Króla chwał!<br/>O Alleluja, O Alleluja, O Alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

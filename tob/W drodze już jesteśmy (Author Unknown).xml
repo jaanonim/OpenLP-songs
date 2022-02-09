@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:03">
+  <properties>
+    <titles>
+      <title>W drodze już jesteśmy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="843"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W drodze już jesteśmy<br/>Do niebieskich. stron.<br/>Poprzez ciemność burzy<br/>Lśni nam Ojca tron.<br/>Tam w tym kraju światła<br/>Nie ma cierpień, łez;<br/>Wszelkiej nieprawości<br/>Położony kres!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Panu i Bogu wznieś chwałę i cześć,<br/>Wznieś chwałę i cześć,<br/>Panu i Bogu wznieś chwałę i cześć,<br/>On chętnie Swą pomoc chce nieść.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezus na nas czeka,<br/>Z pereł brama lśni,<br/>Tam nikt nie narzeka,<br/>Pieśń aniołów brzmi.<br/>Lśniąca Zbawiciela<br/>Uśmiechnięta twarz<br/>Serce rozwesela,<br/>Wszyscy nucą wraz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jeszcze pielgrzymuję<br/>Przez ten ciemny świat,<br/>W sercu radość czuję,<br/>Zbawcy śpiewam rad.<br/>Wszystkim dzisiaj głoszę<br/>O tym grodzie łask,<br/>Chwałę Panu wznoszę<br/>Za przyszłości blask.</lines>
+    </verse>
+  </lyrics>
+</song>

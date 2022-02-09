@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:04">
+  <properties>
+    <titles>
+      <title>Słyszałem, jak mówił Pan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="199"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Słyszałem, jak mówił Pan,<br/>Ja jestem życia wodą.<br/>Dziś do mnie przyjdź,<br/>Pragnienie gaś,<br/>A znajdziesz nową drogę.<br/>Szara codzienność ma dzisiaj sens,<br/>Me serce nie drży w trwodze.<br/>Nie muszę błądzić znalazłem cel,<br/>Przez życie idę z Bogiem!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Weź na siebie swój krzyż,<br/>Przyjdź ode mnie się ucz,<br/>Zawsze przy Tobie stoję,<br/>Ja twój Pan!<br/>Przez życie nie pójdziesz sam!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Słyszałem, jak mówił Pan,<br/>Ja jestem zmartwychwstaniem.<br/>W wieczności ze mną będziesz żył,<br/>Tylko uwierzyć zechciej.<br/>Przyszedłem do Jezusa nóg,<br/>Oddałem życie swoje.<br/>To jedno wiem, u kresu sił,<br/>Z mym Panem pozostanę!</lines>
+    </verse>
+  </lyrics>
+</song>

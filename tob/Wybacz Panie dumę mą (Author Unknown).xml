@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:35">
+  <properties>
+    <titles>
+      <title>Wybacz Panie dumę mą</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="29"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wybacz Panie, dumę mą,<br/>Pewność siebie, wolę złą.<br/>Przytul mnie do piersi Swej tego dnia.<br/>Chroń mnie bym nie zbłądził znów,<br/>Daj sił bym znów powiedzieć mógł:<br/>„Niech będzie, Ojcze, wola Twa!"</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Niech będzie wola Twa, każdego Panie dnia,<br/>Pomóż całkiem pogrzebać me „ja".<br/>Niechaj szczerze modlę się,<br/>Jak mój Zbawiciel modliłeś się:<br/>„Niech będzie, Ojcze, wola Twa!"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przyszłe dni nieznane mi,<br/>Lecz losy swe powierzam Ci.<br/>Niech twa dłoń kierunek drodze mej da.<br/>Wzmocnij słabe siły me,<br/>Dopomóż zawsze modlić się:<br/>„Niech będzie, Ojcze, wola Twa!"</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wszystko, co zdobyłem sam,<br/>W rozporządzenie Tobie dam,<br/>Teraz Ty sam we mnie żyj, już nie ja.<br/>Kiedym wszystko oddał Ci,<br/>To już nie trudno mówić mi:<br/>„Niech będzie, Ojcze, wola Twa!"</lines>
+    </verse>
+  </lyrics>
+</song>

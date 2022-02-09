@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:37">
+  <properties>
+    <titles>
+      <title>Chwała Ci, Jezu, o Królu nasz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="374"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chwała Ci, Jezu, o Królu nasz,<br/>Że Ty Sam wziąłeś mię w Swoją straż,<br/>Że Ty mię chronisz od zgubnych dróg,<br/>W które mię wabi przebiegły wróg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ty uspokajasz me serce mdłe,<br/>Które się jeszcze do świata rwie;<br/>A gdy przygniata je ciężki znój,<br/>Ty cieszysz je Sam, zań staczasz bój.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tak, Ty mię cieszysz, gdy z bólu łkam,<br/>Gdy słaby jestem, wzmacniasz mię Sam.<br/>Gdy wszystko dla mnie niknąć zda się,<br/>Ty Swą nadzieją pocieszasz mię</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bez woli Twej nie spadnie mi włos,<br/>Choć szatan nieszczęść gotuje cios,<br/>Choć na mnie zsyła swych pokus moc;<br/>Ty go Swą siłą potrafisz zmóc.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wiedź mię więc dalej w opiece Swej,<br/>Bądź zawsze stróżem dla duszy mej!<br/>Z ufnością patrzę ja w każdy czas,<br/>Gdyż wierzę, że mi zwycięstwo dasz.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:10">
+  <properties>
+    <titles>
+      <title>Twój święty żar niech spadnie na nas z nieba</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>TWÓJ ŚWIĘTY ŻAR NIECH SPADNIE NA NAS Z NIEBA<br/>TWÓJ ŚWIĘTY OGIEŃ NIECH PŁONIE W NAS<br/>TWÓJ ŚWIĘTY DUCH NIECH CIĄGLE NAS WYPEŁNIA<br/>SŁYSZYMY JUŻ ZWYCIĘZCÓW TWOICH KRZYK</lines>
+    </verse>
+    <verse name="v2">
+      <lines>TWÓJ ŚWIĘTY ŻAR NIECH SPADNIE TU<br/>CHCEMY WIĘCEJ CIEBIE WCIĄŻ<br/>NIECH PŁONIE W NAS WIDZIMY JUŻ<br/>PRZEBUDZONY NARÓD NASZ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>PRZYJDŹ DUCH PRZYJDŹ<br/>PRZYJDŹ DUCH PRZYJDŹ<br/>NIECH TWA MOC WYPEŁNIA NAS<br/>PRAGNIEMY WCIĄŻ WIĘCEJ O TAK<br/>CHCEMY OGNIA TWEGO W NAS</lines>
+    </verse>
+  </lyrics>
+</song>

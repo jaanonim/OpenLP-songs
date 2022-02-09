@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:00">
+  <properties>
+    <titles>
+      <title>Wróbelków małych kocha Bóg</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="848"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wróbelków małych kocha Bóg,<br/>Od zguby chroni je;<br/>A jeśli ptaszki kocha Bóg,<br/>On kocha także mnie.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>On kocha mnie, On kocha mnie,<br/>Ja wiem On kocha mnie;<br/>A jeśli ptaszki kocha Bóg,<br/>On kocha także mnie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bóg kocha lilię w krasie jej,<br/>U cichych źródeł wód,<br/>A jeśli kwiaty kocha Bóg,<br/>On kocha ludzki ród!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bóg stworzył ptaszki, kwiatów moc,<br/>Swym światłem darzy je;<br/>Więc nie zapomni dzieci Swych,<br/>I kocha także mnie.</lines>
+    </verse>
+  </lyrics>
+</song>

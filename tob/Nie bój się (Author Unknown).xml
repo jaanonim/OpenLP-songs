@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:09">
+  <properties>
+    <titles>
+      <title>Nie bój się</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/Nie bój się, bo jestem z tobą!<br/>Nie bój się, bo jestem z tobą!<br/>Nie bój się, bo jestem z tobą mówi Pan./2x<br/>Odkupiłem cię dałem ci imię Swe,<br/>Moim jesteś więc już<br/>Nie utoniesz, gdy będziesz po wodzie szedł,<br/>Ogień nie strawi cię!<br/>Nie, nie, nie utoniesz!<br/>Nie, nie, nie spłoniesz!<br/>Bo Ja jestem z tobą mówi Pan.</lines>
+    </verse>
+  </lyrics>
+</song>

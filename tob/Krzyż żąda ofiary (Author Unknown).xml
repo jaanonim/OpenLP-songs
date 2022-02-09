@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:30">
+  <properties>
+    <titles>
+      <title>Krzyż żąda ofiary</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="272"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krzyż żąda ofiary, gdyż na nim<br/>Musi umrzeć nasze ,ja";<br/>Trzeba kłaść na ołtarzu w ofierze się,<br/>By spalić się do cna.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Czyś gotowy tak iść śmierci drogą na krzyż?<br/>Porzuć bo jaźń i wszelki swój strach!<br/>Powierz Bogu swój los; On weźmie precz,<br/>Przed czym ty teraz trwogę masz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jak prędko niebacznie mówi się:<br/>,Kładę teraz życie me!"<br/>Lecz gdy chce w głębię śmierci<br/>Pan wciągnąć cię, To ty Mu mówisz:<br/>„nie!"</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Czy trwożnie się cofać jeszcze chcesz?<br/>Raczej przyjmij chętnie krzyż!<br/>Śmiało ufaj i ślepo w tę łaskę wierz<br/>Czystego weźmie wzwyż!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Co z tobą zamierza zrobić Pan?<br/>To, że z Nim ty umrzeć masz,<br/>By Swym życiem On w tobie mógł żyć już Sam,<br/>A ty Mu chwałę dasz!</lines>
+    </verse>
+  </lyrics>
+</song>

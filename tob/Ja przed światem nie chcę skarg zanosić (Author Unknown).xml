@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:40">
+  <properties>
+    <titles>
+      <title>Ja przed światem nie chcę skarg zanosić</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="444"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ja przed światem nie chcę skarg zanosić,<br/>Nie chcę tu korony chwały nosić,<br/>Gdzie mój Pan koronę z ciernia niósł;<br/>Nie chcę, by mi słano w drogę kwiecie<br/>Tu, gdzie Jego, najświętszego w świecie<br/>Ludzki grzech aż na krzyż hańby wzniósł.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ducha prawdy, Panie, daj na drogę,<br/>Gdyż w pielgrzymce łatwo zbłądzić mogę,<br/>Na pielgrzyma pełno czyha zgub;<br/>Serce daj, co chętnie by słuchało<br/>I po wąskiej ścieżce wieść się dało<br/>Naśladując pilnie Twoich stóp.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Coraz mię silniejszym uczyń w wierze<br/>I z miłością połącz ją w przymierze,<br/>Miłość nieobludną w serce wlej!<br/>Bez niej rychło mię pielgrzymka strudzi,<br/>Miłość zaś wzajemną miłość budzi,<br/>Dając udział w społeczności Twej.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wołasz mię uprzejmie, miły Panie,<br/>Lecz nim się do celu człek dostanie,<br/>Musi w wierze wiele przebyć klas.<br/>Więc łaskawie podaj mi Swe dłonie,<br/>Słudze Swemu pośpiesz ku obronie,<br/>Wspieraj, kieruj i zachowaj wraz!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jestem tu na świecie jak w gościnie,<br/>Życie w Bogu skryte tu nie słynie,<br/>Niczym światu jest mój biedny stan;<br/>Krzyż w pielgrzymce mą oznaką, chlubą,<br/>Aż ojczyznę ja powitam lubą,<br/>Upragniony górny Kanaan</lines>
+    </verse>
+  </lyrics>
+</song>

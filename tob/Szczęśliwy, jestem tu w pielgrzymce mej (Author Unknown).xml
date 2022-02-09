@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:43">
+  <properties>
+    <titles>
+      <title>Szczęśliwy, jestem tu w pielgrzymce mej</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="464"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szczęśliwy, jestem tu w pielgrzymce mej,<br/>Boś Ty jest mój!<br/>I wtenczas wesół, kiedy ciemno w niej,<br/>Boś Ty jest mój!<br/>Ja pragnę wiernie Twoim śladem iść,<br/>Posłuszny Tobie, Zbawco, życie wieść.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy niebezpiecznie, wstecz nie cofam się,<br/>Boś Ty jest mój!<br/>Gdy ciemno, w Twe oblicze patrzeć śmiem,<br/>Boś Ty jest mój!<br/>Jak błogo mi wciąż śladem kroczyć Twym!<br/>Za Przyjacielem serce ciągnie mię.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ty drogę znasz, to sił dodaje dość,<br/>Boś Ty jest mój!<br/>Mnie nie odstraszy wróg, ni świata złość,<br/>Boś Ty jest mój!<br/>Gdy łaską kryje mię Twa mocna dłoń,<br/>Wesoło mogę iść na rajską błoń.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy kiedyś skończę bieg - to błogi stan,<br/>Boś Ty jest mój!<br/>Tu na obczyźnie - tam u Ojca bram,<br/>Tyś zawsze mój!<br/>Czy tu, czy tam, o jedno proszę Cię:<br/>Niech miłość z Tobą, Zbawco, łączy mię!</lines>
+    </verse>
+  </lyrics>
+</song>

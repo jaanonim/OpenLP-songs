@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:21">
+  <properties>
+    <titles>
+      <title>O, ta miłość Twoja, Panie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="96"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, ta miłość Twoja, Panie,<br/>Niepojęta w cudzie swym,<br/>Jest jak morskie fale w stanie<br/>Rozlać się tu w sercu mym.<br/>Już napełnia serce moje<br/>Twej miłości silny prąd,<br/>Darzy szczęściem i pokojem,<br/>W niebios włości wiedzie stąd.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, ta miłość Twoja, Panie,<br/>Płynie ciągle wszerz i wzdłuż,<br/>Nigdy płynąć nie przestanie,<br/>Ogarniając rzesze dusz;<br/>Tę najgłębiej okazałeś,<br/>Gdyś na krzyżu za mnie zmarł;<br/>Tam mnie z Bogiem pojednałeś,<br/>Boś me grzechy wszystkie starł.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, ta miłość Twoja, Panie!<br/>Nikt nie kocha tak, jak Ty!<br/>Wielkie jest Twe zmiłowanie,<br/>Tyś przystanią mocną wżdy.<br/>O, ta miłość Twoja, Panie,<br/>Ta jest niebem w życiu mi,<br/>Da mi wieczne królowanie,<br/>Gdzie Twa chwała cudnie lśni.</lines>
+    </verse>
+  </lyrics>
+</song>

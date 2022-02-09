@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:47">
+  <properties>
+    <titles>
+      <title>„Za Mną" Wódz nasz, Chrystus mówi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="538"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>„Za Mną" Wódz nasz, Chrystus mówi.<br/>Za Mną wszyscy śpieszcie w bój!<br/>Siebie zaprzeć się gotowi,<br/>Zbierzcie się pod sztandar Mój!<br/>Weźcie krzyż swój, za Mym wzorem<br/>Idźcie wąskim prawdy torem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jam jest światłość, Ja wam świecę,<br/>Jam na ziemię prawdę wniósł;<br/>Święty zapał w sercach wzniecę,<br/>Które Mój przyjmują głos.<br/>Jam jest drogą, Ja wskazuję,<br/>Jak się w świetle postępuje.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy dokuczy walka sroga,<br/>Jam na czele - mężny Wódz.<br/>Złamię silne wojska wroga,<br/>On nie w stanie wiernych zmóc.<br/>Zły to żołnierz, co odwłacza.<br/>Kiedy wódz bój mężnie stacza.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kto swą duszę chce zachować,<br/>Ten beze Mnie straci ją,<br/>Kto ją gotów Mnie darować,<br/>W niebie się znów złączy z nią.<br/>Kto się szczerze do Mnie zbliża,<br/>Nie uchyla się od krzyża.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pójdźmy wszyscy z ciałem, z duszą,<br/>Pójdźmy już za Panem w ślad!<br/>Niech wierności tej nie wzruszą<br/>Ani szatan, ani świat.<br/>Kto tu w walce był niestały,<br/>Nie otrzyma wieńca chwały</lines>
+    </verse>
+  </lyrics>
+</song>

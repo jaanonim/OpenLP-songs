@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:43">
+  <properties>
+    <titles>
+      <title>109 Duchu Ogniu, Duchu Żarze</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Duchu Ogniu, Duchu Żarze, <br/>Duchu Światło, Duchu Blasku, <br/>Duchu Wichrze i Pożarze, <br/>ześlij płomień Twojej łaski.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Chcesz rozpalisz i rozognisz, <br/>serca wzniesiesz na wysokość, <br/>w ciemność rzucisz blask pochodni <br/>i rozproszysz grzechu mroki.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Naszą nicość odbudujesz <br/>w najpiękniejsze znów struktury, <br/>tchnieniem Swoim świat przesnujesz <br/>w szeleszczących modlitw sznury.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z mgieł konkretny kształt wyłonisz <br/>i z chaosu piękno ładu. <br/>Tyś spokojem wśród niezgody, <br/>w bezradności Tyś jest radą.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Twe oblicze zaróżowi <br/>pulsem życia, wzrostu drżeniem. <br/>Narodzimy się na nowo, <br/>ciemność stanie się promieniem.</lines>
+    </verse>
+  </lyrics>
+</song>

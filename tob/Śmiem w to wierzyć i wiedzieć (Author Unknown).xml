@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:29">
+  <properties>
+    <titles>
+      <title>Śmiem w to wierzyć i wiedzieć</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="247"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Śmiem w to wierzyć i wiedzieć,<br/>Że spłacony mój dług<br/>I rękopis podarty,<br/>Który długo mię gniótł!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Alleluja, alleluja!<br/>Pan mię umiłował?<br/>Alleluja, alleluja!<br/>Jemu wznoszę pieśń chwał.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Boży Syn dał Swe życie,<br/>Spłacił dług duszy mej,<br/>Dał mi wolność obficie,<br/>Z śmierci wyrwał mię złej!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jego śladem więc idę,<br/>Bo On zgładził mój grzech,<br/>Pielgrzymuję szczęśliwy,<br/>Bom uwolnion z win wszech!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wybawiony i wolny<br/>Chętnie Jemu chcę żyć,<br/>Poślubionym, oddanym<br/>Swemu Panu tu być.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Memu Zbawcy cześć, chwałę<br/>Śpiewać odtąd ja chcę;<br/>Pielgrzymować tak mogę<br/>Aż do nieba dojść śmiem!</lines>
+    </verse>
+  </lyrics>
+</song>

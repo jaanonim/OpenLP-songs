@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:43">
+  <properties>
+    <titles>
+      <title>095 Świeć gwiazdeczko mała świeć</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zaprowadź mnie prosto do Betlejem,<br/>Zaprowadź mnie, gdzie Bóg narodził się<br/>Zaprowadź mnie, nie mogę spóźnić się,<br/>Nie mogę spóźnić się!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Świeć gwiazdeczko mała świeć<br/>Do Jezusa prowadź mnie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Narodził się Bóg zstąpił na ziemię,<br/>Narodził się by uratować mnie,<br/>Narodził się i nie zostawił mnie,<br/>I nie zostawił mnie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Czekają tam Józef i Maryja,<br/>śpiewają nam, śpiewają gloria.<br/>To gloria, święta historia,<br/>Święta historia.</lines>
+    </verse>
+  </lyrics>
+</song>

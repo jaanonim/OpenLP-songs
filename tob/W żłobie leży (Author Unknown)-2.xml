@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:22">
+  <properties>
+    <titles>
+      <title>W żłobie leży</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="1023"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W żłobie leży, któż pobieży<br/>Kolędować Małemu?<br/>Jezusowi, Chrystusowi,<br/>Dziś nam narodzonemu?<br/>Pastuszkowie przybywajcie,<br/>Jemu wdzięcznie przygrywajcie,<br/>Jako Panu naszemu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My zaś sami z piosneczkami<br/>Za wami pospieszymy,<br/>A tak tego, maleńkiego,<br/>Niech wszyscy zobaczymy:<br/>Jak ubogo narodzony,<br/>Płacze w stajni położony,<br/>Więc go dziś ucieszymy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Naprzód tedy, niechaj wszędy<br/>Zabrzmi świat z wesołości,<br/>Że posłany nam jest dany<br/>Emmanuel w niskości!<br/>Jego tedy przywitajmy,<br/>Z aniołami zaśpiewajmy<br/>Chwała na wysokości!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Witaj, Panie, cóż się stanie,<br/>Że rozkosze niebieskie<br/>Opuściłeś a zstąpiłeś<br/>Na te niskości ziemskie ?<br/>Miłość moja to sprawiła,<br/>By człowieka wywyższyła<br/>Pod nieba emipryjskie.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Przecz w żłóbeczku, nie w łóżeczku,<br/>Na sianku położony.<br/>Precz z bydlęty, nie z panięty,<br/>W stajni jesteś złożony.<br/>By człęk sianu przyrónany,<br/>Grzesznik bydlęciem nazwany<br/>Przeze Mnie był zbawiony.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Twoje państwo i poddaństwo<br/>Jest świat cały, o Boże<br/>Tyś polny kwiat, czemuż Cię świat<br/>Przyjąć nie chce, choć może?<br/>"Bo świat doczesne wolności<br/>Zwykł kochać, Mnie zaś w złości<br/>Ściele krzyżowe łoże".</lines>
+    </verse>
+    <verse name="v7">
+      <lines>W Ramie głosy pod niebiosy<br/>Wzbijają się Racheli<br/>Gdy swe syny bez przyczyny<br/>W krawej widzi kąpieli<br/>"Większe Mnie dla nich kąpanie<br/>W krwawym czeka oceanie<br/>Skąd niebo będą mieli"</lines>
+    </verse>
+  </lyrics>
+</song>

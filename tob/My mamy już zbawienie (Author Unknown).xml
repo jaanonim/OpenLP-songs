@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:56">
+  <properties>
+    <titles>
+      <title>My mamy już zbawienie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="749"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My mamy już zbawienie<br/>Przez Zbawcy świętą krew.<br/>My mamy odkupienie.<br/>Pochwalny wznieśmy śpiew.<br/>Kapłana najwyższego,<br/>Co w niebie zajął tron,<br/>Lecz przedtem z życia Swego<br/>Ofiarę złożył On.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesteśmy wszyscy jedno, złączeni Zbawcy krwią,<br/>Jednego mamy Ojca, z radości serca drżą.<br/>Jednego mamy Zbawcę, co w mękach za nas zmarł,<br/>I śmiercią tą wyjednał zbawienia dla nas dar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My w sercach, pokój mamy,<br/>Zbawiciel nam go dał.<br/>Pociechę posiadamy,<br/>Choć życiu grozi szał.<br/>Pasterza też dobrego,<br/>Co paszę daje nam.<br/>Prowadzi do wód żywych<br/>I strzeże stada Sam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Prorocze mamy Słowo,<br/>Pochodnię naszych nóg,<br/>Co wiedzie drogą nową,<br/>Gdy idziem w niebios próg.<br/>Ze Słowa tego wiemy,<br/>Że Chrystus przyjdzie wnet,<br/>A wtedy odpoczniemy<br/>Ze wszystkich naszych bied.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nam dostęp jest otwarty<br/>Do tronu Bożych łask,<br/>Gdy wiedziem bój zażarty,<br/>Pan zsyła pociech blask.<br/>A po skończonym boju,<br/>Nam wieniec życia da,<br/>Ten Książę nasz pokoju,<br/>Co chroni nas od zła.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Czekamy przyjścia Jego<br/>Z tęsknotą w każdy czas,<br/>Wołamy więc do Niego:<br/>O, weź do Siebie nas!<br/>Prosimy w każdej dobie:<br/>Nasz Panie Jezu, przyjdź!<br/>O, Alleluja Tobie,<br/>Po Swą wybraną zniijdź!</lines>
+    </verse>
+  </lyrics>
+</song>

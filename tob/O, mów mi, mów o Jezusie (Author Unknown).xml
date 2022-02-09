@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:22">
+  <properties>
+    <titles>
+      <title>O, mów mi, mów o Jezusie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="113"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, mów mi, mów o Jezusie,<br/>Słuchać tej wieści bym chciał;<br/>Wpisz ją w me serce i w duszę!<br/>Pragnę i ja w Nim mieć dział.<br/>Mów o tej wieści, co brzmiała<br/>Nad Betlejemem i nam:<br/>„Bogu na niebie bądź chwała,<br/>Pokój na ziemi bądź wam!"</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, mów mi, mów o Jezusie,<br/>Słuchać tej wieści bym chciał;<br/>Wpisz ją w me serce i duszę!<br/>Pragnę i ja w Nim mieć dział.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mów, jak podstępnie, a mile<br/>Kusił aa paszczy Go wróg<br/>I jako w Bożej On siłę<br/>Wszystkie zasadzki złe zmógł.<br/>Mów mi o latach cierpienia,<br/>Potu i krwi mnóstwie strug;<br/>O tym, jak znosił zelżenia,<br/>Gładząc na krzyżu mój dług.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mów, jak na wzgórzu Golgoty<br/>Skonał na krzyżu wśród ran<br/>I jak z grobowej Swej groty<br/>Powstał zwycięsko nasz Pan.<br/>Opisz tę miłość bez miary,<br/>Która wśród cierpień i mąk<br/>Grzesznych zwolniła od kary,<br/>Wiedzie do Ojca ich rąk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mów mi o tym przyrzeczeniu,<br/>Które Pan uczniom Swym dał,<br/>Mów mi, jak w ich zgromadzeniu<br/>Cud ten naprawdę się stał.<br/>Mów, jak On ochrzcił wspaniale<br/>Duchem i ogniem ten zbór<br/>I jak ku Jego tam chwale<br/>Nowych języków brzmiał chór.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ciebie prosimy, o Chryste,<br/>Przez Twe cierpienia i trud:<br/>Stworzyć racz serca nam czyste,<br/>Stwórz poświęcony Ci lud.<br/>- Ochrzcij nas ogniem i Duchem<br/>Mocą przelanej Twej krwi,<br/>Niechaj za Jego podmuchem<br/>Serce i język Cię czci.<br/>Ciebie prosimy, o Chryste,<br/>Przez. Twe cierpienia i trud:<br/>Stworzyć racz nam czyste,<br/>Stwórz poświęcony Ci lud.</lines>
+    </verse>
+  </lyrics>
+</song>

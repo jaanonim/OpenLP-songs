@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:52">
+  <properties>
+    <titles>
+      <title>Na Golgotę</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="425"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na Golgotę, duszo, śpiesz, stań pod krzyżem<br/>Zbawiciela i w swym żalu tam się ciesz,<br/>że Bóg Przezeń łask udziela. Tam rozważaj<br/>Zbawcy zgon, żyć i umrzeć chciej jak On.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Patrz, na krzyżu wisi Pan między ziemią<br/>i niebiosy, krwią oblany z mnogich ran,<br/>ważąc wieczne grzesznych losy. Ciężki z<br/>śmiercią tocząc bój, kona w mękach Zbawca twój.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zbawicielu, Tyś bez win, Twej miłości nie ma<br/>miary; gdyż Ty, święty Boży Syn,<br/>mnie należne znosisz kary. By przejednać<br/>Boży gniew, Ty przelewasz Swoją krew.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cóż Ci, Zbawco, za to dam, żeś wybawił mnie<br/>grzesznego? Wszystko Twoje, ale sam pragniesz<br/>serca skruszonego. Weź je, Panie, i wskrześ w<br/>nim żywot nowy duchem Swym.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Przyjmij mię za własność Swą, udziel pociech<br/>z Twojej męki; pomóż zwalczyć żądzę złą i dać<br/>Tobie sercem dzięki. Ty mię wiedź przez krzyż<br/>i znój, tam gdzieś Ty jest, Jezu mój!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:27">
+  <properties>
+    <titles>
+      <title>Ach, oby Zbawcy wzór cierpienia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="222"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ach, oby Zbawcy wzór cierpienia<br/>Głęboko utkwił w sercu mym,<br/>I cel mojego był dążenia<br/>Miłować Go i żyć tu w Nim.<br/>Jemu należeć pragnę cały,<br/>Na wieczną własność kupił mię;<br/>Z grzechowych pęt do Swojej chwały<br/>Przeniósł, złamawszy śmierci ćmę.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na Pana skieruj swój wzrok wiary,<br/>On wzbudzi w tobie radość Swą.<br/>O, jakie szczęście to bez miary,<br/>Gdy Jezus wstąpi w duszę mą!<br/>Wciąż moją duszę tu przejmuje<br/>Błogi i cudny pokój ten,<br/>Co w krwi Jezusa się znajduje,<br/>Która oczyszcza z wszelkich win.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Za grzechy moje niósł cirpienie,<br/>Dał dobrowolnie żywot Swój;<br/>Mam w Jego ranach swe zbawienie<br/>I w Jego krwi radości zdrój.<br/>Już Zbawca kroczy z niebios tronu<br/>I Swój na nowo budzi lud,<br/>By wytrwał wiernie aż do zgonu,<br/>Gdy wejdzie z Nim do niebios wrót.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ach co za błogość w sercu płonie,<br/>Gdy na pierś Zbawcy złożę się!<br/>Jaki tam cudny pokój wionie!<br/>Ja tam przebywać zawsze chcę.<br/>Przez krew z Nim jestem pojednany<br/>Tutaj i kiedyś wiecznie tam<br/>Z Nim będę razem połączony<br/>Gdy wnijdę stąd do niebios bram</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:35">
+  <properties>
+    <titles>
+      <title>Gdzie znajdę Pana</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="116"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdzie znajdę Pana?<br/>Gdzie znajdę pokój?<br/>O, kto mi powie, gdzie znajdę go?<br/>Pan pokój da, a gdzie jest Pan, tam już niebieski błogi stan, weselny strój mej duszy dan, weselny strój mej duszy dan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy szukasz Boga,<br/>gdy szukasz Zbawcy,<br/>w komorze podnieś błagalny głos!<br/>W komorze swej w modlitwie łkaj<br/>i proś:o,Jezu, przyjdź i daj.<br/>W mym sercu mieć pokoju raj!<br/>W mym sercu mieć pokoju raj.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kto tylko szuka, ten pewnie znajdzie;<br/>Zbawiciel szczerych wysłucha próśb,<br/>zapukaj więc do niebios drzwi,<br/>a Pan chleb życia poda ci,<br/>do nieba ci otworzy drzwi.<br/>Do nieba ci otworzy drzwi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Chcę Go przebłagać, chcę Doń zapukać,<br/>chcę Doń zawołać: O, Panie słysz!<br/>Cierpliwie oczyść serce me<br/>i z błędnych ścieżek sprowadź je,<br/>niech łaska Twoja spłynie w nie.<br/>Niech łaska Twoja spłynie w nie.</lines>
+    </verse>
+  </lyrics>
+</song>

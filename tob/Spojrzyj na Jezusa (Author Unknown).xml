@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:41">
+  <properties>
+    <titles>
+      <title>Spojrzyj na Jezusa</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="235"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Spojrzyj na Jezusa, duszo pośpiesz Doń!<br/>On Swą dłoń położy na strudzoną skroń.<br/>On niósł grzechy twoje, wszystką winę twą,<br/>spojrzyj na Jezusa, da ci łaskę Swą.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Spojrzyj na Jezusa, kiedy staczasz bój,<br/>On pomoże w walce, wiernie przy Nim stój,<br/>chociaż wróg potężny, mała siła twa,<br/>spojrzyj na Jezusa, On zwycięstwo da.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Spojrzyj na Jezusa, kiedy szczęsny los,<br/>w szczęściu wnet pokusa swój wymierzy cios,<br/>ziemi tej rozkoizs wnet rozprysną się.<br/>Spojrzyj na Jezusa nie opuści cię!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Spojrzyj na Jezusa, gdy cię gniecie krzyż,<br/>u nóg Jego spoczniesz, śmiało Doń się zbliż!<br/>Słuchaj, jak cię woła: stół gotowy już!<br/>Spojrzyj na Jezusa, Jemu szczerze służ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Patrząc na Jezusa, śpiesz do niebios bram,<br/>w blasku cudnej chwały ujrzysz Zbawcę tam;<br/>Kiedy w niebie zabrzmi triumfalny psalm,<br/>i ty u stóp Jego złożysz wieńce palm.</lines>
+    </verse>
+  </lyrics>
+</song>

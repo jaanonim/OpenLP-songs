@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:46">
+  <properties>
+    <titles>
+      <title>Powiedzcie, jak mam smutnym być</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="530"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Powiedzcie, jak mam smutnym być,<br/>Gdy Zbawcę ja posiadam!<br/>Nie może mię udręka zgnieść,<br/>Choć wszystko w grób tu wpada.<br/>Choć świat szaleje wkoło mnie,<br/>Me serce czcią dla Pana tchnie,<br/>/ Bo On mym pokrzepieniem. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mnie nie zatrwoży smutek, znój,<br/>Gdy Je¬zus przy mym boku;<br/>Przede mną kroczy zawsze w bój,<br/>Zwycięża w każdym kroku.<br/>Ja wiem, że z Nim zwyciężyć mam,<br/>Gdy życie swe z ufnością zdam<br/>/ Na łaskę Zbawiciela. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Choć wkoło gromy srożą się,<br/>Chcę ufać Panu stale;<br/>Gdy zgnieść chcą burze, fale mię,<br/>Podnoszę wzrok Doń trwale.<br/>Wystarczy, że mię strzeże Ten,<br/>Co świat zwyciężył - Boży Syn.<br/>/ Zwycięzcą On zostanie. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nie wspominajcie smutku mi,<br/>Gdyż Zbawcę ja posiadam;<br/>Pociechę śle i w ciężkie dni,<br/>Swój pokój w serce wkłada.<br/>Napełnia wielka radość mię;<br/>Chcę Jemu całkiem oddać się,<br/>/ Aż weźmie mię do Siebie. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

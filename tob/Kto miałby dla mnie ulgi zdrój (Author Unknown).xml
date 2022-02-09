@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:37">
+  <properties>
+    <titles>
+      <title>Kto miałby dla mnie ulgi zdrój</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="148"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kto miałby dla mnie ulgi zdrój?<br/>Kto mnie wybawił z boju?<br/>Gdzie znajdzie biedna dusza ma uroczą błoń pokoju?<br/>O, jakże rada by już przejść te progi jasno lśniące,<br/>poza którymi słońce lśni,<br/>już nigdy nie gasnące,<br/>już nigdy nie gasnące.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tę błoń pokoju dobrze znam,<br/>ten czysty zdrój źródlany,<br/>bo jest to Chrystusowy krzyż i święte Jego rany.<br/>Do wszystkich zatroskanych serc stąd pokój cudny spływa,<br/>tam się ukryła dusza ma i błogo odpoczywa, i błogo odpoczywa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu pokój z owych górnych stref ogarnia serce moje;<br/>w ten zbawczy zapatrzony znak, ciężary składam swoje.<br/>Gdym oto progi Jego mąk przekroczył jasno lśniące,<br/>w mej duszy cudne słońce lśni już nigdy nie gasnące,<br/>już nigdy nie gasnące.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Do Pana pójdźcie ze mną wraz, ciężarem obarczeni!<br/>O, nie wypłynie ulgi zdrój tu dla was na pustyni.<br/>Znajdziecie tylko fałsz i kłam, i mary znikające,<br/>zdrój w Panu jest, On także lśni jak słońce nie gasnące,<br/>jak słońce nie gasnące.</lines>
+    </verse>
+  </lyrics>
+</song>

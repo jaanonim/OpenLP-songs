@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:47">
+  <properties>
+    <titles>
+      <title>Bracia, siostry</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="335"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bracia, siostry, nuż do pracy,<br/>póki jeszcze mamy czas,<br/>Jezus będzie nam pomocą,<br/>nuż do dzieła wszyscy wraz!<br/>Patrzcie! żniwo białe już,<br/>ile ginie drogich dusz!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nuż do pracy, dzieci Boże,<br/>o Golgocie zwiastujcie!<br/>Pomagajcie kto w czym może<br/>i grzeszników ratujcie!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ach! jak wielu na bezdrożach błądzi w<br/>zgubnej ciemności, ciałem, duszą<br/>toną w grzechach, giną w nich bez<br/>miłości. O, jak smutny widok to,<br/>że im pomóc nie ma kto.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Nuż do pracy, dzieci Boże,<br/>o Golgocie zwiastujcie!<br/>Pomagajcie kto w czym może<br/>i grzeszników ratujcie!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Patrzcie, bracia, co się dzieje:<br/>Grzech rozszerza się jak trąd!<br/>Bo się w sercach wiara chwieje.<br/>Prędko przyjdzie Boży sąd.<br/>Ale ludzkość w grzechach śpi,<br/>o rozkoszach tylko śni.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Nuż do pracy, dzieci Boże,<br/>o Golgocie zwiastujcie!<br/>Pomagajcie kto w czym może<br/>i grzeszników ratujcie!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bracia, siostry, naprzód śmiało!<br/>Zwyciężymy grzechu moc,<br/>choć wierzących jest tak mało,<br/>jednak z nami Boża moc.<br/>Gdy Zbawiciel przy nas trwa,<br/>nam we wszystkim pomoc da.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Nuż do pracy, dzieci Boże,<br/>o Golgocie zwiastujcie!<br/>Pomagajcie kto w czym może<br/>i grzeszników ratujcie!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:48">
+  <properties>
+    <titles>
+      <title>Jam stęskniony</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="570"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jam stęskniony, jam stęskniony,<br/>O mój Jezu uwielbiony,<br/>Ujrzeć Cię, bo mym pragnieniem<br/>Spocząć pod Twych skrzydeł cieniem<br/>/ I przed tronem Twoim stać. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Światło drogie, światło drogie,<br/>Co .roz¬praszasz chmury wrogie!<br/>Kiedyż, kiedyż z wybranymi,<br/>Przed Twój tron dopuszczonymi,<br/>/ Ujrzym lica Twego blask? /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hymn wspaniały, hymn wspaniały<br/>Wznosi chór aniołów cały.<br/>Ach, gdzież skrzydła do polotu,<br/>Bym od ziemskich nędz, kłopotu<br/>/ Wzniósł się do Syjonu wzgórz! /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O radości, o radości,<br/>W Salem pielgrzym gdy zagości,<br/>W złotym grodzie! O mój Panie,<br/>Tego pojąć jam nie w stanie,<br/>/ Jaka błogość będzie tam! /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Miły raju, miły raju,<br/>Wybawionych święty kraju!<br/>Tam w Jezusa twarz wpatrzeni<br/>Żyją szczęśnie już zbawieni;<br/>/ Daj nam, Panie, wnijść w ten raj! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

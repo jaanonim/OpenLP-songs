@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:55">
+  <properties>
+    <titles>
+      <title>O Boże ześlij na mnie łaski zdrój</title>
+    </titles>
+    <authors>
+      <author type="words">D. Żabska</author>
+      <author type="music">D. Żabska</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="710"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Boże ześlij na mnie łaski zdrój,<br/>I unieś mnie pod sam tron Twój<br/>/ Bo w duszy mej tęsknota bardzo łka,<br/>A z oczu płynie smutku łza /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Boże wskrzeszaj mojej wiary skry,<br/>Wszak wszystkim dla mnie jesteś Ty<br/>/ Ty jeden możesz wieczne życie dać,<br/>W wieczności byśmy mogli trwać /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ja tylko Tobie służyć ciągle chcę.<br/>Bez Ciebie życie moje mdłe<br/>/ Tyś dla mnie Zbawcą, Tyś mój król i Pan.<br/>Obmyłeś grzechy krwią swych ran /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Daj Panie bym ja patrzył ciągle wzwyż,<br/>Na Ciebie Chryste, na Twój krzyż<br/>/ O odnów Panie, odnów życie me.<br/>Ja Ciebie wielbić Boże chcę /x2</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:38">
+  <properties>
+    <titles>
+      <title>Już bez zakonu szczęśliwe życie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="175"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Już bez zakonu szczęśliwe życie!<br/>To nam darował nasz Pan obficie,<br/>Chrystus wybawia od grzechu nas,<br/>krew Jego jest na wieczny czas.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tak, na wieczny czas, grzeszny to pojmij,<br/>tak na wieczny czas, bracie, o wierz w to!<br/>Chrystus wybawia z upadku nas,<br/>krew Jego jest na wieczny czas!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Już potępienia nie masz z mym Panem,<br/>w Nim obietnice wszystkie są amen!<br/>O, pójdźcie do Mnie, Pan woła nas,<br/>to słowo brzmi na wieczny czas.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Tak, na wieczny czas, grzeszny to pojmij,<br/>tak na wieczny czas, bracie, o wierz w to!<br/>Chrystus wybawia z upadku nas,<br/>krew Jego jest na wieczny czas!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wy, dzieci Boże, wy powołani,<br/>wyższą radością udarowani,<br/>wieczne zbawienie to wybór wasz,<br/>bo Chrystus zmarł za wszystkich nas.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Tak, na wieczny czas, grzeszny to pojmij,<br/>tak na wieczny czas, bracie, o wierz w to!<br/>Chrystus wybawia z upadku nas,<br/>krew Jego jest na wieczny czas!</lines>
+    </verse>
+  </lyrics>
+</song>

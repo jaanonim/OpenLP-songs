@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:01">
+  <properties>
+    <titles>
+      <title>Błoga radość, Pan nasz nadchodzi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="801"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Błoga radość, Pan nasz nadchodzi<br/>I niespodzianie zjawi się,<br/>A wtedy wielka radość nam będzie,<br/>Gdy do nas przyjdzie w chwale Swej.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>My, jako słudzy, ujrzymy Pana,<br/>Ujrzymy takim, jakim jest,<br/>Będzie to radość niespodziewana,<br/>Ujrzeć Go Takim, jakim jest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Błoga radość, Chrystus się zbliża,<br/>Biegnijmy Pana spotkać wczas,<br/>Wznieśmy swe głowy hen tam, ku górze,<br/>Czuwajmy, bracia, siostry, wraz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Blisko, blisko dzień Chrystusowy,<br/>Znaki wołają o tym już,<br/>O ludu Boży, porzuć sny swoje,<br/>Bo Oblubieniec u drzwi tuż.</lines>
+    </verse>
+  </lyrics>
+</song>

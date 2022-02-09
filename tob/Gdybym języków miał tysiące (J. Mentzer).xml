@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:18">
+  <properties>
+    <titles>
+      <title>Gdybym języków miał tysiące</title>
+    </titles>
+    <authors>
+      <author type="words">J. Mentzer</author>
+      <author type="music">J. Mentzer</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="14"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdybym języków miał tysiące<br/>I ust tysiącem śpiewać mógł,<br/>To wszystkie, ogniem pałające,<br/>Głosiłyby, jak dobry Bóg,<br/>W zawody niosąc pienia chwał<br/>Za to, co w łasce wielkiej dał.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, niechże pienia moje zdążą<br/>Aż do słonecznych niebios stref;<br/>Strumienie krwi, co w żyłach krążą,<br/>Niech triumfalny wzniosą śpiew!<br/>Niechajże każde tchnienie me,<br/>Jak hołd dziękczynny, w niebo mknie!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ale za słabe moje siły<br/>I pieśni mojej braknie piór;<br/>Trzeba, by głosy swe złączyły<br/>Stworzenia wszystkie w jeden chór.<br/>Niech śpiewa ze mną cały świat<br/>I chwałę Bożą wielbi rad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, Jezu drogi, jak cię chwalić<br/>Za wielkie miłosierdzie Twe,<br/>Żeś się mej nędzy chciał użalić<br/>I łaską Swoją darzysz mnie?<br/>Wyrwałeś mnie z szatana rąk,<br/>Bym Twą własnością zostać mógł.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Chcę dobroć Twoją, Ojcze, głosić,<br/>Dopóki język służy mi.<br/>Chcę modły swe do Ciebie wznosić,<br/>Dopóki serce w piersiach drży.<br/>A gdy do śpiewu braknie sił,<br/>Wzdychaniem będę Ciebie czcił.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ach, przyjmij moją pieśń z padołu<br/>I nie odbieraj łaski Swej!<br/>W niebiesiech chwalić Cię pospołu<br/>Ze zbawionymi będzie lżej.<br/>Po tysiąckroć tam będzie zbór<br/>Powtarzał swój dziękczynny chór.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:49">
+  <properties>
+    <titles>
+      <title>Za ojczyzną zatęskniła</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="589"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Za ojczyzną zatęskniła<br/>Spracowana dusza ma;<br/>Tam mię czeka cisza miła,<br/>Radość tam bez końca trwa.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Z obcych krajów do ojczystych,<br/>Do ojczyzny śpieszyć chcę,<br/>Gdzie w promieniach gwiazd złocistych<br/>Bramy niebios błyszczą się.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W mej ojczyźnie pokój wieczny,<br/>Pokój, którym gardzi świat,<br/>Nawet Seraf go słoneczny<br/>W hymnach swoich wielbi rad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>W tej ojczyźnie radość czysta,<br/>Nikt nie może zgłębić jej,<br/>Bez cierpienia, wiekuista<br/>- Tak, jak wieczny Dawca jej</lines>
+    </verse>
+  </lyrics>
+</song>

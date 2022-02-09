@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:53">
+  <properties>
+    <titles>
+      <title>Gdy się Chrystus rodzi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="682"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy się Chrystus rodzi<br/>i na świat przychodzi,<br/>Ciemna noc w jasnościach<br/>promienistych brodzi.<br/>Aniołowie się radują,<br/>pod niebiosy wyśpiewują<br/>Chwała, chwała, chwała,<br/>w wysokościach Panu!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mówią do pasterzy,<br/>którzy trzód swych strzegli,<br/>Aby do Betlejem<br/>czym prędzej pobiegli:<br/>Bo się narodził Zbawiciel,<br/>Wszego świata Odkupiciel.<br/>Chwała, chwała, chwała,<br/>w wysokościach Panu!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, niebieskie duchy<br/>i posłowie nieba!<br/>Powiedzcie wyraźniej,<br/>co nam czynić trzeba:<br/>Bo my nic nie pojmujemy,<br/>Ledwo od strachu żyjemy.<br/>Chwała, chwała, chwała,<br/>w wysokościach Panu!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Idźcież do Betlejem,<br/>Dziecię tam zrodzone,<br/>W pieluszki powite,<br/>w żłobie położone.<br/>Oddajcież Mu pokłon Boski,<br/>On osłodzi wasze troski.<br/>Chwała, chwała, chwała,<br/>w wysokościach Panu!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A gdy pastuszkowie<br/>wszystko zrozumieli,<br/>Zaraz do Betlejem<br/>śpiesznie pobieżeli,<br/>I zupełnie tak zastali,<br/>Jak Anieli ogłaszali.<br/>Chwała, chwała, chwała,<br/>w wysokościach Panu!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Gdy na miejsce przyszli<br/>pełni zadziwienia,<br/>Iż się Bóg tak zniżył<br/>do Swego stworzenia,<br/>Padli przed nim na kolana<br/>I uczcili swego Pana.<br/>Chwała, chwała, chwała,<br/>w wysokościach Panu!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Wreszcie, gdy już Jemu<br/>pokłon, cześć oddali,<br/>Z wielką wesołością<br/>do swych trzód wracali.<br/>Z łaski stali się godnymi<br/>Widzieć Boga na tej ziemi.<br/>Chwała, chwała, chwała,<br/>w wysokościach Panu!</lines>
+    </verse>
+  </lyrics>
+</song>

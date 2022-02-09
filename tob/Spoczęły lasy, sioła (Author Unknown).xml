@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:53">
+  <properties>
+    <titles>
+      <title>Spoczęły lasy, sioła</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="667"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Spoczęły lasy, sioła,<br/>Ucisza się dokoła,<br/>Zasypia cały świat;<br/>Lecz ciebie, serce moje,<br/>Do pieśni chwał nastroję,<br/>Do pieśni, którym Stwórca rad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dzień uszedł, gwiazdek roje<br/>Zsyłają blaski swoje<br/>Na ziemię z niebios wyż;<br/>Tak ja też jaśnieć będę,<br/>Gdy w gronie świętych siędę,<br/>Złożywszy życia znój i krzyż.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To ciało me strudzone<br/>Spoczynku jest spragnione,<br/>Więc składa ubiór swój,<br/>- Ten ciała strój zniszczeje,<br/>Lecz Chrystus mię odzieje<br/>W nieskazitelny niebian strój.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Rozpostrzyj skrzydeł dwoje,<br/>O Jezu, szczęście moje,<br/>I przytul dziecię Swe;<br/>Gdy strach nadejdzie nocny,<br/>Ty, Boże mój wszechmocny,<br/>Od szkód i złego chronisz mnie.</lines>
+    </verse>
+  </lyrics>
+</song>

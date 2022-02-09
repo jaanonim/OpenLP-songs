@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:37">
+  <properties>
+    <titles>
+      <title>Jezus Chrystus jest tym samym</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="385"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus Chrystus jest tym samym,<br/>Który raz przy studni stał,<br/>Gdzie grzesznemu sercu z źródła<br/>Wody żywej napój dał.<br/>Strumień łaski Zeń obficie<br/>Płynie dotąd wszystkim nam;<br/>Dziś tym samym jest Zbawiciel,<br/>Jak u studni w Sychar tam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezus Chrystus jest tym samym,<br/>Co uzdrawiał z chorób, ran<br/>Tych, co przyszli Doń z ufnością,<br/>Wierząc, że On mocny Pan.<br/>Dziś ten sam, co mawiał wtedy:<br/>Wstań i chodź, weź łoże swe<br/>- Może odjąć wszelkie biedy,<br/>Pomóc, leczyć, cieszyć chce.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezus Chrystus jest tym samym,<br/>Który raz w burzliwą noc<br/>W skołatane serca uczniów<br/>Męstwo wlał i nową moc.<br/>Dziś z pokoju On słowami<br/>Między nas przychodzi też:<br/>Przecz się lękasz,<br/>Jam jest z wami,<br/>Nie bój się, lecz tylko wierz!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jezus Chrystus jest tym samym,<br/>Który na Golgocie zmarł,<br/>Gdzie na krzyżu pohańbiony<br/>Śmiercią Swą moc śmierci starł.<br/>On w miłości niezachwianym<br/>Jest do dziś dla wszystkich dusz.<br/>Jezus Chrystus jest tym samym<br/>Wczoraj, dziś i wiecznie już.</lines>
+    </verse>
+  </lyrics>
+</song>

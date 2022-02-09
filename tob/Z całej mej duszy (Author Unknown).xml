@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:40">
+  <properties>
+    <titles>
+      <title>Z całej mej duszy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="216"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z całej mej duszy, póki życia stanie,<br/>kochać i wielbić będę Ciebie, Panie.<br/>Tyś moją siłą, moją Tyś zasłoną,<br/>Tyś moją pewną twierdzą i obroną.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Już mię śmierć sroga zewsząd otoczyła<br/>i sidła swoje na mnie zastawiła,<br/>grób był otwarty,<br/>a zemdlone siły ze zbolałego ciała uchodziły.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na Pana w bólu moim ja wspomniałem,<br/>do mego Boga ufnie zawołałem:<br/>On mię wysłuchał w zwykłej Swej litości,<br/>przyjął w Swe uszy tęskny głos żałości.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bóg zawsze dźwignie serce ukorzone,<br/>a zniży oczy dumnie podniesione,<br/>darzy cnotliwych łaską miłościwie,<br/>sądząc ród ludzki zawsze sprawiedliwie.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kto ufa Bogu, tego minie trwoga,<br/>bo gdzież obrona, jeśli nie u Boga?<br/>Stąd wieczny Panie,<br/>między narodami będę moimi wielbił Cię pieśniami.</lines>
+    </verse>
+  </lyrics>
+</song>

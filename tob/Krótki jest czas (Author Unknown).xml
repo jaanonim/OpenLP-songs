@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:24">
+  <properties>
+    <titles>
+      <title>Krótki jest czas</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="147"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krótki jest czas,<br/>krótki jest czas,<br/>A cala wieczność czeka nas!<br/>Więc dziś się opamiętaj, duszo,<br/>I niech te słowa ciebie skruszą<br/>Krótki jest czas,<br/>krótki jest czas.<br/>A cała wieczność czeka nas!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie wahaj się,<br/>nie zwlekaj wciąż,<br/>Lecz dzisiaj do światłości dąż!<br/>Zastanów się nad swoją dolą,<br/>Ratunek twój jest Bożą wolą.<br/>Nie wahaj się,<br/>nie zwlekaj wciąż,<br/>Lecz dzisiaj do światłości dąż!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Podaj swą dłoń,<br/>swą rękę daj,<br/>W pokucie pójdź w ojczysty kraj!<br/>Nie chcemy w zgubie cię zostawić.<br/>O, daj się dzisiaj Panu zbawić!<br/>Podaj swa dłoń.<br/>swą rękę daj,<br/>W pokucie pójdź w ojczysty kraj!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jezusa przyjm,<br/>Jezusa przyjm!<br/>Do chwały zajdziesz tylko z Nim!<br/>Tak wiele zrobił On dla ciebie,<br/>Byś miał na wieki żywot w niebie.<br/>Jezusa przyjm,<br/>Jezusa przyjm,<br/>Do chwaty zajdziesz tylko z Nim!</lines>
+    </verse>
+  </lyrics>
+</song>

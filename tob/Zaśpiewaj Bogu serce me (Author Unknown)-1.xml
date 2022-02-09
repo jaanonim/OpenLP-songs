@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:56">
+  <properties>
+    <titles>
+      <title>Zaśpiewaj Bogu serce me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="744"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zaśpiewaj Bogu serce me<br/>Pieśń uwielbienia, czci:<br/>O Jego łasce świadczyć śmiem,<br/>Pan grzech przebaczył mi!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Jezusa krew oczyszcza mnie, /x2<br/>Jezusa krew oczyszcza mnie,<br/>Odnawia życie me.<br/>Nowym już, nowym już!<br/>Jezusa krew oczyszcza mnie,<br/>Odnawia życie me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jak smutną była dusza ma,<br/>Gdy grzech obciążał ją,<br/>A teraz pieśń w mym sercu gra:<br/>Obmyty jestem krwią!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tak bardzo miłowałem świat:<br/>Dostojność, sławę, cześć;<br/>Dziś kroczę już za zbawcą w ślad,<br/>Chcę życie święte wieść.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Śmierć napełniała trwogą mnie;<br/>Na myśl o sądzie - strach!<br/>Dziś śmierci już nie lękam się,<br/>Gdyż idę w Ojca gmach.</lines>
+    </verse>
+  </lyrics>
+</song>

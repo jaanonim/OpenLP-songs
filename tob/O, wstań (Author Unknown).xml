@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:56">
+  <properties>
+    <titles>
+      <title>O, wstań</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="510"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, wstań, młodzieży Chrystusowa!<br/>Słysz, pieśni wzywa ton!<br/>Do lotu skrzydła wznieś gotowe,<br/>siły zbierz w młodą pierś, w rękę broń!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Niech twój zapał,<br/>młodych serc twych żar zbudzi,<br/>wyrwie ludzkość z sennych mar,<br/>na duchowy niech ją wiedzie szczyt,<br/>aż życia jej błyśnie świt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, wstań, młodzieży Chrystusowa!<br/>Marzenia przekształć w czyn!<br/>Ludzkości jutrznię wskaż tęczową,<br/>ducha brzask złoty wskaż życiem swym!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Niech twój zapał,<br/>młodych serc twych żar zbudzi,<br/>wyrwie ludzkość z sennych mar,<br/>na duchowy niech ją wiedzie szczyt,<br/>aż życia jej błyśnie świt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, wstań, młodzieży Chrystusowa!<br/>Idź, pomóż bliźnim swym odnaleźć<br/>Stwórcę swego Boga, duszy byt<br/>dźwignąć wzwyż w szczęściu z Nim.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Niech twój zapał,<br/>młodych serc twych żar zbudzi,<br/>wyrwie ludzkość z sennych mar,<br/>na duchowy niech ją wiedzie szczyt,<br/>aż życia jej błyśnie świt!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, wstań, młodzieży Chrystusowa!<br/>Twa wiosna mknie jak wiatr.<br/>Choć cząstkę daj dla bliźnich dobra,<br/>z świeżych sił, z pięknych dni,<br/>młodych lat!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Niech twój zapał,<br/>młodych serc twych żar zbudzi,<br/>wyrwie ludzkość z sennych mar,<br/>na duchowy niech ją wiedzie szczyt,<br/>aż życia jej błyśnie świt!</lines>
+    </verse>
+  </lyrics>
+</song>

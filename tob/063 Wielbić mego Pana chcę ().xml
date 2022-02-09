@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:41">
+  <properties>
+    <titles>
+      <title>063 Wielbić mego Pana chcę</title>
+    </titles>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="p">
+        <open>&lt;p&gt;</open>
+        <close>&lt;/p&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wielbić mego Pana chcę,<br/>Bo On godzien chwały jest.<br/>On uwalnia mnie sam od wrogów mych<br/><tag name="p"/><br/>Mój Pan żyje, Opoką moją jest<br/>i niechaj będzie wywyższony mój Zbawiciel.<br/>Mój Pan żyje, Opoką moja jest<br/>i niechaj będzie wywyższony Zbawca mój<br/>Zbawca mój</lines>
+    </verse>
+  </lyrics>
+</song>

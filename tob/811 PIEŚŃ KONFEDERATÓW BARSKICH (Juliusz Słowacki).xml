@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:52">
+  <properties>
+    <titles>
+      <title>811 PIEŚŃ KONFEDERATÓW BARSKICH</title>
+    </titles>
+    <authors>
+      <author>Juliusz Słowacki</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nigdy z królami nie będziem w aliansach,<br/>Nigdy przed mocą nie ugniemy szyi,<br/>Bo u Chrystusa my na ordynansach,<br/>Słudzy Maryi!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Więc choć się spęka świat i zadrży słońce,<br/>Chociaż się chmury i morza nasrożą,<br/>Choćby na smokach wojska latające,<br/>Nas nie zatrwożą.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bóg naszych ojców i dziś jest nad nami!<br/>Więc nie dopuści upaść żadnej klęsce.<br/>Wszak póki On był z naszymi ojcami,<br/>Byli zwycięzce!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Więc nie wpadniemy w żadną wilczą jamę,<br/>Nie uklękniemy przed mocarzy władzą,<br/>Wiedząc, że nawet grobowce nas same<br/>Bogu oddadzą.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ze skowronkami wstaliśmy do pracy<br/>I spać pójdziemy o wieczornej zorzy,<br/>Ale w grobowcach my jeszcze żołdacy<br/>I hufiec Boży.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bo kto zaufał Chrystusowi Panu<br/>I szedł na święte kraju werbowanie,<br/>Ten de profundis z ciemnego kurhanu<br/>Na trąbę wstanie.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:53">
+  <properties>
+    <titles>
+      <title>O, Duchu Święty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="459"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, Duchu Święty, do nas przyjdź i do naszego<br/>serca wnijdz i obierz w nim mieszkanie!<br/>Światłości z nieba niech Twój blask i dla nas<br/>będzie zdrojem łask radości gońcem, Panie!<br/>Słońca, Gońca, Życia z nieba nam potrzeba<br/>więc błagamy, gdy do Ciebie przybywamy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Krynico Ty mądrości, chciej udzielić nam<br/>światłości Swej, umocnić w jednej wierze,<br/>abyśmy nauczali zbór jedności świętej dawać<br/>wzór, wyznawać Ciebie szczerze, w wierze,<br/>szczerze, ufność mamy, że zdołamy Tobie,<br/>Panie, służyć, póki życia stanie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>W potrzebie udziel nam Swych rad i prowadź<br/>nas na prawdy ślad, bo sami dróg nie znamy.<br/>Daj nam wytrwałość byśmy Ci służyli aż do<br/>końca dni, choć boleść cierpieć mamy.<br/>Wzieraj, wspieraj, co zachwiane i stroskane,<br/>Ciebie prosi i swe oczy do Cię wznosi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Darz wspomożeniem Twoim nas, byśmy,<br/>gdy boju przyjdzie czas przy Tobie, wiernie<br/>trwali i pewni wciąż obrony Twej, zuchwalstwu<br/>wrogów w mocy tej skuteczny odpór dali.<br/>Twoją zbroją nas ochraniaj i zasłaniaj w<br/>nieszczęść chwili, byśmy zło przezwyciężyli.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Opoko i żywocie nasz! Gdy błogie słońce Swe<br/>nam dasz, niech w duszy naszej płonie;<br/>Strumienie prawdy na nas zlej i wzniecaj też<br/>z miłości Swej i miłość w naszym łonie.<br/>Wlewaj, wlewaj Swoje tchnienie w me sumienie,<br/>abym w wierze Zbawcę swego wielbił szczerze.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Daj nam w czystości życie wieść i Tobie<br/>służby swoje nieść, bądź siłą naszej duszy,<br/>do walki nasze serca wzbudź, gdy w nas się<br/>wmaga ciała chuć; niech Twoja moc ją skruszy.<br/>Steruj, kieruj me pragnienia i dążenia z tych tu<br/>nizin do niebiańskich Twoich wyżyn.</lines>
+    </verse>
+  </lyrics>
+</song>

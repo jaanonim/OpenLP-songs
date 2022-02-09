@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:07">
+  <properties>
+    <titles>
+      <title>Przejrzałem na oczy</title>
+    </titles>
+    <authors>
+      <author type="words">Hank Williams</author>
+      <author type="music">Hank Williams</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chodziłem bez celu, życie wypełniał grzech<br/>Nie chciałem wpuścić Zbwacy<br/>Jezus przyszedł jak obcy w nocy<br/>Chwała Bogu, przejrzałem na oczy</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Przejrzałem na oczy, przejrzałem na oczy<br/>Koniec ciemności, koniec nocy<br/>Jestem szczęśliwy, kres mego smutku<br/>Chwała Bogu, przejrzałem na oczy</lines>
+    </verse>
+  </lyrics>
+</song>

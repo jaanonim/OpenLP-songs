@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:44">
+  <properties>
+    <titles>
+      <title>Gdzie się troski ścielą</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="484"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdzie się troski ścielą<br/>W tym padole nędz,<br/>Bez pokoju wielu<br/>Musi w życiu biec.<br/>Serca pocieszajcie<br/>Zdrojem Bożych łask,<br/>W ciemność ich rzucajcie<br/>Złoty słońca blask!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Słońca promienie ścielcie w znój i krzyż,<br/>Na miłości skrzydłach nieście serca wzwyż! /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Małym czynem wiele<br/>Miłość zgoi ran,<br/>Wspierać, nieść wesele,<br/>To przykazał Pan.<br/>Ileż brzemion, ile<br/>Ten potrafi zdjąć,<br/>Kto pociechę w chwile<br/>Ciężkie umie tchnąć.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pieśnią i radosną<br/>Twarzą płoszcie mgły,<br/>Idźcie z Bożą wiosną<br/>W beznadziejne dni.<br/>W życia udręczenie<br/>Nieście wiary moc,<br/>Z nieba pocieszenie<br/>Wnoście w ziemską noc!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Chociaż posiew łzawy<br/>Miłość rzuca w świat,<br/>Pan się do jej sprawy<br/>Zawsze przyzna rad.<br/>Miłość leczy bóle,<br/>Daje wieczny zysk,<br/>Nieście więc w niedolę<br/>Jasny słońca błysk!</lines>
+    </verse>
+  </lyrics>
+</song>

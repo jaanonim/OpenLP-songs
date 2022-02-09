@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:24">
+  <properties>
+    <titles>
+      <title>Oj pamiętaj, bracie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="148"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oj pamiętaj, bracie,<br/>Na co cię Bóg stworzył,<br/>Nad stworzenia wszystkie<br/>Ziemi tej przełożył, na to,<br/>Abyś Jemu służył.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zacne dary tobie<br/>Stwórca twój darował;<br/>Dał ci rozum zdrowy,<br/>Byś nim się sprawował,<br/>Panu Życie Ofiarował.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ale ty swawolnie<br/>Czynisz wiele złego,<br/>Uciech świata pragnąc,<br/>Słuchasz ciała swego,<br/>gardzisz Przykazaniem Jego.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Prawdzieś jest odporny,<br/>Pychą się nadymasz,<br/>W złości nieustępny,<br/>Swej się myśli trzymasz;<br/>biedny, Swego tu nic nie masz!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ukorz się przed Bogiem,<br/>Módl się pilnie Jemu<br/>I żądaj lekarstwa<br/>Sobie niemocnemu;<br/>ufaj Jezusowi swemu!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:12">
+  <properties>
+    <titles>
+      <title>Niech chwała Pana</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="240"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niech chwała Pana trwa na wieki,<br/>Niech się raduje Pan dziełami Swymi!<br/>Będę śpiewał Panu pókim żyw,<br/>Będę grał Bogu memu, póki jestem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Błogosław duszo moja Panu!<br/>Panie, Boże mój, Jesteś wielki!<br/>Oby Mu miła była moja pieśń!<br/>Ja radować się będę w Panu!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wysławiajcie Pana, bo jest dobry,<br/>Bowiem Jego łaska trwa na wieki!<br/>Błogosław duszo moja Panu!<br/>Nie zapominaj Jego dobroci!</lines>
+    </verse>
+  </lyrics>
+</song>

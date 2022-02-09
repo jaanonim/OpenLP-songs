@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:32">
+  <properties>
+    <titles>
+      <title>Rózę cudnej piękności poznałem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="67"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Różę cudnej piękności poznałem<br/>jeszcze we wczesnej młodości mej,<br/>chcąc ją mieć, wszystko inne oddałem,<br/>wszędziem szedł za Nią, by służyć Jej.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ponad wszystko mi Róża Sarońska,<br/>ponad wszystko mi jest Róża ta!<br/>Całym sercem uwielbiać Ją pragnę,<br/>bo nad wszystko mi jest Róża ta!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Paweł wielkim był Jej prześladowcą,<br/>nie chciał uczcić jej piękna i cnót,<br/>jednak wnet stał się jej naśladowcą,<br/>dla jej czci mnogi zdobywał lud.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ponad wszystko mi Róża Sarońska,<br/>ponad wszystko mi jest Róża ta!<br/>Całym sercem uwielbiać Ją pragnę,<br/>bo nad wszystko mi jest Róża ta!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Różą tą Chrystus jest mój Zbawiciel,<br/>On to skarbem najdroższym jest mym,<br/>wierząc Mu, tu już piękne mam życie,<br/>cóż dopiero, gdy spotkam się z Nim?</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Ponad wszystko mi Róża Sarońska,<br/>ponad wszystko mi jest Róża ta!<br/>Całym sercem uwielbiać Ją pragnę,<br/>bo nad wszystko mi jest Róża ta!</lines>
+    </verse>
+  </lyrics>
+</song>

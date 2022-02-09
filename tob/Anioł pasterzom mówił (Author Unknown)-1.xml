@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:21">
+  <properties>
+    <titles>
+      <title>Anioł pasterzom mówił</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="1003"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Anioł pasterzom mówił:<br/>Chrystus się wam narodził<br/>w Betlejem, nie bardzo podłym mieście<br/>narodził się w ubóstwie<br/>Pan wszego stworzenia.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chcąc się dowiedzieć tego<br/>poselstwa wesołego,<br/>bieżeli do Betlejem skwapliwie,<br/>znaleźli Dziecię w żłobie,<br/>Maryję z Józefem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Taki Pan chwały wielkiej<br/>uniżył się Wysoki,<br/>pałacu kosztownego żadnego<br/>nie miał zbudowanego<br/>Pan wszego stworzenia!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O,dziwne narodzenie!<br/>Nigdy niewysławione.<br/>Poczęła Panna Syna w czystości,<br/>porodziła w całości<br/>panieństwa swojego.</lines>
+    </verse>
+  </lyrics>
+</song>

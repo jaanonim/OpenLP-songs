@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:04">
+  <properties>
+    <titles>
+      <title>V. Gdy rozmyślam, Święty Boże</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy rozmyślam, Święty Boże,<br/>Że Anioły kochasz Ty,<br/>Lub tych, co są na Twym dworze -<br/>Duchy, których nie tknął zły,<br/>To mój rozum pojąć może,<br/>Żeś Ty wielki, święty Bóg;<br/>Godnie wielbię Cię w pokorze,<br/>Chyląc się u Twoich nóg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To, że kochasz. Boże Święty,<br/>Sprawiedliwe sługi Swe,<br/>Którzy służą Tobie wiernie.<br/>Godnie świecą Imię Twe,<br/>To mój rozum pojąć może -<br/>Żeś Ty wielki, święty Bóg.<br/>Śmiem to wyznać też w pokorze<br/>I hołd złożyć u Twych nóg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lecz gdy słyszę tę nowinę,<br/>Żeś kochając, nawet, mną<br/>Nie pogardził, zmywasz winę<br/>Świętą Jezusową krwią -<br/>Tego rozum nie pojmuje,<br/>Jak w miłości wielkiś Ty!<br/>Sercem tylko Jej doznaję<br/>I wdzięczności ronię łzy.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:12">
+  <properties>
+    <titles>
+      <title>Ofiarę chwały</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="160"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ofiarę chwały, czci dziś pragnie<br/>Panu wznieś! Dziękować<br/>Jemu wciąż, bo wszystko o mnie wie!<br/>Chcę Go uwielbiać, bo On<br/>miłością jest!<br/>Tak, godzien chwały mój<br/>Jezus drogi Pan!</lines>
+    </verse>
+  </lyrics>
+</song>

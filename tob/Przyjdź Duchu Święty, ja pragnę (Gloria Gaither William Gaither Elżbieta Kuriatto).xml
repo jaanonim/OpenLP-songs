@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:30">
+  <properties>
+    <titles>
+      <title>Przyjdź Duchu Święty, ja pragnę</title>
+    </titles>
+    <authors>
+      <author type="words">Gloria Gaither William Gaither Elżbieta Kuriatto</author>
+      <author type="music">Gloria Gaither William Gaither Elżbieta Kuriatto</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="535"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przyjdź Duchu Święty ja pragnę,<br/>oto dziś błagam Cię.<br/>Przyjdź w Swojej mocy i sile,<br/>radością napełnij mnie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przyjdź jako mądrość do dzieci,<br/>przyjdź jak ślepemu wzrok,<br/>przyjdź jako moc w mej słabości,<br/>weź wszystko co moje jest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Przyjdź jako źródło w pustyni,<br/>z mocą do naszych serc,<br/>o niech Twa moc uzdrowienia<br/>dotknie uleczy mnie już.</lines>
+    </verse>
+  </lyrics>
+</song>

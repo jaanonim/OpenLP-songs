@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:38">
+  <properties>
+    <titles>
+      <title>Bóg jest miłością</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="173"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bóg jest miłością, On, mnie wybawia,<br/>Bóg jest miłością, miłuje mię.<br/>Więc wołam raz jeszcze:<br/>Bóg jest miłością, Bóg jest miłością,<br/>miłuje mię.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Leżałem w więzach mych żądz i grzechów,<br/>lecz Pan uwolnił mnie z srogich pęt.<br/>Więc wołam raz jeszcze:<br/>Bóg jest miłością, Bóg jest miłością,<br/>miłuje mię.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Śmierci okrutnej byłem poddany:<br/>Wszak śmierć zapłatą<br/>jest naszych win.<br/>Dziś głoszą rad wszędy:<br/>Bóg jest miłością, Bóg jest miłością,<br/>miłuje mię.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>On zesłał Syna, wiernego Zbawcę,<br/>Jezusa zesłał, wyzwolił mię,<br/>Więc wołam raz jeszcze:<br/>Bóg jest miłością, Bóg jest miłością,<br/>miłuje mię.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Święta Miłości,Tyś mym lekarzem,<br/>Ty cieszysz, koisz najgłębszy ból.<br/>Więc wołam raz jeszcze:<br/>Bóg jest miłością, Bóg jest miłością,<br/>miłuje mię.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ty dajesz radość stroskanej duszy,<br/>sercu biednemu Swój pokój ślesz.<br/>Więc głoszę rad wszędy:<br/>Bóg jest miłością, Bóg jest miłością,<br/>miłuje mię.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Dziedzictwem moim<br/>jest radość wieczna,<br/>dziedzictwem moim jest pokój Twój.<br/>Więc wołam raz jeszcze:<br/>Bóg jest miłością, Bóg jest miłością,<br/>miłuje mię.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Chcę wielbić Ciebie, Miłości wieczna,<br/>chcę sławić Ciebie do końca dni.<br/>Więc wołam raz jeszcze:<br/>Bóg jest miłością, Bóg jest miłością,<br/>miłuje mię.</lines>
+    </verse>
+  </lyrics>
+</song>

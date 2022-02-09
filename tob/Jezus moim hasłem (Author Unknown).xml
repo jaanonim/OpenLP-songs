@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:33">
+  <properties>
+    <titles>
+      <title>Jezus moim hasłem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="316"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus moim hasłem<br/>Odtąd będzie Sam;<br/>Nie opuszczę Jego<br/>- On mój Zbawca, Pan!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On dał mi dziedzictwo,<br/>W łasce przyjął mię.<br/>Co za radość, szczęście.<br/>Że w to wierzyć śmiem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na pewno miłuje<br/>On gorąco mię.<br/>Błogie, słodkie życie,<br/>Odkąd o tym wiem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kiedy o tym myślę,<br/>W płaczu korzę się,<br/>Ze On w Swej dobroci<br/>Sam nawiedził mię.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Chociaż mnie nędznemu<br/>Tu wszystkiego brak,<br/>On mnie jednak wybrał,<br/>Błogosławił tak.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tego, co Mu sprawił<br/>Ciężki serca ból,<br/>Z wiecznej zguby wyrwał<br/>Zbawca - Jezus, Król.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Pojąć ja nie mogę,<br/>Jak się stał ten cud,<br/>Ze mój drogi Jezus<br/>Podjął taki trud.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>To uczynił dla mnie<br/>On z miłości Sam;<br/>Wiedzie w wieczne życie,<br/>Do niebieskich bram.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>„Abba" mogę wołać,<br/>W Nim radować się<br/>I w objęciach Zbawcy<br/>Odpoczywać śmiem.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Jezus pozostanie<br/>Zawsze Panem mym;<br/>Amen, alleluja!<br/>Wiecznie będę z Nim!</lines>
+    </verse>
+  </lyrics>
+</song>

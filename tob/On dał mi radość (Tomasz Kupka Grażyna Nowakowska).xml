@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:27">
+  <properties>
+    <titles>
+      <title>On dał mi radość</title>
+    </titles>
+    <authors>
+      <author type="words">Tomasz Kupka Grażyna Nowakowska</author>
+      <author type="music">Tomasz Kupka Grażyna Nowakowska</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="481"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On dał mi radość,<br/>w Nim mogę cieszyć się, że jestem.<br/>Jego miłość osusza gorzkie łzy.<br/>On dał mi radość, zrozumienie sensu drogi,<br/>dziś mój głos uwielbieniem drży.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jezu idąc przez życie do nieba bram,<br/>pragnę Ci śpiewać radości pieśń, chwały psalm.<br/>Pragnę Cię wielbić, oddawać Ci cześć.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy wejdę w krainę życia,<br/>kiedy me serce przy Tobie odpocznie,<br/>kiedy przywitam aniołów i świętych.<br/>Wtedy już nigdy nie przestanę<br/>chwalić Cię, wielbić Cię.</lines>
+    </verse>
+  </lyrics>
+</song>

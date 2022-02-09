@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:32">
+  <properties>
+    <titles>
+      <title>Boże Jedyny, Stwórco wszechświata</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="54"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boże Jedyny, Stwórco wszechświata,<br/>czci godzien Ojcze w wielkości Swej,<br/>Rządco Stworzenia, Mocy Istnienia,<br/>życia i myśli, i chęci cnej!<br/>Przed majestatem Twego imienia<br/>zbór wiernych Tobie oddaje cześć!<br/>Przyjm ją choć skromną, niedoskonałą,<br/>lecz my ją Panie, pragniemy wznieść.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Serca olśniły wiary promienie<br/>wzniecone Słowem wieczystym Twym.<br/>Rozbłysły w duszach i ustaliły miłość<br/>do Ciebie wbrew siłom złym.<br/>Zachowaj Panie wierność w nas<br/>stałą prawom Twym świętym, nauce Twej.<br/>Uczniowie Twoi o to Cię proszą,<br/>Ducha Świętego do serc ich zlej.</lines>
+    </verse>
+  </lyrics>
+</song>

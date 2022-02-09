@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:47">
+  <properties>
+    <titles>
+      <title>Spojrzyj na Jezusa, wiarą pośpiesz Doń</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="533"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Spojrzyj na Jezusa, wiarą pośpiesz Doń,<br/>On Swą dłoń położy na strudzoną skroń;<br/>On niósł twe boleści, wszystką winę twą:<br/>Spojrzyj na Jezusa, da ci łaskę Swą,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Spojrzyj na Jezusa, kiedy staczasz bój,<br/>On pomoże w walce, wiernie przy Nim stój;<br/>Chociaż wróg potężny, mała siła twa,<br/>Spojrzyj na Jezusa, On zwycięstwo da.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Patrz też na Jezusa, gdy ci sprzyja los,<br/>- W szczęściu wnet pokusa swój wymierza cios.<br/>Ziemi tej rozkosze wnet rozprysną się.<br/>Spojrzyj na Jezusa - nie opuści cię.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Patrz więc na Jezusa, gdy cię gniecie krzyż,<br/>U nóg Jego spoczniesz, tam się śmiało zbliż!<br/>Słuchaj, jak On mówi: Pójdź, zmęczony, już!<br/>Jam jest odpocznieniem dla strudzonych dusz.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Raz brzmieć w niebie będzie triumfalny chór,<br/>Wpośród sal weselnych zabrzmi i twój wtór,<br/>Lecz i przy tym blasku złotych niebios bram<br/>Na Jezusa patrzeć będziesz wiecznie tam</lines>
+    </verse>
+  </lyrics>
+</song>

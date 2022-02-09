@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:06">
+  <properties>
+    <titles>
+      <title>Święty, święty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="298"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Święty, święty, święty jest nasz Pan!<br/>Święty jest nasz Pan Wszechmogący /x2<br/>On był i jest i przyjdzie znów!<br/>Święty, święty, święty jest nasz Pan!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/ Chwała, chwała, Barankowi cześć!<br/>Barankowi cześć, za nas zmarł! /x2<br/>On był i jest i przyjdzie znów!<br/>Chwała, chwała, Barankowi cześć!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/ Jezus, Jezus, On Barankiem jest!<br/>On Barankiem jest, za nas zmarł /x2<br/>On był i jest i przyjdzie znów!<br/>Jezus, Jezus, On Barankiem jest!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:21">
+  <properties>
+    <titles>
+      <title>Otwórzmy dziś swych serc podwoje</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="81"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Otwórzmy dziś swych serc podwoje,<br/>Gdyż Pan nasz się objawić chce,<br/>Swą krwią oczyścić dzieci Swoje,<br/>Utwierdzić w nich królestwo Swe.<br/>On spełni dane przyrzeczenie,<br/>Wszak życie Swoje za nas dał -<br/>Obfitych zleje łask strumienie,<br/>Jak tam w dzień pięćdziesiątych zlał.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Powstańmy już, niech ziemia sucha<br/>Ocuci się z kamiennych snów<br/>I zlana deszczem Jego Ducha<br/>Wspaniale się zieleni znów;<br/>Niech Pańska moc się w nas rozlewa,<br/>Wśród nas niech stanie Jego tron,<br/>Abyśmy Dlań, jak dobre drzewa<br/>Obfity nieśli wiary plon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pośpieszmy Doń! Krew Pana święta<br/>Niewiary może stopić lód!<br/>Czyż próżno zdjął z nas grzechu pęta<br/>I do wolności cudnej wwiódł?<br/>Już czas, już czas, by kości suche<br/>Dosięgnął Jego wiatru szum,<br/>By w jedno zwarte Jego Duchem<br/>W potężnych wojsk powstały tłum.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Porzućmy sny! Czyż ma na wieki<br/>Odwieczny wróg sprawować rząd?<br/>Czyż nadaremno łaski rzeki<br/>Przez serc wciąż suchy płyną ląd?<br/>Dziś moc z Golgoty jeszcze płynie,<br/>Więc pijmy z tych ożywczych wód!<br/>Gdy ziemskich bojów czas przeminie,<br/>Pan wwiedzie nas w niebieski gród.</lines>
+    </verse>
+  </lyrics>
+</song>

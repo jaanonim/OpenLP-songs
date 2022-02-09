@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:50">
+  <properties>
+    <titles>
+      <title>Niechaj piękność Jezusa</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="398"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niechaj piękność Jezusa się we mnie lśni<br/>Jego odblaskiem niech będą moje dni<br/>O, niech Pan mocą Swą<br/>Zawsze kieruje mną<br/>Niechaj piękność Jezusa się we mnie lśni</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niechaj radość i pokój panuje tam gdzie<br/>Ty o Jezu przebywać będziesz Sam<br/>O, niech moc Boża Twa<br/>w naszym życiu wciąż trwa<br/>O, niech radość i pokój panuje w nas</lines>
+    </verse>
+  </lyrics>
+</song>

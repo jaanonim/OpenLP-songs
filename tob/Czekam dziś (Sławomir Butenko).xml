@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:16">
+  <properties>
+    <titles>
+      <title>Czekam dziś</title>
+    </titles>
+    <authors>
+      <author type="words">Sławomir Butenko</author>
+      <author type="music">Sławomir Butenko</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="86"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Czekam dziś, na Ciebie Panie Boże,<br/>Czekam dziś, tchnij mocą Swą,<br/>Jestem tu,  by pełnić wolę Twoją,<br/>Jestem tu,  dziś do mnie przyjdź.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Wspaniałym Bogiem jesteś,<br/>wypełniasz mnie całego<br/>blaskiem Swym.<br/>Nie lękam się niczego<br/>gdy przy mnie blisko jesteś,<br/>serce daję Ci.</lines>
+    </verse>
+  </lyrics>
+</song>

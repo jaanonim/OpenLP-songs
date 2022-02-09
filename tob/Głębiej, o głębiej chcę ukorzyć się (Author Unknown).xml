@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:39">
+  <properties>
+    <titles>
+      <title>Głębiej, o głębiej chcę ukorzyć się</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="195"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Głębiej, o głębiej chcę ukorzyć się,<br/>racz, Panie, siłą Swa napełnić mię!<br/>Mistrzu, przed Tobą leżę jako pył;<br/>obyś mi wszystkim we wszystkim Ty był.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Głębiej, o głębiej, o głębiej wciąż,<br/>nic z tego świata nie żądam już,<br/>u Twoich, Panie, stóp położę się;<br/>Chryste, Tyś życiem i zyskiem mym.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Głębiej, o głębiej wołam, Panie mój;<br/>zniszcz moją wolę, me życie, jam Twój!<br/>Ty mię z Swej łaski wysłuchasz, to wiem,<br/>chociaż nie godnym byś pamiętał mię.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Głębiej, o głębiej, o głębiej wciąż,<br/>nic z tego świata nie żądam już,<br/>u Twoich, Panie, stóp położę się;<br/>Chryste, Tyś życiem i zyskiem mym.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Głębiej, o głębiej, aż tam kiedyś wzwyż stąd dojdę,<br/>Jezu, do Ciebie przez krzyż pójdę w pokorze<br/>chętnie śladem Twym,<br/>tam gdzie korona jest udziałem mym.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Głębiej, o głębiej, o głębiej wciąż,<br/>nic z tego świata nie żądam już,<br/>u Twoich, Panie, stóp położę się;<br/>Chryste, Tyś życiem i zyskiem mym.</lines>
+    </verse>
+  </lyrics>
+</song>

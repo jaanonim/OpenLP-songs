@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:18">
+  <properties>
+    <titles>
+      <title>Pan dobry jest</title>
+    </titles>
+    <authors>
+      <author type="words">K.F. Herrossee</author>
+      <author type="music">K.F. Herrossee</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="18"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pan dobry jest! Dziękujcie Mu,<br/>Bo miłosierdzie i wielka<br/>Jego łaska wiecznie trwa!<br/>/ Na wieki trwa. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pan godzien jest dziękczynnych chwał.<br/>O duszo moja, ty nie zapomnij<br/>mnóstwa Bożych łask!<br/>/ Mnogości Bożych łask. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pan możny jest! Wszechmocny Bóg,<br/>A jego mądrość i Jego moc<br/>co dzień odnawia się.<br/>/ Co dzień odnawia się. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pan wielki jest! Potężny On!<br/>A imię Jego niech wciąż<br/>uwielbia kornie cały świat!<br/>/ Niech wielbi cały świat. /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pan święty jest! Najświętszy On!<br/>Z czcią najwyższą<br/>niech będzie mianowane imię to!<br/>/ Przedziwne imię to. /x2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Więc śpiewaj Mu! Wyśpiewuj cześć!<br/>Z dziękczynnym chórem i głos twój<br/>niech przed Pański dojdzie tron!<br/>/ Przed Pański dojdzie tron. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

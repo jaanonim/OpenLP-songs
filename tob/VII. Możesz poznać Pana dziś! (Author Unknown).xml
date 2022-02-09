@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:04">
+  <properties>
+    <titles>
+      <title>VII. Możesz poznać Pana dziś!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Możesz poznać Pana dziś!<br/>Możesz poznać Pana dziś!<br/>On złamie grzechu moc<br/>I w dzień przemieni noc;<br/>Możesz poznać Pan dziś!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Możesz poznać Jego moc!<br/>Możesz poznać Jego moc!<br/>Ramieniem wesprze Swym -<br/>Zwycięstwo da nad złym;<br/>Możesz poznać Jego moc!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Poznaj Jego Słowa cud!<br/>Poznaj Jego Słowa cud!<br/>Pokochasz Księgę ksiąg,<br/>Wybawi cię z twych mąk;<br/>Poznaj Jego Słowa cud!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Śpiewaj Panu Twemu dziś!<br/>Śpiewaj Panu Twemu dziś!<br/>Ucieknie diabeł stąd<br/>I zniknie grzechu trąd;<br/>Śpiewaj Panu Twemu dziś!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dziękuj Mu za wszystko dziś!<br/>Dziękuj Mu za wszystko dziś!<br/>Pan godzien Twoich chwał -<br/>Patrz jak ci wiele dał!<br/>Dziękuj Mu za wszystko dziś!</lines>
+    </verse>
+  </lyrics>
+</song>

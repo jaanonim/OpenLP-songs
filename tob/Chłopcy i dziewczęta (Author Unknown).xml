@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:56">
+  <properties>
+    <titles>
+      <title>Chłopcy i dziewczęta</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="25"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chłopcy i dziewczęta, służmy Zbawcy wraz,<br/>W domu, w pracy, w szkole i w zabawy czas,<br/>Więc świadczmy o Jezusie.<br/>On jest życiem naszym,<br/>Jemu pieśń ta brzmi, Jezus Król nasz<br/>Czy nie chciałbyś służyć Mu i ty?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Trony i korony, zmiata czasu bieg,<br/>Lata przemijają, minie i nasz wiek,<br/>Więc pamiętajmy stale, że my także wkrótce,<br/>Przekroczymy próg.<br/>Odejdziemy do wieczności, gdy zawezwie Bóg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zapamiętaj dobrze, Życie dał ci Pan,<br/>Byś je przeżył godnie, strzegąc prawdy bram.<br/>Odważnie i wytrwale, głos zbawienia łaskę,<br/>Wskazuj ludziom krzyż.<br/>To jedynie godne dzieło<br/>Wspieraj, prowadź wzwyż.</lines>
+    </verse>
+  </lyrics>
+</song>

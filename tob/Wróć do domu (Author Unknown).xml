@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:36">
+  <properties>
+    <titles>
+      <title>Wróć do domu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="139"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wróć do domu, duszo biedna,<br/>z błędnych świata tego dróg;<br/>Szczęście które znaleźć pragniesz,<br/>dać ci może tylko Bóg, Słyszysz,<br/>jak cię Pasterz woła,<br/>jak za tobą idzie w ślad?<br/>A ty błądzisz wciąż bez Niego<br/>od tak wielu, wielu lat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wieszli czym jest miłość Boża,<br/>jak cię Zbawca kocha twój?<br/>Zwróć swój wzrok na Krzyż Golgoty,<br/>na ten wiecznej łaski zdrój.<br/>Miłość Jego granic nie ma,<br/>głębia jej jak morska toń.<br/>Tak, twój Zbawca kocha ciebie,<br/>powróć duszo, powróć Doń!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Któreż serce ludzkie może kochać tak,<br/>jak kocha Bóg! O, bezmierna Lasko Boża,<br/>któż by ci się oprzeć mógł?<br/>Gdyśmy grzechów pełni byli,<br/>niezliczonych pełni win,<br/>na Golgocie zmarł niewinny<br/>- za nas grzesznych Boży Syn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, zbłąkana duszo,<br/>powróć z błędnych świata tego dróg,<br/>póki słońce łaski świeci,<br/>póki woła ciebie Bóg.<br/>Dzisiaj Zbawca czeka na cię,<br/>uwierz duszo, uwierz Weń.<br/>Nim zbawienia zorze zgasną,<br/>nim przeminie łaski dzień.</lines>
+    </verse>
+  </lyrics>
+</song>

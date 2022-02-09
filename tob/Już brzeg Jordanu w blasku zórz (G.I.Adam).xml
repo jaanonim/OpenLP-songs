@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:48">
+  <properties>
+    <titles>
+      <title>Już brzeg Jordanu w blasku zórz</title>
+    </titles>
+    <authors>
+      <author type="words">G.I.Adam</author>
+      <author type="music">G.I.Adam</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="572"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Już brzeg Jordanu w blasku zórz<br/>Jaśnieje z dala mi;<br/>Szczęśliwa tam ojczyzna ma<br/>Swą wspaniałością lśni.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Już życia łódź w górny port<br/>Zadąża, gdzie nie ma burz;<br/>Tam niknie mgła, jaśnieją dni,<br/>Tam rychł wnijdę już.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I z brzegu tego sercu tu<br/>Cudowny pokój tchnie,<br/>A pielgrzym pośród ziemskich burz<br/>Kosztować z niego śmie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O kraju cudny, kraju mój,<br/>Do Ciebie śpieszyć chcę,<br/>Gdzie wieczna wiosna, wieczny maj;<br/>Tam myżli swoje slę.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Niedługo i ja będę mógł<br/>Wnijść tam, gdzie nie ma łez,<br/>Na zawsze gdzie położył<br/>Pan cierpieniem wszelkim kres.</lines>
+    </verse>
+  </lyrics>
+</song>

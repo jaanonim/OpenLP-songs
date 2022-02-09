@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:24">
+  <properties>
+    <titles>
+      <title>Nie masz miejsca dla Jezusa</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="152"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie masz miejsca dla Jezusa?<br/>On chce twoim Zbawcą być,<br/>On do serca twego puka,<br/>On chce w twoim sercu żyć.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Któż się odda Jezusowi,<br/>Któż otworzy serca drzwi?<br/>Duszo, wierz Zbawicielowi,<br/>Bo chce Siebie oddać ci!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dość masz miejsca dla mamideł,<br/>Tylko dla Jezusa nie.<br/>Ty zamykasz przed Nim serce,<br/>On dał serce przekłuć Swe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nie masz czasu dla Jezusa,<br/>A On dziś chce z tobą żyć.<br/>Nie odwlekaj z tym do jutra,<br/>Jutro może późno być.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Dziś się oddaj Jezusowi.<br/>Otwórz serca swego drzwi;<br/>Duszo, wierz Zbawicielowi<br/>Żywot wieczny daje ci!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wszystko oddaj w dłoń Jezusa,<br/>Łaski czas już prędko mknie,<br/>Bo gdy sądu przyjdzie chwila,<br/>Wyrok ciężki spotka cię!</lines>
+    </verse>
+  </lyrics>
+</song>

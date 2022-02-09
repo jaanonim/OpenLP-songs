@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:11">
+  <properties>
+    <titles>
+      <title>Stójmy razem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Stójmy razem, bo w jedności siła<br/>Stójmy razem w dzień i w noc<br/>Stójmy razem, bo w jedności siła<br/>Stójmy razem w dzień i w noc</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bądźmy wszyscy jednej myśli<br/>Wzór Chrystusa Pana wiernie naśladując<br/>Z łagodnością i pokorą<br/>Jedni drugim pomagajmy żyć</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Miłość sobie okazujmy<br/>By zakryła wielkie mnóstwo naszych grzechów<br/>Przebaczając bez szemrania<br/>Dajmy innym to, co Bóg nam dał</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Doceniajmy to co mamy<br/>Każda dobra rzecz niech cieszy nas prawdziwie<br/>To co trudne i bolesne<br/>Z dziękczynieniem usiłujmy nieść</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:21">
+  <properties>
+    <titles>
+      <title>Czyż tron Twój</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="93"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czyż tron Twój,<br/>Panie uwielbiony,<br/>W niebie nie jest dość wspaniały,<br/>że w głębi duszy mej skruszonej<br/>Zasiąść chcesz na tronie chwały?<br/>Mój rozum pojąć nie jest w stanie,<br/>że tak jest wielkie<br/>Twe kochanie I tak cudowne.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czyliż to miejsca<br/>masz tak mało<br/>Tam w niebieskiej Twej krainie,<br/>Żeś me znikome obrał ciało<br/>I budujesz w nim świątynię?<br/>Nigdy by serce nie pojęło,<br/>że w nędzy mej tak cudne dzieło<br/>Twa miłość stworzy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Czyliż masz, Panie,<br/>w niebie mało<br/>Wojsk anielskich uwielbiania,<br/>że Ci się jeszcze spodobało<br/>Słyszeć grzesznych ust śpiewania?<br/>Nie, dla rozumu niepojęta<br/>Jest Twa cudowna miłość święta<br/>W swym poniżeniu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Czyż jestem droższy<br/>sercu Twemu,<br/>Niż Twój Syn jednorodzony,<br/>że na śmierć iść kazałeś Jemu,<br/>Byłem ja był ocalony?<br/>Przed Tobą kajam się i korzę,<br/>Gdy patrzę w to miłości morze,<br/>O Niepojęty!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Czyż do Twej służby,<br/>Panie miły,<br/>Nie dość w niebie sług stanęło,<br/>że i przez moje słabe siły<br/>Chcesz wykonać Swoje dzieło?<br/>Dziwne zrządzenie Twej miłości,<br/>Więc chcę Ci służyć w doczesności<br/>Wszystkimi siły</lines>
+    </verse>
+  </lyrics>
+</song>

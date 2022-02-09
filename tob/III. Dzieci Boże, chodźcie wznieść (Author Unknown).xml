@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:04">
+  <properties>
+    <titles>
+      <title>III. Dzieci Boże, chodźcie wznieść</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dzieci Boże, chodźcie wznieść.<br/>Dziękczynienie Panu, cześć,<br/>Śpiewać Jemu z całych sił,<br/>Gdyż miłościw dla nas był.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dziękujemy Ci, Panie nasz,<br/>Dziękujemy wszyscy wraz;<br/>Dziękuję, Ojcze Ci,<br/>Dziękuję, Ojcze Ci;<br/>Niebieski Ojcze, dziękuję Ci!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Za złotego słońca blask<br/>I za wiosny cudny czas,<br/>Za zwilżanie rosą dżdżu<br/>Pól zieleniejących tu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Za potoki czystych wód,<br/>Które chłodzą życia trud<br/>I za zbóż złocisty łan -<br/>Z których pokarm jest nam dan.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Za przyjaciół, którychś dał,<br/>Bym społeczność z nimi miał,<br/>A też z Tobą, Królu mój -<br/>Już na wieki jestem Twój.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Za kosztowne Słowo Twe,<br/>Co oczyszcza serce me;<br/>Ono to wprowadza nas<br/>w niebios blask na wieczny czas.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Za Świętego Ducha dział,<br/>Wszak to Tyś Go Panie, dał,<br/>Aby pokazywał nam<br/>Drogę do niebieskich bram.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I za pewność naszych dusz.<br/>Że zbawienie mamy już;<br/>Że spoczynek czeka nas,<br/>Jaki Sam dasz, Panie nasz!</lines>
+    </verse>
+  </lyrics>
+</song>

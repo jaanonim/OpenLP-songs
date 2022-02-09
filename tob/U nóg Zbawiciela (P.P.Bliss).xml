@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:36">
+  <properties>
+    <titles>
+      <title>U nóg Zbawiciela</title>
+    </titles>
+    <authors>
+      <author type="words">P.P.Bliss</author>
+      <author type="music">P.P.Bliss</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="361"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>U nóg zbawiciela, pragnąc Jego słów,<br/>Siadła Maria kornie, by Go słuchać znów.<br/>Dobrą cząstkę ona ma:<br/>Pan jej Swe zbawienie da.<br/>U nóg Zbawiciela ja siądę rad,<br/>Słowo Jego starczy mi za cały świat</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Do nóg Zbawiciela Maria schyla się,<br/>Wylewając na nie wonne maści swe;<br/>Wdzięcznie dar jej przyjął Pan,<br/>Wszak z miłości był Mu dan.<br/>Do nóg Zbawiciela chętnie wszystko dam;<br/>I do służby Jego oddam Mu się sam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>U nóg Zbawiciela w rannej porze dnia<br/>Przeradosną wieścią Marii serce drga;<br/>Jezus żyje! Mija noc,<br/>Zwyciężyła Boża moc!<br/>U nóg Zbawiciela chcę ja zawsze być,<br/>Głosić Jego łaskę, z Nim na wieki żyć.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:32">
+  <properties>
+    <titles>
+      <title>Włożył w moje usta</title>
+      <title>He hath put a new song</title>
+    </titles>
+    <authors>
+      <author type="words">Warren Hastings Piotr Chojnacki</author>
+      <author type="music">Warren Hastings Piotr Chojnacki</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="753"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Włożył w moje usta nową pieśń.<br/>Włożył w moje usta nową pieśń.<br/>Włożył w moje usta nową pieśń.<br/>Bogu memu pochwalną pieśń.<br/>Usłyszał płacz i pomógł mi<br/>i z moich grzechów uwolnił mnie.<br/>Postawił mnie na skale swej<br/>i włożył w moje usta nową pieśń.</lines>
+    </verse>
+  </lyrics>
+</song>

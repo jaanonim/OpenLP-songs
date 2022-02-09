@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:55">
+  <properties>
+    <titles>
+      <title>Jakże wielką radość mam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="495"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jakże wielką radość mam, że Pasterza<br/>swego znam, żem owieczką Jego włości,<br/>gdzie mnie karmi, hojnie gości, że mnie<br/>kocha, dobrze zna i gorliwie o mnie dba.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pod osłoną Jego rąk, wśród kwiecistych<br/>bujam łąk i przesłodką miewam paszę,<br/>tam pragnienie swe ugaszę, bo mię Pasterz<br/>wiedzie mój, tam gdzie płynie życia zdrój.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, jak wielką radość mam, że Pasterza swego<br/>znam. Gdy prześliczny przyjdzie dzionek,<br/>wzlecę w niebo, jak skowronek, tam anieli<br/>przyjmą mnie, o, jak wielkie szczęście me!</lines>
+    </verse>
+  </lyrics>
+</song>

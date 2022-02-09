@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:49">
+  <properties>
+    <titles>
+      <title>Być może nad ranem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="383"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Być może nad ranem, gdy zorza zabłyśnie lub promień<br/>słoneczny przez mgły się przeciśnie, ukaże się Jezus<br/>w Swej chwale niebieskiej i weźmie do Siebie nas.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kiedyż, o, Jezu nasz, ach, kiedyż pozdrowić się dasz:<br/>Witaj, Zbawco, Alleluja, Alleluja, amen, Alleluja, amen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Być może w południe lub nawet wśród nocy, nasz Pan<br/>się ukaże w Swej całej wszechmocy. Jaśniejszy nad<br/>słońce, w miłości niezmienny i weźmie do Siebie nas.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Kiedyż, o, Jezu nasz, ach, kiedyż pozdrowić się dasz:<br/>Witaj, Zbawco, Alleluja, Alleluja, amen, Alleluja, amen!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z Jezusem aniołów niebiańskich miliony, dusz ludzkich<br/>niezmierny tam poczet zbawionych, a wszyscy śpiewają<br/>radośnie i głośno, że weźmie do Siebie nas.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Kiedyż, o, Jezu nasz, ach, kiedyż pozdrowić się dasz:<br/>Witaj, Zbawco, Alleluja, Alleluja, amen, Alleluja, amen!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy Jezus się zjawi, wnet wszystkich przemieni, tych,<br/>którzy przez Niego się stali zbawieni. I my nie pomrzemy<br/>ni cierpieć będziemy, gdy weźmie do Siebie nas.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Kiedyż, o, Jezu nasz, ach, kiedyż pozdrowić się dasz:<br/>Witaj, Zbawco, Alleluja, Alleluja, amen, Alleluja, amen!</lines>
+    </verse>
+  </lyrics>
+</song>

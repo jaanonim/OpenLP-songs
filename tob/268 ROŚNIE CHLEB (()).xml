@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:54">
+  <properties>
+    <titles>
+      <title>268 ROŚNIE CHLEB</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Użyźniona już rola,<br/>wyplenione już chwasty.<br/>Pada ziarno na pola,<br/>pracą naszą wyrasta.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ref. Rośnie chleb, biały chleb,<br/>Pod niebem jak cisza łagodnym,<br/>Żeby nikt, nigdy już<br/>Nie był złakniony i głodny.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Już zieleni się w glebie, <br/>Już się słońcem bogaci,<br/>Bóg nakarmi dziś chlebem<br/>Siostry nasze i braci.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Przy warsztatach i krosnach,<br/>W ulic zgiełku i gwarze, <br/>Wieść przebiega radosna,<br/>Rozjaśniają się twarze.	</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Wiatr kłosami kolebie,<br/>Ciepłe lato je złoci,<br/>Bóg zamieszkał w tym chlebie,<br/>W swej niezmiernej dobroci.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Kto strudzony, zmęczony <br/>niech Go przyjmie do serca <br/>Panie, zechciej przyjść do mnie <br/>w sercu moim zamieszkaj.</lines>
+    </verse>
+  </lyrics>
+</song>

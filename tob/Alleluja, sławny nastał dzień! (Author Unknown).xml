@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:20">
+  <properties>
+    <titles>
+      <title>Alleluja, sławny nastał dzień!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="57"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alleluja, sławny nastał dzień!<br/>Chrystus Pan opuścił grobu cień,<br/>Śmierć, szatana, piekło zmógł;<br/>Pan wstał z martwych, nasz Bóg.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Już nie trzeba się bać!<br/>I my śmiemy raz wstać<br/>I do górnych wznieść się stron,<br/>Kędy wiecznej chwały tron<br/>Wśród niebieskich lśni kras,<br/>Radość czeka nas.<br/>Utrapienie płacz, ustanie,<br/>Gdzie zmartwychwstanie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alleluja, pojednany Bóg,<br/>Grzech zgładzony, pokonany wróg;<br/>Już pokonał Pan Swą krwią<br/>Diabła, zdeptał moc złą.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alleluja, nastał błogi czas!<br/>Ojca w niebie znów zna każdy z nas;<br/>On miłości pełen, łask,<br/>Na nas zlewa Swój blask.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alleluja, serce, raduj się,<br/>Wierz i ufaj, Pan pocieszy cię!<br/>Grzech swój, niemoc, brzemię prób<br/>Wrzuć w otwarty tu grób!</lines>
+    </verse>
+  </lyrics>
+</song>

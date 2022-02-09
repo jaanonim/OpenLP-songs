@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:56">
+  <properties>
+    <titles>
+      <title>Jam uczniem Zbawiciela</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="748"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jam uczniem Zbawiciela,<br/>On życie za mnie dał,<br/>Choć wielu temu przeczy,<br/>to wiem, On zmartwychwstał,<br/>Dłoń Jego mnie prowadzi:<br/>głos Jego w sercu brzmi,<br/>A w każdej mej potrzebie<br/>On bliski mi.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mój żyje Pan, Pan Jezus żyje dziś!<br/>Kroczymy rozmawiając wraz<br/>W ten krótki życia czas;<br/>Mój żyje Pan, choć za mnie poniósł zgon!<br/>Zapytasz -skąd tę pewność mam?<br/>W mym sercu żyje On!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja widzę w świecie całym<br/>miłości Jego ślad,<br/>On wzmacnia, gdy znużony<br/>w zwątpienie bym już wpadł,<br/>Ja wiem, że mnie przeniesie<br/>przez wszelką grozę burz,<br/>A dzień, gdy On się zjawi,<br/>jest bliski tuż.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z radością, wierni, spieszcie,<br/>pochwalne hymny wznieść<br/>Swym wiecznym alleluja,<br/>oddajcie Panu cześć!<br/>Któż dobroć, przyjaźń, wierność<br/>i miłość wiekszą zna:<br/>Otuchę On i pomoc<br/>dla wszystkich ma.</lines>
+    </verse>
+  </lyrics>
+</song>

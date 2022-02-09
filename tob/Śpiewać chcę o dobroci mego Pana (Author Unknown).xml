@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:56">
+  <properties>
+    <titles>
+      <title>Śpiewać chcę o dobroci mego Pana</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="1"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Śpiewać chcę o dobroci mego Pana,<br/>Zawsze śpiewać chcę, śpiewać chcę.<br/>Śpiewać chcę o dobroci mego Pana,<br/>Zawsze śpiewać chcę o dobroci mego Pana wciąż.<br/>Wszystkim wkrąg zwiastować chcę,<br/>Że wierny Pan, że wierny Pan.<br/>Wszystkim wkrąg zwiastować chcę,<br/>Że wierny Pan przez wszystkie pokolenia.<br/>Śpiewać chcę o dobroci mego Pana<br/>Zawsze śpiewać chcę o dobroci mego Pana wciąż.</lines>
+    </verse>
+  </lyrics>
+</song>

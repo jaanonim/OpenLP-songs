@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:35">
+  <properties>
+    <titles>
+      <title>O, wzywaj Mnie!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="353"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, wzywaj Mnie!<br/>- Tak Pan cię chce zaprosić<br/>- O, wzywaj Mnie<br/>w dzień ciężkich trwóg!<br/>/ A gdy cię wyrwę, ty masz cześć<br/>Mą głosić.<br/>O, wzywaj Mnie, bom Ja twój Bóg! /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, wzywaj Go<br/>w pokusy ciężkiej chwili,<br/>Nim szatan w grzech usidli cię.<br/>/ Gdy serce twe<br/>w wyborze dróg się myli,<br/>Bóg mówi tobie:<br/>„Wzywaj Mnie!" /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, wzywaj Go,<br/>nim w duszę twą ugodzi<br/>Zacięty wróg, śmiertelny wróg.<br/>/ Gdy w tobie trwogę,<br/>ból i gorycz płodzi,<br/>Modlitwą walcz, bo twój jest Bóg! /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, wzywaj Mnie,<br/>nie wezwiesz nadaremnie!<br/>Odwieczna Mej miłości moc!<br/>/ Nowego życia dar<br/>otrzymasz we Mnie,<br/>Więc wzywaj Mię,<br/>czy w dzień, czy w noc! /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tak, tylko On wyzwolić duszę może<br/>Od grzechu pęt, od śmierci trwóg,<br/>/ 0dnowić życie w skrusze i pokorze.<br/>O, wzywaj Go, bo On twój Bóg! /x2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O, wzywaj Go, On słyszy Twe wołanie,<br/>On trzyma straż nad duszą twą.<br/>/ I jako wierzysz, zawsze ci się stanie,<br/>Gdy wezwiesz Go, gdy wezwiesz Go. /x2</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I tobie także dziś Pan chce objawić<br/>Miłości Swej cudowny blask.<br/>/ 0, przyjmij Go, byś całym sercem sławić<br/>Po wieków wiek mógł pełnię łask. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

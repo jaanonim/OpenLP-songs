@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:00">
+  <properties>
+    <titles>
+      <title>Kiedy w jasną, spokojną, cichą noc</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="104"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kiedy w jasną, spokojną, cichą noc,<br/>spoglądam na niebo pełne gwiazd,<br/>i pytam, czy życie to ma sens<br/>i wołam do ciebie Ojcze nasz</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O Boże, o Boże, Panie mój.<br/>Nie pamiętaj, że czasem było źle.<br/>Wiesz dobrze, że zawsze jestem Twój,<br/>i że tylko Twoją drogą kroczyć chcę.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy w życiu, tak pełnym rozczarowań,<br/>przez grzechu korzenie potknę się,<br/>gdy spokój utonie w fali knowań,<br/>wtedy tchnieniem mej duszy wołam Cię.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Życie ludzi przebiega krętą drogą,<br/>hen w górze jest cel wędrówki tej,<br/>i choć czasem sił zabraknie moim nogom,<br/>ja dojdę tam, gdy zaufam Ci.</lines>
+    </verse>
+  </lyrics>
+</song>

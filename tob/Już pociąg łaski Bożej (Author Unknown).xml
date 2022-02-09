@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:24">
+  <properties>
+    <titles>
+      <title>Już pociąg łaski Bożej</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="143"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Już pociąg łaski Bożej<br/>Przybliża szybko się,<br/>Nadjeżdża w wielkim pędzie,<br/>By zabrać z sobą cię;<br/>Wjazd dzwonek oznajmuje;<br/>Dyżurny sygnał śle<br/>I przejazd mu szykuje;<br/>Stróż do wsiadania zwie.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Śpieszcie wszyscy wsiąść już,<br/>O, grzesznicy, wsiąść już;<br/>Spracowani, obciążeni,<br/>Utrapieni, wsiądźcie już!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wsiadając uważajcie:<br/>Pociągów wiele jest;<br/>O dobry się pytajcie,<br/>Co w niebie ma swój kres.<br/>Przystanki takie będą:<br/>Pokuta, łaski tron,<br/>Zbawienie, pokój, radość,<br/>I wreszcie: błogi zgon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wprzód trzeba się szykować,<br/>Bo brama wąska tam;<br/>Wstęp bez biletu łaski<br/>Wzbroniony będzie wam.<br/>Ten bilet nabędziecie<br/>Przy kasie wiary już,<br/>Jezusa gdy przyjmiecie<br/>Za Zbawcę swoich dusz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Porzućcie grzech i troski,<br/>Przeszkadza bagaż ten,<br/>I wstąpcie w pociąg Boski,<br/>Co jedzie w górę, hen!<br/>W ten sposób dojedziecie<br/>Do samych niebios bram,<br/>Gdzie wiernych zbór znajdziecie,<br/>Co Zbawcę chwali tam.</lines>
+    </verse>
+  </lyrics>
+</song>

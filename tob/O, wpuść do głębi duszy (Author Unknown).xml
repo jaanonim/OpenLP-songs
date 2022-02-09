@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:35">
+  <properties>
+    <titles>
+      <title>O, wpuść do głębi duszy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="109"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, wpuść do głębi duszy,<br/>wpuść, promienie jasne Bożych słów!<br/>Dlaczegóż chcesz światłości ujść?<br/>Czy nie chcesz raczej dziś być zdrów?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pan szuka cię, Pan szuka cię,<br/>On chce cię zbawić w miłości Swej,<br/>Pan szuka cię, Pan szuka cię, On chce cię zbawić w miłości Swej.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie marnuj drogich łaski chwil!<br/>Strwonione raz nie wrócą znów.<br/>O, wstań, przed Panem czoło schyl<br/>i uwierz Weń, a będziesz zdrów.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Pan szuka cię, Pan szuka cię,<br/>On chce cię zbawić w miłości Swej,<br/>Pan szuka cię, Pan szuka cię, On chce cię zbawić w miłości Swej.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niczego więcej nie ma świat,<br/>jak tylko chwilkę złudnych snów.<br/>Na łono Zbawcy pośpiesz rad,<br/>a będziesz dziś szczęśliwy, zdrów!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Pan szuka cię, Pan szuka cię,<br/>On chce cię zbawić w miłości Swej,<br/>Pan szuka cię, Pan szuka cię, On chce cię zbawić w miłości Swej.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nikomu Pan nie bronił przyjść,<br/>nie pożałuje Swoich słów.<br/>Kto tylko chce do Niego iść,<br/>zostanie dziś zbawiony, zdrów.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Pan szuka cię, Pan szuka cię,<br/>On chce cię zbawić w miłości Swej,<br/>Pan szuka cię, Pan szuka cię, On chce cię zbawić w miłości Swej.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ostatni raz Pan woła cię,<br/>ten wdzięczny głos w swe serce złów,<br/>bo potem może będzie źle!<br/>Pójdź jeszcze dziś, a będziesz zdrów!</lines>
+    </verse>
+    <verse name="c5">
+      <lines>Pan szuka cię, Pan szuka cię,<br/>On chce cię zbawić w miłości Swej,<br/>Pan szuka cię, Pan szuka cię, On chce cię zbawić w miłości Swej.</lines>
+    </verse>
+  </lyrics>
+</song>

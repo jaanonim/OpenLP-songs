@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:35">
+  <properties>
+    <titles>
+      <title>Jak morska fala</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="46"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak morska fala, kiedy wicher dmie,<br/>Miłość Jezusowa ogarnęła mnie.<br/>Przez wody mórz, spienionych mórz,<br/>Jezu, prowadź mą łódź wśród burz.<br/>Przez wody mórz, gdy wicher dmie,<br/>Jezu, prowadź mnie.</lines>
+    </verse>
+  </lyrics>
+</song>

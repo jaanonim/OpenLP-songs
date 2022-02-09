@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:37">
+  <properties>
+    <titles>
+      <title>Cóż to w cichych chwilach nocy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="154"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cóż to w cichych chwilach nocy w tobie puka tak?<br/>Bez przestanku ciągle puka, czegóż to jest znak?<br/>Nie mów, że to pulsu bicie, musisz głębiej iść;<br/>Zbawca twój kołacze, prosi: Pozwól w serce wnijść.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szybkim krokiem śmierć przychodzi do pałaców,<br/>chat, nie pukając, nie pytając zrywa życia kwiat.<br/>Ale Jezus czeka, czeka, aż otworzysz drzwi,<br/>gdy nie wpuścisz idzie dalej, wtenczas biada ci!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Będziesz ty na dworze wzywał, prosił: Wpuść mię, wpuść!<br/>Ręce będziesz załamywał, rozpacz będzie róść.<br/>Czyś zapomniał, kto na dworze musiał długo stać?<br/>Pan, co z tobą chciał się złączyć, luz cię nie chce znać!</lines>
+    </verse>
+  </lyrics>
+</song>

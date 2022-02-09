@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:46">
+  <properties>
+    <titles>
+      <title>Dziękuję Tobie, Zbawco drogi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="323"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dziękuję Tobie, Zbawco drogi, za krzyż, za krew, za miłość Twą!<br/>Bo w nich mam skarb i klejnot drogi, w których gruntuję wiarę mą.<br/>O, Jezu, Zbawco, dzięki Tobie, żeś mię tak drogo kupił Sobie!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Za wiarę, pokój i zbawienie, dziękuję Tobie, Zbawco mój!<br/>Tyś dał mi w serce to pragnienie, bym Ciebie kochał i był Twój.<br/>O, Jezu, daj mi Twojej mocy, bym Tobie służył w dzień i w nocy!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, Boże, Ojcze litościwy, pokornie padam do Twych nóg!<br/>Ach, oświeć lud nasz nieszczęśliwy, o, Zbawco, błagam za nasz lud!<br/>Daj jemu żywot świętobliwy, niech będzie wierny i cnotliwy.</lines>
+    </verse>
+  </lyrics>
+</song>

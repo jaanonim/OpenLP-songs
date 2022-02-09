@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:39">
+  <properties>
+    <titles>
+      <title>Cudowna Boża łaska</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="198"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cudowna Boża łaska ta<br/>Zbawiła z grzechów mnie,<br/>Zgubiony, nędzny byłem ja,<br/>Lecz teraz cieszę się</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ta łaska wlała Boży strach<br/>W kamienne serce me,<br/>I wtedy zobaczyłem w łzach,<br/>Żem na przepaści dnie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lecz łaska podźwignęła mnie<br/>I naprzód wiedzie wciąż,<br/>Przez ciemne i burzliwe dnie<br/>Tam, gdzie ojcowski dom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, Boże, dzięki, dzięki Ci<br/>Za cudną łaskę Twą,<br/>Do nóg Twych padam w kornej czci,<br/>Niebiosa chwałą brzmią!</lines>
+    </verse>
+  </lyrics>
+</song>

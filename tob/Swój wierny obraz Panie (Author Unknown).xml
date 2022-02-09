@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:36">
+  <properties>
+    <titles>
+      <title>Swój wierny obraz Panie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="360"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Swój wierny obraz Panie,<br/>Głęboko w duszę wpój,<br/>Bym wyznać mógł z radością,<br/>Żem w kształt zmieniony Twój.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I święte imię Twoje<br/>Na czole zapisz mym,<br/>By każdy po mnie poznał,<br/>Że uczniem jestem Twym.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A wtedy odzwierciedli<br/>Me życie postać Twą,<br/>Jasnością się napełni<br/>Przejrzyste serca tło.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Choć serce me rozbije<br/>W kawałki ciężki bój,<br/>To jednak i w kawałkach<br/>Zabłyśnie obraz Twój.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Swój wierny obraz, Panie,<br/>Głęboko w serce wpisz,<br/>By każdy to zobaczył,<br/>Ze Ty się we mnie lśnisz</lines>
+    </verse>
+  </lyrics>
+</song>

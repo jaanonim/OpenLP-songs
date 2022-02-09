@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:56">
+  <properties>
+    <titles>
+      <title>My własnością Pana</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="739"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My własnością Pana,<br/>On odkupił nas<br/>poświęcamy Jemu<br/>siły i nasz czas;<br/>I ku chwale Jego<br/>chcemy tutaj żyć,<br/>Jego powołania<br/>chcemy godni być.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>My własnością Pana<br/>- Wiedzie Bóg,<br/>W niebios próg.<br/>My własnością Pana,<br/>z nami jest nasz Bóg!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My, własnością Pana,<br/>tu dźwigamy krzyż,<br/>Nasza droga wąska<br/>biegnie w górę, wzwyż,<br/>Świat nas prześladuje,<br/>me boimy się,<br/>Jezus nas miłuje<br/>- ostoimy się!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My włanością Pana,<br/>czeka z grzechem bój.<br/>Zamiast róży - ciernie,<br/>zamiast ciszy - znój.<br/>Chociaż wróg szaleje<br/>i pochłonąć chce,<br/>Jezus przyodzieje,<br/>skryje owce Swe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My własnością Pana,<br/>jakże błogo nam,<br/>Że już wnet staniemy<br/>u niebieskich bram!<br/>Jezus tam nas przyjmnie<br/>i uwieńczy nas,<br/>Tam będziemy wielbić<br/>Go po wieczny czas.</lines>
+    </verse>
+  </lyrics>
+</song>

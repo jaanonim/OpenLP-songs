@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:00">
+  <properties>
+    <titles>
+      <title>Alleluja, cześć Mu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="119"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alleluja, cześć Mu / 3x<br/>Jezus Chrystus przyszedł na ziemię,<br/>Przyszedł po to, by zbawić Ciebie<br/>I właśnie On, przez moc swojej krwi,<br/>Zbawienie dał, byś miał je i ty<br/>Ja cieszę się, tak wciąż cieszę się!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czy cieszysz się, czy ty cieszysz się. / 3x<br/>Jezus Chrystus przyszedł na ziemię,<br/>Przyszedł po to, by zbawić Ciebie<br/>I właśnie On, przez moc swojej krwi,<br/>Zbawienie dał, byś miał je i ty<br/>Ja cieszę się, tak wciąż cieszę się!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Więc cieszmy się, tak wciąż cieszmy się. / 3x<br/>Jezus Chrystus przyszedł na ziemię,<br/>Przyszedł po to, by zbawić Ciebie<br/>I właśnie On, przez moc swojej krwi,<br/>Zbawienie dał, byś miał je i ty<br/>Ja cieszę się, tak wciąż cieszę się!</lines>
+    </verse>
+  </lyrics>
+</song>

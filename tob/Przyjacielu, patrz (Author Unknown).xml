@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:24">
+  <properties>
+    <titles>
+      <title>Przyjacielu, patrz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="155"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przyjacielu, patrz, jak marne<br/>Twoje życie pełne zgub.<br/>Pośpiesz dzisiaj do Jezusa,<br/>Serce złóż do Jego stóp!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>On cię zbawi i obmyje,<br/>Wszystkie winy twe zakryje,<br/>/ Wszystkie winy twe zakryje<br/>Ten łaskawy Zbawca twój! / x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przyjacielu, patrz, jak pyszne<br/>Serce twe, obfite w złość.<br/>Wyznaj grzechy Jezusowi,<br/>W serce Go otwarte wpuść!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Przyjacielu, słysz, jak głośno<br/>Jezus woła ciebie, słysz!<br/>Śpiesz z ufnością do Jezusa.<br/>Jego imię w serce wpisz!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Przyjacielu, na Golgotę<br/>Obróć już spojrzenie swe!<br/>Tam za ciebie zmarł Syn Boży;<br/>On i ciebie zbawić chce</lines>
+    </verse>
+  </lyrics>
+</song>

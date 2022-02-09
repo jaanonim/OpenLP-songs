@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:25">
+  <properties>
+    <titles>
+      <title>Ogrody</title>
+    </titles>
+    <authors>
+      <author type="words">Franciszka Godlewska</author>
+      <author type="music">Franciszka Godlewska</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="476"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Już teraz we mnie kwitną Twe ogrody,<br/>już teraz we mnie Twe Królestwo jest.<br/>Już teraz we mnie kwitną Twe ogrody,<br/>już teraz we mnie Twe Królestwo jest.</lines>
+    </verse>
+  </lyrics>
+</song>

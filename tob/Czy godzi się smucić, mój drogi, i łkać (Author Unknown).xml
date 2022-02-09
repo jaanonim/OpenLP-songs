@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:39">
+  <properties>
+    <titles>
+      <title>Czy godzi się smucić, mój drogi, i łkać</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="435"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czy godzi się smucić, mój drogi, i łkać<br/>Gdy Ojciec twój czeka, chcąc łaskę ci dać?<br/>Przymierza wierności nie łamie On, wierz<br/>- Więc ufaj Mu mocno, za słowo Go bierz!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Za słowo Go bierz, za słowo Go bierz,<br/>O, wierz obietnicom, za słowo Go bierz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Twa ścieżka w doświadczeń prowadzi cię rój,<br/>Gdzie ucisk dolega i ciężar i znój:<br/>Nie bój się, Pan z tobą;<br/>choć toniesz i brniesz,<br/>Zaufaj Mu silnie, za słowo Go bierz.!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On się zobowiązał przez jasność i cień<br/>Prowadzić cię wiernie, a więc ufaj Weń.<br/>W dolinie doświadczeń On z tobą jest też;<br/>W uciskach, mój drogi, za słowo Go bierz!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Z pomocą niebieską przy tobie chce stać,<br/>O chwały dziedzicu, więc czegóż się bać?<br/>Wszak ile tu wierzysz, oglądać tam śmiesz,<br/>Więc ufaj Mu silnie, za słowo Go bierz!</lines>
+    </verse>
+  </lyrics>
+</song>

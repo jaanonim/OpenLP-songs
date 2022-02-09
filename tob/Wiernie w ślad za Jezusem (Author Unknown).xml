@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:03">
+  <properties>
+    <titles>
+      <title>Wiernie w ślad za Jezusem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="844"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wiernie w ślad za Jezusem<br/>przejdziemy życia znój,<br/>Wiernie w ślad za Jezusem<br/>z pieśnią pójdziemy w bój.<br/>Wierni pozostać chcemy<br/>do ostatniego tchu,<br/>Wciąż chętnie i z radością<br/>służyć będziemy Mu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wierne wojsko Zbawcy rusza odważnie w bój,<br/>Bracie, siostro, raźno przez życie. znój,<br/>Dzielnie, śmiało, nie straszy nas żaden wróg,<br/>Zwyciężymy, gdyż nas wiedzie Bóg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wiernie w ślad za Jezusem<br/>naprzód idziemy wciąż,<br/>Bój nasz zwycięskim będzie!<br/>Wszyscy, jak jeden mąż,<br/>Chorągiew Jezusową<br/>wśród bitwy wznieśmy wzwyż,<br/>Jaśnieje nam nad głową<br/>już Zbawiciela Krzyż.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wiernie wciąż za Jezusem<br/>postępujemy w ślad,<br/>Gdy On nas poprowadzi<br/>przezwyciężymy świat.<br/>Lecz krótko nasze życie<br/>na ziemi tutaj trwa,<br/>Po ukończonym boju<br/>Chrystus koronę da</lines>
+    </verse>
+  </lyrics>
+</song>

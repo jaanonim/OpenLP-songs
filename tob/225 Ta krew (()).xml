@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:49">
+  <properties>
+    <titles>
+      <title>225 Ta krew</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ta krew z grzechu obmywa mnie<br/>Ta krew czyni mnie bielszym od śniegu<br/>Ta krew z grzechu obmywa mnie<br/>To jest Baranka święta krew</lines>
+    </verse>
+  </lyrics>
+</song>

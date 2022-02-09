@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:29">
+  <properties>
+    <titles>
+      <title>Poznać Cię</title>
+    </titles>
+    <copyright>1993 Make Way Music</copyright>
+    <authors>
+      <author type="words">G. Kendrick</author>
+      <author type="music">G. Kendrick</author>
+      <author type="words">Graham Kendrick</author>
+      <author type="music">Graham Kendrick</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="542"/>
+    </songbooks>
+    <themes>
+      <theme>meditation</theme>
+      <theme>guitar</theme>
+      <theme>longing</theme>
+      <theme>peace</theme>
+      <theme>love</theme>
+      <theme>devotion</theme>
+      <theme>gods-holiness</theme>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wszystko to, co w swym życiu<br/>Chciałem mieć<br/>O co walczy świat<br/>I zdobyć chce<br/>To, co zyskiem jest<br/>Już nie liczy się<br/>Bez wartości, gdy pomyślę, że</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Poznać Cię, Jezu,poznać Cię<br/>To wszystko czego chcę<br/>Tyś mój Pan, życia treść<br/>Radość dnia i wiary sens<br/>Panie, kocham Cię</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Moje serce chce<br/>Lepiej poznać Cię<br/>W Tobie znaleźć się<br/>I Twoim być<br/>Wiarą zdobyć móc<br/>To, co liczy się<br/>W Twej sprawiedliwości<br/>Wiecznie żyć</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zmartwychwstania moc<br/>Dziś objawić chciej<br/>W Twych cierpieniach<br/>Pozwól udział mieć<br/>Chcę podobnym być, Panie<br/>W śmierci Twej<br/>By nie umrzeć ale z Tobą żyć</lines>
+    </verse>
+  </lyrics>
+</song>

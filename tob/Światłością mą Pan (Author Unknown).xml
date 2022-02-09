@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:05">
+  <properties>
+    <titles>
+      <title>Światłością mą Pan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="228"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Światłością mą Pan i moim zbawieniem,<br/>Więc czegóż się obawiać mam?<br/>Gdyż Pan światłem mym i moim zbawieniem,<br/>Cóż mogło by przerazić mnie?<br/>Pan mocą jest mą! Pan siłą jest mą!<br/>Więc kogóż bym lękać się miał?<br/>Światłością mą Pan i moim zbawieniem,<br/>Więc czegóż mam obawiać się?</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:10">
+  <properties>
+    <titles>
+      <title>Pan Bóg jest moim Pasterzem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pan Bóg jest moim Pasterzem<br/>Nad wody spokojne mnie wiedzie<br/>Na łąkach zielonych mnie pasie<br/>Niczego dziś mi nie braknie<br/>Duszę moją pokrzepiasz<br/>Twa obietnica jest pewna<br/>Bezpieczną mnie drogą prowadzisz<br/>Pocieszasz, gdy smutek na twarzy</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Choćbym szedł ciemną doliną,<br/>Zła się nie ulęknę, to Ty jesteś ze mną.<br/>Choćbym szedł ciemną doliną,<br/>Zła się nie ulęknę, bo Tyś ze mną jest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oliwą mą głowę namaszczasz,<br/>Kielich bez końca napełniasz.<br/>Twa dobroć i łaska<br/>Na wieki już przy mnie są.</lines>
+    </verse>
+  </lyrics>
+</song>

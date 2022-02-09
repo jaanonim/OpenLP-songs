@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:51">
+  <properties>
+    <titles>
+      <title>Dzisiaj w Grodzie Dawidowym</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="402"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dzisiaj w Grodzie Dawidowym niebios się narodził<br/>Pan choć tak nędzny i ubogi, przyniósł nam Królewski<br/>dar! Dar od śmierci wybawienia odkupienia z grzechów,<br/>win, dar miłości, przebaczenia i ofiarę Swojej krwi.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wielki Bóg, nasz Ojciec Pan,<br/>hołd niech będzie Jemu dan. Amen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pierwsi wieść przyjęli błogą biedni pastuszkowie trzód,<br/>gwiazda im wskazała drogę, poszli za nią nocą wbród.<br/>Poszli by odnaleźć Tego, jak aniołów śpiewał chór, co<br/>miał zbawić świat od złego, poszli się pokłonić Mu.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Wielki Bóg, nasz Ojciec Pan,<br/>hołd niech będzie Jemu dan. Amen!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cudna gwiazda ich zawiodła aż za Betlejmu gród,<br/>gdzie stajenka ta uboga stała dla schronienia trzód.<br/>Tam na siacie w małym żłobie, leżał Chrystus Król i Pan<br/>nie w królewskiej On ozdobie światu się pokazać chciał.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Wielki Bóg, nasz Ojciec Pan,<br/>hołd niech będzie Jemu dan. Amen!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O tym narodzeniu chwały anioł dzisiaj głosi też w świecie<br/>ciemnym i zdziczałym, błoga wieść brzmi wzdłuż i wszerz:<br/>Otwórz serce bez zwątpienia, by się w nim narodzić<br/>mógł tak, jak kiedyś w Betleemie Odkupiciel twój i Bóg.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Wielki Bóg, nasz Ojciec Pan,<br/>hołd niech będzie Jemu dan. Amen!</lines>
+    </verse>
+  </lyrics>
+</song>

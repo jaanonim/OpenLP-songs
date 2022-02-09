@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:29">
+  <properties>
+    <titles>
+      <title>Już bez zakonu - o, błogie życie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="268"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Już bez zakonu - o, błogie życie<br/>Jezus wolnością darzy obficie,<br/>On doskonale tu zbawia nas.<br/>Ma moc krew Jego po wszystek czas.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wiecznie wolny! Starte już zło,<br/>Wiecznie wolny! Grzeszny, wierz w to!<br/>Chrystus uwalnia zupełnie nas,<br/>Ma moc krew Jego po wszystek czas.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie ma w Chrystusie już potępienia!<br/>Wszystko, co przyrzekł, w Nim się wypełnia!<br/>Do Mnie przychodźcie! tak woła nas.<br/>Ma moc to słowo po wszystek czas!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O dzieci Boże, wyście wybrane<br/>W szczęściu, w radości żyć tutaj w Panu;<br/>Pełnię zbawienia obierzcie raz,<br/>- Ma moc śmierć Pańska po wszystek czas</lines>
+    </verse>
+  </lyrics>
+</song>

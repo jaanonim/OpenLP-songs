@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:24">
+  <properties>
+    <titles>
+      <title>Oczyść serce me</title>
+      <title>Purify my heart</title>
+    </titles>
+    <authors>
+      <author type="words">Brian Doeksen Ludmiła Rapanowicz</author>
+      <author type="music">Brian Doeksen Ludmiła Rapanowicz</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="470"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oczyść serce me,<br/>chcę jak złoto lśnić<br/>i jak czys te srebro.<br/>Oczyść serce me,<br/>chcę czystego złota<br/>blaskiem lśnić.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oczyść serce me, obmyj swoją krwią<br/>spraw, bym mógł być święty.<br/>Oczyść serce me<br/>z najtajniejszych grzechów<br/>oczyść je.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Zstąp ogniu zstąp,<br/>przyjdź oczyść serce me.<br/>Pragnę być święty, Tobie oddany Panie.<br/>Chcę zawsze być święty,<br/>Tobie, mój mistrzu na zawsze oddany,<br/>gotów by służyć Ci.</lines>
+    </verse>
+  </lyrics>
+</song>

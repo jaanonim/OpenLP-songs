@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:53">
+  <properties>
+    <titles>
+      <title>Spojrzyj do oczu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="447"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Spojrzyj do oczu, spojrzyj Jezusowi!<br/>Raz choć się przyjrzyj tej zbolałej twarzy!<br/>Tak umęczona, ale się nie skarży, ach,<br/>jakiż język boleść tę wysłowi?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Spojrzyj, o, spojrzyj na koronę z cierni,<br/>którą za grzechy two&lt;je Mu wtłoczono.<br/>Byle twa dusza była wybawiona nie<br/>bronił się, gdy lżyli Go niewierni.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Odsłoń też nieco purpurowej szaty!<br/>Spojrzyj, ach, cały zbity, pośmiały;<br/>Twoje to grzechy tak Go zbiczowały,<br/>w boleśli twoje Pan jest tak bogaty!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Spójrz, jaki smutek w oczach ma wyryty<br/>potem zapytaj, co Go więcej pali, czy<br/>wstyd, że nawet suknię<br/>Mu zabrali, czy nogi, ręce i ten bok przebity?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A On ci powie: ,,Mnie najwięcej boli,<br/>żeś ty przez grzechy własne tak zhańbiony,<br/>że nie chcesz do Mnie wrócić, zaślepiony,<br/>chociaż tak pragnę wyrwać cię z niedoli".</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Spójrz Jezusowi, spojrzyj dobrze w oczy!<br/>Powiedz, dlaczegóż nie chcesz się nawrócić?<br/>Czemuż to nie chcesz więzów swych porzucić?<br/>Za późno będzie, gdy cię śmierć zaskoczy.</lines>
+    </verse>
+  </lyrics>
+</song>

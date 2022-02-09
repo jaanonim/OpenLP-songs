@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:04">
+  <properties>
+    <titles>
+      <title>Świat nie jest domem mym</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="196"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Świat nie jest domem mym,<br/>Jam tu przechodniem jest.<br/>Me skarby w niebie są,<br/>Nie w tej dolinie łez.<br/>Do siebie, tam do gwiazd,<br/>Anieli wabią mnie.<br/>Chciałbym stąd wyrwać się,<br/>Obcym tu czuję się!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, Panie, wiesz, ten świat jest obcym mi.<br/>Gdzież pójdę jeśli Ty przede mną zamkniesz drzwi?<br/>Świat nie jest domem mym,<br/>Blask nieba wabi mnie<br/>Chciałbym stąd wyrwać się,<br/>Obcym tu czuję się!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Już tylu bliskich mych<br/>Na drugi przeszło brzeg,<br/>Czekają na mnie tam,<br/>Gdy ziemski skończę bieg.<br/>Już uchylili drzwi<br/>Wołają także mnie,<br/>Chciałbym stąd wyrwać się,<br/>Obcym tu czuję się.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>W chwalebnym kraju tym<br/>Będziemy wiecznie żyć<br/>Z żywota drzewa jeść<br/>Ze źródła życia pić.<br/>Tam uwielbienia pieśń<br/>Z ust wszystkich wzniesie się,<br/>Chciałbym stąd wyrwać się<br/>Obcym tu czuję się.</lines>
+    </verse>
+  </lyrics>
+</song>

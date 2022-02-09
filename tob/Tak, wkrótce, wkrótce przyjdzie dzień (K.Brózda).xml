@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:48">
+  <properties>
+    <titles>
+      <title>Tak, wkrótce, wkrótce przyjdzie dzień</title>
+    </titles>
+    <authors>
+      <author type="words">K.Brózda</author>
+      <author type="music">K.Brózda</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="558"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tak, wkrótce, wkrótce przyjdzie dzień<br/>Chwał pełen i radosnych pień.<br/>Ten, który był za Zbawcę dan,<br/>Wnet przyjdzie jako Pan.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>On przyjdzie jak królów Król,<br/>Wnet zniknie wszelki tród i ból.<br/>O, alleluja! - śpiew mój brzmi,<br/>Bo blisko są te dni.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czuwajcie, wszyscy wierni, wciąż<br/>I stańcie wraz, jak jeden mąż!<br/>By w bratniej wciąż miłości trwać<br/>I odpór diabłu dać.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy Boża miłość będzie w nas,<br/>Zwycięsko przejdziem w każdy czas,<br/>I witać Pana możem iść,<br/>Choć przyszedłby już dziś.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kto zło zwycięży i wśród mąk,<br/>Koronę przyjmie z Pańskich rąk,<br/>Królować będzie z Panem On<br/>I wielbić łaski tron.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Cześć, chwała Barankowi wciąż,<br/>Że w Jego krwi zbawienie dusz;<br/>To łaska, która chwałą lśni. -<br/>O blisko są te dni!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O, ludu Pański, w wieże stój,<br/>By przejść zwycięsko poprzez bój;<br/>W moc Bożą całkiem uzbrój się,<br/>By móc pieśń śpiewać tę:</lines>
+    </verse>
+  </lyrics>
+</song>

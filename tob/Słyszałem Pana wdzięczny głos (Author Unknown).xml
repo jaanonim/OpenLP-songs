@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:35">
+  <properties>
+    <titles>
+      <title>Słyszałem Pana wdzięczny głos</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="104"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Słyszałem Pana wdzięczny głos:<br/>„Pójdź do Mnie, serce młode.<br/>Bierz jarzmo Moje na się rad,<br/>tu odpocznienie Twe!"<br/>Poszedłem takim, jakim był,<br/>zemdlony, chory, mdły.<br/>Pokoju On mi z łaski Swej,<br/>z dobroci doznać dał.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Słyszałem Pana wdzięczny głos:<br/>„Dam pragnącemu pić.<br/>Ja ubogiemu darmo dam wód żywych,<br/>by mógł żyć". Poszedłem Doń,<br/>a piłem tam, chłodziłem duszę swą.<br/>Krynica święta sili mię.<br/>Już żyję Zbawcy krwią.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Słyszałem Pana wdzięczny głos:<br/>„Oświecam cały świat;<br/>z ciemności do Mnie oko wznieś,<br/>nie dozna dusza strat!" Spojrzałem,<br/>a olśniewa mię tej zorzy cudny blask.<br/>W światłości Jego żyję tu,<br/>wciąż czerpiąc z Jego łask</lines>
+    </verse>
+  </lyrics>
+</song>

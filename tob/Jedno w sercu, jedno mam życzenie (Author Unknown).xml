@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:29">
+  <properties>
+    <titles>
+      <title>Jedno w sercu, jedno mam życzenie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="265"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jedno w sercu, jedno mam życzenie,<br/>Jedną strawą żyję wciąż;<br/>Życie w łez padole błogo płynie,<br/>Kiedy z nami kroczy Mąż,<br/>Który grozą śmierci otoczony,<br/>Krwawym potem zlany, pohańbiony,<br/>Pod ciężarem krzyża kląkł<br/>I wychylił kielich mąk,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wiecznie w sercu, wiecznie jest wyryty<br/>Cichej twarzy Jego rys,<br/>Jak pobladły, cały krwią okryty<br/>Tam na drzewie krzyża zwisł;<br/>Jakie o mą duszę staczał boje,<br/>By w stadeczko mógł ją włączyć Swoje,<br/>Jak na myśli miał i mnie,<br/>Kiedy rzekł: ,Spełniło się!"</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezu, niechaj dusza ma pamięta,<br/>Żeś nędznemu łaskę dał!<br/>Gdy mię grzechów zniewalały pęta,<br/>Tyś cierpliwość ze mną miał.<br/>Ustawicznie owcy Swej szukałeś,<br/>Głosem Swym pasterskim ją wołałeś,<br/>Wreszcie krwią przedrogą Sam<br/>Z piekieł ją wyrwałeś bram.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jestem Twój!<br/>- O stwierdź to słowy Swymi,<br/>Drogi Jezu, - Tyś jest mój!<br/>Imię Swe głoskami ognistymi<br/>W serce me głęboko wpój!<br/>Z Tobą grzechy swoje w grób położyć,<br/>Do świętego dzieła z Tobą ożyć<br/>- Naszym hasłem w każdy dzień<br/>Do ostatnich życia tchnień.</lines>
+    </verse>
+  </lyrics>
+</song>

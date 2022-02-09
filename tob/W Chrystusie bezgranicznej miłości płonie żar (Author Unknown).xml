@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:56">
+  <properties>
+    <titles>
+      <title>W Chrystusie bezgranicznej miłości płonie żar</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="746"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W Chrystusie bezgranicznej miłości płonie żar.<br/>W Nim deszcze manny wiecznej,<br/>W Nim przebaczenia dar.<br/>W Nim serca ukojenie,<br/>W Nim życia źródło mam,<br/>W Nim moje wybawienie,<br/>Więc Jemu chwalę dam,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Tak w Nim /x2<br/>Ten cud Bożej łaski znajdę tylko w Nim,<br/>/ Tak w Nim, /x2<br/>Tak, pełnia życia w Nim.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W Nim odpoczywa dusza;<br/>Brak sił, bym pojąć mógł.<br/>Jak słodką moc pokoju<br/>U Jego znajdę nóg.<br/>Z radości śpiewam Jemu<br/>Gdyż skrzydeł Jego cień<br/>Od skwaru mnie osłania<br/>W pielgrzymce każdy dzień</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy kiedyś dasz oglądać<br/>Mi, Panie, Swoją twarz,<br/>Cóż więcej mogę żądać,<br/>Cóż więcej nadto dasz?...<br/>Za wszystkie Twe dobroci<br/>Tam złożę wieniec chwał;<br/>Tak, Tobie - coś od śmierci<br/>Mnie zbawił, życie dał.</lines>
+    </verse>
+  </lyrics>
+</song>

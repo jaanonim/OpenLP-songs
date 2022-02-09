@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:44">
+  <properties>
+    <titles>
+      <title>Boże oświeć nas! Błagamy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="674"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boże oświeć nas! Błagamy,<br/>Ducha Twego pożądamy;<br/>Treść nam objaw Swego słowa,<br/>Niech nas w prawdzie Twej zachowa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Natchnij tych, co nauczają,<br/>Oświeć wszystkich, co słuchają;<br/>Naucz nas Twej woli Panie,<br/>Niechaj ona w nas się stanie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Byśmy w wierze utwierdzeni<br/>I od grzechów uwolnieni,<br/>W prawdzie i w sprawiedliwości<br/>Żyli tutaj i w wieczności.</lines>
+    </verse>
+  </lyrics>
+</song>

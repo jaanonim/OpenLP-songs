@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:00">
+  <properties>
+    <titles>
+      <title>Nie lękaj się nie, Za ciebie Pan zmarł</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="779"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie lękaj się nie, Za ciebie Pan zmarł,<br/>I z grobu też wstał, A tak moc śmierci starł.<br/>On ma wszelką moc Na niebie i tu,<br/>On wszystko ci da, Tylko wciąż ufaj Mu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Tylko Mu wierz, tylko Mu wierz,<br/>Wszystko tak łatwym jest, tylko Mu wierz! /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie lękaj się, nie! Bo On idzie w przód.<br/>Ten Pasterz cię wciąż Do Swych pasz będzie wiódł.<br/>On z żywych ci wód Naczerpać da sił,<br/>Wszak z łaski, wśród mąk, Twoich win kielich pił.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nie lękaj się, nie! Cokolwiek ci śle,<br/>On wspiera cię wciąż, Drzwi otwiera ci Swe.<br/>On wierny jest Wódz, W Nim mocną masz broń,<br/>Czy w nocy, czy w dzień, Ty uciekaj się Doń.</lines>
+    </verse>
+  </lyrics>
+</song>

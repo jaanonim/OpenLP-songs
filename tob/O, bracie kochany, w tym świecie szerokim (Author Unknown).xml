@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:55">
+  <properties>
+    <titles>
+      <title>O, bracie kochany, w tym świecie szerokim</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="711"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, bracie kochany, w tym świecie szerokim<br/>Zbląkanyś w ciemności i nie wiesz, gdzie iść,<br/>/ I zgasł już dla ciebie promyczek światłości,<br/>Nie widzisz wszak prawdy i brak ci już sił. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niewiarą i grzechem zakuty w kajdany,<br/>Już nic cię nie cieszy, pokoju ci brak,<br/>/ A złość tego świata przygniata twą duszę,<br/>Narzekasz i szemrzesz na życie i świat. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lecz spójrz na Golgotę, za ciebie nędznego<br/>Umierał twój Zbawca, by pokój ci dać.<br/>/ On łaską Swą zbawił i ciebie grzesznego,<br/>I Tobie Swą miłość do duszy chce wlać /x2</lines>
+    </verse>
+  </lyrics>
+</song>

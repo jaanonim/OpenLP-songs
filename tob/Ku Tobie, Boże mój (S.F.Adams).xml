@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:40">
+  <properties>
+    <titles>
+      <title>Ku Tobie, Boże mój</title>
+    </titles>
+    <authors>
+      <author type="words">S.F.Adams</author>
+      <author type="music">S.F.Adams</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="448"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ku Tobie, Boże mój, Ku Tobie wzwyż!<br/>Przez ciężki życia znój, przez trud i krzyż.<br/>Choć mi wśród życia dróg zagładą grozi wróg,<br/>Ku Tobie, Boże mój, Ku Tobie wzwyż!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Choć mi w pielgrzymki czas i w ciemną noc<br/>Za łoże twardy głaz da złości moc,<br/>Spocznę tam błogim snem, Wszak zawsze<br/>Hasłem mym: Ku Tobie, Boże mój,<br/>Ku Tobie wzwyż!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Choć stromą drogą Bóg do raju wrót<br/>Prowadzi pośród trwóg Swój wierny lud,<br/>Lecz w górze pieśń tam brzmi Ku Twojej,<br/>Zbawco czci. Ku Tobie, Boże mój,<br/>Ku Tobie wzwyż!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nastanie wkrótce dzień Radości, łask.<br/>Rozproszy nocy cień Wnet słońca blask.<br/>I ujrzę smutku, łez już ostateczny kres;<br/>Lu Tobie, Boże mój, Ku Tobie wzwyż!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Choć drogę kryje mrok, choć ciężki skon,<br/>Kieruję duszy wzrok przed Ojca tron.<br/>Zwycięstwa nucę psalm i niosę pęki palm.<br/>Ku Tobie, Boże mój, Ku Tobie wzwyż!</lines>
+    </verse>
+  </lyrics>
+</song>

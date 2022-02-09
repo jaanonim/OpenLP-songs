@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:50">
+  <properties>
+    <titles>
+      <title>O, wąska droga ta</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="613"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, wąska droga ta;<br/>„Jam drogą Sam!"<br/>I jedne tylko drzwi:<br/>„Jam drzwiami Sam!"<br/>Jest jeden pasterz<br/>- Pan Błądzących chorych rzesz,<br/>Baranek jeden zmarł<br/>Za świata grzech.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, wąski jest ten szlak: „Jam drogą Sam!<br/>I jedne tylko drzwi: „Jam drzwiami Sam!"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jest jeden święty zbór,<br/>Złączony z Nim<br/>Co w mocy Ducha trwa<br/>W tym świecie złym.<br/>I jedna droga dłoń,<br/>Co wiedzie w Ojca włość<br/>Tę małą garstkę serc<br/>Przez hańbę, złość.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, patrz, za ciebie to<br/>Zmarł z Judy Lew,<br/>Na krzyżu pośród mąk<br/>Swą przelał krew.<br/>W Jezusa ranach ty<br/>Pokoju znajdziesz zdrój,<br/>Więc spiesznie idź już Doń:<br/>To Zbawca twój.</lines>
+    </verse>
+  </lyrics>
+</song>

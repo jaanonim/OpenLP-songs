@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:33">
+  <properties>
+    <titles>
+      <title>Zjednoczeni w Duchu</title>
+    </titles>
+    <authors>
+      <author type="words">Peter Scholtes</author>
+      <author type="music">Peter Scholtes</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="786"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zjednoczeni w Duchu, zjednoczeni w Nim<br/>Zjednoczeni w Duchu, zjednoczeni w Nim<br/>módlmy się aby jedność była odnowiona w nas,<br/>aby świat cały poznał uczniów Chrystusa w nas.<br/>Aby świat cały ujrzał miłość w nas.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>// Wraz z innymi pójdziemy,<br/>podaj mi swoją dłoń. //  (2x)<br/>Wszystkim głosić będziemy<br/>tę radosną dla nas wieść,<br/>że nasz Pan kroczy z nami,<br/>że nasz Pan z nami jest,<br/>że nasz Pan zawsze z nami<br/>wszędzie jest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>// Chcemy razem pracować,<br/>chcemy złączyć swój trud. // (2x)<br/>By nie stracić godności,<br/>którą Pan obdarzył nas,<br/>Aby strzec ludzką dumę,<br/>aby strzec dumę swą,<br/>aby człowiek zachował godność swą.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>// Niechaj Chwała brzmi Ojcu,<br/>który stworzył ten świat. // (2x)<br/>Chwała też Chrystusowi,<br/>który Synem jego jest<br/>i Duchowi też Chwała,<br/>który jednoczy nas<br/>i Duchowi też, który łączy nas.</lines>
+    </verse>
+  </lyrics>
+</song>

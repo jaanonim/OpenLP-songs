@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:01">
+  <properties>
+    <titles>
+      <title>Prowadzimy tu życie tułacze</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="818"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Prowadzimy tu życie tułacze,<br/>Hen tam w górze pozostał nasz kraj;<br/>/ Nie raz serce z goryczy zapłacze,<br/>Kiedy smutkiem szeleści tu gaj. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Myśli dążą w kierunku Ojczyzny,<br/>Którą rządzi i włada nasz Bóg.<br/>/ My wołamy z tej grzesznej obczyzny:<br/>„Boże, przyjmij nas<br/>w niebieski Twój próg" /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chcemy wrócić na łono Ojcowskie<br/>Poprzez gromu nawalność i burz,<br/>/ Z hartem ducha i z sercem już czystym,<br/>Pan powita z radością nas już! /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nie zapomnij, iż Jezus twój Zbawca,<br/>Z martwych powstał i w nieba próg wszedł.<br/>/ Od ucisku On ciebie zachowa<br/>I uchroni od wszelkich twych bied /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>W ciężkiej chwili, mój bracie, nie zwątpij,<br/>Na swój los nie narzekaj lecz służ!<br/>/ Wszystko może cię w życiu twym spotkać<br/>Lecz na Zbawcę brzemiona swe złóż! /x2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Krótkie życie nam dane na świecie,<br/>A więc walczmy, wszak pełno tu zła;<br/>/ Wnet już skończy się czas tej pielgrzymki,<br/>Wieniec chwały Pan wiernym Swym da. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

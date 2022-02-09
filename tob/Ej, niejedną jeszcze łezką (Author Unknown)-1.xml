@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:46">
+  <properties>
+    <titles>
+      <title>Ej, niejedną jeszcze łezką</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="518"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ej, niejedną jeszcze łezką<br/>Dziecię Boże zrosi twarz,<br/>/ Nim zaświta wieczne rano. /x2<br/>I syjońską olśni straż.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ej, niejedną jeszcze krzywdę<br/>Będzie trzeba cicho znieść,<br/>/ Nim się będzie mogło z Panem /x2<br/>Do krainy rajskiej wznieść.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ej, niejedna cierpka chwila<br/>I zawodów ostry ton<br/>/ Jęknie v/ duszy, nim uderzy /x2<br/>W niebie triumfalny dzwon.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ale potem, co za radość,<br/>Co za chwała będzie to,<br/>/ Gdy do domu Jezus wzniesie /x2<br/>Z kraju łez dziecinę Swą!</lines>
+    </verse>
+  </lyrics>
+</song>

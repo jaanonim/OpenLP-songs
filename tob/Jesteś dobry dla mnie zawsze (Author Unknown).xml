@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:07">
+  <properties>
+    <titles>
+      <title>Jesteś dobry dla mnie zawsze</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Jesteś dobry dla mnie zawsze<br/>Twoja łaska wiecznie trwa</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Zawsze wierny byłeś mi<br/>Kiedy zawodziłem ja<br/>Niepojęty w miłości swej<br/>Dobrze jest z Tobą być<br/>Darowałeś życie mi<br/>Zabrałeś winę mą i grzech<br/>Nikt nie kocha tak, jak Ty<br/>Dałeś życie swe</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ponad wszystko jesteś Ty<br/>Jednak sługą stałeś się<br/>Słyszysz każdy płacz i szept<br/>Miłosierny mój Pan<br/>Przed świętością Twoją drżę<br/>Spraw bym czyste serce miał<br/>Wobec świata chcę kochać Cię<br/>Dawać miłość swą</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:24">
+  <properties>
+    <titles>
+      <title>Masz Jezusa, serca pokój</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="151"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Masz Jezusa, serca pokój,<br/>Duszo droga, mów, czy masz?<br/>Czy masz Zbawcę, który przyszedł,<br/>Aby zbawić wszystkich nas?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Masz Jezusa? pytam się,<br/>Patrz, Zbawiciel kocha cię! /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Masz Jezusa, w sercu radość?<br/>Czy zbawienia pewnyś ty?<br/>Masz Jezusa, to w cierpieniu<br/>Wszelka gorzkość słodką ci.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Masz Jezusa, z Boga życie,<br/>Które trwa na wieki już?<br/>Czy masz Zbawcę, co Mu dana<br/>Chwała, cześć, królestwo dusz?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Masz Jezusa, masz-li pokój,<br/>Wtenczas chwal Go aż po zgon!<br/>Gdy masz Zbawcę, niech w twym sercu<br/>Władnie zawsze tylko On.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:33">
+  <properties>
+    <titles>
+      <title>Zmartwychwstał Pan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="788"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Zmartwychwstał Pan<br/>Zmartwychwstał Pan<br/>Zmartwychwstał Pan<br/>Alleluja.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>O śmierci, gdzie jesteś o śmierci,<br/>gdzie jest moja śmierć,<br/>gdzie jest jej zwycięstwo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Radujmy się, radujmy się bracia.<br/>jeśli dzisiaj się miłujemy,<br/>to dlatego, że On zmartwychwstał.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dzięki niech będą Ojcu,<br/>który nas prowadzi do Królestwa,<br/>gdzie się miłością żyje.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jeśli z Nim umieramy<br/>z Nim też żyć będziemy,<br/>z Nim śpiewać będziemy,<br/>Alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

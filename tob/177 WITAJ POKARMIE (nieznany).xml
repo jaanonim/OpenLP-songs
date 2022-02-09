@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:46">
+  <properties>
+    <titles>
+      <title>177 WITAJ POKARMIE</title>
+    </titles>
+    <authors>
+      <author>nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1. Witaj pokarmie w którym niezmierzony<br/>Nieba i ziemie Twórca jest zamkniony<br/>Witaj napoju zupełnie gaszący<br/>Umysł pragnący</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Witaj krynico wszystkiego dobrego<br/>Gdy bowiem w sobie masz Boga samego<br/>Znasz ludziom wszystkie jego wszechmocności<br/>Niesiesz godności</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Witaj z niebiosów manno padająca<br/>Rozkoszny w sercu naszym smak czyniąca<br/>Wszystko na świecie co jedno smakuje<br/>W tym się najduje</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Witaj rozkoszne z ogrodu rajskiego<br/>Drzewo owocu pełne żywiącego<br/>Kto cię skosztuje śmierci się nie boi<br/>Choć nad nim stoi</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>5. Witaj jedyna serc ludzkich radości<br/>Witaj strapionych wszelka łaskawości<br/>Ciebie dziś moje łzy słodkie szukają<br/>K' Tobie wołają</lines>
+    </verse>
+  </lyrics>
+</song>

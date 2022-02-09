@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:52">
+  <properties>
+    <titles>
+      <title>Oto przychodzę rychło</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oto przychodzę rychło,<br/>Oto przychodzę rychło.<br/>Oto przychodzę rychło!<br/>Amen, Amen, Amen, przychodzę rychło.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A kto usłyszy niech rzecze,<br/>A kto usłyszy niech rzecze,<br/>A kto usłyszy niech rzecze;<br/>Amen, Amen, Amen, niech rzecze Amen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amen, o, przyjdź Panie Jezu,<br/>Amen, o, przyjdź Panie Jezu, Amen,<br/>o, przyjdź Panie Jezu,<br/>Amen, Amen, Amen, o, przyjdź Panie Jezu!</lines>
+    </verse>
+  </lyrics>
+</song>

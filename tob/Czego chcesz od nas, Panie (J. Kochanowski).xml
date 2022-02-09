@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:17">
+  <properties>
+    <titles>
+      <title>Czego chcesz od nas, Panie</title>
+    </titles>
+    <authors>
+      <author type="words">J. Kochanowski</author>
+      <author type="music">J. Kochanowski</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="10"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czego chcesz od nas, Panie,<br/>Za Twe hojne dary?<br/>Czego za dobrodziejstwa,<br/>Którym nie masz miary?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kościół cię nie ogarnie,<br/>Wszędy pełno Ciebie,<br/>I w morzu, i w otchłaniach,<br/>Na ziemi, na niebie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Złota też, wiem, nie pragniesz,<br/>Bo to wszystko Twoje,<br/>Cokolwiek na tym świecie<br/>Człowiek mieni swoje.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wdzięcznym Cię wtedy sercem,<br/>Panie, wyznajemy,<br/>Bo nad to przystojniejszej<br/>Ofiary nie mamy.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Na wieki bądź pochwalon,<br/>Nieśmiertelny Panie!<br/>Twa łaska, Twoja dobroć<br/>Nigdy nie ustanie.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Chowaj nas, póki raczysz,<br/>Na tej niskiej ziemi,<br/>Tylko niech zawsze będziem<br/>Pod skrzydłami Twymi.</lines>
+    </verse>
+  </lyrics>
+</song>

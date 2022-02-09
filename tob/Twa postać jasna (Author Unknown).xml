@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:45">
+  <properties>
+    <titles>
+      <title>Twa postać jasna</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="298"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Twa postać jasna staje przed sercem w noc i w dzień<br/>i pytać nie przestaje, czy wstąpić może weń</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mój Boże, już ja wolę stanowczo Twoim być,<br/>dokądże bym w padole mógł uciec i się skryć?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Znikają tu rozkosze, jak bańki z wodnych pian,<br/>nad wszystko to przenoszę, co z krzyża daje Pan.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jak często narzekałem, gdy szatan serce starł,<br/>dziś wolnym, gdyż poznałem Twej wielkiej łaski dar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We dnie i w nocy, Panie, Twej twarzy widzę rys,<br/>niech dusza ma powstanie, by grzechu urok prysł.</lines>
+    </verse>
+  </lyrics>
+</song>

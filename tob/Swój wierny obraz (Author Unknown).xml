@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:40">
+  <properties>
+    <titles>
+      <title>Swój wierny obraz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="199"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Swój wierny obraz, Panie, głęboko w duszę wpój,<br/>bym wyznać mógł z radością, że kształt przyjąłem Twój.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I święte imię Twoje na czoło moje wpisz,<br/>by każdy ze mnie poznał, jak Swoich wiernych czcisz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A wtedy się odbije w mym życiu obraz Twój<br/>i w sercu mym wytryśnie wiecznego życia zdrój.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Choć serce się rozbije w kawałki, w drobnY pył.<br/>to jednak i w kawałkach Twój obraz będzie lśnił.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Swój wierny obraz, Panie, głęboko w serce wpisz,<br/>o, niechaj mi zabłyśnie jasnością nieba krzyż!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:29">
+  <properties>
+    <titles>
+      <title>Z mych tysięcy godzin życia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="251"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z mych tysięcy godzin życia,<br/>W których słońce mi przyświeca,<br/>Tylko jedną cudną mam:<br/>Jedną, w której Tyś mi, Panie,<br/>Swe okazał zlitowanie,<br/>/ 0dkąd Ciebie, Jezu, znam. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdyby miłość tę poznali,<br/>Wszyscy by Cię pokochali,<br/>Wszyscy ludzie ziemi tej,<br/>I w promiennym szczęścia blasku<br/>Twoją by odżyli łaską,<br/>/ Już by zeszli z drogi złej. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

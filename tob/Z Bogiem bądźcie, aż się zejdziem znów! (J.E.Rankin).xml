@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:51">
+  <properties>
+    <titles>
+      <title>Z Bogiem bądźcie, aż się zejdziem znów!</title>
+    </titles>
+    <authors>
+      <author type="words">J.E.Rankin</author>
+      <author type="music">J.E.Rankin</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="623"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z Bogiem bądźcie, aż się zejdziem znów!<br/>Radą Swą niech On was wodzi,<br/>Jako trzódkę was ogrodzi, -<br/>Z Bogiem bądźcie, aż się zejdziem znów!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Aż się znów, zejdziem znów,<br/>Aż zejdziemy się u Zbawcy stóp.<br/>Aż się znów, zejdziem znów,<br/>Z Bogiem bądźcie, aż się zejdziem znów.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Z Bogiem bądźcie, aż się zejdziem znów!<br/>Niech skrzydłami was przykrywa,<br/>Niech na niczym wam nie zbywa,<br/>Z Bogiem bądźcie, aż się zejdziem znów!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z Bogiem bądźcie, aż się zejdziem znów!<br/>Wśród burzliwych życia toni<br/>Jego ramię was ochroni, -<br/>Z Bogiem bądźcie, aż się zejdziem znów!</lines>
+    </verse>
+  </lyrics>
+</song>

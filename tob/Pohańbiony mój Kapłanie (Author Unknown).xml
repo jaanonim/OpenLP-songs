@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:36">
+  <properties>
+    <titles>
+      <title>Pohańbiony mój Kapłanie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="355"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pohańbiony mój Kapłanie,<br/>Coś na krzyżu zwisł i zbladł,<br/>Twe mię dźwiga zmiłowanie,<br/>Chociem tak głęboko padł.<br/>Zajaśniały szczęściem lica,<br/>Odkąd Tyś mój Bóg i Pan,<br/>Odkąd moja śmie kotwica<br/>Spocząć w głębi Twoich ran.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Co wstrzymuje i przeszkadza<br/>W drodze po wytknięty cel,<br/>Co miłości żar ochładza,<br/>To pod stopy Swoje ściel!<br/>Co z obłudą Judaszową<br/>Chce do serca wpełznąć mi,<br/>Niechaj umrze; prawdy słowo<br/>Niechaj w duszy mojej lśni.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pomóż, Panie, w każdej chwili<br/>Bym na wodzy myśli miał.<br/>Daj mi trzeźwość, co nie myli,<br/>Daj bym w gorliwości trwał,<br/>Niechże chodzę uwolniony,<br/>Odrzuciwszy świata kłam;<br/>Niepoznany, znieważony,<br/>Jednak rad, że Ciebie znam.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Literami ognistymi<br/>W pamięć moją, Panie, wpisz,<br/>że uczniami ci są Twymi,<br/>Co cierpliwie niosą krzyż,<br/>Co dla Ciebie się zrzekają Tego,<br/>Co najdroższe im,<br/>Ciebie wiernie się trzymają<br/>Wielbiąc Cię w cierpieniu swym.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pierwszą Tyś miłością moją<br/>Zostać też ostatnią masz;<br/>Więc bolesną śmiercią Swoją<br/>Wszystkie inne żądze zgaś!<br/>W Twej piękności, wielki Panie,<br/>Zniknie mi, zmaleje świat,<br/>Pohańbiony mój Kapłanie,<br/>Coś na krzyżu zwisł i zbladł!</lines>
+    </verse>
+  </lyrics>
+</song>

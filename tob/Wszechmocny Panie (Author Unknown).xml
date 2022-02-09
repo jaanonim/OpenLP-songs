@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:30">
+  <properties>
+    <titles>
+      <title>Wszechmocny Panie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="22"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wszechmocny Panie, wiekuisty Boże,<br/>któż się Twym sprawom wydziwować może?<br/>Kto rozumowi, którym niezmierzony świat ten stworzony?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdziekolwiek słońce śle promienie swoje,<br/>wszędy jest głośne święte imię Twoje.<br/>Ogarnąć niebo sławy Twej nie może, o, wielki Boże.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A człowiek czym jest, że Ty niestworzony Twórca wszystkiego<br/>i Pan niezmierzony raczysz nań wspomnieć?<br/>Skąd to syn człowieczy godzien Twej pieczy?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tyś go nad ziemskie raczył wznieść istoty,<br/>piękne umysłu dając mu przymioty.<br/>Tyś go uczynił panem nad wszystkimi twory Swoimi.</lines>
+    </verse>
+  </lyrics>
+</song>

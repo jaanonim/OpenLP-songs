@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:52">
+  <properties>
+    <titles>
+      <title>Wśród doczesności</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="438"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wśród doczesności tego świata podążasz w<br/>wieczność z każdym dniem, a życie szybko ci ulata,<br/>ukołysane grzechu snem, i tak przemija życie twe.<br/>// Któż prawdzie tej zaprzeczyć śmie? // .</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W zmiennościach losów, wśród skażenia,<br/>przy grobach, gdzie spoczywa lud,<br/>Ty słyszysz chrześcijan wdzięczne pienie<br/>o zmartwychwstaniu to jest cud,<br/>gdyż Jezus Chrystus zmartwychwstał<br/>// I nam nadzieję życia dał // .</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zrzuć grzechu jarzmo, uchwyć życie,<br/>to Boży dar, to łaski dar, niezmienny,<br/>wieczny - całkowicie uchroni cię od<br/>ciężkich kar, a gdy przestąpisz życia próg,<br/>// W wieczności spotka cię twój Bóg // .</lines>
+    </verse>
+  </lyrics>
+</song>

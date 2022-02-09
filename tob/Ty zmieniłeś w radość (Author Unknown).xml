@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:56">
+  <properties>
+    <titles>
+      <title>Ty zmieniłeś w radość</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="40"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ty zmieniłeś w radość wielką skargę i płacz,<br/>Zdjąłeś mój pokutny wór.<br/>Ty zmieniłeś w radość wielką skargę i płacz,<br/>Odziałeś mnie radością.<br/>Aby dusza moja chwałę śpiewała ci,<br/>I nie zamilkła.<br/>Panie, Boże mój,<br/>Już będę Ciebie wysławiać wiecznie.</lines>
+    </verse>
+  </lyrics>
+</song>

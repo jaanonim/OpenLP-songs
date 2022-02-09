@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:52">
+  <properties>
+    <titles>
+      <title>O Golgoto</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="436"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Golgoto, w ciszy twej<br/>Duch mój rad przebywa,<br/>gdzie cudowny płynie zdrój,<br/>wszelkie winy zmywa.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pieśni czci wznoszę Ci,<br/>Święty Boży Synu,<br/>niechaj Tobie dzięki me<br/>poprzez wieki płyną!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Z Twego krzyża płyną mi<br/>nowe światła zorze, dozwól,<br/>Panie, wgłębiać się w<br/>Twej miłości morze.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Pieśni czci wznoszę Ci,<br/>Święty Boży Synu,<br/>niechaj Tobie dzięki me<br/>poprzez wieki płyną!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Odkąd tam na krzyżu Cię<br/>zahaczyłem wiarą,<br/>wiem, żeś Ty jedyną jest<br/>za mój grzech ofiarą.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Pieśni czci wznoszę Ci,<br/>Święty Boży Synu,<br/>niechaj Tobie dzięki me<br/>poprzez wieki płyną!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>W świetle Twoim chodzę<br/>już, ufam Tobie stale,<br/>aż Cię kiedyś twarzą w<br/>twarz ujrzę w Twojej chwale.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Pieśni czci wznoszę Ci,<br/>Święty Boży Synu,<br/>niechaj Tobie dzięki me<br/>poprzez wieki płyną!</lines>
+    </verse>
+  </lyrics>
+</song>

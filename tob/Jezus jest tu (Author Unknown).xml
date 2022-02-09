@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:11">
+  <properties>
+    <titles>
+      <title>Jezus jest tu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="130"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus jest tu,<br/>Jezus jest tu,<br/>O, wznieśmy ręce chwaląc<br/>Jego Imię!<br/>Jezus jest tu!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bóg jest wśród nas,<br/>Bóg jest wśród nas!<br/>O, wznieśmy ręce chwaląc<br/>Jego Imię!<br/>Bóg jest wśród nas!</lines>
+    </verse>
+  </lyrics>
+</song>

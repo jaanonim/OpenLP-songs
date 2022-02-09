@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:30">
+  <properties>
+    <titles>
+      <title>Póki mego życia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="529"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Póki mego życia Panu śpiewać chcę,<br/>grać memu Bogu, póki życia starczy mi.<br/>Niech miła Ci będzie Panie moja pieśń,<br/>będę radował się w Panu Bogu mym.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Błogosław duszo moja Panu, Alleluja Alleluja,<br/>Błogosław duszo moja Panu, Alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

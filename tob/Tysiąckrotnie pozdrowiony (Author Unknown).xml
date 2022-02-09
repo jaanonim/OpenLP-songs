@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:19">
+  <properties>
+    <titles>
+      <title>Tysiąckrotnie pozdrowiony</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="55"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tysiąckrotnie pozdrowiony<br/>Bądź mi, Jezu Zbawco mój,<br/>Któryś za mnie umęczony<br/>Znosił krwawych cierpień znój.<br/>Jakaż błogość w sercu mym,<br/>Gdy pod krzyżem klękam Twym,<br/>Gdzie Ty z śmiercią bój stoczyłeś<br/>I o duszę mą walczyłeś.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uzdrów mnie, Lekarzu duszy,<br/>Ulecz, co schorzałe, mdłe,<br/>Zdejmij boleść, co mnie. kruszy,<br/>Wszelką szkodę, wszystko złe,<br/>Com z Adama grzechu wziął<br/>I zawinił pychą swą.<br/>Gdy mię krwią Swą skropisz, Panie,<br/>Wszelka nędza ma ustanie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wyryj krwawe rany Twoje,<br/>Zbawicielu, w sercu mym,<br/>Bym przez całe życie moje<br/>Miał je przed obliczem swym.<br/>Tyś największe dobro me,<br/>Do którego serce lgnie.<br/>Szczęśliw, gdy u stóp Twych stoję<br/>I Twą laską duszę poję.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Całym żarem duszy tulę<br/>Do mych piersi nogi Twe;<br/>W twarzy, patrz, wyryte bóle,<br/>A od modłów ręce mdłe.<br/>Promień łaski w duszę wlej,<br/>Z wyżyn krzyża objaw jej:<br/>Już zaprzestań twych żałości,<br/>Ja twe gładzę nieprawości</lines>
+    </verse>
+  </lyrics>
+</song>

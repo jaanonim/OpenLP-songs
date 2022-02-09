@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:43">
+  <properties>
+    <titles>
+      <title>104 Ojcze mój Ojcze, dziś do Ciebie mówić chcę</title>
+    </titles>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ojcze mój Ojcze, dziś do Ciebie mówić chcę. <br/>Ty mi dajesz Swojego Syna, uwielbiam Cię.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezu, mój Jezu, dziś do Ciebie mówić chcę. <br/>Ty mi dajesz Swojego Ducha uwielbiam Cię.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Duchu, mój Duchu, dziś do Ciebie mówić chcę. <br/>Ty mi dajesz Swoją miłość, uwielbiam Cię.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Miłość, Miłość, Miłość jest pieśnią całego świata. <br/>Kochaj bliźniego, swojego brata.</lines>
+    </verse>
+  </lyrics>
+</song>

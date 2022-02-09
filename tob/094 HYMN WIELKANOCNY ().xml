@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:43">
+  <properties>
+    <titles>
+      <title>094 HYMN WIELKANOCNY</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Alleluja! Jezus Panem jest<br/>On zmartwychwstał, żyje, stoi pośród nas <br/>Alleluja! Radujmy się <br/>Uwielbiajmy Pana, który Królem jest</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Na świętej uczcie Baranka <br/>Odziani w szaty zbawienia<br/>Przebywszy Morze Czerwone <br/>Ku czci Chrystusa śpiewajmy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bo Jego Ciało nas karmi, <br/>Na Krzyżu za nas wydane<br/>A Jego Krwią napojeni, <br/>Żyjemy odtąd dla Boga</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Już Chrystus Paschą jest naszą <br/>I szczerej prawdy zaczynem<br/>Niewinnym Bożym Barankiem <br/>Co siebie złożył w ofierze</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Niech Ciebie, Panie promienny <br/>Powstały z martwych po męce<br/>I Twego Ojca, i Ducha <br/>Wysławia rzesza zbawionych</lines>
+    </verse>
+  </lyrics>
+</song>

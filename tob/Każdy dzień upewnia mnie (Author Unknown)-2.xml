@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:37">
+  <properties>
+    <titles>
+      <title>Każdy dzień upewnia mnie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="93"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Każdy dzień upewnia mnie<br/>Pan w miłości wierny jest<br/>Któżby inny mógł jak On<br/>Przebaczać co dzień</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Boże wiem jak ranię Cię<br/>Często słabnę, gubię sens<br/>Jednak ty podnosisz mnie<br/>I nadzieję dajesz mi</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nikt nie odbierze mi tego,<br/>co mam w tobie,<br/>Nikt nie odbierze mi tego,<br/>co mam w tobie,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pełnię miłości,<br/>Pełnię radości,<br/>Pełnię wolności<br/>Mam w tobie!!!</lines>
+    </verse>
+  </lyrics>
+</song>

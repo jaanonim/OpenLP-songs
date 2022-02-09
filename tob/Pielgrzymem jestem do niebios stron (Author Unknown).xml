@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:41">
+  <properties>
+    <titles>
+      <title>Pielgrzymem jestem do niebios stron</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="459"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pielgrzymem jestem do niebios stron<br/>Mym życiem, mym wszystkim jest Jezus.<br/>Ojczyzna cudna, gdzie lśni się On;<br/>Jedynym pragnieniem mym Jezus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jezus, Jezus!<br/>Jedynym pragnieniem mym Jezus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, co za rozkosz żyć w świetle tym!<br/>Mym życiem, mym wszystkim jest Jezus.<br/>Nie pojmie świat, co jest skarbem mym,<br/>Mym życiem, mym wszystkim jest Jezus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Choć czarne się srożą chmury burz,<br/>Mym życiem, mym wszystkim jest Jezus.<br/>On mym pokojem, światłością wciąż;<br/>Mym życiem, mym wszystkim jest Jezus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy przyjdzie śmierci doliną iść,<br/>Mym życiem, mym wszystkim jest Jezus.<br/>Do chwały cudnej da Jezus wnijść.<br/>Mym życiem, mym wszystkim jest Jezus.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tak kiedyś w górze zanucę tam:<br/>Mym życiem, mym wszystkim jest Jezus.<br/>Baranku Boży, ja z Ciebie mam<br/>Me życie, me wszystko, mój Jezu!</lines>
+    </verse>
+  </lyrics>
+</song>

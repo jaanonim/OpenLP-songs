@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:36">
+  <properties>
+    <titles>
+      <title>Choć w życiu tym nie pojmiesz już</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="373"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Choć w życiu tym nie pojmiesz już,<br/>Dlaczegoś nieraz z bólu łkał,<br/>W krainie, pełnej słońca zórz,<br/>Zrozumiesz raz, jak Pan to chciał.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Więc Bogu wierz i wytrwać chciej,<br/>Choć szlak twój ciemny by się zdał;<br/>Wszak jego kres w Ojczyźnie twej;<br/>Zrozumiesz tam, jak Pan to chciał.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Co dzielił świat, tam złączy Bóg,<br/>Zjednoczy się, co czas tu rwał.<br/>Co zgłębić nikt, ni pojąć mógł<br/>- Zrozumiesz tam, jak Pan to chciał.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Choć Bóg ci w twego życia bieg<br/>Tak mało blasków szczęścia słał,<br/>Choć ciemny mrok nad tobą legł,<br/>Zrozumiesz raz, jak Pan to chciał.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A chociaż serca sen za snem,<br/>Życzenia twe wiatr życia zwiał,<br/>Choć zmiótł nadzieje swoim tchem,<br/>Zrozumiesz raz, jak Pan to chciał.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O, nie skarż się, nie pytaj wciąż;<br/>Pan zawsze wiernie z tobą trwał.<br/>Zna cel i drogę - za Nim dąż!<br/>Zrozumiesz raz, jak On to chciał</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:40">
+  <properties>
+    <titles>
+      <title>Kiedy wkoło burze</title>
+    </titles>
+    <authors>
+      <author type="words">J.Oatman</author>
+      <author type="music">J.Oatman</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="445"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kiedy w koło burze srożą się,<br/>A to wszystko,<br/>co stracone, smuci cię,<br/>Wspomnij wszystkie dary,<br/>które Pan ci dał,<br/>A w twym sercu<br/>zabrzmią nowe pieśni chwał.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Policz dary, które Pan ci dał,<br/>Policz dary, któreś Odeń brał,<br/>Policz dary, w których miałeś dział,<br/>A w twym sercu<br/>muszą zabrzmieć pieśni chwał.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pod brzemieniem pracy,<br/>troski, chorób, ran,<br/>Kiedy ci się zdaje<br/>już bez wyjścia stan,<br/>Gdy policzysz dary,<br/>oddasz Panu cześć;<br/>Wtedy powiesz<br/>Warto Zbawcy dać się wieść.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ma ktoś inny w różach,<br/>a ty w cierniach dział<br/>Wspomnij Bożą wierność,<br/>będziesz pokój miał<br/>Policz wszystkie dary<br/>których nie miał świat<br/>Że tak Bóg cie wiedzie,<br/>będziesz z tego rad.</lines>
+    </verse>
+  </lyrics>
+</song>

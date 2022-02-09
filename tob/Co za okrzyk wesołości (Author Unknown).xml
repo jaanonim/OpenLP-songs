@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:51">
+  <properties>
+    <titles>
+      <title>Co za okrzyk wesołości</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="410"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Co za okrzyk wesołości niosą<br/>drogie gody nam!<br/>Oto wszystek lud w radości,<br/>którą dał chrześcijaństwu Pan.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chwała Bogu - jest to brzmienie<br/>na ziemi pokój ma już ludzkie plemię,<br/>bo już nam jest Zbawca zrodzony,<br/>nasz Pan, w mieście Dawida!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Promień światła nam przyświeca<br/>z tej drzewinki lśniącej się,<br/>nie są w stanie nasze serca<br/>pojąć wspaniałości tej.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chwała Bogu - jest to brzmienie<br/>na ziemi pokój ma już ludzkie plemię,<br/>bo już nam jest Zbawca zrodzony,<br/>nasz Pan, w mieście Dawida!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ale krótka taka radość,<br/>wkrótce zgasną świeczki te;<br/>Jezus tylko sprawia radość,<br/>która nigdy nie minie.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Chwała Bogu - jest to brzmienie<br/>na ziemi pokój ma już ludzkie plemię,<br/>bo już nam jest Zbawca zrodzony,<br/>nasz Pan, w mieście Dawida!</lines>
+    </verse>
+  </lyrics>
+</song>

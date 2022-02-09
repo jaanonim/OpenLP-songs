@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:30">
+  <properties>
+    <titles>
+      <title>O jak błogo jest, gdy wola nasza</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="278"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O jak błogo jest, gdy wola nasza<br/>Tam na krzyżu umrze już,<br/>Kiedy pyszne serce raz na zawsze<br/>Ugnie się przed Zbawcą dusz;<br/>Gdy pociecha wszelka ziemska zginie,<br/>A pieśń nowa z naszych serc wypłynie:<br/>Wiedź mię tu przez cierpień krzyż<br/>Do Swej wspaniałości wzwyż!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wiele jednak gorzkich łez popłynie,<br/>Nim znajdziemy pokój w Nim;<br/>Zanim cale naszych serc pragnienie<br/>Pan uświęci Duchem Swym,<br/>Nim to, co najmilsze nam w tym świecie,<br/>Co droższego tutaj nam nad życie,<br/>Nim to w ręce weźmie Pan<br/>I ten pokój sercu dan.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cóż lepszego jest, gdy wola nasza<br/>Nie chce nic, jak Pana mieć,<br/>Kiedy tu w pokorze serce zawsze<br/>Pragnie Jemu tylko żyć;<br/>To też mocno stoi w ciemnych chwilach,<br/>A Pan wierny zawsze je posila Słowem:<br/>Dziecię, nie bój się,<br/>Bo Ja wiecznie strzegę cię!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Już tam z góry głos się tu roznosi,<br/>Co oznacza koniec prac,<br/>A z tej ziemi triumf się podnosi<br/>Odkupionych z grzechów władz.<br/>„Alleluja! Amen! Cześć i chwała!"<br/>- Barankowi śpiewa rzesza cała,<br/>Ze ich wyrwał z mocy złej<br/>I do chwały wiedzie Swej.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>„Alleluja! Amen! Radość błoga,<br/>Pokój po zmagania dniach!"<br/>Blask słoneczny lśni od tronu Boga,<br/>Minął smutek, minął strach.<br/>Grajcie, harfy, powiewajcie, palmy,<br/>Panu nowe zaśpiewajmy psalmy,<br/>Uwielbiajmy Jego moc,<br/>Co przemogła śmierci noc.</lines>
+    </verse>
+  </lyrics>
+</song>

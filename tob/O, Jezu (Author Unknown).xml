@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:34">
+  <properties>
+    <titles>
+      <title>O, Jezu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="91"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, Jezu, wnieś słoneczny brzask w me<br/>biedne serce, wnieś! Gdy Twój je złoty<br/>olśni blask, odlataa smętek gdzieś;<br/>spłoszona światłem pierzcha noc,<br/>spowita w ciemne mgły,<br/>radości dziwna w sercu moc bolesne ściera łzy.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Miłością Tyś tak dawno już,<br/>a jednak tchniesz świeżością róż,<br/>i ciepłem nas ogarniasz Swym,<br/>więc wszyscy my do Ciebie lgniem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy z krzyża jasny promień ten<br/>w mej duszy trafił zmierzch,<br/>grzechowy mój kamienny sen<br/>opuścił mnie i pierzchł.<br/>Już wiem, kto mię miłuje,<br/>wiem, gorąco aż po zgon;<br/>już tylko Zbawca w sercu mym<br/>na wieki będzie czczon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tym słońcem, co wśród życia zmian,<br/>wśród życia grzeje zim, jest Jezus,<br/>mój niebieski Pan, o żywot tylko w Nim!<br/>Na ziemi pieśni Jego chwał zamącą skargi żal,<br/>mój hymn wspanialej będzie brzmiał tam wśród weselnych sal.</lines>
+    </verse>
+  </lyrics>
+</song>

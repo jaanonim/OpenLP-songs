@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:45">
+  <properties>
+    <titles>
+      <title>O, mój Jezusie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="291"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, mój Jezusie, Tyś moim Panem i<br/>królem królów, wiecznym kapłanem.<br/>W Tobie pokładam nadzieję swoją,<br/>że mi pomożesz, tym się ja koję.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zmiłuj się, Jezu, zmiłuj nade mną i<br/>ustawicznie zostawaj ze mną.<br/>Gdy mię opuścisz, któż mi pomoże?<br/>Bez Ciebie każdy szkodzić mi może.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Przy kim zaś stoisz, ten jest bezpiecznym,<br/>Tyś jego skałą i grodem wiecznym.<br/>Zły duch, świat, ciało szkodzić nie może,<br/>gdy mię zasłania Twa miłość, Boże!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Więc nie opuszczaj mię aż do zgonu i<br/>wiedź po śmierci do Swego tronu,<br/>gdzie radość błoga końca nie miewa,<br/>gdzie Tobie chwałę wiecznie się śpiewa.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:21">
+  <properties>
+    <titles>
+      <title>O, by już wkrótce rozgorzały</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="82"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, by już wkrótce rozgorzały<br/>Płomienie jasne z Bożych skier,<br/>By świat nareszcie poznał cały,<br/>Że w ręku trzymasz rządów ster!<br/>Już ognie wprawdzie ogarnęły<br/>I wschodni i zachodni ląd,<br/>Kolana już Twe rzesze zgięły,<br/>Nadchodzi czas Zielonych Świąt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, niech Twój święty Duch odnowi<br/>Już cały ten szeroki świat;<br/>Każdemu objaw się ludowi,<br/>Żeś jego Zbawca, Król i Brat!<br/>A wtedy pienia dusz milionów<br/>Połączą się w dziękczynny ton<br/>I nawet możni zstąpią z tronów,<br/>By klęknąć przed Twój święty tron.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zbudź, oczyść, złącz ze Sobą silnie<br/>Twój cały chrześcijański zbór!<br/>Niech każdy pozna nieomylnie<br/>Zbawienia prawy, wąski tor.<br/>Wybuduj Sobie z serc świątynię,<br/>Co rozdzielone, razem spój,<br/>I niech Twój Duch już rozpłomieni,<br/>Poświęci cały Kościół Twój!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:49">
+  <properties>
+    <titles>
+      <title>222 Uwielbiam Twoje imię</title>
+    </titles>
+    <authors>
+      <author>Zbory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uwielbiam Twoje imię,<br/>Uwielbiam Twoje serce,<br/>Uwielbiam święte rany<br/>Zadane w krwawej męce<br/>Uwielbiam Twoją drogę<br/>I z krzyża siedem słów<br/>Sławię Twoją miłość<br/>O! Zbawco mój.</lines>
+    </verse>
+  </lyrics>
+</song>

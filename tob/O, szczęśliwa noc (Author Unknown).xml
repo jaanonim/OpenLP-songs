@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:19">
+  <properties>
+    <titles>
+      <title>O, szczęśliwa noc</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="41"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, szczęśliwa noc,<br/>Dziwna Pańska moc!<br/>Poseł się pojawił,<br/>Radość wielką sprawił<br/>/ Tym pasterzom wiernym,<br/>Co swych strzegli stad. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Słuchaj jego mów,<br/>Tych cudownych stów:<br/>Na ten świat stracony<br/>Chrystus narodzony!<br/>/ To, co człek utracił,<br/>On przywrócił znów. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A więc Doń się zbliż,<br/>Przed Nim czoło zniż!<br/>Byście Go poznali,<br/>Wielcy, tak jak mali,<br/>/ Serca swe w ofierze<br/>Dajcie Jemu dziś! /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nasz głos wdzięczny brzmi.<br/>Panie, ku Twej czci:<br/>Chcemy Cię miłować,<br/>Serca Ci darować;<br/>/ Ty wiedź nasze życie<br/>Tu po wszystkie dni! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

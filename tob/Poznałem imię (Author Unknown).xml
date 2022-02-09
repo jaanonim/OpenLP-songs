@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:07">
+  <properties>
+    <titles>
+      <title>Poznałem imię</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="22"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Poznałem imię najpiękniejsze w świecie.<br/>Na dźwięk imienia tego serce drży.<br/>Choć życie nieraz wieniec z cierni plecie,<br/>Lecz imię „Jezus" suszy gorzkie łzy.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Me serce drży gdy myślę o Jezusie.<br/>Wśród mroków imię to nadzieją lśni.<br/>W imieniu tym jest duszy mej zbawienie.<br/>To imię „Jezus" jest najdroższe mi !</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To imię może w smutku mnie pocieszyć.<br/>Rozjaśnić może życia ciemną noc.<br/>Zbolałe serce może wnet uleczyć,<br/>Dzisiejszą słabość zmienić w jutra moc.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To imię żyje, będzie żyć na wieki,<br/>Choć świat pokryje zapomnienia pył.<br/>Choć wyschną morza, bieg swój zmienią rzeki,<br/>Przez imię to ja także będę żył.</lines>
+    </verse>
+  </lyrics>
+</song>

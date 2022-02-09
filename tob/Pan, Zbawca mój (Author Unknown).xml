@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:02">
+  <properties>
+    <titles>
+      <title>Pan, Zbawca mój</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="184"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pan, Zbawca mój<br/>Jest zwycięzcą w moim życiu!<br/>Teraz już nie muszę walczyć<br/>Z grzechem sam.<br/>Pan, Zbawca mój<br/>Jest zwycięzcą w moim życiu!<br/>Teraz On jest życiem mym<br/>I mocą mą!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pan, Zbawca mój<br/>Dla mnie wszystko już uczynił<br/>Teraz chcę poznawać Go<br/>Każdego dnia.<br/>Złam pychę mą<br/>Abym poznał, że bez Ciebie<br/>Niczym jestem w świetle Twym<br/>O Panie mój!<br/>Niczym jestem w świetle Twym<br/>O Panie mój!<br/>Niczym jestem w świetle Twym<br/>O Panie mój!</lines>
+    </verse>
+  </lyrics>
+</song>

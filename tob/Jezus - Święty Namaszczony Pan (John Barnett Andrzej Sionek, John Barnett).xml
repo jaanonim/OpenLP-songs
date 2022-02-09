@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:21">
+  <properties>
+    <titles>
+      <title>Jezus - Święty Namaszczony Pan</title>
+    </titles>
+    <copyright>1988 Mercy / Vineyard Publishing</copyright>
+    <authors>
+      <author type="words">John Barnett Andrzej Sionek</author>
+      <author type="music">John Barnett Andrzej Sionek</author>
+      <author type="words">John Barnett</author>
+      <author type="music">John Barnett</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="296"/>
+    </songbooks>
+    <themes>
+      <theme>meditation</theme>
+      <theme>guitar</theme>
+      <theme>love</theme>
+      <theme>worship</theme>
+      <theme>holy-spirit</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus,Jezus<br/>Święty, namaszczony Pan, Jezus.<br/>Jezus, Jezus<br/>żyje wywyższony Pan, Jezus.<br/>Twe Imię jak miód na ustach mych,<br/>Twój Duch jest jak woda duszy mej,<br/>Twe Słowo jak lampa u mych stóp,<br/>Jezu ja kocham cię, ja kocham.</lines>
+    </verse>
+  </lyrics>
+</song>

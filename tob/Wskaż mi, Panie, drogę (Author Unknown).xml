@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:13">
+  <properties>
+    <titles>
+      <title>Wskaż mi, Panie, drogę</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="192"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wskaż mi, Panie drogę Swą, bym<br/>postępował w prawdzie Twej.<br/>Spraw, by serce moje jednego<br/>chciało wciąż, pragnęło bojaźni<br/>Twej. Będę Cię wysławiać<br/>i uwielbiać Imię Twe, ponieważ<br/>Twoja łaska jest dla mnie wielka<br/>wciąż! Wybawiłeś od śmierci duszę ma!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:52">
+  <properties>
+    <titles>
+      <title>Serca, ręce wasze złączył</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="645"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Serca, ręce wasze złączył<br/>Ku Swej chwale Jezus Pan,<br/>On wprzód z świata was wyłączył,<br/>Za was poniósł boleść ran.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>On was dziś za ręce bierze,<br/>Drogą w niebo wiedzie wasi<br/>Spoglądajcie Nań we wierze,<br/>/ 0n jest z wami w każdy czas. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Z wami będzie jako trzeci,<br/>Aby wzmocnić związek wasz,<br/>Ciemne ścieżki wam oświeci,<br/>Pójdzie naprzód we zły czas.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On Swych wiernych błogosławi,<br/>Rad udziela Swoich łask,<br/>Od złych przygód ich wybawi,<br/>Chwały Swej da ujrzeć blask.</lines>
+    </verse>
+  </lyrics>
+</song>

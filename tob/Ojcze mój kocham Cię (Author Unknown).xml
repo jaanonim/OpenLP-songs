@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:15">
+  <properties>
+    <titles>
+      <title>Ojcze mój kocham Cię</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="288"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ojcze mój kocham Cię<br/>Imię Twe wywyższam na ziemi!<br/>Imię Twe wywyższam<br/>Imię Twe wywyższam<br/>Imię Twe wywyższam za ziemi!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezu mój kocham Cię<br/>Imię Twe wywyższam na ziemi!<br/>Imię Twe wywyższam<br/>Imię Twe wywyższam<br/>Imię Twe wywyższam za ziemi</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Duchu mój kocham Cię<br/>Imię Twe wywyższam na ziemi!<br/>Imię Twe wywyższam<br/>Imię Twe wywyższam<br/>Imię Twe wywyższam za ziemi</lines>
+    </verse>
+  </lyrics>
+</song>

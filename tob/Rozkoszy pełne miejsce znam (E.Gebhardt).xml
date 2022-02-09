@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:28">
+  <properties>
+    <titles>
+      <title>Rozkoszy pełne miejsce znam</title>
+    </titles>
+    <authors>
+      <author type="words">E.Gebhardt</author>
+      <author type="music">E.Gebhardt</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="244"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rozkoszy pełne miejsce znam,<br/>Gdzie nie dociera złość, ni kłam;<br/>Tam z serc ulata słodki ton -<br/>To łaski Bożej jasny tron!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O tronie łask, o tronie łask,<br/>Przebłogi tronie łask!<br/>Tum znalazł w Synu życia blask,<br/>Tum znalazł życia blask.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pan zlewa zdrój radości tu<br/>Na każdą duszę wierną Mu,<br/>Jej tarczą i nagrodą On.<br/>O jak cudowny łaski tron!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu w brata się przemienia wróg,<br/>By stanąć w rzeszy Bożych sług,<br/>Tu wolni od szatańskich szpon,<br/>Tu krwią skropiony łaski tron!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Na orlich skrzydłach wznosi w dal<br/>Me serce z głębokich fal;<br/>Tam Pan koroną weińczy skroń -<br/>O, tam swe serce tęskne skłoń!</lines>
+    </verse>
+  </lyrics>
+</song>

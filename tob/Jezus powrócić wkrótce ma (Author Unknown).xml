@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:07">
+  <properties>
+    <titles>
+      <title>Jezus powrócić wkrótce ma</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus powrócić wkrótce ma,<br/>Może przyjść każdego dnia.<br/>Jezus powróci wkrótce, wiem,<br/>W tym duch święty upewnia mnie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Więc chwalmy go,<br/>Niech brzmi: alleluja, amen.<br/>Więc chwalmy go,<br/>Zbliża się wspaniały dzień!</lines>
+    </verse>
+  </lyrics>
+</song>

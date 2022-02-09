@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:02">
+  <properties>
+    <titles>
+      <title>Jam jest własnością Pana</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="189"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus mój Pan mnie wiecznie miłuje,<br/>Zła moc mi serca już nie zepsuje<br/>Pan za mnie zmarł, lecz mi Zycie dał<br/>Jegom własnością ja!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jam jest własnością Pana<br/>Pan jest własnością mą<br/>Nie tylko przez te życia dni,<br/>Lecz wiecznie będę z Nim!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Byłem zgubiony w grzechu niewoli,<br/>Lecz Jezus przyszedł i mnie uwolnił<br/>Wyrwał mnie z grzechu, radość mi dał<br/>Jegom własnością ja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Radość wypełnia dziś serce moje<br/>Jezus odebrał smutki i znoje<br/>Swą świętą krew na okup Pan dał,<br/>Jegom własnością ja!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:06">
+  <properties>
+    <titles>
+      <title>Głowa, ramiona</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Głowa,<br/>Ramiona,<br/>Nogi,<br/>Stopy. /x4<br/>Należą do Jezusa</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/ Oczy,<br/>Uszy,<br/>Buzia,<br/>Nos. /x4<br/>Należą do Jezusa</lines>
+    </verse>
+  </lyrics>
+</song>

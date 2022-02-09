@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:18">
+  <properties>
+    <titles>
+      <title>Jezusowi chcę śpiewać ku chwale</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="13"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezusowi chcę śpiewać ku chwale,<br/>Bo On jest siła mą, życiem mym,<br/>On ratował mnie z nędzy i śmierci,<br/>Bez nadziei gdym szedł światem tym.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tyś Swą krwią mnie wykupił, mój Jezu,<br/>Tyś mnie wyrwał i wiódł z drogi złej.<br/>Chcę Ci śpiewać, wysławiać Cię stale;<br/>Niech Twa cześć płynie wciąż z duszy mej!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezusowi chcę śpiewać ku chwale,<br/>On radością co dnia syci mnie.<br/>Ja nie mogę Go zaprzeć milczeniem;<br/>Jego sławić me serce się rwie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezusowi chcę śpiewać ku chwale,<br/>Pośród gwaru i trosk szarych dni.<br/>Choć i boleść, lub bój sercem miota,<br/>W jego głębi niech chwała wciąż brzmi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jezusowi chcę śpiewać ku chwale,<br/>W drodze wzwyż wielbić Go z wszystkich sił,<br/>Potem stać wiecznie przed Jego tronem,<br/>Gdzie zbawionych Go chór będzie czcił.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:48">
+  <properties>
+    <titles>
+      <title>Kto wskaże mi drogę do miasta górnego?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="575"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kto wskaże mi drogę do miasta górnego?<br/>Tu dosyć, aż nadto mam życia nędznego;<br/>W ulicach się kłótnia przechadza krwi chciwa,<br/>A w murach się zazdrość plu¬gawa ukrywa.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>W grodzie niebieskim kończy się złość,<br/>Tam ma ojczyzna, tum tylko gość.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, gdybym miał skrzydła, nad góry, doliny<br/>Leciałbym do pięknej, szczęśliwej krainy<br/>I tam bym odnalazł kryjówkę dla duszy<br/>Przed mocą nieszczęścia i wielkich katuszy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tam kłamstwo nie chodzi, tam złość nie przebywa,<br/>W ulicach wciąż tylko pieśń chwały rozbrzmiewa.<br/>Nie słychać tam więcej ni skarg, ni wzdychania,<br/>I bólu tam nie ma i nie ma płakania.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tam nie ma żebraków bo wszyscy bogaci,<br/>Tam królem jest Jezus i równość tam płaci.<br/>Tam zbrodnia przez bramę się wejść nie odważy,<br/>Bo anioł niebieski tam stoi na straży.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tam nie ma kościołów daleko czy blisko,<br/>Bo w każdym tam domu Pan obrał siedlisko.<br/>Tam światło nie świeci ni gwiazd, ni księżyca,<br/>Bo Pan tam jasnością, co wszystkim przyświeca.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tam nie ma sług Bożych w ubiorze kapłańskim,<br/>Bo każdy z osobna kapłanem jest Pańskim,<br/>I wszyscy w śnieżyste ubrani są szaty,<br/>A każdy w swym ręku tam lilii ma kwiaty.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Niebieskich harfiarzy słuchają i Panu<br/>Dziękują za szczęście, za błogość ich stanu<br/>Prorocy i święci, wśród nich męczennicy<br/>I których postawił po Swojej prawicy.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Co wiele zgrzeszyli, już są pojednani,<br/>Co wiele cierpieli - ukoronowani.<br/>Ze ziemi l prochu, z zakały światowej<br/>Obmyli swe szaty we krwi Barankowej.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Więc chcę pielgrzymować w tym świecie niedoli<br/>Do kraju lepszego, aż Bóg mnie wyzwoli.<br/>Jak dziedzic niebieski, choć tu się zrodziłem,<br/>Odejdę stąd kiedyś, choć nie zasłużyłem</lines>
+    </verse>
+  </lyrics>
+</song>

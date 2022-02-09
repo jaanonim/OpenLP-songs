@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:44">
+  <properties>
+    <titles>
+      <title>Ej, niejedną jeszcze łezką</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="269"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ej, niejedną jeszcze łezką<br/>dziecię Boże zrosi twarz,<br/>nim zaświta wieczne rano,<br/>nim zaświta wieczne rano<br/>i syjońską olśni straż.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ej, niejedną jeszcze krzywdę<br/>będzie trzeba cicho znieść,<br/>nim się będzie mogło z Panem, n<br/>im się będzie mogło z Panem<br/>do krainy rajskiej wznieść.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ej, niejedna cierpka chwila i zawodów<br/>ostry ton jęknie w duszy,<br/>nim uderzy, jęknie w duszy,<br/>nim uderzy w niebie triumfalny dzwon.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ale potem, co za radość, co za chwała<br/>będzie to, gdy do domu Jezus wzniesie,<br/>gdy do domu Jezus wzniesie<br/>z kraju łez dziecinę Swą!</lines>
+    </verse>
+  </lyrics>
+</song>

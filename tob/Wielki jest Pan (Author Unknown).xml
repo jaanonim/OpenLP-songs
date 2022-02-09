@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:57">
+  <properties>
+    <titles>
+      <title>Wielki jest Pan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="49"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wielki jest Pan i godzien wielkiej chwały,<br/>W mieście Boga naszego i na swojej górze świętej<br/>Malowniczo położona, ozdobą ziemi tej,<br/>/ Jest góra Syjon na krańcach północnych,<br/>Miasto, gdzie wielki jest Król /x2</lines>
+    </verse>
+  </lyrics>
+</song>

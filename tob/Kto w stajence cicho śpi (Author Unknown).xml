@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:53">
+  <properties>
+    <titles>
+      <title>Kto w stajence cicho śpi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="683"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kto w stajence cicho śpi?<br/>Czyje dziecię w żłobku śni?<br/>To Syn Boży, nasz Zbawiciel,<br/>Tego świata Odkupiciel.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>To nasz Zbawca, Król i Pan,<br/>Niech Mu brzmi pochwalny psalm.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Któż to jest, co wszystkich w krąg,<br/>Cieszy, krzepi, leczy z mąk?<br/>Kogo słucha cały lud?<br/>Kto uczynił w Kanie cud?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kto w Ogrójcu w ciemną noc,<br/>Tak do Ojca wołał w głos?<br/>Komu krew tak broczy z ran?<br/>Kto na krzyżu zawisł tam?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kto zmartwychwstał, sprawił cud?<br/>Aby zbawić wszystek lud?<br/>Kto pokonał śmierć i noc?<br/>I kto złamał piekieł moc?</lines>
+    </verse>
+  </lyrics>
+</song>

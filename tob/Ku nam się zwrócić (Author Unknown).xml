@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:53">
+  <properties>
+    <titles>
+      <title>Ku nam się zwrócić</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="454"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ku nam się zwrócić, Jezu, chciej,<br/>Świętego Ducha na nas zlej!<br/>// Swą łaską, Panie, nami rządź i<br/>przewodnikiem w prawdzie bądź // .</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ach, roztwórz usta ku Twej czci,<br/>niech w sercach pieśń pobożna brzmi,<br/>// Krzep mysi i wiarę w dzieciach Twych,<br/>uwielbi j Twoje imię w nich! //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aż z chórem niebian wz-niesiem Ci hymn:<br/>Świętyś, świętyś, świętyś Ty,<br/>// Aż ujrzym Ciebie twarzą w twarz w<br/>światłości wiecznej, Panie nasz! //</lines>
+    </verse>
+  </lyrics>
+</song>

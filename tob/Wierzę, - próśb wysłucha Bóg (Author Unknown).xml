@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:39">
+  <properties>
+    <titles>
+      <title>Wierzę, - próśb wysłucha Bóg</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="417"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wierzę, - próśb wysłucha Bóg,<br/>Wiem, że próśb wysłucha Bóg,<br/>Pewnym, że wysłucha Bóg.<br/>Jemu śpiewam cześć.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wierzę, - prawdę mówi Bóg,<br/>Wiem, że prawdę mówi Bóg,<br/>W Biblii prawdę mówi Bóg.<br/>Jemu śpiewam cześć.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wierzę, - Bóg dotrzyma słów,<br/>Wiem, że Bóg dotrzyma słów,<br/>Pewnym, że dotrzyma słów.<br/>Jemu śpiewam cześć.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wierzę, - Jezus przyjdzie wnet,<br/>Wiem, że Jezus przyjdzie wnet,<br/>On na pewno przyjdzie wnet.<br/>Jemu śpiewam cześć</lines>
+    </verse>
+  </lyrics>
+</song>

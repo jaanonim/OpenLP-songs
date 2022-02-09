@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:13">
+  <properties>
+    <titles>
+      <title>Wysławiajcie imię Pańskie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Wysławiajcie imię Pańskie, uwielbiajcie Jego moc!<br/>/ Niech są pełne Jego chwały /x2<br/>Niech są pełne Jego chwały niebo ziemia w dzień i noc!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Chwalcie wszystkie Go narody,<br/>złóżcie przed Nim chwałę swą!<br/>Chwalcie ziemscy Go królowie,<br/>niech się przed Nim głowy gną!<br/>Chwalcie kornie starcy, Pana,<br/>zgłębi serc i z głębi dusz,<br/>Chwalcie dzieci i młodzieńcy,<br/>wszak to Pan wasz i wasz Stróż.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lecz niech chwali swego Ojca<br/>przede wszystkim Boży lud,<br/>Wszak on poznał i doświadczył,<br/>co to jest miłości cud.<br/>Bóg nam posłał Syna Swego,<br/>by przez krew zgniótł złego moc,<br/>Za to wiecznie chcemy sławić<br/>Jego łaskę w dzień i w noc.</lines>
+    </verse>
+  </lyrics>
+</song>

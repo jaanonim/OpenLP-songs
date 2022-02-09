@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:27">
+  <properties>
+    <titles>
+      <title>Skało, którą rozwarł Bóg</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="211"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Skało, którą rozwarł Bóg,<br/>Skryj mnie w sobie pośród trwóg!<br/>Niech Twej świętej łaski siew,<br/>Boku Twego woda, krew<br/>Spłynie na mnie, Zbawco dusz!<br/>Zmaż grzech serca, pęta skrusz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mocą Twoją, Panie, spraw,<br/>Bym przestrzegał Twoich praw.<br/>Ni znojnego praca dnia,<br/>Ni serdecznej skruchy łza<br/>Łaski Twej nie zjedna mi:<br/>Odpuszczenie jest w Twej krwi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nic Ci dać nie mogę, nie;<br/>Do stóp krzyża chylę się;<br/>Bądź w słabości mocą mą,<br/>Nagość okryj łaską Swą;<br/>Chciej brud serca mego zmyć,<br/>Bym w czystości Twej mógł żyć.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy ostatni przyjdzie dzień,<br/>Oko zmroczy śmierci cień,<br/>Gdy wieczności przejdę próg<br/>I pośpieszę do Twych nóg -<br/>Skało mocna, racz mnie skryć;<br/>W Tobie tylko mogę żyć.</lines>
+    </verse>
+  </lyrics>
+</song>

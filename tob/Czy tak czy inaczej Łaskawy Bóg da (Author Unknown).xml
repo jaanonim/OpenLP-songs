@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:41">
+  <properties>
+    <titles>
+      <title>Czy tak czy inaczej Łaskawy Bóg da</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="238"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czy tak czy inaczej Łaskawy Bóg da, to jest wola Jego,<br/>On nas do dobrego, do celu swojego, prowadzić tu ma.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Panie ufamy w Cię, Ty wspieraj nas sam,<br/>aż tam ujrzymy się u wieczystych nieba bram.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czy teraz lub później Pan by mnie wołał,<br/>mnie trwożyć nie będzie bo Jego tarcz wszędzie,<br/>wciąż osłaniać będzie; cóż więcej bym chciał?</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Panie ufamy w Cię, Ty wspieraj nas sam,<br/>aż tam ujrzymy się u wieczystych nieba bram.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Któż to ma się trwożyć? Pan wspomóc go chce,<br/>bo w słowie jest wierny a w prawdzie niezmierny,<br/>w swej łasce niezmienny, On zbawił i mnie.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Panie ufamy w Cię, Ty wspieraj nas sam,<br/>aż tam ujrzymy się u wieczystych nieba bram.</lines>
+    </verse>
+  </lyrics>
+</song>

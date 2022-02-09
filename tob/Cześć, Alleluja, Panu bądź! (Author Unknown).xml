@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:27">
+  <properties>
+    <titles>
+      <title>Cześć, Alleluja, Panu bądź!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="278"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cześć, Alleluja, Panu, bądź! (2X)<br/>Cześć, Alleluja! (2X)<br/>Cześć, Alleluja, Panu, bądź!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezus zmartwychwstał, chwała Mu! (2 x )<br/>Jezus zmartwychwstał! (2X)<br/>Jezus zmartwychwstał, chwała Mu!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezus powróci wkrótce znów! (2X)<br/>Jezus powróci! (2X)<br/>Jezus powróci wkrótce znów!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jezus wciąż żyje w sercu mym! (2X)<br/>Jezus wciąż żyje! (2X)<br/>Jezus wciąż żyje w sercu mym!</lines>
+    </verse>
+  </lyrics>
+</song>

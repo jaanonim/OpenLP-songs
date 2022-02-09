@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:45">
+  <properties>
+    <titles>
+      <title>139 NIE DANO INNEGO IMIENIA</title>
+    </titles>
+    <verseOrder>c1 v1 c2 v2 c2</verseOrder>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+      <author>Kamil Cyganik</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Nie, nie dano, nie dano innego Imienia<br/>I nie dano innego na ziemi zbawienia,<br/>Tak nie dano innego Imienia na ziemi,<br/>W którym moglibyśmy, mogli wszyscy<br/>być zbawieni.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nie skorzystał ze sposobu, <br/>aby równym być Bogu.<br/>Stał się sługą tak posłusznym, <br/>tak posłusznym, że do grobu.<br/>Choć koronę ma na skroniach, <br/>ta korona jest cierniowa.<br/>Jest posłuszny aż do śmierci, <br/>a ta śmierć jest krzyżowa.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Bo nie dano, nie dano innego Imienia<br/>I nie dano innego na ziemi zbawienia,<br/>Tak nie dano innego Imienia na ziemi,<br/>W którym moglibyśmy, mogli wszyscy<br/>być zbawieni.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Teraz Ojciec dał Mu Imię <br/>ponad wszelkie inne imię<br/>Aby każde kolano, <br/>każde zgięło się przed Synem,<br/>Wszystkie trony i zwierzchności, <br/>to co znane i nieznane<br/>Każdy język, aby wyznał, <br/>ŻE JEZUS JEST PANEM!</lines>
+    </verse>
+  </lyrics>
+</song>

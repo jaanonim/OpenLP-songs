@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:35">
+  <properties>
+    <titles>
+      <title>Przyjaciel mów</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="25"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przyjaciel mój wciąż dotrzymuje kroku mi,<br/>W godzinę trwóg ratunek pewny śle.<br/>On czyni, że noc ciemna jasnym blaskiem lśni,<br/>To jest mój Pan, On zdobył serce me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>To nic, że droga moja taka kręta,<br/>Wśród ciemnych dolin i skalistych wzgórz.<br/>Wystarczy mi, że mię prowadzi Jego dłoń,<br/>Przez grozę burz w krainę wiecznych zórz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przez wiele lat drogami życia szedłem sam<br/>I Jego miłość obcą była mi.<br/>Aż usłyszałem, jak On za me grzechy zmarł<br/>I odtąd On wypełnia moje dni.</lines>
+    </verse>
+  </lyrics>
+</song>

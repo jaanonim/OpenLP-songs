@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:10">
+  <properties>
+    <titles>
+      <title>Pan łaskę słabym dał</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pan łaskę słabym dał<br/>I pokornym dom w mieście swym<br/>On mrok zamienia w dzień<br/>Uświęceniem jest martwych ciał.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bo Pan wybawieniem jest<br/>Wodą pośród skał<br/>Światłem w ciemną noc<br/>Bo Pan wybawieniem jest<br/>Sam wykupił nas<br/>I pokonał śmierć</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bóg Ojcem naszym jest<br/>Syna Swego dał<br/>Stworzył świat<br/>Wiatr wieje dokąd chce<br/>Jezus łączy nas<br/>W ciało Swe.</lines>
+    </verse>
+  </lyrics>
+</song>

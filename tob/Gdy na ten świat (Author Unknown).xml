@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:29">
+  <properties>
+    <titles>
+      <title>Gdy na ten świat</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="14"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy na ten świat spoglądam, Wielki Boże,<br/>coś stworzył go<br/>wszechmocnym słowem Swym,<br/>i gdy na ludy<br/>wszego świata spojrzę,<br/>coś je rozmieścił<br/>na okręgu ziem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/Me serce<br/>w uwielbieniu śpiewa Ci:<br/>jak wielkiś Ty! Jak wielkiś Ty!/x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy wznoszę wzrok<br/>ku światom jasnym w górze,<br/>gdzie widzę gwiazd<br/>nieprzeliczony rój,<br/>gdzie słońce w dzień,<br/>a księżyc w nocnej porze<br/>bieg po przestworzach<br/>odbywają swój .</lines>
+    </verse>
+    <verse name="c2">
+      <lines>/Me serce<br/>w uwielbieniu śpiewa Ci:<br/>jak wielkiś Ty! Jak wielkiś Ty!/x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy w słowie Swym<br/>na mojej stajesz drodze,<br/>o, Panie mój,<br/>gdy widzę łaski cud<br/>co gładzi grzech mój<br/>i pociesza w trwodze<br/>i znowu krzepi<br/>Swój słabnący lud.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>/Me serce<br/>w uwielbieniu śpiewa Ci:<br/>jak wielkiś Ty! Jak wielkiś Ty!/x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy widzę znów,<br/>jak bezbożników rzesza<br/>zamiast Cię czcić,<br/>Twe imię święte lży,<br/>a mimo to<br/>Twa łaska się nie zmniejsza, jeszcze ich znosisz<br/>w cierpliwości Swej.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>/Me serce<br/>w uwielbieniu śpiewa Ci:<br/>jak wielkiś Ty! Jak wielkiś Ty!/x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gdy życia mnie<br/>przytłacza ciężkie brzemię,<br/>gdy jest na śmierć<br/>zraniona dusza ma,<br/>ojcowska Twoja dłoń<br/>mi ciężar zdejmie,<br/>pomoże nieść,<br/>co się nieznośnym zda.</lines>
+    </verse>
+    <verse name="c5">
+      <lines>/Me serce<br/>w uwielbieniu śpiewa Ci:<br/>jak wielkiś Ty! Jak wielkiś Ty!/x2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Gdy, Panie mój,<br/>odwołasz mię ze świata,<br/>gdy olśni mię<br/>Twej chwały wieczny blask,<br/>gdy będzie dana<br/>mi czystości szata<br/>i Ciebie ujrzę,<br/>Jezu, Królu łask.</lines>
+    </verse>
+    <verse name="c6">
+      <lines>/Me serce wtedy<br/>pieśń zaśpiewa Ci :<br/>jak wielkiś Ty! Jak wielkiś Ty!/x2</lines>
+    </verse>
+  </lyrics>
+</song>

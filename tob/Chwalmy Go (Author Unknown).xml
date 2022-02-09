@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:06">
+  <properties>
+    <titles>
+      <title>Chwalmy Go</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chwalmy Go, Pan w majestacie swym<br/>Jezus godzien wszelkiej chwały, mocy i czci<br/>Chwalmy Go, złóżmy korony swe<br/>Jezus co zmarł, teraz wśród chwał to królów Król</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bowiem Bóg wywyższył sam imię Jezusa<br/>Wszelki twór niech wyzna, że Jezus to Pan<br/>Chwalmy Go, Pan w majestacie swym<br/>Jezus co zmarł, teraz wśród chwał to królów Król</lines>
+    </verse>
+  </lyrics>
+</song>

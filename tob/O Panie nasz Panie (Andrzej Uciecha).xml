@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:24">
+  <properties>
+    <titles>
+      <title>O Panie nasz Panie</title>
+    </titles>
+    <authors>
+      <author type="words">Andrzej Uciecha</author>
+      <author type="music">Andrzej Uciecha</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="466"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>O Panie nasz Panie<br/>przedziwne Twe Imię<br/>i ponad niebiosa majestat Twój. // x2 //</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kimże jest człowiek,<br/>że o nim pamiętasz,<br/>kim syn człowieczy,<br/>że wciąż jesteś z nim?<br/>Przyozdobiłeś go czcią i Swą chwałą,<br/>Boskim swym życiem<br/>dzielisz się z nim.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dałeś Mu władzę<br/>nad dziełami rąk swoich<br/>i wszystko złożyłeś pod jego stopy.<br/>Owce i bydło i dzikie zwierzęta<br/>i wszystko co płynie szlakiem mórz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Usta dzieci śpiewają Ci chwałę<br/>usta niemowląt śpiewają Ci.</lines>
+    </verse>
+  </lyrics>
+</song>

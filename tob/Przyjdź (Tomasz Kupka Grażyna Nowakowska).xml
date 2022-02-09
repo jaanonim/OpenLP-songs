@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:30">
+  <properties>
+    <titles>
+      <title>Przyjdź</title>
+    </titles>
+    <authors>
+      <author type="words">Tomasz Kupka Grażyna Nowakowska</author>
+      <author type="music">Tomasz Kupka Grażyna Nowakowska</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="534"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przyjdź bo serce drży,<br/>bo lęk ogarnia,<br/>Proszę przyjdź najmilszy Gościu<br/>najmilszy Gościu duszy mej.<br/>    </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Boski oblubieńcze ukryj mnie<br/>w sercu Swoim pełnym Miłości.<br/>Miłością Twoją napój mnie</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Przyjdź<br/>Gołębico Duchu niech mnie dotknie,<br/>srebrzysta nadzieja,<br/>błysk skrzydeł w słońcu.<br/>Srebrzysta nadzieja,<br/>błysk skrzydeł w słońcu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>W samotność wpisany<br/>co ma kształt Twego serca,<br/>niech łzy utopię w morzu Twej Miłości.<br/>Niech łzy utopię w morzu Miłości,<br/>Miłości Twej.</lines>
+    </verse>
+  </lyrics>
+</song>

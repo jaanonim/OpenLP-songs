@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:59">
+  <properties>
+    <titles>
+      <title>Ja mam zbawienie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="94"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ja mam zbawienie, ty masz zbawienie,<br/>Nam wszystkim zbawienie On dał.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jezus przemówił do mnie,<br/>Więzy mych grzechów pękły,<br/>Teraz zbawienie mam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja mam już spokój, ty masz już spokój,<br/>Nam wszystkim On pokój dał.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ja mam już wolność, ty masz już wolność,<br/>Nam wszystkim On wolność dał.</lines>
+    </verse>
+  </lyrics>
+</song>

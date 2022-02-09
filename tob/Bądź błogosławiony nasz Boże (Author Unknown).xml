@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:05">
+  <properties>
+    <titles>
+      <title>Bądź błogosławiony nasz Boże</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bądź błogosławiony nasz Boże,<br/>Ty byłeś, jesteś i masz przyjść.<br/>Bądź błogosławiony nasz Boże<br/>Na wieki wieczne trwasz</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Niebiański Ojcze my kochamy Cię,<br/>Wywyższać chcemy święte imię Twe.<br/>Twe królestwo niechaj będzie<br/>Utwierdzone w nas<br/>Swą potęgę objawiasz w ludzie swym.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Najświętszy Boże wywyższamy Cię.<br/>Kładziemy wszystko<br/>Dziś przed tronem Twym.<br/>Wonność Twojej obecności<br/>Odczuwamy wciąż<br/>Gdy wielbimy wspaniałe imię Twe.</lines>
+    </verse>
+  </lyrics>
+</song>

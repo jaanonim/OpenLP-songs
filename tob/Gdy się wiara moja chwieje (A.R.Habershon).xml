@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:37">
+  <properties>
+    <titles>
+      <title>Gdy się wiara moja chwieje</title>
+    </titles>
+    <authors>
+      <author type="words">A.R.Habershon</author>
+      <author type="music">A.R.Habershon</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="378"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy się wiara moja chwieje,<br/>Jezus trzyma mnie;<br/>W nim jedyną mam nadzieję,<br/>Mocno trzyma mnie.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jezus trzyma mnie,<br/>Mocno trzyma mnie,<br/>On, co mnie wykupił krwią,<br/>Jest ostoją mą.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nigdy bym się sam nie ostał -<br/>Jezus trzyma mnie,<br/>Sam pokusom bym nie sprostał -<br/>Jezus trzyma mnie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jak źrenicy oka Swego<br/>Jezus strzeże mnie.<br/>Miłość Zbawcy łaskawego<br/>Wiecznie trzyma mnie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Duszę moją On zachowa,<br/>Jezus trzyma mnie,<br/>I wierności mi dochowa,<br/>Nie opuści mnie.</lines>
+    </verse>
+  </lyrics>
+</song>

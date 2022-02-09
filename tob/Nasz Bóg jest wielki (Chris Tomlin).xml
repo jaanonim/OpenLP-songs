@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:28:28">
+  <properties>
+    <titles>
+      <title>Nasz Bóg jest wielki</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v2 c1 b1 c1</verseOrder>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wodę zamieniłeś w wino<br/>Ślepi przy Tobie znów widzą któż jest jak Ty<br/>Tylko Ty</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Blaskiem rozświetlasz ciemności<br/>Człowiek powstaje z marności któż jest jak Ty<br/>Tylko Ty</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nasz Bóg jest wielki nasz Bóg jest silny<br/>Boże nikt inny nie równa się z Tobą<br/>Nasz Bóg uzdrawia jest wszechmogący<br/>Nasz Bóg Nasz Bóg</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Jeśli nasz Bóg jest przy nas już nic nas nie zatrzyma  /<br/>Jeśli nasz Bóg jest z nami któż jest przeciwko nam / x2<br/>Któż jest przeciwko nam?</lines>
+    </verse>
+  </lyrics>
+</song>

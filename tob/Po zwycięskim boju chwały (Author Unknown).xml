@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:54">
+  <properties>
+    <titles>
+      <title>Po zwycięskim boju chwały</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="692"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Po zwycięskim boju chwały<br/>Pan żywota w grobie legł;<br/>Lecz poranek błysnął biały,<br/>Anioł w bieli, jako śnieg,<br/>Głaz odwalił z grobu ścian.<br/>Z śmierci rąk się wyrwał Pan!<br/>/ 0 Pogromco piekieł bram,<br/>Witaj z grobu, witaj nam! /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Słońce jasne już dokoła<br/>Spędza ciemne śmierci mgły,<br/>Z grobu słychać głos anioła:<br/>Nie płacz, otrzyj gorzkie łzy!<br/>Niemasz w grobie niemasz Go!<br/>Któż tę radość pojmie, kto?<br/>{:Pieśni, płyń do gór, do niw!<br/>Wstał Zbawiciel! Jezus żyw! /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gorzkim płaczem zapłakałem<br/>Nad żywotem pełnym mąk,<br/>Gdy na tronie tam widziałem<br/>Tajemnice Bożych ksiąg.<br/>Któż te dziwne tajnie zgadł?<br/>Milczy niebo, milczy świat.<br/>/ Ach, czyż nikt nie znajdzie się<br/>Co by zdjął pieczęcie te!? /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nie płacz, nie płacz! Powstał z grobu<br/>Pan, co wylał własną krew.<br/>Dzisiaj żyje Jezus z tobą!<br/>Przezwyciężył z Judy lew!<br/>On pieczęcie godzien zdjąć,<br/>Nowe życie w łono tchnąć;<br/>/ Powstań, powstań z więzów ran,<br/>Wszystko już wykonał Pan! /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Uwielbiony Królu chwały,<br/>Usłysz głosy rzewnych łkań!<br/>Oświeć groby, odwal skały,<br/>W sercach naszych zmartwychwstań!<br/>Tyś tajniki serca zgadł,<br/>Pokazałeś życia ślad,<br/>/ Moc na ziemi, w niebie masz,<br/>Więc zwycięstwo łaski dasz! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

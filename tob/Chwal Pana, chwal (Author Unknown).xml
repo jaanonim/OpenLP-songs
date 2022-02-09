@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:17">
+  <properties>
+    <titles>
+      <title>Chwal Pana, chwal</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="293"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Chwal Pana, chwal, duszo moja! (3X<br/>Moja duszo uwielbiaj Go wciąż!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>/ I miej w pamięci, i miej w pamięci<br/>Każdy znak łaski od Pana! /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/ Bo On przebacza wszystkie twe winy<br/>I leczy twoje choroby! /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/ On cię wybawia od potępienia<br/>I wieńczy cię miłosierdziem! /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/ Życie twe syci obficie dobrem,<br/>A młodość twoją odnawia! /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/ Łaska i Jego dobroć jest wyższa,<br/>Jak niebo wyższe od ziemi! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

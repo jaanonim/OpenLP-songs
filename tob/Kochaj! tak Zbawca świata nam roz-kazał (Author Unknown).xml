@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:39">
+  <properties>
+    <titles>
+      <title>Kochaj! tak Zbawca świata nam roz-kazał</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="182"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kochaj! tak Zbawca świata nam rozkazał;<br/>Jego rozkazom któż się oprzeć zdoła?<br/>Ten, co miłością świata grzechy zmazał,<br/>kochaj! tak do nas z krzyża Swego woła.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kochaj! a kogo, o to się nie pytaj;<br/>Chrystus wyjątku nie zna tu żadnego.<br/>Weź Ewangelię otwórz ją i czytaj:<br/>Kochaj bliźniego, jak siebie samego!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A któż jest bliźnim? ten,<br/>co z głębi duszy z tobą zawoła:<br/>Ojcze, coś jest w niebie!<br/>I ten, co krwawe łzy twoje osuszy,<br/>co ci aniołem w każdej jest potrzebie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Któż jeszcze bliźnim? każdy,<br/>który z tobą drogą krzyżową do wrót nieba śpieszy,<br/>dla kogo ciernie życia są ozdobą,<br/>co z tobą płacze, z tobą się też cieszy.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Któż bliźnim twoim? ten<br/>też co dla ciebie jakby ze skały serce ma wykute,<br/>co cię opuszcza w ciężkiej twej potrzebie,<br/>niosąc pociski w sercu swym zatrute.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Gdy mu odpuścisz dla miłości Boga<br/>i za złe dobrem hojnie się wypłacisz,<br/>wtenczas zwyciężysz siebie oraz wroga,<br/>miłością krzyża duszę swą wzbogacisz.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:59">
+  <properties>
+    <titles>
+      <title>Módl się dalej, nie przestań nie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="777"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Módl się dalej, nie przestań nie,<br/>Pan jest blisko i słucha cię;<br/>Słowo Jego na wieki trwa,<br/>Co obiecał, toć pewnie da,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Módl się dalej, choć wokół mgła,<br/>Jak przystoi na dziecię dnia!<br/>Powiedz Panu, co w sercu twym,<br/>Uszczęśliwi cię darem Swym.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Módl się dalej, gdy ciężko ci,<br/>Pan pocieszy, obetrze łzy.<br/>Gdy świat nęci, naciera wróg,<br/>Módl się dalej, bo z tobą Bóg!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Módl się dalej, stadeczko mdłe!<br/>W łasce Swojej Pan zjawi się;<br/>On cię broni puklerzem Swym.<br/>Gdzie On mieszka, Ty będziesz z Nim.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Módl się dalej, każdego dnia,<br/>Ducha Swego Pan tobie da;<br/>Pełnią Ducha obdarzy cię,<br/>Wytrwaj tylko w modlitwie swej!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Módl się dalej, o, wzmacniaj się;<br/>Żeś jest prochem, Pan dobrze wie.<br/>Sam dokona, co zaczął raz, Trwaj<br/>W modlitwie na każdy czas.</lines>
+    </verse>
+  </lyrics>
+</song>

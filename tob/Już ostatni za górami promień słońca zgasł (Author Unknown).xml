@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:04">
+  <properties>
+    <titles>
+      <title>Już ostatni za górami promień słońca zgasł</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="859"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Już ostatni za górami<br/>Promień słońca zgasł.<br/>Zbawicielu, zostań z nami,<br/>Nie opuszczaj nas<br/>W nocnej kryją się zasłonie<br/>Nędza, grzech i strach.<br/>Niechże, Jezu, na Twym łonie<br/>Usnę w błogich snach.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Już pasterze poją trzody<br/>Wracające z pasz;<br/>Ty pragnącem żywą wodę<br/>I też pokój dasz.<br/>Przyjdź ze słodkim ukojeniem,<br/>Grzeszne myśli spłosz,<br/>Niech otoczy swym ramieniem<br/>Wiernych, Anioł stróż.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Już ogarnia ziemskie kraje<br/>Nieprzyjazny mrok;<br/>Do niecnego dzieła wstaje<br/>Stary, chytry wróg.<br/>Gdy zapragnie ten mrderca<br/>W nocy kąkol siać,<br/>Ty mu zamknij wszystkie serca,<br/>Sprawę jego zgładź.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Już spogląda na tę ziemię<br/>Złotych gwiazdek rój;<br/>Kiedy snem ujęty drzemię,<br/>Czuwaj, Jezu mój!<br/>Pierzchną wnet na Twe spojrzenie<br/>Niespokojne sny,<br/>Zniknie senne przywiedzenie,<br/>W którym serce drży.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Już ostatni za górami<br/>Promień słońca zgasł.<br/>Zbawicielu, zostań z nami,<br/>Nie opuszczasj nas.<br/>Gdy zapadną śmierci cienie,<br/>Ty w ciemności świeć,<br/>Daj pokoju w me sumienie,<br/>Do ojczyzny wiedź.</lines>
+    </verse>
+  </lyrics>
+</song>

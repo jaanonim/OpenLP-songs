@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:12">
+  <properties>
+    <titles>
+      <title>Któż nas zdoła</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="159"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Któż nas zdoła odłączyć<br/>Od miłości Bożej,<br/>Która jest w Chrystusie,<br/>Panu naszym?</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Czy utrapienie, czy ucisk,<br/>Prześladowanie, czy głód,<br/>Czy nagość, niebezpieczeństwo,<br/>Czy nawet miecz?<br/>Któż nas zdoła...</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezus Chrystus, który umarł,<br/>I co więcej, zmartwychwstał,<br/>On po prawicy Bożej<br/>Wciąż za nami wstawia się.<br/>Któż nas zdoła...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chociaż z Twojego powodu<br/>Co dzień na śmierć nas wydawają,<br/>We wszystkim zwyciężamy<br/>Przez Ciebie, Panie nasz!<br/>Któż nas zdoła...</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesteśmy pewni tego,<br/>Że ani śmierć, ani życie,<br/>Moce, potęgi niebieskie Nie odłączą nas.<br/>Czy wysokość, głębokość.<br/>Czy też inne stworzenie<br/>/ Nie zdoła nas odłączyć Od miłości tej! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

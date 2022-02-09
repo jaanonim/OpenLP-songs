@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:06">
+  <properties>
+    <titles>
+      <title>Daj miłość</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Daj miłość, daj moc, bądź obecny w życiu mym /x2<br/>A będę sercem swym oddawać Ci cześć<br/>I każdą myślą swą za Tobą biec<br/>Chce zawsze wielbić Cię ze wszystkich swych sił<br/>Tyś Panem mym jest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Daj miłość, daj moc, bądź obecny w życiu mym /x2<br/>A będę sercem swym wciąż szukać Cię<br/>I każdą myślą swą za Tobą biec<br/>Chcę zawsze wielbić Cię ze wszystkich swych sił<br/>Tyś Panem mym jest.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:36">
+  <properties>
+    <titles>
+      <title>Twoja krew oczyszcza mnie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="53"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Twoja krew oczyszcza mnie<br/>Nowe życie znajduję w Twojej krwi<br/>Twoja krew przelana jest<br/>By wykupić z grzechów mnie<br/>Obmywa tak, abym bielszym był niż śnieg, niż śnieg<br/>Mój Jezu zmazujesz winy me</lines>
+    </verse>
+  </lyrics>
+</song>

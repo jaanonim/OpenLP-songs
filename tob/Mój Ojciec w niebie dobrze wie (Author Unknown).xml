@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:38">
+  <properties>
+    <titles>
+      <title>Mój Ojciec w niebie dobrze wie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="397"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mój Ojciec w niebie dobrze wie<br/>O burzy, co me serce rwie,<br/>On może chmury spędzić cień<br/>/ I zmienić ciemność w jasny dzień. /x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>On wie, On wie<br/>O burzy, co me serce rwie.<br/>On wie. On wie,<br/>On zgromi wichry, wyrwie mnie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mój Ojciec w niebie dobrze wie,<br/>Czym leczyć rany, bóle me,<br/>On dotknie mnie miłością Swą,<br/>/ Uzdrowi chorą duszę mą:.]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mój Ojciec w niebie dobrze wie,<br/>Jak chwieją się me ręce mdłe;<br/>On będzie bronił mnie od zdrad,<br/>/ Do końca mnie zachowa rad. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mój Ojciec w niebie dobrze wie<br/>O chwili, kiedy wziąć mnie chce.<br/>O Panie, obym w każdym dniu<br/>/ Gotowym był i czekał tu /x2</lines>
+    </verse>
+  </lyrics>
+</song>

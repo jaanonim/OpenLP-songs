@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:34">
+  <properties>
+    <titles>
+      <title>Gdym nędzny, grzechów pełny</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="331"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdym nędzny, grzechów pełny<br/>W swą zgubę prosto brnął,<br/>Odnalazł mię mój Pasterz,<br/>Do Swojej trzody wziął.<br/>Aniołów chór przyglądał się<br/>I wzniósł pochwalne pieśni swe.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dłoń ta mnie ujęła, Jego krew obmyła,<br/>Łaska znów w dom Ojca wwiodła mię.<br/>Miłość tę uwielbiać wiecznie chcę.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tyś obmył Sam me rany,<br/>Oliwy nalał w nie<br/>I słodkoś mi powiedział:<br/>Tyś mój, znalazłem cię.<br/>Głos słodszy nigdy w serce me<br/>Nie dotarł, jako słowa te.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pokazał znaki gwoździ<br/>Na rękach, nogach Swych,<br/>Cierniową też koronę<br/>Na Swoich skroniach cnych.<br/>Wprost trudno pojąć miłość tę,<br/>Co dla mnie poświęciła się.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Żyć błogo teraz mogę,<br/>Gdy chodzę ciągle z Nim,<br/>I cudne Jego drogi<br/>Oglądać w świetle śmiem.<br/>By godne chwały oddać Ci<br/>Nie starczy cała wieczność mi!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Czas szybko tu upływa,<br/>Gdy z Tobą łączność mam;<br/>Wyglądam już tej chwili,<br/>Gdy się objawisz nam,<br/>Gdy Swoją uwielbioną twarz<br/>Oblubienicy ujrzeć dasz.</lines>
+    </verse>
+  </lyrics>
+</song>

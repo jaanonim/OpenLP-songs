@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:33">
+  <properties>
+    <titles>
+      <title>Czy znasz ty Jezusa</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="75"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czy znasz ty Jezusa,<br/>Czy znasz twego Zbawcę?<br/>Jezus, to Boży Syn!<br/>Czy on Błogosławi,<br/>twój sen, twoją pracę?<br/>Jezus to Boży Syn!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, przecudny! O, przedziwny!<br/>Jezus to Boży syn!<br/>Pragnę Go wielbić,<br/>pragnę go chwalić,<br/>Jezus, to Boży syn</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bóg dał Go za okup<br/>za twą i mą duszę,<br/>Jezus, to Boży Syn!<br/>Na krzyżu On cierpiał<br/>tak ciężkie katusze,<br/>Jezus , to Boży Syn!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>O, przecudny! O, przedziwny!<br/>Jezus to Boży syn!<br/>Pragnę Go wielbić,<br/>pragnę go chwalić,<br/>Jezus, to Boży syn</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A jeśli Go przyjmiesz,<br/>zaufasz, uwierzysz,<br/>Jezus, to Boży Syn!<br/>Radośnie ten padół<br/>łez gorzkich przemierzysz,<br/>Jezus, to Boży Syn!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>O, przecudny! O, przedziwny!<br/>Jezus to Boży syn!<br/>Pragnę Go wielbić,<br/>pragnę go chwalić,<br/>Jezus, to Boży syn</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Aż wreszcie dzień przyjdzie,<br/>gdy z mocą i chwałą,<br/>Jezus, to Boży Syn!<br/>Przybędzie, by zabrać<br/>gromadkę Swą całą,<br/>Jezus, to Boży Syn!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>O, przecudny! O, przedziwny!<br/>Jezus to Boży syn!<br/>Pragnę Go wielbić,<br/>pragnę go chwalić,<br/>Jezus, to Boży syn</lines>
+    </verse>
+  </lyrics>
+</song>

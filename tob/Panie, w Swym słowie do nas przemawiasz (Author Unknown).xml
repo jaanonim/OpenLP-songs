@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:26">
+  <properties>
+    <titles>
+      <title>Panie, w Swym słowie do nas przemawiasz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="194"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie, w Swym słowie do nas przemawiasz;<br/>Prawdę Swą świętą przez nie objawiasz,<br/>Przez nie dusze chcesz oświecić,<br/>Do dobrego chęć w nich wzniecić.<br/>Mnie duchowo niech Twe słowo<br/>Ku zbawieniu odrodzi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zgłębić nie mogę Twojej mądrości,<br/>Objąć nie zdołam Twojej światłości,<br/>Bo me oko jest przyćmione,<br/>Siły ducha osłabione; Spraw więc.<br/>Panie, niech się stanie,<br/>By oko me przejrzało.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ojcze niebieski, który Swe słowo<br/>Każesz nam głosić ciągle na nowo,<br/>Roznieć przez nie ogień wiary,<br/>Obdarz nas Swoimi dary;<br/>Racz nas wodzić i odrodzić<br/>Ku nadziei niezwiędłej!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Panie, coś Siebie dał na ofiarę,<br/>By grzeszny żyć mógł z łaski przez wiarę,<br/>Męki śmierci Sam znosiłeś,<br/>Nas na wieki wybawiłeś,<br/>A jam Twoim, Tyś jest moim,<br/>Niech nas nic nie rozłączy!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ucz, Duchu Święty, poznać Twe drogi,<br/>Na nich utrzymać racz moje nogi,<br/>Utwierdź mię w poznaniu prawdy<br/>I zamieszkaj w sercu zawżdy,<br/>Nie daj błądzić, racz mną rządzić,<br/>Ciesz, wzmacniaj mię, poświęcaj!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Daj mi przy słowie Twoim wytrwanie,<br/>Przymnóż mi wiary, Boże i Panie!<br/>Do nóg Twoich ja przypadam,<br/>Serce Ci w ofierze składam.<br/>Z Twej miłości niech radości<br/>Dostąpię wiecznej w niebie!</lines>
+    </verse>
+  </lyrics>
+</song>

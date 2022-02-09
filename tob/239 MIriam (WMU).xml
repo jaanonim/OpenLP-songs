@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:49">
+  <properties>
+    <titles>
+      <title>239 MIriam</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>WMU</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Pomódl się Miriam, <br/>Aby Twój syn żył we mnie <br/>Pomódl się, by Jezus we mnie żył <br/>Gdzie Ty jesteś zstępuje Duch Święty<br/>Gdzie Ty jesteś, niebo staje się </lines>
+    </verse>
+    <verse name="v1">
+      <lines>Miriam Tyś jest bramą do nieba <br/>Moim niebem jest Twój Syn <br/>Weź mnie, weź mnie do swego łona <br/>Bym bóstwem Jezusa zajaśniał jak Ty</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdybym umarł, Jezus żyłby we mnie <br/>Gdybym umarł, odpocząłbym <br/>Przyspiesz, przyspiesz moją śmierć <br/>Pragnę umrzeć, aby żyć </lines>
+    </verse>
+  </lyrics>
+</song>

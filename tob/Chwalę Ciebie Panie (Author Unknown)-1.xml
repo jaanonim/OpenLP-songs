@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:16">
+  <properties>
+    <titles>
+      <title>Chwalę Ciebie Panie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="75"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chwalę Ciebie Panie i uwielbiam<br/>wznoszę w górę swoje ręce<br/>uwielbiając miłość Twą. // x2<br/>Bo wielkiś Ty,<br/>wielkie dzieła czynisz dziś,<br/>nie dorówna Tobie nikt,<br/>nie dorówna Tobie nikt. //</lines>
+    </verse>
+  </lyrics>
+</song>

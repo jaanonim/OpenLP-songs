@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:10">
+  <properties>
+    <titles>
+      <title>On Panem jest</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On Panem jest i On włada wciąż<br/>On Panem jest<br/>On stworzył niebiosa i rozjaśnił mrok<br/>On Panem jest<br/>Jego drogi kto zna, Jest silniejszy niż zło<br/>On Panem jest<br/>On w mocy przychodzi gdy wzywamy Go<br/>On Panem jest</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Objaw moc Swą<br/>O, Panie nasz</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nadzieją dla Polski jest Twa Ewangelia<br/>Tyś Panem jest<br/>To Boża jest moc, to moc zbawienia<br/>Tyś Panem jest<br/>Nie szukamy bogactwa, lecz patrzymy na krzyż<br/>Tyś Panem jest<br/>Twego Ducha wylanie chcemy widzieć już dziś<br/>Tyś Panem jest</lines>
+    </verse>
+  </lyrics>
+</song>

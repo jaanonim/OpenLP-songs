@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:39">
+  <properties>
+    <titles>
+      <title>Ty jesteś skałą</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ty jesteś skałą zbawienia mego<br/>I siłą w życiu mym.<br/>Tyś mą nadzieją i mym natchnieniem<br/>Do Ciebie wołać chcę.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Panie wierzę Ci, tak wierzę Ci<br/>Bo Twa miłość wierna jest.<br/>W każdej chwili życia wspierasz mnie<br/>Panie do Ciebie ja lgnę.</lines>
+    </verse>
+  </lyrics>
+</song>

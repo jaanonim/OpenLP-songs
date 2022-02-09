@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:18">
+  <properties>
+    <titles>
+      <title>Hej Jezu Królem Tyś</title>
+    </titles>
+    <authors>
+      <author type="translate">Iwona Bednarz</author>
+      <author type="words">Joseph Vogels</author>
+      <author type="music">Joseph Vogels</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="221"/>
+    </songbooks>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>keyboard</theme>
+      <theme>meditation</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>longing</theme>
+      <theme>love</theme>
+      <theme>dance</theme>
+      <theme>commitment</theme>
+      <theme>worship</theme>
+      <theme>gods-holiness</theme>
+      <theme>victory</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hej Jezu Królem Tyś.<br/>Życie Twe uwalnia mnie.<br/>Będę sławić cały dzień,<br/>doskonałe drogi Twe.<br/>Hej Jezu Panem Tyś<br/>Chcę słuchać Twoich słów.<br/>Twe Królestwo ujrzeć chcę,<br/>wola Twa niech spełni się.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chwała Barankowi cześć,<br/>weź mnie do ziemi swej.<br/>Zwyciężymy w Imię Twe,<br/>ogłosimy rządy Twe.<br/>Hej o hej o Lwie Judy<br/>jak potężnym jesteś Ty.<br/>Hej o hej o Lwie Judy<br/>// Jak wspaniałym jesteś Ty. //</lines>
+    </verse>
+  </lyrics>
+</song>

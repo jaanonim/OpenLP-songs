@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:54">
+  <properties>
+    <titles>
+      <title>Oczy płaczą, łzy się leją</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="690"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oczy płaczą, łzy się leją,<br/>Serce ściska żal i ból,<br/>Widząc, że na krzyżu mdleje,<br/>W mękach kona światów Król.<br/>Cóż On zrobił komu złego?<br/>Za co cierpi srodze tak?<br/>Czy dla grzechu też jakiego<br/>Pohańbienia przyjął znak?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oczy płaczą, łzy się leją,<br/>Serce ściska żal i ból,<br/>Widząc, że na krzyżu mdleje,<br/>W mękach kona światów Król.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wieniec z cierni ma na głowie,<br/>Krew się sączy z Jego lic.<br/>Usta zaschły... Woła: „pragnę"...<br/>Ocet z żółcią dają pić.<br/>Widok straszny. Ziemia drgnęła.<br/>W noc się zmienił jasny dzień.<br/>Stwórca się w ofierze daje,<br/>Za człowieka każdy czyn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Miłości niewymowna!<br/>Pełnaś świętych cudów Ty!<br/>O Dobroci niezgłębiona!<br/>Przyjmij mojej skruchy łzy...<br/>Daj mi tylko to pragnienie,<br/>By podobnym Tobie być,<br/>Naśladować Ciebie godnie<br/>I dla chwały Twojej żyć.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:31">
+  <properties>
+    <titles>
+      <title>Gdy Ciebie widzę, Jezu mój</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="295"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy Ciebie widzę, Jezu mój,<br/>Radość napełnia mię,<br/>O ileż lepiej będzie mi<br/>Wiecznie oglądać Cię.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie śpiewał nigdy żaden głos,<br/>Nie dotknął uszu też<br/>Dźwięk słodszy ponad imię Twe,<br/>O Jezu, Ty to wiesz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Słodką nadzieją jesteś Ty<br/>Dla serc skruszonych już;<br/>Twa radość stałym gościem jest<br/>Cichych, pokornych dusz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Czym jesteś Ty dla wiernych Swych,<br/>Wie tylko dusza ta,<br/>Co poznać śmiała dobroć Twą<br/>I miłość Twoją zna.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tyś tylko jest radością mą,<br/>Gdy ziemski wiodę bieg;<br/>Mą chwałą będziesz w niebie też<br/>Po nieskończony wiek</lines>
+    </verse>
+  </lyrics>
+</song>

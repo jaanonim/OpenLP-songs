@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:28">
+  <properties>
+    <titles>
+      <title>To cudny kraj</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="261"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To cudny kraj w którym będę żył<br/>Mój wielki Król tam jest.<br/>Tam smutku, łez nie będzie już,<br/>Bo wielki Król tam jest.<br/>Już tu na ziemi z Bogiem dobrze jest,<br/>A ciężkie życie lżejsze jest.<br/>Tam zaśpiewamy Bogu cudną pieśń,<br/>Bogu na ziemi oddać cześć.<br/>To cudny kraj w którym będę żył,<br/>Tam mych przyjaciół ujrzę też.<br/>Tam zaśpiewamy Bogu cudną pieśń<br/>Bogu na ziemi oddać cześć.</lines>
+    </verse>
+  </lyrics>
+</song>

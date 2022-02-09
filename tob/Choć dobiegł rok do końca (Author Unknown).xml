@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:54">
+  <properties>
+    <titles>
+      <title>Choć dobiegł rok do końca</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="463"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Choć dobiegł rok do końca, nie ginie miłość Twa;<br/>z niej, jak z jasnego słońca, nam płyną blaski dnia.<br/>Mocarzów ziemskich trony padają w proch i pył;<br/>Twój tron jest niewzruszony, Ty wiecznie będziesz żył.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ustaje młódź, omdlewa i więdnie jakby kwiat,<br/>lecz nowych sił nabywa, kto w sercu Tobie rad.<br/>Gdy życia dzień się schyli, gdy już zapadnie zmrok,<br/>ten znajdzie Gię w tej chwili, kto Twych pilnował dróg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I choćby się przerwała już dzisiaj życia nić,<br/>Twa miłość zawsze trwała ją wiecznie będzie wić.<br/>Zgoiłeś serca rany, przewiodłeś nas przez mrok.<br/>Z wdzięcznością więc żegnamy ubiegły stary rok.</lines>
+    </verse>
+  </lyrics>
+</song>

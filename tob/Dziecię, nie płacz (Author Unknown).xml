@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:34">
+  <properties>
+    <titles>
+      <title>Dziecię, nie płacz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="99"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dziecię, nie płacz, nie narzekaj,<br/>Jezusowe imię bierz,<br/>ono radość ci przyniesie,<br/>tylko ufaj, tylko wierz!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Słodkie jest imię to,<br/>przed nim znika wszelkie zło.<br/>Słodkie jest imię to,<br/>przed nim znika wszelkie zło.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Imię Jezus tracza twoją,<br/>ono silną zbroją twą,<br/>z tym imieniem idź w bój śmiało,<br/>zwalczysz łatwo skłonność złą.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Słodkie jest imię to,<br/>przed nim znika wszelkie zło.<br/>Słodkie jest imię to,<br/>przed nim znika wszelkie zło.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, najdroższe imię Jezus!<br/>Klejnot to dla wszystkich dusz,<br/>ono blaski sieje w nocy,<br/>ciszę zsyła w czasie burz.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Słodkie jest imię to,<br/>przed nim znika wszelkie zło.<br/>Słodkie jest imię to,<br/>przed nim znika wszelkie zło.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jak nam zacne imię Jezus<br/>dla przelanej świętej krwi!<br/>Przez nie daje Bóg zbawienie<br/>i otwiera w niebo drzwi.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Słodkie jest imię to,<br/>przed nim znika wszelkie zło.<br/>Słodkie jest imię to,<br/>przed nim znika wszelkie zło.</lines>
+    </verse>
+  </lyrics>
+</song>

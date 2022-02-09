@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:32">
+  <properties>
+    <titles>
+      <title>Zbawca On porusza góry</title>
+    </titles>
+    <copyright>2006 Hillsong Publishing</copyright>
+    <authors>
+      <author type="words">Reuben Morgan</author>
+      <author type="music">Reuben Morgan</author>
+      <author type="words">Ben Fielding</author>
+      <author type="music">Ben Fielding</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="794"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>gods-might</theme>
+      <theme>love</theme>
+      <theme>salvation</theme>
+      <theme>worship</theme>
+      <theme>victory</theme>
+      <theme>bible</theme>
+      <theme>god-with-us</theme>
+      <theme>forgiveness</theme>
+      <theme>easy</theme>
+      <theme>resurrection</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>-<br/>Okaż nam zmiłowanie<br/>Miłość niesłabnącą<br/>Niech Łaski spłynie moc.<br/>Ześlij Swe przebaczenie<br/>Dobroci Twojej dzieło<br/>Nadzieją natchnij</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Zbawca, On porusza góry<br/>A Jego moc zbawia świat,<br/>Jego moc zbawia świat<br/>Odwieczny dawca odkupienia<br/>Zmartwychwstał, pokonał śmierć,<br/>Jezus pokonał śmierć.<br/>-</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przygarnij mnie do serca,<br/>Zabierz me słabości,<br/>Namaść Duchem Swym.<br/>Oddaję Ci swoje życie<br/>Prowadź mnie Twą drogą<br/>Bądź przy mnie blisko.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Zbawca, On porusza góry<br/>A Jego moc zbawia świat,<br/>Jego moc zbawia świat<br/>Odwieczny dawca odkupienia<br/>Zmartwychwstał, pokonał śmierć,<br/>Jezus pokonał śmierć. // x2<br/>//</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Ześlij jasność, aby poznał świat - Ciebie<br/>Wielki Królu, Zbawicielu nasz - Jezu</lines>
+    </verse>
+  </lyrics>
+</song>

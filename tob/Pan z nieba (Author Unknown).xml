@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:51">
+  <properties>
+    <titles>
+      <title>Pan z nieba</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="416"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pan z nieba i z łona Ojca przychodzi, oto<br/>się z Maryi dziś Jezus rodzi, łaski przynosi,<br/>kto o nie prosi, odpuszcza grzechy, daje<br/>pociechy, o Panie nasz święty, cudnie pojęty.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przystąpmy do tronu z swymi prośbami, do<br/>Pana Jezusa z skruchą, ze łzami; niech łaska,<br/>Boże, Twoja wspomoże, zlituj się Panie, oddal<br/>karanie od nas grzesznych ludzi, gdy Twój głos budzi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Panie! Tyś z Ojca, Tyś światło z Boga, Tyś<br/>Sam przezwyciężył srogiego wroga, te czynią<br/>kroki Boskie wyroki, aby stworzony człowiek<br/>korony dostąpił przez Ciebie i mieszkał w niebie.</lines>
+    </verse>
+  </lyrics>
+</song>

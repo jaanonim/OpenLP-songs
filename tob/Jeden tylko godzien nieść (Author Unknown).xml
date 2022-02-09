@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:22">
+  <properties>
+    <titles>
+      <title>Jeden tylko godzien nieść</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="103"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jeden tylko godzien nieść<br/>Wieczną chwałę, wieczną cześć,<br/>Godzien, aby cały świat,<br/>W uwielbieniu przed Nim padł:<br/>Jezus, który z nieba zszedł.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeden wziął do Swoich rąk<br/>Odkupienie z wiecznych mąk,<br/>Jeden aż do grobu niósł<br/>Nędzę grzechu pełną gróz:<br/>Jezus, co na krzyżu zmarł.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jeden wywiódł z głębi ćmy<br/>Jasne, cudne życia dni;<br/>On promienie z tamtych stron<br/>I do naszych zesłał łon:<br/>Jezus, który zmartwychwstał.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jeden stłumił Boży gniew<br/>Przez Swą świętą, drogą krew,<br/>I w kapłańskiej służbie On<br/>Prośby śle przed Boży tron:<br/>Jezus, co się w niebo wzniósł.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jeden w pełni wiecznych praw<br/>Dokonuje Bożych spraw,<br/>Zbiera i prowadzi w bój<br/>I buduje Kościół Swój:<br/>Jezus, co obiecał przyjść</lines>
+    </verse>
+  </lyrics>
+</song>

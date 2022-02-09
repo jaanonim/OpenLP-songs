@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:31">
+  <properties>
+    <titles>
+      <title>Mam wspaniałego Zbawiciela</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="305"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mam wspaniałego Zbawiciela,<br/>On wszędzie pomoc Swą mi śle;<br/>O Jego cudach muszę świadczyć,<br/>Niech każdy, każdy to wie!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Niechaj każdy to wie! /x2<br/>Mam wspaniałego Zbawiciela!<br/>Niech każdy, każdy to wie!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miłością Swą mię uszczęśliwia,<br/>Przy Jego boku mogę stać,<br/>On najpiękniejszy z pośród ludzi!<br/>Obyście chcieli Go znać!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy szatan sidła swe zastawia,<br/>Zapuszcza swą zwodniczą sieć,<br/>Wyrywa z nich mnie Zbawcy ręka.<br/>Chcę za to chwałę Mu nieść!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ma miłość, moje życie całe<br/>Jest Jego - błogim taki stan!<br/>Zbawienie Swoje doskonałe<br/>Dał mi wspaniały mój Pan.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:49">
+  <properties>
+    <titles>
+      <title>Bądźcie czujni</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="375"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bądźcie czujni i w modlitwie trwajcie,<br/>wkrótce przyjdzie Chrystus Pan.<br/>W Nim nadzieję, wierni, pokładajcie<br/>póki czas dla modlitw dań.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Czekaj, módl się zawsze, stale,<br/>w rozkazaniach Pana trwaj,<br/>wkrótce Pan nasz przyjdzie w<br/>chwale, teraz już Mu chwałę daj.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bądźcie czujni i w modlitwie trwajcie,<br/>wróg nasz krąży wkoło nas.<br/>Jemu mocną wiarą odpór dajcie,<br/>a pokusy znikną w nas.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Czekaj, módl się zawsze, stale,<br/>w rozkazaniach Pana trwaj,<br/>wkrótce Pan nasz przyjdzie w<br/>chwale, teraz już Mu chwałę daj.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bądźcie czujni i w modlitwie trwajcie,<br/>w pracy niech wam płynie czas,<br/>krwią Jezusa dusze oczyszczajcie,<br/>wkrótce Pan odwoła nas.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Czekaj, módl się zawsze, stale,<br/>w rozkazaniach Pana trwaj,<br/>wkrótce Pan nasz przyjdzie w<br/>chwale, teraz już Mu chwałę daj.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bądźcie czujni i w modlitwie trwajcie.<br/>Bóg usłyszy modły te, sercem<br/>szczerym ufnie Doń wzywajcie,<br/>ten kto w Panu wzrastać chce,</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Czekaj, módl się zawsze, stale,<br/>w rozkazaniach Pana trwaj,<br/>wkrótce Pan nasz przyjdzie w<br/>chwale, teraz już Mu chwałę daj.</lines>
+    </verse>
+  </lyrics>
+</song>

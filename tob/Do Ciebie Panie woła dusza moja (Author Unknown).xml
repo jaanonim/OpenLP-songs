@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:06">
+  <properties>
+    <titles>
+      <title>Do Ciebie Panie woła dusza moja</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Do Ciebie Panie woła dusza moja<br/>Tęskni ciało me<br/>Gdy nie ma Cię, Moje serce ogarnia lęk<br/>Przyjdź dotknij mnie<br/>Rozraduj mnie<br/>Jezu, pragnę blisko Ciebie być<br/>Jezu, w Twych ramionach się skryć<br/>Słodycz Twą poznawać co dnia<br/>Przy sercu Twym trwać</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:45">
+  <properties>
+    <titles>
+      <title>Tak mocno głos Pasterza brzmi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="498"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tak mocno głos Pasterza brzmi,<br/>Głos ten niebiosa niosą mi:<br/>„Owiec zbłąkanych szukam wciąż,<br/>By je do stada przywieść już."</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Zwijcie je, zwijcie je!<br/>Niech zbłąkane nawrócą się!<br/>Zwijcie je, zwijcie je,<br/>Zwijcie zbłąkane do Zbawcy!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chodźcie! - Tak woła Pasterz was<br/>- Szukajcie owiec, póki czas,<br/>By tor znalazły w złoty gród,<br/>I nie poniosły wiecznych szkód.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ach, głos ginących owiec słysz,<br/>Pomóż je wyrwać z ciernia wzwyż;<br/>I tak, jak Jezus życie dał,<br/>Daj i ty wszystko - to nasz dział.</lines>
+    </verse>
+  </lyrics>
+</song>

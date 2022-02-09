@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:07">
+  <properties>
+    <titles>
+      <title>Za mnie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="15"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z wyżyn niebiańskich na ziemię tu zszedł,<br/>Jezus, wszechświata Pan.<br/>Przyszedł na ziemię wziąć wszystek nasz grzech<br/>Boży wykonać plan.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Za mnie zeń drwiła rzymska straż,<br/>Za mnie Go biła, pluła w twarz.<br/>Za mnie On cierpiał Zbawca nasz,<br/>Hańbę sromotę i znój.<br/>Dla mnie zostawił w niebie tron,<br/>Za mnie krzyż ciężki dźwigał On,<br/>Za mnie męczeński poniósł zgon,<br/>Jezus, Zbawiciel mój!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jakże niewinny Zbawiciel nasz mógł,<br/>Rzucić niebiański dom?<br/>Cierpieć na ziemi ubóstwo i chłód,<br/>Żąć grzechów naszych plon!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pójdźże do Zbawcy z ciężarem twych win,<br/>Złóż przed Nim grzechy twe.<br/>Przecież za ciebie też zmarł Boży Syn,<br/>On przyjmie także cię!</lines>
+    </verse>
+  </lyrics>
+</song>

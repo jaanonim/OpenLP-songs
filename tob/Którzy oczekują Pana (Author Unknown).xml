@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:39">
+  <properties>
+    <titles>
+      <title>Którzy oczekują Pana</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="133"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Którzy oczekują Pana, nabywają nowych sił,<br/>Podnoszą się w górę jak orły.<br/>Chodzą a nie ustawają,<br/>Biegnąc nie spracują się,<br/>Naucz mnie oczekiwać Cię.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Naucz Panie czekać Ciebie na kolanach co dnia,<br/>Aż na moją modlitwę odpowiedź swą dasz.<br/>Naucz nie szukać tego<br/>Co człowiek daje mi,<br/>Tylko czekać na Ciebie, na to, co dasz Ty.</lines>
+    </verse>
+  </lyrics>
+</song>

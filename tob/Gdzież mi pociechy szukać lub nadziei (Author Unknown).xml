@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:25">
+  <properties>
+    <titles>
+      <title>Gdzież mi pociechy szukać lub nadziei</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="181"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdzież mi pociechy<br/>szukać lub nadziei;<br/>Kędyż wśród nieszczęść<br/>znajdę ją zawiei?<br/>Serce zbolałe,<br/>oczy zaszły łzami,<br/>Ciężko z troskami.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdzie szukać ulgi,<br/>gdzie swą złożyć głowę,<br/>Jakże złagodzić<br/>sądy Twe surowe,<br/>Kiedy niepokój,<br/>trwożąc biedną duszę,<br/>Rodzi katusze.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdzie? O, nie w świecie,<br/>nie w objęciach jego,<br/>Lecz, o mój Jezu,<br/>u stóp krzyża Twego,<br/>Na górze świętej, tam,<br/>gdzie szczyt Golgoty,<br/>Znajdę wzór cnoty.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Panie! Tyś cierpiał,<br/>choć niewinny byłeś,<br/>Ciebie zdradzono,<br/>choć miłością żyłeś;<br/>Tobie cierniami<br/>świętą skroń zraniono,<br/>Octem pojono.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tyś cierpiał czysty,<br/>sprawiedliwy, święty,<br/>Na drzewie hańby<br/>strasznym tam rozpięty;<br/>Wśród wściekłej tłuszczy<br/>wrogów Swych konałeś,<br/>Jednak wytrwałeś.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ja zaś, ja, grzesznik,<br/>czemuż ja narzekam?<br/>Czemuż od krzyża<br/>z trwogą tak uciekam?<br/>Krzyż ten, mój Jezu,<br/>i na Tobie ciężył,<br/>A Tyś zwyciężył.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>O mój Chrystusie,<br/>Ty ucieczko moja,<br/>Całą nadzieją<br/>tylko łaska Twoja!<br/>Ginie przez Ciebie<br/>w sercu smutek wszelki,<br/>Boże mój wielki!</lines>
+    </verse>
+  </lyrics>
+</song>

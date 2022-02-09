@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:55">
+  <properties>
+    <titles>
+      <title>Mój Ojciec&lt;</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="486"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mój Ojciec ma w niebiesiech tron,<br/>anielskim wojskiem włada On<br/>// I przy mnie mieszka w noc i w dzień,<br/>odwraca wszelkiej zguby cień. //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wróbelki karmi dłonią Swą i<br/>czuwa, gdy ptaszęta śpią;<br/>// Odziewa błonia, stroi las<br/>kwiecistą szatą barwnych kras. //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z mej głowy nie upadnie włos,<br/>bo w Pana ręku jest mój los,<br/>// Choćbym się skrył, nie wiedzieć<br/>gdzie, On zawsze patrzy w serce me. //</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mój Ojcze, jakżeś dobry Ty!<br/>Twej woli któż nie słuchałby?<br/>// Więc serce me, o, Jezu, zmień,<br/>i wszystkie złości wypłosz zeń! //</lines>
+    </verse>
+  </lyrics>
+</song>

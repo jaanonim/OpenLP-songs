@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:00">
+  <properties>
+    <titles>
+      <title>Szczęśliwym już w mym Zbawcy teraz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="781"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szczęśliwym już w mym Zbawcy teraz,<br/>Słów brak bym to wyrazić mógł.<br/>Me winy On krwią świętą zmazał.<br/>Już spocznę więc u Jego nóg.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szczęśliwy jestem w Nim,<br/>Szczęśliwy jestem w Nim,<br/>Bo krwi Jego zdrój już omył brud mój,<br/>Tak, jestem szczęśliwy w Nim.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uwielbiać chcę Jezusa mego,<br/>W Nim Wodza tak dobrego mam,<br/>Cóż byłbym ja bez łaski Jego?<br/>A teraz mię prowadzi Sam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szczęśliwym, że mój Pasterz drogi,<br/>O każdej Swej owieczce wie.<br/>Sam pasie, do wód cichych wodzi,<br/>I każdą z nieb z imienia zwie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O bracie, coś w swych żądz niewoli,<br/>Czy chciałbyś też to szczęście mieć?<br/>Swe brzemię i Swój trud niedoli<br/>Do Jego stóp w modlitwie nieś</lines>
+    </verse>
+  </lyrics>
+</song>

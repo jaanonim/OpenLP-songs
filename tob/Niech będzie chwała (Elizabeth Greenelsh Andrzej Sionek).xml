@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:17">
+  <properties>
+    <titles>
+      <title>Niech będzie chwała</title>
+    </titles>
+    <authors>
+      <author type="words">Elizabeth Greenelsh Andrzej Sionek</author>
+      <author type="music">Elizabeth Greenelsh Andrzej Sionek</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="429"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niech będzie chwała i cześć uwielbienie,<br/>chwała i cześć Jezusowi.<br/>Chwała, niech będzie chwała,<br/>Tak Jemu chwała i cześć!</lines>
+    </verse>
+  </lyrics>
+</song>

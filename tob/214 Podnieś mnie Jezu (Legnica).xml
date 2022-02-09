@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:48">
+  <properties>
+    <titles>
+      <title>214 Podnieś mnie Jezu</title>
+      <title>Legnica</title>
+    </titles>
+    <authors>
+      <author>Legnica</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Podnieś mnie Jezu i prowadź do Ojca. /2x<br/>Zanurz mnie w wodzie Jego miłosierdzia. <br/>Amen, amen/2x</lines>
+    </verse>
+  </lyrics>
+</song>

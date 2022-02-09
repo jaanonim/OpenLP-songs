@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:09">
+  <properties>
+    <titles>
+      <title>Nikt na świecie nie jest jak mój Pan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nikt na świecie nie jest jak mój Pan<br/>Nikt na świecie nie może zrobić tego, co On<br/>On jest najwyższy, a imię Jego wielkie jest</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On mnie obmył z grzechów Swoją krwią<br/>On napełnił radością duszę mą<br/>On mnie zbawił i dał mi całkiem nowe życie<br/>Jezus Chrystus moim Panem jest</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:00">
+  <properties>
+    <titles>
+      <title>My za wiarę Chrystusową</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="797"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My za wiarę Chrystusową<br/>Chcemy walczyć, życie dać,<br/>Drogą żywą i wciąż nową<br/>Naprzód kroczyć, w wierze trwać.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Do szeregu stańmy społem,<br/>Jako jeden silny mąż,<br/>W jednej myśli z jasnym czołem<br/>Za Chrystusem idźmy wciąż!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Walka ciężka, ogień mocny,<br/>Iż w posadach ziemia drży,<br/>Ale Wódz nasz jest wszechmocny.<br/>Jego sztandar w górze lśni.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Siłą wiary - baszt Syjonu,<br/>Brońmy stale dzień i noc,<br/>A orężem Giedeona<br/>Złamiem wroga groźną moc.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>W górę sztandar Chrystusowy!<br/>Ewangelii wieczny cud<br/>- Przełamiemy wnet zapory,<br/>I do Boga przyjdzie lud.</lines>
+    </verse>
+  </lyrics>
+</song>

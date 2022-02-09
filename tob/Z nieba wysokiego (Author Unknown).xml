@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:25">
+  <properties>
+    <titles>
+      <title>Z nieba wysokiego</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="498"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z nieba wysokiego, gdzie anioły są,<br/>Bóg na każde dziecię twarz obraca Swą.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jego modłów słucha Stwórca dzień i noc.<br/>Nad nim bacznie czuwa wciąż. Ojcowska moc.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Daje chleba co dzień hojnie z łaski Swej;<br/>gdy nam grozi trwoga, Pan wyzwala z niej.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mówcie wszystkim dzieciom, że ich Ojcem Bóg,<br/>że je umiłował i strzeże ich dróg.</lines>
+    </verse>
+  </lyrics>
+</song>

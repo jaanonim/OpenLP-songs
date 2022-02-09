@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:54">
+  <properties>
+    <titles>
+      <title>Dlaczego smutkiem zdjętyś tak</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="705"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dlaczego smutkiem zdjętyś tak,<br/>O przyjacielu mój?<br/>Bez zasług twych miłości znak,<br/>Zbawiciel daje twój!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Z miłości On zbawienie da,<br/>Ozdobi wieńcem też.<br/>Dla ciebie pokój błogi ma<br/>- Ten dar z rąk Jego weź.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dlaczegoś smutny w życiu tym,<br/>I szemrzesz w noc i w dzień?<br/>On widzi boleść w sercu twym,<br/>Oddali grzechu cień.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Już od zarania twoich lat<br/>Bóg wspiera życie twe,<br/>Prowadzi Sam przez ciemny świat,<br/>Daj Jemu serce swe!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Zwiątpienie, strach, odleci precz;<br/>W Jezusie życia zdrój!<br/>Ty musisz w sercu swoim rzec;<br/>Pan Jezus - Zbawca mój!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Posłuchaj, błogi Jego głos,<br/>W Nim radość wdzięczna brzmi,<br/>A będziesz miał szczęśliwy los,<br/>Po wszystkie życia dni!</lines>
+    </verse>
+  </lyrics>
+</song>

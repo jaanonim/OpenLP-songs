@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:29">
+  <properties>
+    <titles>
+      <title>Jam w grzechach niegdyś martwy był</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="264"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jam w grzechach niegdyś martwy był,<br/>Zwątpiłem w sercu swym,<br/>Lecz teraz Chrystusowa śmierć<br/>I życie zyskiem mym.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ach, cóż za wieść: Więc śmiem i ja<br/>Do Twych się uciec ran!<br/>O Chryste, jam na wieki Twój,<br/>Boś Ty mój Bóg i Pan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O wysokości, gdzież twój szczyt,<br/>O toni, gdzież twe dno?<br/>Miłości, kruszysz serca głaz.<br/>Uzdrawiasz duszę mą.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niewdzięczne, zimne serce me<br/>Od Pana stroni wciąż.<br/>Zapałaj świętym ogniem ty,<br/>Do nieba, w górę dąż!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Choć żyję, już nie żyję ja,<br/>W Chrystusie życie me.<br/>On kocha mnie po wszystek czas,<br/>Za mnie poświęcił się</lines>
+    </verse>
+  </lyrics>
+</song>

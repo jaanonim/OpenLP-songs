@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:27">
+  <properties>
+    <titles>
+      <title>Wszystko Tobie dziś oddaję</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="220"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wszystko Tobie dziś oddaję,<br/>Wszystko twoim musi być;<br/>Chcę Cię, Jezu, kochać zawsze,<br/>W obecności Twojej żyć.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Wszystko daję dziś /x2<br/>Jezusowi, memu Zbawcy<br/>Wszystko daję dziś.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wszystko Tobie dziś oddaję,<br/>Do nóg Twoich skłaniam się;<br/>Radość świata zapomniana,<br/>Uchwyć, Jezu, uchwyć mnie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wszystko Tobie dziś oddaję,<br/>Zlej Świętego Ducha chrzest,<br/>Uczyń mnie zupełnie Twoim,<br/>Daj mi poznać, żeś mój jest!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wszystko Tobie dziś oddaję,<br/>Teraz czuję święty żar,<br/>Doskonałą radość w Tobie,<br/>Niewymownej łaski dar.</lines>
+    </verse>
+  </lyrics>
+</song>

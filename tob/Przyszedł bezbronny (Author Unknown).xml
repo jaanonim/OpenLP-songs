@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:35">
+  <properties>
+    <titles>
+      <title>Przyszedł bezbronny</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przyszedł bezbronny na świat<br/>Do ludzi, których stworzył sam<br/>Nie aby żąć lecz by siać<br/>Nie aby wziąć lecz Siebie dać</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To jest nasz Bóg, Sługa i Król<br/>Dziś tak jak On chce służyć Mu<br/>Swe całe życie na Jego ołtarz kłaść<br/>To co mi dal chcę teraz dać</lines>
+    </verse>
+  </lyrics>
+</song>

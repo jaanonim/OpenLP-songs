@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:31">
+  <properties>
+    <titles>
+      <title>Jakże ja szczęśliwy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="300"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jakże ja szczęśliwy,<br/>iż znalazłem Pana,<br/>że mię drogi Zbawca<br/>wziął na własność Swą<br/>I Była moja dusza<br/>grzechem tak związana,<br/>On się do niej skłonił,<br/>On uwolnił ją;<br/>W Swej miłości wielkiej<br/>rany me zawiązał;<br/>Godzien mojej chwały<br/>Jezus tylko Sam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Jezus tylko Sam, /x2<br/>Wszystko da obficie Jezus tylko Sam.<br/>/ Jezus tylko Sam /x2 Daje nowe życie;<br/>Jezus tylko Sam!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On chce dać i tobie<br/>to zbawienne życie,<br/>Jego krew oczyści cię<br/>ze wszystkich win.<br/>On cię chce zbogacić,<br/>abyś miał obficie<br/>I owoce Ducha hojnie<br/>przyniósł w Nim.<br/>Uchwyć się więc Jego<br/>w niezachwianej wierze,<br/>Jest to Mocarz wielki<br/>- Jezus tylko Sam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Porzuć wszelkie skargi,<br/>duszo utrapiona,<br/>Wielkie to zbawienie<br/>sprawi w tobie cud.<br/>Patrz, Zbawiciel chce cię<br/>wziąć na Swe ramiona,<br/>W łasce cię poniesie<br/>poprzez życia trud.<br/>Duszo, w tym imieniu<br/>masz zwycięstwo pewne,<br/>Zdobył je dla ciebie<br/>Jezus tylko Sam.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kiedyś z Nim spojony,<br/>możesz mieć od Niego<br/>Co dzień nowe światło,<br/>zdroje nowych sił.<br/>On tym krzewem winnym,<br/>tyś latorośl Jego;<br/>Ty w Nim, a On w tobie<br/>będzie odtąd żył.<br/>Całą hojność Ducha<br/>i owoców Jego<br/>Ma On i dla ciebie<br/>- Jezus tylko Sam.</lines>
+    </verse>
+  </lyrics>
+</song>

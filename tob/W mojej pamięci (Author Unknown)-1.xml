@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:11">
+  <properties>
+    <titles>
+      <title>W mojej pamięci</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="60"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W mojej pamięci na zawsze się wrył,<br/>Cudny, wspaniały ten dzień,<br/>Gdy na rozdrożu, w ciemnościach, bez sił,<br/>Zbawcę spotkałem wśród mgieł.<br/>Jakiż On wierny przyjaciel i Pan,<br/>Zaraz wyciągnął swą dłoń.<br/>Jezus, Zbawiciel, mój Pan, moje życie<br/>Już zgubna nie grozi mi toń.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Niebiański blask wypełnił duszę mą.<br/>Gdy Chrystus Pan mnie obmył swoją krwią.<br/>Zgładzone grzechy me, kary już nie lękam się.<br/>Niebiański blask wypełnił duszę mą!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Z Ducha zrodzony, do życia wśród chwał,<br/>Z grzechu zwolniony przez krzyż.<br/>Z żywą nadzieją, że w niebie mam dział,<br/>Zdążam do domu hen wzwyż.<br/>Wciąż wspominając pamiętny ten dzień,<br/>Który tak wiele dał mi,<br/>Gdy na rozstaju mój Jezus do raju<br/>Z miłością otworzył mi drzwi.</lines>
+    </verse>
+  </lyrics>
+</song>

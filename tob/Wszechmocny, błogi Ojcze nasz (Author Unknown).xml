@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:53">
+  <properties>
+    <titles>
+      <title>Wszechmocny, błogi Ojcze nasz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="678"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wszechmocny, błogi Ojcze nasz,<br/>Wysłuchaj głos modlitwy mej!<br/>/ Ze źródeł Twoich dar mi dasz -<br/>Wysławiam Imię chwały Twej. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ty wszechmogący Boże nasz,<br/>Objawiasz, Panie, ramię Swe.<br/>/ Ty serca dzieci Swoich znasz,<br/>Królestwo niechaj przyjdzie Twe! /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mądrości Twojej wieczny blask,<br/>I zdrój radości zawsze trwa!<br/>/ Owocem Twoich wiecznych łask<br/>Niech będzie święta wola Twa! /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ty wielki jesteś Bóg i Król,<br/>Z potoków żywych darzysz Sam,<br/>/ Wszak żywisz, Panie, każdy twór,<br/>Na co dzień udziel chleba nam. /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dobroci pełen jest nasz Bóg.<br/>W upadkach często znosi nas.<br/>/ My wrogom odpuszczamy dług,<br/>Więc obdarz łaską w każdy czas. /x2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Czyż był bez grzechu kiedy ktoś?<br/>W pokusy racz nie wwodzić nas!<br/>/ Ach, w Tobie, Panie siły dość,<br/>Miłością posil w słuszny czas. /x2</lines>
+    </verse>
+    <verse name="v7">
+      <lines>W twych sprawach chwała wieczna tkwi,<br/>Królestwa Twego piękny blask,<br/>/ Niech chwała Tobie ciągle brzmi.<br/>Cześć wieczna za zdrój Twoich łask. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

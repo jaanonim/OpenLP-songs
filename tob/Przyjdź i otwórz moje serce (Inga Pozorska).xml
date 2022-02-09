@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:30">
+  <properties>
+    <titles>
+      <title>Przyjdź i otwórz moje serce</title>
+    </titles>
+    <authors>
+      <author type="words">Inga Pozorska</author>
+      <author type="music">Inga Pozorska</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="537"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przyjdź i otwórz moje serce,<br/>Przyjdź i dotknij mnie.<br/>Stwórz na nowo, ukaż drogę,<br/>którą wybrał Pan.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O Duchu Święty, przyjdź,<br/>Na nowo rozpal nas.<br/>Strumienie łaski Twej,<br/>Na życie nasze zlej.</lines>
+    </verse>
+  </lyrics>
+</song>

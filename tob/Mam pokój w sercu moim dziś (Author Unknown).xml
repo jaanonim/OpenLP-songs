@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:43">
+  <properties>
+    <titles>
+      <title>Mam pokój w sercu moim dziś</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="252"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mam pokój w sercu moim dziś,<br/>dał mi go pan Bóg Sam,<br/>jak błogo w Bożej łasce żyć,<br/>tu kościół Boży mam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jezu, słońce,<br/>Twej światłości pragnę zawsze Ciebie w sercu mym,<br/>gdy doń się zbliżysz tak, jak gość,<br/>światłem się promieni Twym.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pieśń chwały słyszę w sercu dziś,<br/>zdrój pociech płynie doń,<br/>unosi mię aż w niebios wzwyż<br/>tej świętej pieśni ton.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Jezu, słońce,<br/>Twej światłości pragnę zawsze Ciebie w sercu mym,<br/>gdy doń się zbliżysz tak, jak gość,<br/>światłem się promieni Twym.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pragnienie w sercu moim mam,<br/>łask Bożych poznać zdrój,<br/>duch wznosi się ze świata tam,<br/>gdzie znikła boleść, znój.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Jezu, słońce,<br/>Twej światłości pragnę zawsze Ciebie w sercu mym,<br/>gdy doń się zbliżysz tak, jak gość,<br/>światłem się promieni Twym.</lines>
+    </verse>
+  </lyrics>
+</song>

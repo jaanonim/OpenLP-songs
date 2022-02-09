@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:31">
+  <properties>
+    <titles>
+      <title>Błogosław związek nasz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="39"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Błogosław związek nasz,<br/>o, Panie Boże, sam,<br/>niech bratnia miłość<br/>łączy nas,<br/>jak przykazałeś nam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przed Twój niebieski tron<br/>gorliwe modły ślem,<br/>Twe dziatki<br/>od niezgody chroń,<br/>wiąż serca Duchem Swym.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Doczesny znój i trud<br/>ucz nas społecznie nieść,<br/>ku wszystkim ludziom,<br/>jak Twój lud<br/>głęboką miłość mieć.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A gdy odejdziem stąd,<br/>Jezusa Duch niech nas<br/>prowadzi, strzeże,<br/>ma w nas rząd<br/>przez cały ziemski czas.</lines>
+    </verse>
+  </lyrics>
+</song>

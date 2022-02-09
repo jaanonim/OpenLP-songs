@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:25">
+  <properties>
+    <titles>
+      <title>Dzisiaj jest dzień</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="61"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/: Dzisiaj jest dzień :/<br/>/: Który dał nam Pan :/<br/>Weselmy się, weselmy się<br/>/: I radujmy się w nim :/<br/>Dzisiaj jest dzień, który dał nam Pan,<br/>Weselmy się i radujmy się w Nim.<br/>/: Dzisiaj jest dzień :/<br/>Który dał nam Pan.</lines>
+    </verse>
+  </lyrics>
+</song>

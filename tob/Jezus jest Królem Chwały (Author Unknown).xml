@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:15">
+  <properties>
+    <titles>
+      <title>Jezus jest Królem Chwały</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="255"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus jest Królem Chwały!<br/>Księciem Pokoju On!<br/>Nieba i ziemi Panem jest,<br/>Objął sprawiedliwy tron!<br/>Chóry aniołów przed Nim</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wielbią Go, oddają cześć!<br/>I odwieczną nam głoszą wieść:<br/>Jezus Chrystus Panem jest!<br/>Hosanna! Jezus, Syn Dawida!<br/>Hosanna! Jezus, królów Król!<br/>Całe niebo pełne chwały,<br/>Bo Jezus Chrystus Panem jest!</lines>
+    </verse>
+  </lyrics>
+</song>

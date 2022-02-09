@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:45">
+  <properties>
+    <titles>
+      <title>Panie, zsyłasz łaski deszcze</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="284"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie, zsyłasz łaski deszcze, budzisz serca tu i tam;<br/>lecz mnie nie zrosiły jeszcze, choć w pragnieniu biedny łkam.<br/>Zroś i mnie! Zroś i mnie! Obmyj grzechów brud i kłam!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ojcze, czy mię chcesz pominąć, kiedy w nędzy grzechu schnę?<br/>Słysz me prośby, nie daj zginąć, z łaski Swej nie puszczaj mię!<br/>Nie puść mię! Nie puść mię! Z łaski Swej nie puszczaj mię!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezu, czy się nie zmiłujesz nad zgubioną duszą mą?<br/>O, ja wiem, Ty poratujesz, wyrwiesz i oczyścisz ją!<br/>Oczyść mię! Oczyść mię! Czystą, żywą wodą Swą.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Duchu, czyli nie zaradzisz wielkiej ospałości mej?<br/>W niebo tylko Ty prowadzisz, Swoją siłę we mnie wlej!<br/>Posil mię! Posil mię! Zaradź ospałości mej!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Panie, Ty rad błogosławisz i mnie z Sobą mocno spój;<br/>Ty w narodach się rozsławisz, błogosław mię, bom ja Twój!<br/>Daj i mnie! Daj i mnie Swoich łask, bym został Twój.</lines>
+    </verse>
+  </lyrics>
+</song>

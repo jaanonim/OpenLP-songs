@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:05">
+  <properties>
+    <titles>
+      <title>Przyjdź Duchu Święty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="227"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Przyjdź Duchu Święty ja pragnę!<br/>O to dziś błagam Cię!<br/>Przyjdź w Swojej mocy i sile,<br/>Radością wypełnij mnie.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Przyjdź jako mądrość do dzieci,<br/>Przyjdź jak ślepemu wzrok.<br/>Przyjdź jako moc w mej słabości,<br/>Weź wszystko, co moje jest!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przyjdź jako źródło pustyni,<br/>Przyjdź prosto do naszych serc.<br/>O, niech Twa moc uzdrowienia<br/>Dotknie, uleczy mnie już!</lines>
+    </verse>
+  </lyrics>
+</song>

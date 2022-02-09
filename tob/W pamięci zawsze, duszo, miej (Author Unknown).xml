@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:41">
+  <properties>
+    <titles>
+      <title>W pamięci zawsze, duszo, miej</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="462"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W pamięci zawsze, duszo, miej:<br/>Gdy Jezus skinie, śpiesz;<br/>Gdy cię wstrzymuje, stanąć chciej,<br/>Gdy woła ciebie, bież!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy chwali, wtenczas uniż się,<br/>Gdy kocha, spocznij w Nim;<br/>Gdy smaga za przestępstwa cię,<br/>Karanie Jego przyjm.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy Jezus zsyła łaski Swe,<br/>Raz tam, to znowu tu.<br/>Radosne to są wówczas dnie,<br/>Gorąco dziękuj Mu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Do boju kiedy wzywa cię,<br/>Idź za Nim mężnie w bój,<br/>Lecz kiedy nie odzywa się,<br/>To w pogotowiu stój.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>W Jezusa niezachwianie wierz,<br/>Bo On, Twój Pan i Król,<br/>Pod Jego skrzydła tylko śpiesz,<br/>Gdy ci dolega ból.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Więc zawsze, duszo droga, bądź<br/>Oddaną całkiem Mu,<br/>Wśród hańby, trwóg, lub szczęścia wciąż<br/>Czcij Jego imię tu.</lines>
+    </verse>
+  </lyrics>
+</song>

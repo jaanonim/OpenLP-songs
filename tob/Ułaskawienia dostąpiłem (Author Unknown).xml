@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:29">
+  <properties>
+    <titles>
+      <title>Ułaskawienia dostąpiłem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="249"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ułaskawienia dostąpiłem,<br/>Któregom nie był godzien ja!<br/>Czym w pysze swojej pogardziłem,<br/>To uczyniła łaska Twa,<br/>że dziś szczęśliwe serce me<br/>/ Wysławia miłosierdzie Twe. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Grzechami wszak nie zasłużyłem<br/>Na łaskę, lecz na Boży gniew,<br/>A mimo to jej dostąpiłem<br/>Przez Chrystusową świętą krew.<br/>Więc któż mi dziś zbawienie śle?<br/>[;.Nikt, tylko miłosierdzie Twe. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To głosząc światu, nie przestaję<br/>Pokornych hołdów Bogu nieść<br/>I łaski Jego moc wyznaję,<br/>Jako najgłębszą wiary treść.<br/>Radości pełen korzę się<br/>/ I wielbię miłosierdzie Twe. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nikt z niego już mnie nie wyzuje,<br/>Bo ono wiary mojej rdzeń,<br/>I na nim modły me gruntuję,<br/>I ono treścią moich pień.<br/>Więc w smutku tę pociechę mam,<br/>/ Że Boże miłosierdzie znam.;]</lines>
+    </verse>
+  </lyrics>
+</song>

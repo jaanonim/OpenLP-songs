@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:27">
+  <properties>
+    <titles>
+      <title>Tak jakim jest</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="213"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tak, jakim jest - nic nie mam, nie<br/>Prócz tego, że mnie głos Twój zwie<br/>Że krew Twa lała się za mnie<br/>Baranku Boży, idę już</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tak, jaki jestem pełen wad<br/>Obdarty z niewinności szat<br/>By w serce promyk łaski wpadł<br/>Tak idę już, Baranku mój</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tak, jaki jestem pełen skruch<br/>Odwaga ma rozwiana w puch<br/>W Twej łasce tylko ufa duch<br/>Więc idę już, Baranku mój</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tak, jakim jest - Tyś łaskaw mi<br/>Przebaczasz i omywasz z win<br/>Dla Twych obietnic wierzę Ci<br/>Baranku Boży, idę już</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tak, jaki jestem Panie mój<br/>Miłością Swoją serce zgój<br/>Bym wiecznie już pozostał Twój<br/>Baranku Boży, idę już</lines>
+    </verse>
+  </lyrics>
+</song>

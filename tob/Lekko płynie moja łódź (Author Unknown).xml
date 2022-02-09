@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:34">
+  <properties>
+    <titles>
+      <title>Lekko płynie moja łódź</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="14"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lekko płynie moja łódź, Alleluja,<br/>Do przystani prędko wróć, Alleluja.<br/>Rzeki życia wartki prąd, Alleluja,<br/>Wkoło wiry zawróć stąd, Alleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chociaż ziębi wody chłód, Alleluja,<br/>Lecz nie straszy głębia wód, Alleluja.<br/>Przez Jordanu wartką toń, Alleluja,<br/>Poprowadzi Ojca dłoń, Alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

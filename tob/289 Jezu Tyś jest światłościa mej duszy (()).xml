@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:56">
+  <properties>
+    <titles>
+      <title>289 Jezu Tyś jest światłościa mej duszy</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezu, Tyś jest Światłością mej duszy,<br/>Niech ciemność ma nie przemawia do mnie już.<br/>Jezu, Tyś jest Światłością mej duszy,<br/>Daj mi moc przyjąć dziś miłość Twą.</lines>
+    </verse>
+  </lyrics>
+</song>

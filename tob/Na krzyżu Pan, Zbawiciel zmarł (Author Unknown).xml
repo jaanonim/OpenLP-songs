@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:54">
+  <properties>
+    <titles>
+      <title>Na krzyżu Pan, Zbawiciel zmarł</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="689"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na krzyżu Pan, Zbawiciel zmarł<br/>Spływając krwią w agonii mąk,<br/>W ofierze się za grzesznych dał<br/>Ratując ich z szatana rąk.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O krzyżu mąk, o krzyżu mąk,<br/>Gdzie Jezus za nas spływał krwią,<br/>O krzyżu mąk, o krzyżu mąk,<br/>Gdzie zawisł Pan z grzeszników rąk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Drżał ziemi krąg, pociemniał dzień,<br/>Gdy Boży Syn Swą schylił skroń,<br/>Piekielna moc zachwiała się,<br/>Szatańskiej złości podła broń.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Więc wierzyć śmiem, o Jezu mój,<br/>Żeś zniszczył też mych grzechów zwój;<br/>Bez winy Sam, jak grzesznyś zmarł,<br/>A grzesznym, nam, zbawienie dał.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:44">
+  <properties>
+    <titles>
+      <title>Wszystko tobie dziś oddaję</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="266"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wszystko Tobie dziś oddaję,<br/>Wszystko Twoim musi być.<br/>Chcę Cię Jezu kochać zawsze,<br/>W obecności Twojej żyć.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wszystko daję dziś,<br/>wszystko daję dziś,<br/>Jezusowi, memu Zbawcy<br/>Wszystko daję dziś.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wszystko Tobie dziś oddaję,<br/>Do nóg Twoich schylam się<br/>Radość świata zapomniana,<br/>Wyższym szczęściem obdarz mię!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Wszystko daję dziś,<br/>wszystko daję dziś,<br/>Jezusowi, memu Zbawcy<br/>Wszystko daję dziś.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wszystko Tobie dziś oddaję,<br/>Zlej Świętego Ducha chrzest<br/>Bym o Tobie Świadczył śmiele<br/>Z mocą, która z Ciebie jest</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Wszystko daję dziś,<br/>wszystko daję dziś,<br/>Jezusowi, memu Zbawcy<br/>Wszystko daję dziś.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wszystko Tobie dziś oddając,<br/>Czuję święty Ducha wiew<br/>Że mam taką radość w Tobie,<br/>Serce me przepełnia śpiew.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Wszystko daję dziś,<br/>wszystko daję dziś,<br/>Jezusowi, memu Zbawcy<br/>Wszystko daję dziś.</lines>
+    </verse>
+  </lyrics>
+</song>

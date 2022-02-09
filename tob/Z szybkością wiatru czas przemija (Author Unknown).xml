@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:04">
+  <properties>
+    <titles>
+      <title>Z szybkością wiatru czas przemija</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="860"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z szybkością wiatru czas przemija.<br/>Tak przeszło już tysiące lat<br/>/ I przejdzie nasze pokolenie<br/>Przykładem przeszłych życia lat. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tak w wieczność mknie dzień tego świata,<br/>Nie pozostanie nawet cień.<br/>/ I życie prędko tak ulata,<br/>I przyjdzie nasz ostatni dzień. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A nasze głośne wychwalanie,<br/>Te huczne dzieła ludzkich rąk,<br/>/ Też runą w przepaść bezpowrotnie,<br/>Jak kamień w morzu spada w głąb. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Więc po cóż na ten świat przyszedłeś?<br/>By cierpieć ból wylewać łzy?<br/>/ Czyż po to tutaj się znalazłeś,<br/>By nie mieć szczęścia ani krzty? /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lecz wiedz, że jest i życie wieczne,<br/>Z Chrystusem szczęście, pokój - tam!<br/>/ Ach patrz jak życie twe jest grzeszne,<br/>Więc zawróć! Śpiesz do niebios bram! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:43">
+  <properties>
+    <titles>
+      <title>Spoczniesz sobie po pielgrzymce</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="656"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Spoczniesz sobie po pielgrzymce,<br/>Siostro droga, bracie luby,<br/>Na Jordanu tamtym brzegu,<br/>Gdzie Bóg Swoje spełni śluby.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Spoczniesz sobie, spoczniesz sobie,<br/>Gdzie Bóg wszystkie łzy ociera,<br/>Gdzie radości nie przeminą<br/>Ani szczęście nie umiera.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Spoczniesz sobie! Wąska droga,<br/>Otoczona przepaściami,<br/>W jasne cię wprowadzi bramy,<br/>W gród niebieski nad górami.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Spoczniesz sobie, spoczniesz sobie<br/>- To nadzieja niezachwiana<br/>- Przy strumieniu wody żywej<br/>I na piersi swego Pana.</lines>
+    </verse>
+  </lyrics>
+</song>

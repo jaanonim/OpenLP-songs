@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:11">
+  <properties>
+    <titles>
+      <title>Każdy człowiek</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="55"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Każdy człowiek niech Go chwali,<br/>Każdy człowiek ty i ja.<br/>Każdy człowiek, w każdym kraju,<br/>On usuwa wszelki strach.<br/>Jezus źródłem jest zbawienia<br/>Za nasz grzech On karę zniósł.<br/>Chwalmy Go za te cierpienia,<br/>Każdy z nas niech śpiewa Mu!</lines>
+    </verse>
+  </lyrics>
+</song>

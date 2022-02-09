@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:22">
+  <properties>
+    <titles>
+      <title>Najlepszy Lekarz zbliża się</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="110"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Najlepszy Lekarz zbliża się -<br/>Miłości pełen Jezus;<br/>Pociechę duszom chorym śle<br/>Jedyny Zbawca, Jezus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cudna pieśń z niebieskich siół<br/>Z ust anielskich spływa w dół.<br/>Śpiewaj, duszo, śpiewaj, z nimi współ:<br/>Jezus, Jezus, Jezus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Spłacony grzechów naszych dług,<br/>Bo za nie cierpiał Jezus;<br/>Drzwi niebios nam otwiera Bóg,<br/>Koronę daje Jezus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na krzyżu zmarłeś za mnie Ty,<br/>Cześć Tobie za to, Jezu!<br/>Baranku Boży, ufam Ci<br/>I kocham Cię, mój Jezu!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Już koniec grzechu, smutku mąk!<br/>Tyś to uczynił Jezu!<br/>Zbawienie biorę z Twoich rąk,<br/>Zbawienie pełne, Jezu!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Zanućmy, bracia, pieśni czci,<br/>Bo chwały godzien Jezus,<br/>O, siostry, niechaj wszędzie brzmi<br/>To słodkie imię Jezus!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O dzieci Boże, wszystkie wraz,<br/>Miłością naszą Jezus!<br/>Więc siły nasze i nasz czas<br/>Niech w służbę bierze Jezus!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Gdy wielki ten nadejdzie dzień<br/>I przyjdzie w mocy Jezus,<br/>Będziemy wiecznie patrzeć Weń,<br/>A niebem będzie Jezus.</lines>
+    </verse>
+  </lyrics>
+</song>

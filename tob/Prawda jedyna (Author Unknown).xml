@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:39">
+  <properties>
+    <titles>
+      <title>Prawda jedyna</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Prawda jedyna słowa Jezusa z Nazaretu,<br/>Że swego Syna posłał z niebios Bóg na świat<br/>Aby niewinnie cierpiąc zmarł za nasze grzechy<br/>I w pohańbieniu przyjął winy wszystkich nas</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dzięki Ci Boże mój za ten krzyż<br/>Który Jezus cierpiał za mnie<br/>Jezus cierpiał za mnie /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uwierz w Jezusa, przecież On za ciebie umarł<br/>I z miłości do nas przyszedł z nieba na ten świat<br/>Błogosławiony ten, kto wierzy choć nie widział<br/>Zaufaj dziś Bogu a na wieki będziesz żył</lines>
+    </verse>
+  </lyrics>
+</song>

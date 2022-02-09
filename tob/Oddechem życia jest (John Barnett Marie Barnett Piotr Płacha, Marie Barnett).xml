@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:25">
+  <properties>
+    <titles>
+      <title>Oddechem życia jest</title>
+    </titles>
+    <copyright>1995 Mercy / Vineyard Publishing</copyright>
+    <authors>
+      <author type="words">John Barnett Marie Barnett Piotr Płacha</author>
+      <author type="music">John Barnett Marie Barnett Piotr Płacha</author>
+      <author type="words">Marie Barnett</author>
+      <author type="music">Marie Barnett</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="474"/>
+    </songbooks>
+    <themes>
+      <theme>meditation</theme>
+      <theme>guitar</theme>
+      <theme>longing</theme>
+      <theme>love</theme>
+      <theme>commitment</theme>
+      <theme>hope</theme>
+      <theme>forgiveness</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oddechem życia jest,<br/>Oddechem życia jest<br/>Obecność Twojaświęta w sercu mym.<br/>Powszednim chlebem jest,<br/>Powszednim chlebem jest<br/>Twe żywe Słowo, dane  mi dziś.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bez Ciebie<br/>nie mogę już żyć,<br/>dla Ciebie<br/>me serce chce bić.</lines>
+    </verse>
+  </lyrics>
+</song>

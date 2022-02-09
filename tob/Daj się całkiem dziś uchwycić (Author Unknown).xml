@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:26">
+  <properties>
+    <titles>
+      <title>Daj się całkiem dziś uchwycić</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="198"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Daj się całkiem dziś uchwycić<br/>W miłą Zbawiciela dłoń!<br/>Nie daj się już dłużej nęcić<br/>W więzy grzechu, śmierci toń!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Zwolnił ciebie Jezus - Bóg<br/>Z grzechu, śmierci; bólu, trwóg.<br/>Wierz, dokonał tego On!<br/>Chwal Go wiecznie aż po zgon!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Złym jest na wpół być zbawionym,<br/>Nie dość to dla duszy twej!<br/>Słowo Boże uczy:<br/>Wierny Jest Bóg w obietnicy Swej.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nie pytaj, czy ci się uda<br/>Tu od grzechu wolnym być.<br/>Twoja walka nic ci nie da;<br/>Tylko się Jezusa chwyć!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Odrzuć wszystko zło ci znane,<br/>To, co nie jest z Boga, złóż!<br/>To twej wierze hasło dane,<br/>Koniec wszelkiej nędzy już.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Alleluja, Zbawicielu!<br/>Weź mnie z łaski, bom ja Twój!<br/>Już nie na wpół, Przyjacielu,<br/>Tu masz cały żywot mój!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Mnie uwolnił Jezus - Bóg<br/>Z grzechu, śmierci, bólu, trwóg.<br/>Wierzę, to uczynił On!<br/>Chwalić chcę Go aż po zgon!</lines>
+    </verse>
+  </lyrics>
+</song>

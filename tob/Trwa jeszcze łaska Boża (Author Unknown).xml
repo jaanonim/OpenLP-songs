@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:35">
+  <properties>
+    <titles>
+      <title>Trwa jeszcze łaska Boża</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="111"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Trwa jeszcze łaska Boża,<br/>trwa odpuszczenia czas,<br/>gdyś zeszedł na bezdroża,<br/>ku Bogu powróć wraz.<br/>Zbawiciel jeszcze czeka,<br/>wyciąga ku nam dłoń,<br/>twe serce czemuż zwleka<br/>i nie powraca Doń?<br/>I nie powraca Doń?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chcesz szczęście znaleźć<br/>z dala od Jego domu bram?<br/>Ach, świat cię tylko skala,<br/>a szczęścia nie na tam. Ku Niemu,<br/>póki pora i czas miłości trwa,<br/>wróć prędko, duszo chora,<br/>On zdrowie tobie da.<br/>On zdrowie tobie da.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Swe serce złóż Mu w darze<br/>i wśród żywota burz;<br/>jak Duch ci święty każe,<br/>tak Zbawcy swemu służ.<br/>Pragnienie twe ukoi,<br/>gdy Doń przybliżysz się,<br/>da pokój duszy twojej,<br/>bo szczęścia twego chce.<br/>Bo szczęścia twego chce.</lines>
+    </verse>
+  </lyrics>
+</song>

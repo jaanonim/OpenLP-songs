@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:37">
+  <properties>
+    <titles>
+      <title>Znam zbłąkaną owcę</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="143"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Znam zbłąkaną owcę,<br/>znam, z prostej drogi zwiódł ją kłam,<br/>od owczarni w dal ją wiódł,<br/>na bezdroża w głód i chłód.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ja tą owcą byłem przyznam się,<br/>ja tą owcą byłem przyznam się.<br/>Lecz mój Zbawca, lecz mój Zbawca,<br/>lecz mój Zbawca szukał mię.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Żal zbłąkanej owcy, żal,<br/>w obcych stron pobiegła dal,<br/>skroś cierń ostry szła i głóg,<br/>krwią znaczyła ślad swych nóg.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ja tą owcą byłem przyznam się,<br/>ja tą owcą byłem przyznam się.<br/>Lecz mój Zbawca, lecz mój Zbawca,<br/>lecz mój Zbawca szukał mię.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Znam zbłąkaną owcę, znam,<br/>przyszedł za nią Pasterz sam,<br/>wyrwał ją z przygody złej,<br/>do owczarni zaniósł Swej.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Ja tą owcą byłem przyznam się,<br/>ja tą owcą byłem przyznam się.<br/>Lecz mój Zbawca, lecz mój Zbawca,<br/>lecz mój Zbawca szukał mię.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tak, to jam jest owcą tą,<br/>co na drogę zeszła złą,<br/>miłość mi objawił Bóg,<br/>już nie zejdę z Jego dróg.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tak, tak, tak w Nim szczęścia mego zdrój,<br/>tak, tak, tak, w Nim szczęścia mego zdrój,<br/>tak, mój Zbawco, tak mój Zbawco,<br/>tak mój Zbawco, jam jest Twój!</lines>
+    </verse>
+  </lyrics>
+</song>

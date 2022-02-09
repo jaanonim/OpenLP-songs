@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:29">
+  <properties>
+    <titles>
+      <title>Ty tylko, Jezu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="248"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ty tylko Jezu, jesteś, co me serce znasz;<br/>Wolność prawdziwą, poświęcenie dasz.<br/>Jam pokoju nie miał, aż pod krzyż przyszedłem sam;<br/>Tutaj, w Twoich ranach odpocznienie mam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jezu, drogi Jezu! Jam jest Twój,<br/>Tyś jest mój! Dla mnie krew Twa<br/>Płynie osładza znój.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kiedym na krzyżu, Jezu, w wierze ujrzał Cię,<br/>Radość niebieska ogarnęła mię.<br/>Jakie morze szczęścia napełniło moją piersi<br/>Z żalu radości płynął strumień łez.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, jakiż pokój wciąż napełnia duszę mą,<br/>Kiedy pomyślę, żem własnością Twą!<br/>Z Bogiem pojednany, Twoją krwią omyty już!<br/>Któż mej duszy radość tu zrozumie, któż?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Więc odtąd, Jezu, wciąż mi przed oczyma stój,<br/>Na krzyż przybity - Zbawicielu mój!<br/>Żeś Ty za mnie umarł, to jest mej nadziei grunt;<br/>Ma pociecha, siła, życie płynie stąd.</lines>
+    </verse>
+  </lyrics>
+</song>

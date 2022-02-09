@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:31">
+  <properties>
+    <titles>
+      <title>Święty, święty, święty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="24"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Święty, święty, święty,<br/>Boże niezmierzony,<br/>oto dzieci Twe,<br/>Przedwieczny, kornie wielbią Cię!<br/>Święty, święty, święty,<br/>w łasce niezgłębiony,<br/>Trójca najświętsza,<br/>Tobie chwała, cześć!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Święty, święty, święty!<br/>Ciebie uwielbiają<br/>Cherubowie, Serafowie,<br/>patrząc w Twoją twarz.<br/>A zwycięzcy swoje<br/>wieńce Ci składają,<br/>Tyś był i jesteś,<br/>i na wieki trwasz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Święty, święty, święty!<br/>Choć i w nocy toni,<br/>choć nie widzi ludzkie oko<br/>wspaniałości Twej.<br/>Tylko Tyś jest święty,<br/>wszechświat w Twojej dłoni,<br/>hojny w miłości,<br/>mocy, chwale Swej!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Święty, święty, święty!<br/>Boże niezmierzony,<br/>cały wszechświat pragnie<br/>uwielbienia hymn Ci wznieść.<br/>Święty, święty, święty,<br/>w łasce niezgłębiony,<br/>Trójco najświętsza,<br/>Tobie chwała cześć.</lines>
+    </verse>
+  </lyrics>
+</song>

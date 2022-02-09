@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:24">
+  <properties>
+    <titles>
+      <title>Swe nadzieje w Panu złóż</title>
+    </titles>
+    <authors>
+      <author type="words">A.A.Luther</author>
+      <author type="music">A.A.Luther</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="419"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Swe nadzieje w Panu złóż,<br/>Świat swą przyjaźń rwie;<br/>Tylko Jezus, wierny Stróż<br/>Nie zawiedzie, nie.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jezus wiernym jest,<br/>Nie zawiedzie cię;<br/>Niebu, ziemi będzie kres,<br/>Lecz On nie zmieni się!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W chwilach trwóg i groźnych burz,<br/>Gdy świat chwieje się,<br/>Wspomnij - Jezus stoi tuż,<br/>Nie zawiedzie cię!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jego miłość życia noc<br/>Przetrwa, zwątpień mgłę,<br/>Tylko wierz w tę wieczną moc,<br/>Nie zawiedziesz się!</lines>
+    </verse>
+  </lyrics>
+</song>

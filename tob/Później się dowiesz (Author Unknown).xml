@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:38">
+  <properties>
+    <titles>
+      <title>Później się dowiesz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="413"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>„Później się dowiesz!"<br/>- temu wierzyć chcę,<br/>Twa wola dobra jest,<br/>Ty wiedziesz mię.<br/>Choć drogę mą okrywa gruba mgła,<br/>Ty Panie, wyjście znasz, to ufność ma.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Stoję i czekam, aż Sam jasne drzwi<br/>Nadziei z łaski Swej otworzysz mi,<br/>Bo ponad wszelkie zrozumienie me<br/>Większe, obfitsze są miłości Twe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nie wiem ja, czemu mię prowadzisz tak,<br/>Lecz w tym, że nie wiem, mam Twej ręki znak<br/>Już się nie boję chmur, ni ciężkiej mgły,<br/>Gdy wiem, że spoza, mgieł spoglądasz Ty.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Spokojnie na Twą pierś położę się;<br/>Ze śmiem Cię Ojcem zwać, to cieszy mię.<br/>Znużony spocznę ja na rękach Twych,<br/>Tylko mię prowadź wciąż po drogach Swych.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kieruj mym życiem, wypełń dzieło Swe,<br/>Czy pokój wkoło mnie, lub burza rwie;<br/>Jak błogo, gdy przeminie burzy szał,<br/>Być w domu Ojca pośród wiecznych chwał.</lines>
+    </verse>
+  </lyrics>
+</song>

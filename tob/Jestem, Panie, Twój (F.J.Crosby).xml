@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:29">
+  <properties>
+    <titles>
+      <title>Jestem, Panie, Twój</title>
+    </titles>
+    <authors>
+      <author type="words">F.J.Crosby</author>
+      <author type="music">F.J.Crosby</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="267"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jestem, Panie, Twój!<br/>Tyś mnie zbudził ze snu,<br/>Miłośc Twa napełnia mnie,<br/>Lecz odczuwa wciąż moje serce tu,<br/>Że ma głębiej poznać Cię.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Panie, bliżej, bliżej ciągnij mnie<br/>Na krzyżm w głębię śmierci Twej!<br/>Panie, bliżej, bliżej ciągnij mnie,<br/>Bym ja w Twoim sercu żył!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jestem, Panie, Twój i chcę wolę mą<br/>Całkiem na Twą wolę zdać;<br/>Daj we wierze mi pełnić służbę Twą,<br/>Tylko w Twojej woli trwać.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Błogie chwile te, kiedy wznosi się<br/>W modłach przed Twój tron mój duch;<br/>Gdy się zwierzam Ci z wszystkich mysli swych,<br/>Jak przyjaciół czyni dwóch.</lines>
+    </verse>
+  </lyrics>
+</song>

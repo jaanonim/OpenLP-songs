@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:10">
+  <properties>
+    <titles>
+      <title>Panie pragnę kochać Cię</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Panie pragnę kochać Cię<br/>Coraz mocniej z dnia na dzień<br/>Jesteś wspaniałością mą<br/>Panie pragnę kochać Cię /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wszystko daję Jezusowi<br/>Z jego łaski pragnę żyć<br/>Czy ktoś może zgłębić miłość<br/>Którą Bóg okazał nam?<br/>Jak cudowna jest ta chwila<br/>Gdy przebywać mogę z Nim<br/>Widzieć piękno Jego chwały i kochać Go</lines>
+    </verse>
+  </lyrics>
+</song>

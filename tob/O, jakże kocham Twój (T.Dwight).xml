@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:01">
+  <properties>
+    <titles>
+      <title>O, jakże kocham Twój</title>
+    </titles>
+    <authors>
+      <author type="words">T.Dwight</author>
+      <author type="music">T.Dwight</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="815"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, jakże kocham Twój<br/>Najświętszy Boże dom<br/>/ Ten żywy kościół z ludzkich dusz,<br/>zbawionych Twoją krwią /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jak oka strzeżesz go,<br/>Ten cenny klejnot Twój<br/>/ Zasłaniasz od napaści zła,<br/>O, drogi Boże mój /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ja pragnę zawsze mieć<br/>Z kościołem łączność Twym<br/>/ Radości i ciężary nieść<br/>W dniu dobrym jak i złym /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A gdy się skończy już<br/>Pielgrzymki ziemskiej znój<br/>/ Wraz z milionami świętych dusz<br/>Mnie przyjmiesz Boże mój /x2</lines>
+    </verse>
+  </lyrics>
+</song>

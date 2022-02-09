@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:23">
+  <properties>
+    <titles>
+      <title>Mój Zbawiciel</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="394"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mój Zbawiciel,<br/>On bardzo kocha mnie.<br/>Ja nie wiem czemu<br/>miłością darzy mnie.<br/>On mi nowe życie dzisiaj<br/>ofiarować chce.<br/>Będę, będę mieszkał<br/>razem z Panem mym.<br/>Będę, będę mieszkał<br/>razem z Panem mym.</lines>
+    </verse>
+  </lyrics>
+</song>

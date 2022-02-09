@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:37">
+  <properties>
+    <titles>
+      <title>Młodzieży, czy ci smutno</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="9"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czy przyjaciół brak.<br/>Pamiętaj, że Pan Jezus<br/>Zawsze pomóc tobie rad.<br/>On wszystko wie, rozumie cię.<br/>Młodzieży do Niego się zwróć.</lines>
+    </verse>
+  </lyrics>
+</song>

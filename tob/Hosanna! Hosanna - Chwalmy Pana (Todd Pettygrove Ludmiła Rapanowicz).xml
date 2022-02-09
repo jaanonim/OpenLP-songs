@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:18">
+  <properties>
+    <titles>
+      <title>Hosanna! Hosanna - Chwalmy Pana</title>
+      <title>Chwalmy Pana, pieśń niech brzmi</title>
+    </titles>
+    <authors>
+      <author type="words">Todd Pettygrove Ludmiła Rapanowicz</author>
+      <author type="music">Todd Pettygrove Ludmiła Rapanowicz</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="223"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hosanna! Hosanna!<br/>(Wielbimy Cię!)<br/>Chwalimy Cię!)<br/>Królowi Królów cześć! // x2 //</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chwalmy Pana, śpiew niech brzmi,<br/>zmartwychwstał Król i żyje dziś.<br/>O chwalmy Go, najwyższy jest i<br/>godzien wszelkiej czci.<br/>O chwalmy Go, najwyższy jest i<br/>godzien wszelkiej czci.</lines>
+    </verse>
+  </lyrics>
+</song>

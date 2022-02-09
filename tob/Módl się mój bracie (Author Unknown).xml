@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:45">
+  <properties>
+    <titles>
+      <title>Módl się mój bracie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="290"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Módl się mój bracie z poranku,<br/>Módl się i w jasny dzień.<br/>Módl się mój bracie wieczorem,<br/>Rozproszysz duszy cień.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bóg odpowiada z poranku,<br/>Bóg słyszy w jasny dzień,<br/>Bóg odpowiada wieczorem.<br/>Rozprasza duszy cień.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezus przyjść może z poranku,<br/>Może przyjść w jasny dzień.<br/>Jezus przyjść może wieczorem,<br/>Rozproszy duszy cień.</lines>
+    </verse>
+  </lyrics>
+</song>

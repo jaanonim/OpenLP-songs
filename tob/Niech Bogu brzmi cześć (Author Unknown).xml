@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:49">
+  <properties>
+    <titles>
+      <title>Niech Bogu brzmi cześć</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="385"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niech Bogu brzmi cześć<br/>za Jezusa, co zmarł,<br/>aby każdy z nas grzesznych<br/>zbawienie w Nim miał!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Alleluja! Cześć i chwała!<br/>Godzien chwały nasz Bóg!<br/>Alleluja! Cześć i chwała!<br/>Błogosław Swój lud!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niech Bogu brzmi cześć,<br/>że Duch Święty i dziś<br/>szerzy dzieło zbawienia,<br/>pociąga nas wzwyż!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Alleluja! Cześć i chwała!<br/>Godzien chwały nasz Bóg!<br/>Alleluja! Cześć i chwała!<br/>Błogosław Swój lud!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, chwałę i cześć<br/>Barankowi dziś wznieś<br/>za ofiarę co zmyła<br/>brud grzechu i pleśń!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Alleluja! Cześć i chwała!<br/>Godzien chwały nasz Bóg!<br/>Alleluja! Cześć i chwała!<br/>Błogosław Swój lud!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, ożyw nas znów,<br/>rozgrzej serc zimny głaz.<br/>Niechaj serca zapłoną<br/>miłością Twą w nas!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Alleluja! Cześć i chwała!<br/>Godzien chwały nasz Bóg!<br/>Alleluja! Cześć i chwała!<br/>Błogosław Swój lud!</lines>
+    </verse>
+  </lyrics>
+</song>

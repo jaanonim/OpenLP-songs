@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:25">
+  <properties>
+    <titles>
+      <title>Jezus grzesznych przyjąć chce!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="182"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus grzesznych przyjąć chce!<br/>Cieszcie tą nowiną błogą<br/>Wszystkich, co się mają źle,<br/>Ze choć poszli błędną drogą,<br/>W Nim zbawienie znajdą swe.<br/>Jezus grzesznych przyjąć chce.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie na łaskę, lecz na gniew<br/>Grzeszni sobie zasłużyli;<br/>Pan zaś, co Swą przelał krew,<br/>Ku nim się miłośnie chyli,<br/>W słowie im poselstwo śle:<br/>Jezus grzesznych przyjąć chce.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pójdźcie, pełni bied i ran,<br/>Pójdźcie, wszyscy zasmuceni.<br/>Jezus Zbawca, Król i Pan<br/>Grzesznych w Boże dzieci zmieni.<br/>Wiarą krzepcie serca mdłe:<br/>Jezus grzesznych przyjąć chce.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Więc skruszony idę już<br/>I wyznaję przewinienia.<br/>Zbawco, Ty me serce skrusz,<br/>Bym dostąpił odpuszczenia!<br/>Tobie ufa serce me:<br/>Jezus grzesznych przyjąć chce.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mam tę ufność - choćby grzech<br/>Jako szkarłat był czerwony,<br/>Może jednak przez Twą krew<br/>Jako śnieg być wybielony.<br/>Ja tej wiary chwytam się:<br/>Jezus grzesznych przyjąć chce.</lines>
+    </verse>
+  </lyrics>
+</song>

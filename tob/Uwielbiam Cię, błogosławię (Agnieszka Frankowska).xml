@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:31">
+  <properties>
+    <titles>
+      <title>Uwielbiam Cię, błogosławię</title>
+    </titles>
+    <authors>
+      <author type="words">Agnieszka Frankowska</author>
+      <author type="music">Agnieszka Frankowska</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="684"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uwielbiam Cię, błogosławię Cię<br/>Swym Duchem ogarnij mnie,<br/>Uwielbiam Cię, chcę widzieć Twoją świętą twarz<br/>I w miłość Twoją wtopić się.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:39">
+  <properties>
+    <titles>
+      <title>Chcę przy Tobie zostać, Panie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="433"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chcę przy Tobie zostać, Panie,<br/>Stanąć w rzędzie Twoich sług.<br/>Nic mię odwieść nie jest w stanie<br/>Od Twej prawdy, z Twoich dróg.<br/>Tyś jest życiem mego życia,<br/>Tyś krynicą moich sił;<br/>Jak latorośl, od powicia,<br/>W Ciebiem ja wszczepiony był.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czy gdzie indziej szczęścia więcej,<br/>Niż u Ciebie znalazłbym,<br/>Który tyle mi tysięcy<br/>Niesiesz darów w ręku Swym?<br/>Gdzie, jeżeli nie u Ciebie,<br/>Mógłbym znaleźć pociech zdrój,<br/>Coś na ziemi i na niebie<br/>Już tron ugruntował Swój?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdzież takiego znajdę Pana,<br/>Który tak się zajął mną,<br/>Że mię wyrwał z rąk szatana<br/>Swoją własną drogą krwią?<br/>Mam-li takiej to miłości<br/>Nie położyć się do stóp?<br/>Nie zaprzysiąc Jej wierności<br/>Aż do śmierci, aż po grób?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, przy Tobie pozostanę,<br/>Jezu, w szczęściu, w chwili prób;<br/>Z Tobą serce jest związane<br/>Już na wieki, aż za grób.<br/>Twego tylko czekam słowa<br/>I wezwania z kraju mąk;<br/>Dusza odejść jest gotowa,<br/>Która z Twoich żyła rąk</lines>
+    </verse>
+  </lyrics>
+</song>

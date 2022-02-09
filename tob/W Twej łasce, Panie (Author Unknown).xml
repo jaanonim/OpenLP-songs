@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:23">
+  <properties>
+    <titles>
+      <title>W Twej łasce, Panie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="120"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W Twej łasce, Panie<br/>Chodzić śmiem na ziemi<br/>Pod Twoją łaską<br/>Dzień po dniu tu żyć<br/>Ty mię prowadzisz<br/>W niej drogami Swymi<br/>Po nich mię uczysz<br/>Chodzić, wiernym być</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ta Twoja łaska, grzesznym objawiona<br/>Jest skałą, twierdzą i oparciem nam<br/>Bo tylko z łaski dusza jest zbawiona<br/>Przez łaskę tylko dojdzie niebios bram</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przez Twoją łaskę<br/>Mnie otwarłeś oczy<br/>I Twoje światło<br/>Przez nią widzieć śmiem<br/>Z Twej łaski ono<br/>Świeci i wśród nocy<br/>Przez łaskę chodzić<br/>Mogę tylko w Nim</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ta cudna łaska<br/>Każdy dzień jest nowa<br/>Tych wiedzie, którzy<br/>Tu ufają jej<br/>We wszystkim służyć<br/>Zawsze im gotowa<br/>Strzec i zachować<br/>Ich od drogi złej</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Któż pojąć w stanie<br/>Tę przedziwną łaskę<br/>Którą w Jezusie<br/>Bóg zgotował nam<br/>Wszelkie ciemności<br/>Swym rozświeca blaskiem<br/>W niej ścieżka jasna<br/>Do niebieskich bram</lines>
+    </verse>
+  </lyrics>
+</song>

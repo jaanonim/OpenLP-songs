@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:45">
+  <properties>
+    <titles>
+      <title>O, Panie Jezu miły</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="296"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, Panie Jezu miły, z swą łaską przy nas bądź,<br/>by zdradne złego siły nie mogły góry wziąć.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, Chryste, Zoawicielu, z Swym słowem przy nas bądź;<br/>żyć pozwól nam w weselu, racz radość w serce tchnąć.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, światłość nad światłości, świeć duszy blaskiem Swym;<br/>abyśmy w swej słabości nie poszli torem złym.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, święty Bohaterze, opieką Swą nas broń;<br/>umacniaj w świętej wierze, od grzechów duszę chroń.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O, Boże, świata Panie, zaciętość, opór złam;<br/>racz w dobrym dać wytrwanie, w potrzebie pomóż nam.</lines>
+    </verse>
+  </lyrics>
+</song>

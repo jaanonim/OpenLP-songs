@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:54">
+  <properties>
+    <titles>
+      <title>O, szczęsny dom</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="475"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, szczęsny dom, gdzie radzi Cię witają,<br/>mój Jezu, który koisz ból i łzy!<br/>Gdzie spośród wszystkich gości, co wstęp<br/>mają, najwięcej czczonyś i najmilszyś Ty!<br/>Gdzie serca wciąż dla Ciebie uderzają,<br/>gdzie wszyscy na Cię swoi kierują wzrok,<br/>a słowa Twe na ustach wszyscy mają,<br/>na Twe skinienie robią każdy krok,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, szczęsny dom, gdzie męża łączy z<br/>żoną umiłowanie społeczności Twej.<br/>Ich serca Twoją gorliwością płoną,<br/>nie dając się zniewolić myśli złej;<br/>gdzie ufność całą w Tobie pokładają w<br/>radosnych, jak i ciężkich swoich dniach<br/>i słowa Twego wiernie się trzymają,<br/>choćby niedola weszła pod ich dach.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, szczęsny dom, gdzie już malutkie dziatki<br/>przywykły składać w modłach rączki swe;<br/>Twa miłość większa, niżli miłość matki,<br/>szczęśliwe one, jeśli znają Cię!<br/>Gdzie chętnie się u Twoich stóp zbierają,<br/>by się nauczyć słodkich Twoich słów<br/>i wcześnie już Twe Imię wysławiają, a gdy<br/>upadną, Ty je dźwigasz znów!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, szczęsny dom, gdzie każdą radość dzielisz,<br/>gdzie wśród radości wspominają Cię!<br/>Gdzie w smutku wszystkich cieszysz i weselisz,<br/>gdzie rany goisz i osuszasz łzę.<br/>Dopóki życia wpośród świata znoju,<br/>póki nie będzie kresu naszym dniom,<br/>póki nie wejdziem po skończonym boju<br/>do chwały w piękny, wielki Ojca dom.</lines>
+    </verse>
+  </lyrics>
+</song>

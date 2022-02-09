@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:27">
+  <properties>
+    <titles>
+      <title>Miłość Boża granic nie ma</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="235"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Miłość Boża granic nie ma żadnych<br/>Głębsza ona od jaśniejszych zórz<br/>Świeci jaśniej od gwiazd, słońc porannych<br/>Wnika wszędzie i wśród mgieł, i burz</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bóg grzesznika przyjął mię<br/>Swą szatą odział, dobrze wiem<br/>On zgładził wszelką winę mą<br/>Uczynił mnie dzieciną Swą</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdzie me oko tylko dotrzeć może<br/>Widzę Twojej cudnej mocy ślad<br/>Każdy twór i każdy żywot, Boże<br/>Lśni odblaskiem Twej miłości rad</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy oddaję Jemu życie swoje<br/>On kosztowną perłę znaleźć da<br/>Światu złemu ujść, wytrzymać znoje<br/>Jak szczęśliwą w Panu dusza ma</lines>
+    </verse>
+  </lyrics>
+</song>

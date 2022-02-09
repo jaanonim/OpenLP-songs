@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:08">
+  <properties>
+    <titles>
+      <title>Czytaj Biblię</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="168"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czytaj Biblię,<br/>Módl się co dnia,<br/>Módl się co dnia,<br/>Módl się co dnia,<br/>Więc czytaj Biblię,<br/>Módl się co dnia,<br/>Jeśli wzrastać chcesz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeśli wzrastać chcesz,<br/>Jeśli wzrastać chcesz,<br/>Więc czytaj Biblię,<br/>Módl się co dnia,<br/>Jeśli wzrastać chesz!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:48">
+  <properties>
+    <titles>
+      <title>401 Litania loretańska</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kyrie elejson, Chryste elejson.<br/>Chryste, usłysz nas, Chryste, wysłuchaj nas.<br/>Ojcze z nieba, Boże, - zmiłuj się nad nami.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Synu, Odkupicielu świata, Boże,<br/>Duchu Święty, Boże,<br/>Święta Trójco, Jedyny Boże,<br/>Święta Maryjo, - módl się za nami.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Święta Boża Rodzicielko,<br/>Święta Panno nad pannami,<br/>Matko Chrystusowa,<br/>Matko Kościoła, </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Matko łaski Bożej, <br/>Matko nieskalana, <br/>Matko najczystsza, <br/>Matko dziewicza,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Matko nienaruszona,<br/>Matko najmilsza,<br/>Matko przedziwna,<br/>Matko dobrej rady,</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Matko Stworzyciela,<br/>Matko Zbawiciela,<br/>Panno roztropna,<br/>Panno czcigodna,</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Panno wsławiona,<br/>Panno można,<br/>Panno łaskawa,<br/>Panno wierna,</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Zwierciadło sprawiedliwości,<br/>Stolico mądrości,<br/>Przyczyno naszej radości,<br/>Przybytku Ducha Świętego,</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Przybytku chwalebny,<br/>Przybytku sławny pobożności,<br/>Różo Duchowna,<br/>Wieżo Dawidowa,</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Wieżo z kości słoniowej,<br/>Domie złoty,<br/>Arko przymierza,<br/>Bramo niebieska,</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Gwiazdo zaranna,<br/>Uzdrowienie chorych,<br/>Ucieczko grzesznych,<br/>Pocieszycielko strapionych,</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Wspomożenie wiernych,<br/>Królowo Aniołów,<br/>Królowo Patriarchów,<br/>Królowo Proroków,</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Królowo Apostołów,<br/>Królowo Męczenników,<br/>Królowo Wyznawców,<br/>Królowo Dziewic,</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Królowo wszystkich Świętych,<br/>Królowo bez zmazy pierworodnej poczęta,<br/>Królowo wniebowzięta,<br/>Królowo Różańca świętego,</lines>
+    </verse>
+    <verse name="v15">
+      <lines>Królowo rodzin<br/>Królowo pokoju,<br/>Królowo Polski,</lines>
+    </verse>
+    <verse name="v16">
+      <lines>Baranku Boży, który gładzisz grzechy świata, przepuść nam, Panie.<br/>Baranku Boży, który gładzisz grzechy świata, wysłuchaj nas, Panie.<br/>Baranku Boży, który gładzisz grzechy świata, zmiłuj się nad nami.</lines>
+    </verse>
+  </lyrics>
+</song>

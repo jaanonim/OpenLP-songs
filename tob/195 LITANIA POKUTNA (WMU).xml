@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:47">
+  <properties>
+    <titles>
+      <title>195 LITANIA POKUTNA</title>
+    </titles>
+    <authors>
+      <author>WMU</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Jezu, cichy, zhańbiony, z szat odarty<br/>Samotny, pobity wisisz na Krzyżu<br/>Przebodli nogi, przebodli ręce<br/>Rozpięty na krzyżu, przebodli Ci serce</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>A ja gorycz mych czynów Ci podaję<br/>A ja ręce ocieram z Krwi Twojej<br/>A ja me rany przed Tobą ukrywam</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Od straty jednej sekundy mego życia -<br/>WYBAW NAS PANIE</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Od myśli, że jestem trochę lepszy, od pychy -<br/>Od myśli spojrzeń, uczynków nieczystych -<br/>Od podniesionego głosu, od słów niepotrzebnych -</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Od niewoli pieniądza, od braku ubóstwa -<br/>Od tchórzliwej zgody na kłamstwo i kradzież -<br/>Od życia bez modlitwy i Eucharystii -</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>Od zmęczenia, które nie pozwoli się modlić -<br/>Od złego słowa o mym przyjacielu, od złego słowa o mym wrogu -<br/>Od złego słowa o Kościele, mej Matce -</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>Od niemówienia prawdy, która boli -<br/>Od mojego odejścia od braci i sióstr -<br/>Od utraty wiary, nadziei, miłości -</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>Od grzechu przeciwko Duchowi Świętemu -<br/>Od nieprzyjmowania prawdy o mnie -<br/>Od tego bym Cię przestał uwielbiać /x2 </lines>
+    </verse>
+  </lyrics>
+</song>

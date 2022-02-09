@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:37">
+  <properties>
+    <titles>
+      <title>Jezu Zbawco mojej duszy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="391"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezu Zbawco mojej duszy,<br/>Do Swej piersi przytul mię,<br/>Coraz głośniej wody szumią,<br/>Burze bardziej srożą się.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, jak błogo ufać Tobie,<br/>Ja się już na Ciebie zdam;<br/>Błogo Ciebie ujrzeć w górze,<br/>Być przy Tobie wiecznie tam!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chroń nas pośród burz żywota,<br/>Póki trwa pielgrzymki trud,<br/>I do pewnej wiedź przystani<br/>W łasce Swej Twój wierny lud!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nie mam innej tu ucieczki,<br/>Tyś opoką wiary mej;<br/>Nie pozostaw mnie samego,<br/>Od przygody chroń mię złej!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A gdy Tobie ufam, Panie,<br/>Nie przemoże mnie już wróg,<br/>Bo ja w cieniu skrzydeł Twoich<br/>Spocznę cicho u Twych nóg.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>W Tobie łaska, odkupienie,<br/>Poświęcenia zdroje są,<br/>Niech zbawienie na mnie spływa,<br/>Weź mnie czystym w radość Swą!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Źródłem Tyś wiecznego życia,<br/>Źródłem nowych, wiecznych sił;<br/>Nigdy pragnąć ten nie będzie<br/>Kto ze źródła tego pił.</lines>
+    </verse>
+  </lyrics>
+</song>

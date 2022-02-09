@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:48">
+  <properties>
+    <titles>
+      <title>Pięknyś ty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="361"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pięknyś ty, wdzięcznyś ty, kraju górny mój<br/>Ku tobie rwie się serce me i tęsknych myśli rój.<br/>Ten świat nie jest ojczyzną mą, choć wabi życia maj,<br/>// Hen, w górze, tam gdzie gwiazdy lśnią, jest mój ojczysty kraj. //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wznoszę wzrok, tęskny wzrok do niebieskich stron,<br/>tam tylu miłych poszło już, mnie jeszcze czeka zgon.<br/>Tu ciągły bój i skwarne dni, świat w zło pogrąża się.<br/>// W pielgrzymce mej jest ciężko mi, o odejść stąd już chcę! //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wkrótce już skończy się doświadczenia czas,<br/>nasz Ojciec nam otworzy dom, do nieba przymie nas.<br/>Nie słyszał tego żaden człek, ni dostrzec tego mógł,<br/>// Co kryje w sobie przyszły wiek, co nam zgotował Bóg. //</lines>
+    </verse>
+  </lyrics>
+</song>

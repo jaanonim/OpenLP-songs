@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:01">
+  <properties>
+    <titles>
+      <title>Kraj przecudny w górze znam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="802"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kraj przecudny w górze znam,<br/>Jawny tęsknym moim snom;<br/>Na złocistych brzegach tam<br/>Ojciec mi zgotował dom.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Do domu fale szumiące mnie niosą,<br/>Do domu mię niebian rzesze wiodą,<br/>Do domu, do cudnych brzegów ojczystych<br/>Rzesze aniołów wiodą mię.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu w tym boju pełnym zmian<br/>Częstom w duszy pytał się,<br/>Czyli zechce święty Pan<br/>Przyjąć mię w przybytki Swe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I mnie dano będzie wejść<br/>W obiecany błogi świat,<br/>Jeślim dbał o Pańską cześć<br/>I strzegł wiernie Jego rad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Stawię się przed jasny tron,<br/>Gdzie kupionych Pańską krwią,<br/>Wieńcem, chwałą darzy On<br/>- Pewnie mnie ozdobi nią!</lines>
+    </verse>
+  </lyrics>
+</song>

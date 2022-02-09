@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:59">
+  <properties>
+    <titles>
+      <title>Dlaczego smutny los? Wciąż pytasz się</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="772"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dlaczego smutny los? Wciąż pytasz się,<br/>I czemu ciężki cios ugodził cię?<br/>Skreślony życia plan, twe serce drży.<br/>Nad tobą czuwa Pan, On zna twe łzy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Choć czasem zdaje się, że jesteś sam,<br/>Że twoich modlitw,łez nie widzi Pan.<br/>Ty wiernym tylko bądź a ujrzysz wnet,<br/>Jak zło Pan umie zmóc, uwolnić z bied.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Choć chmury piętrzą się,wichura dmie,<br/>Wśród rozszalałych fal łódź twoja mknie.<br/>Choć jesteś tylko sam, maleńka łódź,<br/>Nad tobą czuwa Pan, swój wzrok Nań zwróć</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy chmury zniknie cień, przeminie noc,<br/>Złotego słońca dzień, da ci ciszę, moc!<br/>Dziękczynne serce skłoń, Wznieść modły swe,<br/>Wszak Zbawcy można dłoń wywiodła cię.</lines>
+    </verse>
+  </lyrics>
+</song>

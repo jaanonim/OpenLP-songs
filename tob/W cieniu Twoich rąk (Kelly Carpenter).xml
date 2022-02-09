@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:32">
+  <properties>
+    <titles>
+      <title>W cieniu Twoich rąk</title>
+    </titles>
+    <copyright>1994 Mercy / Vineyard Publishing</copyright>
+    <authors>
+      <author type="words">Kelly Carpenter</author>
+      <author type="music">Kelly Carpenter</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="760"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>meditation</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>longing</theme>
+      <theme>peace</theme>
+      <theme>love</theme>
+      <theme>devotion</theme>
+      <theme>commitment</theme>
+      <theme>worship</theme>
+      <theme>god-with-us</theme>
+      <theme>violin</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W cieniu Twoich rąk<br/>ukryj, proszę, mnie,<br/>Gdy boję się, gdy wokół mrok,<br/>bądź światłem, bądź nadziei dniem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wszystkim, o czym śnię,<br/>głosem w sercu mym,<br/>Jak ręka, która trzyma mnie.<br/>Nad brzegiem nocy, brzegiem dni<br/>Bądź jak skrzydła dwa,<br/>kiedy braknie sił.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chwyć mnie i nieś,<br/>niech niebo bliżej będzie,<br/>Tak bardzo chcę  w ramionach skryć się Twych.</lines>
+    </verse>
+  </lyrics>
+</song>

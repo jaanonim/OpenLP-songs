@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:43">
+  <properties>
+    <titles>
+      <title>Ta skała, gdzie chcę wiarę mą</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="253"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ta skała, gdzie chcę wiarę mą,<br/>budować i utwierdzać wciąż,<br/>to Zbawca drogi Chrystus Pan,<br/>obiecał życie wieczne nam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ten, kto Chrystusa kocha tak,<br/>że chętnie idzie za Nim w ślad,<br/>na skale swój gruntuje dom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To życie kryje mnóstwo trosk,<br/>i ciężkich prób jest wszędzie dość,<br/>Chrystusa miłość wzmacnia mnie,<br/>i błogosławieństw wiele śle.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ten, kto Chrystusa kocha tak,<br/>że chętnie idzie za Nim w ślad,<br/>na skale swój gruntuje dom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Skarb wielki w słowie Jego mam,<br/>jest rada i pociecha tam,<br/>w nim życie mój znajduje duch,<br/>przemawia przez nie do mnie Bóg.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Ten, kto Chrystusa kocha tak,<br/>że chętnie idzie za Nim w ślad,<br/>na skale swój gruntuje dom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nastanie koniec, minie wiek,<br/>szczęśliwy będzie każdy człek,<br/>co wiary swej budował gród,<br/>na Chrystusie, jak kazał Bóg,</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Ten, kto Chrystusa kocha tak,<br/>że chętnie idzie za Nim w ślad,<br/>na skale swój gruntuje dom.</lines>
+    </verse>
+  </lyrics>
+</song>

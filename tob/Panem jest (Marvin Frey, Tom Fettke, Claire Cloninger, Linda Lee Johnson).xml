@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:29">
+  <properties>
+    <titles>
+      <title>Panem jest</title>
+    </titles>
+    <copyright>1986 Word Music &amp; Norman Clayton Pub. Co.</copyright>
+    <authors>
+      <author type="words">Marvin Frey</author>
+      <author type="music">Marvin Frey</author>
+      <author type="words">Tom Fettke</author>
+      <author type="words">Claire Cloninger</author>
+      <author type="words">Linda Lee Johnson</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="516"/>
+    </songbooks>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>keyboard</theme>
+      <theme>meditation</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>dance</theme>
+      <theme>gospel</theme>
+      <theme>celebration</theme>
+      <theme>crucifixion</theme>
+      <theme>lords-supper</theme>
+      <theme>easter</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panem jest, Panem jest,<br/>powstał z martwych, żyje dziś<br/>i Panem jest.<br/>Uklęknijmy wraz,<br/>wznieśmy jedną pieśń,<br/>bo Jezus Panem jest.</lines>
+    </verse>
+  </lyrics>
+</song>

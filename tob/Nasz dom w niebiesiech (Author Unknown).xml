@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:59">
+  <properties>
+    <titles>
+      <title>Nasz dom w niebiesiech</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="91"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nasz dom w niebiesiech, za obłokami,<br/>Doń chcemy dążyć i o nim śnić.<br/>Gdzie wszyscy wierni tam będą z nami,<br/>Chrystusa Pana na wieki czcić.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tam nasz Zbawiciel króluje wiecznie,<br/>Który nas zbawił i żucie dał.<br/>I my będziemy tam żyć bezpiecznie,<br/>Gdy osiągniemy nasz święty dział.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, domie wieczny, gdzie żyć pragniemy<br/>Ku tobie wznosimy stęskniony wzrok<br/>Ku tobie chętnie pielgrzymujemy,<br/>Przez wiele pokus i grzechu mrok.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Strudzonym w walce przed złem codziennie,<br/>Nam sił dodaje wspaniały cel.<br/>Znajdziemy w tobie swe odpocznienie,<br/>Przyobleczeni w najczystszą biel.</lines>
+    </verse>
+  </lyrics>
+</song>

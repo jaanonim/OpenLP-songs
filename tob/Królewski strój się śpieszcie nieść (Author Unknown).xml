@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:20">
+  <properties>
+    <titles>
+      <title>Królewski strój się śpieszcie nieść</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="69"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Królewski strój<br/>się śpieszcie nieść,<br/>By Wódz na tronie siadł!<br/>Oddajcie Jezusowi cześć!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Niech Królem, Królem,<br/>Królem Głosi Go cały świat!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Był niegdyś<br/>Sługą wszystkich sług<br/>Ten najuboższy Brat,<br/>A teraz berło dał Mu Bóg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Okrutna Zeń<br/>obdarła dłoń<br/>Piękności cudnej ślad<br/>I cierniem Mu obwiła skroń;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>To dla nas<br/>Go na krzyża pniu<br/>Wśród zbójców przybił kat,<br/>I słońce życia zgasło Mu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wy, grzeszni,<br/>którym Jego krew<br/>Obmyła śmierci jad;<br/>Zwycięstwo dał żywota Lew.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Pobożni,<br/>co służycie Mu<br/>Od dawnych wiernie lat,<br/>Do ostatniego służcie tchu!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:59">
+  <properties>
+    <titles>
+      <title>Pewnej nocy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="86"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pewnej nocy łzy z oczu mych,<br/>Otarł dłonią swą Jezus.<br/>I powiedział mi nie martw się,<br/>Jam przy Tobie jest wciąż.<br/>Potem spojrzał na grzeszny świat,<br/>Pogrążony w ciemnościach<br/>I zwracając się do mnie,<br/>Pełen smutku tak rzekł:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Powiedz ludziom że kocham ich,<br/>Że się o nich też troszczę.<br/>Jeśli zeszli już z moich dróg,<br/>Powiedz, że szukam ich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tam na wzgórzu Golgoty,<br/>Za nich życie oddałem,<br/>Tam umarłem za wszystkich,<br/>Aby każdy mógł żyć.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nie zapomnę tej chwili,<br/>Gdy mnie spotkał mój Jezus.<br/>Przedtem byłem jak ślepy,<br/>On przywrócił mi wzrok.</lines>
+    </verse>
+  </lyrics>
+</song>

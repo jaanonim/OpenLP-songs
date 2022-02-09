@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:18">
+  <properties>
+    <titles>
+      <title>Jak pięknie lśni jutrzenki blask</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="29"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak pięknie lśni jutrzenki blask,<br/>Od Pana pełnej prawd i łask!<br/>To zacny szczep Jessego.<br/>Tyś to Dawida Syn, nasz Król,<br/>Najdroższy Oblubieniec mój,<br/>Tyś władcą serca mego.<br/>Piękny, Wdzięczny I dostojny,<br/>W łasce hojny, Uwielbiony,<br/>Nad niebiosa wywyższony.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Marii i Boga Ojca Syn<br/>Mą perłą i koroną ten -<br/>Król możny z nieba rodem.<br/>On najpiękniejszy serca kwiat;<br/>Radosna wieść, co idzie w świat,<br/>Jest mlekiem, jest i miodem.<br/>Jezu, Jezu, Cześć, hosanna!<br/>Żywa manna, Dana z nieba;<br/>Tej najwięcej nam potrzeba.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Głęboko w serce moje zlej<br/>Ożywczą moc miłości Swej<br/>Z strumienia niebieskiego.<br/>Wciąż świeżych racz mi dodać sił,<br/>Bym wiecznie żywym członkiem był<br/>Świętego ciała Twego.<br/>Ciebie, Chlebie, Dobro wieczne,<br/>Chcę koniecznie Posiąść stale,<br/>Żyć w miłości Twojej chwale.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jak niewymownie cieszę się,<br/>Żeś Ty jest Przyjacielem mym,<br/>Początkiem i też końcem.<br/>Wiem, że Ty mi, dla Swojej czci,<br/>Otworzysz kiedyś rajskie drzwi<br/>W dniu wiecznie jaśniejącym.<br/>Amen, Amen, Mój wybrany,<br/>Pożądany, Przyjdź już rychło,<br/>By me tęskne serce ścichło!</lines>
+    </verse>
+  </lyrics>
+</song>

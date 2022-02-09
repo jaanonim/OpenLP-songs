@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:00">
+  <properties>
+    <titles>
+      <title>Wiele jest serc</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="109"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>/: Wiele jest serc, które czekają na ewangelię,<br/>Wiele jest serc, które czekają wciąż :/</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Napełnij serce swoje<br/>Tym kosztownym nasieniem,<br/>A zobaczysz, że Bóg poprowadzi cię do ludzi<br/>A zobaczysz, że Bóg poprowadzi cię do ludzi</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sam zobaczysz, że Bóg poprowadzi cię do ludzi<br/>Których będziesz mógł,<br/>Zaprowadzić do Chrystusa,<br/>Których będziesz mógł,<br/>Zaprowadzić do Chrystusa.</lines>
+    </verse>
+  </lyrics>
+</song>

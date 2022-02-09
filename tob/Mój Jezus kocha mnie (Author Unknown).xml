@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:03">
+  <properties>
+    <titles>
+      <title>Mój Jezus kocha mnie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="833"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mój Jezus kocha mnie,<br/>Jak słodka pewność ta,<br/>Więc z Nim weselę się,<br/>Nadzieję serca ma.<br/>Jak złote gwiazdy lśnią<br/>Na niebie blaskiem swym,<br/>Tak w duszy mojej brzmi<br/>Pokoju cudny hymn.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Brzmi w mej duszy pokoju hymn,<br/>Radości hymn, zbawienia hymn.<br/>Od Jezusa pokoju hymn,<br/>Niebiański pokoju hymn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mój Jezus kocha mnie,<br/>Cóż mógłbym więcej chcieć,<br/>Wszak Jezus to mój skarb,<br/>Ma dusza, moja cześć.<br/>A w drodze w rajski gród<br/>Moc łaski kryje mnie,<br/>Więc śmiało idę w przód<br/>I w Nim weselę się.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mój Jezus kocha mnie,<br/>Oto radosna wieść,<br/>Na własność kupił mnie,<br/>Więc chwały śpiewam pieśń.<br/>Gdy kiedyś wejdę tam,<br/>Gdzie zorza jasna lśni,<br/>Gdzie wśród niebieskich bram<br/>Pokoju hymn już brzmi.</lines>
+    </verse>
+  </lyrics>
+</song>

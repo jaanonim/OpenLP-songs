@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:39">
+  <properties>
+    <titles>
+      <title>W tajemny sposób w świecie tym</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="422"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W tajemny sposób w świecie tym<br/>Bóg ziszcza plany Swe,<br/>Na morzu znaczy ślad Swych stóp,<br/>Sługami wichry zwie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, nie sądź Boga myślą mdłą,<br/>Lecz łasce oddaj się,<br/>Bo poprzez chmury ciężkich prób<br/>Pan przeprowadzi cię.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A plany Jego pojmiesz wnet,<br/>Gdy w Jego pójdziesz ślad;<br/>Choć pączek nikły wygląd ma,<br/>To cudnym będzie kwiat.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Niewiara błądzi, kiedy chce,<br/>Osądzać Boski czyn;<br/>Odpowiedź Bożą w pełni dał<br/>Na krzyżu Boży Syn.</lines>
+    </verse>
+  </lyrics>
+</song>

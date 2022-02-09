@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:49">
+  <properties>
+    <titles>
+      <title>Już się zdobią drzewa</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="377"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Już się zdobią drzewa w swe zielone liście,<br/>ptaszek już zwiastuje wonnej wiosny przyjście.<br/>W górę serca, w górę! Nućmy pieśń radosną!<br/>Przyjdzie Pan na ziemię wnet z niebieską wiosną!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Witaj, upragniona cudna Boża wiosno!<br/>Błogą już nadzieją serca nasze rosną.<br/>Skoro z wyżyn rajskich święty Duch powieje,<br/>ziemia się cudowną krasą przyodzieje.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>W Jezusowej ręce spocznie ziemia cała,<br/>na niej Boża sprawa będzie rozkwitała.<br/>Książę świata będzie strącon do otchłani,<br/>do dziedzictwa chwały cisi zawezwani.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ach, utwierdzaj, Panie, w sercach te nadzieje;<br/>Wszędzie złość panuje, w nas otucha mdleje!<br/>Pomóż nam we wierze zmóc ciemności księstwa,<br/>Ty Swe małe stado prowadź do zwycięstwa!</lines>
+    </verse>
+  </lyrics>
+</song>

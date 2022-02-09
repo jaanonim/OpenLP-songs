@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:55">
+  <properties>
+    <titles>
+      <title>Kto z nami</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="499"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/Kto z nami chce do nieba iść,/x3<br/>gdzie Jezus czeka nas.<br/>/Gdzie będziem wznosić Panu cześć/x3<br/>I chwalić wiecznie wraz.<br/>// Piękny raj, piękny raj,<br/>my do niego śpieszmy już. //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/Już chciałbym w pięknym niebie być/x3,<br/>gdzie wybawionych zbór.<br/>/Tam wciąż przed tronem Bożym żyć/x3<br/>gdzie jest aniołów chór.<br/>// Piękny raj, piękny raj, my<br/>do niego śpieszmy już. //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/Tam będziem w białych szatach stać/x3 ,<br/>i żyć wśród gajów palm.<br/>/I dzięki przed tron Pana słać/x3,<br/>śpiewając wdzięczny psalm.<br/>// Piękny raj, piękny raj, my<br/>do niego śpieszmy już. //</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/O, smutku już nie będzie tam/x3,<br/>bo radość czeka nas.<br/>/I Jezus będzie z nami sam/x3,<br/>przez nieskończony czas!<br/>// Piękny raj, piękny raj, my<br/>do niego śpieszmy już. //</lines>
+    </verse>
+  </lyrics>
+</song>

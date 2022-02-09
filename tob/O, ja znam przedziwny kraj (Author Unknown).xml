@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:48">
+  <properties>
+    <titles>
+      <title>O, ja znam przedziwny kraj</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="370"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, ja znam przedziwny kraj,<br/>o nim myślę, tęsknię doń.<br/>Tam mam zgotowany dom,<br/>w nim się serce moje schroń!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Do domu fale szumiące mię niosą,<br/>do domu mię aniołowie wiodą,<br/>do domu, tam na ten jasny brzeg<br/>rzesze aniołów prowadzą mię!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nieraz wśród życiowych walk<br/>tęskniem pytał duszy mej:<br/>Czy i ciebie przyjmie też Pan<br/>do wiecznej chwały Swej?</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Do domu fale szumiące mię niosą,<br/>do domu mię aniołowie wiodą,<br/>do domu, tam na ten jasny brzeg<br/>rzesze aniołów prowadzą mię!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chciałbym blisko Niego być,<br/>bo On za mnie zmarł wśród mąk,<br/>i otrzymać w górze tam<br/>wieniec życia z Jego rąk.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Do domu fale szumiące mię niosą,<br/>do domu mię aniołowie wiodą,<br/>do domu, tam na ten jasny brzeg<br/>rzesze aniołów prowadzą mię!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dla najbardziej grzesznych serc<br/>Chrystus ma miłości dość,<br/>On każdego zbawić chce i<br/>wprowadzić w rajską włość.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Do domu fale szumiące mię niosą,<br/>do domu mię aniołowie wiodą,<br/>do domu, tam na ten jasny brzeg<br/>rzesze aniołów prowadzą mię!</lines>
+    </verse>
+  </lyrics>
+</song>

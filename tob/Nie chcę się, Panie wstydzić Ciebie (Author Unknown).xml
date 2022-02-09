@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:44">
+  <properties>
+    <titles>
+      <title>Nie chcę się, Panie wstydzić Ciebie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="264"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie chcę się, Panie wstydzić Ciebie,<br/>boś jest wszystkiego świata Pan,<br/>aby mną nie wzgardzono w niebie,<br/>bym był u Ojca Twego znan.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jawnie raczej przy Tobie stanę,<br/>bo tylko z grzechem idzie wstyd;<br/>Ty zaś oczyszczasz serca skalane,<br/>gotujesz błogi w niebie byt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie chcę pobratać się ze światem,<br/>bo nad nim ciąży Boży gniew;<br/>bo przyodziewa grzech szkarłatem,<br/>a dusze karmi gartką plew.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Jawnie raczej przy Tobie stanę,<br/>bo tylko z grzechem idzie wstyd;<br/>Ty zaś oczyszczasz serca skalane,<br/>gotujesz błogi w niebie byt.</lines>
+    </verse>
+  </lyrics>
+</song>

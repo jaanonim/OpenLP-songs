@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:15">
+  <properties>
+    <titles>
+      <title>Będziesz cieszyć się</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="261"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Będziesz cieszyć się i w pokoju żyć!<br/>Góry, wzgórza wszystkie wraz<br/>Swą grać będą pieśń!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Radość będzie brzmieć!<br/>Polne drzewa w ten takt<br/>Będą klaskać w dłonie swe!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Będą drzewa wciąż klaskać w dłonie swe!<br/>/ Drzewa wciąż klaskać w dłonie swe /x2<br/>Z radością będziesz iść!</lines>
+    </verse>
+  </lyrics>
+</song>

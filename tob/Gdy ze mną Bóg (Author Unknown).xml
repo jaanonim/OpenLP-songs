@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:41">
+  <properties>
+    <titles>
+      <title>Gdy ze mną Bóg</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="226"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy ze mną Bóg, niech stanie świat cały przeciw mnie!<br/>Gdy wzniosę swe błaganie, pierzchają moce złe.<br/>Gdym w łasce jest u Pana, gdy trzyma mię mój Bóg,<br/>nie zlęknę jsię szatana, cóż by mi szkodzić mógł?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Już wiem i mocno wierzę, i rad się chlubię tym,<br/>że z Bogiem mam przymierze, On wiernym Ojcem mym.<br/>W Nim tylko jestem śmiały, On twierdzą duszy mej,<br/>ucisza groźne wały, osłania w dobie złej.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Opoką wiary mojej jest Chrystus, Jego krew.<br/>W Nim duszę mą ukoję, jak cieniem rajskich drzew.<br/>Ach we mnie marność sama, niedola, grzech i brud,<br/>w Chrystusie tylko brama wiodąca w Boży gród.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Świat niechaj się zapada, Ty mi na wieki trwasz.<br/>Dokoła przemoc, zdrada, Ty przecież o mnie dbasz.<br/>Nie wydrę się z Twej rę-ki, gdy cierpię nędzę, głód,<br/>bo jestem Twój na wieki, bo jestem z Twoich trzód.</lines>
+    </verse>
+  </lyrics>
+</song>

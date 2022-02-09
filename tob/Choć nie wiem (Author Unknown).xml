@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:11">
+  <properties>
+    <titles>
+      <title>Choć nie wiem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="117"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Choć nie wiem, co przyniesie mi<br/>jutrzejszy z sobą dzień,<br/>to jednak blisko jest mój Pan,<br/>On poprowadzi mnie!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ref:<br/>Me zycie w ręku Zbawcy, moją dłoń On<br/>ujął Sam. Nie lękam się przyszłosci,<br/>wiem, że On ma dla mnie plan! A gdy<br/>na drodze mojej stanie jakiś problem<br/>znów, zaufam Panu w chwili tej,<br/>wszystko oddam Mu!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja nie wiem, ile jeszcze dni<br/>na ziemi przeżyć mam,<br/>lecz ufam, że Pan o mnie dba<br/>i zawsze jest ten sam!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Czy radość idzie z nowym dniem,<br/>Czy smutek, jedno wiem:<br/>Że blisko jest Zbawiciel mój,<br/>zaufać Jemu śmiem!</lines>
+    </verse>
+  </lyrics>
+</song>

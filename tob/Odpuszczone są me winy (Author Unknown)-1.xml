@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:28">
+  <properties>
+    <titles>
+      <title>Odpuszczone są me winy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="242"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Odpuszczone są me winy,<br/>Wolny z grzechów jestem ja;<br/>Chrystus dal mi żywot inny -<br/>O, jak błoga wolność ta!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Alleluja, alleluja!<br/>Jezus za mnie zmarł!<br/>Alleluja, alleluja!<br/>Wolny z grzechów jestem ja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dla ufności szczerej w Niego<br/>Wolność mi prawdziwą dał.<br/>Gdy zlał na mnie Ducha Swego,<br/>Sprawił, bym w wolności trwał.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Od mych ciężkich kajdan grzechu<br/>Uwolniony jestem ja.<br/>Wszystkim głosić śmiem pociechę,<br/>że ta błogość wiecznie trwa</lines>
+    </verse>
+  </lyrics>
+</song>

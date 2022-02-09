@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:55">
+  <properties>
+    <titles>
+      <title>Zważonyś przed Panem - za lekkoś tu żył</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="721"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zważonyś przed Panem - za lekkoś tu żył.<br/>Twój wyrok wydany: Niewiernym żeś był.<br/>I smutno brzmi słowo: strwoniłeś swój czas!<br/>Stracone twe prawo i skarb Bożych łask.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zważonyś przed Panem, czyś słyszał ten głos<br/>Na dnie twego serca? - O, biedny twój los.<br/>Ty nie wiesz, gdzie staniesz, za lekkoś tu żył.<br/>Twe wszystkie starania obrócą się w pył.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zważone Twe czyny, Twe myśli, twój sąd,<br/>Upadki i winy I wszystek twój błąd<br/>Lecz Jezus przebaczy ci rój grzechów twych<br/>- On wyrwie z rozpaczy i uwolni z nich.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lecz musisz na Pana skierować Swój wzrok,<br/>I z Panem uzgadniać swą myśl, każdy krok.<br/>I z Panem wciąż chodzić; On będzie cię strzegł,<br/>Byś nie był za lekki, gdy skończysz swój bieg.</lines>
+    </verse>
+  </lyrics>
+</song>

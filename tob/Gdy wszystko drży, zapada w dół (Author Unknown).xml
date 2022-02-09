@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:59">
+  <properties>
+    <titles>
+      <title>Gdy wszystko drży, zapada w dół</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="774"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy wszystko drży, zapada w dół,<br/>Pan dobry nas w opiekę wziął.<br/>On z nami jest, choć ginie świat,<br/>Dla wiernych Swych najlepszy brat.<br/>O, jakże Swój ukochał lud,<br/>Krzyżowy zań wycierpiał trud;<br/>/ Więc pieśni wciąż niech wdzięcznie brzmią,<br/>Aż twarzą w twarz ujrzymy Go. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, rozkosz to dla Niego żyć<br/>I Jego krwią swe grzechy zmyć.<br/>Toć istny raj, rozkoszny raj,<br/>Na ziemi już wieczysty maj!<br/>Od wieków On ukochał nas<br/>I będzie wciąż Swe owce pasł.<br/>/ Więc, lutnio, nuć pochwalny śpiew,<br/>Ma pieśni, płyń do niebios stref. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tam otrze Pan płynące łzy,<br/>Otworzy nam weselne drzwi;<br/>Już czeka Cię wybrana Twa,<br/>Jej perły lśnią, jej lutnia gra.<br/>Już płoną, już, pochodnie jej,<br/>O Królu mój, pośpieszyć chciej!<br/>/ Zapląsa Ci wybrany lud<br/>Na piersi Twej wśród wiecznych gód. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

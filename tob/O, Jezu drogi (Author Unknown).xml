@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:34">
+  <properties>
+    <titles>
+      <title>O, Jezu drogi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="95"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, Jezu drogi, Królu mój sławny,<br/>dzięki, o dzięki Ci za Twój krzyż,<br/>na którym z Tobą umrzeć ja mogę,<br/>na którym zorzą wskrzeszenia lśnisz!<br/>Kraj obiecany leży przede mną,<br/>padło Jerycho, padł jego wał;<br/>zdążam pustynią w stronę Syjonu<br/>z sercem radosnym, ze śpiewem chwał!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Siły do boju mi nie dostaje,<br/>Ty tylko, Panie, zwycięstwo spraw!<br/>Chcę, Panie, słuchać rozkazu Twego,<br/>tylko codziennie wolę Swą zjaw!<br/>Siły użyczaj do posłuszeństwa,<br/>ogniem niebieskim serce me zbrój,<br/>wtedy na wieki chwałę Ci wzniosę,<br/>z palmą zwycięstwa zakończę bój!</lines>
+    </verse>
+  </lyrics>
+</song>

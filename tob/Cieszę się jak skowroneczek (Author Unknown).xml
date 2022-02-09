@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:55">
+  <properties>
+    <titles>
+      <title>Cieszę się jak skowroneczek</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="496"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cieszę się jak skowroneczek w górze,<br/>chętnie śpiewam w tym młodzieńczym<br/>chórze i wysławiam mego Pana w pieśni<br/>o, Jezu, przyjmij chwałę tą!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tak się cieszę jak motylek wiosną,<br/>w duszy prośbę wielką mam, radosną,<br/>proszę, aby drogi mój Zbawiciel w<br/>mym sercu dziś zamieszkać chciał.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jak owieczka z łąki się raduje,<br/>tak me serce Panu wyśpiewuje,<br/>On tak wielkie ma miłości dary i<br/>w sercach naszych mieszkać chce.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cieszę się jak anioł w jasnym niebie,<br/>zawsze chcę, mój Jezu, chwalić Ciebie.<br/>Wśród młodzieży tak jak ja szczęśliwej,<br/>serdeczną chwałę wznosić Ci!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:27">
+  <properties>
+    <titles>
+      <title>O, Jezusie, zbaw mą duszę!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="207"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, Jezusie, zbaw mą duszę!<br/>Serce Ci oddaję swe.<br/>Niech obficie moje życie<br/>Bez ustanku wielbi Cię.<br/>Tyś jest skarb mój, me zbawienie,<br/>Tyś me wieczne pocieszenie,<br/>O najmilszy Jezu mój!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy mam Ciebie, żywy chlebie,<br/>Więcej już nie żądam tu;<br/>Srebro, złoto, nie dbam o to,<br/>Czyżbym ja miał ufać mu?<br/>Perły drogie i kamienie<br/>Nie są u mnie w żadnej cenie,<br/>O najmilszy Jezu mój!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Skarby ziemi z blaski swymi<br/>Dla Jezusa rzucę rad,<br/>Bo bez Niego, skarbu mego,<br/>Urok życia dla mnie zbladł.<br/>Gdy pokusa w drodze stanie,<br/>Ty stój przy mym boku, Panie,<br/>O najmilszy Jezu mój!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A tak Ciebie w mej potrzebie<br/>Zawsze trzymać będę się;<br/>Ciebie, mego kochanego<br/>Zbawcę tylko wielbić chcę.<br/>Mając Ciebie w sercu, Panie,<br/>Łatwe z światem tym rozstanie,<br/>O najmilszy Jezu mój!</lines>
+    </verse>
+  </lyrics>
+</song>

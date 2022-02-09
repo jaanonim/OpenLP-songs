@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:02">
+  <properties>
+    <titles>
+      <title>Ciągle idę</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="160"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ciągle idę, idę,<br/>Pragnę do nieba dojść bram,<br/>Alleluja, Ciągle idę, idę,<br/>Pragnę do nieba dojść bram.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Choć nigdy tam nie byłem,<br/>Lecz mówiono mi,<br/>Kiedy do nieba szedł bram,<br/>Że się tam wszystko od złota lśni.<br/>Pragnę do nieba dojść bram.</lines>
+    </verse>
+  </lyrics>
+</song>

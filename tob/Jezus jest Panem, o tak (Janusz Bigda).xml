@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:20">
+  <properties>
+    <titles>
+      <title>Jezus jest Panem, o tak</title>
+    </titles>
+    <authors>
+      <author type="words">Janusz Bigda</author>
+      <author type="music">Janusz Bigda</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="286"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus jest Panem, O Tak! O Tak!<br/>jedynym Zbawicielem.<br/>Więc złóżmy serca u Jego stóp<br/>i głośno chwalmy Go.<br/>Odwieczną skałą jest Chrystus Pan,<br/>ucieczką najpewniejszą.<br/>On moje serce oczyszcza tu,<br/>bym się z Nim spotkać mógł.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>W Twoim Duchu Panie mój<br/>śpiewać Ci będę,<br/>uwielbiać Imię Twoje każdego dnia.<br/>W Twoim Duchu Panie mój<br/>wywyższam Ciebie,<br/>ofiarowuje Tobie moją pieśń. // x2 //</lines>
+    </verse>
+  </lyrics>
+</song>

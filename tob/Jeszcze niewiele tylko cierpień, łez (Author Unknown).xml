@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:48">
+  <properties>
+    <titles>
+      <title>Jeszcze niewiele tylko cierpień, łez</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="563"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jeszcze niewiele tylko cierpień, łez,<br/>Potem odpocznę, łzy obetrę z rzęs<br/>Błysną u mego Pana blaski zórz,<br/>O dniu zwycięstwa, niedalekoś już!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Prędko mijają dnie i leci czas,<br/>Wkrótce zanucę pieśń niebieskich kras<br/>I jako własność, wykupiona krwią,<br/>Wiecznego Króla wieczną wsławię czcią.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wkrótce skończony ziemskiej pracy trud,<br/>- Wspaniały już mię tam wyprzedził lud.<br/>Do domu mię Jezusa ciągnie dłoń,<br/>To będzie święto, gdy powrócę Doń!</lines>
+    </verse>
+  </lyrics>
+</song>

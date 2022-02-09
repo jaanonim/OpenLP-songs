@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:21">
+  <properties>
+    <titles>
+      <title>Głośmy radośnie wszyscy wraz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="94"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Głośmy radośnie wszyscy wraz:<br/>Bóg kocha nas!<br/>Trwa jeszcze Bożej łaski czas,<br/>Bóg kocha nas!<br/>O, rzućcie, grzeszni,<br/>rzućcie sny,<br/>Minąć zbawienie mogłoby!<br/>Już dzienna zorza spędza mgły.<br/>Bóg kocha nas!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Bóg kocha nas! /x2<br/>Głośmy radośnie wszyscy wraz:<br/>Bóg kocha nas!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Głośmy grzesznikom wszystkich stron:<br/>Bóg kocha nas!<br/>Jezus opuścił niebios tron,<br/>Bóg kocha nas!<br/>Patrzcie, Zbawiciel idzie już,<br/>Zbliża się w blasku jasnych zórz!<br/>W Nim odkupienie naszych dusz.<br/>Bóg kocha nas!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pójdźcie, wy wierni, z wszystkich stron,<br/>Bóg kocha nas!<br/>Wierny i dobrotliwy On,<br/>Bóg kocha nas!<br/>On jest słoneczną tarczą Swych<br/>Ufność, nadzieję wlewa w mdłych;<br/>W cięzkich pokusach krzepi ich.<br/>Bóg kocha nas!</lines>
+    </verse>
+  </lyrics>
+</song>

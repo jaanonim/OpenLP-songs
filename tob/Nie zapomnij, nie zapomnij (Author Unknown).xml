@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:26">
+  <properties>
+    <titles>
+      <title>Nie zapomnij, nie zapomnij</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="188"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie zapomnij, nie zapomnij,<br/>Jak cię Jezus drogo kupił!<br/>By cię z Bogiem móc pojednać,<br/>Na tę grzeszną ziemię zstąpił;<br/>Niebios chwały nie żałował,<br/>Radość z Ojcem<br/>On dla ciebie ofiarował.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie zapomnij, nie zapomnij,<br/>Jakąś noc Mu straszną sprawił<br/>W Getsemane, gdzieś ty grzechem<br/>Na bój ciężki Go wystawił.<br/>Te uciski i te boje<br/>We wieczności miały<br/>trapić serce twoje.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nie zapomnij, nie zapomnij,<br/>Ile bólu okrutnego,<br/>Ile hańby twe zbawienie<br/>Kosztowało Zbawcę twego.<br/>Byś był wolny z mocy piekła,<br/>Pana twego śmierć haniebna<br/>z chwał zewlekła.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nie zapomnij, nie zapomnij,<br/>Ze z miłości zmarł za ciebie,<br/>Aby ciebie, dziecko gniewu,<br/>Zbawić, uszczęśliwić w niebie.<br/>Świat ciemności wiążą pęta.<br/>Pan cię zbawił!<br/>O tym dusza niech pamięta!</lines>
+    </verse>
+  </lyrics>
+</song>

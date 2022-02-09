@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:41">
+  <properties>
+    <titles>
+      <title>Pójdę za Jezusem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="460"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pójdę za Jezusem!<br/>Racz mnie z Swej miłości,<br/>O mój święty Boże,<br/>Wesprzeć w mej słabości!<br/>Wzmocnij serce chwiejne,<br/>Rozbudx ducha mdłego,<br/>Sam mnie naucz chodzić<br/>Śladem zbawcy mego.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pójdę za Jezusem!<br/>Wszystko mnie nakłania<br/>Do przyjęcia Zbawcy<br/>MEgo bez szemrania;<br/>Głosu Jego słodycz,<br/>Ducha dar Świętego<br/>Każą pójść z otuchą<br/>Śladem Zbawcy mego.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pójdę za Jezusem!<br/>Pełem świętych chęci,<br/>Jego dobrodziejstwa<br/>Mając na pamięci,<br/>Pragnę odtąd zawsze<br/>Żyć ku chwale Jego<br/>I wytrwale chodzić<br/>Śladem Zbawcy mego.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pójdę za Jezusem!<br/>Przezeń jam zbawiony,<br/>Od wszelkiego grzechu<br/>Jego krwią zwolniony;<br/>Jego śmierć podniosła<br/>Mnie z upadku złego,<br/>Więc uzdrowion pójdę<br/>Śladem Zbawcy mego.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pójdę za Jezusem!<br/>Żadne mnie już trwogi,<br/>Ani obietnice<br/>Z tej nie zwrócą drogi.<br/>W tym mnie utwierdź,<br/>Boże, Sam przez Ducha Swego,<br/>Bym nie przestał chodzić<br/>Śladem Zbawcy mego.</lines>
+    </verse>
+  </lyrics>
+</song>

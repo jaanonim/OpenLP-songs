@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:15">
+  <properties>
+    <titles>
+      <title>Chcę przestąpić Jego próg</title>
+    </titles>
+    <authors>
+      <author type="words">Leona Brathorst Aleksander Karpowicz</author>
+      <author type="music">Leona Brathorst Aleksander Karpowicz</author>
+      <author type="words">Leona Von Brethorst</author>
+      <author type="music">Leona Von Brethorst</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="71"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chcę przestąpić Jego próg<br/>z dziękczynieniem w sercu mym,<br/>i w przedsionki Pana wejść<br/>chwaląc Go.<br/>Bo kolejny nadszedł dzień,<br/>który dał nam Pan,<br/>chcę śpiewać Mu, bo Pan radością mą.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pan radością mą, Pan radością mą,<br/>chcę śpiewać Mu, bo Pan radością<br/>// 1. moją jest. // 2. mą. / // (2x) //</lines>
+    </verse>
+  </lyrics>
+</song>

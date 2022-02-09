@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:02">
+  <properties>
+    <titles>
+      <title>Zbawieni - to szczęśliwa rzesza</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="821"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zbawieni - to szczęśliwa rzesza,<br/>Zbawieni - to Jezusa brać;<br/>Wierzący - to są słudzy Pana,<br/>Za wiarę swą chcą życie dać.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Panu służyć chcemy,<br/>Póki tu żyjemy.<br/>Gorliwie służyć Mu<br/>Do ostatniego swego tchu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zadaniem ich - wyznawać Pana<br/>I drugim tę wiadomość dać,<br/>Rozgłaszać już z samego rana<br/>By mogli swe zbawienie brać</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niech Słowo Boże więc rozbrzmiewa,<br/>Przez Polskę całą wszerz i wzdłuż,<br/>A serce me niech Bogu śpiewa,<br/>Że swe zbawienie wzięło już!</lines>
+    </verse>
+  </lyrics>
+</song>

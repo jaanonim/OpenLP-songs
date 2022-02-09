@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:15">
+  <properties>
+    <titles>
+      <title>Chcę wywyższać Imię Twe</title>
+    </titles>
+    <authors>
+      <author type="words">Rick Founds</author>
+      <author type="music">Rick Founds</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="72"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chcę wywyższać Imię Twe,<br/>Chcę zaśpiewać Tobie chwałę.<br/>Panie dziś raduję się,<br/>bo przyszedłeś by mnie zbawić.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Z nieba zstąpiłeś i chcesz prowadzić mnie.<br/>Na krzyżu zmarłeś by mój zapłacić dług,<br/>z grobu wstałeś i dziś<br/>nieba Królem jesteś Ty,<br/>chcę wywyższać Imię Twe.</lines>
+    </verse>
+  </lyrics>
+</song>

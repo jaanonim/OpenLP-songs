@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:38">
+  <properties>
+    <titles>
+      <title>Radość i pokój</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="561"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Radość i pokój<br/>Bóg wlewa w serce me.<br/>Hojny w Swojej miłości<br/>zbawieniem obdarza mnie.<br/>Bóg dziś dzieci przygarnia swe<br/>Jego miłość nie zmieni się,<br/>więc się cieszmy bo kocha nas dzieci swe<br/>On naszym Bogiem jest.<br/>(On naszym Ojcem jest.)<br/>(On naszym Zbawieniem jest.)<br/>(On naszym Panem jest.)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bogu Ojcu oddajmy cześć<br/>On oceanem miłości jest.<br/>Śpiewajmy Bogu  wszyscy razem,  bo dzisiaj.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezusowi oddajmy cześć.<br/>Jedynym Zbawicielem i Panem jest.<br/>Śpiewajmy Bogu wszyscy razem, bo dzisiaj.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Duchowi Świętemu oddajmy cześć,<br/>Pocieszycielem naszym jest.<br/>Śpiewajmy Bogu wszyscy razem, bo dzisiaj.</lines>
+    </verse>
+  </lyrics>
+</song>

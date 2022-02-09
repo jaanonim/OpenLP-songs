@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:39">
+  <properties>
+    <titles>
+      <title>Uwielbiam miłość niepojętą</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="179"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uwielbiam miłość<br/>niepojętą, co w Zbawcy<br/>mym objawia się<br/>uniżam się przed mocą<br/>świętą, co z prochu<br/>wydźwignęła mię.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Już nie chcę żyć dla siebie dłużej,<br/>Miłości, w Tobie się zanurzę</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, jak się mile ku mnie skłania,<br/>jak mnie pożąda serce Twe!<br/>Potędze Twego zmiłowania<br/>nie mogę już opierać się.<br/>O, Ty, Miłości doskonała,<br/>jam Ciebie a Tyś mnie obrała</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Już Ciebie muszę mieć koniecznie,<br/>jakżebym mógł bez Ciebie żyć?<br/>Na ziemi nie odpocznę wiecznie,<br/>przytułkiem Ty mi musisz być;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mej duszy w Tobie jest wytchnienie,<br/>Ty ubogacasz nieskończenie</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Pod jarzmem ciężkim ja<br/>wzdychałem, bom sobie,<br/>a bez Ciebie żył; choć długo<br/>Ciebie znać nie chciałem,<br/>a Tyś mi jednak bliskim był!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>O, gdyby Cię grzesznicy znali,<br/>na pewno by Cię pokochali</lines>
+    </verse>
+  </lyrics>
+</song>

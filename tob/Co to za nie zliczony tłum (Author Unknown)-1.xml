@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:23">
+  <properties>
+    <titles>
+      <title>Co to za nie zliczony tłum</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="125"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Co to za nie zliczony tłum,<br/>Co jakby wód wezbranych szum,<br/>Zalega obszar wzgórz i niw,<br/>I każdy zbiega się, kto żyw?<br/>/ Radosny okrzyk płynie z pól:<br/>Jezus to, z rodu Dawida Król! /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cóż to za Człowiek, któż to zacz,<br/>Co zgoi ból, ukoi płacz,<br/>że starzy Doń i młodzi lgną;<br/>Czyż nie przedziwnym cudem On?<br/>/ wciąż okrzyki słychać z pól:<br/>Jezus to, z rodu Dawida Król! /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To Jezus, ów przemożny Pan,<br/>Co światu na zbawienie dań;<br/>Na Jego słowo chromy zdrów,<br/>Z grobowych martwy wstaje snów,<br/>/ A ślepych okrzyk słychać z pól:<br/>Jezus to, z rodu Dawida Król!;}</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, dzisiaj jeszcze zawsze On<br/>Do ziemskich z nieba schodzi stron<br/>I puka tam, i puka tu,<br/>Czy kto się nie obudzi z snu.<br/>/ I nasza pieśń niech płynie z pól:<br/>Jezus to, z rodu Da¬wida Król! /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pośpieszcie się z grzechowych bied,<br/>Pan Jezus zgoi rany wnet;<br/>Przez nasze usta Pan was zwie:<br/>Pośpieszcie się! Pośpieszcie się<br/>/ Popłynie śpiew i z serc i z pól:<br/>Jezus to, z rodu Dawida Król! /x2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nie zatwardzajcie serc, o, nie,<br/>Bo łaski pora kończy się!<br/>Pan stanie u żywota bram,<br/>A wtedy biada, biada wam!<br/>/ To będzie gorzki, straszny ból:<br/>Odszedł już z rodu Dawida Król</lines>
+    </verse>
+  </lyrics>
+</song>

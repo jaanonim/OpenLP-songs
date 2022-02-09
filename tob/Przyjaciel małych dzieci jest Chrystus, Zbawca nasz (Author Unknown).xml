@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:03">
+  <properties>
+    <titles>
+      <title>Przyjaciel małych dzieci jest Chrystus, Zbawca nasz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="840"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przyjaciel małych dzieci jest Chrystus, Zbawca nasz,<br/>Nad ich duszami stale pasterską trzyma straż.<br/>Dziecięcych dusz wołania wysłucha w każdy czas.<br/>O dzieci, jakże bardzo Zbawiciel kocha was!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jest miejsce odpocznienia ponad gwiazdami tam,<br/>Gdzie szczęście wiekuiste zgotował Zbawca nam;<br/>Tam każde dziecię Jego swych cierpień znajdzie kres,<br/>Tam serce nie zna bólu, a oko nie zna łez..</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Maluczkich woła Zbawca przed Swój niebiański tron,<br/>By po pielgrzymce życia bezpieczny dać im schron;<br/>Tam w świetle Jego tronu wytryska źródło łask,<br/>Tam słońce nie gasnące roztacza wieczny blask.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Na dzieci Jego w niebie zwycięski czeka stan,<br/>W godową szatę białą odzieje wiernych Pan;<br/>Ten wieniec niewiędnący, co od gwiazd jaśniej lśni,<br/>O dziecię Boże, Zbawca na skronie włoży ci.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Po wieki będzie w niebie śpiew dzieci Jego brzmiał,<br/>Ze godzien jest dziękczynień nasz Pan, i wiecznych chwał;<br/>Pieśń chwały dzieci małych przez nieba płynie błoń;<br/>O dzieci, Zbawca woła, pośpieszcie wszystkie Doń!</lines>
+    </verse>
+  </lyrics>
+</song>

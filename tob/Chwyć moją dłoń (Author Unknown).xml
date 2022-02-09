@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:46">
+  <properties>
+    <titles>
+      <title>Chwyć moją dłoń</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="312"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chwyć moją dłoń, bo jestem tak bez-ilny,<br/>że wsparcia szukam dla mych słabych stóp!<br/>Chwyć moją dłoń, a wtedy, miły Zbawco,<br/>nie zlęknę się szatańskich więcej prób.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chwyć moją dłoń! Przyciągnij mię do Siebie,<br/>do Swego serca przytul mię i wznieś!<br/>Weź moją dłoń, gdyż łatwo zbłądzić mogę<br/>i prostą drogę łatwo zgubię gdzieś.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chwyć moją dłoń! Przede mną ciemna droga,<br/>gdy Ty ode mnie Swą odwrócisz twarz,<br/>lecz słowo Twe pochodnią ścieżce mojej,<br/>gdy tylko Ty słabemu rękę dasz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Chwyć moją dłoń, a gdy w Jordanu fale<br/>za Tobą wkroczę, tak jak w śmierci dół,<br/>Ty zdroje sił z jasnego ześlij tronu,<br/>bym w strachu śmierci męstwo w sobie czuł!</lines>
+    </verse>
+  </lyrics>
+</song>

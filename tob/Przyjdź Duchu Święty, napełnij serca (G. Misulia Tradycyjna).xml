@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:30">
+  <properties>
+    <titles>
+      <title>Przyjdź Duchu Święty, napełnij serca</title>
+    </titles>
+    <authors>
+      <author type="words">G. Misulia Tradycyjna</author>
+      <author type="music">G. Misulia Tradycyjna</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="536"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Przyjdź, Duchu Święty,<br/>napełnij serca swych wiernych.<br/>I zapal w nas Swój ogień,<br/>ogień miłości Twej.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Niech zstąpi Duch Twój,<br/>na nowo będziemy stworzeni.<br/>To Ty sam odnowisz<br/>oblicze ziemi tej.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie moc, nie siła,<br/>lecz Duch mój na was spocznie,<br/>On sam dopełni dzieła-<br/>Tak mówi Pan zastępów.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pan jest Duchem,<br/>gdzie Duch Boży tam jest wolność.<br/>Będziemy cię wielbić Panie,<br/>na wieki wieków Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

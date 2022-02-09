@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:05">
+  <properties>
+    <titles>
+      <title>Dobranoc, Ojcze</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="226"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dobranoc, Ojcze!<br/>Jezusa myśli we mnie tchnij!<br/>Duchu Święty, otocz mnie,<br/>Aniołów przy mnie postaw straż!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A moje sny wypełń Sam jak zechcesz<br/>Chcę słyszeć Twój miły głos<br/>Pełen pokoju!</lines>
+    </verse>
+  </lyrics>
+</song>

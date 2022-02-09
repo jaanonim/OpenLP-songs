@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:26">
+  <properties>
+    <titles>
+      <title>O, mów, czy krew Swą wylał Pan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="192"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, mów, czy, krew Swą wylał Pan<br/>Czy także za mnie zmarł?<br/>Ze skłonił głowę pełną ran,<br/>Czy dla mnie jest ten dar?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jezus za mnie zmarł,<br/>On za ciebie zmarł!<br/>O, za nas wszystkich poniósł Pan<br/>Ciężary wiecznych kar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czy zaniósł On na krzyża pień<br/>Owoce moich win?<br/>Czy kochał do ostatnich tchnień<br/>Nędznika Boży Syn?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zakryło słońce blasku wdzięk,<br/>Zakryło grubą ćmą,<br/>Gdy Pan ostatni wydał jęk,<br/>Oddając duszę Swą.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ze wstydu twarz mą muszę skryć,<br/>I w prochu korzyć się<br/>I łzami Jego nogi zmyć<br/>Z wdzięcznością w sercu mym.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nie wyrwę się z mych grzechów sam,<br/>Tu nie pomogą łzy.<br/>Moc grzechu we mnie zniszcz i złam,<br/>I przyjm me serce Ty!</lines>
+    </verse>
+  </lyrics>
+</song>

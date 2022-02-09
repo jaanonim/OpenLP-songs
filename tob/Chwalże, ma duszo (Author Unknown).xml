@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:28">
+  <properties>
+    <titles>
+      <title>Chwalże, ma duszo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="4"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chwalże, ma duszo, Mocarza i Króla Wszechświata!<br/>Niech się twa prośba gorąca z podzięką przeplata,<br/>w górę się zwróć, harfo i lutnio i nuć pienie,<br/>co w niebo ulata.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chwalże, ma duszo, Mocarza co wodzi cię wiecznie!<br/>Który cię skrzydły orlimi podnosi bezpiecznie,<br/>który ci dał w dobrach rozlicznych twój dział,<br/>dziękuj Mu za to serdecznie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chwalże Mocarza, co cudnie cię tak ukształtował,<br/>zdrowiem obdarzył i drogi ci zawsze torował.<br/>Z iluż to trwóg, wielki,<br/>potężny cię Bóg dziwną Swą mocą ratował.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Duszo, chwal Pana, co ciebie tak pobłogosławił,<br/>coć się w strumieniach miłości tak dziwnie objawił.<br/>Duchu mój, miej Boga w pamięci wciąż swej,<br/>byś miłość Jego rad sławił.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Chwalże, ma duszo, Mocarza i wznieś Mu śpiewanie,<br/>wszystko co żyje niech zwraca Doń swoje błaganie!<br/>On światło śle, chwalże Go więc serce me,<br/>amen, tak niechaj się stanie.</lines>
+    </verse>
+  </lyrics>
+</song>

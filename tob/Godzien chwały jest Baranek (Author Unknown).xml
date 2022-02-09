@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:06">
+  <properties>
+    <titles>
+      <title>Godzien chwały jest Baranek</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>GODZIEN CHWAŁY JEST BARANEK ŚWIĘTY, ŚWIĘTY JEST ON<br/>ŚPIEWAJ TEMU, KTÓRY W NIEBIE, OBJĄŁ ŁASKI TRON</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ŚWIĘTY ŚWIĘTY ŚWIĘTY<br/>JEST PAN BÓG WSZECHMOGĄCY<br/>ON BYŁ I JEST I PRZYJDZIE ZNÓW<br/>Z CAŁYM STWORZENIEM ŚPIEWAM, CHWAŁĘ ODDAJĘ CI<br/>TY WSZYSTKIM JESTEŚ MI I BĘDĘ CIĘ WIELBIĆ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ŻYWĄ TECZĄ OTOCZONY<br/>BLASKIEM BŁYSKAWIC GŁOSEM GROMÓW<br/>MOC I BŁOGOSŁAWIEŃSTWO, CZEŚĆ I CHWAŁA CI<br/>BO KRÓLEM JESTEŚ TYLKO TY</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ŚWIĘTY ŚWIĘTY ŚWIĘTY<br/>JEST PAN BÓG WSZECHMOGĄCY<br/>ON BYŁ I JEST I PRZYJDZIE ZNÓW<br/>Z CAŁYM STWORZENIEM ŚPIEWAM, CHWAŁĘ ODDAJĘ CI<br/>TY WSZYSTKIM JESTEŚ MI I BĘDĘ CIĘ WIELBIĆ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ZACHWYCENI, ZADZIWIENI<br/>WYZNAJEMY IMIĘ TWE<br/>POTĘŻNE IMIĘ JEZUS, DECH ŻYCIA, WODA ŻYWA<br/>TAJEMNICA DANA MI</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ŚWIĘTY ŚWIĘTY ŚWIĘTY<br/>JEST PAN BÓG WSZECHMOGĄCY<br/>ON BYŁ I JEST I PRZYJDZIE ZNÓW<br/>Z CAŁYM STWORZENIEM ŚPIEWAM, CHWAŁĘ ODDAJĘ CI<br/>TY WSZYSTKIM JESTEŚ MI I BĘDĘ CIĘ WIELBIĆ</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:46">
+  <properties>
+    <titles>
+      <title>Mój Boże</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="309"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mój Boże, korne serce me w modlitwie<br/>cichej szuka Cię, miej litość, spuść Twej<br/>łaski zdrój, jej pragnę bardzo Zbawco mój!<br/>Pod cieniem skrzydeł Twych chcę żyć,<br/>Ty w burzach, próbach racz mię kryć,<br/>niezłomną wiarę we mnie twórz, nadzieję,<br/>miłość, męstwo, mnóż,<br/>gdy będę walczył z wpływem złym,<br/>mnie wspieraj świętym Duchem Twym.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wiem Ojcze, że Twej łaski moc,<br/>rozświeca najciemniejszą noc,<br/>choć mnóstwo strasznych czarnych<br/>chmur, zasłania słońce,<br/>niby mur i trwogę sieje gromów grzmot,<br/>drży cały świata wielki gród, gdzie w duszy<br/>Boże, mieszkasz Ty, tam w chwilach takich<br/>i przez mgły nadziei jasnej świeci blask i<br/>w duszę płynie strumień łask.</lines>
+    </verse>
+  </lyrics>
+</song>

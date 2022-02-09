@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:29">
+  <properties>
+    <titles>
+      <title>Cudny niebios Królu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="15"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cudny niebios Królu,<br/>możny nasz Hetmanie,<br/>przyjmij nasze wysławianie!<br/>Twojej łaski zdroje płyną<br/>nam w tej chwili,<br/>choć od Ciebieśmy zbłądzili.<br/>Panie nasz, Ty nam dasz,<br/>żeby pieśnią chwały serca nasze brzmiały.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chwalcież, jasne nieba,<br/>Swego Stwórcy dzieło,<br/>które z Niego się poczęło.<br/>I ty słońce wdzięczne,<br/>ześlij swe promienie,<br/>Stwórcy swego pozdrowienie.<br/>Roje gwiazd, skrzących gwiazd,<br/>Panu wraz hołdujcie,<br/>pieśni wyśpiewujcie!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, ty moja duszo,<br/>śpiewaj Panu, śpiewaj,<br/>wdzięczne pieśni Mu wygrywaj.<br/>Wszystko, co oddycha,<br/>niech się kornie zbliży,<br/>w proch przed Panem się uniży.<br/>On nasz Bóg, możny Bóg,<br/>Jemu tylko chwała wieczna będzie brzmiała.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alleluja! śpiewaj,<br/>duszo, co znasz Pana,<br/>coś miłością z Nim związana.<br/>Alleluja! śpiewaj,<br/>co Chrystusa wzywasz,<br/>Jego uczniem się nazywasz.<br/>Błogo ci, wierzaj mi,<br/>Twoje wysławianie w niebie nie ustanie.</lines>
+    </verse>
+  </lyrics>
+</song>

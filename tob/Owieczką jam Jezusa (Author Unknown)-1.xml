@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:50">
+  <properties>
+    <titles>
+      <title>Owieczką jam Jezusa</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="593"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Owieczką jam Jezusa, On dobry pasterz mój.<br/>Uwielbia Go ma dusza, bo dał mi żywot swój.<br/>On za mnie niósł cierpienie, na krzyżu srogą śmierć.<br/>Swej przelał krwi strumienie<br/>/ By dług mych grzechów znieść /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Owieczką jam Jezusa, On dobry pasterz mój.<br/>Moc grzechu mnie nie trwoży, bo w Nim mam życia zdrój.<br/>Oczyścił mnie z wszystkiego,<br/>Przez moc swej świętej krwi, bym wolny tu od złego<br/>/ Otworzył prawdzie drzwi /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Owieczką jam Jezusa, On dobry pasterz mój.<br/>Na znak przymierza Swego nim śmierci poniósł znój,<br/>Chleb, wino błogosławił, wziął je i uczniom dał,<br/>Tak śmierć im Swą objawił<br/>/ Że w niej ich życia dział /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Owieczką jam Jezusa, On dobry pasterz mój.<br/>W Nim dusza choć strwożona ma odpoczynek swój.<br/>On duszę mą napawa miłości winem swym,<br/>Chleb żywy jej podaje<br/>/ I wiedzie w świecie złym /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Owieczką jam Jezusa, On dobry pasterz mój.<br/>W nim mam ja pokrzepienie i żywej wody zdrój.<br/>Na pasze wciąż zielone,<br/>Na żyzne błonia sam prowadzi moją duszę<br/>/ Da wieczny pokój tam /x2</lines>
+    </verse>
+  </lyrics>
+</song>

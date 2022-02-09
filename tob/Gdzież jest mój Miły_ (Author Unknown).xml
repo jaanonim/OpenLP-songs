@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:34">
+  <properties>
+    <titles>
+      <title>Gdzież jest mój Miły?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="333"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdzież jest mój Miły?<br/>Jego szukać żądam.<br/>Gdy świta dzień,<br/>z tęsknotą Go wyglądam,<br/>Gdy zmierzch zapada,<br/>Jego nie znajduję,<br/>Z bólem to czuję.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ślad Jego widzę wszędzie,<br/>w każdej chwili,<br/>Gdzie kwiat zabłyśnie,<br/>ciężki kłos się chyli;<br/>Miłości Jego śladem<br/>me westchnienie<br/>I każde tchnienie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Głos Jego słyszę,<br/>kiedy wietrzyk wionie,<br/>Gdy lasy szumią,<br/>gdy zahuczą tonie;<br/>Słyszę, jak do mnie<br/>Miły mój przemawia,<br/>Dziecię pozdrawia.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mgły jednak często mi<br/>Go zasłaniają,<br/>Choć Go modlitwy<br/>moje dosięgają,<br/>O, gdybym spocząć mógł<br/>na łonie Jego,<br/>Ujrzeć Świętego!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ach, gdy tak wielką<br/>piękność okazuje<br/>W całym stworzeniu,<br/>co się w Nim raduje,<br/>Jakże być musi<br/>piękny i wspaniały<br/>Sam zdrój tej chwały?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O zdroju światła!<br/>Kiedyż mi zabłyśniesz?<br/>Kiedyż to dla mnie<br/>w całej pełni tryśniesz<br/>Kiedyż z tajemnic<br/>świętych się wyłonisz,<br/>Twarz mi odsłonisz?</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ciesz się, ma duszo,<br/>pełna bądź nadziei,<br/>Wnet cię odwoła<br/>z ziemskich burz, zawiei<br/>Miły twój;<br/>wtedy w Jego paść ramiona<br/>Masz wybawiona.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Wkrótce na brzegach<br/>staniesz już bezpiecznych<br/>I do radości dojdziesz<br/>krain wiecznych;<br/>Tam, jak dziecinie<br/>na matczynym łonie,<br/>Pokój ci wionie</lines>
+    </verse>
+  </lyrics>
+</song>

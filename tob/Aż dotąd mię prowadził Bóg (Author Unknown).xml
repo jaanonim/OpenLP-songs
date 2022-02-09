@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:53">
+  <properties>
+    <titles>
+      <title>Aż dotąd mię prowadził Bóg</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="671"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aż dotąd mię prowadził Bóg<br/>Za ręce miłosiernie,<br/>Wśród jasnych dni, wśród nocnych trwóg<br/>Aż dotąd chronił wiernie,<br/>Aż dotąd On kierował mną,<br/>Aż dotąd cieszył łaską Swą,<br/>Aż dotąd mię wspomagał.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niech Tobie wzniosę chwałę, cześć<br/>Za wierność okazaną,<br/>Żeś mię na rękach raczył nieść,<br/>Piastował każde rano.<br/>Dzisiejszy dzień zachęca mnie<br/>Do uwielbiania, Panie, Cię<br/>Żeś dotąd mi pomagał.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lecz proszę Cię, Obrońco mój,<br/>I w dalszej pomóż chwili,<br/>Na każdym miejscu przy mię stój,<br/>Niech mię Twa moc posili,<br/>Gdy przyjdzie w grób położyć się,<br/>Radośnie jeszcze wyznać chcę:<br/>I teraz Pan pomoże!</lines>
+    </verse>
+  </lyrics>
+</song>

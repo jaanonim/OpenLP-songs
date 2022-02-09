@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:33">
+  <properties>
+    <titles>
+      <title>Zwróćmy ku Panu spojrzenia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="793"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Zwróćmy ku Panu spojrzenia<br/>rozpromienione miłością,<br/>śpiewajmy Mu pieśń radosnych serc<br/>jedynym Panem Bóg. // x2<br/>On naszym Zbawcą jest. //</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Szukałem wszędzie Pana,<br/>a On sam odnalazł mnie<br/>i wyzwolił z wszelkiej trwogi<br/>odtąd zawsze wielbić Go chcę.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie zabraknie niczego tym,<br/>którzy Pana pragną szczerze.<br/>Bóg napełnia wszelkim dobrem<br/>serca dane Mu w ofierze.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pan kieruje swe spojrzenie<br/>na umiłowany lud,<br/>w smutku zsyła pocieszenie<br/>i sam strzeże naszych dróg.</lines>
+    </verse>
+  </lyrics>
+</song>

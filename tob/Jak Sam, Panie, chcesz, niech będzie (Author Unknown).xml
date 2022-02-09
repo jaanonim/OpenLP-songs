@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:26">
+  <properties>
+    <titles>
+      <title>Jak Sam, Panie, chcesz, niech będzie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="201"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak Sam, Panie, chcesz, niech będzie<br/>Twa wola, jak chcesz!<br/>/ Jak Sam, Panie, chcesz,<br/>niech będzie Twa wola, jak chcesz.;]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uczynię, co chcesz, co,<br/>Jezu, rozkażesz, co chcesz.<br/>/ Uczynię, co chcesz, co,<br/>Jezu, rozkażesz, co chcesz. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I pójdę, gdzie chcesz,<br/>gdzie Ty mnie posyłasz,<br/>gdzie chcesz.<br/>/ I pójdę, gdzie chcesz, gdzie<br/>Ty mnie posyłasz, gdzie chcesz. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:09">
+  <properties>
+    <titles>
+      <title>Niech Ci błogosławi Pan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niech ci błogosławi Pan<br/>Niechaj cię strzeże<br/>Niech rozjaśni oblicze swe nad tobą<br/>I niech miłościw ci będzie<br/>Niech ci błogosławi Pan<br/>Niechaj cię strzeże<br/>Niech obróci twarz swoją ku tobie<br/>I niech da ci swój pokój</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Niech ci błogosławi Pan<br/>Niech ci błogosławi Pan<br/>Niech ci błogosławi Pan<br/>Niech ci błogosławi Pan<br/>Niech ci błogosławi<br/>Niech ci błogosławi<br/>Niech ci błogosławi<br/>Pan</lines>
+    </verse>
+  </lyrics>
+</song>

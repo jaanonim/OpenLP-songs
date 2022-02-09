@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:32">
+  <properties>
+    <titles>
+      <title>Wielbij, wielbij Go</title>
+      <title>Praise Hm, praise Him</title>
+    </titles>
+    <authors>
+      <author type="words">Twila Paris AXM</author>
+      <author type="music">Twila Paris AXM</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="750"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wielbij, wielbij Go,<br/>wielbij pieśnią swą.<br/>Wielbij, wielbij Go,<br/>wielbij cały dzień.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bowiem Pan jest godzien,<br/>godzien przyjąć chwały pieśń. // x2 //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wielbij, wielbij Go,<br/>wielbij sercem swym.<br/>Wielbij, wielbij Go,<br/>wielbij z wszystkich sił.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wielbij, wielbij Go,<br/>wielbij życiem swym,<br/>Wielbij, wielbij Go,<br/>Imię Pana głoś.</lines>
+    </verse>
+  </lyrics>
+</song>

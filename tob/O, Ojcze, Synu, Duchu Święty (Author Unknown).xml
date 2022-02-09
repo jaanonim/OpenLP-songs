@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:25">
+  <properties>
+    <titles>
+      <title>O, Ojcze, Synu, Duchu Święty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="315"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, Ojcze, Synu, Duchu Święty, ochrzczony<br/>jestem w imię Twe, do rzeszy sług Twych<br/>zaliczony, do ludu, co się świętym zwie.<br/>Krynicą łaski dla mnie jest mój ślub z<br/>Chrystusem, ten mój chrzest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ty Swym dziecięciem i dziedzicem uznałeś mię,<br/>o, Boże mój! Plon, Chryste, śmierci Twej mym<br/>działem, i dla mnieś znosił krwawy znój!<br/>Tyś, Duchu Święty, we mnie żyć i mą<br/>pociechą przyrzekł być.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jam za to Ci wierności stałej i posłuszeństwa<br/>złożył ślub, jam przyrzekł zostać Twą<br/>własnością, aż prochy moje zamknie grób.<br/>Szatańskich spraw wyrzekłem się i w<br/>wiecznej mam pogardzie je.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Precz, precz, o, książę tego świata, wzgardziłem<br/>społecznością twą! Ze skaz i grzechów me<br/>sumienie oczyścił Chrystus Swoją krwią.<br/>Precz, marny świecie, grzechy, precz!<br/>Bóg świadkiem, już nie pójdę wstecz!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O, Ojcze, Synu, Duchu Święty, niech w<br/>takich ślubach wiernie trwam, zachowaj<br/>sam mię w Twym przymierzu! Dopóki żyć<br/>na ziemi mam, własnością Twoją pragnę<br/>być i ku Twej chwale wiecznie żyć.</lines>
+    </verse>
+  </lyrics>
+</song>

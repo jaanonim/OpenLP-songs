@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:30">
+  <properties>
+    <titles>
+      <title>Przyjdź jak deszcz</title>
+    </titles>
+    <authors>
+      <author type="words">muz. Piotr Kominek, sł. Ewa Alimowska</author>
+      <author type="music">muz. Piotr Kominek, sł. Ewa Alimowska</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="538"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przyjdź jak deszcz ożyw dziś<br/>suchą ziemię naszych serc,<br/>Przyjdź jak deszcz na spragniony świat.<br/>Dotknij nas tak jak wiatr<br/>rozpędź smutek, otrzyj łzy,<br/>zabierz tam, gdzie się w radość zmienia strach.<br/>Wszystko dziś nowe staje się.<br/>Panie, przyjdź i napełnij mnie!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Przyjdź jak deszcz do spragnionych serc<br/>tak pragniemy Ciebie, Panie.<br/>Niech Twa moc dziś objawi się<br/>pokaż swoją chwałę!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przyjdź jak deszcz Panie nasz<br/>obmyj gorycz, żal i ból<br/>Pozwól dziś niech nadzieja kwitnie w nas.<br/>To, co złe zniknie gdzieś<br/>nowy dzień nastaje już.<br/>Jesteś jak słońca blask w pochmurny czas.<br/>Wszystko dziś nowe staje się.<br/>Panie, przyjdź i napełnij mnie!</lines>
+    </verse>
+  </lyrics>
+</song>

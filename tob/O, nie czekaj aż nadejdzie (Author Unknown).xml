@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:45">
+  <properties>
+    <titles>
+      <title>O, nie czekaj aż nadejdzie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="494"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, nie czekaj aż nadejdzie<br/>wielkich czynów dzień,<br/>Aż w świat obcy Bóg cię wezwie stąd!<br/>Wszak rozmnożył się wokoło grzech<br/>i śmierci cień,<br/>Rozjaśnij tylko ten swój kąt!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Rozjaśnij tylko ten swój kąt! /x2<br/>Możesz pomóc niejednemu, kogo splątał błąd.<br/>Rozjaśnij tylko ten swój kąt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Za myślami wysokimi ty nie unoś się,<br/>Wierność w małym, to najlepszy grunt.<br/>Niech twój śpiew, twój uśmiech,<br/>dobre słowo w pomoc mknie.<br/>Rozjaśnij tylko ten swój kąt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tutaj znajdziesz dla talentów swoich<br/>miejsca dość,<br/>Wszak poniszczył dusze grzechu trąd.<br/>Nawet przy pomocy ciebie może niebo róść,<br/>Rozjaśnij tylko ten swój kąt!</lines>
+    </verse>
+  </lyrics>
+</song>

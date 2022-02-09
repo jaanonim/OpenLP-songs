@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:37">
+  <properties>
+    <titles>
+      <title>Jeden skarb bym posiąść chciał</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="383"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jeden skarb bym posiąść chciał<br/>Sercu najzacniejszy,<br/>Który by na wieki trwał,<br/>Skarb ten najpewniejszy.<br/>Nie uszkodzi mi go rdza,<br/>Złodziej oń niewiele dba,<br/>Powódź mi go nie podmyje,<br/>Ogień nie pożera,<br/>Ani czas wydziera.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czyliż znajdę klejnot ten<br/>W krasie i w urodzie?<br/>Ta rozpłynie się, jak sen,<br/>Prędko nas odchodzi.<br/>Piękność ciała, jakby kwiat,<br/>Dzisiaj kwitnie, jutro zbladł;<br/>Młódź upada, młódź omdlewa;<br/>Nawet w życia wiośnie<br/>Kąkol śmierci rośnie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Czyliż mam się chciwie piąć<br/>Po zaszczyty ziemi?<br/>Czyż to szczęściem jest, gdy siąść<br/>Mogę z dostojnymi?<br/>Nie dam się zaślepić, nie,<br/>Tej zwodniczej losów grze!<br/>Pan i królów strąca z tronów;<br/>Kto dziś stoi dumnie,<br/>Jutro złożon w trumnie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Czy mi szczęście może dać<br/>Hojność i mamona?<br/>Ach, jak na niej często znać,<br/>Że jest krwią splamiona!<br/>Kosztownego złota wór<br/>Cięższy jest od skał i gór.<br/>Ból sumienia, utrapienia,<br/>Troski i kłopoty<br/>Skarb przynosi złoty.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jeden skarb najdroższy znam,<br/>- Jeden cenię sobie:<br/>W niebie go złożony mam,<br/>Nim się chętnie zdobię.<br/>Jezus skarb najdroższy mój,<br/>Najcenniejszy serca strój;<br/>W Nim wytchnienie, ukojenie.<br/>Dzisiaj i na potem<br/>Jezus mym klejnotem.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Przezeń tylko, tylko w Nim<br/>Wszystko ma znaczenie;<br/>Kiedy Jezus Panem mym,<br/>Wszystko wzrasta w cenie.<br/>Młodość, krasa, złoto, cześć,<br/>Wszystko może szczęście nieść,<br/>Wszystko Pana wielbić może;<br/>On ubłogosławi<br/>Wszystkie nasze sprawy.</lines>
+    </verse>
+  </lyrics>
+</song>

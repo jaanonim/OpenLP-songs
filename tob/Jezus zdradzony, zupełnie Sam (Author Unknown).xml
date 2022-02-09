@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:25">
+  <properties>
+    <titles>
+      <title>Jezus zdradzony, zupełnie Sam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="183"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus zdradzony, zupełnie Sam<br/>Stał przed Piłatem u sądu bram.<br/>Padło tak ważne pytanie tam:<br/>„Cóż zrobię z tym Jezusem?"</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Co zrobisz Ty z Jezusem?<br/>Szczerze odpowiedz sam!<br/>Zbliża się czas, gdy zapytasz:<br/>Co zrobi ze mną Pan?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Widzisz przed sądem Jezusa wciąż.<br/>Chcesz Mu być wiernym? Wyznanie złóż!<br/>Krzyczy sumienia ci głos, twój stróż:<br/>Co zrobisz ty z Jezusem?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Myślisz jak Piłat wywinąć się,<br/>Czy przyjąć Tego co zbawił cię?<br/>Wszak głos raz po raz odzywa się:<br/>Co zrobisz ty z Jezusem?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Czy wyznasz Pana przed światem złym,<br/>Czy się Go zaprzesz w uporze swym?<br/>Dziś znów pytanie brzmi w sercu twym:<br/>Co zrobisz ty z Jezusem?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Serce me Tobie w ofierze dam,<br/>Weź je, mój Panie, i przerób Sam,<br/>Bo w Tobie życie i wszystko mam;<br/>Królem Tyś mym i Panem!</lines>
+    </verse>
+  </lyrics>
+</song>

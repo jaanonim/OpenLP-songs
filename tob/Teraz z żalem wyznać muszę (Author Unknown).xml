@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:56">
+  <properties>
+    <titles>
+      <title>Teraz z żalem wyznać muszę</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="732"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Teraz z żalem wyznać muszę,<br/>Jak uparty byłem ja,<br/>Gdy na Twe wezwanie, Zbawco,<br/>/ Tobie rzekłem wówczas hardo /x2<br/>/ Tobie rzekłem wówczas hardo /x2<br/>„Niczym Ty - a wszystkim ja".</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lecz dosięgłeś mnie, - słyszałem<br/>Jak błagałeś „Przebacz im",<br/>W ranach, we krwi będąc cały<br/>- / W sercu martwym coś szeptało /x2<br/>/ W sercu martwym coś szeptało /x2<br/>„Trochę Ty, a trochę ja".</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Duch Twój sprawił, że do serca<br/>Miało dostęp Słowo Twe.<br/>Zobaczyłem swą bezradność<br/>/ I w pokorze cicho-rzekłem /x2<br/>/ I w pokorze cicho rzekłem /x2<br/>„Panie, więcej rządź niż Ja".</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ponad góry niebosiężne<br/>I rozległe głębie mórz,<br/>Miłość Twoja ku nam Panie!<br/>/ Już w całości się poddaję /x2<br/>/ Już w całości się poddaję /x2<br/>„Niczym ja - a wszystkim Ty."</lines>
+    </verse>
+  </lyrics>
+</song>

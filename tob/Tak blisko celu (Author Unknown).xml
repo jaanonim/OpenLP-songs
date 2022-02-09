@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:36">
+  <properties>
+    <titles>
+      <title>Tak blisko celu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="133"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tak blisko celu, niewiele brak,<br/>a grzechu wszelki zniknąłby znak,<br/>lecz serce waha się i mówi:<br/>Jeszcze nie, dziś odejdź,<br/>później chcę zawołać cię!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tak blisko celu,<br/>twój czas jest tuż!<br/>Jezus cię woła, serce Mu złóż!<br/>Anieli mówią: Pójdź!<br/>Chcą cię za rękę wziąć,<br/>i bracia proszą:<br/>Pójdź! O duszo, pójdź!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tak blisko celu,<br/>śmierć weźmie cię.<br/>O zgrozo, zgrozo, gdzież ukryć się?<br/>Gdy wzgardzisz łaską tą,<br/>duszę zatracisz swą;<br/>pójdź więc do Pana z nią,<br/>pójdź, póki czas!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:39">
+  <properties>
+    <titles>
+      <title>Czymżeśmy bez Ciebie, Jezu?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="434"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czymżeśmy bez Ciebie, Jezu?<br/>Nędzny z nas i marny pył.<br/>Ród nasz grzeszny, więc, o Panie,<br/>Prosim, byś miłościw był.<br/>Ach, ulituj się nad nami,<br/>Nie gardź dziatek Twych prośbami!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ach, bez Ciebie, miły Jezu,<br/>Któż bez zmazy przejdzie świat?<br/>Bo na wszystkich życia drogach<br/>Czyha na nas mnóstwo zdrad.<br/>Groźnym świat i słodkim bywa<br/>I pochlebstwem nas zjednywa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Więc nas pokrzep, drogi Jezu,<br/>W ciemni naszej światło wznieć,<br/>Zdejmij z duszy zaślepienie<br/>I obliczem Swym nam świeć!<br/>Niech, o Słońce, Twe promienie<br/>Ześlą sercu ukojenie!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Niechaj Duch Twój, Panie Jezu,<br/>Mocy doda duszy mdłej,<br/>Byśmy sprawą Twą przejęci,<br/>śladem szli miłości Twej!<br/>Obdarz łaską mię obficie,<br/>Wtedy miłe Ci me życie.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wtedy psalm dziękczynny, Jezu,<br/>Z głębi serca wzniosę Ci;<br/>Wszyscy chwalić Cię będziemy<br/>Pieśnią, co triumfem brzmi;<br/>Wtedy to na ziemi wszędzie<br/>Chrystus rząd sprawować będzie.</lines>
+    </verse>
+  </lyrics>
+</song>

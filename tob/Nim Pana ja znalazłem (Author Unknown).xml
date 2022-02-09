@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:35">
+  <properties>
+    <titles>
+      <title>Nim Pana ja znalazłem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="350"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nim Pana ja znalazłem,<br/>Me serce tłczył ból,<br/>Ciężaru nikt nie ulżył<br/>I troski gryzł je mól.<br/>Lecz odkąd znam Jezusa,<br/>Pierzchnęła troski mgła,<br/>Coś w duszy rozmodlonej<br/>Niebiańską nutą gra.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>W mej duszy coś wygrywa,<br/>Osładza dzienny trud,<br/>Raduję się, że w górze<br/>Z Nim do wiecznych siędę gód.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lecz odkąd Pan mię znalazł,<br/>Wolnością płonie pierś,<br/>Zwątpienia, trwogi, żale<br/>Już uleciały gdzieś.<br/>Ma ścieżka nie jest ciemną,<br/>Bo słońce blaskiem lśni,<br/>Co z krzyża na Golgocie<br/>Nareszcie wzeszło mi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Spoglądam tęsknie w górę,<br/>W przybytek wieczny mój,<br/>Gdzie mnie korona czeka,<br/>Zwycięstwa jasny strój.<br/>Gorąco serce pragnie<br/>Swe śpiewy zgodnie zlać<br/>Z rzeszami wybawionych,<br/>Przed tronem Bożym stać</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:17">
+  <properties>
+    <titles>
+      <title>Chwalże, ma duszo, Mocarza</title>
+    </titles>
+    <authors>
+      <author type="words">J. Neander</author>
+      <author type="music">J. Neander</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="8"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chwalże, ma duszo,<br/>Mocarza i Króla wszechświata!<br/>Niech się twa prośba gorąca<br/>z podzięką przeplata!<br/>W górę się zwróć,<br/>Harfo i lutnio, się zbudź!<br/>Niech pieśń twa w niebo ulata!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chwalże, Mocarza,<br/>co wszystkim tak mądrze kieruje!<br/>Który na skrzydłach<br/>cię orlich bezpiecznie piastuje;<br/>Który ci dał<br/>W dobrach rozlicznych twój dział.<br/>Czy serce twoje to czuje?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chwalże Mocarza,<br/>co cudnie cię tak ukształtował,<br/>Zdrowiem obdarzył<br/>i drogi ci zawsze torował!<br/>Z iluż to trwóg Wielki,<br/>potężny cię Bóg<br/>Dziwną Swą mocą ratował!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Chwalże, ma duszo, Mocarza,<br/>co ci błogosławił,<br/>Coć się w strumieniach miłości<br/>tak dziwnie objawił!<br/>Duchu mój, miej Boga<br/>w pamięci wciąż swej,<br/>Byś miłość Jego rad sławił!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Chwalże, ma duszo,<br/>Mocarza gorącym westchnieniem,<br/>Chwalże Go, wszystko, co żyje,<br/>z Abrama nasieniem!<br/>On blaski Swe W serce<br/>Twe biedne ci śle,<br/>Chwal Go na wieki swym pieniem!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:52">
+  <properties>
+    <titles>
+      <title>O Boże, spełnij tych życzenia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="641"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Boże, spełnij tych życzenia,<br/>Co tu w miłości łącząc się,<br/>Do Ciebie wznoszą swe westchnienia<br/>I o Twą łaskę proszą Cię.<br/>ich związek pobłogosław, Panie,<br/>Jedności duchem Ty ich rządź;<br/>O szczęście ich racz mieć staranie,<br/>A w smutku ich pociechą bądź!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niech serca ich tu Twój przenika<br/>Miłości pełen Boski głos.<br/>Kto Ciebie ma za przewodnika,<br/>Ten zniesie każdy życia los;<br/>Z ufnością Tobie się poddaje<br/>I w pobożności zawsze trwa,<br/>W miłości czynach nie ustaje<br/>I pokój błogi w duszy ma.</lines>
+    </verse>
+  </lyrics>
+</song>

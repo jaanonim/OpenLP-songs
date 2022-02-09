@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:55">
+  <properties>
+    <titles>
+      <title>Jak wiele na świecie nauk przepięknych</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="726"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak wiele na świecie nauk przepięknych,<br/>jak walczyć ze złością i grzechów się zbyć;<br/>Ach, tyle już przeszło na ziemi pokoleń,<br/>a ludzie nie mogą w przyjaźni wciąż żyć.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czy trudno naprawdę odrzucić nienawiść,<br/>wrogowi przebaczyć, nie jątrzyć już ran?<br/>Czy trudno ci przyjąć w swe serce Jezusa,<br/>a wszystkich miłować, jak mówił On Sam?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chrystusa naukę wszak wszyscy już znają,<br/>a jednak nie dążą, by stale w niej żyć;<br/>Słabego wciąż krzywdzą, przed silnym się korzą<br/>a łzy ludzkie płyną i płyną do dziś</lines>
+    </verse>
+  </lyrics>
+</song>

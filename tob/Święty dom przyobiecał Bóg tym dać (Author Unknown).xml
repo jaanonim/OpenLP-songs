@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:01">
+  <properties>
+    <titles>
+      <title>Święty dom przyobiecał Bóg tym dać</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="806"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Święty dom przyobiecał Bóg tym dać,<br/>Którzy w wierze, miłości będą trwać.<br/>Tam nie będzie chmur ciemnych, ani burz,<br/>Lśnić będzie odblask rajskich zórz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Święty dom, święty dom,<br/>Tam, gdzie lśni Boży tron;<br/>Świętym dom, święty dom,<br/>Tam wśród niebieskich stron!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czy wśród dolin ty idziesz,<br/>Czy wśród wzgórz,<br/>W blasku słońca,<br/>Czy pośród groźnych burz,<br/>Nic się nie bój - nad tobą czuwa On,<br/>Wprowadzi cię w Swój święty Dom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jak to będzie u kryształowych wód,<br/>Gdy się zbierze zbawiony, Boży lud?<br/>Tam aniołów niebiańskich cudną grą,<br/>Radośne hymny niechaj brzmią!</lines>
+    </verse>
+  </lyrics>
+</song>

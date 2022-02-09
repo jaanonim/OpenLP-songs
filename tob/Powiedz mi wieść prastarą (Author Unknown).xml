@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:32">
+  <properties>
+    <titles>
+      <title>Powiedz mi wieść prastarą</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="62"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Powiedz mi wieść prastarą,<br/>jak Bóg ukochał świat,<br/>jak dał za wykup ludzi<br/>Swojego Syna rad.<br/>Mów do mnie w słowach prostych,<br/>jak małym dzieciom mów,<br/>bym wszystko dobrze pojął,<br/>na duchu stał się zdrów.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Powiedz mi wieść prastarą,<br/>powiedz mi wieść przedziwną!<br/>Powiedz, bym przyjął wiarą,<br/>jak Bóg ukochał świat!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Powiedz mi wieść prastarą,<br/>choremu podaj lek,<br/>od grzechów wybawienie<br/>przez Chrystusową krew.<br/>Często mi ją powtarzaj,<br/>by w sercu wryła się,<br/>bym nigdy nie zapomniał,<br/>jak Bóg ukochał mię.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Powiedz mi wieść prastarą,<br/>powiedz mi wieść przedziwną!<br/>Powiedz, bym przyjął wiarą,<br/>jak Bóg ukochał świat!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Powiedz mi wieść prastarą,<br/>powtarzaj znów i znów,<br/>o ile chcesz,<br/>by grzesznik pociechę miał z tych słów.<br/>Niech wieść ta wkrąg rozbrzmiewa<br/>do ludzi wszystkich ras,<br/>że Jezus Swoją śmiercią<br/>wybawił z grzechów nas.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Powiedz mi wieść prastarą,<br/>powiedz mi wieść przedziwną!<br/>Powiedz, bym przyjął wiarą,<br/>jak Bóg ukochał świat!</lines>
+    </verse>
+  </lyrics>
+</song>

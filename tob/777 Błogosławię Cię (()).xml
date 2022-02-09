@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:56">
+  <properties>
+    <titles>
+      <title>777 Błogosławię Cię</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Błogosławię Cię, kiedy ziemia wydaje plon<br/>Gdy obfitość Panie zsyłasz swą, błogosławię Cię<br/>Błogosławię Cię, gdy pustynia w krąg otacza mnie<br/>Choćbym przez ciemne pustkowie szedł, błogosławię Cię</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Za Twą łaskę, którą zsyłasz, <br/>Ja chwalę Cię<br/>Choćby ciemność mnie przykryła,<br/>Ja powiem, że:</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Panie błogosławię imię Twe, <br/>Błogosławię Cię<br/>Panie błogosławię imię Twe, <br/>Błogosławię święte imię Twe /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Błogosławię Cię, kiedy słońca blask oświeca mnie<br/>To, co dajesz mi najlepsze jest, błogosławię Cię<br/>Błogosławię Cię, kiedy drogę moją znaczy cień<br/>Chociaż cierpię, pragnę chwalić Cię, błogosławię Cię</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>Za Twą łaskę, którą zsyłasz, <br/>Ja chwalę Cię<br/>Choćby ciemność mnie przykryła,<br/>Ja powiem, że:</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>Panie błogosławię imię Twe, <br/>Błogosławię Cię<br/>Panie błogosławię imię Twe, <br/>Błogosławię święte imię Twe /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ty dajesz z woli Swej, zabierasz, kiedy chcesz<br/>W mym sercu zawsze chcę błogosławić Cię</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Panie błogosławię imię Twe, <br/>Błogosławię Cię<br/>Panie błogosławię imię Twe, <br/>Błogosławię święte imię Twe /x2</lines>
+    </verse>
+  </lyrics>
+</song>

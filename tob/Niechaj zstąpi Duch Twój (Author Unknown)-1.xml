@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:37">
+  <properties>
+    <titles>
+      <title>Niechaj zstąpi Duch Twój</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="98"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Niechaj zstąpi Duch Twój<br/>I odnowi Ziemię<br/>Życiodajny spłynie deszcz<br/>Na spragnione serce<br/>Obmyj mnie i uświęć mnie<br/>Uwielbienia niech popłynie pieśń /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chwała!<br/>Jezusowi, który za mnie życie dał<br/>Chwała!<br/>Temu, który pierwszy umiłował mnie<br/>Jezus!<br/>Tylko Jezus Panem jest</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/ Niechaj zstąpi Duch Twój<br/>I odnowi Ziemię<br/>Życiodajny spłynie deszcz<br/>Na spragnione serce<br/>Obmyj mnie i uświęć mnie<br/>Uwielbienia niech popłynie pieśń /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/ Chwała!<br/>Jezusowi, który za mnie życie dał<br/>Chwała!<br/>Temu, który pierwszy umiłował mnie<br/>Jezus!<br/>Tylko Jezus Panem jest /x2</lines>
+    </verse>
+  </lyrics>
+</song>

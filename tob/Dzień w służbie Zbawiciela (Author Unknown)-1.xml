@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:44">
+  <properties>
+    <titles>
+      <title>Dzień w służbie Zbawiciela</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="481"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dzień w służbie Zbawiciela,<br/>O, to cudowny dzień!<br/>W nim świat maleje,<br/>Serce pięknieje,<br/>To wielka korzyść zeń.<br/>Gdzie mocy trza,<br/>Tam Pan moc Swoją da.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Dzień w służbie Zbawiciela, /x2<br/>Dzień w służbie Zbawiciela,<br/>O, to cudowny dzień!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dzień w służbie Zbawiciela,<br/>Jak świetny urząd ten!<br/>Tu nikt nie zmusza,<br/>Tu serce wzrusza<br/>Miłości Bożej czyn.<br/>Jam już nie swój,<br/>Mnie posiadł Zbawca mój.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dzień w służbie Zbawiciela,<br/>Jak słodka praca ta!<br/>Głosić zbawienie,<br/>Z grzechu zwolnienie;<br/>Nagroda będzie cna.<br/>Na ziemi już<br/>Nagradza wierny Stróż.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dzień w służbie Zbawiciela,<br/>Choć siłę trawi znój,<br/>- On mnie posili,<br/>Gdy w ciężkiej chwili<br/>Ostatni stoczę bój.<br/>On wierny nam,<br/>On zawsze jest ten sam</lines>
+    </verse>
+  </lyrics>
+</song>

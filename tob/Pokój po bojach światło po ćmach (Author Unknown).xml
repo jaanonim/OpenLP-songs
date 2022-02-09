@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:48">
+  <properties>
+    <titles>
+      <title>Pokój po bojach światło po ćmach</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="365"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pokój po bojach światło po ćmach,<br/>po smutku wejście w błogości gmach;<br/>słońce przebłyska z posępnych chmur,<br/>wytchnienie spływa z niebieskich gór.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Radość po żalu, po bólach lek,<br/>po stratach życia słoneczny wiek,<br/>moc po słabości, po hańbie część;<br/>burze uciszy pokoju wieść.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Po trudach życia ochłody cień,<br/>po klęskach sławny zwycięstwa dzień.<br/>Wielkie uciski, gorycz i krzyż<br/>niosą koronę i wiodą wzwyż.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hojność po biedzie, wolność wśród mąk,<br/>powrót z wygnania do Ojca rąk,<br/>życie po śmierci Jezus nam dał<br/>- to odkupionych wspaniały dział.</lines>
+    </verse>
+  </lyrics>
+</song>

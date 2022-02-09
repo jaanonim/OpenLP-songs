@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:17">
+  <properties>
+    <titles>
+      <title>Chwałę daj Panu, o duszo moja</title>
+    </titles>
+    <authors>
+      <author type="words">J.D. Herrnschmidt</author>
+      <author type="music">J.D. Herrnschmidt</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="9"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chwałę daj Panu, o duszo moja!<br/>Chwalić Go pragnę aż po zgon.<br/>Póki tu żyję, Bóg ma ostoja.<br/>Niech płynie pieśń przed jego tron!<br/>Ten, co nam ciało, duszę dał,<br/>Godzien jest wiecznych pień i chwał.<br/>Alleluja, alleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Błogosławiony jest ten zaiste,<br/>Którego mocą jest Sam Bóg;<br/>Który, jak dziecię, Ci ufa,Chryste,<br/>Twych niezachwianie strzeże dróg.<br/>Kto w Tobie, Panie, ufność ma,<br/>Temu Twa łaska pomoc da.<br/>Alleluja, alleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sąd prawy czynić Pan nie ustaje,<br/>Sam Swoich wiernych koi łzy;<br/>Krzepi strudzonych, a głodnym daje<br/>Pokarm po wszystkie życia dni.<br/>Niewoli pęta zrywa Pan -<br/>O, niech mu pokłon będzie dan!<br/>Alleluja, alleluja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Za to bezbożne życia plany<br/>Potężny Jego zburzy gniew,<br/>Że się rozprysną, jak wodne piany,<br/>Rozsypią się, jak garstka plew.<br/>Pan Królem wiecznym - Nim się zbrój!<br/>Syjonie, Bóg obrońca twój!<br/>Alleluja, alleluja!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Chwała ze wszech stron niech brzmi dokoła!<br/>Potędze cudów Bożych cześć!<br/>Wszystko, co żyje, niech „amen" woła,<br/>Chwałę z radością śpieszy nieść!<br/>Niech śpiewa, kto wziął Ducha chrzest,<br/>Bo Pan ten godzien chwały jest!<br/>Alleluja, alleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

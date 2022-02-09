@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:17">
+  <properties>
+    <titles>
+      <title>Boże wielki, pełnyś chwał</title>
+    </titles>
+    <authors>
+      <author type="words">Ambroży</author>
+      <author type="music">Ambroży</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="4"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boże wielki, pełnyś chwał,<br/>Wielbim Twą potęgę, Panie!<br/>Tyś stworzeniom życie dał,<br/>Podziwiamy Twe działanie;<br/>Jakiś od wieczności był,<br/>Tak na wieki będziesz żył.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wszyscy Ciebie chwalić chcą,<br/>Wszyscy święci, aniołowie;<br/>Wielbią wielkość, dobroć Twą<br/>Cherubowie, Serafowie.<br/>Śpiew otacza Boski tron:<br/>„Święty, święty, święty On!"</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Święty jest niebieski Wódź,<br/>Pan Zastępów święty, święty.<br/>Nędze naszą może zmóc;<br/>Chwałą Jego świat przejęty.<br/>Niebo ziemia, morze brzmi<br/>Głośną pieśnią Jego czci.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Spojrzyj, Panie, na swój lud,<br/>Skłoń ku Swemu się stworzeniu!<br/>Prowadź go do życia wód,<br/>By nie zginął w utrudzeniu!<br/>A gdy przetrwa życia znój,<br/>Niech majestat ujrzy Twój.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Zmiłuj, Panie, zmiłuj się,<br/>Pobłogosław dziatwie Swojej!<br/>Objaw się nam w łasce Swej,<br/>Z której płyną pociech zdroje!<br/>Tyś nadzieją naszą Sam,<br/>Nie daj przeto zginąć nam!</lines>
+    </verse>
+  </lyrics>
+</song>

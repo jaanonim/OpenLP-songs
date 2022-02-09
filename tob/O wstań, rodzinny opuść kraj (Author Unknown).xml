@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:25">
+  <properties>
+    <titles>
+      <title>O wstań, rodzinny opuść kraj</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="162"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O wstań, rodzinny opuść kraj,<br/>Z Abrama przykład bierz,<br/>Wezwaniu Boga posłuch daj,<br/>Za Jego głosem śpiesz!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, duszo, pójdźże<br/>jeszcze dziś<br/>Przez wąską bramę tam,<br/>Gdzie możesz wciąż<br/>bezpieczną być<br/>I w niebie wiecznie żyć.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, wstań, ten marny opuść świat<br/>Dopóki jeszcze czas,<br/>Nim zniknie jako zwiędły kwiat!<br/>Przed zgubą uchodź wraz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, wstań, to miasto opuść złe,<br/>Z Sodomy uchodź precz<br/>I nie patrz nigdy, nie patrz, nie,<br/>Jak żona Lota, wstecz!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wstań, opuść już szeroką z dróg,<br/>Co wiedzie w zguby toń;<br/>Grzeszników rady porzuć próg<br/>I od naśmiewców stroń!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Rzuć wszystko, co przeszkadza ci,<br/>I wstań, tak woła Bóg,<br/>Ażebyś śmiało nieba drzwi<br/>Przestąpić kiedyś mógł.</lines>
+    </verse>
+  </lyrics>
+</song>

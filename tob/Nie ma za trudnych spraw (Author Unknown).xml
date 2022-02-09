@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:34">
+  <properties>
+    <titles>
+      <title>Nie ma za trudnych spraw</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie ma za trudnych spraw<br/>Nie ma zbyt błahych też<br/>Dla Ciebie Panie<br/>Ty przecież wszystko wiesz</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Każdą potrzebę znasz<br/>Słyszysz mój śmiech i płacz<br/>Dla Ciebie Panie<br/>To przecież ważne jest</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ja wiem, że wszystko jest możliwe,<br/>Że nie ma rzeczy bez znaczenia<br/>Dlatego modlę się do Ciebie dobry Panie<br/>I wiem, że zanim powiem słowo<br/>Ty Boże znasz już całe zdanie<br/>Uwielbiam Cię, Twoja wola niech się stanie</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nie zaskoczę Cię, wiesz o mnie wszystko<br/>Wiesz, co było, znasz moją przyszłość<br/>Niepojęte, że ty Panie kochasz mnie</lines>
+    </verse>
+  </lyrics>
+</song>

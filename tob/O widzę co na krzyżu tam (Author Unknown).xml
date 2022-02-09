@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:46">
+  <properties>
+    <titles>
+      <title>O widzę co na krzyżu tam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="321"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O widzę co na krzyżu tam, dla grzesznych stało się.<br/>Najmilszy Boży Syn, mój Pan, Swą za mnie przelał krew.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Boże! W Twym krzyżu tam, jest nasz zbawienia zdrój,<br/>z niego płynie święta krew za mnie też.<br/>Jezus przez Swą śmierć zgładził już grzech mój.<br/>O, chwała bądź Bogu, chwała cześć!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Z tysiącznych źródeł płynie wciąż od Boga życie nam;<br/>lecz tylko Jezus własną krwią, nam leczy dusze z ran.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Boże! W Twym krzyżu tam, jest nasz zbawienia zdrój,<br/>z niego płynie święta krew za mnie też.<br/>Jezus przez Swą śmierć zgładził już grzech mój.<br/>O, chwała bądź Bogu, chwała cześć!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tą świętą Pana mego krwią, tu wszystkie grzechy me<br/>na wieki już zgładzone są, odjęte serce złe.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Boże! W Twym krzyżu tam, jest nasz zbawienia zdrój,<br/>z niego płynie święta krew za mnie też.<br/>Jezus przez Swą śmierć zgładził już grzech mój.<br/>O, chwała bądź Bogu, chwała cześć!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Już w wierze widzę, Panie mój: Krew ta oczyszcza mię.<br/>Za ten niebieski życia zdrój, mój Zbawco, wielbię Cię.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Boże! W Twym krzyżu tam, jest nasz zbawienia zdrój,<br/>z niego płynie święta krew za mnie też.<br/>Jezus przez Swą śmierć zgładził już grzech mój.<br/>O, chwała bądź Bogu, chwała cześć!</lines>
+    </verse>
+  </lyrics>
+</song>

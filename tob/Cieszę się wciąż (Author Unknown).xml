@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:15">
+  <properties>
+    <titles>
+      <title>Cieszę się wciąż</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="154"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cieszę się wciąż,<br/>Tyś radość mi dał<br/>Miłość nad miód,<br/>Co wina ma smak,<br/>Uchwyć mocno mnie,<br/>Pobiegnijmy razem,<br/>Cieszę się wciąż,<br/>Tyś radość mi dał.</lines>
+    </verse>
+  </lyrics>
+</song>

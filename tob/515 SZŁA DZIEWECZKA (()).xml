@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:54">
+  <properties>
+    <titles>
+      <title>515 SZŁA DZIEWECZKA</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szła dzieweczka do laseczka<br/>Do zielonego, aha do zielonego, aha do zielonego.<br/>Napotkała myśliweczka <br/>Bardzo śwarnego, x3</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Gdzie jest ta ulica, gdzie jest ten dom<br/>Gdzie jest ta dziewczyna co kocham ją?<br/>Znalazłem ulicę, znalazłem dom,<br/>Znalazłem dziewczynę co kocham ją.<br/> </lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Myśliweczku kochaneczku, bardzom ci rada,<br/>Dałabym ci chleba z masłem, alem go zjadła,<br/>Alem już zjadła, alem już zjadła.<br/>Gdzie jest ta ulica.....</lines>
+    </verse>
+  </lyrics>
+</song>

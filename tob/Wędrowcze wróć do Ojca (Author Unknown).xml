@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:37">
+  <properties>
+    <titles>
+      <title>Wędrowcze wróć do Ojca</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="141"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wędrowcze, wróć,<br/>do Ojca, wróć!<br/>Już nagrzeszyłeś dość!<br/>Od pokus świata serce zwróć,<br/>bo w nim panuje złość!<br/>Do Ojca wróć!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Do Ojca wróć,<br/>boś pełen ran,<br/>a On zlituje się,<br/>Samarytanin, niebios Pan,<br/>uzdrowi serce twe.<br/>Do Ojca wróć!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, wróć,<br/>swe serce Jemu daj<br/>i duszę z niebem zwiąż!<br/>U Ojca znajdziesz błogi raj,<br/>do Niego sercem dąż.</lines>
+    </verse>
+  </lyrics>
+</song>

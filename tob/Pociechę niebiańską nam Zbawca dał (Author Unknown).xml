@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:01">
+  <properties>
+    <titles>
+      <title>Pociechę niebiańską nam Zbawca dał</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="817"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pociechę niebiańską nam Zbawca dał,<br/>W serca pokój wlał, w serca pokój wlał.<br/>Do szczęścia wiecznego Bóg wzywa nas,<br/>Niech Mu cześć brzmi w każdy czas!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Raduj się! Raduj się,<br/>Jezus ciebie zbawić chce,<br/>Raduj się, raduj się,<br/>Przecież Jezus kocha cię!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy będziesz w miłości niezmiennie trwać,<br/>Wciąż na ziemi tu, wciąż na ziemi tu,<br/>W niebiesiech obiecał Bóg dział ci dać,<br/>Cześć i hołd oddajmy Mu!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Świat nigdy nie zazna radości tej,<br/>Którą dał nam Bóg, którą dał nam Bóg.<br/>Świat idzie do zguby po drodze złej,<br/>My zaś wprost do rajskich wrót!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:31">
+  <properties>
+    <titles>
+      <title>Twe Imię</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Baloche</author>
+      <author type="music">Paul Baloche</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="646"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Od świtu, aż po nocy cień<br/>Inspirujesz chwały pieśń<br/>Co z ziemi chce<br/>Dosięgnąć gwiazd<br/>By sławić Imię Twe</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Twe Imię<br/>Jest warowną, mocną basztą<br/>Twe Imię<br/>Najpewniejszą jest ucieczką<br/>Twe Imię<br/>Dla narodów jest schronieniem<br/>Bo tylko jedno ratuje mnie<br/>Imię Twe</lines>
+    </verse>
+  </lyrics>
+</song>

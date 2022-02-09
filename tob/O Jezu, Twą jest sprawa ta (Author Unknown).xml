@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:30">
+  <properties>
+    <titles>
+      <title>O Jezu, Twą jest sprawa ta</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="281"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Jezu, Twą jest sprawa ta,<br/>Coś ją powierzył nam,<br/>A że to, Jezu, sprawa Twa,<br/>Zachowasz ją Ty Sam.<br/>Lecz ziarnko pszenne musi plon<br/>Do światła wznieść przez własny zgon;<br/>Nim wzejdzie, wprzód się w ziemi skryć,<br/>Istoty swej się w śmierci zbyć,<br/>W ukryciu żyć,<br/>Istoty swej się zbyć.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tyś, Jezu, drogą cierpień wszedł<br/>W niebieską chwałę Swą,<br/>Tąż wiedziesz drogą cierpień, bied<br/>Tych, którzy wierzyć chcą.<br/>Ach, prowadź nas, by każdy miał<br/>W Twym krzyżu i królestwie dział;<br/>Swej śmierci bramą prowadź nas<br/>Do światła z Twoją sprawą wraz,<br/>Z Twą sprawą wraz<br/>Do światła prowadź nas!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tyś umarł Sam i Sam się w grób<br/>Jak ziarnko pszenne wsiał<br/>- Tak samo wzbudź i nowym zrób<br/>Świat, który Bóg Ci dał,<br/>I daj nam posłów wiernych, daj,<br/>By rychło w każdy ziemi kraj<br/>Rozsławić Twoje imię szli!<br/>I my też chcemy służyć Ci<br/>Ze wszystkich sił<br/>Po wszystkie życia dni</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:34">
+  <properties>
+    <titles>
+      <title>Bądź wola Twoja</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="321"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bądź wola Twoja<br/>O Panie mój<br/>Skrusz i przekszałtuj<br/>W obraz mnie Swój<br/>Tyś jest garncarzem<br/>Jam gliną Twą<br/>Chętnie się poddam<br/>Byś rządził mną</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bądź wola Twoja<br/>O Panie mój<br/>Doświadcz mnie, Mistrzu<br/>Jam uczeń Twój<br/>Pragnę w ofierze<br/>Złożyć Ci się<br/>Ty nad śnieg bielszym<br/>Sam uczyń mię</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bądź wola Twoja<br/>O Panie mój<br/>Zabierz me troski<br/>Rany me zgój<br/>Słabym, lecz Ty masz<br/>Dla mnie sił dość<br/>Dotknij mnie, ulecz<br/>W sercu mym gość</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bądź wola Twoja<br/>O Panie mój<br/>Wodą żywota<br/>Serce me pój<br/>Niech mię napełni<br/>Duch Święty Twój<br/>By życia Twego<br/>Trysł ze mnie zdrój</lines>
+    </verse>
+  </lyrics>
+</song>

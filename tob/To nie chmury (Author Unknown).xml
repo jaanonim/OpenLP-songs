@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:32">
+  <properties>
+    <titles>
+      <title>To nie chmury</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="47"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To nie chmury, bracia, zawisnęły,<br/>to nie burza szalejąca z gór:<br/>To nieprawdy księstwa się zawzięły<br/>na idący za Chrystusem zbór,<br/>na idący za Chrystusem zbór.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To nie wojsko, bracia,<br/>się zebrało, to nie mieczów połyskuje stal;<br/>lecz z otchłani piekła wojsko wstało<br/>by nas porwać do zginienia fal,<br/>by nas porwać do zginienia fal.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To nie morska głębia się kołysze,<br/>dla okrętów pełna zdrad i zgub; bracia,<br/>to nienawiść ślepa dyszy<br/>chcąc wierzących pchnąć w rozpaczy grób,<br/>chcąc wierzących pchnąć w rozpaczy grób.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>To nie mara, żadne omamienie,<br/>to Zbawiciel schodzi do nas sam.<br/>Nie bójcie się woła przez cierpienie,<br/>Jam jest z wami, Ja pomogę wam!<br/>Jam jest z wami, Ja pomogę wam!</lines>
+    </verse>
+  </lyrics>
+</song>

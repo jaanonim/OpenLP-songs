@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:34">
+  <properties>
+    <titles>
+      <title>Samotny szedłem drogą swą</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="23"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Samotny szedłem drogą swą,<br/>I nikt nie współczuł mi.<br/>Znużone plecy ciężar giął i ból wyciskał łzy.<br/>Ach, nieraz się żaliłem do Zbawcy na swój los.<br/>I wtedy usłyszałem Jego głos:<br/>„Jam także nie miał siły, gdym dźwigał ciężki krzyż.<br/>Me stopy też krwawiły, gdym piął się drogą wzwyż.<br/>Bądź wiernym, moje dziecię, korona czeka Cię.<br/>Więc podnieś krzyż swój i naśladuj mnie!".</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niejednej rzeczy w świecie tym,<br/>Musiałem wyrzec się.<br/>By wiernie iść za Zbawcą w ślad,<br/>On dobrze o tym wie.<br/>Wytrwale też pracuję, dla Niego dzień i noc.<br/>Lecz oto znowu zabrzmiał Jego głos:<br/>„Wszak Ja pozostawiłem tam w niebie złoty tron.<br/>Zstąpiłem tu na ziemię, by ponieść ciężki zgon.<br/>Więc nie szczyć się z twych ofiar,<br/>Niech czyny chwalą cię.<br/>Lecz podnieś krzyż swój i naśladuj Mnie!".</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, Jezu, Tyś jest droższym mi,<br/>Nad wszystko, co tu mam.<br/>Jam serce swoje oddał Ci i życie chętnie dam.<br/>Na rozkaz Twój, o Panie, i śmierć nie straszna mi.<br/>Lecz na to Jego słodki głos znów brzmi:<br/>„Jeżeli kubek wody powierzam w ręce twe.<br/>To tylko kubek wody od ciebie znowu chcę.<br/>Nie szukaj wielkich czynów,<br/>Żyj dla Mnie z dnia na dzień.<br/>Weź krzyż swój, dziecię i naśladuj Mnie!".</lines>
+    </verse>
+  </lyrics>
+</song>

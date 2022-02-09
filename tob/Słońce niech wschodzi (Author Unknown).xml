@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:02">
+  <properties>
+    <titles>
+      <title>Słońce niech wschodzi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="171"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Słońce niech wschodzi tam gdzie ty /x2<br/>Ktoś przez Ciebie drogę znajdzie<br/>Poprzez ciemne mgły<br/>Słońce niech wschodzi tam, gdzie ty.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>O, nie czekaj, aż czyn wielki<br/>Spełnić będziesz mógł<br/>Aby rzesze za twym blaskiem szły<br/>Lecz odważnie krocz<br/>Po każdej z twych codziennych dróg,<br/>Słońce niech wschodzi tam, gdzie ty!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dla zdolności twoich wszędzie znajdziesz<br/>Pracy dość,<br/>Nie trać czasu na bezpłodne sny,<br/>Twym zadaniem będzie tępić wszędzie fałsz i zło<br/>Słońce niech wschodzi tam, gdzie ty!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy wokoło siebie widzisz smutnych twarzy rój,<br/>Niech nie gasną twych zapałów sny,<br/>Choćby jedno serce rozgrzał tylko uśmiech twój,<br/>Słońce niech wschodzi tam, gdzie ty!</lines>
+    </verse>
+  </lyrics>
+</song>

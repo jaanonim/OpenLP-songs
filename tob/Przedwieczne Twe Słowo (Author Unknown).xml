@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:45">
+  <properties>
+    <titles>
+      <title>Przedwieczne Twe Słowo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="281"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przedwieczne Twe Słowo, o Panie!<br/>Pochodnią jest stopom mym,<br/>to Słowo od złego ochrania w pielgrzymce mej,<br/>w świecie tym!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ażeby już więcej nie grzeszyć,<br/>do serca złożyłem Twe Słowo,<br/>// By grzechu się strzec i święcie móc żyć,<br/>Twe Słowo wciąż w sercu chcę mieć! //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, Panie! Twe Słowo niezmienne,<br/>od wieków na wieki trwa,<br/>w nim postać nam Swą odzwierciedlasz,<br/>Twą łaskę nam Ono da!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z poranku, w południe,<br/>wieczorem uwielbiam wspaniałość Twą,<br/>Tyś moim dziedzictwem,<br/>mym wzorem i szczęściem, radością mą!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ażeby już więcej nie grzeszyć,<br/>do serca złożyłem Twe Słowo,<br/>// By grzechu się strzec i święcie móc żyć,<br/>Twe Słowo wciąż w sercu chcę mieć! //</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Przyrzekłeś zlać moc Ducha Łaski,<br/>nad nami okazać cud,<br/>daj dzisiaj nam odczuć wyraźnie,<br/>że nasz już nawiedzasz lud.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Ażeby już więcej nie grzeszyć,<br/>do serca złożyłem Twe Słowo,<br/>// By grzechu się strzec i święcie móc żyć,<br/>Twe Słowo wciąż w sercu chcę mieć! //</lines>
+    </verse>
+  </lyrics>
+</song>

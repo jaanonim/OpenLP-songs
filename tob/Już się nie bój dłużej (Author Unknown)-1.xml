@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:35">
+  <properties>
+    <titles>
+      <title>Już się nie bój dłużej</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="341"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>„Już się nie bój dłużej,<br/>z tobą Jam, twój Bóg" -<br/>To pochodnią moją<br/>pośród ciemnych dróg.<br/>Słońce obietnicy<br/>świeci spoza wzgórz:<br/>„Otom zawsze z tobą,<br/>nigdy nie puszczę cię już!"</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Jam nigdy nie sam /x2<br/>Tak Pan mój mi przyobiecał:<br/>„Nigdy nie będziesz już sam!"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lilie cudne zwiędną,<br/>woń utraci kwiat,<br/>Słońce kiedyś zgaśnie,<br/>runie cały świat,<br/>Jezus moje słońce<br/>świeci z niebios bram,<br/>On mię nie opuści,<br/>nigdy nie będę już sam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Choć na ścieżkach ciemnych<br/>czyha wróg co dnia,<br/>Słyszę, jak Pan mówi:<br/>„Z tobą jestem Ja!"<br/>W górze Go zobaczę<br/>kiedyś twarzą w twarz,<br/>Tam Mu podziękuję<br/>za tę obrone i straż.</lines>
+    </verse>
+  </lyrics>
+</song>

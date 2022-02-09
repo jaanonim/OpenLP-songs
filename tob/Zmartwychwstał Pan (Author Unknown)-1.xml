@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:13">
+  <properties>
+    <titles>
+      <title>Zmartwychwstał Pan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zmartwychwstał Pan,<br/>Zwycięstwa chwałą niebo brzmi<br/>Któż tak jak On<br/>Majestatu blaskiem lśni</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Baranek Królem jest<br/>Najwyższy zajął tron<br/>W pokorze chylę się<br/>Z radością składam hołd</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rozgłosić chcę<br/>Radosną zmartwychwstania wieść<br/>Na krzyżu Pan<br/>Przezwyciężył śmierć i grzech</lines>
+    </verse>
+  </lyrics>
+</song>

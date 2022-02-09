@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:00">
+  <properties>
+    <titles>
+      <title>Przeszedłem ten świat dookoła</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="784"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przeszedłem ten świat dookoła,<br/>Jak piękny, jak wielki jest on.<br/>A jednak tęsknota mię woła<br/>Od ziemi do niebieskich stron.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na świecie też ludzi widziałem,<br/>Po licach ocieka im pot;<br/>Handlują i duszą i ciałem,<br/>By jakoś oszukać swój głód.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Za wiatrem się tak uganiają,<br/>O marność zawzięcie się rwą,<br/>Z ładunkiem haniebnym wracają,<br/>Okryci wrzodami i krwią.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A przecież spoczynek jest dany,<br/>Nie trzeba o marność się rwać;<br/>Powiedzcie to duszy znękanej:<br/>Pan może spęcznienie jej dać!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jest przecież spoczynek na świecie;<br/>Grzesznikom przez Boga jest dań.<br/>Gdzie on się znajduje, czy wiecie?<br/>Gdzie skonał na krzyżu nasz Pan</lines>
+    </verse>
+  </lyrics>
+</song>

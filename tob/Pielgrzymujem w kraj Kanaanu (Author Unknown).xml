@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:49">
+  <properties>
+    <titles>
+      <title>Pielgrzymujem w kraj Kanaanu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="579"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pielgrzymujem w kraj Kanaanu,<br/>A Sam Bóg jest wodzem nam;<br/>Choć ciemności w drodze staną,<br/>Z Nim dojdziemy niebios bram.<br/>Pośród pokus, niepewności<br/>Nie zbłądzimy w drodze tej,<br/>Śmiemy kroczyć z Nim w jasności,<br/>Bo On światłem rzeszy Swe}.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Krocz, z wiarą wciąż krocz,<br/>z wiarą wciąż krocz<br/>w cudowny kraj ojczysty w niebie!<br/>Krocz, z wiarą wciąż krocz,<br/>z wiarą wciąż krocz,<br/>wszak wiedzie ciebie Pan Bóg Sam. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pielgrzymujem, gdzie bezpieczny<br/>Stoi cudny, rajski gród,<br/>Gdzie nas czeka pokój wieczny,<br/>Zniknął smutek, ból i trud.<br/>W drodze żywych wód strumienie<br/>Nam z rozwar¬tych płyną skał,<br/>W których znajdziem orzeźwienie,<br/>Choć wokoło burzy szał.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy znużeni przykrą drogą,<br/>Nowe siły daje Bóg,<br/>Wlewa w serca pewność błogą:<br/>Blisko już niebieski próg!<br/>Tam już nic nas nie zatrwoży,<br/>Wszelki płacz umilknie już;<br/>Próżno się przeciwnik sroży,<br/>Cel nasz wśród Syjonu wzgórz!</lines>
+    </verse>
+  </lyrics>
+</song>

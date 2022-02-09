@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:34">
+  <properties>
+    <titles>
+      <title>Gdybym Cię nie miał</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="330"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdybym Cię nie miał,<br/>Jezu ukochany,<br/>Gdyby nie krzyż Twój<br/>i nie Twoje rany,<br/>W którą bym wtedy zwrócił,<br/>nędzny, stronę<br/>Oczy stęsknione?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I nie wiem, gdzie bym<br/>podział się z żałości,<br/>Bo gdzie jest serce,<br/>równe Ci w miłości?<br/>Ach, w Tobie, Chryste,<br/>w Tobie mam jedynie<br/>Moje zbawienie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Złą jest, zepsutą<br/>ma istota cała,<br/>Jednak mię sobie<br/>litość Twa obrała;<br/>A to, co czynisz,<br/>jest dar łaski onej<br/>Niewysłowionej.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdybyś Ty pierwej nie szedł<br/>za mną, Chryste,<br/>Ja bym nie szukał<br/>nigdy Cię zaiste.<br/>Tyś Sam mnie znalazł<br/>- owcę Swą zgubioną<br/>Wziął na Swe łono.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Więc przyjmij, Jezu,<br/>modły mej wdzięczności,<br/>Żeś do krwi Twojej<br/>świętej społeczności<br/>Mą grzeszną duszę<br/>dawno już przeznaczył<br/>I zbawić raczył.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Raczże, jak dotąd,<br/>tak się nam objawiać<br/>I tak Swe imię<br/>pośród nas rozsławiać!<br/>Ty nie wypuścisz nas<br/>ze Swej opieki<br/>Po wieków wieki.</lines>
+    </verse>
+  </lyrics>
+</song>

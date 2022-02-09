@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:20">
+  <properties>
+    <titles>
+      <title>Radość pienia dziękczynienia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="64"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Radość pienia dziękczynienia!<br/>Co za dzień dziś światu dan!<br/>Biją dzwony, dźwięczne tony<br/>Głoszą: Z grobu powstał Pan!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pięknie, głośno,<br/>rozbrzmiewajcie, dzwony!<br/>Dzieci Boże,<br/>pieśni waszych tony<br/>Niech brzmią!<br/>O wznieście śpiew<br/>Do niebios stref!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Radość, pienia, dziękczynienia!<br/>Syjon śpiewa z nami wraz.<br/>Wróg się kryje, Zmarły żyje,<br/>Odwalony grobu głaz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tchnienie wiosny, maj radosny<br/>I cudowny Ducha wiew!<br/>Serce bije: Jezus żyje!<br/>W Nim nowego życia siew.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Niebios dzwony w wyższe strony<br/>Powołują z ziemi nas.<br/>W dom Ojcowski anioł Boski,<br/>Jezus woła: „Chodźcie wraz!"</lines>
+    </verse>
+  </lyrics>
+</song>

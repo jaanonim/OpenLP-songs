@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:59">
+  <properties>
+    <titles>
+      <title>Nietrudno jest</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="74"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nietrudno jest iść przez ten świat śpiewając,<br/>Gdy serce wie, że troski, bóle, łzy,<br/>Szczeblami są do ojczystego kraju,<br/>Ten biedny świat wszak nie jest domem mym</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lecz za nim Bóg do siebie mnie powoła,<br/>Nim oczy me zobaczą Boży gród,<br/>Niech brzmi ma pieśń radosna i wesoła,<br/>Aż stanę tam, u niebios bram.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niewiele wart jest urok tego świata,<br/>Przeminie wnet zdradliwy jego czar.<br/>Uśmiechniesz się,<br/>Gdy kiedyś w niebie wspomnisz,<br/>Jak ziemski byt, był drogim ci bez miar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Okrutny świat, bezwzględnie z każdej piędzi,<br/>Wciąż zbiera plon, złamanych drętwych serc.<br/>Lecz dusza ma, jak sokół na uwięzi,<br/>Zwolniona z pęt, uleci hen do gwiazd.</lines>
+    </verse>
+  </lyrics>
+</song>

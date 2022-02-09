@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:44">
+  <properties>
+    <titles>
+      <title>Prowadź, Jezu, Twoje dziecię drogą</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="272"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Prowadź, Jezu, Twoje dziecię drogą, którą Tyś nam dał,<br/>przez pustynie w strasznym świecie, bym otuchę w Tobie miał.<br/>// Wiedź mię, Jezu, wiedź mię Jezu, wąską ścieżką prawdy Twej //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Daj mi, Panie, moc i mądrość, moja słabość znana Ci,<br/>błagam Cię o życia świętość, daj, ach, daj ją, Panie, mi!<br/>// Któż mnie skrzywdzi, któż mię skrzywdzi, jeśli ja w opiece Twej. //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niech anieli mię osłonią, gdy mię gorszyć będzie złe,<br/>a od pokus niech mię bronią święte napomnienia Twe.<br/>// Pociesz, Panie, pociesz, Panie, gdy mię zgnębi życia trud. //</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Śmierć nie zdoła mię zastraszyć, bo mnie chronią dłonie Twe;<br/>racz światłością mię otoczyć, nieś do nieba serce me.<br/>// Ach, do nieba, ach, do nieba, zdąża moje serce już //</lines>
+    </verse>
+  </lyrics>
+</song>

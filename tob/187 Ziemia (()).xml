@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:46">
+  <properties>
+    <titles>
+      <title>187 Ziemia</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ziemia, którą mi dajesz<br/>nie jest, fikcją ani bajką, <br/>wolność, którą mam w Tobie<br/>jest prawdziwa. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wszystkie góry na drodze <br/>muszą muszą ustąpić,<br/>bo wiara góry przenosi,<br/>a ja wierzę Tobie</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Będę tańczyć przed Twoim tronem<br/>i oddam Tobie chwałę<br/>i nic już nie zamknie mi ust.<br/>Żaden mur i żadna ściana,<br/>największa nawet tama<br/>już nie, nie zatrzyma mnie już.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Większy większy jest we mnie <br/>Ten, który mnie umacnia<br/>i żaden Goliat nie może <br/>z Nim równać się.</lines>
+    </verse>
+  </lyrics>
+</song>

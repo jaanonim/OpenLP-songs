@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:14">
+  <properties>
+    <titles>
+      <title>Nade mną Pański Duch</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="247"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nade mną Pański Duch!<br/>On mnie namaścił,<br/>By głosić dobrą wieść,<br/>Uzdrawiać rany serc.<br/>Pojmanym wolność nieść,<br/>Przywracać ślepym wzrok!<br/>Nade mną Pański Duch, posyła mnie!</lines>
+    </verse>
+  </lyrics>
+</song>

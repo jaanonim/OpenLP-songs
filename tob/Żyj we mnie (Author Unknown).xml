@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:41">
+  <properties>
+    <titles>
+      <title>Żyj we mnie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="236"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Żyj we mnie, Jezu drogi, sam króluj sercu mym.<br/>Wyprostuj moje drogi, Duchem i tchnieniem świętym Twym.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Opanuj myśli moje, rządź biegiem życia Sam.<br/>Daj męstwo, mądrość proszę, Boże, gdy grzechy zwalczać mam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mam ufność tylko w Tobie, bez Ciebie nie chcę żyć.<br/>Bez Twej pomocy Boże, nie mogę czynić nic.</lines>
+    </verse>
+  </lyrics>
+</song>

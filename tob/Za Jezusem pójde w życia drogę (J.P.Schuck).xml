@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:44">
+  <properties>
+    <titles>
+      <title>Za Jezusem pójde w życia drogę</title>
+    </titles>
+    <authors>
+      <author type="words">J.P.Schuck</author>
+      <author type="music">J.P.Schuck</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="471"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Za Jezusem pójde w życia drogę,<br/>Tylko w Nim radości dział mi dan,<br/>Tylko w Nim cel dążeń znaleźć mogę,<br/>/ W dom mój radość wnosi tylko Pan. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lasem, polem i doliną ciemną<br/>Pójdę, kiedy ujmie moją dłoń;<br/>Gdyby Pan mój nie był zawsze ze mną,<br/>/ Nie trafiłbym na ojczystą błoń. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On mnie strzeże, gdy się do snu kładę,<br/>Rano On rozprasza chmury trwóg,<br/>Na bezdrożach zbawczą daje radę,<br/>/ On mnie cieszy wśród ciernistych dróg. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tylko z Nim chcę w życiu swym obcować,<br/>On mym życiem, w Nim swą radość mam,<br/>Jego łąska raczy mnie zachować,<br/>/ Jemu ciało, duszę chętnie dam. /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gdy się kiedyś życia dzień nachyli,<br/>Jezus w Ojca mnie wprowadzi dom,<br/>Odziedziczę niebo ja w tej chwili,<br/>/ Będzie koniec troskom, koniec łzom. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:47">
+  <properties>
+    <titles>
+      <title>196 ŚWIĘTE IMIĘ JEZUS</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Święte Imię Jezus, święte Imię Jezus<br/>Jest na ustach mych i w sercu mym<br/>W mocy Ducha uwielbiam Cię.<br/>Nie ma w innym zbawienia<br/>Gdyż nie dano nam ludziom innego imienia<br/>W Nim zbawienie jest</lines>
+    </verse>
+  </lyrics>
+</song>

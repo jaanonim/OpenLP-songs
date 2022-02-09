@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:21">
+  <properties>
+    <titles>
+      <title>Oby, Jezu, znów w tym świecie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="80"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oby, Jezu, znów w tym świecie<br/>Silnie między ludem Twym<br/>Święty Duch się zlał obficie,<br/>Jakoś przyrzekł w słowie Swym.<br/>Daruj nowe nam płomienie.<br/>Wlej je w zimne serca nam,<br/>Zjednocz wszelkie rozdzielenie,<br/>Do jedności prowadź Sam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uzdrów członki chore wszelkie,<br/>Uczyń zdrowe, silne je.<br/>Daj miłości ognie pierwsze,<br/>Niech nią zbór na nowo tchnie.<br/>By Duch Święty wszystkim członkom<br/>Był w pełności znowu dań,<br/>I by w świętym Swym Kościele<br/>Rządził tylko Chrystus Pan!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Strasznie się w tym świecie sroży<br/>Ten duch złości z piekieł bram,<br/>Nawet pragnie w Kościół Boży<br/>Wstąpić z kłamstwem swoim tam,<br/>By móc, jakim bądź sposobem,<br/>Nawet dzieci Boże zwieść<br/>I rozproszyć Bożą trzodę,<br/>Jedność między nimi znieść.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Uzbrój siłą dziatki Twoje,<br/>Siłą Ducha uzbrój je.<br/>Rozszerz tu królestwo Swoje,<br/>Napełń dom i serca te.<br/>Zdziałaj cud ten w każdej duszy;<br/>Niech zabłyśnie zorzy brzask,<br/>By nie został ten najmniejszy<br/>W grzechu, lecz szedł w światła blask.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Niechże Duch Twój z mocą wionie<br/>Wszędzie tu w Kościele Twym<br/>I Twe imię w każdym gronie<br/>Niech jaśnieje blaskiem swym,<br/>By tu w Twoich zgromadzeniach<br/>Wśród Twych wiernych wszerz, i wzdłuż<br/>W mocy Ducha brzmiały pienia<br/>Z poświęconych serc i dusz.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:30">
+  <properties>
+    <titles>
+      <title>Oddałem Panu serce me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="277"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oddałem Panu serce me,<br/>Bo On mą zbawił duszę;<br/>Należeć Doń ja tylko chcę<br/>I Jego słuchać muszę.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Więc tylko Jemu życie dam, /x2<br/>Więc tylko Jemu życie dam!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Należę Panu, Jegom jest,<br/>Mnie wiedzie Pasterz trzody;<br/>Bez Niego nie wiem, jak bym żył,<br/>Bez źródła żywej wody.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Należę Panu wiecznie już,<br/>Na niczym mi nie zejdzie;<br/>U Niego radość, pokój wciąż<br/>Własnością moją będzie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Należy Panu też mój śpiew,<br/>Pan moje zdobył serce;<br/>Chcę śpiewać Mu po wszystkie dni,<br/>Aż w górę wziąć mię zechce</lines>
+    </verse>
+  </lyrics>
+</song>

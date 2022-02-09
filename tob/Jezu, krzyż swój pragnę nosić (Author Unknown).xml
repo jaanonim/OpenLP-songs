@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:37">
+  <properties>
+    <titles>
+      <title>Jezu, krzyż swój pragnę nosić</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="388"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezu, krzyż swój pragnę nosić,<br/>Chcę porzucić wszystko złe,<br/>Chcę dla Ciebie wszystko znosić,<br/>Bo Ty wiernie kochasz mnie.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pragnę Ciebie naśladować<br/>- Tyś Swe życie za mnie dał;<br/>Chciałby świat mnie prześladować,<br/>Ty wciąż przy mnie będziesz stał.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Daj, bym całkiem Ci się oddał<br/>I dla świata przestał żyć,<br/>Wolę swoją Twojej poddał,<br/>Tylko Tobą mógł się lśnić!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niech opuszczą przyjaciele,<br/>Lecz Ty nie opuścisz mnie.<br/>Choćby przyszło cierpieć wiele,<br/>Ty mi mówisz Kocham cię</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wszystkie burze tego życia<br/>Wiodą mnie do Twoich nóg;<br/>Tobie ufam całkowicie,<br/>Boś mój Pan, Zbawiciel, Bóg!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nic mnie z Tobą nie rozłączy,<br/>Marność świata - nie znam jej!<br/>Ja dla Ciebie cierpieć mogę,<br/>Bo mnie wspierasz w mocy Swej!</lines>
+    </verse>
+  </lyrics>
+</song>

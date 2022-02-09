@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:34">
+  <properties>
+    <titles>
+      <title>Jezus jako król panuje</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="83"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus jako Król panuje,<br/>wszystko Jemu usługuje,<br/>wszystko Mu poddaje Bóg.<br/>Każdy język niech wyznawa,<br/>że należy Jemu sława,<br/>świat upada Mu do nóg,<br/>świat upada Mu do nóg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tylko w Nim, o, wielkie dziwy,<br/>może człowiek być szczęśliwy,<br/>wykupienie daje On!<br/>W Nim jest zdrój wiecznego życia,<br/>łaska płynie Zeń obficie,<br/>wiedzie nas przed Jego tron.<br/>Wiedzie nas przed Jego tron.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jemu, grzeszni, serca dajcie,<br/>Jemu, biedni, ból wyznajcie,<br/>zwierzcie Mu żałosny stan!<br/>On zagoi wszystkie rany,<br/>jest w hojności nieprzebrany,<br/>uraduje życiem Pan.<br/>Uraduje życiem Pan.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Czemuż wy się ociągacie?<br/>Chcecie łaski? W Nim ją macie!<br/>Chcecie życia? Bierzcie je!<br/>Chcesz dziedzictwa?<br/>ujrzysz chwałę,<br/>spełni Twe pragnienia śmiałe!<br/>Chcesz Chrystusa? Woła cię!<br/>Chcesz Chrystusa? Woła cię!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Chociaż jestem ten najmniejszy,<br/>jednak, Królu, najwdzięczniejszy,<br/>chcę Ci z serca chwałę nieść:<br/>Jezus jako Król panuje,<br/>wszystko Jemu usługuje,<br/>wznieście, wznieście Jemu cześć!<br/>Wznieście, wznieście Jemu cześć!</lines>
+    </verse>
+  </lyrics>
+</song>

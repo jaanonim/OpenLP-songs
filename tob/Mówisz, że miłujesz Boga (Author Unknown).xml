@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:40">
+  <properties>
+    <titles>
+      <title>Mówisz, że miłujesz Boga</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="451"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mówisz, że miłujesz Boga,<br/>A do brata niechęć masz?<br/>O, nie prawa twoja droga,<br/>Woli Bożej ty nie znasz!<br/>Bóg jest miłość; dziecię Boże<br/>żyć miłością tylko może.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bóg jest jeden, Jego dzieci<br/>Jednym ciałem świętym są,<br/>Jedno światło w sercach świeci,<br/>W jedno imię modły ślą.<br/>Jezus prosił w świętej chwili,<br/>Aby wszyscy jedno byli.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jedno Bóg dał wybawienie<br/>Wszystkim w Chrystusowej krwi,<br/>Jedno daje odpocznienie Tym,<br/>co w śmierć tu za Nim szli.<br/>Wszystko z łaski Twojej, Panie;<br/>Czyż bym kochać nie był w stanie?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tyłeś z miłosierdzia Swego<br/>Ciężkich grzechów krwią Swą zmył,<br/>Ja zaś, Panie, do bliźniego<br/>W sercu bym urazę krył?<br/>Tyś za wrogów umiał prosić,<br/>Ja bym brata nie miał znosić?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tym najmniejszym Ty służyłeś,<br/>Jezu, wiernie, aż po zgon.<br/>Służąc braciom, założyłeś<br/>W niebie Swój królewski tron.<br/>Naucz mię - to me wołanie,<br/>Jak Ci służyć w bliźnich, Panie!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bez litości ciebie będzie<br/>Sądzić sprawiedliwy Bóg,<br/>Gdy zostawisz brata w biedzie,<br/>Choćbyś go ratować mógł.<br/>Naucz mię - to me wołanie,<br/>Jak Ci służyć w bliźnich, Panie!</lines>
+    </verse>
+  </lyrics>
+</song>

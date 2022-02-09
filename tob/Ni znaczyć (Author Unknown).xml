@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:47">
+  <properties>
+    <titles>
+      <title>Ni znaczyć</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="342"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ni znaczyć, ni błyszczeć nie chcę,<br/>ja czekam u Pańskich nóg, by mnie,<br/>tę skorupkę biedną On w służbie<br/>Swej użyć mógł. Jam pusty i wynędzniały,<br/>napełnij mnie sam, Panie mój, by ze mnie,<br/>jak wody ze skały, żywota wylewał się zdrój.<br/>Ni znaczyć, ni błyszczeć nie chcę, ja czekam<br/>u Pańskich nóg, by mnie, tę skorupkę biedną.<br/>On w służbie Swej użyć mógł.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ni znaczyć, ni błyszczeć nie chcę, niech On mię<br/>prowadzi sam, i Jemu się za narzędzie ochotnie<br/>do pracy dam. I pójdę, gdzie mię przeznaczy,<br/>do dzieła przyłożę swą dłoń, a gdy stąd<br/>odwołać mię raczy, na łono Mu złożę swą skroń.<br/>Ni znaczyć, ni błyszczeć nie chcę, niech<br/>On mię prowadzi sam, i Jemu się za narzędzie<br/>ochotnie do pracy dam.</lines>
+    </verse>
+  </lyrics>
+</song>

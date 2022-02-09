@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:15">
+  <properties>
+    <titles>
+      <title>Przybytek święty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="217"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przybytek święty stworzył nasz Pan<br/>Z ludem Swym!<br/>Zamieszka z nimi wraz i będą Jego ludem.<br/>Sam Bóg wciąż będzie z nimi<br/>Jako Pan, ich Bóg.<br/>Przybytek święty stworzył nasz Pan<br/>Z ludem swym!<br/>I sam Bóg otrze z oczu ich wszelką łzę.<br/>Nie będzie tam śmierci już, ani smutku.<br/>Nie będzie krzyku, bólu, łez, ani też zła,<br/>Bo minęły pierwsze rzeczy już,<br/>A Bóg wszystko nowe dał!</lines>
+    </verse>
+  </lyrics>
+</song>

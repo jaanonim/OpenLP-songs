@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:27:34">
+  <properties>
+    <titles>
+      <title>Duszo ma Pana chwal</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Exodus XV</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Duszo ma Pana chwal<br/>Oddaj Bogu cześć<br/>Świętemu śpiewaj pieśń<br/>Z mocą wywyższaj go<br/>Duszo ma<br/>Uwielbiam Boże Cię</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nowy dzień wraz ze wschodem słońca<br/>Znów nadszedł czas, by Ci śpiewać pieśń<br/>Cokolwiek jest już za mną i to wszystko co przede mną<br/>Wiem będę śpiewać, gdy nadejdzie zmrok</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bogaty w miłość, gniew oddalasz Panie<br/>Twe serce miłe, wielkie Imię Twe<br/>Ze względu na Twą dobroć będę śpiewać Tobie pieśni<br/>Wiele powodów, by uwielbiać Cię</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Przyjdzie dzień, gdy bez sił zostanę<br/>Nadejdzie czas mego końca tu<br/>Dusza ma będzie już na zawsze Cię uwielbiać<br/>W wieczności z Tobą piękna zabrzmi pieśń</lines>
+    </verse>
+  </lyrics>
+</song>

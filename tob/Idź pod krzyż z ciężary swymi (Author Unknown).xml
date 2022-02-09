@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:52">
+  <properties>
+    <titles>
+      <title>Idź pod krzyż z ciężary swymi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="432"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Idź pod krzyż z ciężary swymi, mdły pielgrzymie, idź!<br/>Tam się nędzni z całej ziemi mogą skryć!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na Baranka tam bez zmazy spada sądu bicz;<br/>wszystkie krwawe sińce, razy w sercu licz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niósł na krzyżu ten Przeczysty, ciężar twoich win.<br/>Patrz, jak kocha wiekuisty Boży Syn!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pranę trądu grzechowego ten zagoi lek;<br/>Pokój będzie serca mdłego ciągle strzegł.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Życie wieczne, pojednanie daje zbawczy krzyż,<br/>Przezeń mię prowadzisz, Panie, ciągle wzwyż!</lines>
+    </verse>
+  </lyrics>
+</song>

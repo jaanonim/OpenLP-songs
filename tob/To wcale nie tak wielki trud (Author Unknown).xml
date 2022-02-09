@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:41">
+  <properties>
+    <titles>
+      <title>To wcale nie tak wielki trud</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="232"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To wcale nie tak wielki trud osiągnąć szczęście tu;<br/>zaufaj Panu, by cię wiódł i szczerze uwierz Mu!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A przy końcu twej podróży da koronę Pan,<br/>da koronę Pan, da koronę Pan!<br/>A przy końcu twej podróży da koronę Pan,<br/>w nowej Jerozolimie!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Radości czas nadejdzie ci, jakiego nie zna świat,<br/>kiedy porzucisz ziemskie sny, za Zbawcą idąc w ślad.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>A przy końcu twej podróży da koronę Pan,<br/>da koronę Pan, da koronę Pan!<br/>A przy końcu twej podróży da koronę Pan,<br/>w nowej Jerozolimie!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I będzie cichą praca twa i piękny pracy płód,<br/>Bóg sam błogosławieństwo da za święty znój i trud.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>A przy końcu twej podróży da koronę Pan,<br/>da koronę Pan, da koronę Pan!<br/>A przy końcu twej podróży da koronę Pan,<br/>w nowej Jerozolimie!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A w pracy swej nie zaznasz trwóg, nie zbraknie do niej sił,<br/>Bóg wie co działać będziesz mógł, byś pożytecznym był.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>A przy końcu twej podróży da koronę Pan,<br/>da koronę Pan, da koronę Pan!<br/>A przy końcu twej podróży da koronę Pan,<br/>w nowej Jerozolimie!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Od Boga wszystko przyjmiesz rad, On twe potrzeby zna, ten Pan,<br/>co drzewu daje kwiat, w swym czasie owoc da.</lines>
+    </verse>
+    <verse name="c5">
+      <lines>A przy końcu twej podróży da koronę Pan,<br/>da koronę Pan, da koronę Pan!<br/>A przy końcu twej podróży da koronę Pan,<br/>w nowej Jerozolimie!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Popłynie cicho życie twe, bez trwogi i bez burz,<br/>więc Panu śmiało oddaj się i ufność swą w Nim złóż.</lines>
+    </verse>
+    <verse name="c6">
+      <lines>A przy końcu twej podróży da koronę Pan,<br/>da koronę Pan, da koronę Pan!<br/>A przy końcu twej podróży da koronę Pan,<br/>w nowej Jerozolimie!</lines>
+    </verse>
+  </lyrics>
+</song>

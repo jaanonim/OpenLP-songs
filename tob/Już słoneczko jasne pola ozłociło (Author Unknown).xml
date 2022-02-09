@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:52">
+  <properties>
+    <titles>
+      <title>Już słoneczko jasne pola ozłociło</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="659"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Już słoneczko jasne pola ozłociło,<br/>Lecz jaśniejsze w sercu słońce zagościło.<br/>Na zielonych łąkach błyszczy w słońcu rosa;<br/>Gdy mam Ciebie, Jezu, w sercu lśnią niebiosa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Za Tobą spoziera tęsknie moje oko,<br/>Grzechy mię bez Ciebie wtrącą w noc głęboką.<br/>Kwiatek do kwiateczka chciwie się nachyla;<br/>W Twojej społeczności piękna każda chwila.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Już ogarnia pola święta, ranna cisza;<br/>Pokój, który dajesz, wszelką myśl przewyższa.<br/>Pędzą już pasterze na pastwiska stada;<br/>Z Tobą, mój Pasterzu, dusza pójdzie rada.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nieraz w gęstych chmurach słońca blaski gasną;<br/>O, niech Twe promienie wciąż mi świecą jasno,<br/>Przebudź, me słoneczko, duszę mą zaspaną,<br/>By mię obudziło w niebie wieczne rano.</lines>
+    </verse>
+  </lyrics>
+</song>

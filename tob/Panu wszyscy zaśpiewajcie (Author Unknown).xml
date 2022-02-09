@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:18">
+  <properties>
+    <titles>
+      <title>Panu wszyscy zaśpiewajcie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="19"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panu wszyscy zaśpiewajcie,<br/>Wszędzie chwały Mu dawajcie,<br/>Idźcie z pełną Doń ufnością,<br/>Stale służcie Mu z radością!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wiedzcie, że On Bóg jedyny,<br/>On was stworzył, a nie inny,<br/>Byśmy byli ludem Jego<br/>I owcami trzody Jego.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niechże przeto pieśnią chwały<br/>Zabrzmi Kościół Jego cały!<br/>Niechaj wielbią dzieci Jego<br/>Całym sercem Pana swego,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Chwały szczerej też wdzięczności<br/>Dajcie Jego wielmożności;<br/>Imię Jego wywyższajcie,<br/>Chwalcie, czcijcie, wyznawajcie!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pan to bowiem miłosierny,<br/>W obietnicach Swoich wierny;<br/>Łaska Jego jest stateczna,<br/>Prawda Jego słów jest wieczna.</lines>
+    </verse>
+  </lyrics>
+</song>

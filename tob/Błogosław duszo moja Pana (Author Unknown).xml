@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:34">
+  <properties>
+    <titles>
+      <title>Błogosław duszo moja Pana</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Błogosław duszo moja Pana<br/>Wszystko, co we mnie<br/>Jego najświętsze imię.<br/>Błogosław duszo moja Pana,<br/>Jego dobroci nigdy nie zapominaj.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On odpuszcza wszystkie twoje grzechy,<br/>Leczy wszystkie twoje choroby.<br/>Okazuje Swoje miłosierdzie,<br/>On ratuje Ciebie od zguby.<br/>On napełnia twoje życie dobrem,<br/>Aż odnowi się Twoja młodość jak u orła.<br/>Nie odpłaca według grzechów,<br/>Nie chce wiecznie gniewać się<br/>On pamięta żeśmy prochem, on najlepiej wie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tak jak Ojciec nad Swoimi dziećmi<br/>Pan lituje się nad pokornym<br/>On oddala on nas nasze winy,<br/>Jak daleko wschód od zachodu.<br/>Jak wysoko niebo jest nad ziemią,<br/>Tak jest wielka dobroć dla ludzi,<br/>Którzy się Go boją.<br/>Dni człowieka są jak trawa,<br/>Kwitnie on jak polny kwiat.<br/>Kiedy mocniej wiatr zawieje, znika po nim ślad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Błogosławcie Pana,<br/>Wszystkie Jego ludy.<br/>Błogosławcie Pana,<br/>Wszystkie Jego dzieci<br/>Błogosławcie Pana,<br/>Wszyscy aniołowie<br/>Błogosławcie Go.</lines>
+    </verse>
+  </lyrics>
+</song>

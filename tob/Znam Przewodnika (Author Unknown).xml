@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:40">
+  <properties>
+    <titles>
+      <title>Znam Przewodnika</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="212"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Znam Przewodnika w mej pielgrzymce,<br/>który wciąż wiernie przy mnie trwa,<br/>a po bezpiecznej wiedzie ścieżce;<br/>On idzie wprzód i drogę zna!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pan drogę zna, co w chwałę wiedzie,<br/>nie lękaj się nic, duszo ma,<br/>On cię bezpiecznie tu przewiedzie,<br/>tylko z Nim chodź, On drogę zna!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdym pod brzemieniem beznadziejnym,<br/>koło mnie wszędzie gęsta mgła,<br/>chcę Jemu ufać i być wiernym;<br/>On idzie wprzód i drogę zna!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Pan drogę zna, co w chwałę wiedzie,<br/>nie lękaj się nic, duszo ma,<br/>On cię bezpiecznie tu przewiedzie,<br/>tylko z Nim chodź, On drogę zna!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On dobrze zna te pokuszenia,<br/>do których wpada dusza ma,<br/>lecz mię nie zwiodą z dróg zbawienia;<br/>Pan idzie wprzód i drogę zna!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Pan drogę zna, co w chwałę wiedzie,<br/>nie lękaj się nic, duszo ma,<br/>On cię bezpiecznie tu przewiedzie,<br/>tylko z Nim chodź, On drogę zna!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O duszo grzechem obciążona,<br/>o, serce, które bólem drga!<br/>Pan cię przyciąga w Swe ramiona,<br/>tylko z Nim chodź, On drogę zna!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Pan drogę zna, co w chwałę wiedzie,<br/>nie lękaj się nic, duszo ma,<br/>On cię bezpiecznie tu przewiedzie,<br/>tylko z Nim chodź, On drogę zna!</lines>
+    </verse>
+  </lyrics>
+</song>

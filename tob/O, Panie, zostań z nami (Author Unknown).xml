@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:49">
+  <properties>
+    <titles>
+      <title>O, Panie, zostań z nami</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="387"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, Panie, zostań z nami i<br/>mądrości Twej drogami</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, objaw cud pokoju,<br/>i jedność, Panie, spraw tu<br/>między dziatwą Twoją.<br/>Na wieki lud Swój zbaw.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Daj jedność myśli, Panie,<br/>do serc nam miłość wlej,<br/>by karność, pojednanie<br/>ożyły w mocy Twej.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Na wszystkich zlej na<br/>nowo obfitą łaskę Swą,<br/>by w każdej życia porze<br/>wielbili łaskę Twą.</lines>
+    </verse>
+  </lyrics>
+</song>

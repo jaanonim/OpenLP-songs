@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:14">
+  <properties>
+    <titles>
+      <title>Sprawdźmy bieg naszych dróg</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="237"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sprawdźmy bieg naszych dróg,<br/>Wróćmy do Pana dziś!<br/>Wznieśmy serca i ręce swe wzwyż!<br/>Serca swe wznieśmy wzwyż Tam,<br/>Gdzie Bóg ma Swój tron!<br/>Wróćmy do Pana dziś!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wielka jest łaska Twa,<br/>Zachowujesz nas wciąż!<br/>Nie ustaje w litości.Swej Pan!<br/>Co poranek jest nowa,<br/>Co poranek jest nowa,<br/>Wielka jest wierność Twa!</lines>
+    </verse>
+  </lyrics>
+</song>

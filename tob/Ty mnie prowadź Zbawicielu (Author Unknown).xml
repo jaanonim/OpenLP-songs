@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:40">
+  <properties>
+    <titles>
+      <title>Ty mnie prowadź Zbawicielu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="214"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ty mnie prowadź Zbawicielu, chcę jedynie słuchać Cię,<br/>daj pociechę Twą mej duszy, pomóż w wierze,<br/>w cnotach trwać, ufam Twemu miłosierdziu,<br/>w boju życia wspieraj mię!<br/>// Niech nadzieja się nie wzruszy,<br/>w próbach przy mnie racz Sam stać // .</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Prowadź mnie mój Jezu drogi, prostuj kręte ścieżki me.<br/>Gdy ma wiara się zachwieje, serce łaską silić chciej,<br/>bądź mi bliski gdy wróg srogi, pokój duszy zniszczyć chce.<br/>// Żywą we mnie wskrześ nadzieję,<br/>radość, pokój w serce wlej // .</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Prowadź mnie mój drogi Zbawco, dobroć wielką Twoją znam.<br/>Unoś ducha z doczesności, w górną stronę przed tron łask,<br/>miłość Twą, mój życia Dawco, w głębi serca mego mam.<br/>// Pragnę chwalić Cię w wieczności,<br/>widzieć Bożej chwały blask // .</lines>
+    </verse>
+  </lyrics>
+</song>

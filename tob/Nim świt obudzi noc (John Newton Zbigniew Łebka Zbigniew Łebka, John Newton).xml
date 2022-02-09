@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:24">
+  <properties>
+    <titles>
+      <title>Nim świt obudzi noc</title>
+    </titles>
+    <authors>
+      <author type="words">John Newton Zbigniew Łebka Zbigniew Łebka</author>
+      <author type="music">John Newton Zbigniew Łebka Zbigniew Łebka</author>
+      <author type="words">John Newton</author>
+      <author type="music">John Newton</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="435"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>meditation</theme>
+      <theme>piano</theme>
+      <theme>praise</theme>
+      <theme>salvation</theme>
+      <theme>protection</theme>
+      <theme>grace</theme>
+      <theme>hymn</theme>
+      <theme>gods-faithfulness</theme>
+      <theme>acapella</theme>
+      <theme>difficulties</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nim świt obudzi noc<br/>dotykiem ciepłych mgieł,<br/>Nim dzień ożywi świat, Panie przyjdź.<br/>Wołam: Przyjdź, uciesz mój wzrok<br/>spokojem jasnych barw,<br/>nim mnie zachwyci kwiat, Ty przyjdź.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Choć chcę wciąż dalej iść,<br/>niewiele mogę sam.<br/>Więc znów podnoszę głos Panie przyjdź.<br/>Wołam przyjdź i otrzyj mą<br/>oblaną lękiem twarz.<br/>Nim znów postawię krok, Ty przyjdź.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I tak poprowadź mnie<br/>przez piętra trudnych lat,<br/>Bądź w dzień radością dnia, w nocy snem,<br/>pomóż mi, o Panie mój,<br/>rysować życia kształt,<br/>Bym mógł wciąż naprzód iść,<br/>bym trwał.</lines>
+    </verse>
+  </lyrics>
+</song>

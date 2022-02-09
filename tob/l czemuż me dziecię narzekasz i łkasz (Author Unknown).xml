@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:40">
+  <properties>
+    <titles>
+      <title>l czemuż me dziecię narzekasz i łkasz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="205"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I czemuż me dziecię narzekasz i łkasz?<br/>Wszak łaskę ojcowską na wieki już masz;<br/>On słowa dotrzyma, do Niego się śpiesz,<br/>zaufaj Mu silnie, i zawsze Mu wierz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Twa ścieżka w doświadczeń prowadzi cię rój,<br/>gdzie ucisk dolega i ciężar i znój;<br/>nie bój się, Pan z tobą, choć toniesz i brniesz,<br/>zaufaj Mu silnie, i zawsze Mu wierz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pan chce cię prowadzić i w cieniu Swych piór,<br/>bezpiecznie cię chować wśród głębin i chmur.<br/>Więc rzuć niedowiarstwo i Jemu się zwierz,<br/>zaufaj Mu silnie, i zawsze Mu wierz!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pan chce ci dopomóc, przy tobie chce stać,<br/>o chwały dziedzicu, więc czegóż się bać?<br/>Wszak ile tu wierzysz, oglądać tam śmiesz,<br/>więc ufaj Mu silnie, i zawsze Mu wierz!</lines>
+    </verse>
+  </lyrics>
+</song>

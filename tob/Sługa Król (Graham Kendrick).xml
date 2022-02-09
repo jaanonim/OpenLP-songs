@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:30">
+  <properties>
+    <titles>
+      <title>Sługa Król</title>
+      <title>Servant King</title>
+    </titles>
+    <authors>
+      <author type="words">Graham Kendrick</author>
+      <author type="music">Graham Kendrick</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="583"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Opuścił tron dzieckiem był<br/>na ziemię zszedł swą chwałę skrył,<br/>ażeby tu sługą być,<br/>Swe życie dał bym ja mógł żyć.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>To Pan nasz Bóg, to sługa Król<br/>zaprasza dziś, by za Nim iść.<br/>I życie swe wciąż w ofierze<br/>składać Mu,<br/>bo godzien czci  jest sługa Król.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W ogrodzie tam stoczył bój,<br/>na Siebie wziął mój ciężar win.<br/>wycierpiał strach, gorycz, ból<br/>lecz Ojcu rzekł: bądź wola Twa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Spójrz, oto ran krwawy ślad<br/>gdzie gwoździe wbił okrutny grzech.<br/>Tak cierpiał Pan - stwórca gwiazd,<br/>ofiarą był za grzechy twe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Więc uczmy się służyć tak,<br/>by w życiu swym tron Jemu dać.<br/>Znać bliźnich ból, pomoc nieść<br/>i sługą być jak Chrystus Pan.</lines>
+    </verse>
+  </lyrics>
+</song>

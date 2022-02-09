@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:03">
+  <properties>
+    <titles>
+      <title>Błogosław Panie, na ich ślubowanie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="851"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Błogosław Panie,<br/>Na ich ślubowanie<br/>Swoje „Amen" w niebie złóż;<br/>Co sprowadziłeś<br/>I Sam złączyłeś,<br/>Niech człowiek nie rozłączy już,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wysłuchaj, Panie,<br/>Dwojga serc błaganie,<br/>Szczerą je miłością spój,<br/>Prowadź ich wiernie<br/>I miłosiernie Tam,<br/>gdzie radości prawej zdrój.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zgasną rumieńce,<br/>Zwiędną krasne wieńce,<br/>Wnet uleci wonny maj;<br/>W Tobie, o Panie,<br/>Niech nieustannie<br/>Wykwita im cudowny raj.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ach, daj im, Fanie,<br/>Pomoc i wytrwanie,<br/>Kiedy ześlesz ciężki trud,<br/>By siedli społem<br/>Za Twoim stołem,<br/>W niebie, do Twych królewskich gód.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:40">
+  <properties>
+    <titles>
+      <title>Tę pewność mam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="211"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tę pewność mam, iż żadna siła<br/>nie wyrwie mię z Chrystusa rąk;<br/>gdyż miłość Jego mię zdobyła<br/>na krzyżu tam wśród gorzkich mąk,<br/>na krzyżu tam wśród gorzkich mąk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tę pewność mam, iż Pan mię zbawił,<br/>bo za mnie przelał drogą krew;<br/>On świętą wolność mi objawił,<br/>więc chętnie przyjmę Jego zew,<br/>więc chętnie przyjmę Jego zew.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tę pewność mam, że Chrystus z nieba<br/>prowadzi mię tu Duchem Swym;<br/>kieruje sercem jak potrzeba,<br/>abym Go wielbił życiem mym,<br/>abym Go wielbił życiem mym.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tę pewność mam, że Zbawcę ujrzę,<br/>wszak przyobiecał wiernym Pan;<br/>gdy miną tego świata burze,<br/>powitam was u niebios bram,<br/>powitam was u niebios bram.</lines>
+    </verse>
+  </lyrics>
+</song>

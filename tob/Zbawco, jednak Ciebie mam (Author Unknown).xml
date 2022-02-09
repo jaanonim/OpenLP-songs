@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:41">
+  <properties>
+    <titles>
+      <title>Zbawco, jednak Ciebie mam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="227"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zbawco, jednak Ciebie mam,<br/>choć się zdaje żem jest sam;<br/>przy twym wiernym słudze bądź,<br/>choć mię wróg chce zmóc i zgiąć.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Niech sobie huczą burze,<br/>ja wznoszę wzrok ku górze;<br/>pokładam me ufanie,<br/>w Tobie, o Panie mój!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy mi w drodze zsyłasz krzyż,<br/>wiem, że mię prowadzisz wzwyż.<br/>Choć me serce trwoży się, Panie,<br/>Ty nie puścisz mię.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Niech sobie huczą burze,<br/>ja wznoszę wzrok ku górze;<br/>pokładam me ufanie,<br/>w Tobie, o Panie mój!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy za ciosem spada cios,<br/>wiem, żeś mój policzył włos;<br/>czy mi dobrze jest,<br/>czy źle, wszak Ty, Panie,<br/>wiedziesz mię.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Niech sobie huczą burze,<br/>ja wznoszę wzrok ku górze;<br/>pokładam me ufanie,<br/>w Tobie, o Panie mój!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Życie moje oto masz:<br/>wszak sam wiernie o nich dbasz,<br/>wiedź mię przez ten padół łez,<br/>tam, gdzie jest mych cierpień kres!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Niech sobie huczą burze,<br/>ja wznoszę wzrok ku górze;<br/>pokładam me ufanie,<br/>w Tobie, o Panie mój!</lines>
+    </verse>
+  </lyrics>
+</song>

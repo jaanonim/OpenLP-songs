@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:26">
+  <properties>
+    <titles>
+      <title>Idź łzy otrzyj swoje</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="184"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Idź łzy otrzyj swoje<br/>I złóż troski swe!<br/>Żale twe i znoje<br/>Pan ukoić chce.<br/>Gdy się ciemność szerzy,<br/>Bądź spokojny ty!<br/>On twój ból uśmierzy,<br/>Twe osuszy łzy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pan zna twe starania,<br/>Patrz się tylko Nań!<br/>On się mile skłania,<br/>Więc Mu wierz i wstań!<br/>Słońce wnet wypłynie<br/>Spoza mgieł i chmur,<br/>Módl się - w łez dolinie<br/>Twój rozjaśni tor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdybyś gdzieś znękaną<br/>Ujrzał smutkiem twarz,<br/>To ją zwróć ku Panu<br/>I nadzieję wskaż.<br/>Módl się ze smutnymi,<br/>Wskaż moc Pana krwi,<br/>Aż Swych łask przed nimi<br/>Pan tworzy drzwi</lines>
+    </verse>
+  </lyrics>
+</song>

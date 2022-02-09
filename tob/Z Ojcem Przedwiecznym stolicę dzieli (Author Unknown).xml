@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:33">
+  <properties>
+    <titles>
+      <title>Z Ojcem Przedwiecznym stolicę dzieli</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="70"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z Ojcem Przedwiecznym stolicę dzieli,<br/>na twarz padają przed Nim anieli,<br/>na Jego imię piekło się trwoży:<br/>Oto Syn Boży! Oto Syn Boży!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pod ciężkim krzyżem w koronie z cierni,<br/>dręczą Go ludzie niemiłosierni,<br/>krew płynie z czoła, łza tryska z powiek:<br/>Oto Bóg Człowiek! Oto Bóg Człowiek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ty, który ludzkość wziąłeś w Swą pieczę,<br/>na krzyż przybity, Boże-Człowiecze,<br/>wnijdź nam do serca,<br/>niech się w nim zbudzi miłość dla ludzi.<br/>Miłość dla ludzi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A gdy w naszego życia zawodzie krzyż nas obarczy,<br/>a cień ubodzie, godnie przebywać drogi cierniste pomóż nam, Chryste! Pomóż nam, Chryste!</lines>
+    </verse>
+  </lyrics>
+</song>

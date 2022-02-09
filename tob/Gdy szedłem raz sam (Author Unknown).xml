@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:35">
+  <properties>
+    <titles>
+      <title>Gdy szedłem raz sam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="28"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy szedłem raz sam po drodze życia w dal,<br/>Me brzemię ciążyło, zmęczony duch łkał.<br/>Tak chciałem, by ktoś był ze mną wśród bied,<br/>Nie wiedząc, że On naprzeciw mi szedł.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I odtąd Jezus i ja, wciąż ręka w rękę.<br/>Dzielimy razem trudności wszelkie.<br/>Czy radość, smutek, czy łzy,<br/>Czy deszcz, czy słońce lśni,<br/>Po wszystkie me dni - mój Jezus i ja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ach, długi to szlak do niebios jasnych bram,<br/>Choć wąski, lecz jasny, tak przyrzekł mi Pan.<br/>Nie martwię się już, wszak drogę On zna,<br/>Idziemy we Dwóch: mój Jezus i ja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wciąż będę Go czcić za ten miłości dar.<br/>Wciąż będę w krąg głosić: Bóg kocha bez miar.<br/>Chcę przy Nim wciąż trwać, On szczęście mi da,<br/>Na wieki wśród chwał - mój Jezus i ja!</lines>
+    </verse>
+  </lyrics>
+</song>

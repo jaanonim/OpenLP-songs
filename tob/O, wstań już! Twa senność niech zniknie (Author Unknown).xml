@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:46">
+  <properties>
+    <titles>
+      <title>O, wstań już! Twa senność niech zniknie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="525"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, wstań już! Twa senność niech zniknie,<br/>Uchodzi i znika już noc; O, wstań już!<br/>Patrz, Król nasz jest blisko,<br/>Już zorzy porannej lśni moc;<br/>O, wstań już i spojrzyj na drogę,<br/>Po której tu Pan wiedzie nas,<br/>Wszak stać się zwycięzcą tak błogo;<br/>Król idzie wprzód, pójdź z nami wraz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Do Swego nas dzieła powołał,<br/>Więc wszystkie swe siły Mu złóż<br/>I Lecz czuwaj, byś w ręku miecz trzymał,<br/>Bo wieczny nasz wróg stoi tuż!<br/>Ocućmy się, stańmy do boju,<br/>Niech własny nie zwodzi zysk nas.<br/>Podnieśmy swe czoła w pokoju,<br/>Wnet olśni królewski nas blask.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, wstań już! Niech świat cię nie łudzi,<br/>Co on czyni, jest zgubą twą.<br/>Więc czuwaj wciąż, bo chce zwieść ciebie,<br/>Wszak cel twój nad ziemią jest tą.<br/>Zapragnij wieść życie z Jezusem,<br/>Z radością je złóż Mu pod krzyż,<br/>I serce twe oddaj skalane,<br/>A On Sam powiedzie Cię wzwyż.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:15">
+  <properties>
+    <titles>
+      <title>Bogu Jedynemu</title>
+    </titles>
+    <authors>
+      <author type="words">Krzysztof Szczypuła</author>
+      <author type="music">Krzysztof Szczypuła</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="42"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bogu jedynemu  Jezusowi<br/>chwała i cześć.<br/>Panu Wszechmocnemu Jezusowi<br/>chwała cześć na wieki. // 2x //</lines>
+    </verse>
+    <verse name="v1">
+      <lines>On uczynił niebiosa,<br/>rozpostarł ziemi krąg.<br/>Króluje nad nami<br/>Wznieśmy więc ręce swe,<br/>przyjdźmy przed jego tron<br/>// śpiewając ze wszystkich sił // 2x</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On jest Królem Chwały<br/>świat podnóżkiem Jego stóp<br/>Odziany w majestat<br/>Przed Nim uniżmy się<br/>podejdźmy w pokorze<br/>// By złożyć jemu hołd  // 2x</lines>
+    </verse>
+  </lyrics>
+</song>

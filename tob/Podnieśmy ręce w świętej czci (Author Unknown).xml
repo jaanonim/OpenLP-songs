@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:13">
+  <properties>
+    <titles>
+      <title>Podnieśmy ręce w świętej czci</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="212"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Podnieśmy ręce w świętej czci I chwalmy Go! Chwalmy Go!<br/>Podnieśmy ręce w świętej czci I błogosławmy Go!<br/>Błogosław Go! Błogosław Go!<br/>Błogosław Imię Jezus!<br/>Błogosław Go! Błogosław Go!<br/>Bo święty jest nasz Pan!<br/>Kochamy Cię! Kochamy Cię!<br/>Nasz drogi Panie Jezu!<br/>Kochamy Cię! Kochamy Cię!<br/>I święte Imię Twe!</lines>
+    </verse>
+  </lyrics>
+</song>

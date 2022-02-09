@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:56">
+  <properties>
+    <titles>
+      <title>Nim wyszedłeś dzisiaj z domu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="35"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nim wyszedłeś dzisiaj z domu, czy modliłeś się?<br/>Czy prosiłeś Zbawcę swego,<br/>By Cię chronić chciał od złego<br/>Dzisiaj cały dzień?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jakaż siła jest w modlitwie!<br/>Ona zmienia noc na dzień.<br/>Gdy więc słabniesz w życia bitwie,<br/>Klęknij, pomódl się.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy twe serce złość napełnia<br/>Czy ty modlisz się?<br/>Czy o łaskę prosisz z nieba<br/>Byś przebaczyć mógł gdy trzeba<br/>Gdy ktoś skrzywdzi się.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>W doświadczenia ciężki chwile,<br/>Czy modliłeś się?<br/>Kiedy w smutku dusza płacze<br/>Czyś do nieba wzniósł swe oczy,<br/>Skąd Bóg balsam śle?</lines>
+    </verse>
+  </lyrics>
+</song>

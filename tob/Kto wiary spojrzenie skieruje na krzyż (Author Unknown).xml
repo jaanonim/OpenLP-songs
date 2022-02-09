@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:26">
+  <properties>
+    <titles>
+      <title>Kto wiary spojrzenie skieruje na krzyż</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="187"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kto wiary spojrzenie skieruje na krzyż,<br/>Uzdrowi Jezusa go krew;<br/>Więc spojrzyj na Pana, w pokorze się zbliż,<br/>Najtkliwszej miłości to zew.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Spójrz, spójrz, bracie spójrz!<br/>Kto wiary spojrzenie skieruje na krzyż,<br/>Uzdrowi Jezusa go krew.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czy Jezus do krzyża nie przybił twych win?<br/>Czy święty nie dotknął Go gniew?<br/>Czy krwi Swej za ciebie<br/>nie przelał Bóg - Syn?<br/>Polała się woda i krew!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ni modły gorliwe, ni rzewny twój płacz<br/>Nie wniosą w Ojcowski cię dom.<br/>Krew Pańska zbawienie zjednała ci, bacz!<br/>Krew koniec położy twym łzom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nie wątpij, lecz wiarą tej łaski się chwyć,<br/>Do której powołał cię Pan!<br/>Twój Jezus pomostem do nieba chce być,<br/>On tobie za pomoc jest dan.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Weź dar ten Jezusa i raduj się zeń,<br/>Żywota podaje ci dział;<br/>Dziś przyjmij go z wiarą,<br/>na własność swą zmień,<br/>A będziesz na wieki go miał.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Radośnie go przyjmij!<br/>Miłości Swej dar dziś darmo użycza ci Pan.<br/>W Jezusie tyś wolny od sądu, od kar,<br/>W Jezusie dział wieczny ci dan.</lines>
+    </verse>
+  </lyrics>
+</song>

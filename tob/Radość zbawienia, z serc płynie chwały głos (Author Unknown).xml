@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:54">
+  <properties>
+    <titles>
+      <title>Radość zbawienia, z serc płynie chwały głos</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="701"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Radość zbawienia, z serc płynie chwały głos:<br/>Uratowanych szczęsny, przedziwny los,<br/>Szczęsny, przedziwny los.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pana niech zawsze ziemia, i niebo czczą,<br/>chwałą dostojną niech Jemu zawsze brzmią.<br/>Niech Jemu zawsze brzmią.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Krwią Swoją świętą wyrwał z upadku as,<br/>Ileż wycierpiał, by rozbić serca głaz,<br/>by rozbić serca głaz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Smutkiem Golgoty rząd śmierci zwalczył On,<br/>Zwycięstwo, wierność prawnie zajęły tron,<br/>Prawnie zajęły tron.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dzisiaj zaczniemy śpiewać chwalebną pieśń.<br/>Na ziemi, w niebie niech Bogu płynie cześć!<br/>Niech Bogu płynie cześć!</lines>
+    </verse>
+  </lyrics>
+</song>

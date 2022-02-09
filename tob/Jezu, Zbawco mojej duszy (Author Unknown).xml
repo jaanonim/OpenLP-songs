@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:43">
+  <properties>
+    <titles>
+      <title>Jezu, Zbawco mojej duszy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="244"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezu, Zbawco mojej duszy,<br/>do Swej piersi przytul mię,<br/>coraz głośniej wody szumią,<br/>burze bardziej srożą się.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, jak błogo ufać Tobie,<br/>ja się już na Ciebie zdam,<br/>błogo Ciebie ujrzeć w górze,<br/>być przy Tobie wiecznie tam!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W burzach życia mnie ochraniaj,<br/>aż się skończy ziemski bieg,<br/>oby anioł aż do brzegu bezpiecznego<br/>wciąż mnie strzegł!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>O, jak błogo ufać Tobie,<br/>ja się już na Ciebie zdam,<br/>błogo Ciebie ujrzeć w górze,<br/>być przy Tobie wiecznie tam!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Innej nie mam ja ucieczki,<br/>tylko w Tobie ufność mam,<br/>nie zostawiaj mnie samego,<br/>Panie, wspieraj Ty mnie sam.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>O, jak błogo ufać Tobie,<br/>ja się już na Ciebie zdam,<br/>błogo Ciebie ujrzeć w górze,<br/>być przy Tobie wiecznie tam!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>W Tobie ufność mą pokładam,<br/>mnie nie zrani świata złość,<br/>a pod cieniem Twoich skrzydeł<br/>będę w służbie Twojej rość.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>O, jak błogo ufać Tobie,<br/>ja się już na Ciebie zdam,<br/>błogo Ciebie ujrzeć w górze,<br/>być przy Tobie wiecznie tam!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Łaski zdroje pojednanie,<br/>w Tobie, Panie Jezu, są,<br/>tylko w Tobie mam zbawienie,<br/>weź mnie czystym w radość Swą.</lines>
+    </verse>
+    <verse name="c5">
+      <lines>O, jak błogo ufać Tobie,<br/>ja się już na Ciebie zdam,<br/>błogo Ciebie ujrzeć w górze,<br/>być przy Tobie wiecznie tam!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jezu, gasisz me pragnienie,<br/>w Tobie życia mego zdrój,<br/>co w mym sercu wiecznie płynie,<br/>wiedzie mię w przybytek Twój.</lines>
+    </verse>
+    <verse name="c6">
+      <lines>O, jak błogo ufać Tobie,<br/>ja się już na Ciebie zdam,<br/>błogo Ciebie ujrzeć w górze,<br/>być przy Tobie wiecznie tam!</lines>
+    </verse>
+  </lyrics>
+</song>

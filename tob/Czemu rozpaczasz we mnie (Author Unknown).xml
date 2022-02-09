@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:15">
+  <properties>
+    <titles>
+      <title>Czemu rozpaczasz we mnie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="281"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czemu rozpaczasz we mnie, o duszo moja?<br/>Czemu drżysz we mnie wciąż?<br/>Ufaj Bogu, gdyż Go jeszcze sławić będę,<br/>On jest mym zbawieniem i Bogiem mym!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pan posyła łaskę Swoją już z poranku,<br/>A w nocy śpiewam Jemu pieśń!<br/>Wołam do Boga mego życia,<br/>Do Boga mego życia,<br/>O,duszo moja, zaufaj Mu!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ześlij Swe światło, Panie, i prawdę Twoją,<br/>Niech prowadzą mnie wciąż<br/>Do mego Boga, Boga mej radości.<br/>Wtedy będę Ciebie wysławiać, o Boże mój!</lines>
+    </verse>
+  </lyrics>
+</song>

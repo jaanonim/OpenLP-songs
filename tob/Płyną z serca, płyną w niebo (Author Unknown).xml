@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:01">
+  <properties>
+    <titles>
+      <title>Płyną z serca, płyną w niebo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="816"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Płyną z serca, płyną w niebo,<br/>gorzkie narzekania,<br/>2e się naród ukochany<br/>wciąż do złego skłania,<br/>My wolności dzieci Bożych<br/>mało skosztowali,<br/>/ Pełno jeszcze rozerwania,<br/>grzech nas gnębi dalej. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Więc do Ciebie, Boże, wołam,<br/>Ciebie proszę, Panie:<br/>Okaż narodowi memu<br/>wielkie zlitowanie.<br/>Kiedy z grobu go wywodzisz<br/>cudnie i prawdziwie,<br/>/ Niechże w Tobie się rozwija,<br/>Twoją sprawą żyje. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>W ciężkiej doli życie trawił<br/>Naród nasz kochany,<br/>Wiele krzyżów w nim i mogił,<br/>wiele krwi wylanej.<br/>Krwią poległych bohaterów<br/>użyźniona gleba<br/>/ Niech nas teraz ubogaci<br/>hojnym plonem z nieba. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Słowem Swoim świat stworzyłeś,<br/>wyrzecz tylko słowo,<br/>A co było obumarłe,<br/>wstanie wnet na nowo.<br/>Zwiastunowie prawdy Twojej<br/>wstaną z martwych kości,<br/>/ Przyjdzie doba pokrzepienia<br/>dla ojczystej włości. /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Płyną z serca, płyną w niebo<br/>triumfalne pienia;<br/>Pan do modłów się przyznaje,<br/>w życie je przemienia.<br/>Już przywraca nas z wygnania,<br/>jako wód strumienie,<br/>/ Oglądamy tęsknych modłów<br/>cudne wypełnienie. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

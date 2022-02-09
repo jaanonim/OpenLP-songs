@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:38">
+  <properties>
+    <titles>
+      <title>Mówi świat, iż niebezpiecznie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="399"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mówi świat, iż niebezpiecznie<br/>Drogą wąską jest mi iść,<br/>Bo on nie wie, że mój Jezus<br/>Raczy mię ostrożnie wieść.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, gdy Jezus mię prowadzi,<br/>Stróża w Nim wiernego mam,<br/>Ale nie odważyłbym się<br/>Przez zwodniczy świat iść sam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mówią, iż złe czasy przyjdą,<br/>Radość mi się zmieni w ból;<br/>Lecz ja Zbawcy pewnie ufam,<br/>Bo On najmocniejszy Król.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chociaż znam me serce złudne,<br/>Wiem, że wiele w nim jest wad,<br/>Lecz On wzmacnia słabe siły,<br/>Co dzień mię pokrzepia rad.</lines>
+    </verse>
+  </lyrics>
+</song>

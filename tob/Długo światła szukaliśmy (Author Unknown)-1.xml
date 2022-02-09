@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:26">
+  <properties>
+    <titles>
+      <title>Długo światła szukaliśmy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="199"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Długo światła szukaliśmy,<br/>Pogrążeni w ciemny mrok,<br/>Coraz bardziej tonęliśmy<br/>W grzechu, który w głębię wlókł.<br/>O, gdzież moc tak niepojęta,<br/>Zdolna taką siłę dać,<br/>Aby człowiek nowym, świętym<br/>Z sługi grzechu mógł się stać?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przyszedł Zbawca nasz kochany,<br/>Pełen łask dla grzesznych dusz,<br/>Rzekł: wyleczę twoje rany,<br/>Pójdź i nie grzesz więcej już!<br/>Pan jest mocnym Zbawcą duszy.<br/>Poniósł za nią krwawy zgon,<br/>On to pęta grzechu kruszy,<br/>Wszystko nowym czyni On.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nasze dobra, nasze dary<br/>Wszystkie zniszczył grzechu jad;<br/>Brak nadziei nam i wiary<br/>I byliśmy pełni zdrad.<br/>Cóż mogliśmy Mu w ofierze<br/>Złożyć za ten łaski czyn?<br/>Oddaliśmy się Mu szczerze,<br/>Choć byliśmy pełni win.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Serca Jemu przynieśliśmy,<br/>Chociaż je był skalał grzech,<br/>I zbawienie znaleźliśmy,<br/>Gdy nas obmył z grzechów wszech.<br/>Stale wiedź nas, wierny Panie,<br/>Pewną drogą, Duchem Swym,<br/>Aby nasze zachowanie<br/>Zgodne było z Słowem Twym.</lines>
+    </verse>
+  </lyrics>
+</song>

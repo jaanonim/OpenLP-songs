@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:34">
+  <properties>
+    <titles>
+      <title>Znam imię nad imiona</title>
+    </titles>
+    <authors>
+      <author type="words">J.Kajfosz</author>
+      <author type="music">J.Kajfosz</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="319"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Znam imię nad imiona,<br/>największe w świecie tym,<br/>Zeń błogość niezgłębiona<br/>i pokój w sercu mym.<br/>To imię światła blaski<br/>na drogę życia śle,<br/>Bóg zdroje świętej łaski<br/>na ziemię zlał przez nie</lines>
+    </verse>
+    <verse name="c1">
+      <lines>To imię Jezus na wieki trwa.<br/>W nim moja dusza zdrój szczęścia ma.<br/>Wspaniałe imię Jezus!<br/>Tak cudnie w sercu gra.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W imieniu tym zbawienie<br/>dla wszystkich dane dusz,<br/>A słodkie jego brzmienie<br/>ucisza wichry burz.<br/>Z nim nowa wchodzi wiosna,<br/>gdzie serca dręczył grzech.<br/>Wdzięczności pieśń radosna<br/>dlań z ust wypływa wszech.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Twór wszelki niechaj głosi<br/>imienia tego treść.<br/>Niech mocny hymn się wznosi,<br/>by oddać jemu cześć.<br/>Bo choćby wszechświat cały,<br/>wciąż nowym pieniem brzmiał.<br/>Niech odda dosyć chwały za to,<br/>co w nim Bóg dał.</lines>
+    </verse>
+  </lyrics>
+</song>

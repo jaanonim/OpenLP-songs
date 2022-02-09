@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:06">
+  <properties>
+    <titles>
+      <title>Nim jeszcze światy powstały</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="293"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nim jeszcze światy powstały<br/>Chrystus u Boga był.<br/>On był na samym początku<br/>I On sam Bogiem Był.<br/>Wszystko przez Niego powstało,<br/>a bez Niego nic.<br/>On jest Światłością ludzkości,<br/>Jeśli żywot to w Nim.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To On był tym „Bogiem z nami"<br/>Jako człowieczy Syn.<br/>To On narodził się z panny,<br/>Wypełnieniem proroctw był.<br/>Nazwano Go „mąż boleści",<br/>odrzucony przez lud.<br/>Ktokolwiek jednak Go przyjął<br/>Narodził się znów.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>On zwie się Jezus, Jezus, On zwie się Jezus<br/>Wszechmocny Bóg, On zwie się Jezus, Jezus,<br/>On zwie się Jezus, potężny Król.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On leczył chorych, ten lekarz<br/>Ślepym przywracał wzrok.<br/>On martwych wskrzeszał do życia,<br/>Łamał kajdany zła.<br/>On przelał krew na Golgocie -<br/>Przebłaganie za grzech.<br/>Zwyciężył śmierć - Alleluja!<br/>On dziś żywy jest.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Opuścił ziemię i wstąpił tam,<br/>Gdzie Bóg ma swój tron.<br/>I wtedy posłał nam Ducha<br/>Jak obiecał idąc stąd.<br/>On przyjdzie znów - Maranatha -<br/>Tak przychodzi wnet.<br/>Przychodzi wnet Król królów<br/>Panów Pan, Amen!</lines>
+    </verse>
+  </lyrics>
+</song>

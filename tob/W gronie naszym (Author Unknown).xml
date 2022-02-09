@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:54">
+  <properties>
+    <titles>
+      <title>W gronie naszym</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="479"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W gronie naszym dźwięczy dziś miła pieśń,<br/>w dniu urodzin twych niesiemy Bogu cześć,<br/>za to, że ochraniał On twój każdy krok,<br/>miał w opiece cię, żeś przeżył szczęsny rok.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Masz kłopoty przyjdźże do Zbawcy stóp,<br/>On pomoże tobie wytrwać w czasie prób.<br/>Zawsze gdy swe troski na Jezusa zdasz,<br/>On ci wskaże jaką drogą chodzić masz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niech ci Zbawca łask jeszcze wiele da,<br/>niech błogosławiona będzie praca twa;<br/>obyś głosił o Nim jeszcze wiele lat, że w<br/>Chrystusie swe zbawienie znajdzie świat.</lines>
+    </verse>
+  </lyrics>
+</song>

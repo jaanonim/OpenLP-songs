@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:36">
+  <properties>
+    <titles>
+      <title>Bóg wierny słowom Swym</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="372"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bóg wierny słowom Swym!<br/>On nigdy się nie zmienia<br/>I kocha dzieci Swe,<br/>Choć śle im doświadczenial<br/>On nieraz ciężki krzyż<br/>Dla próby zsyła im,<br/>Bo chce doświadczyć ich.<br/>Bóg wierny słowom Swym!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bóg wierny słowom Swym!<br/>On sił nam daje dosyć,<br/>By życia tego trud<br/>Nam łatwiej przyszło znosić.<br/>Choć często karze nas,<br/>ufajmy zawsze w nim,<br/>Bo Ojcem naszym jest.<br/>Bóg wierny słowom Swym!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bóg wierny słowom Swym!<br/>Pociesza wśród cierpienia<br/>I ciemną smutku noc<br/>W promienną radość zmienia.<br/>Gdy boleść tłoczy nas,<br/>Z obawy próżno drżym,<br/>Oddali od nas ją.<br/>Bóg wierny słowom Swym!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bóg wierny słowom Swym!<br/>On serca zna pragnienie.<br/>Szczerości wiary tej<br/>Doświadcza przez cierpienie.<br/>Ty ciężar krzyża przyjm,<br/>Bo za ciężarem tym<br/>Żywota kielich da.<br/>Bóg wierny słowom Swym!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bóg wierny słowom Swym!<br/>Choć się i burza sroży,<br/>Bóg wszelkim ciosom wnet<br/>Skuteczny kres położy.<br/>I da ci poznać Sam -<br/>Bo miłość wielka w Nim -<br/>Że krzyż zbawienny jest.<br/>Bóg wierny słowom Swym!</lines>
+    </verse>
+  </lyrics>
+</song>

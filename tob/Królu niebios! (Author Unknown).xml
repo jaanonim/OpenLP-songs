@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:28">
+  <properties>
+    <titles>
+      <title>Królu niebios!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="10"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Królu niebios! Któż imienia Twego zgłębi treść?<br/>Któż tak cudne światów gmachy Tobie pomógł wznieść?<br/>Tylko w łaski Twej osłonie życie wiedziem swe,<br/>światy wstały, światy runą na skinienie Twe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, nasz Panie ukochany! Któż Cię pojmie, któż?<br/>Zginął w głębiach wód potopu świat on pierwszy już;<br/>kiedyś jeszcze raz poruszysz starej ziemi grunt,<br/>zgładzi wszystkich bezbożników Twój straszliwy sąd.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Królu chwały! Choć tak wielka jest Twej ręki moc,<br/>jednak hańbę przecierpiałeś, zszedłeś w śmierci noc;<br/>świat ten prześladuje Ciebie w dziatkach Twych i dziś,<br/>wszystko masz, a miejsca w świecie próżno szukałbyś.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, nasz Królu wywyższony! Twoiśmy po grób;<br/>wszyscy serca przynosimy do Twych świętych stóp.<br/>Tobie żyć, umierać z Tobą, cudny to nasz dział,<br/>potem w niebie z Tobą władać w blasku wiecznych chwał!</lines>
+    </verse>
+  </lyrics>
+</song>

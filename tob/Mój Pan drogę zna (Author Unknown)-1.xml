@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:55">
+  <properties>
+    <titles>
+      <title>Mój Pan drogę zna</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="508"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Mój Pan drogę zna przez największy<br/>gąszcz, ja zaś tylko za Nim kroczę //<br/>Siły na dziś On daje mi,<br/>o jutro już się nie troszczę.<br/>Mój Pan drogę zna przez największy<br/>gąszcz, ja zaś tylko za Nim kroczę.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:25">
+  <properties>
+    <titles>
+      <title>O, Niebo jest w sercu mym</title>
+    </titles>
+    <authors>
+      <author type="words">Iwona Bednarz</author>
+      <author type="music">Iwona Bednarz</author>
+      <author type="words">Неизвестный</author>
+      <author type="music">Неизвестный</author>
+      <author type="words">Graham Kendrick</author>
+      <author type="music">Graham Kendrick</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="465"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>O, O, O, Niebo jest w sercu mym. // x2 //</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Królestwo Boga tutaj jest,<br/>niebo jest w sercu mym<br/>Majestat Jego wokół nas,<br/>niebo jest w sercu mym.<br/>I w nim radości pełnia jest,<br/>niebo jest w sercu mym.<br/>Świętości światło bije w krąg<br/>niebo jest w sercu mym.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Swe cenne życie za mnie dał,<br/>(niebo jest w sercu mym)<br/>bym w sobie wieczne życie miał.<br/>(niebo jest w sercu mym)<br/>W Chrystusie moja światłość jest,<br/>(niebo jest w sercu mym)<br/>nadzieja na dziedzictwo me.<br/>(niebo jest w sercu mym)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Świątynią Jego tronu my,<br/>(niebo jest w sercu mym)<br/>a Jezus fundmentem jest.<br/>(niebo jest w sercu mym)<br/>Powróci wkrótce by nas wziąć,<br/>(niebo jest w sercu mym)<br/>przez Ducha swego woła "przyjdź".<br/>(niebo jest w sercu mym)</lines>
+    </verse>
+  </lyrics>
+</song>

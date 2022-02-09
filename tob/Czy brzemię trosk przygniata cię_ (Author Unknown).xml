@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:46">
+  <properties>
+    <titles>
+      <title>Czy brzemię trosk przygniata cię?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="704"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czy brzemię trosk przygniata cię?<br/>Nadziei nie trać, nie!<br/>W swym sercu rzecz: Pan kocha mnie,<br/>O smutkach moich wie.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ratunek jest w Jezusie twym,<br/>On za nas wszystkich zmarł,<br/>/ Dla biednych i zgubionych dusz<br/>Swe życie Jezus dał. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Choć przyciemnione niebios tło<br/>I gwiazdek jasnych brak,<br/>Choć z wszystkich stron naciera zło,<br/>Huragan szumi tak. -</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zwątpienia trapią serce twe? -<br/>Pan ująć chce twą dłoń,<br/>I zabrać wszystkie troski twe;<br/>Zaufaj Mu, przyjdź Doń!</lines>
+    </verse>
+  </lyrics>
+</song>

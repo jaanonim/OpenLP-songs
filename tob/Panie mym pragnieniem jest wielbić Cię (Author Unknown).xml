@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:38">
+  <properties>
+    <titles>
+      <title>Panie mym pragnieniem jest wielbić Cię</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie mym pragnieniem jest wielbić Cię<br/>Całym sercem swym wywyższam Cię<br/>Wszystko, co jest we mnie wysławia Cię<br/>Wszystko, co jest cenne w Tobie mam</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Serce me daję Ci i duszę mą<br/>Tyś Panem moim jest<br/>Pragnę dla Ciebie żyć każdym dniem w każdą noc<br/>Czyń ze mną to, co chcesz</lines>
+    </verse>
+  </lyrics>
+</song>

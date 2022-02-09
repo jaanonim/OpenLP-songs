@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:54">
+  <properties>
+    <titles>
+      <title>W jednym małym kątku</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="484"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W jednym małym kątku słońce<br/>wita nas, siejcie dobre ziarno,<br/>wyda owoc w czas.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tam, w tym kątku, małym kątku,<br/>kwitną kwiaty tuż, aby każdy<br/>swoją wonią Panu chwałę niósł.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W tym najmniejszym kątku miłość<br/>twoją siej, pewnie ci rozkwitnie<br/>wiara, ufność z niej.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Tam, w tym kątku, małym kątku,<br/>kwitną kwiaty tuż, aby każdy<br/>swoją wonią Panu chwałę niósł.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tam, w tym małym kątku,<br/>cicho, wiernie służ, ufaj Boskiej<br/>łasce, On śle pomoc już.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Tam, w tym kątku, małym kątku,<br/>kwitną kwiaty tuż, aby każdy<br/>swoją wonią Panu chwałę niósł.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wszędzie, gdzie przebywasz pomoc<br/>wszystkim nieś i w najmniejszym<br/>kątku Bogu oddaj cześć,</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Tam, w tym kątku, małym kątku,<br/>kwitną kwiaty tuż, aby każdy<br/>swoją wonią Panu chwałę niósł.</lines>
+    </verse>
+  </lyrics>
+</song>

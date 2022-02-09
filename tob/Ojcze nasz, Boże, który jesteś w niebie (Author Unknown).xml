@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:53">
+  <properties>
+    <titles>
+      <title>Ojcze nasz, Boże, który jesteś w niebie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="677"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ojcze nasz, Boże, który jesteś w niebie,<br/>Dziś dziatwa Twoja, wznosi głos do Ciebie,<br/>święć się Twe Imię, przez wszystkie narody,<br/>Któreś powołał do wiecznej nagrody.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przyjdź Twe królestwo<br/>Powszechnej wolności,<br/>Braterstwa ludów i bratniej jedności,<br/>Zrównania stanów w miłości bliźniego,<br/>Królestwa szczęścia dla ludu Twojego.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bądź wola Twoja w dobrej i złej doli,<br/>Bo to jest dobre, co jest z Twej woli,<br/>Z Twego wyroku dusza zmartwychwstała,<br/>Porwała więzy, wolność odzyskała.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Teraz prosimy Cię o wolność ducha,<br/>Niech w ludzie naszym obudzi się skrucha<br/>Nad swoim grzechem i nas swą niewiarą,<br/>Nad pogardzeniem Boskiej krwi ofiarą.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Naucz nas, Boże prawdy Twojej wiecznej,<br/>By na tej skale każdy stał bezpiecznie,<br/>By miał nadzieję wiecznego zbawienia,<br/>I tak strasznego uszedł potępienia.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Odpuść nam winy jak i my przebaczyli<br/>Tym, co wzgardliwie nas też udręczyli.<br/>Za winy ojców i za nasze sprawy -<br/>Oddalże od nas niew Twój i Twe kary.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Wszystkie te prośby u stóp Twych składamy,<br/>Gdzyż Ciebie, Ojcze, nad wszystko kochamy,<br/>Wszak Ciebie, Boże, zawsze czcić pragniemy,<br/>A Ty rządź nami, jako dziećmi Twymi.</lines>
+    </verse>
+  </lyrics>
+</song>

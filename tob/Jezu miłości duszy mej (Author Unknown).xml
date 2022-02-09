@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:07">
+  <properties>
+    <titles>
+      <title>Jezu miłości duszy mej</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezu miłości duszy mej<br/>Jezu już nie opuszczę cię<br/>Z grząskiego błota wyciągnąłeś mnie<br/>Postawiłeś mnie na skale teraz wiem</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ciebie kocham<br/>Ciebie pragnę<br/>Choćby świat się walił<br/>Nie opuszczę cię<br/>Zbawiciel, przyjaciel mój<br/>Będę cię uwielbiał<br/>Do końca moich dni</lines>
+    </verse>
+  </lyrics>
+</song>

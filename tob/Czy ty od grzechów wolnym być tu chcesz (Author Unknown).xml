@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:25">
+  <properties>
+    <titles>
+      <title>Czy ty od grzechów wolnym być tu chcesz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="179"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czy ty od grzechów wolnym być tu chcesz?<br/>Spójrz na Baranka, spójrz!<br/>On i za ciebie niósł ten straszny krzyż,<br/>Spójrz na Baranka wzwyż!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Spójrz w Barankową twarz,<br/>Spójrz w barankową twarz!<br/>Jak On umiera za ciebie!<br/>O, spójrz!<br/>W toń tej miłości patrz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdyś utrapiony, smutny, w bólu łkasz,<br/>Spójrz na Baranka, spójrz!<br/>On cię podniesie, twą rozjaśni twarz;<br/>Spójrz na Baranka wzwyż!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>W chwili pokusy, ciężkiej próby twej,<br/>Spójrz na Baranka, spójrz!<br/>W Nim jest zwycięstwo z wszelkiej mocy złej;<br/>Spójrz na Baranka wzwyż!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Słysz, droga duszo, Bóg Ci mówi dziś:<br/>Spójrz na Baranka wzwyż!<br/>Tyś wolna z grzechów, wiarą Doń się wznieś,<br/>W toń tej miłości spójrz!</lines>
+    </verse>
+  </lyrics>
+</song>

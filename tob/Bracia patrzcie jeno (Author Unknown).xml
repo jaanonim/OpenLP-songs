@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:21">
+  <properties>
+    <titles>
+      <title>Bracia patrzcie jeno</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="1005"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bracia, patrzcie jeno, jak niebo goreje!<br/>Znać, że coś dziwnego w Betlejem się dzieje.<br/>Rzućmy budy, warty, stada;<br/>Niechaj nimi Pan Bóg włada,<br/>A my do Betlejem, a my do Betlejem<br/>Do Betlejem</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Patrzcie, jak tam gwiazda światłem swoim miga,<br/>Pewnie dla uczczenia Pana swego ściga.<br/>Krokiem śmiałym i wesołym śpieszmy i uderzmy czołem<br/>Przed Panem w Betlejem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wszakże powiedziałem, że cuda ujrzymy:<br/>Dziecię, Boga świata, w żłobie zobaczymy.<br/>Patrzcie, jak biednie okryte<br/>W żłobie Panię znakomite<br/>W szopie przy Betlejem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jak prorok powiedział: Panna zrodzi syna,<br/>Dla ludu całego szczęśliwa nowina.<br/>Nam zaś radość tu w tej chwili,<br/>Gdyśmy Pana zobaczyli<br/>W szopie przy Betlejem, w szopie przy Betlejem</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Obchodząc pamiątkę odwiedzin pasterzy,<br/>Każdy czciciel Boga, co w Chrystusa wierzy,<br/>Niech się cieszy i raduje,<br/>Że Zbawcę swego znajduje<br/>W szopie przy Betlejem.</lines>
+    </verse>
+  </lyrics>
+</song>

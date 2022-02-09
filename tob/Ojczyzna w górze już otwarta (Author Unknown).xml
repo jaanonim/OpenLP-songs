@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:24">
+  <properties>
+    <titles>
+      <title>Ojczyzna w górze już otwarta</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="157"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ojczyzna w górze już otwarta,<br/>A ty nie zważasz na nią nic;<br/>Czy myślisz, że niewiele warta,<br/>2e lepiej będzie indziej biec?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, przyjmij Zbawcy zaproszenie,<br/>On Sam dopomóc tobie chce;<br/>I ty masz darmo z łaski wziąć zbawienie;<br/>Więc pośpiesz Doń, On ciebie zwie!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy cię tęsknota stąd kieruje<br/>W ojczysty dom, w kraj górny ten,<br/>To wiedz, że Ojciec wyczekuje,<br/>Czy się zgubiony wraca syn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Czy chciałbyś w grzechach wiecznie zginąć,<br/>Gdy kochasz świeckie żądze złe,<br/>I z niebem rozstać się i minąć -<br/>Lub odziedziczyć szczęście twe?</lines>
+    </verse>
+  </lyrics>
+</song>

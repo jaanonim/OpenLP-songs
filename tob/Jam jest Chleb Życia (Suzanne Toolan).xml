@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:38">
+  <properties>
+    <titles>
+      <title>Jam jest Chleb Życia</title>
+      <title>I am the Bread of Life</title>
+    </titles>
+    <authors>
+      <author type="words">Suzanne Toolan</author>
+      <author type="music">Suzanne Toolan</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="269"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jam jest Chleb Życia,<br/>kto do Mnie przychodzi<br/>nie będzie łaknął,<br/>kto we Mnie wierzy<br/>nigdy pragnął nie będzie.<br/>Nikt nie może przyjść do Mnie<br/>jeśli go nie pociągnie Ojciec.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A Ja go wskrzeszę,<br/>A Ja go wskrzeszę,<br/>A Ja go wskrzeszę<br/>w dniu ostatecznym. // x2 //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chlebem, który Ja dam,<br/>jest Moje ciało za życie świata.<br/>Jeśli kto spożywa ten Chleb,<br/>będzie żył na wieki, będzie żył na wieki.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ja jestem zmartwychwstaniem,<br/>Ja jestem życiem.<br/>Kto we mnie wierzy, choćby i umarł<br/>żyć będzie na wieki, żyć będzie na wieki.</lines>
+    </verse>
+  </lyrics>
+</song>

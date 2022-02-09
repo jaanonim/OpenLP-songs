@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:51">
+  <properties>
+    <titles>
+      <title>Zwycięska, jasna rzesza</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="621"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zwycięska, jasna rzesza<br/>W niebieski zdąża gród,<br/>A wiele w jej szeregach<br/>Rozbrzmiewa cudnych nut.<br/>Triumfu płyną dźwięki<br/>W dolinie gorzkich łez:<br/>Śpiewają, że już walki<br/>Zwycięski nastał kres.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Baranka tam uwielbia<br/>Ten triumfalny śpiew;<br/>U krzyża się zaczyna,<br/>Do górnych płynąc stref.<br/>Pieśń ta Jezusa sławi,<br/>Moc dziwną Jego ran;<br/>Zwiastuje, iż ratunek<br/>Zupełny grze¬sznym dań.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy pieśni o Baranku<br/>Rozpocznie jedna z dusz,<br/>Natychmiast grono całe<br/>Rozbrzmiewa wszerz i wzdłuż.<br/>Nie potrzebują słowa,<br/>A wnet poznają się,<br/>Najlepszą ich wymową<br/>Twarz, co radością lśni.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O pieśni, kiedyż ciebie<br/>Zanucim w nie¬bie tam?<br/>Jutrzenko najjaśniejsza,<br/>Kiedyż to wzejdziesz nam?<br/>Przygotuj wiernych, Panie,<br/>I grono Swoje zbierz,<br/>By wiecznie Ci śpiewali<br/>Wśród uwielbionych rzesz!</lines>
+    </verse>
+  </lyrics>
+</song>

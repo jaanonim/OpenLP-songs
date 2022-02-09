@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:59">
+  <properties>
+    <titles>
+      <title>Tak już jest</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="87"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tak już jest, każdy w życiu szuka szczęścia,<br/>Każdy chce szczęśliwym być.<br/>Tylu ludzi wśród największych tęsknot,<br/>Nosi tę upartą myśl.<br/>La, la, la, la,...</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szczęściem matki są czyste oczy dziecka,<br/>Szczęściem może być czyjś kojący głos.<br/>Może sława przyniesie komuś szczęście,<br/>Albo dzwoniący złotem trzos.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I ja też tak błądziłem i szukałem,<br/>I o szczęście pytałem nocą gwiazd.<br/>Świat jest piękny, ale ja wiedziałem,<br/>Że on mi szczęścia nie może dać.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szczęściem może być nawet niepogoda,<br/>I pluszczący w szyby deszcz.<br/>Co mi tam, jeśli wiem, że Bóg mnie kocha<br/>I ja Jego kocham też.</lines>
+    </verse>
+  </lyrics>
+</song>

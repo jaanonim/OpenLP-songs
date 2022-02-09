@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:41">
+  <properties>
+    <titles>
+      <title>Jezu, Ty niewysłowioną wspaniałością</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="231"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezu, Ty niewysłowioną wspaniałością lśnisz;<br/>łaskę, pokój, pojednanie daje mi Twój krzyż.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezu, gdybym nie miał Ciebie, byłoby mi źle,<br/>ale jasność Ducha Twego spędza noc i mgłę.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezu, jakżebym głęboko w grzech bez Ciebie wpadł,<br/>ale Tyś i mię wyzwolił, gdyś ratował świat.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jezu, oto się zasłaniam szatą łaski Twej;<br/>tak bezpiecznie jestem skryty, czuję, jak mi lżej.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gdy się zbliży pokuszenie, szatan, ciało,<br/>świat, za Jezusem się ukryję, tak uniknę zdrad.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O zwycięstwo się nie boję, gdy jest przy mnie Pan,<br/>już zwyciężył, gdy odwalił kamień z grobu ścian.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>O zwycięstwo się nie boję, już je w Panu mam.<br/>Ty mię, Jezu, poprowadzisz do niebieskich bram.</lines>
+    </verse>
+  </lyrics>
+</song>

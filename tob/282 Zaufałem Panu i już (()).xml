@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:56">
+  <properties>
+    <titles>
+      <title>282 Zaufałem Panu i już</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zaufałem Panu i już<br/>Niczego nie muszę się lękać<br/>Zaufałem Panu i już<br/>Niczego nie muszę się trwożyć</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wierzę Mu, bo On ma moc <br/>przezwyciężyć W moim sercu zło.<br/>Wierzę Mu,<br/>bo On ma właśnie taką moc.</lines>
+    </verse>
+  </lyrics>
+</song>

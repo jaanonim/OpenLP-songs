@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:08">
+  <properties>
+    <titles>
+      <title>Kto porusza się po wodach</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kto porusza się po wodach<br/>Trzyma ksieżyc w dłoni swej<br/>Kto rozprasza ciemność nocy<br/>Rozpalonym światłem dnia<br/>Kto przechadza się po górach<br/>Kto na ziemi w dole jest<br/>Kto jest większy niż niebiosa<br/>Kto miłością duszy mej</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Stworzyciel Bóg, to Jahwe<br/>Jest który jest, to Jahwe<br/>Wszechrzeczy Pan, to Jahwe<br/>Róża Szaronu, to Jahwe<br/>Boży Syn, to Jahwe<br/>W Trójcy Bóg, to Jahwe</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kim jest ten kto daje szczęście<br/>Ten kto pokój daje nam<br/>Kim jest ten kto mnie pociesza<br/>Gorzki w słodki zmienia smak<br/>Kto rozbudza mą żarliwość<br/>Kto powstaje wewnątrz mnie<br/>Kto mój głód wciąż zaspokaja<br/>Wszystkim co potrzebne jest</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesteś święty, jesteś wieczny<br/>I na wieki rządzisz Ty<br/>Każdy skłoni się przed Tobą<br/>Każdy imię wyzna Twe<br/>Aniołowie cześć oddają<br/>Stojąc wciąż przed tronem Twym<br/>My na ziemi zgromadzeni<br/>Ogłaszamy imię Twe</lines>
+    </verse>
+  </lyrics>
+</song>

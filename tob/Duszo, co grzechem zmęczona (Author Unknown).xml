@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:43">
+  <properties>
+    <titles>
+      <title>Duszo, co grzechem zmęczona</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="250"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Duszo, coś grzechem zmęczona,<br/>w Zbawcy objęcia się skryj<br/>Patrz, On wyciąga ramiona,<br/>pośpiesz do Niego i żyj.<br/>On twe wołanie usłyszy,<br/>wnet na ratunek pośpieszy,<br/>serce znękane uciszy,<br/>pójdź w Jego objęcia się skryj,<br/>pójdź w Jego objęcia się skryj,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wiernym Obrońcą On będzie<br/>serce ukoi, co drży<br/>W każdej pomoże ci biedzie,<br/>otrze z czułością twe łzy<br/>Pośpiesz, bo czasu już nie ma,<br/>cóż ci pomogą westchnienia?<br/>W Zbawcy twych trosk ukojenie,<br/>On otrze z czułością twe łzy<br/>On otrze z czułością twe łzy.</lines>
+    </verse>
+  </lyrics>
+</song>

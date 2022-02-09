@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:43">
+  <properties>
+    <titles>
+      <title>Znużone grzechem serce pójdź</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="251"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Znużone grzechem serce pójdź,<br/>Zbawiciel woła cię,<br/>u Niego grzechu ciężar złóż,<br/>w ufności zwierz Mu się.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ufaj Zbawcy, ufaj serce,<br/>o zaufaj dziś!<br/>On wyciąga do cię ręce,<br/>wiarą się Go chwyć.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wspomnij, jak kochał grzesznych Pan,<br/>Swe życie za nich dał, i ciebie kocha,<br/>spuść się Nań, On też i za cię zmarł.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ufaj Zbawcy, ufaj serce,<br/>o zaufaj dziś!<br/>On wyciąga do cię ręce,<br/>wiarą się Go chwyć.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On jest jedyną drogą tu,<br/>co wiedzie w błogi kraj,<br/>więc rzuć niewiarę twą,<br/>wierz Mu, prowadzić Mu się daj.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Ufaj Zbawcy, ufaj serce,<br/>o zaufaj dziś!<br/>On wyciąga do cię ręce,<br/>wiarą się Go chwyć.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pójdź, z jego ludem dziś się złącz<br/>i w jegc związku trwaj,<br/>jak sługa jego wiernym bądź,<br/>aż wejdziesz w wieczny kraj.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Ufaj Zbawcy, ufaj serce,<br/>o zaufaj dziś!<br/>On wyciąga do cię ręce,<br/>wiarą się Go chwyć.</lines>
+    </verse>
+  </lyrics>
+</song>

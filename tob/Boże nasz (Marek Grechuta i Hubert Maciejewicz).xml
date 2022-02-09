@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:05">
+  <properties>
+    <titles>
+      <title>Boże nasz</title>
+    </titles>
+    <authors>
+      <author type="words">Marek Grechuta i Hubert Maciejewicz</author>
+      <author type="music">Marek Grechuta i Hubert Maciejewicz</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pytałem zawsze - dokąd, dokąd?<br/>Gdzie jest prawda, ziemi sól?<br/>Pytałem zawsze - jak zagubić<br/>Smutek wszelki, płacz i ból?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chwytam myśli nagłe, jasne<br/>Szukam tam, gdzie światła biel<br/>W Twoim krzyżu jest odpowiedź<br/>Już zwiastuje, znaczy cel<br/>W Twoim krzyżu jest odpowiedź<br/>Już zwiastuje, znaczy cel</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Boże nasz, Boże nasz,<br/>Chcę przebywać z Tobą,<br/>Z blaskiem Twym z siłą Twą,<br/>Ukaż się, o proszę!</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Boże nasz - daj nam,<br/>Daj nam poznać Siebie<br/>Spokój daj - zgubę weź,<br/>Zabierz ją, odprowadź</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szukam drogi w każdy dzień<br/>Wśród ogni złych co budzą lęk<br/>Ty prowadź nas, wyprowadź nas,<br/>Wyprowadź nas z niedoli...</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Boże nasz<br/>Daj nam wiele jasnych dni!<br/>Boże nasz<br/>Daj nam w jasnym dniu oczekiwanie!<br/>Boże nasz<br/>Daj nam poznać siebie Ty!<br/>Boże nasz<br/>Daj nam radość, której tak szukamy!<br/>Boże nasz<br/>Daj nam płomień wiary Twej!<br/>Boże nasz<br/>Chciej otworzyć wszystkie twarde serca!<br/>Boże nasz<br/>Daj pokonać każdy lęk!<br/>Boże nasz<br/>Daj nam radość blasku i odmiany!<br/>Boże nasz<br/>Daj zobaczyć chwałę Twą!<br/>Boże nasz<br/>Daj odnaleźć się w tym świecie szumu!<br/>Boże nasz<br/>Daj nam poznać Twoją moc!<br/>Boże nasz<br/>Daj nam modlić się do Ciebie co dzień!<br/>Boże nasz<br/>Daj nam wiele jasnych dni!<br/>Boże nasz<br/>Daj nam w jasnym dniu oczekiwanie!<br/>Boże nasz<br/>Daj nam poznać siebie Ty!<br/>Boże nasz...</lines>
+    </verse>
+  </lyrics>
+</song>

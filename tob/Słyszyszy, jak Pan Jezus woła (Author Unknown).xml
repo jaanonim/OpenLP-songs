@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:48">
+  <properties>
+    <titles>
+      <title>Słyszyszy, jak Pan Jezus woła</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="350"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Słyszyszy, jak Pan Jezus woła: Kto chce dziś do pracy iść!<br/>Żniwo wielkie już dokoła, kłos dojrzały zżółkły liść!<br/>Jezus wszystkich nawołuje, wieczną dać nagrodę chce,<br/>a kto się gotowym czuje, niechaj rzecze: Poślij mię!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy cię nie stać byś poganom przyniósł błogą,<br/>zbawczą wieść, bądź światłością chrześcijanom,<br/>by poznali swoją cześć. Kto w majętność jest ubogi,<br/>niechaj wdowi grosz swój da, rad go przyjmie<br/>Zbawca drogi, bo On serce dawcy zna.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jeślić ognia brak wymowy, z jaką Paweł dusze zwał,<br/>świadcz prostymi tylko słowy, jak ci Zbawca wolność dał.<br/>Gdy nie umiesz przekonywać grzesznych, że sąd czeka ich,<br/>możesz małe dziatki wzywać, by Pan się uwielbił w nich.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Głośno woła Mistrz do dzieła, bracie, nie odwlekaj, chodź!<br/>Wszędzie ciemność górę wzięła, giną starcy, ginie młódź.<br/>Oddaj się Zbawicielowi, kiedy potrzebuje cię, powiedz<br/>swemu dziś Królowi: Oto jestem, poślij mię!</lines>
+    </verse>
+  </lyrics>
+</song>

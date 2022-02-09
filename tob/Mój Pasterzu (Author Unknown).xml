@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:44">
+  <properties>
+    <titles>
+      <title>Mój Pasterzu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="263"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mój Pasterzu, mój Obrońco.któryś za mnje życie kładł,<br/>Tobie serce swe oddaję, chętnie w Twój wstępuję ślad.<br/>O, chcę, o chcę, o, chcę, o chcę Tobie swoje oddać serce,<br/>na Twój wąski wstąpić ślad!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tyś słoneczną mą radością, w nędzy mię pocieszasz rad!<br/>Chętnie świat, o, chętnie rzucę, kiedy Twój zobaczę ślad.<br/>O, chcę, o chcę, o chcę, o chcę, o Jezusie,<br/>jam gotowy w Twój ciernisty wstąpić ślad!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Weź mię, Panie, w Swoją służbę, spełnij obietnice Swe!<br/>Idź przede mną, wielki Mistrzu, w ślady Twe wstępować chcę!<br/>O, chcę, o chcę, o chcę, o chcę z całej duszy, wielki Mistrzu,<br/>wstąpić w błogie ślady Twe!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Prowadź śmierci mię doliną, pomóż mi w czujności żyć,<br/>potem aż do niebios tronu daj mi się za Tobą wzbić!<br/>O, chcę, o chcę, o chcę, o chcę przez uciski, aż do tronu,<br/>kiedyś się za Tobą wzbić.</lines>
+    </verse>
+  </lyrics>
+</song>

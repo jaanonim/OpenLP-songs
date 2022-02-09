@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:41">
+  <properties>
+    <titles>
+      <title>Umilknij, serce, ucisz się!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="229"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Umilknij, serce, ucisz się! Spokojnie czekaj Bóg tak chce!<br/>On dobrze zna twój ból i krzyż, wie, przed czym lękasz się i drżysz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Umilknij, serce, skieruj lot do domu, do niebieskich wrót!<br/>Króluje tam twój Pan i Brat, co trzyma w ręku cały świat</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Człowiekiem jest, człowiekiem był i z ludzką się niedolą zżył;<br/>On dobrze wie, że wrogi świat dziedzicom nieba nie jest rad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Choć odszedł Pan do górnych stron i w niebie Swój zbudował tron,<br/>to jednak w sercu nosi nas, jak pasterz lud swój będzie pasł.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Boć wierna Jego trzyma dłoń obłoki, wiatry, morską toń!<br/>Kto może lepiej chronić cię? Więc raźniej krocz i nie bój się!</lines>
+    </verse>
+  </lyrics>
+</song>

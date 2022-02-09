@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:57">
+  <properties>
+    <titles>
+      <title>Ach, zmiłuj się I obmyj mię</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="755"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ach, zmiłuj się I obmyj mię,<br/>Jezusie mój, Daj pokój Twój.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chcę wolnym być, Dla Ciebie żyć.<br/>Ach, weź mą dłoń, W Swoją ją schroń.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Za grzechów rój Tyś staczał bój.<br/>Byś mię mógł mieć, Poniosłeś śmierć.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wszystko co mnie Do świata rwie,<br/>Składam pod Krzyż - Podnieś mię wzwyż!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dla Ciebie żyć, Wiecznie Twym być;<br/>Ten składam ślub U Twoich stóp.</lines>
+    </verse>
+  </lyrics>
+</song>

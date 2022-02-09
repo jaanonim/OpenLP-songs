@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:29">
+  <properties>
+    <titles>
+      <title>Z pokorą, z podziwem spoglądam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="250"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z pokorą, z podziwem spoglądam<br/>W to morze litości i łask;<br/>Gdy słucham poselstwa pokoju,<br/>Olśniewa niebieski mnie blask.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Krzyż Jego gładzi mój dług,<br/>Krew Jego zmywa mój brud.<br/>Mą wolą zawładnął już Bóg,<br/>Bezpiecznie mnie Sam będzie wiódł.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tak długom się trapił, bojował<br/>I wzdychał pod jarzmem swych win;<br/>Lecz skorom swe serce Mu oddał,<br/>Miłości odrodził mnie czyn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Łagodnie wyciągnął swe dłonie,<br/>„Tyś zdrowe, me dziecię" mi rzekł,<br/>I siła znów we mnie wstąpiła,<br/>Gdy szat uchwyciłem Mu brzeg.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Przybliża się Książe pokoju,<br/>Nad tobą rozjaśnia Swą twarz,<br/>Posłuchaj jak mile cię woła:<br/>„Tu pokój, tu życie już masz!"</lines>
+    </verse>
+  </lyrics>
+</song>

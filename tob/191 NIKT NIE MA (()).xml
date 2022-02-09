@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:47">
+  <properties>
+    <titles>
+      <title>191 NIKT NIE MA</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bo nikt nie ma z nas tego,<br/>co mamy razem,<br/>każdy wnosi ze sobą to, co ma.<br/><br/>A zatem aby wszystko mieć,<br/>potrzebujemy siebie razem.<br/>Bracie, siotro, <br/>ręka w rękę z nami idź.</lines>
+    </verse>
+  </lyrics>
+</song>

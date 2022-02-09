@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:47">
+  <properties>
+    <titles>
+      <title>Warownym grodem jest nasz Bóg</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="536"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Warownym grodem jest nasz Bóg,<br/>Orężem nam i zbroją!<br/>On nas wybawia z wszelkich trwóg,<br/>Co nas tu niepokoją.<br/>Stary, chytry wróg<br/>Czyha, by nas zmógł,<br/>Moc i złości rój<br/>On na nas wiedzie w bój;<br/>Na ziemi któż mu sprosta?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My złego nie zdołamy zmóc,<br/>Wnet zgi¬nąć by nam trzeba,<br/>Lecz walczy za nas chrobry Wódz,<br/>Sam Bóg Go zesłał z nieba.<br/>Kto On? - pytasz się?<br/>- Jezus On się zwie,<br/>Pan Bóg Sabaot;<br/>On złego strzaska grot;<br/>Innego nie masz Boga.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Choć diabłów pełen byłby świat,<br/>Co połknąć by nas chcieli,<br/>My nie boimy się ich zdrad,<br/>Będziemy triumf mieli.<br/>Książę ziemi tej<br/>W całej złości swej<br/>Nie poradzi nam,<br/>Bo już skazany sam<br/>I Słowo go powali.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Niech Bożych słów nie tyka wróg!<br/>Wziąć sobie ich nie damy;<br/>Duch Boży z nami, z nami Bóg<br/>Z wszechmocy Swej darami!<br/>Choć pozbawią źli<br/>Żony, dzieci, czci,<br/>Chytra grabież ta<br/>Zysk lichy wrogom da;<br/>Królestwo naszym będzie</lines>
+    </verse>
+  </lyrics>
+</song>

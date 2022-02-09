@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:45">
+  <properties>
+    <titles>
+      <title>136 DAJ MI SIŁĘ TWĄ</title>
+    </titles>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Daj mi siłę Twą, abym stał się bezsilny <br/>Daj mi swoją moc, abym stał się łagodny <br/>Daj mi mądrość swą, abym stał się prosty <br/>Daj bogactwo Twe, abym stał się ubogi <br/>Daj mi radość swą, bym potrafił się smucić<br/>Daj sprawiedliwość Twą, bym potrafił nie walczyć <br/>Daj mi słowa Twe, abym umiał zamilknąć<br/>Daj mi życie Twe, abym umiał umierać</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Duchu Święty przyjdź <br/>Duchu Święty przyjdź <br/>Niech stanie się cud przemiany serca!</lines>
+    </verse>
+  </lyrics>
+</song>

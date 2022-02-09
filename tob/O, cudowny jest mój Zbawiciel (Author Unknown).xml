@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:56">
+  <properties>
+    <titles>
+      <title>O, cudowny jest mój Zbawiciel</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="728"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, cudowny jest mój Zbawiciel,<br/>Który za mnie na krzyżu zmarł,<br/>Za mnie przelał Swą krew, dał życie,<br/>Bym ja, grzeszny zbawienie miał.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Za mnie zawisł na krzyżu On,<br/>Za mnie zawisł na krzyżu On.<br/>Za me grzechy męczeński poniósł zgon,<br/>Za mnie zawisł na krzyżu On</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On zostawił niebiańską chwałę,<br/>By wykonać Ojcowski plan,<br/>I na świat zszedł jak dziecię małe,<br/>Przyjął nędzny człowieczy stan.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To za grzech nasz On był zraniony,<br/>Nasze winy na Siebie wziął,<br/>Potem odszedł w niebiańskie strony,<br/>Przygotować tam dla nas dom.</lines>
+    </verse>
+  </lyrics>
+</song>

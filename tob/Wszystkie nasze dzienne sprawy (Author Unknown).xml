@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:54">
+  <properties>
+    <titles>
+      <title>Wszystkie nasze dzienne sprawy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="480"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wszystkie nasze dzienne sprawy<br/>przyjm litośnie, Boże prawy!<br/>A gdy będziem zasypiali,<br/>niech Cię nawet sen nasz chwali.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Twoje oczy obrócone dzień i<br/>noc patrzą w tę stronę,<br/>gdzie niedołężność człowieka<br/>Twojego ratunku czeka</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Odwróć od nas złe przygody,<br/>od wszelakiej broń nas szkody,<br/>miej nas zawsze w Twojej pieczy,<br/>Stróżu i Sędzio człowieczy.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A gdy niebo już posiędziem,<br/>Tobie wdzięcznie śpiewać będziem,<br/>Boże w Trójcy niepojęty,<br/>Święty, po wiek wieków, Święty.</lines>
+    </verse>
+  </lyrics>
+</song>

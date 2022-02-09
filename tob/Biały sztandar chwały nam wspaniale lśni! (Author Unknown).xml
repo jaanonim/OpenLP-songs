@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:46">
+  <properties>
+    <titles>
+      <title>Biały sztandar chwały nam wspaniale lśni!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="517"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Biały sztandar chwały nam wspaniale lśni!<br/>Sam go dał nam Jezus Król.<br/>Wiernie przy Nim stójmy, choć nas walki dni,<br/>Choć czekają trud i ból!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Za Nim w ślad, za Nim w ślad!<br/>Przed nami idzie Jezus nasz.<br/>Spiesząc za Nim w bój i w ciężki znój,<br/>Wysoko wznieśmy sztandar swój!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kiedy swe zastępy wiedzie na nas wróg,<br/>Trzymaj śmiało sztandar nasz!<br/>Z nami Emanuel, On złośnika zmógł,<br/>Silnie stoi prawdy straż.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Między wszystkie ludy, po kres wszystkich ziem<br/>Nieśmy święty sztandar ten,<br/>Niechaj Słowo Boże idzie z światłem swym<br/>I rozpędza śmierci sen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Noc uchodzi, nowy już zaświtał dzień,<br/>Biedna ziemio, zanuć śpiew,<br/>Idzie Jezus Chrystus, znika grzechu cień,<br/>Niesie pokój z Judy</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:04">
+  <properties>
+    <titles>
+      <title>XIII. Z głębi serc tych dwojga wzlata</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z głębi serc tych dwojga wzlata<br/>Prośba szczera przed Twój tron.<br/>Łaska Twa jest tak bogata -<br/>Wiedź nas, Panie, aż po zgon!<br/>Słowa Twego, kosztownego<br/>Zgodnie, razem, słuchać chcą,<br/>Co dziś ślubem zawiązują,<br/>Zapieczętuj mocą Swą.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pobłogosław w Swej miłości<br/>Młodych, których złączyć masz;<br/>Ty ich prowadź też w mądrości -<br/>Pokój Swój im pewnie dasz.<br/>Poprzez całe życie wiary<br/>Pomocnikiem bądź im Sam,<br/>Szczęściem bowiem jest bez miary<br/>Z Tobą dojść do niebios bram!</lines>
+    </verse>
+  </lyrics>
+</song>

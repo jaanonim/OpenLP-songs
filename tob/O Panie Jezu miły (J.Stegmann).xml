@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:35">
+  <properties>
+    <titles>
+      <title>O Panie Jezu miły</title>
+    </titles>
+    <authors>
+      <author type="words">J.Stegmann</author>
+      <author type="music">J.Stegmann</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="343"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Panie Jezu miły,<br/>Z Swą łaską przy nas bądź,<br/>By zdradne złego siły<br/>Nie mogły góry wziąć</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Chryste Zbawicielu,<br/>Z Swym słowem przy nas bądź,<br/>Żyć pozwól nam w weselu,<br/>Racz radość w serca tchnąć!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Światłość nad światłości,<br/>Świeć duszy blaskiem Swym,<br/>Abyśmy w swej słabości<br/>Nie poszli toren złym.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Boże nasz jedyny,<br/>Błogosławieństwo zlej,<br/>By wszystkie nasze czyny<br/>Zmierzały ko czci Twej.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O dzielny Bohaterze,<br/>Opieką Swą nas broń,<br/>Umacniaj w świętej wierze,<br/>Od rzechów duszę chroń!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O Boże, świata Panie,<br/>Ty naszą wolę złam,<br/>Racz w dobrym dać wytrwanie,<br/>W potrzebie pomóż nam!</lines>
+    </verse>
+  </lyrics>
+</song>

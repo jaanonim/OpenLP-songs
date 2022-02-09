@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:44">
+  <properties>
+    <titles>
+      <title>Wzmacniaj się w Panu swym</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="278"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wzmacniaj się w Panu swym w sile mocy Jego stój,<br/>sprawy Pańskiej w każdej chwili dzielnie broń.<br/>Za nas walczy niebios Pan, gróźb szatana się nie bój,<br/>zwyciężymy, tylko swą podaj dłoń!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Silnie stój, sprawy broń, sprawy Króla, który wiedzie nas!<br/>O cześć Pana swego dbaj, o zwycięstwo dobra walcz,<br/>w sile tej wzmacniaj się w każdy czas.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wzmacniaj się w Panu swym, w sile mocy Jego stój,<br/>bo opuszcza swą chorągiew tylko tchórz!<br/>Więc odważnie naprzód krocz, bo cię wiedzie Zbawca twój,<br/>ufaj Panu swemu, już się nie trwóż!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Silnie stój, sprawy broń, sprawy Króla, który wiedzie nas!<br/>O cześć Pana swego dbaj, o zwycięstwo dobra walcz,<br/>w sile tej wzmacniaj się w każdy czas.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wzmacniaj się w Panu swym, w sile mocy Jego stój,<br/>obietnicom Pańskim niezachwianie wierz!<br/>Cześć wodzowi, który wojsk nie opuści, gdy wre bój.<br/>Grodem mocnym jest nasz Bóg, Nim się zbrój!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Silnie stój, sprawy broń, sprawy Króla, który wiedzie nas!<br/>O cześć Pana swego dbaj, o zwycięstwo dobra walcz,<br/>w sile tej wzmacniaj się w każdy czas.</lines>
+    </verse>
+  </lyrics>
+</song>

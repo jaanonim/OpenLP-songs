@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:46">
+  <properties>
+    <titles>
+      <title>169 BO GÓRY MOGĄ USTĄPIĆ</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Bo góry mogą ustąpić<br/>i pagórki się zachwiać,<br/>ale miłość moja nie odstąpi od ciebie. <br/>/x2</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Tak mówi Pan, Tak mówi Pan<br/>Tak mówi Pan, który kocha ciebie,<br/>ciebie, ciebie i mnie. <br/>/2x</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Choćby matka, która kocha dziecko<br/>swego łona, opuściła je,<br/>to Ja, Bóg Ojciec Wszechmogący<br/>nigdy, nigdy nie opuszczę cię.<br/>/x2</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Tak mówi Pan, Tak mówi Pan<br/>Tak mówi Pan, który kocha ciebie,<br/>ciebie, ciebie i mnie. <br/>/2x</lines>
+    </verse>
+  </lyrics>
+</song>

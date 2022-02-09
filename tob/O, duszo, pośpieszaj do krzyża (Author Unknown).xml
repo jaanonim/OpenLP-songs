@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:37">
+  <properties>
+    <titles>
+      <title>O, duszo, pośpieszaj do krzyża</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="155"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, duszo, pośpieszaj do krzyża,<br/>Zbawiciel zaprasza cię sam;<br/>z Nim łaska do ciebie się zniża.<br/>Dla wszystkich zbawienie jest tam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Do krzyża więc wszyscy się śpieszcie,<br/>do krzyża pośpieszcie się wraz,<br/>zbawienie i pokój zeń bierzcie,<br/>dziś woła, dziś chodźcie, dziś czas!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, szukaj pokoju, zbawienia,<br/>Pan Jezus ci z krzyża je da, ukoi twe bóle,<br/>zmartwienia, On dobrze niedolę twą zna.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, szukaj swych win odpuszczenia,<br/>obmycia swych grzechów przez krew,<br/>przelaną dla twego zbawienia na krzyżu!<br/>W niej życia jest siew.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, pomóż, ach pomóż, Miłości,<br/>co sobie roimy, to zburz,<br/>abyśmy za cenę marności<br/>nie chcieli zaprzedać swych dusz!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>My chcemy się śpieszyć do krzyża,<br/>do krzyża garniemy się wraz.<br/>Zbawienie i pokój u Ciebie,<br/>Ty wołasz, idziemy, już czas!</lines>
+    </verse>
+  </lyrics>
+</song>

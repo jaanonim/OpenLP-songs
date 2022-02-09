@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:34">
+  <properties>
+    <titles>
+      <title>Długo światła szukaliśmy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="89"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Długo światła szukaliśmy,<br/>pogrążeni w ciemny mrok<br/>coraz bardziej tonęliśmy w grzechu,<br/>który w przepaść wlókł.<br/>O, gdzież ta przemożna ręka,<br/>zbrojna w święty Boży grot,<br/>która wyrwać zdolna człeka,<br/>nawet jeszcze z piekieł wrót?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przyszedł Zbawca nasz kochany,<br/>pełen miłosierdzia, łask, rzekł:<br/>wyleczę twoje rany,<br/>przyślę z nieba nowy brzask.<br/>Zbawcy nas wyzwala ramię,<br/>silna Jego Boża dłoń;<br/>On potęgę grzechu złamie,<br/>śpieszmy tylko wszyscy Doń!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nasze dobra i zasoby wszystkie<br/>zniszczył grzechu jad;<br/>wszędzie trupy, wszędzie groby,<br/>naszych sił podcięty kwiat.<br/>Zbawcy nas wyzwala ramię,<br/>silna Jego Boża dłoń;<br/>On potęgę grzechu złamie,<br/>śpieszmy tylko wszyscy Doń!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cóż przyniesiem Mu w ofierze<br/>za tej łaski wielkiej czyn?<br/>Nic, lecz serca niech zabierze,<br/>choć są pełne żądz i win.<br/>Zbawcy nas wyzwala ramię,<br/>silna Jego Boża dłoń;<br/>On potęgę grzechu złamie,<br/>śpieszmy tylko wszyscy Doń!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Serca nasze Ci niesiemy chociaż<br/>je pokalał grzech,<br/>Ty je przyjmiesz,<br/>przyjmiesz wiemy,<br/>Ty je z win obmyjesz wszech.<br/>Zbawcy nas wyzwala ramię,<br/>silna Jego Boża dłoń;<br/>On potęgę grzechu złamie,<br/>śpieszmy tylko wszyscy Doń!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Wiedź nas Ty Swą ręką,<br/>Boże, drogą pewna prowadź wciąż,<br/>gdy nas znowu grzech prze-może,<br/>na ratunek, Zbawco, dąż.<br/>Zbawcy nas wyzwala ramię,<br/>silna Jego Boża dłoń;<br/>On potęgę grzechu złamie,<br/>śpieszmy tylko wszyscy Doń!</lines>
+    </verse>
+  </lyrics>
+</song>

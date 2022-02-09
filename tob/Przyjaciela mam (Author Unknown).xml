@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:11">
+  <properties>
+    <titles>
+      <title>Przyjaciela mam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przyjaciela mam<br/>Co pociesza mnie<br/>Gdy o jego ramię<br/>Oprę się<br/>W nim nadzieję mam<br/>Uleciał strach<br/>On najbliżej jest<br/>Zawsze troszczy się<br/>/ Królów król<br/>Z nami Bóg /x2<br/>/ Jezus /x4</lines>
+    </verse>
+  </lyrics>
+</song>

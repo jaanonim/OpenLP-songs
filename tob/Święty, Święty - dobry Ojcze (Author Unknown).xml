@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:33">
+  <properties>
+    <titles>
+      <title>Święty, Święty - dobry Ojcze</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="619"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Święty, Święty,  Święty, Święty,<br/>Święty, Święty  Pan Bóg zastępów.<br/>Dziś wznosimy nasze ręce,<br/>uwielbiając miłość Twą.<br/>Święty, Święty,  Święty, Święty.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dobry Ojcze, dobry Ojcze,<br/>jak jest dobrze być Twym dzieckiem dobry Ojcze.<br/>Dziś wznosimy nasze ręce<br/>uwielbiając miłość Twą.<br/>Dobry Ojcze, dobry Ojcze.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Drogi Jezu, drogi Jezu,<br/>swoją krwią nas odkupiłeś, drogi Jezu.<br/>Dziś wznosimy nasze ręce<br/>uwielbiając miłość Twą.<br/>Drogi Jezu, drogi Jezu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Duchu Święty, Duchu Święty<br/>przyjdź napełnij nas na nowo Duchu Święty.<br/>Dziś wznosimy nasze ręce<br/>uwielbiając miłość Twą.<br/>Duchu Święty, Duchu Święty.</lines>
+    </verse>
+  </lyrics>
+</song>

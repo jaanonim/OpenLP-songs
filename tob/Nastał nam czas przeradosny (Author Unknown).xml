@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:20">
+  <properties>
+    <titles>
+      <title>Nastał nam czas przeradosny</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="60"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nastał nam czas przeradosny,<br/>Wierni więc pląsajcie!<br/>Nadszedł już dzień wielkanocny,<br/>Wierni, więc śpiewajcie:<br/>Wyszedł z grobu nasz Zbawiciel,<br/>Ludu Swego Odkupiciel.<br/>Chwałę Jemu dajcie!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lew nasz z rodu Judowego<br/>Odniósł już zwycięstwo,<br/>Przemógł węża piekielnego<br/>Przez Swe wielkie męstwo.<br/>To Aarona pręt w rozkwicie,<br/>Gwiazda ranna na błękicie,<br/>Wszyscy ją witajcie!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jakby smutkiem wielkim zdjęte<br/>Słońce się zaćmiło,<br/>Gdy bladością śmierci święte<br/>Lice się okryło;<br/>Lecz radośnie zajaśniało,<br/>Gdy w niedzielę znów ujrzało<br/>Słońce łaskawości.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jak nas słońce rozwesela<br/>Swymi promieniami,<br/>Gdy w otchłani blask rozściela,<br/>Stojąc ponad nami,<br/>Tak Pan uczniów Swych pocieszył,<br/>Gdy się żywy do nich śpieszył,<br/>Gdy się im ukazał.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mówił, pokój im zwiastując,<br/>By się nie trwożyli,<br/>Rany Swoje pokazując,<br/>Aby uwierzyli,<br/>Ze jak życie Swe położył,<br/>Tak chwalebnie znowu ożył -<br/>Chrystus obiecany.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dla nas także zmartwychwstałeś,<br/>Jezu, drogi Panie!<br/>Mocną wiarę duszom dałeś<br/>W nasze zmartwychwstanie.<br/>Ty nas nie zostawisz w ziemi,<br/>Gdyż członkamiśmy Twoimi,<br/>Chwałą nas obleczesz.</lines>
+    </verse>
+  </lyrics>
+</song>

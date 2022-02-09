@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:22">
+  <properties>
+    <titles>
+      <title>O gwiazdo Betlejemska</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="1018"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O gwiazdo betlejemska,<br/>Zaświeć na niebie mym,<br/>Tak szukam Cię wśród nocy,<br/>Tęsknie za światłem twym.<br/>Zaprowadź do stajenki,<br/>Leży tam Boży Syn,<br/>Bóg - Człowiek z Panny Świętej,<br/>Dany na odkup win.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, nie masz go już w szopce,<br/>Nie masz go w żłóbku tam,<br/>Więdz gdzie pójdziemy Chryste?<br/>Gdzie się ukryłeś nam?<br/>Pójdziemy przed ołtarze,<br/>Wzniecić miłości żar,<br/>I hołd Ci niski oddać,<br/>To jest nasz wszystek dar.</lines>
+    </verse>
+  </lyrics>
+</song>

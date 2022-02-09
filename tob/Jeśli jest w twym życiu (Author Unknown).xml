@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:00">
+  <properties>
+    <titles>
+      <title>Jeśli jest w twym życiu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="100"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jeśli jest w twym życiu<br/>Coś, co bardzo gnębi cię,<br/>Masz problemy, których sam,<br/>Nie możesz pozbyć się,<br/>To posłuchaj rady mej<br/>I przyjdź do Zbawcy stóp,<br/>On pomoże ci, wyprostuje drogi twe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kiedy smutek, żałość, łzy,<br/>Napełnią życie twe,<br/>Kiedy przyjaciele twoi,<br/>Też opuszczą cię,<br/>To posłuchaj rady mej<br/>I przyjdź do Zbawcy stóp,<br/>On pomoże ci, wyprostuje drogi twe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Przyjacielu, czy pragniesz żyć wiecznie,<br/>Patrz, Król wieczności też czeka na ciebie.<br/>On da ci radość, obetrze twe łzy,<br/>Więc daj Mu swe serce i żyj z Nim i ty.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>On zupełnie chce odmienić<br/>Całe życie twe.<br/>W zamian chce, byś oddał<br/>Jemu całe serce swe.<br/>Więc nie zwlekaj, bo za późno<br/>Może zaraz być.<br/>On cię zbawi, weźmie cię<br/>Do grona dzieci swych.<br/>Jezus, Zbawca twój!</lines>
+    </verse>
+  </lyrics>
+</song>

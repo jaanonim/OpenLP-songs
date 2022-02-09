@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:25">
+  <properties>
+    <titles>
+      <title>Stań, bracie miły, stań!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="173"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Stań, bracie miły, stań!<br/>Dokądże śpieszysz tak?<br/>Czy wiesz, gdzie kręty ten<br/>Ciebie zawiedzie szlak?<br/>Czy myślisz dotrzeć nim<br/>Przed święty Boży tron,<br/>Gdzie już w głos Panu wzniósł<br/>Lud wdzięcznych pieśni ton?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Stań, bracie miły, stań!<br/>Ta droga wiedzie tam,<br/>Gdzie gorzki płacz i jęk,<br/>Do strasznych piekieł bram.<br/>Złota pajęczyn sieć<br/>Kryje przepaści brzeg;<br/>Wpadniesz w grób, pełny zgub.<br/>O, wstrzymaj prędki bieg!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Świecką rozkoszą grzech<br/>Życia podetnie kwiat,<br/>Serce napełni twe<br/>Żalem rozlicznych strat.<br/>Wdzięków uroczych czar<br/>Kryje śmiertelny jad;<br/>Poznasz sam, że to kłam,<br/>Czym darzy ciebie świat.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lecz zmarł na krzyża pniu<br/>Boży jedyny Syn,<br/>By z grzechu wyrwać cię,<br/>Z ciężkich uwolnić win.<br/>Jasne wskazówki dał,<br/>Jak możesz Boga czcić,<br/>Wszędzie tu służąc Mu,<br/>Z Nim wiecznie potem żyć.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ach, czemuż uciec precz<br/>Od Pańskiej twarzy chcesz?<br/>Cóż cię porywa w dół,<br/>Że w bagno śmierci brniesz?<br/>O, wróćże jeszcze, wróć,<br/>Do grzechu uczuj wstręt!<br/>Jezus cię dzisiaj chce<br/>Że strasznych wyrwać pęt.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jeśli nie zechcesz wejść<br/>Na Jego wąski ślad,<br/>Duszę zagubisz swą<br/>Wśród niezliczonych strat.<br/>Pewnie cię w grzechu śnie<br/>Połknie przepaści głąb,<br/>A więc dziś, jeszcze dziś<br/>Na wąską drogę wstąp!</lines>
+    </verse>
+  </lyrics>
+</song>

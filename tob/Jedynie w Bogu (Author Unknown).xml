@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:07">
+  <properties>
+    <titles>
+      <title>Jedynie w Bogu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Moje grzechy są dla Ciebie Panie jawne,<br/>Wszystko widzisz i o wszystkim dobrze wiesz,<br/>/ Być aktorem to niczego nie załatwi,<br/>Udawanie przed twym tronem śmieszne jest /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie zakrywaj przede mną Swojej twarzy<br/>Nie milcz, gdy otwieram usta Swe<br/>/ Chcę znów cieszyć się Tobą, myśleć dla Ciebie,<br/>Ogrzać w domu Twoim serce me /x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Jedynie w Bogu jest uciszenie duszy mojej,<br/>To w Nim pokładam nadzieję swoją /x2</lines>
+    </verse>
+  </lyrics>
+</song>

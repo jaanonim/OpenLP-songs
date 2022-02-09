@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:54">
+  <properties>
+    <titles>
+      <title>O, Betlejemie mały</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="686"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, Betlejemie mały,<br/>Któż ci tę zacność dał?<br/>Skąd wziąłeś tyle chwały,<br/>Cóż to są blask się stał<br/>Wśród łanów twoich, pól i wzgórz,<br/>Że okolica cała<br/>/ W jasności dziennych zórz? /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pasterze już posnęli,<br/>Na trawach perły lśnią,<br/>A cudny anioł w bieli<br/>Rozlewa jasność swą;<br/>„Nie bójcie się, nie bójcie się!"<br/>Tę błogą wieść narodom<br/>/ Całego świata ślę. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pan obrał Swe mieszkanie,<br/>Gdzie groby, nędza, łzy,<br/>Więc nucą wraz niebianie,<br/>I tak ich pienie brzmi:<br/>„Na wysokościach Bogu cześć<br/>I pokój ludziom ziemi,<br/>/ Grzech już nie będzie gnieść." /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wnet śpieszą się pasterze,<br/>By cześć Królowi dać<br/>I złożyć chcą w ofierze,<br/>Na co któ¬rego stać.<br/>I mnie, pasterze, weźcie tam,<br/>Gdzie Króla ujrzę swego<br/>/ I Jemu pokłon dam. /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Przytulę Cię do łona,<br/>Niebiańskie Dziecię me,<br/>Twa miłość niestrudzona,<br/>Choć serce me tak złe.<br/>Jeślibym co usłużyć mógł,<br/>To przyjm i mnie, o Panie,<br/>/ Do liczby Swoich. sług! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

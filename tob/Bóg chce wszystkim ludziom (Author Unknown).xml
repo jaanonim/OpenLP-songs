@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:23">
+  <properties>
+    <titles>
+      <title>Bóg chce wszystkim ludziom</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="121"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bóg chce wszystkim ludziom<br/>łaskę Swoją dać,<br/>Błogą wieść każdemu<br/>chce do serca wlać,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Serca drzwi więc otwórz<br/>i słoneczko wpuść,<br/>Życie swoje Panu złóż!<br/>/ Wpuść słoneczko z nieba, wpuść /x2<br/>Serca drzwi więc otwórz<br/>i słoneczko wpuść,<br/>Życie swoje Panu złóż!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To słoneczko - Chrystus<br/>przyszedł na ten świat,<br/>Lecz nie każdy Go<br/>do serca przyjąć rad,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Błądzisz w pustce zdań<br/>i chcesz ty wyjście mieć -<br/>Wiedz, że takich Chrystus<br/>chce do raju wwieść,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Choć tu ciemno,<br/>lecz Pan zawsze świeci nam.<br/>W mroku ziemskim daje radę<br/>Pan Bóg Sam.</lines>
+    </verse>
+  </lyrics>
+</song>

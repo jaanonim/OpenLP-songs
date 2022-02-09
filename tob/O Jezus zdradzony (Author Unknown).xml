@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:38">
+  <properties>
+    <titles>
+      <title>O Jezus zdradzony</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="163"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Jezus zdradzony, zupełnie sam,<br/>stał przed Piłatem u sądu bram.<br/>Padło tak ważne pytanie tam:<br/>„Cóż zrobię z tym Jezusem?"</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Co zrobisz ty z Jezusem?<br/>Szczerze odpowiedz sam!<br/>Zbliża się czas, gdy zapytasz:<br/>Co zrobi ze mną Pan?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Widzisz przed sądem Jezusa wciąż.<br/>Chcesz Mu być wiernym? Wyznanie złóż!<br/>Krzyczy sumienia ci głos, twój stróż:<br/>Co zrobisz ty z Jezusem?</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Co zrobisz ty z Jezusem?<br/>Szczerze odpowiedz sam!<br/>Zbliża się czas, gdy zapytasz:<br/>Co zrobi ze mną Pan?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Myślisz jak Piłat wykręcić się,<br/>czy przyjąć Tego, co zbawił cię?<br/>A głos raz po raz odzywa się:<br/>Co zrobisz ty z Jezusem?</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Co zrobisz ty z Jezusem?<br/>Szczerze odpowiedz sam!<br/>Zbliża się czas, gdy zapytasz:<br/>Co zrobi ze mną Pan?</lines>
+    </verse>
+  </lyrics>
+</song>

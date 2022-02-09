@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:27">
+  <properties>
+    <titles>
+      <title>Jest źródło</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="225"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jest źródło skąd na grzeszny świat,<br/>Płynęła święta krew,<br/>By zetrzeć grzechu każdy ślad,<br/>Przejednać Boży gniew.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I dla mnie płynie krwi tej zdrój,<br/>I mnie uzdrawia On.<br/>Bo za mnie także Zbawca mój<br/>Męczeński poniósł zgon.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I łotr na krzyżu we krwi tej,<br/>Zbawienia poznał cud.<br/>Gdy Jezus wziął go w łasce swej<br/>Ze sobą w rajski gród.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Baranku dziś ta sama moc<br/>Jest w drogiej Twojej krwi.<br/>Więc ogień Ducha ześlij sam,<br/>Co życie daje mi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jam niegdyś także w grzechach był,<br/>Krew Twa zbawiła mnie.<br/>Dlatego zawsze z<br/>wszystkich sił radośnie śpiewać chcę.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ta krew po wszystkie moje dni<br/>To mego szczęścia zdrój,<br/>więc pienie me niech zawsze brzmi.<br/>Mnie kocha Jezus mój!</lines>
+    </verse>
+  </lyrics>
+</song>

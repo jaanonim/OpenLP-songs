@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:21">
+  <properties>
+    <titles>
+      <title>O Zbawicielu drogi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="84"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Zbawicielu drogi,<br/>Ty odsłoń Swoją twarz,<br/>Abyśmy znów doznali<br/>Zesłania Twoich łask.<br/>Przyjdź znów, przyjdź znów<br/>I skrop tę ziemię suchą,<br/>Daj nam, daj nam<br/>Żywota nowy wiew!<br/>Przyjdź znów, przyjdź znów<br/>I wylej Swego Ducha,<br/>Bo lud Twój kornie słucha<br/>I czeka na Twój zew.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niech pozna ziemia cała<br/>Na nowo Twoją moc,<br/>Niech światłość Twa zabłyśnie,<br/>Rozjaśni grzechu noc.<br/>Królu nasz, Królu nasz,<br/>Czekamy znaku Twego,-<br/>Niech znów, niech znów<br/>Ożywczy spłynie zdrój.<br/>Już dość, już dość,<br/>Już dosyć tego złego!<br/>Więc prowadź do nowego<br/>Zwycięstwa zastęp Swój!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:59">
+  <properties>
+    <titles>
+      <title>Ktoś cię dzisiaj woła</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="83"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ktoś cię dzisiaj woła,<br/>Ktoś cię dzisiaj szuka,<br/>Ktoś wyciąga dzisiaj swoją dłoń.<br/>Ucisz się, zatrzymaj, próżno Go nie mijaj<br/>Nie lekceważ znajomości tej.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Woła cię, szuka cię,<br/>Czy nie wyjdziesz dzisiaj Mu na przeciw.<br/>Skończy się, skończy się<br/>Czas zawarcia znajomości tej.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pytasz kto być może, kto w takiej pokorze,<br/>Do mnie właśnie dzisiaj zbliża się ?<br/>To Bóg, Pan przestworzy,<br/>Chrystus Pan, Syn Boży,<br/>On dopomóc tobie dzisiaj chce.</lines>
+    </verse>
+  </lyrics>
+</song>

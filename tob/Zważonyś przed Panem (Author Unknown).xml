@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:37">
+  <properties>
+    <titles>
+      <title>Zważonyś przed Panem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="142"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zważonyś przed Panem za lekkoś tu żył.<br/>I wyrok wydany: Niewiernym żeś był.<br/>Jak smutno brzmi słowo: strwoniłeś swój czas!<br/>Stracone twe życie, ten skarb Bożych łask.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zważonyś przed Panem,<br/>czyś słyszał ten głos na dnie twego serca?<br/>Żałosny twój los. Gdzie znajdziesz się,<br/>biedny, za lekkoś tu żył!<br/>Twe ziemskie zdobycze obrócą się w pył.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zważone twe czyny, twe myśli,<br/>twój sąd, upadki i winy, i każdy twój błąd;<br/>lecz Jezus przebaczy ci rój grzechów twych,<br/>On wyrwie z rozpaczy uwolni cię z nich.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lecz musisz na Pana skierować swój wzrok,<br/>i z Nim też uzgadniać swą myśl, każdy krok.<br/>I z Panem wciąż chodzić, On będzie cię strzegł,<br/>byś nie był za lekki, gdy skończysz swój bieg.</lines>
+    </verse>
+  </lyrics>
+</song>

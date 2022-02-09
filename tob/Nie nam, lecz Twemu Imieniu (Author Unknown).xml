@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:22">
+  <properties>
+    <titles>
+      <title>Nie nam, lecz Twemu Imieniu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="428"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie nam, lecz Twemu Imieniu<br/>Chwała niech będzie, o Panie<br/>zawsze i wszędzie, Chwała na wieki<br/>chwalę o Panie Imię Twe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pan światłem i zbawieniem moim,<br/>Kogóż mam lękać się?<br/>Prowadzi mnie drogą prostą do nieba,<br/>Dla Niego poświęcę życie swe.</lines>
+    </verse>
+  </lyrics>
+</song>

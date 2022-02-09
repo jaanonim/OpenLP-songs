@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:39">
+  <properties>
+    <titles>
+      <title>022 Jesteś radością mojego życia</title>
+    </titles>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesteś radością mojego życia.<br/>O, O - O! Panie mój. (x2)<br/>Ty jesteś moim Panem. x3<br/>Na zawsze jesteś Panem mym.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesteś pokojem mojego życia.<br/>O, O - O! Panie mój. (x2)<br/>Ty jesteś moim Panem. x3<br/>Na zawsze jesteś Panem mym.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesteś miłością mojego życia.<br/>O, O - O! Panie mój. (x2)<br/>Ty jesteś moim Panem. x3<br/>Na zawsze jesteś Panem mym.</lines>
+    </verse>
+  </lyrics>
+</song>

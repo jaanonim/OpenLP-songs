@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:07">
+  <properties>
+    <titles>
+      <title>Jezu, świętujemy dziś zwycięstwo Twe</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Jezu, świętujemy dziś zwycięstwo Twe!<br/>Jezu, Twoja miłość mieszka w nas.<br/>Jezu, wszystkich więzień otworzyłeś drzwi,<br/>Życie przyniosłeś w darze nam! /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bo do wolności wyzwolił Chrystus nas!<br/>Nie ma więcej jarzma strachu,<br/>W Chrystusie wolność jest.<br/>W Bożym zwycięstwie,<br/>W radości żyjmy więc.<br/>Nasze serca dla Pana dajmy dziś</lines>
+    </verse>
+  </lyrics>
+</song>

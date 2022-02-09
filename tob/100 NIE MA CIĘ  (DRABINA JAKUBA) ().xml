@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:43">
+  <properties>
+    <titles>
+      <title>100 NIE MA CIĘ  (DRABINA JAKUBA)</title>
+    </titles>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie ma Cię, Panie, nie ma Cię<br/>W moim życiu ciemno jest <br/>Rana ma krwawi, boli mnie<br/>Daj odpowiedź nie ma Cię</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To jest to miejsce, nie uciekaj stąd <br/>To jest brama, przez którą możesz przejść <br/>To jest droga, którą możesz pójść<br/>Tu w twym cierpieniu właśnie skrył się Pan <br/>Jest tak blisko, że nie słyszysz Go<br/>Jest tak blisko, że nie czujesz Go</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Serce spotka serce, Rana spotka ranę <br/>Choć nie czujesz, to właśnie tu jest Bóg <br/>Choć nie czujesz, to wiernie przed Nim trwaj<br/>Znajdziesz Go, wkrótce znajdziesz Go <br/>W twoim życiu Światłość jest<br/>Rana twa wieńcem chwały jest <br/>W niej spotkanie dokonuje się</lines>
+    </verse>
+  </lyrics>
+</song>

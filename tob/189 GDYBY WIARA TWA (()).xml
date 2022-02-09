@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:47">
+  <properties>
+    <titles>
+      <title>189 GDYBY WIARA TWA</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Gdyby wiara twa<br/>była wielka jak gorczycy ziarnko<br/>Te słowa mówi ci Pan /x2.<br/><br/>I z taką wiarą rzekłbyś do góry<br/>Przesuń się, przesuń się /x2.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>A góra posłusznie przesunie się,<br/>Przesunie się, przesunie się.<br/>W Imię Jezusa przesunie się,<br/>Przesunie się, przesunie się /x2.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Spływa, spływa, Duch Święty spływa /x4.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Duch Święty dotyka całego mnie<br/>Całego mnie, całego mnie,<br/>Od czubka głowy po stopy me,<br/>Po stopy me, po stopy me /x2.</lines>
+    </verse>
+  </lyrics>
+</song>

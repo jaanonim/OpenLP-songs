@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:32">
+  <properties>
+    <titles>
+      <title>Wielbię Cię</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="749"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Wielbię Cię, Wielbię Cię,<br/>Wielbię Cię, Wielbię Cię. // 2x //</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jesteśmy tutaj, by oddać Panu cześć.<br/>Z anielskim chórem<br/>uwielbienie chcemy wznieść.<br/>Śpiewać Hosanna Królowi, Panu Chwał<br/>A więc wszyscy razem<br/>wznieśmy głosy nucąc Mu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My Twoje dzieci szukamy twarzy Twej<br/>Przychodzimy śmiało<br/>przed Twój tron boś łaskaw jest.<br/>By miłość wyznać<br/>i wsłuchać się w Twój głos.<br/>Jesteś naszym Ojcem,<br/>wiec radośnie serca brzmią.</lines>
+    </verse>
+  </lyrics>
+</song>

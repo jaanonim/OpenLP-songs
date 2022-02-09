@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:00">
+  <properties>
+    <titles>
+      <title>Raduj się z nami</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="111"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Raduj się z nami, ogłoś to wszystkim,<br/>Że Jezus Królem jest! /3x<br/>Że Jezus Chrystus, Królem królów jest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Plotkujesz o ludziach i mówisz o rzeczach,<br/>Które nie obchodzą cię nic.<br/>Omawiasz pogodę, roztrząsasz problemy,<br/>Jakie w kraju i na świecie są wciąż.<br/>Lecz chcę ci oznajmić wspaniałą nowinę<br/>O niej śpiewać, krzyczeć chcę,<br/>Że Jezus Chrystus, Królem królów jest!</lines>
+    </verse>
+  </lyrics>
+</song>

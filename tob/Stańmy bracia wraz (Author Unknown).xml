@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:31">
+  <properties>
+    <titles>
+      <title>Stańmy bracia wraz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="46"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Stańmy bracia wraz,<br/>Pan w pośrodku nas,<br/>razem serca, razem dłonie,<br/>a zagości miłość w łonie,<br/>nie rozerwie wróg, co połączył Bóg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jednej łaski cud,<br/>nasze serca splótł,<br/>jedna w sercach miłość żarzy,<br/>jedna radość bije z twarzy,<br/>jeden wiedzie tor do Syjońskich gór!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jakże błogo tu<br/>wpośród bratnich dusz!<br/>Razem można smutek dzielić,<br/>razem w Panu się weselić,<br/>razem dłonie wznieść,<br/>do modlitwy spleść!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Co rozerwał świat,<br/>zniszczył grzechu jad,<br/>to połączy i powiąże<br/>mocą Swą pokoju Książę;<br/>wielki Jego wpływ,<br/>dziw się, świecie, dziw!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nie płacz, bracie,<br/>nie, otrzyj bólu łzę!<br/>Zdroje prawej wesołości,<br/>mamy w Pańskiej społeczności,<br/>a do ciężkich ran leje balsam Pan.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Stańmy, bracia, wraz!<br/>Jezus wiedzie nas.<br/>Z Nim przez krzyż i przez męczeństwa<br/>dojdziem pewnie do zwycięstwa;<br/>razem w Jego ślad idźmy w górny świat.</lines>
+    </verse>
+  </lyrics>
+</song>

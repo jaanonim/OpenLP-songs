@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:56">
+  <properties>
+    <titles>
+      <title>Gdybym świat pozyskał w życiu moim</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="733"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdybym świat pozyskał w życiu moim,<br/>Jezusa nie znał, Jego łask,<br/>Gdybym świat pozyskał bez Jezusa<br/>- Wszystko by straciło szczęścia blask.<br/>Gdybym zyskał wszystko na tym świecie,<br/>Cóż za radość znalazł bym ja w nim?<br/>Wszystko w nim przeminie i uleci,<br/>A me wieczne szczęście z Panem mym.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I cóż w zamian dam za me zbawienie,<br/>Które mi wyjednał Chrystus Pan,<br/>I cóż dam za serca ukojenie,<br/>Które dla mnie spływa z Jego ran?<br/>Jegom ja odkupień jest ofiarą,<br/>On przystanią duszy w czasie burz,<br/>Kiedy fale biją - On osłania,<br/>Bo On mojej duszy wierny Stróż.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, ta wieczna radość w mym Jezusie,<br/>Która jako balsam spływa mi,<br/>Gładzi moje grzechy, leczy rany,<br/>Poprzez wszystkie życia mego dni.<br/>Jego ja wysławiać będę stale,<br/>W Nim pociecha moich ziemskich dni,<br/>A gdy mię powoła ku Swej chwale,<br/>Odpocznienie wieczne ześle mi</lines>
+    </verse>
+  </lyrics>
+</song>

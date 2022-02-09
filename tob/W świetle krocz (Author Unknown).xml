@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:32">
+  <properties>
+    <titles>
+      <title>W świetle krocz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="52"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W świetle krocz, śmiele krocz,<br/>ludu Pański, w górny kraj!<br/>Zapal wszystkie lampy swoje,<br/>w pierwszej swej miłości trwaj,<br/>idź, gdzie płyną życia zdroje;<br/>patrz na wodza, z grzechem walkę tocz:<br/>W świetle krocz, śmiele krocz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie bój się, nie bój się,<br/>ludu Pański, krzyża nieść!<br/>W biedach, trwodze i w niesławie<br/>nie daj się od prawdy zwieść!<br/>Pan cię w nędzy nie zostawi,<br/>a choć myślisz, że odwłaczać chce,<br/>nie bój się, nie bój się.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zawsze czuj, zawsze czuj,<br/>ludu Pański, czujnym bądź!<br/>Wróg cię z różnej nęci strony,<br/>by nad tobą górę wziąć!<br/>Wzrok na Pana miej zwrócony<br/>i na prostej drodze tylko stój,<br/>zawsze czuj, zawsze czuj!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Trzeba sił, nowych sił,<br/>ludu Pański, w każdy dzień.<br/>Z Boga czerp wciąż nowe siły,<br/>zdroje życia płyną zeń,<br/>by też ciebie odnowiły, byś w miłości,<br/>nie w obłudzie żył, trzeba sił, nowych sił!</lines>
+    </verse>
+  </lyrics>
+</song>

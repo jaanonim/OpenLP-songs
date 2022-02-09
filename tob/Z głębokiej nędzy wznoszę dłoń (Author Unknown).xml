@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:37">
+  <properties>
+    <titles>
+      <title>Z głębokiej nędzy wznoszę dłoń</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="151"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z głębokiej nędzy wznoszę dłoń i wołam Ciebie Panie!<br/>Łaskawie ucho ku mnie skłoń, wysłuchaj me błaganie!<br/>Bo jeśli chcesz nasz każdy błąd pod sprawiedliwy poddać sąd,<br/>któżby się ostał, Boże?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jedynie łaska może Twa me grzechy ciężkie zmazać;<br/>uczynkiem dobrym wola zła rie może się wykazać.<br/>Cóż jest przed Tobą chluba mą? Przed Tobą grzeszni wszyscy drżą<br/>i żyją z łaski Twojej.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nadzieję w Bogu tylko mam, nie liczę na zasługi,<br/>w tej też pewności trwam, że zgładzi moje długi;<br/>Tę obietnicę w słowie dał, ten grunt mocniejszy jest od skał,<br/>na nim się oprę silnie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Choć ucisk się przeciąga w noc, aż do białego rana,<br/>nie zwątpię nigdy w Bożą moc, ustąpi myśl stroskana,<br/>tak czyni prawy Boży lud. co idzie w obiecany gród<br/>i ufa Bogu swemu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Choć wielkie grzechy większy Pan, a Jego łaskę mamy;<br/>przyłoży do najgłębszych ran gojące Swe balsamy.<br/>On jest prawdziwy pasterz nasz, powiedzie do niebieskich pasz<br/>i zbawi lud wybrany.</lines>
+    </verse>
+  </lyrics>
+</song>

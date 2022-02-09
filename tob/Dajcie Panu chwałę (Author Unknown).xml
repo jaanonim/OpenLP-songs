@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:17">
+  <properties>
+    <titles>
+      <title>Dajcie Panu chwałę</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="11"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dajcie Panu chwałę,<br/>Dajcie Panu chwałę,<br/>Bo nas wykupił świętą krwią!<br/>O, dajcie Panu chwałę!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dajcie Panu chwałę,<br/>Dajcie Panu chwałę,<br/>Duchem nas chrzci i ogniem Swym.<br/>O, dajcie Panu chwałę!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dajcie Panu chwałę,<br/>Dajcie Panu chwałę,<br/>Wysoko ceń, gdy cierpisz Zań!<br/>O, dajcie Panu chwałę!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dajcie Panu chwałę,<br/>Dajcie Panu chwałę,<br/>Przez ciemną noc ty wiarą idź!<br/>O, dajcie Panu chwałę!</lines>
+    </verse>
+  </lyrics>
+</song>

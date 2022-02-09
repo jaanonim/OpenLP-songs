@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:51">
+  <properties>
+    <titles>
+      <title>806 PIECHOTA</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie noszą lampasów lecz szary ich strój,<br/>Nie noszą ni srebra, ni złota,<br/>Lecz w pierwszym szeregu podąża na bój<br/>Piechota, ta szara piechota. x 2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Maszerują strzelcy, maszerują,<br/>Karabiny błyszczą, szary strój,<br/>A przed nimi drzewa salutują,<br/>Bo za naszą Polskę idą w bój! </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Idą, a w słońcu kołysze się stal,<br/>Dziewczęta zerkają zza płota,<br/>A oczy ich dumne utkwione są w dal,<br/>Piechota, ta szara piechota! x 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nie grają im surmy, nie huczy im róg,<br/>A śmierć im pod stopy się miota,<br/>Lecz w pierwszym szeregu podąża na bój<br/>Piechota, ta szara piechota. x 2 </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:54">
+  <properties>
+    <titles>
+      <title>Ciągle niezdecydowany</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="702"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ciągle niezdecydowany<br/>Jezusowi oddać się.<br/>Świata wiążą cię kajdany,<br/>Ciągle grzech twe barki gnie.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kiedyż Zbawcy oddasz się?<br/>Z grzechu Pan odkupił cię.<br/>Wolnym będziesz, tylko wierz,<br/>Swe zbawienie wiarą bierz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ty połowę serca swego<br/>Jezusowi oddać chcesz,<br/>A połową życia twego<br/>Temu światu służyć chcesz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Całe serce Jezus żąda,<br/>Całe twoje życie chce<br/>- W marny świat już nie spoglądaj,<br/>W zgubę zaprowadzi cię!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pytasz się, czy dosyć siły<br/>Kroczyć za Nim będziesz miał?<br/>Jezus wspiera, bracie miły,<br/>To wybranych Jego dział!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nie połowę, Jezu drogi,<br/>Całe serce składam Ci<br/>Wesprzyj moje chwiejne nogi,<br/>Sam rozpraszaj zwątpień mgły!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Dziś oddaję serce me<br/>Całe serce oddać chcę.<br/>Wolnym jestem, Jezu mój,<br/>Przez Twój krzyż i śmierci znój!</lines>
+    </verse>
+  </lyrics>
+</song>

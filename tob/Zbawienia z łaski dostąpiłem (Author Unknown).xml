@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:38">
+  <properties>
+    <titles>
+      <title>Zbawienia z łaski dostąpiłem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="164"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zbawienia z łaski dostąpiłem,<br/>czy, wierzysz w to, o, serce, mów!<br/>Dlaczegóż nie przestajesz wątpić,<br/>gdy prawdą księga Bożych słów?<br/>Więc prawda to, nie żaden kłam,<br/>Bóg z łaski rozwarł niebo nam.<br/>Bóg z łaski rozwarł niebo nam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy z łaski milcz o swej godności<br/>i nie wspominaj własnych cnót.<br/>Bóg, co się ciałem stał z miłości,<br/>jest drogą nam do nieba wrót.<br/>Przez śmierć zbawienie zjednał<br/>Pan, więc łaska płynie z Jego ran,<br/>więc łaska płynie z Jego ran.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To słowo "z łaski" dla sumienia<br/>balsamem jest, gdy serce twe<br/>zapragnie grzechów odpuszczenia<br/>i z bólem wspomni winy swe.<br/>Któż zgłębi tajnie Bożych dróg,<br/>że z łaski świat ten zbawia Bóg!<br/>Że z łaski świat ten zbawia Bóg!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tak, z łaski mnie zatrwożonemu<br/>otwiera serce wielki Bóg,<br/>gdy zbraknie sił mnie wątpiącemu,<br/>wśród walki, trosk i ziemskich trwóg.<br/>Podpory trwalszej nie znam ja,<br/>nad łaskę, która wiecznie trwa.<br/>Nad łaskę, która wiecznie trwa.</lines>
+    </verse>
+  </lyrics>
+</song>

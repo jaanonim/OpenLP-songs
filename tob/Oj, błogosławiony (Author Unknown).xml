@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:33">
+  <properties>
+    <titles>
+      <title>Oj, błogosławiony</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="318"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oj, błogosławiony,<br/>Komu tu z miłości<br/>Grzech jest odpuszczony,<br/>W marnej doczesności.<br/>Błogosławion wszelki,<br/>Czyja złość zakryta,<br/>A Bóg w łasce wielki,<br/>Win mu nie poczyta!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kiedym ja ukrywał,<br/>I swe taił złości,<br/>Zawszem smutny bywał,<br/>Drżały me wnętrzności;<br/>Kiedy w grzechu żyłem,<br/>Mając złe sumienie,<br/>Mocy się pozbyłem,<br/>Stracił pocieszenie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Przetóż umyśliłem,<br/>Grzechów nie ukrywać,<br/>Lecz gdy zawiniłem,<br/>Pańskiej łaski wzywać;<br/>Kiedy to się stało,<br/>Zgładził Pan me grzechy,<br/>Serce me doznało,<br/>Szczęścia i pociechy.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Za to będę Ciebie,<br/>Czcić z świętymi, Panie!<br/>Człowiek sam ze siebie,<br/>Tylko grzeszyć w stanie;<br/>Lecz gdy pokutuje,<br/>Z grzechu tu swojego,<br/>Łask dostępuje,<br/>Dobra największego.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Głośno zapląsajcie,<br/>Wszyscy sprawiedliwi,<br/>Bogu cześć oddajcie,<br/>Żeście tak szczęśliwi,<br/>Czyńcie Panu dzięki,<br/>Który błogosławi,<br/>Duch wasz niech na wieki,<br/>Dobroć Jego sławi</lines>
+    </verse>
+  </lyrics>
+</song>

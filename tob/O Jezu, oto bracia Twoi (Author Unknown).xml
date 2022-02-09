@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:50">
+  <properties>
+    <titles>
+      <title>O Jezu, oto bracia Twoi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="594"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Jezu, oto bracia Twoi,<br/>Winnicy Twej zielony szczep,<br/>Twa miłość niechże ich napoi<br/>- Dziś Twój pożywać pragną chleb.<br/>Pamiątkę Twoją pragną głosić,<br/>O Twoje wspomożenie prosić.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dziś przeto wszyscy Cię błagamy:<br/>Prawego ducha w sercach wzbudź<br/>I z dary Twymi zostań z nami,<br/>Bym bliskość Twoją mogli czuć;<br/>Bym się w nadziei upewnili<br/>I tak Wieczerzę obchodzili!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Więc ciągle pragną dusze nasze<br/>Przez Ciebie karmionymi być,<br/>Ty prowadź je na żyzne pasze,<br/>Swym chlebem je i winem syć,<br/>By nasze z Tobą się przymierze<br/>Wzmocniło, bym urośli w wierze!</lines>
+    </verse>
+  </lyrics>
+</song>

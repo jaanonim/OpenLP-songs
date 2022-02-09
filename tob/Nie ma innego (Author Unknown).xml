@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:09">
+  <properties>
+    <titles>
+      <title>Nie ma innego</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie ma innego jak Jezus<br/>Nie ma innego jak On<br/>Nie ma innego jak Jezus<br/>Nie ma innego jak On</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zaglądam wszędzie - nie ma, nie ma<br/>Szukam, szukam, ale nie ma, nie ma<br/>Krążę, krążę - nie ma, nie ma<br/>Nie ma innego jak On</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:42">
+  <properties>
+    <titles>
+      <title>Chcę kochać Ciebie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="243"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chcę kochać Ciebie, Boży Synu,<br/>chcę kochać Ciebie, siło ma,<br/>chcę kochać Ciebie mocą czynu,<br/>pragnieniem, które wiecznie trwa.<br/>Chcę kochać Ciebie, Panie mój,<br/>aż wyschnie życia zdrój.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ach, czemum poznał Cię tak późno,<br/>przecudna ma piękności Ty?<br/>I dotąd życiem tracił próżno,<br/>bez Ciebie Boski Skarbie cny;<br/>żem późno tak ukochał Cię,<br/>o, jakże smuci mię!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Błądziłem, bieżąc w różne strony,<br/>szukając, nie znalazłem Cię;<br/>od Ciebie byłem odwrócony<br/>i ukochałem blaski czcze.<br/>Przez Ciebie dzisiaj stało się,<br/>żem poznał światło Twe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dziękuję Ci, niebiańskie słońce,<br/>że Twój mię opromienił blask,<br/>i że w światłości Twojej gońce,<br/>przyniosły mi zbawienia brzask.<br/>Dziękuję, złote wargi, wam,<br/>że radość w sercu mam.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ach, prowadź mię po Swojej drodze,<br/>bym odtąd już nie błądził sam;<br/>nie dozwól zachwiać się mej nodze i pokaż,<br/>gdzie się zwrócić mam.<br/>Poświęcić ciało, duszę chciej,<br/>zdrój łaski na mnie zlej.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Chcę kochać Ciebie, ma Korono! Mój Boże,<br/>Ciebie kochać chcę nie za nagrodę przyrzeczoną,<br/>choć ciężki znój pochyli mię; Chcę kochać Ciebie,<br/>Panie mój, aż wyschnie życia zdrój.</lines>
+    </verse>
+  </lyrics>
+</song>

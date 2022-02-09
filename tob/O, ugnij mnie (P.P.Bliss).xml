@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:35">
+  <properties>
+    <titles>
+      <title>O, ugnij mnie</title>
+    </titles>
+    <authors>
+      <author type="words">P.P.Bliss</author>
+      <author type="music">P.P.Bliss</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="351"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, ugnij mnie jak zboża łan<br/>Poranku wiewem Panie gniesz.<br/>Tak tchnieniem ducha Swego<br/>Mnie w pokorze święte pochyl też.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A jeśli krnąbrne serce me,<br/>Nie podda się gdy działa Duch.<br/>Zastępów Panie w mocy przyjdź.<br/>Co pyszne zniszcz i rozbij w puch.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jak fala morska w czasie burz<br/>Rozpryska się na same skry.<br/>I mnie przed Tobą ugnij skrusz<br/>A potem pobłogosław mi</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, ugnij mnie, jak biegiem wód<br/>Kieruje mądrze wyrok Twój,<br/>Tak w suszę serca mego racz<br/>Skierować łask ożywczy zdrój!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jak się pod ogrodnika dłoń<br/>Latorośl winna łatwo gnie,<br/>Tak ja ochotnie wolę mą<br/>Pod Twoją wolę poddać chcę.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O, ugnij mnie i z gliny tej,<br/>Tak na nic nie przydatnej Ci,<br/>Naczynie użyteczne stwórz,<br/>Co Cię w pokorze zawsze czci.</lines>
+    </verse>
+  </lyrics>
+</song>

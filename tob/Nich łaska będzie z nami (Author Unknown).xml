@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:50">
+  <properties>
+    <titles>
+      <title>Nich łaska będzie z nami</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="399"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nich łaska będzie z nami, niech wszystkim będzie<br/>dań zdrój łaski, przezeń bramy do nieba rozwarł Pan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na wąskiej jest ścieżynie, niepewny każdy krok,<br/>lecz żaden z nas nie zginie, gdy jest nam łaskaw Bóg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nikt tego nie żałuje, kto się na łaskę zda,<br/>Pan wiernych poratuje, oświeci blaskiem dnia.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>U Pana, w służbie Jego bolesnych nie ma strat,<br/>gdyż łaska Przedwiecznego wciąż ubogaca świat.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Już wierni zwyciężyli z pomocą Pańskiej krwi,<br/>co w najczarniejszej chwili cudami mocy lśni.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Wołamy zawsze, Panie, do Twoich niebios bram:<br/>Niech łaska Twa zostanie na wieczną własność nam!</lines>
+    </verse>
+  </lyrics>
+</song>

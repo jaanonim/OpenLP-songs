@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:18">
+  <properties>
+    <titles>
+      <title>Uwielbiam miłość niepojętą</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="22"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uwielbiam miłość niepojętą,<br/>Co w Zbawcy mym objawia się;<br/>Uniżam się przed mocą świętą,<br/>Co z prochu wydźwignęła mię.<br/>Już nie chcę żyć dla siebie dłużej;<br/>W Tobie, Miłości, się zanurzę!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O jak się mile ku mnie skłania,<br/>Jak mnie pożąda serce Twe!<br/>Potędze Twego zmiłowania<br/>Nie mogę już opierać się.<br/>O Ty, Miłości doskonała,<br/>Jam Ciebie, a Tyś mnie obrała.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jedynie w Tobie me zbawienie,<br/>Dla Ciebie tylko mam ja żyć;<br/>Więc nie Twe dary, Twe stworzenie<br/>- Ty Sam mym celem musisz być.<br/>Tyś odpocznieniem, Tyś rozkoszą,<br/>Pragnę więc Ciebie sercem, duszą!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pod jarzmem żyłem, choć kochałem,<br/>Bom sobie, a bez Ciebie żył;<br/>Choć długo Ciebie mieć nie chciałem,<br/>Tyś jednak kochał, bliskim był.<br/>O, gdyby Cię grzesznicy znali,<br/>Zapewne by Cię pokochali.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Na wieki Twym me serce, życie,<br/>O Zbawco drogi, skarbie mój!<br/>Tyś za mnie duszę wydał przecie,<br/>Za mnie stoczyłeś krwawy bój.<br/>Lekarzu mojej ciężkiej rany,<br/>Jam wiecznie w sercu Ci oddany!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O, niech Twe imię już na wieki<br/>Zostanie w głębi duszy mej;<br/>Twa słodka miłość niech napełni<br/>Me serce, umysł z łaski Twej.<br/>W mym słowie, czynie i istocie<br/>Niech Jezus lśni się w Swej prostocie.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>W imieniu drogim „Jezus" stoi<br/>Otwarte serce Ojca nam;<br/>Miłością i pokojem koi<br/>Ten prawy zdrój radości sam.<br/>O, gdyby to grzesznicy znali,<br/>To by Cię prędko pokochali,</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Niech cześć Ci odda świat szeroki,<br/>Że leczą zawsze grzechu trąd<br/>Płynące z Ciebie wód potoki;<br/>Rzesze zbawionych piją stąd,<br/>Gdy swe przed Tobą gną kolana<br/>I wielbią wiecznie swego Pana.</lines>
+    </verse>
+  </lyrics>
+</song>

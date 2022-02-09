@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:46">
+  <properties>
+    <titles>
+      <title>Z tej biednej ziemi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="304"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z tej biednej ziemi, z tej łez doliny,<br/>tęskny się w niebo unosi dźwięk.<br/>O, Boży Synu, Zbawco jedyny,<br/>wysłuchaj grzesznych serc naszych jęk.<br/>Nie chciej odrzucać modlitwy tej,<br/>bo Twej litości błagamy w niej.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, Boży Synu, ucieczko nasza,<br/>zmiłuj się, zmiłuj i lud nasz zbaw!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ku Tobie oczy zalane łzami,<br/>z wielką ufnością zwrócone są;<br/>Ty się zlitujesz pewnie nad nami,<br/>bo Ty nie gardzisz pokuty łzą.<br/>Ku Tobie ślemy błagalny głos,<br/>ach! odwróć od nas karania cios.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>O, Boży Synu, ucieczko nasza,<br/>zmiłuj się, zmiłuj i lud nasz zbaw!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To prawda, Panie żeśmy zgrzeszyli,<br/>żeśmy Ci wiele zadali ran,<br/>żeśmy na litość nie zasłużyli,<br/>aleś Ty dobry Ojciec i Pan.<br/>Tyś za nas wylał najdroższą krew,<br/>obmyj nią, obmyj nasz straszny grzech.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>O, Boży Synu, ucieczko nasza,<br/>zmiłuj się, zmiłuj i lud nasz zbaw!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Z Ciebie, o, Jezu, króla naszego,<br/>świeci nam słodkich nadziei blask,<br/>Ty nie odrzucisz ludu Twojego,<br/>Tyś niezgłębioną skarbnicą łask.<br/>A naszą nędzę tak dobrze znasz,<br/>my bardzo biedni, o, Panie nasz!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>O, Boży Synu, ucieczko nasza,<br/>zmiłuj się, zmiłuj i lud nasz zbaw!</lines>
+    </verse>
+  </lyrics>
+</song>

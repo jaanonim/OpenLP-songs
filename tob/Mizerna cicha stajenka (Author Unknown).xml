@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:22">
+  <properties>
+    <titles>
+      <title>Mizerna cicha stajenka</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="1016"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mizerna, cicha, stajenka licha,<br/>Pełna niebieskiej chwały.<br/>Oto leżący, przed nami śpiący<br/>W promieniach Jezus mały.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nad nim anieli w locie stanęli<br/>I pochyleni klęczą<br/>Z włosy złotymi, z skrzydła białymi,<br/>Pod malowaną tęczą.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I oto mnodzy, ludzie ubodzy<br/>Radzi oglądać Pana,<br/>Pełni natchnienia, pełni zdziwienia<br/>Upadli na kolana.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Długo wzdychali, długo czekali,<br/>Aż niebo rozgorzało,<br/>Piekło zawarte, niebo otwarte,<br/>Słowo się Ciałem stało.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hej ludzie prości Bóg z wami gości<br/>skończony czas niewoli.<br/>On daje siebie chwała na Niebie<br/>Mir ludziom dobrej woli.</lines>
+    </verse>
+  </lyrics>
+</song>

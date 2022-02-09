@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:27">
+  <properties>
+    <titles>
+      <title>Wybrać mi radzono skarb</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="221"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wybrać mi radzono skarb,<br/>Wybrać zacne mienie,<br/>Które przewyższyłoby<br/>Wszystkie światy w cenie.<br/>Jezus - skarb najmilszy ten,<br/>Droższy od najwyższych cen.<br/>W Nim jest sława, w Nim jest krasa,<br/>W Nim też mam podporę, Jego ja wybiorę.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Znaleźć takie imię mam,<br/>Które by swą chwałą<br/>Nawet rajskich śpiewów ton<br/>Chlubnie przewyższało,<br/>Jedno imię, jedno znam,<br/>W nim ja błogość wszystką mam:<br/>Imię Jezus, Jezus, Jezus;<br/>Drogie,najzacniejsze,<br/>Dla mnie najwdzięczniejsze,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Znaleźć takie serce mam,<br/>Serce wierne stale,<br/>Do którego zdrady cień<br/>Nie przystąpi wcale.<br/>O, znam jedno, jedno znam,<br/>W Jego łasce udział mam;<br/>Kocha w szczęściu i w niedoli,<br/>W śmierci mej godzinie<br/>Jezus mój jedynie</lines>
+    </verse>
+  </lyrics>
+</song>

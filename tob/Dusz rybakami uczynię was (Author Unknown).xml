@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:48">
+  <properties>
+    <titles>
+      <title>Dusz rybakami uczynię was</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="353"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dusz rybakami uczynię was,<br/>uczynię was, uczynię was,<br/>dusz rybakami uczynię was,<br/>/pójdźcie za Mną w ślad!/x3<br/>dusz rybakami uczynię was,<br/>pójdźcie za Mną w ślad!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pan żeńców szuka, gdy biały kłos,<br/>dojrzały kłos, dojrzały kłos,<br/>Pan żeńców szuka, gdy biały kłos,<br/>/"Idźcie" wzywa już./x3<br/>Pan żeńców szuka, gdy biały kłos,<br/>"Idźcie wzywa już.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zbłąkanym duszom pomoc swą nieś,<br/>pomoc swą nieś, pomoc swą nieś!<br/>Zbłąkanym duszom pomoc swą nieś,<br/>/z Ewangelią śpiesz./x3<br/>zbłąkanym duszom pomoc swą nieś,<br/>z Ewanelią śpiesz!</lines>
+    </verse>
+  </lyrics>
+</song>

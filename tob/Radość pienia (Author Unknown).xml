@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:53">
+  <properties>
+    <titles>
+      <title>Radość pienia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="449"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Radość pienia, dziękczynienia!<br/>Wszędzie wesołości dział!<br/>Biją dzwony, świętych tony głoszą:<br/>Pan nasz zmartwychwstał.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pięknie, głośno rozbrzmiewajcie dzwony!<br/>Dzieci Boże, pieśni waszych tony niech<br/>brzmią i wznoszą śpiew do niebios stref!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Radość, pienia, dziękczynienia<br/>jakże tam w Syjonie brzmią!<br/>Wróg się kryje! Zmarły żyje!<br/>Mocą Bożą groby drżą!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Pięknie, głośno rozbrzmiewajcie dzwony!<br/>Dzieci Boże, pieśni waszych tony niech<br/>brzmią i wznoszą śpiew do niebios stref!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tchnienie wiosny! Czas radosny!<br/>I cudowny Ducha wiew!<br/>Jezus żyje! Serce bije,<br/>bo z Nim nowy życia siew!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Pięknie, głośno rozbrzmiewajcie dzwony!<br/>Dzieci Boże, pieśni waszych tony niech<br/>brzmią i wznoszą śpiew do niebios stref!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Niebios dzwony w wyższe<br/>strony powołują z ziemi nas.<br/>W dom ojcowski Poseł Boski<br/>Jezus woła: „Chodźcie wraz!"</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Pięknie, głośno rozbrzmiewajcie dzwony!<br/>Dzieci Boże, pieśni waszych tony niech<br/>brzmią i wznoszą śpiew do niebios stref!</lines>
+    </verse>
+  </lyrics>
+</song>

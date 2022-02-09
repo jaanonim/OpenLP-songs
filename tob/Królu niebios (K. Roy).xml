@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:18">
+  <properties>
+    <titles>
+      <title>Królu niebios</title>
+    </titles>
+    <authors>
+      <author type="words">K. Roy</author>
+      <author type="music">K. Roy</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="16"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Królu niebios, któż imienia<br/>Twego zgłębi treść?<br/>Któż wspaniałe światów gmachy,<br/>Któż Ci pomógł wznieść?<br/>Tylko w łaski Twej osłonie<br/>Żywy zostać śmiem.<br/>Światy wstały, światy runą<br/>Za skinieniem Twym.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O nasz Panie ukochany,<br/>Któż Cię pojmie, któż?<br/>Tyś nad głębią stał potopu<br/>W blasku krwawych zórz.<br/>Niebo jeszcze raz poruszysz,<br/>Wstrząśniesz ziemi grunt.<br/>Zgładzi wszystkich obłudników<br/>Sprawiedliwy sąd.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Królu chwały, choć tak wielka<br/>Twojej ręki moc,<br/>Jednak hańbę przecierpiałeś,<br/>Zszedłeś w śmierci noc.<br/>Grzeszny świat Cię w dziatkach Twoich<br/>Jeszcze trapi zły;<br/>Wszystko masz, a miejsca w świecie<br/>Nie znalazłbyś Ty.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, nasz Królu wywyższony,<br/>Przyjm wdzięczności ślub!<br/>Wszyscy serca przynosimy<br/>Do Twych świętych stóp.<br/>Służyć Ci, umierać z Tobą,<br/>To nasz ziemski dział,<br/>Potem w niebie z Tobą władać<br/>Pośród wiecznych chwał!</lines>
+    </verse>
+  </lyrics>
+</song>

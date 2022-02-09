@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:26">
+  <properties>
+    <titles>
+      <title>Ojcze Niebieski</title>
+    </titles>
+    <authors>
+      <author type="words">Gabriela Wanke Józef Kozłowski</author>
+      <author type="music">Gabriela Wanke Józef Kozłowski</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="479"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ojcze Niebieski który wszystko możesz,<br/>Zbaw nas ode złego.<br/>Uwolnij od jego wpływu ludzi i miejsca,<br/>Wśród których przyszło nam żyć.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nade wszystko<br/>Strzeż mego serca!<br/>Strzeż mego serca Panie!<br/>Strzeż mego serca!<br/>O Panie, serca mego strzeż // x2 //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wielbię Cię Panie, bo mnie wybawiłeś<br/>Moc swą okazałeś.<br/>Życie me ocaliłeś, błogosławię Cię.<br/>Na zawsze chcę w Tobie trwać!<br/>Ty zaś strzeż ...</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:36">
+  <properties>
+    <titles>
+      <title>Przed Tobą, Panie, nic</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="356"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przed Tobą, Panie, nic<br/>Nie jestem ukryć w stanie;<br/>Ty znasz mój każdy czyn<br/>I każde poczynanie.<br/>Cokolwiek w myśli mam,<br/>Lub o czym myśleć chcę,<br/>Ty pierwej jeszcze wiesz,<br/>Nim myśl zrodziła się.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czyż mogę uciec gdzie<br/>Przed Twoim Boskim okiem?<br/>Czyż mogę schronić się<br/>Przed Twoim bystrym wzrokiem?<br/>Gdy w grobie skryję się,<br/>I tam znajdujesz mię;<br/>Do nieba wstąpić chcę,<br/>I tam spotykam Cię.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chociażbym nawet mógł<br/>Pożyczyć skrzydeł zorzy,<br/>W najgłębszej toni mórz<br/>Spostrzeże mię wzrok Boży.<br/>Dosięgniesz wszędzie mnie<br/>Ramieniem silnym Swym,<br/>Boś w każdym miejscu jest,<br/>Boś Panem wód i ziem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Chociażbym skryć się chciał<br/>W podziemia lochy ciemne,<br/>I wtedy byłyby<br/>Me trudy nadaremne:<br/>Ciemności gęsta mgła,<br/>Najgłębszej nocy cień<br/>Przed blaskiem twarzy Twej<br/>Jaśnieje jako dzień.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wyszpieguj, Boże, mnie,<br/>A poznaj serce moje;<br/>O Boże, doświadcz mnie<br/>I poznaj myśli moje!<br/>Racz mnie po wszystek czas<br/>W opiece Swojej mieć,<br/>Od złego serce chroń<br/>I wieczną drogą wiedź!</lines>
+    </verse>
+  </lyrics>
+</song>

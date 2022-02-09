@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:25">
+  <properties>
+    <titles>
+      <title>Święty - Klękamy u Twych stóp</title>
+    </titles>
+    <authors>
+      <author type="words">Piotr Nazaruk na podst. Ps. 99</author>
+      <author type="music">Piotr Nazaruk na podst. Ps. 99</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="616"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wielkie i groźne jest Imię Twoje ziemia drży (ziemia drży)<br/>Kiedy zasiadasz na Swoim Tronie (jesteś Królem, wielkim Królem)<br/>Jakże potężny jak sprawiedliwy jesteś Ty (jesteś Ty)<br/>Królu wszechświata bądź wywyższony.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesteś Święty, Święty, Święty.<br/>Klękamy u Twych stóp.<br/>Jesteś Święty, Święty,  Święty,<br/>Nasz Bóg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesteś Królem<br/>Wielkim Królem<br/>Klęka Niebo<br/>Ziemia drży<br/>Oddajemy  pokłon Tobie<br/>Święty, Święty, Święty</lines>
+    </verse>
+  </lyrics>
+</song>

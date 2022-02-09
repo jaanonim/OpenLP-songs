@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:03">
+  <properties>
+    <titles>
+      <title>Wspominam te chwile gdy byłem dzieciną</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="849"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wspominam te chwile gdy byłem dzieciną,<br/>Gdy żyłem przy matce - u boku. wciąż jej,<br/>Jak sen odleciały szczęśliwe godziny,<br/>Lecz, ach, nie zapomnę mateczki już mej!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja widzę jej czoło troskami pokryte,<br/>Jej ręce tak dzielnie spełniają swój trud.<br/>I serce miłością niezmierną spowite...<br/>Ach matko kochana, prawdziwy to cud.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cóż dam ci mateczko, za twe poświęcenia?<br/>Daleko od ciebie oddzielił mię świat,<br/>Niech wiatry zaniosą ci me pozdrowienia,<br/>I serce biednego najdroższy mój kwiat.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ja wierzę, że przyjdzie radosna godzina,<br/>Połączy na zawsze nas wielki Bóg, Król,<br/>Wiernego zobaczysz, mateczko, znów syna,<br/>Pan w niebie ukoi na wieki nasz ból.</lines>
+    </verse>
+  </lyrics>
+</song>

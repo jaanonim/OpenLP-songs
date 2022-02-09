@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:47">
+  <properties>
+    <titles>
+      <title>W dalekich krajach widzę ja miliony</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="340"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W dalekich krajach widzę ja miliony,<br/>które pogaństwa ciemna kryje noc.<br/>Któż z Ewangelią pójdzie w tamte strony,<br/>któż pójdzie z wiarą w Jezusową moc?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mnie dana w niebie wszelka moc!<br/>Mnie dana w niebie wszelka moc!<br/>Idźcie więc na cały świat z,<br/>poselstwem łaski,<br/>Ja z wami jestem do końca.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O słudzy Pańscy, z wszystkich ziemi krańców,<br/>dziś wam otworem stoi cały świat,<br/>nieprzyjacielskich nie mijajcie szańców,<br/>by wreszcie z grzesznych ciężki łańcuch spadł.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Mnie dana w niebie wszelka moc!<br/>Mnie dana w niebie wszelka moc!<br/>Idźcie więc na cały świat z,<br/>poselstwem łaski,<br/>Ja z wami jestem do końca.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>„Czy chcecie zginąć?" Tak się Bóg odzywa,<br/>w imieniu Jego tę roznoście wieść!<br/>Zbawiciel umarł, śmierci moc wyrywa,<br/>On wszystkie serca z sobą musi spleść.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Mnie dana w niebie wszelka moc!<br/>Mnie dana w niebie wszelka moc!<br/>Idźcie więc na cały świat z,<br/>poselstwem łaski,<br/>Ja z wami jestem do końca.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O dniu radosny, tęsknie cię czekamy,<br/>gdy Panu cześć przyniesie każdy lud,<br/>gdy z wybranymi wdzięcznie zaśpiewamy;<br/>„Pan nasz króluje!" O cóż to za cud!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Mnie dana w niebie wszelka moc!<br/>Mnie dana w niebie wszelka moc!<br/>Idźcie więc na cały świat z,<br/>poselstwem łaski,<br/>Ja z wami jestem do końca.</lines>
+    </verse>
+  </lyrics>
+</song>

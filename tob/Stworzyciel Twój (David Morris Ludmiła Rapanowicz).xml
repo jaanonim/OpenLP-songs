@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:30">
+  <properties>
+    <titles>
+      <title>Stworzyciel Twój</title>
+    </titles>
+    <authors>
+      <author type="words">David Morris Ludmiła Rapanowicz</author>
+      <author type="music">David Morris Ludmiła Rapanowicz</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="587"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Stworzyciel twój Królem królów jest,<br/>wszechmocny, wszechmocny. // x2<br/>Potężny Pan, sprawiedliwy Bóg<br/>w miłości Swej dla nas na ziemię zszedł.<br/>Od wieków jest i na wieki trwa,<br/>Król królów, Pan panów, Amen. //</lines>
+    </verse>
+  </lyrics>
+</song>

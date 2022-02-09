@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:41">
+  <properties>
+    <titles>
+      <title>Za Mną! Tak woła Chrystus Pan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="237"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Za Mną! Tak woła Chrystus Pan, za Mną o hufce Moje!<br/>Dźwigajcie krzyż porzućcie świat, obleczcie wiary zbroję!<br/>Słuchajcie Mnie i pójdźcie wraz za Mną,<br/>gdy wszystkich wołam was.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pokorne serce Moje jest, miłością dla was płonie,<br/>usiy Swoimi wołam was, wyciągam do was dłonie.<br/>Najlepszą was powiodę z dróg do celu, którym jest sam Bóg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kto duszę swą zachować chce, ten ją beze Mnie straci,<br/>a kto by w walce stratę miał, ten w Bogu się wzbogaci.<br/>Zły sługa, który waha się, gdy wołam go; nie godzien Mnie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Za Panem naszym pójdźmy więc, swe serca Mu oddajmy,<br/>nie trwóżmy się, a w dali złej odważnie przy Nim trwajmy,<br/>bo kto przy Panu wiernie trwa, On temu wieniec życia da.</lines>
+    </verse>
+  </lyrics>
+</song>

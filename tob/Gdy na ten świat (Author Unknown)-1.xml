@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:18">
+  <properties>
+    <titles>
+      <title>Gdy na ten świat</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="15"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy na ten świat spoglądam wielki Boże,<br/>Coś stworzył go wszechmocnym słowem Swym,<br/>A kiedy znów na te narody spojrzę,<br/>Którymi Ty wciąż opiekujesz się,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Me serce w uwielbieniu śpiewa Ci:<br/>Jak wielkimś Ty, jak wielkimś Ty! /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy wznoszę wzrok<br/>ku jasnym światłom w górze<br/>I widzę gwiazd niepoliczonych rój,<br/>Jak słońce tam i księżyc w swojej porze<br/>Spokojnie bieg wciąż odbywają swój,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy z słowem Swym stanąłeś na mej drodze,<br/>O Panie mój, gdym ujrzał łaskę Twą,<br/>Co zmyła grzech, co cieszy w życia trwodze,<br/>Co w mych słabościach pomoc daje swą,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy widzę znów,<br/>jak grzesznych wielka rzesza,<br/>Zamiast Cię czcić, Twe imię święte lży,<br/>A mimo to Twa łaska się nie zmniejsza,<br/>Owszem ich znosisz w cierpliwości Swej,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gdy życia mię przytłacza ciężkie brzemię,<br/>Gdy jest na śmierć zraniona dusza ma;<br/>Ojcowska Twoja dłoń, gdy ciężar zdejmie,<br/>Pomoże nieść, co się nieznośnym zda,</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Gdy, Panie mój, odwołasz mię ze świata,<br/>Gdy olśni mię Twej chwały wiecznej blask,<br/>Gdy dana będzie mi czystości szata<br/>I Ciebie ujrzę, Jezu, Królu łask,<br/>/ Me serce wtedy hymn zaśpiewa Ci:<br/>Jak wielkimś Ty, jak wielkimś Ty! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

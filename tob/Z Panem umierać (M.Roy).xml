@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:45">
+  <properties>
+    <titles>
+      <title>Z Panem umierać</title>
+    </titles>
+    <authors>
+      <author type="words">M.Roy</author>
+      <author type="music">M.Roy</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="495"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z Panem umierać, dla Niego żyć.<br/>Może większego coś nad to być?<br/>Warto dlań cierpieć, warto bojować.<br/>Warto dla Niego cały świat zbyć.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Móc żyć dla Pana, zwyciężyć mdłość.<br/>Wziąć hańbę na się i krzyż i złość.<br/>W niebo tak wstąpić i wziąć od Boga<br/>Chwały koronę- czy to nie dość?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Móc żyć dla Pana póki trwa dzień<br/>I gdy już śmierci zbliży się cień.<br/>Ciągle Mu służyć i nie oziębnąć.<br/>Pan Ci to zdarzy, wierz tylko Weń!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:13">
+  <properties>
+    <titles>
+      <title>Wśród tylu trosk</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wśród tylu trosk mieć marzeń czas<br/>A kłamstwem nie plamić swoich ust</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Po prostu z Jezusem żyć<br/>Zwyczajnie bez wielkich słów<br/>Każdy dzień powierzać Mu<br/>Stale przy Nim być</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miłość do ludzi czerpać zeń<br/>Dobrocią koić wszelki ból</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szczęściem radosnych cieszyć się<br/>A krzywdą smutnych przejąć się</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mocno uścisnąć bratnią dłoń<br/>Każdemu w oczy spojrzeć moc</lines>
+    </verse>
+  </lyrics>
+</song>

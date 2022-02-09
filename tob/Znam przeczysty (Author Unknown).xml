@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:31">
+  <properties>
+    <titles>
+      <title>Znam przeczysty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="28"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Znam przeczysty i wspaniały<br/>szczęśliwości wiecznej zdrój.<br/>W nim wyleczy się schorzały;<br/>chceszli znać Go, bracie mój?<br/>On z Bożego tronu spływa,<br/>zwilża ziemię, krzepi świat;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>bez tej rosy się pozbywa<br/>szczęśliwości wszelkiej kwiat.<br/>Zdrojem czystym<br/>i wspaniałym Słowo Boże jest,<br/>to wiem;<br/>gdy się duchem w nim zagłębię,<br/>radość wieczną znajdę w nim</lines>
+    </verse>
+  </lyrics>
+</song>

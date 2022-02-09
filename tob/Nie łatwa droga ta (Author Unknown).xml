@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:34">
+  <properties>
+    <titles>
+      <title>Nie łatwa droga ta</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="21"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niełatwa droga ta, co prowadzi do nieba,<br/>I ciernie nieraz ranią do krwi,<br/>Niełatwa droga ta, ale Jezus jest ze mną,<br/>z Nim nawet w nocy słońce mi lśni.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Nie, nie, niełatwa droga ta. /2x<br/>Lecz śmiało kroczę na przód,<br/>Bo Jezus jest ze mną,<br/>On dobrze moją drogę zna.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niełatwa droga ta, pełna głazów, wyboi,<br/>I wiele niebezpieczeństw i prób,<br/>Lecz Jezusowa dłoń, mię uchroni od złego,<br/>Usunie wszelki głaz spod mych nóg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Choć bolą nogi me, często nuży pielgrzymka,<br/>Choć ciąży brzemię zmartwień i łez.<br/>Wytrwale kroczę wciąż do niebieskiej ojczyzny,<br/>Tam przyjdzie wszystkim troskom mym kres.</lines>
+    </verse>
+  </lyrics>
+</song>

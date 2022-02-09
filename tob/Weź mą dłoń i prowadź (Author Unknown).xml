@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:15">
+  <properties>
+    <titles>
+      <title>Weź mą dłoń i prowadź</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="266"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Weź mą dłoń i prowadź mnie.<br/>Chcę chodzić tam, gdzie Duch Twój<br/>Będzie mnie wiódł.<br/>Oczyść z grzechów serce me dziś,<br/>Bym dzisiaj mógł usłyszeć cichy Twój głos.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cieszę się. że jestem Twój.<br/>Śpiewać chcę, bo radość mam!<br/>Niech mą pieśń usłyszy świat!<br/>Chcę dziś powiedzieć Tobie, że kocham Cię!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cieszę się, że jestem Twój.<br/>Śpiewać chcę, bo radość mam!<br/>Weź mą dłoń i prowadź mnie.<br/>Chcę chodzić tam, gdzie Duch Twój<br/>Będzie mnie wiódł.</lines>
+    </verse>
+  </lyrics>
+</song>

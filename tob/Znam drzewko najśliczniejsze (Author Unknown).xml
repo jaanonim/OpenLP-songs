@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:55">
+  <properties>
+    <titles>
+      <title>Znam drzewko najśliczniejsze</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="490"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Znam drzewko najśliczniejsze<br/>z drzew, co na tej ziemi rosną.<br/>Choć w polu wiatr śnieżysty<br/>dmie, kwiateczki jego błyszczą<br/>się i wszystkich darzą wiosną, i<br/>wszystkich darzą wiosną - tak wiosną!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy w tę przedziwną, cichą<br/>noc niebiosa zajaśniały,<br/>narodził się niebiański gość<br/>i rajską nam otworzył włość,<br/>a świat ocalał cały, a świat<br/>ocalał cały - świat cały.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dziś noc ponura pełna<br/>świec i pełno jest radości.<br/>I tobie też, dziecino ma,<br/>Pan Jezus chętnie wszystko da,<br/>On w sercu twym zagości,<br/>On w sercu twym zagości - zagości!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, wpuść Go, wpuść, to nie<br/>jest sen, On serce w ogród<br/>zmieni, zasadzi w nim cudowny<br/>szczep, co rodzi zawsze życia<br/>chleb i zawsze się zieleni, i<br/>zawsze się zieleni - zieleni!</lines>
+    </verse>
+  </lyrics>
+</song>

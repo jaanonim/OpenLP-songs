@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:54">
+  <properties>
+    <titles>
+      <title>Cudną nowinę zwiastował nam Bóg</title>
+    </titles>
+    <authors>
+      <author type="words">I.S.Prochanow</author>
+      <author type="music">I.S.Prochanow</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="700"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cudną nowinę zwiastował nam Bóg,<br/>Wszyscy słuchajcież ją wraz;<br/>Bóg dla Chrystusa przebaczył nasz dług,<br/>Zbawił od zguby nas.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Zbawił od zguby i nas, /x2<br/>W Chrystusie na wieki<br/>Przebaczył nam Bóg,<br/>Zbawił od zguby i nas.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeśli obłuda minionych już dni<br/>Dręczy w sumienu i was,<br/>Niech w sercu wiara jak słońce lśni:<br/>„Zbawił od zguby Bóg nas!"</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy pod ciężarem trosk życia i mąk<br/>Nadzieli płomyk już zgasł,<br/>Nie ospuszczajcież zemdlonych swych rąk,<br/>Zbawił od zguby Bóg nas!</lines>
+    </verse>
+  </lyrics>
+</song>

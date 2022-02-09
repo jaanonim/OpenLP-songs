@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:34">
+  <properties>
+    <titles>
+      <title>Czemuż się mam tak smętny</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="328"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czemuż się mam tak smętny,<br/>tak opuszczony czuć?<br/>Czemuż mam z narzekaniem<br/>tęskne swe myśli snuć?<br/>/ Gdy wiem, że Jezus nigdy<br/>nie rzuci trzody Swej,<br/>Co myśli o wróbelkach,<br/>Ten nie zapomni mnie /x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wesoło sobie śpiewam, nie boję się już, nie!<br/>Co myśli o wróbelkach, Ten bardzo kocha mnie!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, nie daj się zatrwożyć,<br/>me dziecię, porzuć lęk!<br/>Takie jest słowo Pańskie;<br/>jak słodki jego dźwięk!<br/>/ Nie lękam się, choć widzę nie dalej,<br/>jak na krok,<br/>- Co myśli o wróbelkach,<br/>mnie by zapomnieć mógł? /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy zbliża się pokusa,<br/>oczy zroszone łzą,<br/>A wszystkie pieśni moje tak<br/>Jakoś smutnie brzmią;<br/>/ Pan tuli mnie do łona,<br/>ujmuje moją dłoń,<br/>Co myśli o wróbelkach,<br/>rozjaśni chmurną toń. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

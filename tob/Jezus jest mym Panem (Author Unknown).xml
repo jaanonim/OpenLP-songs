@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:07">
+  <properties>
+    <titles>
+      <title>Jezus jest mym Panem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus jest mym Panem<br/>Jezus znalazł mnie<br/>On mnie wyrwał z tego świata<br/>Bym mógł służyć Mu</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, o, o! Tak, tak , tak o Panie mój<br/>Dzięki, dzięki, dzięki Ci<br/>Tak, tak, tak o Panie mój<br/>Dzięki, dzięki, Ci</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On mi podał rękę<br/>I wybaczył to<br/>Co mnie wiodło na bezdroża<br/>I przepaści dno</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dzisiaj jestem sobą<br/>Czuję wolność Twą<br/>Służąc Panu całym sercem<br/>Wszędzie widzę Go</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Widzę piękno świata<br/>Czuję miłość Twą<br/>Którą Jezus mnie obdarza<br/>Widząc słabość mą</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Rozważ sobie teraz<br/>Rozważ w sercu swym<br/>Czy dla Ciebie Jezus Chrystus<br/>Przyjacielem jest.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>A jeżeli pragniesz<br/>Uwolnionym być<br/>Dołącz głos swój do mojego<br/>Śpiewaj ze mną tak</lines>
+    </verse>
+  </lyrics>
+</song>

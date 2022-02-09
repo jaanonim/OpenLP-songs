@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:55">
+  <properties>
+    <titles>
+      <title>Pan Jezus chce</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="502"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pan Jezus chce ze mnie zrobić<br/>złocisty promyk Swój, który każdemu<br/>przyświeca i spędza smutków rój.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dla Pana, dla Pana, świecić mam<br/>jako blask złoty, dla Pana, dla Pana<br/>słońca odblaskiem być chcę.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezus chce miłym uśmiechem ozdobić<br/>moją twarz; wciąż mnie ochrania przed<br/>grzechem Aniołów Jego straż.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Dla Pana, dla Pana, świecić mam<br/>jako blask złoty, dla Pana, dla Pana<br/>słońca odblaskiem być chcę.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bóg musi sam ze mnie świecić,<br/>ach, o to proszę Go, by każdy<br/>poznał od razu, że Jego dziecię to.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Dla Pana, dla Pana, świecić mam<br/>jako blask złoty, dla Pana, dla Pana<br/>słońca odblaskiem być chcę.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jako blask złoty Jezusa wśród mroku<br/>świecić chcę, aż Pan do wiecznej<br/>światłości do Siebie weźmie mię.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Dla Pana, dla Pana, świecić mam<br/>jako blask złoty, dla Pana, dla Pana<br/>słońca odblaskiem być chcę.</lines>
+    </verse>
+  </lyrics>
+</song>

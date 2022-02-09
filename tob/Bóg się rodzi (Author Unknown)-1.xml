@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:53">
+  <properties>
+    <titles>
+      <title>Bóg się rodzi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="680"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bóg się rodzi, moc truchleje,<br/>Pan niebiosów obnażony,<br/>Ogień krzepnie, blask ciemnieje,<br/>Ma granice Nieskończony.<br/>Wzgardzony - okryty chwałą,<br/>Śmiertelny - Król nad wiekami<br/>A Słowo Ciałem się stało<br/>I mieszkało między nami.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cóż masz, niebo, nad ziemiany?<br/>Bóg porzucił szczęście Swoje,<br/>Wszedł pomiędzy lud znękany,<br/>Dzieląc z nimi trud i znoje:<br/>Ach, wycierpiał On niemało,<br/>Żeśmy byli winni sami;<br/>A Słowo Ciałem się stało<br/>I mieszkało między nami.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>W nędzniej szopie urodzony,<br/>Żłób Mu za kolebkę dano;<br/>Cóż jest czym był otoczony?<br/>Bydło, pasterz i siano!<br/>Ubodzy was to spotkało,<br/>Witać go przed bogaczami,<br/>A Słowo Ciałem się stało<br/>I mieszkało między nami.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Potem i króle widziani<br/>Cisną się między prostotą,<br/>Niosąc dary Panu w dani:<br/>Mirrę, kadzidło i złoto;<br/>Bóstwo to razem zmieszało,<br/>Z wieśniaczymi ofiarami,<br/>A Słowo Ciałem się stało<br/>I mieszkało między nami.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Podnieść rękę, Synu Boży,<br/>Błogosław Ojczyznę miłą,<br/>W dobrych radach, w dobrym bycie,<br/>Wspieraj jej siłę Swą siłą,<br/>Dom nasz i majętność całą<br/>I Twoje wioski z miastami,<br/>A Słowo Ciałem się stało<br/>I mieszkało między nami.</lines>
+    </verse>
+  </lyrics>
+</song>

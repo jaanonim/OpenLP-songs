@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:33">
+  <properties>
+    <titles>
+      <title>Święty Duchu przyjdź</title>
+    </titles>
+    <authors>
+      <author type="words">Monika Wachowska</author>
+      <author type="music">Monika Wachowska</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="617"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Święty Duchu przyjdź<br/>I prowadź mnie tam gdzie Boży tron.<br/>Święty Duchu spraw<br/>niech z moich ust popłynie dziś<br/>uwielbienia pieśń.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wołam przyjdź i wypełnij mnie,<br/>niech wiatr Twój uświęci duszę mą.<br/>Wołam przyjdź i przenikaj mnie,<br/>Niech ogień Twój rozpali mnie,<br/>oczyszcza serce me.<br/>Wołam przyjdź!</lines>
+    </verse>
+  </lyrics>
+</song>

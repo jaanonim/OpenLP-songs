@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:55">
+  <properties>
+    <titles>
+      <title>Przyszedłem do Jezusa w nędzy mej</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="718"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przyszedłem do Jezusa w nędzy mej,<br/>On zgładził grzechy me,<br/>On zgładził grzechy me<br/>Oczyścił mnie i kres położył jej;<br/>On zgładził grzechy me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>On zgładzi grzechy twe,<br/>On zgładzi grzechy twe,<br/>On co dzień w szczęściu wieść cię chce.<br/>Jemu wierz i otwórz serce swe,<br/>On zgładzi grzechy twe</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mnie ciężar win przytłaczał wciąż i gniótł;<br/>On zgładził grzechy me,<br/>On zgładził grzechy me,<br/>A teraz Nań zdam troski swe i trud,<br/>On zgładził grzechy me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Już potępienie, sąd nie trwoży mnie,<br/>On zgładził grzechy me<br/>On zgładził grzechy me;<br/>Swój cudny pokój w serce moje śle<br/>On zgładził grzechy me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, gdybyś dziś chciał życie oddać Mu<br/>On zgładzi grzechy twe,<br/>On zgładzi grzechy twe!<br/>W miłości Swej ci błogość w serce tchnie<br/>On zgładzi grzechy twe!</lines>
+    </verse>
+  </lyrics>
+</song>

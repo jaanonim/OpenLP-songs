@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:00">
+  <properties>
+    <titles>
+      <title>Pan Jezus poniesie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="115"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pan Jezus poniesie twój ciężar,<br/>Dlaczego twe barki ma gnieść?<br/>Ty z sił już opadasz, a Jezus<br/>Twe brzemię pomoże ci nieść.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pan Jezus wszystkiemu zaradzi,<br/>Rozplącze labirynt twych dróg.<br/>On bezpiecznie cię poprowadzi,<br/>Bo On możny, On silny, On Bóg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pan Jezus poniesie twe troski,<br/>Opowiedz Mu tylko swój żal.<br/>W Nim znajdziesz swych łez ukojenie,<br/>Z Nim troski ulecą gdzieś w dal.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pan Jezus odnowi twe siły,<br/>Otuchą wypełni twą pierś.<br/>Z pęt grzechu na zawsze uwolni,<br/>A w serce radosną da pieśń.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:00">
+  <properties>
+    <titles>
+      <title>Do pracy śpiesz, posłuchaj jak cię woła Pan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="787"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Do pracy śpiesz, posłuchaj jak cię woła Pan,<br/>Więc idź i światu o Chrystusie mów!<br/>Do pracy śpiesz, wszak Chrystus ciebie wzywa Sam,<br/>Czyż nie posłuchasz Zbawiciela miłych słów?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Społem, bracia, siostry,<br/>prawdę i światło nasz niech ujrzy lud,<br/>Więc śmiało, bracia, siostry,<br/>wciąż naprzód idźmy, to dla Boga trud.<br/>Alleluja! Chrystus nas prowadzi Sam.<br/>O, hosanna, brzmi Aniołów dźwięczny psalm.<br/>Wkrótce już się skończy trud,<br/>Bliżej będziem niebios wrót,<br/>Tam nas oczekuje z Swoją chwałą Bóg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, bracie idź! I ciebie Bóg do pracy zwie,<br/>Ratować dusze z. bagna grzechu chciej.<br/>O, bracie idź! Bóg także potrzebuje cię,<br/>Więc spiesz i w serca zimne Bożą miłość wlej!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, naprzód wciąż, bo wkrótce minie łaski czas,<br/>Więc śpieszmy grzesznym duszom pomoc nieść!<br/>O, naprzód wciąż! My młodzi, nic nie straszy nas,<br/>Pójdziemy raźno naprzód nucąc chwały pieśń!</lines>
+    </verse>
+  </lyrics>
+</song>

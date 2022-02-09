@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:35">
+  <properties>
+    <titles>
+      <title>Czoło twe smutki mroczą</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="17"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czoło twe smutki mroczą,<br/>pokoju w sercu brak,<br/>a w głębi twoich oczu<br/>skrytej boleści znak.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, gdybyś mógł uwierzyć,<br/>poznałbyś wielki cud<br/>Na wieki jest zdeptany<br/>wąż, co człowieka zwiódł</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W Panu jest pokój błogi,<br/>gdzie On, tam nie masz skarg<br/>w Nim są strumienie żywe,<br/>dla twych pragnących warg.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>O gdybyś mógł uwierzyć,<br/>poznałbyś wielki cud<br/>twój Pasterz cię prowadzi<br/>do żywych źródeł wód</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ze sobą się mocujesz,<br/>i grzech twój trapi cię,<br/>o własnych walcząc siłach,<br/>wychodzisz z walki źle.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>O, gdybyś chciał uwierzyć,<br/>poznałbyś błogi stan,<br/>bo wszystkie grzechy twoje<br/>na krzyżu zgładził Pan.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Przybliżaj się da Pana,<br/>choć złego gramy grzmią;<br/>przybliżaj się da Pana,<br/>On jest obroną twą!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>O, gdybyś chciał uwierzyć,<br/>ujrzałbyś wielki cud:<br/>że Pan cię z poniżenia,<br/>w królewski wszczepia ród.</lines>
+    </verse>
+  </lyrics>
+</song>

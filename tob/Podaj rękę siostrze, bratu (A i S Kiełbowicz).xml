@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:29">
+  <properties>
+    <titles>
+      <title>Podaj rękę siostrze, bratu</title>
+    </titles>
+    <authors>
+      <author type="words">A i S Kiełbowicz</author>
+      <author type="music">A i S Kiełbowicz</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="525"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Podaj rękę siostrze, bratu<br/>niechaj nikt nie czuje się sam.<br/>Chrystus przyszedł pokój dać światu<br/>i ten pokój zostawia nam.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jesteś Panie, Chlebem Życia,<br/>jako pokarm dajesz się nam.<br/>I zaprawdę ten, kto wierzy w Ciebie<br/>życie wieczne ma.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chcemy Panie, naszym braciom<br/>Twoją Miłość i pokój dać,<br/>aby wszyscy ludzie poznawali<br/>uczniów Twoich w nas.</lines>
+    </verse>
+  </lyrics>
+</song>

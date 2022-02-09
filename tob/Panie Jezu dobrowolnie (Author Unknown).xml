@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:05">
+  <properties>
+    <titles>
+      <title>Panie Jezu dobrowolnie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="249"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie Jezu dobrowolnie wszystko daję dziś.<br/>Chcę być zawsze blisko Ciebie,<br/>Wszystko daję dziś.<br/>Chcę Ci oddać hołd mój Panie<br/>Wszystko daję dziś.<br/>Przyjmij Jezu tę ofiarę,<br/>Wszystko daję dziś.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wszystko daję dziś mój Jezu,<br/>Wszystko daję dziś.<br/>Chwała Tobie Zbawicielu,<br/>Wszystko daje dziś.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uczyń mnie zupełnie Twoim,<br/>Wszystko daję dziś.<br/>Moim jesteś, wiem na pewno<br/>Wszystko daję dziś.<br/>Wyjdź naprzeciw mym potrzebom,<br/>Wszystko daje dziś.<br/>Panie siebie chcę Ci oddać,<br/>Wszystko daję dziś.</lines>
+    </verse>
+  </lyrics>
+</song>

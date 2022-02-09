@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:31:05">
+  <properties>
+    <titles>
+      <title>Przybądź</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Niemagotu</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Języku ognia przyjdź i płoń w naszych sercach<br/>Duchu Miłości przemieniaj nas<br/>Swe pocieszenie nam daj i nim wypełniaj<br/>Duchu Nadziei umacniaj nas</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ref.: Przybądź, Święty Niepojęty, <br/>z Nieba na nas tchnięty Duchu<br/>Rozpal Świętą, Niepojętą, <br/>z Nieba na nas tchniętą miłość<br/>Nią ogarnij nas, amen<br/>Nią ogarnij nas, amen</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Obłoku jasny ochroń nas przed gniewem złego<br/>Daj soli smak i światłu blask<br/>Nie daj się ukryć miastu Boga przedwiecznego<br/>Osłaniaj je, strzeż jego bram.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Pocieszycielu, radość swą ześlij z Nieba<br/>Wszak Dobry ją obiecał nam<br/>Przerwij milczenie w Imię Syna słowa chleba<br/>Najświętsze tchnienie wołaj w nas</lines>
+    </verse>
+  </lyrics>
+</song>

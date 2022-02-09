@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:35">
+  <properties>
+    <titles>
+      <title>Jak słodko imię Jezus brzmi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="337"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak słodko imię Jezus brzmi,<br/>Wszak w Nim zbawienie dane mi!<br/>Jak jasno w moim sercu lśni<br/>Cudowne imię Jezus!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jezus tylko szczęściem mym,<br/>Jezus wszystkim w świecie tym,<br/>Jezus! Nućcie w sercu swym;<br/>Cudowne imię Jezus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To imię kocham z serca ja,<br/>Wszak Jezus zwolnił mię od zła,<br/>Mieszkanie w cudnym niebie da.<br/>Jak miłe imię Jezus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy słychać imię to wśród nas,<br/>To serca Mu śpiewają wraz,<br/>Przejmuje Jego miłość nas.<br/>Wielbijmy imię Jezus!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>To imię Jezus słodkie nam<br/>I najpiękniejsze w niebie tam,<br/>Niech zawsze zacnym będzie nam.<br/>Więc sławmy imię Jezus!</lines>
+    </verse>
+  </lyrics>
+</song>

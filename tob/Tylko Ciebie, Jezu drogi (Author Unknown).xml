@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:28">
+  <properties>
+    <titles>
+      <title>Tylko Ciebie, Jezu drogi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="86"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tylko Ciebie, Jezu drogi,<br/>Ja obrałem Panem swym,<br/>Bo drogami mię zbawczymi<br/>Wiernie wiedziesz w świecie tym.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tylko Ty jesteś mi<br/>Wiernym Zbawcą, tylko Ty!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tylko Ciebie moja dusza<br/>Jako swoją radość zna,<br/>Tylko w Tobie pokój błogi<br/>Moje serce zawsze ma.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tylko Ciebie serce szuka,<br/>Gdy mam Ciebie, to mam dość,<br/>Wszystko oddam, by mieć Ciebie,<br/>Ty w mym sercu tylko gość!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tyś mnie zbawił, tylko w Twoją<br/>Twarz chcę patrzeć, Ciebie czcić;<br/>Wiarą wznoszę się ku górze;<br/>Z Tobą wiecznie będę żyć.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:50">
+  <properties>
+    <titles>
+      <title>Jak miło i przyjemnie przychodzić w Boży dom</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="602"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak miło i przyjemnie przychodzić w Boży dom,<br/>Gdzie wszyscy wierni Pana gorącym sercem czczą,<br/>Tak jak więdnące kwiaty, pragnące rosę pić,<br/>/ Czekają na dar Ducha. by w Jego mocy żyć. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W jedności Ducha wszyscy złączeni szczerze są,<br/>W czystości serca niosą ofiarę Jemu swą.<br/>Tam wznoszą dziękczynienia i korne pienia chwał;<br/>/ Któż, słysząc te wielbienia. na dworze będzie stał? /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Do środka wnijdż i skosztuj, jak dobrym jest nasz Pan,<br/>Do śpiewu, do modlitwy ty dołącz głos swój sam.<br/>Wszak w świecie włada marność i pustych uciech rój.<br/>/ Radości świat ci nie da, Gdyż w Bogu jest jej zdrój. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Już nie chcę dłużej chodzić, w ciemnościach dłużej żyć.<br/>Ja pragnę Bożym światłem tu oświeconym być.<br/>Przed twarzą Bożą znajdę pokoju, łaski zdrój,<br/>/ Tam jest obfitość życia. tam jest ratunek mój. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

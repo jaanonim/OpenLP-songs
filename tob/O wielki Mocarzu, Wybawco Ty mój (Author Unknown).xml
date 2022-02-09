@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:41">
+  <properties>
+    <titles>
+      <title>O wielki Mocarzu, Wybawco Ty mój</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="458"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O wielki Mocarzu, Wybawco Ty mój,<br/>O Jezu, coś przyszedł na świat!<br/>Strumienie radości i pokój mam Twój,<br/>Przy Tobie przebywam tak rad.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tu w cieniu tej skały ochładzasz wciąż mnie,<br/>Boś wieczną miłością jest Sam.<br/>Choć żarem słonecznym pustynia tu tchnie,<br/>/ Jak dobrze odpocząć mi tam! /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Jezu, mój Zbawco, jak wiernyś jest Ty,<br/>W pielgrzymce Twa wspiera mię dłoń;<br/>W strapieniu miłośnie ocierasz me łzy,<br/>Prowadzisz na rajską mnie błoń.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na paszach zielonych postawił Tyś mię,<br/>Do cichych prowadzisz mię wód,<br/>Posilasz mą duszę pokojem tu Twym,<br/>U Ciebie wszystkiego mam w bród.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy przyjdziesz w obłokach i w chwale znów Swej,<br/>By zabrać do Siebie Swój lud,<br/>To śpiewać Ci będziem ku wiecznej czci Twej,<br/>Uwielbiać miłości Twej cud.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:43">
+  <properties>
+    <titles>
+      <title>102 MIŁOŚĆ UKRZYŻOWANA</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie jestem tu ze względu na człowieka<br/>Nie jestem tu, by uciec przed światem<br/>To Pan powołał mnie<br/>To Pan powołał mnie</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jego Słowo mnie pokrzepia <br/>Przeprowadza mnie przez ciasną bramę <br/>Pan powiedział, bądź barankiem <br/>Bowiem miłość ukrzyżowana jest</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Macie być solą dla ziemi <br/>Macie być światłem dla świata <br/>Cieszcie się, gdy wam robią krzywdę <br/>Jesteście wtedy błogosławieni</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oporu złemu nie stawiajcie <br/>Nadstawcie drugi policzek <br/>Nie brońcie swego imienia <br/>Jesteście wtedy błogosławieni</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nie brońcie swego majątku <br/>Poddajcie wszystko bez walki <br/>Dajcie darmo temu, kto was prosi <br/>Jesteście wtedy błogosławieni</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:11">
+  <properties>
+    <titles>
+      <title>Psalm 40</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Będę wychwalał Pana,<br/>Bo wysłuchał mojego wołania.<br/>I wyciągnął mnie z dołu zagłady,<br/>I na skale postawił nogi moje.<br/>W usta moje włożył pieśń nową,<br/>Pieśń pochwalną dla Pana mojego.<br/>Wielu Go ujrzy i się ulęknie,<br/>I na zawsze ufać Mu będzie</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bo tak wielki Jesteś o Panie,<br/>Tak wiele cudów uczyniłeś.<br/>Nie chcesz ofiar krwawych i darów,<br/>Bo Tyn kochasz nas dla nas samych.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chcę czynić wolę Twą o Boże,<br/>Słowo Twoje jest we wnętrzu moim.<br/>Nieustannie Pan myśli o mnie,<br/>On pomocą mą i wybawieniem.<br/>Niechaj ci którzy Cię szukają,<br/>Rozradują się i rozweselą.<br/>Niechaj ci którzy Cię kochają,<br/>Mówią zawsze wielki Jest Pan.</lines>
+    </verse>
+  </lyrics>
+</song>

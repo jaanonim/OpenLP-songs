@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:29">
+  <properties>
+    <titles>
+      <title>Panie uzdrów nasz kraj</title>
+      <title>Lord have mercy</title>
+    </titles>
+    <authors>
+      <author type="words">Graham Kendrick</author>
+      <author type="music">Graham Kendrick</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="520"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie uzdrów nasz kraj, Boże zmiłuj się.<br/>W ogniu swym przyjdź, oczyść i zmień.<br/>Kornie błagamy dziś przed tronem Twym,<br/>Panie nasz nad nami zmiłuj się,<br/>// O przyjdź, nad nami zmiłuj się. //  (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

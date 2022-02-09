@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:53">
+  <properties>
+    <titles>
+      <title>Ach, ubogi żłobie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="679"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ach, ubogi żłobie,<br/>Cóż ja widzę w tobie?<br/>/ Droższy widok, niż ma niebo,<br/>w maleńkiej Osobie. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zbawicielu drogi,<br/>Takeś to ubogi?<br/>/ Zamieniłeś chwalę nieba<br/>za nędzne barłogi. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Czyż nie mogłeś sobie<br/>W krasie i ozdobie<br/>/ 0brać grodu wspaniałego,<br/>nie w tym leżeć żłobie? /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Na ten świat przybywasz,<br/>Grzechy jego zmywasz,<br/>/ Wziąwszy brudy i sprośności,<br/>chwałą go okrywasz. /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Któż się nie zawstydzi,<br/>Gdy Cię w nędzy widzi?<br/>/ Któż, poznawszy miłość Twoją,<br/>grzechem się nie zbrzydzi? /x2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ciebie uwielbiamy<br/>Razem z aniołami<br/>/ 0, zachowaj nas w prostocie,<br/>mieszkaj między nami! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

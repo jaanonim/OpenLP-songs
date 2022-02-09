@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:48">
+  <properties>
+    <titles>
+      <title>Czy się zejdziem tam u rzeki</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="565"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czy się zejdziem tam u rzeki,<br/>Wokół lśniących życia fal,<br/>Gdzie minęły yiż na wieki<br/>Wszelkie smutki, troski, żal?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Zejdziem się, zejdziem raz,<br/>Zejdziem się na Bożym łonie,<br/>Gdzie już wszelki lęk zatonie,<br/>W tej ojczyźnie, pełnej kras.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czy się zejdziem tam u celu,<br/>Gdy upły¬nie ziemski wiek?<br/>Czy siądziemy na weselu<br/>Z wieńcem za zwycięski bieg?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Czy się zejdziem w górnym grodzie,<br/>Gdzie perłowe baszty lśnią<br/>I gdzie w pełnym róż ogrodzie<br/>Cudną wonią kwiaty tchną?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Czy się zejdziem tam u Pana,<br/>Gdy wybranych zwoła On?<br/>Czy nam łaska będzie dana<br/>Usiąść z Nim na chwały tron?</lines>
+    </verse>
+  </lyrics>
+</song>

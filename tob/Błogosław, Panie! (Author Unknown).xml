@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:54">
+  <properties>
+    <titles>
+      <title>Błogosław, Panie!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="469"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Błogosław, Panie! Na ich ślubowanie<br/>Swoje „amen" w niebie włóż!<br/>Co sprowadziłeś i Sam złączyłeś,<br/>niech człowiek nie rozłączy już.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wysłuchaj, Panie, dwojga serc<br/>błaganie, szczerą je miłością spój!<br/>Prowadź ich wiernie i miłosiernie<br/>tam, gdzie radości prawej zdrój!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zgasną rumieńce, zwiędną kwiecia<br/>wieńce, wnet uleci wonny maj.<br/>W Tobie, o, Panie, niech nieustannie<br/>wykwita im cudowy raj.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:16">
+  <properties>
+    <titles>
+      <title>Czemuś smutna duszo ma</title>
+      <title>Why so down cast ?</title>
+    </titles>
+    <authors>
+      <author type="words">Frank Berrios Tom Brooks Wojciech Rubin</author>
+      <author type="music">Frank Berrios Tom Brooks Wojciech Rubin</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="87"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Czemuś smutna duszo ma<br/>Pan nadzieją twą,<br/>Pan nadzieją twą,<br/>Pan nadzieją twą.<br/>O czemuś smutna duszo ma,<br/>Pan nadzieją twą  uwielbiaj Go<br/>duszo ma. // x 2 //</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Wielbię Go, On rozjaśnia me oblicze,<br/>Wielbię Go, On podnosi głowę mą,<br/>Wielbię Go, On rozjaśnia me oblicze,<br/>nie zawstydzę się już nie.<br/>O czemuś.....</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:52">
+  <properties>
+    <titles>
+      <title>O serce, wstań i śpiewaj</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="661"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O serce, wstań i śpiewaj<br/>I Stwórcę swego wzywaj,<br/>Co wszystkim dobrym darzy<br/>I wszystko ma na straży!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy cienie mię zakryły<br/>I słodkim snem objęły,<br/>Od złego mię broniłeś,<br/>Do serca przytuliłeś.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tyś rzekł: Spoczywaj, dziecię,<br/>Obronię ciebie przecie,<br/>Anioły Me cię strzegą,<br/>Doczekasz dnia nowego.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Spełniło się Twe słowo,<br/>Zawitał dzień na nowo;<br/>Pod cieniem Twej osłony<br/>Zostałem pokrzepiony.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gdy za to chcesz ofiary,<br/>Przynoszę Ci swe dary:<br/>Modlitwy me i pienie<br/>- To me całopalenie.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tym darem się nie brzydzisz,<br/>Wszak serce wdzięczne widzisz.<br/>Nie mogę nic innego<br/>Już Tobie dać lepszego.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>By me dzisiejsze dzieło<br/>Szczęśliwie się skończyło,<br/>Niech w ciągu dnia całego<br/>Anioły Twe mię strzegą.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Błogosław mi, mój Panie,<br/>Niech serce me się stanie<br/>Mieszkaniem Twego słowa,<br/>Aż zorza wzejdzie nowa!</lines>
+    </verse>
+  </lyrics>
+</song>

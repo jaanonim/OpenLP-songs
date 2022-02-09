@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:21">
+  <properties>
+    <titles>
+      <title>Ach ubogi żłobie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="1002"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ach ubogi żłobie,<br/>Cóż ja widzę w tobie?<br/>Droższy widok niż ma niebo,<br/>W maleńkiej osobie,<br/>Droższy widok niż ma niebo,<br/>W maleńkiej osobie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zbawicielu drogi,<br/>Jakżeś to ubogi,<br/>Opuściłeś śliczne niebo,<br/>Obrałeś barłogi<br/>Opuściłeś śliczne niebo,<br/>Obrałeś barłogi</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Czyżeś nie mógł Sobie,<br/>W największej ozdobie,<br/>Obrać pałacu drogiego,<br/>Nie w tym leżeć żłobie?<br/>Obrać pałacu drogiego,<br/>Nie w tym leżeć żłobie?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy na świat przybywasz,<br/>Grzechy z niego zmywasz,<br/>A na zmycie tej sprośności,<br/>Gorzkie łzy wylewasz.<br/>A na zmycie tej sprośności,<br/>Gorzkie łzy wylewasz.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:48">
+  <properties>
+    <titles>
+      <title>Tak długo, Panie, czeka Cię</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="553"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tak długo, Panie, czeka Cię<br/>Już Twa oblubienica;<br/>O, kiedyż przyjdziesz, kiedy jej<br/>Rozjaśnisz tęskne lica?<br/>Swą obecnością pokrzep nas!<br/>Ach, kiedyż przyjdzie błogi czas?<br/>- / Przyjdź rychło, Panie Jezu! /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Obecnyś wprawdzie jest i dziś,<br/>Codziennie między nami,<br/>I pokrzepienie z Twoich słów<br/>I pokój odbieramy; My byśmy jednak,<br/>Panie nasz, Oglądać Twą pragnęli twarz;<br/>/ Przyjdż rychło, Panie Jezu! /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Daj czujność nam i przy nas bądź,<br/>Abyśmy nie posnęli,<br/>Do naszych olej wlany lamp<br/>Niech płonie w jasnej bieli.<br/>Przy głosie archa¬nielskich trąb<br/>Po Swą wybraną z nieba zstąp,<br/>/ Przyjdż rychło, Panie Jezu! /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Więc tęsknie i radośnie drżym,<br/>Ubrani w szaty Twoje;<br/>Czekamy, aż wprowadzisz nas<br/>W weselne Swe pokoje.<br/>Radośnie patrzym w górę wprost,<br/>Wciąż głośniej się wyrywa z ust:<br/>/ Przyjdż rychło, Panie Jezu! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

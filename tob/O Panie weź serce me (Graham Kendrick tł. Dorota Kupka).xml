@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:24">
+  <properties>
+    <titles>
+      <title>O Panie weź serce me</title>
+    </titles>
+    <authors>
+      <author type="words">Graham Kendrick tł. Dorota Kupka</author>
+      <author type="music">Graham Kendrick tł. Dorota Kupka</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="490"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Do Ciebie Panie, wznosze mą duszę,<br/>Tak, Tobie ufam, Boże mój.<br/>Nie dopuść bym,  zawstydził się<br/>Przed moim wrogiem osłaniaj mnie.<br/>Daj poznać drogi i ścieżki Twoje<br/>Prowadź do prawdy w każdy dzień.<br/>Bo Tyś mym Bogiem, Tyś Zbawicielem<br/>Tyś mą nadzieją, nie zawiodę się.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Uwielbiać dziś pragnę Cię!<br/>Oddawać Ci serce me!<br/>W obecność Twą pragnę wejść! O tak!<br/>Ochraniaj, przygarniaj Panie swe dzieci.<br/>O Panie weź serce me!<br/>O Panie weź serce me!</lines>
+    </verse>
+  </lyrics>
+</song>

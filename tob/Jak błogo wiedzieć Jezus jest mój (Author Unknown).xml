@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:31">
+  <properties>
+    <titles>
+      <title>Jak błogo wiedzieć Jezus jest mój</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="299"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak błogo wiedzieć Jezus jest mój!<br/>Jakże ten pokój słodzi mi znój!<br/>On życie z nieba, wieczny w Nim dział<br/>I odpuszczenie grzechu mi dał</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chcę sławić Zbawcę swego po zgon,<br/>Bo gdzież Zbawiciel Większy niż On<br/>Kto może tyle pociech mi nieść?<br/>Nikt, tylko Jezus, Jemu dam cześć!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jemu żyć pragnę - to życia raj.<br/>Śpiewaj Mu, serce, wdzięcznie Mu graj!<br/>On mnie prowadzi przez mgłę i cień,<br/>Gdy grzech się wzmaga, wnet wyrwie zeń.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nikt z Jego ręki nie wyrwie mnie,<br/>Z tego niezmiernie ja cieszę się;<br/>Przeto też ufność w nim tylko mam,<br/>On do niebieskich wiedzie mnie bram.</lines>
+    </verse>
+  </lyrics>
+</song>

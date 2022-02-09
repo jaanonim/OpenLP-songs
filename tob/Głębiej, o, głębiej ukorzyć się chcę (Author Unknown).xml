@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:29">
+  <properties>
+    <titles>
+      <title>Głębiej, o, głębiej ukorzyć się chcę</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="261"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Głębiej, o, głębiej ukorzyć się chcę,<br/>Panie, racz siłą napełnić Swą mnie.<br/>Mistrzu, przed Tobą ja leżę jak pył;<br/>Ovyś mi wszystkim we wszystkim Ty był!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Głębiej i głębiej, i głębiej wciąż;<br/>Nic z tego świata nie żądam już.<br/>Do Twych stóp, Panie, ja kładę się,<br/>Chryste, Tyś życiem i szczęściem mym.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Głębiej, o głębiej, ach usłysz głos mój,<br/>Życie me własne umartwij, jam Twój;<br/>Ty mnie z Swej łaski wysłuchasz - to wiem,<br/>Chociaż niegodny, o to prosić śmiem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Głębiej, o głębiej, aż kiedyś tam wzwyż<br/>Dojdę stąd, Jezu, do Ciebie przez krzyż.<br/>Pójdę w pokorze ja chętnie w ślad Twój,<br/>Tam gdzie korona, tam gdzie jest dział mój.</lines>
+    </verse>
+  </lyrics>
+</song>

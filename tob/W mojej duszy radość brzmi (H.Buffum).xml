@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:33">
+  <properties>
+    <titles>
+      <title>W mojej duszy radość brzmi</title>
+    </titles>
+    <authors>
+      <author type="words">H.Buffum</author>
+      <author type="music">H.Buffum</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="317"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W mojej duszy radość brzmi<br/>Gdy wśród burz i jasnych dni.<br/>Boża dłoń prowadzi mnie przez życia znój.<br/>On napełnił serce me;<br/>Błoga pewność krzepi mnie,<br/>Że jest ze mną pocieszyciel mój.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tak, On jest, ze mną jest!<br/>Alleluja, w Nim radości zdrój!<br/>W dzień i noc mnie krzepi On<br/>W drodze do ojczystych stron;<br/>Wciąż jest ze mną Pocieszyciel mój.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miałem serce pełne bied,<br/>Bez pokojum światem szedł,<br/>Lecz na krzyżu Jezus za mnie stoczył bój.<br/>Gdy upadłem Mu do nóg,<br/>Słodki pokój dał mi Bóg,<br/>Odtąd ze mną Pocieszyciel mój.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Już nie żądam świeckich zdrad;<br/>Porzuciłem wszystko rad -<br/>Jezus odział mnie w wspaniały niebian strój,<br/>W moje serce Ducha tchnął,<br/>Me brzemiona wszystkie zdjął;<br/>Odtąd ze mną Pocieszyciel mój</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Odtąd zawsze przy mnie trwa,<br/>Każdą troskę moją zna;<br/>W nim mam wolność,<br/>Siłę szczęście, pokój swój.<br/>Duch Jezusa rządzi mną,<br/>Syci hojnie duszę mą,<br/>Odtąd ze mną Pocieszyciel mój.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:18">
+  <properties>
+    <titles>
+      <title>Podnieścież się, wy wierzchy bram!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="31"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Podnieścież się, wy wierzchy bram!<br/>Pan w chwale Swojej zdąża Sam,<br/>Król królów, co pociesza rad,<br/>Nasz Władca, który zbawił świat,<br/>Co zniósł nad nami Boży gniew.<br/>Zanućcie więc radosny śpiew:<br/>Pochwaleń bądźże Ty,<br/>Mój Stwórco, pełen czci!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On dobrotliwy jest i praw,<br/>Łagodny Sędzia naszych spraw.<br/>Świętością Mu jaśnieje skroń,<br/>O miłosierdziu świadczy dłoń.<br/>To z pokolenia Judy Lew!<br/>Zanućcie więc radosny śpiew:<br/>O Zbawco, chwallm Cię<br/>Za wielkie czyny Twe!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szczęśliwa jest kraina ta,<br/>Co berło tego Króla zna,<br/>I błogo sercom, w których<br/>On Królewski Swój zakłada tron,<br/>Bo On prawdziwym słońcem Sam;<br/>Gdzie On, błogości strumień tam.<br/>O Boże, chwała Ci,<br/>Pocieszycielu cny!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Podnieście, bramy, wierzchy swe!<br/>Świątynią bądźże, serce me!<br/>Gałązki pobożności weź,<br/>W radości Panu chwałę nieś!<br/>Do Ciebie wtedy przyjdzie Król<br/>I tryśnie życie, zniknie ból.<br/>Czci pełen jest nasz Bóg,<br/>Co to uczynić mógł.</lines>
+    </verse>
+  </lyrics>
+</song>

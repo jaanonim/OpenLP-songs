@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:55">
+  <properties>
+    <titles>
+      <title>308 Mizerna cicha</title>
+    </titles>
+    <authors>
+      <author>Teofil Lenartowicz</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mizerna, cicha, stajenka licha,<br/>Pełna niebieskiej chwały. <br/>Oto leżący, przed nami śpiący<br/>W promieniach Jezus mały.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nad nim Anieli w locie stanęli <br/>I pochyleni klęczą;<br/>Z włosy złotymi z skrzydły białymi <br/>Pod malowaną tęczą. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wielkie zdziwienie, wszelkie stworzenie, <br/>Cały świat orzeźwiony; <br/>Mądrość Mądrości, światłość światłości, <br/>Bóg - Człowiek tu wcielony.  </lines>
+    </verse>
+    <verse name="v4">
+      <lines>I oto mnodzy ludzie ubodzy <br/>Radzi oglądać Pana; <br/>Pełni natchnienia, pełni zbawienia, <br/>Upadli na kolana. </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Długo czekali, długo wzdychali, <br/>Aż niebo rozgorzało, <br/>Piekło zawarte, niebo otwarte, <br/>Słowo ciałem się stało. </lines>
+    </verse>
+    <verse name="v6">
+      <lines>Radość na ziemi, bo nad wszystkimi, <br/>Roztacza blask rumiany. <br/>Przepaść rozwarta, upadek czarta, <br/>Zstępuje Pan nad pany.</lines>
+    </verse>
+  </lyrics>
+</song>

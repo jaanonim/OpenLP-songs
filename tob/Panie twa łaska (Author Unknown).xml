@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:34">
+  <properties>
+    <titles>
+      <title>Panie twa łaska</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="268"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie twa łaska jest życiem mym<br/>Wielbią cię za nią wciąż usta me.<br/>W imieniu twoim ręce swe wznoszę,<br/>Mój wielki Boże chcę zawsze wielbić Cię.</lines>
+    </verse>
+  </lyrics>
+</song>

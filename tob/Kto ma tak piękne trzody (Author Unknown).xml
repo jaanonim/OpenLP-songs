@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:55">
+  <properties>
+    <titles>
+      <title>Kto ma tak piękne trzody</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="497"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kto ma tak piękne trzody?<br/>To ma nasz dobry Pan,<br/>tysiące tu na ziemi,<br/>tysiące w niebie tam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dobry Pasterzu mój,<br/>dobry Pasterzu mój,<br/>bądź mi łaskaw, bądź mi<br/>łaskaw, dobry Pasterzu mój.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chcesz trzodę tę zobaczyć<br/>i w niej owieczką być?<br/>Do szkółki śpiesz niedzielnej,<br/>nie zwlekaj, zaraz idź.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Dobry Pasterzu mój,<br/>dobry Pasterzu mój,<br/>bądź mi łaskaw, bądź mi<br/>łaskaw, dobry Pasterzu mój.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na Bożych łanach pasie<br/>On małe z chęcią tam,<br/>a słabe Pasterz niesie<br/>na Swoich barkach sam.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Dobry Pasterzu mój,<br/>dobry Pasterzu mój,<br/>bądź mi łaskaw, bądź mi<br/>łaskaw, dobry Pasterzu mój.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I ciebie On też przyjmie<br/>pomimo grzechów twych,<br/>o, śpiesz do trzody Jego,<br/>zaniechaj chęci złych!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Dobry Pasterzu mój,<br/>dobry Pasterzu mój,<br/>bądź mi łaskaw, bądź mi<br/>łaskaw, dobry Pasterzu mój.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A potem możesz z nami<br/>rączęta swoje spleść,<br/>i z serca radosnego<br/>oddawać Panu cześć.</lines>
+    </verse>
+    <verse name="c5">
+      <lines>Dobry Pasterzu mój,<br/>dobry Pasterzu mój,<br/>bądź mi łaskaw, bądź mi<br/>łaskaw, dobry Pasterzu mój.</lines>
+    </verse>
+  </lyrics>
+</song>

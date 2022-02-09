@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:47">
+  <properties>
+    <titles>
+      <title>Na chyżych skrzydłach leci czas</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="547"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na chyżych skrzydłach leci czas,<br/>Do celu wszystko śpieszy tu,<br/>Westchnienia tęskne budząc w nas<br/>Po przyjścia Pana sławnym dniu.<br/>Pan nasz odwłacza z przyjściem Swym,<br/>O, kiedyż da nam ujrzeć się,<br/>By złożyć hołd Królowi ziem?<br/>- Jako to będzie, gdy przyjdzie Król?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Jak będzie nam, gdy nadejdzie Król?:}<br/>Jak będzie, gdy przyjdzie Król?<br/>Jak będzie nam, gdy nadejdzie Król?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Już ponad ziemią wznosi się<br/>Jak wód szumiących mocny głos:<br/>Przychodzi Pan, by zabrać cię<br/>Do Siebie, byś miał w Nim swój los<br/>Czas już, drużyno, ze snu wstać,<br/>Do gry weselnej harfy brać,<br/>Na drogę Panu kwiecie słać.<br/>Już brzmi radośnie: Nadchodzi Król!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Czy słyszysz całej ziemi śpiew?<br/>- Już wybawiona z klątwy szpon.<br/>Tęskniła długo; łzawy siew.<br/>Radości dzisiaj niesie plon.<br/>Z wieścią anioły lecą w dół<br/>Do gór, do miast, do pól i siół,<br/>Ze Pan jaz ciężar grzechu zdjął;<br/>Więc cieszmy się, że nadchodzi Król!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Syjońska córka zdobi, się<br/>W klejnoty swych odświętnych szat.<br/>Jej Pan, co zszedł na ziemię tę,<br/>Dziś na królewskim tronie siadł.<br/>Wraca już Król w Swój ziemski kraj,<br/>Więc serce, śpiewaj, serce, graj!<br/>O, niech rozkwita wieczny maj!<br/>Cieszmy się wraz, że nadchodzi Król!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Drużyno, wstań do boju, wstań!<br/>Już jasną zorzą świeci wschód<br/>I sztandar lśni, więc patrzaj nań,<br/>Krocz z nim przez bój do chwały wrót!<br/>Łaska i prawda wskażą tor;<br/>Cześć Barankowi! - nuci chór.<br/>Wnet już niebiański ujrzym zbór,<br/>Więc cieszmy się, że nadchodzi Król!</lines>
+    </verse>
+  </lyrics>
+</song>

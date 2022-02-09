@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:08">
+  <properties>
+    <titles>
+      <title>Alleluja, nasz Wszechmocny</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="79"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alleluja, nasz Wszechmocny Pan<br/>wielką władzę ma! Alleluja,<br/>nasz Wszechmocny Pan wszelką<br/>władszę ma! Radujmy się, cieszmy<br/>się i dajmy Jemu chwałę dziś.<br/>Alleluja, nasz Wszechmocny Pan<br/>wszelką władzę ma.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alleluja, Królem naszym jest<br/>Wszechmogący Bóg! Alleluja,<br/>Królem naszym jest Wszechmogący<br/>Bóg! Radujmy się i weselmy, oddajmy<br/>Jemu chwałę, cześć! Alleluja<br/>Królem naszym jest wszechmogacy<br/>Bóg!</lines>
+    </verse>
+  </lyrics>
+</song>

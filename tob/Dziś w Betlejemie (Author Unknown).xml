@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:53">
+  <properties>
+    <titles>
+      <title>Dziś w Betlejemie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="681"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dziś w Betlejemie, dziś w Betlejemie<br/>Zorza jasna dnieje,<br/>Anioł w jasności Bożej miłości<br/>Opowiada dzieje:<br/>Grzech się rozmnożył, Szatan się strożył,<br/>Śmierć panowała, Nędza wzrastała,<br/>Lecz Bóg nas miłował, Syna nie żałował,<br/>W nędzę naszą Go darował.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dziś w Betlejemie, dziś w Betlejemie<br/>Głoszą pastuszkowie,<br/>Czego człowiecza myśl nie dociecze,<br/>Język nie wypowie:<br/>W żłobie złożony - Wyższy nad trony,<br/>W biedzie, w chudobie, Chwałę ma w Sobie,<br/>Możny w Swej niskości, Radny w Swej słabości,<br/>Dziecię - Ojciec wszechwieczności.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Betlejemie, o Betlejemie,<br/>Grodzie Dawidowy!<br/>W stajence, w żłobie<br/>Bóg twój sposobi Światu żywot nowy;<br/>Spełnia przymierze, Grzech zmazę bierze,<br/>Ducha ochładza, Serca odradza;<br/>Anioły pląsają, Pasterze klękają,<br/>Cuda, cuda ogłaszają.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Betelejemie, o Betlejemie,<br/>Grodzie cudnej chwały!<br/>Księgi, pomniki, Pieśni, języki<br/>Będą ci śpiewały.<br/>Tu Zbawca świata Woła: Efata!<br/>Pójdźcie na gody Do cnej swobody,<br/>Brzemię swe rzucajcie, Króla uwielbiajcie,<br/>Serca Jemu oddawajcie!</lines>
+    </verse>
+  </lyrics>
+</song>

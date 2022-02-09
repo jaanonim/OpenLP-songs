@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:35">
+  <properties>
+    <titles>
+      <title>Znam strumień</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="121"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Znam strumień, co płynie wśród dolin<br/>i wzgórz spokojnie i cicho lak cień;<br/>złotymi blaskami ognistych skrzy zórz;<br/>któż wody skosztował już zeń?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, duszo, upraszam cię, chodź,<br/>do wód tych cudownych się zwróć,<br/>bo płyną obficie wzdłuż i wszerz,<br/>i tobie ulżą, o, wierz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy serce dosięgnie ożywczy ten prąd,<br/>to radość oparnia je wnet,<br/>bo błogość kosztowna odpływa mu stąd<br/>i zbawia od trosk je i bied.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>O, duszo, upraszam cię, chodź,<br/>do wód tych cudownych się zwróć,<br/>bo płyną obficie wzdłuż i wszerz,<br/>i tobie ulżą, o, wierz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ten strumień żywota, jak źródło ze skał,<br/>z Jezusa wytryska ci ran; za ciebie grzeszniku,<br/>za ciebie to dał Swą krew wylać drogi twoi Pan</lines>
+    </verse>
+    <verse name="c3">
+      <lines>O, duszo, upraszam cię, chodź,<br/>do wód tych cudownych się zwróć,<br/>bo płyną obficie wzdłuż i wszerz,<br/>i tobie ulżą, o, wierz!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kto pragnie, niech przyjdzie i pile z tych wód,<br/>wołaja z Syionu nam w dół,<br/>bo tylko kto w falach tych grzechu zmył brud,<br/>w niebiesiach usiądzie za stół.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>O, duszo, upraszam cię, chodź,<br/>do wód tych cudownych się zwróć,<br/>bo płyną obficie wzdłuż i wszerz,<br/>i tobie ulżą, o, wierz!</lines>
+    </verse>
+  </lyrics>
+</song>

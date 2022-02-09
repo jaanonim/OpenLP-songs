@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:55">
+  <properties>
+    <titles>
+      <title>Świat nie jest domem mym</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="503"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Świat nie jest domem mym,<br/>jam tu przychodniem jest.<br/>Me skarby w niebie są,<br/>nie w tej dolinie łez.<br/>Do siebie, tam do gwiazd,<br/>anieli wabią mnie,<br/>Chciałbym stąd wyrwać się,<br/>obcym tu czuję się.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, Panie, wiesz,<br/>ten świat jest obcym mi.<br/>Gdzież pójdę, jeśli Ty<br/>przede mną zamkniesz drzwi?<br/>Świat nie jest domem mym,<br/>blask nieba wabi mnie.<br/>Chciałbym stąd wyrwać się,<br/>obcym tu czuję się.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Już tylu bliskich mych<br/>na drugi przeszło brzeg.<br/>Czekają na mnie tam,<br/>gdy ziemski skończę bieg.<br/>Już uchylili drzwi,<br/>wołają także mnie,<br/>Chciałbym stąd wyrwać się,<br/>obcym tu czuję się.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>O, Panie, wiesz,<br/>ten świat jest obcym mi.<br/>Gdzież pójdę, jeśli Ty<br/>przede mną zamkniesz drzwi?<br/>Świat nie jest domem mym,<br/>blask nieba wabi mnie.<br/>Chciałbym stąd wyrwać się,<br/>obcym tu czuję się.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>W chwalebnym kraju tym<br/>będziemy wiecznie żyć.<br/>Z Żywota drzewa jeść,<br/>ze źródła życia pić.<br/>Tam uwielbienia pieśń<br/>z ust wszystkich wzniesie się,<br/>Chciałbym stąd wyrwać się,<br/>obcym tu czuję się.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>O, Panie, wiesz,<br/>ten świat jest obcym mi.<br/>Gdzież pójdę, jeśli Ty<br/>przede mną zamkniesz drzwi?<br/>Świat nie jest domem mym,<br/>blask nieba wabi mnie.<br/>Chciałbym stąd wyrwać się,<br/>obcym tu czuję się.</lines>
+    </verse>
+  </lyrics>
+</song>

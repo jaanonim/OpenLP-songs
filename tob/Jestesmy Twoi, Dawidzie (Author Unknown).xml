@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:10">
+  <properties>
+    <titles>
+      <title>Jestesmy Twoi, Dawidzie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="97"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesteśmy Twoi, nasz Dawidzie,<br/>będziemy z Tobą Królu nasz! Niech<br/>pokój Boży będzie z Tobą i z tymi,<br/>którzy służą Ci.Gdyż Bóg, Twój Bóg,<br/>pomaga Ci! Gdyż Bóg, Twój Bóg<br/>pomaga Ci! Gdyż Bóg, Twój Bóg,<br/>pomaga Ci! Gdyż Bóg, Twój Bóg,<br/>pomaga Ci!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I stanie się w dni ostateczne<br/>wyleję Ducha, mówi Bóg.<br/>I prorokować będą młodzi, nim<br/>przyjdzie wielki Pański dzień!<br/>{:Imienia Jezus wzywaj dziś!<br/>To Imię Zbawiciela, Imię<br/>Pana jest:} 2x</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na Krzyżu umarł Syn Dawida,<br/>lecz dnia trzeciego zmartwychwstał!<br/>Prawicą Bożą wywyższony,<br/>otrzymał Ojca chwały Tron!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Więc wszelki jezyk niech wyznaje,<br/>że Jezus wczoraj, Jezus dziś,<br/>i aż na wieki będzie Królem!<br/>I mego serca Królem jest!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Duch Pana mówi i mówi Zbór:<br/>Przyjdź, Panie Jezu, wkrótce!<br/>Tak, Amen, Panie przyjdź!<br/>Duch Pana mówi i mówi Zbór:<br/>Przyjdź, Panie Jezu, wkrótce!<br/>Przyjdź, Panie, jako Król!</lines>
+    </verse>
+  </lyrics>
+</song>

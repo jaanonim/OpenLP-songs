@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:36">
+  <properties>
+    <titles>
+      <title>Panie chwalę imię Twe</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie chwalę imię Twe<br/>Wznoszę pieśni uwielbienia<br/>Zawsze jesteś blisko mnie<br/>Darzysz łaską przebaczenia</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przyszedłeś z nieba na świat<br/>By drogą być<br/>Dałeś przybić się na krzyż<br/>By grzech mój zmyć<br/>Nie zatrzymał ciebie grób<br/>Niebo znów ujrzało Cię<br/>Panie chwalę imię Twe</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:31">
+  <properties>
+    <titles>
+      <title>Nad skarby jest droższym mi Jezus mój</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="308"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nad skarby jest droższym mi Jezus mój,<br/>Nie zwiedzie mię uciech światowych tu rój.<br/>Nad wszystko cenniejszym Zbawiciel mi,<br/>On niebios złocistych otworzy drzwi</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nie chcę tu nic mieć.<br/>Nie chcę w straszną sieć<br/>Grzechu wplątać nogi mej.<br/>Najdroższym, najmilszym mój Jezus mi,<br/>Godnym tej najgłębszej czci!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mnie Jezus jest droższy nad sławy blask,<br/>Nad ludzi pochwały, nad hojność ich łask.<br/>Gdy w sercu mym słyszę tu Jego głos,<br/>To szczęścia mam pełno, radości dość.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>W piękności nie równy Mu żaden kwiat,<br/>On droższym nad wszystko, co daje tu świat.<br/>Jezusa chcę kochać i Jego znać,<br/>I Jemu me życie do służby dać</lines>
+    </verse>
+  </lyrics>
+</song>

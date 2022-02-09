@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:47">
+  <properties>
+    <titles>
+      <title>Dzień w służbie Zbawiciela</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="348"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dzień w służbie Zbawiciela,<br/>o, to cudowny dzień!<br/>W nim świat maleje, serce pięknieje,<br/>to wielka korzyść zeń!<br/>Gdzie siły trza, tam Pan Swą pomoc da.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>// Dzień w służbie Zbawiciela // ,<br/>Dzień w służbie Zbawiciela,<br/>o, to cudowny dzień!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dzień w służbie Zbawiciela,<br/>jak świetny urząd ten!<br/>Tu nikt nie zmusza, tu serce<br/>wzrusza miłości Bożej czyn!<br/>Jam już nie swój, mnie posiadł<br/>Zbawca mój.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>// Dzień w służbie Zbawiciela // ,<br/>Dzień w służbie Zbawiciela,<br/>o, to cudowny dzień!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dzień w służbie Zbawiciela,<br/>jak słodka praca ta!<br/>Głosić zbawienie, z grzechów<br/>zwolnienie, nagroda będzie cna.<br/>Na ziemi już nagradza wierny Stróż.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>// Dzień w służbie Zbawiciela // ,<br/>Dzień w służbie Zbawiciela,<br/>o, to cudowny dzień!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dzień w służbie Zbawiciela!<br/>Choć siłę trawi znój,<br/>Pan nas posili i w śmierci chwil<br/>i pomoże skończyć bój.<br/>On wierny nam, On zawsze jest ten sam.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>// Dzień w służbie Zbawiciela // ,<br/>Dzień w służbie Zbawiciela,<br/>o, to cudowny dzień!</lines>
+    </verse>
+  </lyrics>
+</song>

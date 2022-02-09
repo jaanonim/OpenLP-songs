@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:31">
+  <properties>
+    <titles>
+      <title>Niech przepływa strumień Ducha</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niech przepływa strumień Ducha<br/>Przez wszelkie ziemskie ciało<br/>I potoki wody żywej<br/>Niech wypłyną z nas<br/>Napełnij swoim Duchem Twój ziemski naród<br/>Aż każdy człowiek padnie na kolana<br/>Przed Panem swym</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ześlij deszcz, ześlij deszcz<br/>I wylej Swego Ducha na nasz kraj<br/>Ześlij deszcz, ześlij deszcz<br/>Napełnij nas Swą mocą, światłem Swym.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:44">
+  <properties>
+    <titles>
+      <title>Był strudzony i zbolały</title>
+    </titles>
+    <authors>
+      <author type="words">J.Prochanow</author>
+      <author type="music">J.Prochanow</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="472"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Był strudzony i zbolały<br/>Hetman wojska Naaman;<br/>Trądem lica mu zbielały,<br/>Ciało jego pełne ran.<br/>Pani swej dzieweczka prawi:<br/>„Tam, u mych ojczystych wód,<br/>Sługa Boży, prorok bawi,<br/>Z wszelkich chorób leczy lud."</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przyjął chory to wezwanie,<br/>Szedł,gdzie mieszkał Boży lud,<br/>Omył ciało swe w JOrdanie,<br/>Wyszedł czysty, stał się cud.<br/>Tam go odstąpiła trwoga,<br/>Co się już rzucała nań,<br/>Tam żywego poznał Boga,<br/>Modły swe Mu złożył w dań.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bracia, siostry! Jakże wiele<br/>Dusz ginących wokół was!<br/>Gardzą Bogiem, grzeszą śmiele,<br/>Pełne trądu, grzechu, zmaz.<br/>Śpieszcie do nich z wieścią błogą,<br/>Że swe trądy wszystkie zmyć<br/>W cudnej krwi Jezusa mogą,<br/>Aby nowym życiem żyć.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wnet ujrzycie z blaskiem w oku<br/>Wyzwolonych z grzechu mar,<br/>Jak radośnie, z czcią głęboką<br/>Uwielbiają Ojca dar.<br/>Pokrzepienia w tym doznacie<br/>W trudzie swoim dzisiaj już,<br/>Potem was w królewskiej szacie<br/>Przyjmie Oblubieniec dusz!</lines>
+    </verse>
+  </lyrics>
+</song>

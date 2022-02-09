@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:49">
+  <properties>
+    <titles>
+      <title>Tak długo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="381"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tak długo, Panie, czeka Cię już Twa oblubienica;<br/>o, kiedyż przyjdziesz, kiedyż jej rozjaśnisz smętne lica?<br/>Zielenią okryj pusty step i Swą bliskością serca krzep,<br/>// O, przyjdź już, Panie Jezu! //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Obecnyś wprawdzie jest i dziś, codziennie między nami,<br/>i pokrzepienie z Twoich ust i pokój odbieramy.<br/>My byśmy jednak Panie nasz, pragnęli Twą oglądać twarz.<br/>// O, przyjdź już, Panie Jezu! //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Czujności daj i z nami czuj, abyśmy nie posnęli,<br/>oliwę wlej do naszych lamp, by jasno zapłonęły.<br/>Przy głosie archanielskich trąb po Swą wybraną z nieba zstąp.<br/>// O, przyjdź już, Panie Jezu! //</lines>
+    </verse>
+  </lyrics>
+</song>

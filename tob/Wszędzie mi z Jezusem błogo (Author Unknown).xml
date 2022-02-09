@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:36">
+  <properties>
+    <titles>
+      <title>Wszędzie mi z Jezusem błogo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="365"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wszędzie mi z Jezusem błogo, w noc i w dzień,<br/>Wszędzie tam, gdzie Jezus jest, niknie troski cień.<br/>Wszędzie tam gdzie nie ma Go, braknie szczęścia mi,<br/>Wszędzie, gdzie On rządzi, w sercu radość brzmi!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wszędzie już z Jezusem, wszędzie już, wszędzie już!<br/>Wszędzie mi z Jezusem jest błogo, w noc i w dzień!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wszędzie, gdym z Jezusem, to nie jestem sam;<br/>Choć świat przyjaźń łamie swą, wierny mi mój Pan.<br/>Gdy przez puszczę wiedzie mię i w samotność tam,<br/>Wszędzie - gdym z Jezusem - błogość wieczną mam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wszędzie więc z Jezusem spocząć błogo śmiem;<br/>Choć otacza ciemność mię, On jest światłem mym.<br/>Wszędzie pewną tarczą mi Zbawiciela dłoń,<br/>Celem naszym Jezus - więc już spieszmy Doń!</lines>
+    </verse>
+  </lyrics>
+</song>

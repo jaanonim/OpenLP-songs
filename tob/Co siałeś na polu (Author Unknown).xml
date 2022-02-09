@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:48">
+  <properties>
+    <titles>
+      <title>Co siałeś na polu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="352"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Co siałeś na polu swym wiosną?<br/>Czy kwiaty, co cieszą nasz wzrok?<br/>Patrz pszczoły już rojem brzęczącym<br/>obsiadły twe pole co krok.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Siej dobre nasiona tu wciąż,<br/>byś zboże złociste mógł żąć.<br/>Dzień żniwa wielkiego nadchodzi!<br/>Coś siał,teraz będziesz tu żąć!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Co siałeś na polu swym wiosną<br/>Czy ziarno pszeniczne na chleb?<br/>Spójrz zboże tak ślicznie wyrosło,<br/>Bóg rosił,wzrost dawał strzegł.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Siej dobre nasiona tu wciąż,<br/>byś zboże złociste mógł żąć.<br/>Dzień żniwa wielkiego nadchodzi!<br/>Coś siał,teraz będziesz tu żąć!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A obok, o straszne to pole!<br/>Tam wróg posiał brudy i zło.<br/>Patrz, chwasty porosły twą rolę,<br/>kolczaste i ostre jak szkło</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Siej dobre nasiona tu wciąż,<br/>byś zboże złociste mógł żąć.<br/>Dzień żniwa wielkiego nadchodzi!<br/>Coś siał, teraz będziesz tu żąć!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Co siałeś na polu swym wiosną?<br/>Nienawiść, czy miłość, czy złość?<br/>Twój posiew już wschodzi, dojrzewa,<br/>w wieczności swój plon będziesz żąć.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Siej dobre nasiona tu wciąż,<br/>byś zboże złociste mógł żąć.<br/>Dzień żniwa wielkiego nadchodzi!<br/>Coś siał,teraz będziesz tu żąć!</lines>
+    </verse>
+  </lyrics>
+</song>

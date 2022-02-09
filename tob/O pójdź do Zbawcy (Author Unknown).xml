@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:35">
+  <properties>
+    <titles>
+      <title>O pójdź do Zbawcy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="123"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, pójdź do Zbawcy, pójdź, jeszcze czas!<br/>Tak miłosierny Bóg wzywa nas.<br/>Choć serce Twoje zimne jak głaz,<br/>Pan woła: Pójdź, ach, pójdź!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jakże błogo będzie kiedyś tam,<br/>gdy obmyci z grzechów wszelkich plam,<br/>u złotych staniem niebiańskich bram!<br/>Pójdź więc, grzeszniku, pójdź!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pójdź, synu do Mnie, brzmi Jego głos,<br/>oddaj Mi serce porucz swój los.<br/>Nie złamie ciebie najsroższy cios,<br/>Jam twierdzą wiernych, pójdź!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Jakże błogo będzie kiedyś tam,<br/>gdy obmyci z grzechów wszelkich plam,<br/>u złotych staniem niebiańskich bram!<br/>Pójdź więc, grzeszniku, pójdź!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wierz swemu Zbawcy, choć grozi wróg,<br/>Pan bliski tobie wśród pokus, trwóg,<br/>łaską, miłością darzy cię Bóg,<br/>pójdź Don grzeszniku, pójdź!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Jakże błogo będzie kiedyś tam,<br/>gdy obmyci z grzechów wszelkich plam,<br/>u złotych staniem niebiańskich bram!<br/>Pójdź więc, grzeszniku, pójdź!</lines>
+    </verse>
+  </lyrics>
+</song>

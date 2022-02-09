@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:38">
+  <properties>
+    <titles>
+      <title>O Panie usłysz słowa me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="270"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Panie usłysz słowa me<br/>I przejmij się mym westchnieniem<br/>Zważ na głos błagania mego dziś<br/>Mój Królu i Boże mój.<br/>Do Ciebie bowiem modlę się<br/>Od rana racz słuchać głosu mego.<br/>O świcie mój Panie do Ciebie zwracam się<br/>I z poranku oczekuję Cię.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:31">
+  <properties>
+    <titles>
+      <title>Panie wysłuchać modłów chciej</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="37"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie, wysłuchać modłów chciej!<br/>Tyś tylko naszą siłą,<br/>łaski strumienie na nas zlej,<br/>daj ujrzeć nam jeszcze dziś</lines>
+    </verse>
+    <verse name="c1">
+      <lines>łaski strumienie;<br/>strumienie żywe,<br/>Twoich łask strumienie<br/>ześlij jeszcze dziś!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ojcze miłości, zniż się k'nam,<br/>kornie prosimy Ciebie;<br/>wszystkie przeszkody w sercu złam,<br/>daj hojnie przyjąć nam dziś</lines>
+    </verse>
+    <verse name="c2">
+      <lines>łaski strumienie;<br/>strumienie żywe,<br/>Twoich łask strumienie<br/>ześlij jeszcze dziś!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Panie, wierzymy w moc Twych słów,<br/>spełnij swe obietnice,<br/>łaski strumienie w sercu złam,<br/>daj hojnie przyjąć nam dziś</lines>
+    </verse>
+    <verse name="c3">
+      <lines>łaski strumienie;<br/>strumienie żywe,<br/>Twoich łask strumienie<br/>ześlij jeszcze dziś!</lines>
+    </verse>
+  </lyrics>
+</song>

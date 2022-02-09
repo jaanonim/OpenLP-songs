@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:43">
+  <properties>
+    <titles>
+      <title>Bezpiecznym ja w objęciu Jezusa</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="245"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bezpiecznym ja w objęciu Jezusa,<br/>On jest mój, tam moje odpocznienie,<br/>tam szczęśliwości zdrój.<br/>Wdzięcznie Pasterza mego głos sercu memu brzmi.<br/>Dziecię nie męcz się dłużej,<br/>Ja pokój daję ci!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bezpiecznym ja w objęciu Jezusa,<br/>On jest mój, tam moje odpocznienie,<br/>tam szczęśliwości zdrój.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bezpiecznym ja u Niego, bez żalu jam,<br/>bez trwóg, bezpiecznym jest w pokusach,<br/>bo porażony wróg. Nie wiem o utrapieniu,<br/>ni o zwątpieniu tam,<br/>we wszystkich doświadczeniach<br/>stanowczo przy Nim trwam.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Bezpiecznym ja w objęciu Jezusa,<br/>On jest mój, tam moje odpocznienie,<br/>tam szczęśliwości zdrój.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezu, ucieczko serca, Tyś ofiarował się,<br/>bezpiecznie na tej skale opieram życie swe.<br/>Spokojnie czekać będę, póki trwa nocy cień,<br/>aż zajaśnieje zorza, złocisty, jasny dzień.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Bezpiecznym ja w objęciu Jezusa,<br/>On jest mój, tam moje odpocznienie,<br/>tam szczęśliwości zdrój.</lines>
+    </verse>
+  </lyrics>
+</song>

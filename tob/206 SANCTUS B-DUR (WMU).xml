@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:48">
+  <properties>
+    <titles>
+      <title>206 SANCTUS B-DUR</title>
+    </titles>
+    <authors>
+      <author>WMU</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Święty, Święty, Święty, /x2<br/>Pan Bóg Zastępów<br/>Święty, Święty, Święty,<br/>Pełne są niebiosa i ziemia chwały Twojej<br/><br/>Hosanna na wysokości /x2<br/>Hosanna, Hosanna</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Święty, Święty, Święty, /x2<br/>Błogosławiony, który przychodzi w Imię Pana<br/>Błogosławiony pokorny, wjeżdżający na osiołku	.<br/><br/>Hosanna na wysokości /x2<br/>Hosanna, Hosanna</lines>
+    </verse>
+  </lyrics>
+</song>

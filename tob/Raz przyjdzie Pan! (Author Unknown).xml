@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:48">
+  <properties>
+    <titles>
+      <title>Raz przyjdzie Pan!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="556"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Raz przyjdzie Pan! O, przyjdzie On zaiste,<br/>Zabierze wiernych Swych do nieba tam<br/>I przyozdobi wieńcem czoła czyste,<br/>Omyte we krwi Jego świętych ran.<br/>O, co za radość czeka ich tam,<br/>/ Gdzie w wiecznej chwale króluje Pan Bóg Sam! /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raz przyjdzie Pan! On obietnicę spełni,<br/>Choć świat tej prawdy nie ma, ani zna,<br/>Ni taki z braci, który w błędzie chodzi;<br/>Pan to, co przyrzekł, wszystko spełni, da.<br/>O, co za radość zobaczyć Go,<br/>/ Z Nim wznieść się w górę, opuścić miejsce to! /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Raz przyjdzie Pan! Na pewno rychło przyjdzie,<br/>- Nad światem coraz większa grzechu noc;<br/>A utrapienie, ucisk wnet nadejdzie;<br/>Już morze, ląd swą groźnie zjawia moc.<br/>Zawód bolesny spotka raz tych,<br/>/ Co tej przestrogi do serc nie wzięli swych. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Raz przyjdzie Pan! To dzieło już zaczęte.<br/>Bracie i siostro, czym Go witać chcesz?<br/>Gotowyś już wnijść w te przybytki święte,<br/>Gdzie stanąć masz przed Bogiem twarzą w twarz?<br/>Jakże to smutne, tu wierzyć w kłam<br/>/ I nie śmieć nigdy do światła wznieść się /x2</lines>
+    </verse>
+  </lyrics>
+</song>

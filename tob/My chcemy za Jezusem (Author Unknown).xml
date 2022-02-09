@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:25">
+  <properties>
+    <titles>
+      <title>My chcemy za Jezusem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="46"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My chcemy za Jezusem iść,<br/>Na każdy dzień w ślad za Nim iśc,<br/>My chcemy za Jezusem iść,<br/>My chcemy za Nim iść.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My chcemy dla Jezusa żyć,<br/>Na każdy dzień dla niego żyć;<br/>My chcemy dla Jezusa żyć,<br/>Dla Niego chcemy żyć.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pam Jezus naszym Zbawcą jest,<br/>Na każdy dzień, On Zbawcą jest,<br/>Pan Jezus naszym Zbawcą jest,<br/>On naszym Zbawca jest.</lines>
+    </verse>
+  </lyrics>
+</song>

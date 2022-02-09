@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:22">
+  <properties>
+    <titles>
+      <title>Jeden przyszedł na ziemię</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="107"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jeden przyszedł na ziemię,<br/>by umrzeć za mnie,<br/>Niech na wieki za to będzie czczon!<br/>Grzechy me wziął na Siebie,<br/>na krzyż zaniósł je,<br/>Tak, za wszystkich<br/>On poniósł tam zgon.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pan mych win brzemię zdjął,<br/>Z Sobą na krzyż je wziął,<br/>Grzechy me legły w grobie z Nim wraz.<br/>Jak radosna to wieść:<br/>Jezus niósł krzyż i śmierć<br/>I tak zdjął wszelki grzech<br/>z wszystkich nas!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdyby Pan chciał się z nami<br/>prawować, iść w sąd,<br/>Któż by przed Nim się ostać tam mógł?<br/>Lecz kto wyzna swe grzechy,<br/>porzuci swój błąd,<br/>Ten śmie spojrzeć<br/>w twarz Jego bez trwóg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ufaj Panu i życie<br/>w ofierze Mu złóż,<br/>Gdyż za ciebie to broczył On krwią.<br/>Choćby było twych grzechów<br/>bez liczby tu już,<br/>Przez krew Jego<br/>zgładzone już są.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jeden umarł na krzyżu<br/>za ciebie i mnie,<br/>Tam i tobie Swój pokój On dał.<br/>Patrz, On Sam ofiarował<br/>się za grzechy twe,<br/>W Nim też tylko<br/>zbawienia masz dział</lines>
+    </verse>
+  </lyrics>
+</song>

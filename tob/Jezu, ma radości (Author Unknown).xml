@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:28">
+  <properties>
+    <titles>
+      <title>Jezu, ma radości</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="228"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezu, ma radości,<br/>Duszy mej miłości,<br/>Drogi Jezu mój!<br/>Kiedyż, kiedyż, Panie,<br/>Tęsknić już przestanę,<br/>Głos usłyszę Twój?<br/>Oblubieńcem Tyś jest mym;<br/>Nic milszego ponad Ciebie<br/>Nie znam tu, ni w niebie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tyś jest mym schronieniem;<br/>Pod Twych skrzydeł cieniem<br/>Nie zatrwożę się.<br/>Niech pękają skały,<br/>Drży krąg ziemi cały -<br/>Jezus chroni mię.<br/>Choćby w przepaść runął świat,<br/>Choć mię grzech i piekło goni,<br/>Jezus mię obroni.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Śmierć niech postrach mnoży,<br/>Szatan niech się sroży -<br/>Nie odstąpię wstecz.<br/>Burz się, szalej, świecie,<br/>Jam bezpieczny przecie,<br/>Więc, bojaźni, precz!<br/>Bóg mą tarczą, zbroją mą,<br/>Choć otchłanie wrą spienione,<br/>W Panu mam obronę.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Za nic mam rozkosze;<br/>Nad ich czar przenoszę Ciebie,<br/>Zbawco dusz.<br/>Za nic czcze honory;<br/>Świetne ich pozory<br/>Mnie nie łudzą już.<br/>Ani nędza, krzyż, ni śmierć<br/>Nie odłączą mnie od Niego -<br/>Od Jezusa mego.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ustań, smutku wszelki,<br/>Pocieszyciel wielki -<br/>Jezus przy mnie tuż.<br/>Miłujących Boga,<br/>Choć ich gnębi trwoga,<br/>Radość wita już.<br/>Choć tu w znoju dźwigam krzyż,<br/>Ty położysz kres żałości,<br/>Jezu, ma radości</lines>
+    </verse>
+  </lyrics>
+</song>

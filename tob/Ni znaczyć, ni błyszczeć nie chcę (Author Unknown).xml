@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:45">
+  <properties>
+    <titles>
+      <title>Ni znaczyć, ni błyszczeć nie chcę</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="491"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ni znaczyć, ni błyszczeć nie chcę,<br/>Ja czekam u Pańskich nóg,<br/>Czy mnie, tej skorupy biednej,<br/>On w służbie by użyć mógł.<br/>Więc daję Mu serce swoje,<br/>By On Swej oliwy w nie wlał,<br/>By życia trysnęły zeń zdroje,<br/>Jak strumień ożywczy ze skał.<br/>Ni znaczyć, ni błyszczeć nie chcę,<br/>Ja czekam u Pańskich nóg,<br/>Czy mnie tej skorupy biednej<br/>On w służbie by użyć mógł.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ni znaczyć, ni błyszczeć nie chcę,<br/>Niech On mię prowadzi Sam<br/>I Jemu się za narzędzie<br/>Ochotnie do służby dam.<br/>I pójdę, gdzie mnie przeznaczy,<br/>Do dzieła przyłożę swą dłoń,<br/>A kiedy odwołać mię raczy,<br/>Na łono Mu złożę swą skroń.<br/>Ni znaczyć, ni błyszczeć nie chcę,<br/>Niech On mię prowadzi Sam<br/>I Jemu się za narzędzie<br/>Ochotnie do służby dam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, błogo ni lśnić, ni znaczyć!<br/>Dopełnię tak czynów dwóch:<br/>Swojego uwielbię Pana,<br/>Swe ciało uniżę w proch.<br/>On potem już wszystkim będzie,<br/>Ma chwała obróci się w nic,<br/>Gdy mię do Swej chwały przywiedzie,<br/>Gdy zetrze skażenie z mych lic.<br/>O, błogo ni lśnić, ni znaczyć!<br/>Dopełnię tak czynów dwóch:<br/>Swojego uwielbię Pana,<br/>Swe ciało uniżę w proch,</lines>
+    </verse>
+  </lyrics>
+</song>

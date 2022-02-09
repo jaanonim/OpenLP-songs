@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:28">
+  <properties>
+    <titles>
+      <title>Samotny wśród morskich</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="245"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Samotny wśród morskich<br/>błąkałem się fal,<br/>Noc głucha, a wicher<br/>ponosił mnie w dal.<br/>Wiatr miotał mą łodzią<br/>i mrok czerniał w krąg,<br/>A wiosło wypadło<br/>z zmęczonych mych rąk.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Odwagi! Ratunek<br/>przybliża się już;<br/>Pan nie da mi zginąć<br/>wśród wichrów i burz.<br/>On chodził po fali<br/>i wichry On zmógł,<br/>Zaufam Mu szczerze,<br/>wybawi mię z trwogi</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zgubiony w swych grzechach,<br/>bez woli, bez sił,<br/>Na skraju przepaści<br/>głębokiej jam był.<br/>Wtem zbliżył się Jezus,<br/>wyciągnął Swą dłoń<br/>I dźwignął mą duszę<br/>wysoko nad toń.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ach, żyję! Ratunek<br/>przybliżył się już;<br/>Pan nie dał mi zginąć<br/>wśród wichrów i burz.<br/>On chodził po fali<br/>i wichry On zmógł;<br/>Jam ufność w Nim złożył,<br/>On wyrwał mię z trwóg!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oddałem się Jemu<br/>by w przystań mnie wiódł,<br/>Gdyż własny nie starczył<br/>wysiłek i trud;<br/>On łódź mą prowadził,<br/>gdym w trwodze ja drżał,<br/>Do cichej przystani<br/>wśród wichrów i skał.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I oto nie trwożę,<br/>nie lękam się już,<br/>Mą łodzią kieruje<br/>Pan wichrów i burz,<br/>I słońce mi świeci<br/>i błyszczy już toń,<br/>A Jego wszechmocna<br/>nade mną jest dłoń</lines>
+    </verse>
+  </lyrics>
+</song>

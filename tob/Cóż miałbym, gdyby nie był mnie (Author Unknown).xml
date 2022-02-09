@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:34">
+  <properties>
+    <titles>
+      <title>Cóż miałbym, gdyby nie był mnie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="326"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cóż miałbym, gdyby nie był mnie<br/>Mój Jezus obrał Sobie?<br/>Sam tylko ból na serca dnie,<br/>Ach, bez Jezusa, serce me,<br/>/ Już byłoby po tobie, /x2 po tobie!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cóż mógłby dać mi cały świat,<br/>Cóż, za Jezusa mego?<br/>Choć miałbym świata panem być,<br/>Nie chciałbym bez Jezusa żyć;<br/>/ Nie mógłbym żyć bez Niego, /x2 bez Niego!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bo któż by w bólu ulgę dał,<br/>Któż na śmiertelnym łożu?<br/>Kto sądu by rozpędził strach?<br/>Bez Niego żyłbym wciąż we łzach,<br/>/ Gdy trwogi się rozmnożą, /x2 rozmnożą!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nie miałbym nic, prócz wiecznych mąk,<br/>Za krótką chwilą chwały.<br/>Bez Pana żyć, okropna rzecz!<br/>O straszna myśli, odejdź precz,<br/>/ Bo drżę ze zgrozy cały, /x2 drżę cały!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lecz, że Jezusa teraz mam,<br/>O, jakąż to błogością!<br/>On władcą wszystkich słońc i ziem,<br/>Więc także wszystko, wszystko mym,<br/>/ Bo On jest mą własnością, /x2 własnością!</lines>
+    </verse>
+  </lyrics>
+</song>

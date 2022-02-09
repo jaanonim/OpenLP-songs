@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:46">
+  <properties>
+    <titles>
+      <title>165 KOCHAM CIEBIE PANIE MÓJ</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kocham Ciebie Panie mój<br/>Kocham Cię Panie mój <br/>/x4</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Z ciemności wyprowadzasz mnie -<br/>Ku światłu Twemu<br/>Z niewoli wybawiłeś mnie Swą mocą.<br/>Wciąż ze mną jesteś,<br/>Ty o mnie troszczysz się.<br/>Z głębi serca chcę Ci wyznać, że…</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:30">
+  <properties>
+    <titles>
+      <title>Nie o szczęście</title>
+    </titles>
+    <authors>
+      <author type="words">E.L.Budry</author>
+      <author type="music">E.L.Budry</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="276"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie o szczęście, co tak mknie,<br/>Drogi Panie, prosim Cię,<br/>Nie o czczej próżności błysk,<br/>Ni o świata marny zysk.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Panie, przy nas zawsze stój,<br/>Duch niech nami rządzi Twój;<br/>Niech nic Go nie spłoszy, nie,<br/>Gdy powiewem Swoim tchnie,<br/>Raczże Sam, Panie nasz,<br/>Mieszkać w nas po wszystek czas.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Duch, nie ciała wola zła<br/>W sercach naszych rządzić ma;<br/>Chcemy kornie słuchać Go,<br/>Gdy objawia wolę Swą.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niech pod Swoją weźmie strzaż<br/>Mowy, czyny, umysł nasz,<br/>By do naszych serca niw<br/>Sięgał możny Jego wpływ.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy Bóg śle doświadczeń czas,<br/>Wzrasta owoc Ducha w nas.<br/>Widzieć każdy na nas ma,<br/>Co zdziałała łaska ta.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jakaż wielka łaska w tym,<br/>Gdy nawiedzasz Duchem Swym,<br/>Gdy posłuszne w każdy czas<br/>Swe narzędzie znajdziesz w nas.</lines>
+    </verse>
+  </lyrics>
+</song>

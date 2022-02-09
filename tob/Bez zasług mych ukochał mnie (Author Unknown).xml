@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:27">
+  <properties>
+    <titles>
+      <title>Bez zasług mych ukochał mnie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="223"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bez zasług mych ukochał mnie<br/>Przed wieki Boży Syn.<br/>Na krzyżu ofiarował się,<br/>By mnie oczyścić z win.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przez przenajświętszą Swoją krew<br/>I Swój męczeński zgon<br/>Bóg - Syn przebłagał Ojca gniew,<br/>Przed Boski wwiódł mnie tron.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pokładam w Zbawcy ufność swą,<br/>On w ręku ma mój los,<br/>On mnie prawicą broni Swą,<br/>Odpiera każdy cios.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy tak w przymierzu z Bogiem trwam,<br/>Czyż mnie pokona kto?<br/>Chrystusa dziś z dobrodziejstw znam,<br/>Lecz w niebie ujrzę Go.</lines>
+    </verse>
+  </lyrics>
+</song>

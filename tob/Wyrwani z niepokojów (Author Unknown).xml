@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:34">
+  <properties>
+    <titles>
+      <title>Wyrwani z niepokojów</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="93"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wyrwani z niepokojów i wielu<br/>groźnych burz idziemy do Twej ciszy,<br/>do Twych niebiańskich wzgórz.<br/>Tam z Ciebie zaczerpiemy pociechy istną moc,<br/>i siły nabierzemy,<br/>by przetrwać ciemną noc.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Matczyną troskliwością otaczasz dusze mdłe,<br/>dobrocią Swą, miłością obdarzasz dzieci Twe.<br/>Więc szczerze podziwiamy Twój pociech pełen zdrój;<br/>innego my nie mamy, jedynie skarbiec Twój.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bez Ciebie byśmy padli wyzbyci z wszelkich sił,<br/>bez Ciebie my bezradni na wzór kamiennych brył,<br/>lecz z Tobą nie zachwieje nas niemoc; smutek,<br/>głód oderwać nas nie mogą od Boga próżny trud.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Śmierć, życie, żadne moce nic nie odłączy nas,<br/>dnie, ani ciemne noce, zły, ani dobry czas.<br/>Prosimy Cię jedynie modlitwy,<br/>Jezu wznoś do Ojca niebieskiego, o wierność naszą proś.</lines>
+    </verse>
+  </lyrics>
+</song>

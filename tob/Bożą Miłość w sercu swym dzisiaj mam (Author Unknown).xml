@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:15">
+  <properties>
+    <titles>
+      <title>Bożą Miłość w sercu swym dzisiaj mam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="45"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bożą Miłość w sercu<br/>swym dzisiaj mam,<br/>Tą Miłością coraz bardziej kocham Cię.<br/>W Tobie widzę też<br/>wspaniałość Króla Chwał,<br/>Bożą Miłość w sercu<br/>swym dzisiaj mam. // x2 //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wielką Wiarę, w sercu<br/>swym dzisiaj mam.<br/>Sercem swoim tak gorąco służę Ci.<br/>Bratu, Siostrze chcę<br/>dziś Prawdę Twoją dać,<br/>wielką wiarę w sercu<br/>swym dzisiaj mam. // x2 //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dziecka radość w sercu<br/>swym dzisiaj mam.<br/>I jak dziecko bardzo pragnę cieszyć się.<br/>Swego Ducha Moc<br/>dziś Jezus daje nam,<br/>dziecka radość w sercu<br/>swym dzisiaj mam. // x2 //</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:29">
+  <properties>
+    <titles>
+      <title>O, chwalcie Pana!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="16"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, chwalcie Pana! Dobry jest zaiste,<br/>dobra rzecz śpiewać Łasce wiekuistej.<br/>Chwała to wdzięczna, pieśń nie wyczerpana;<br/>o, chwalcie Pana!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Śpiewajcież społem! Dzięki Mu składajcie,<br/>na harfach Jemu wdzięcznie wygrywajcie,<br/>przed Panem mocnym skłońcie swe kolana;<br/>o, chwalcie Pana!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Okrył niebiosa gęstwą ciemnej chmury,<br/>na rozkaz Jego kropią deszcze z góry,<br/>przez Niego trawa niwą jest ubrana;<br/>o, chwalcie Pana!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>On to wszelkiemu ciału pokarm dawa,<br/>także robaczkom zgotowana strawa;<br/>i prośba ptasząt młodych wysłuchana;<br/>o, chwalcie Pana!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Chwalcież z weselem Swego Stworzyciela,<br/>On pokój czyni, wiernych rozwesela,<br/>radość zbawienia przezeń darowana;<br/>o, chwalcie Pana!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O, Jezu Chryste, Ciebie my błagamy,<br/>niech łaska Twoja wiecznie mieszka z nami,<br/>dla chwały Twego wielebnego miana;<br/>o, chwalcie Pana!</lines>
+    </verse>
+  </lyrics>
+</song>

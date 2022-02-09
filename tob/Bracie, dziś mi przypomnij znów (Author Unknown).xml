@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:31">
+  <properties>
+    <titles>
+      <title>Bracie, dziś mi przypomnij znów</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="35"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bracie, dziś mi przypomnij znów z Biblii kilka słów,<br/>treść bym chciał zgłębić Bożych słów, z Biblii kilka słów.<br/>W niepozornej szacie, mieści skarbów krocie.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/Cudny to zdrój, pociechy zdrój,<br/>w Biblii jest życia zdrój/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Innym chętnie powiedzieć chcę z Biblii kilka słów,<br/>jak do Zbawcy przywiodło mię z Biblii kilka słów.<br/>Wtedy się przez słowo narodziłem znowu.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>/Cudny to zdrój, pociechy zdrój,<br/>w Biblii jest życia zdrój/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, jak wielka posiada moc z Biblii kilka słów.<br/>Najciemniejszą rozjaśnia noc, z Biblii kilka słów!<br/>Wiedz, że Słowo Boże też cię zmienić może.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>/Cudny to zdrój, pociechy zdrój,<br/>w Biblii jest życia zdrój/</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wskaże jak święte życie wieść z Biblii kilka słów,<br/>każdy ciężar pomoże znieść z Biblii kilka słów.<br/>Chrystus jest tym słowem budzi życie nowe.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>/Cudny to zdrój, pociechy zdrój,<br/>w Biblii jest życia zdrój/</lines>
+    </verse>
+  </lyrics>
+</song>

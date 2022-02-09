@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:54">
+  <properties>
+    <titles>
+      <title>O zraniony, Jezu mój</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="691"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O zraniony, Jezu mój,<br/>Coś na krzyżu staczał bój,<br/>Za mnieś życie Swoje dał,<br/>Bym ja żywot w Tobie miał;<br/>Za mnie Swą przelałeś krew,<br/>Przejednałeś Boży gniew;<br/>Wszystek mój zgładziłeś dług,<br/>Abym wyjść na wolność mógł.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czemuś cierpiał Jezu mój?<br/>Był to moich grzechów rój!<br/>Za me winy Ciebie lżą,<br/>Za mnie się zalewasz krwią.<br/>Choć bez winy, choć bez zmaz,<br/>Padasz na twarz raz po raz;<br/>Wielkiej Twej miłości moc<br/>Odpędziła śmierci noc.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Idź już, marny świecie, idź!<br/>Chcę własnością Pańską być;<br/>W Nim gotowe szczęście mam,<br/>Jemu serce swoje dam.<br/>W doczesności z Nim chcę żyć,<br/>Z Nim się do wieczności wzbić,<br/>Wszystko w Nim posiadać chcę,<br/>Z Nim w ojczyźnie złączyć się.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy nastanie koniec mój,<br/>Przyjdzie stoczyć z śmiercią bój,<br/>Wtenczas Ty, Jutrzenko, wejdź,<br/>W drodze do wieczności świeć!<br/>„Amen, - rzecz - niech będzie tak."<br/>To Twej łaski pewny znak;<br/>Wszakżeś Ty na niebie Pan,<br/>Weź mnie na ojczysty łan!</lines>
+    </verse>
+  </lyrics>
+</song>

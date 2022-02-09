@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:39">
+  <properties>
+    <titles>
+      <title>Z miłości jest</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="185"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z miłości jest, co czyni Pan i z Jego świętej woli!<br/>Poniosę cicho Jego krzyż, choć boli, bardzo boli.<br/>On jest mój Bóg, w głębinie trwóg<br/>On możnie mię ratuje, w Nim pomoc swą znajduję.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Z miłości jest, co czyni Pan! On ci mnie nie zawiedzie,<br/>On mnie sprowadza z drogi zła, zaradzi wszelkiej biedzie.<br/>On Bogiem mym, ja ufam w Nim, od zguby mię ochroni,<br/>boć jestem w Jego dłoni.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z miłości jest, co czyni Pan! On światłem, życiem dzieli.<br/>On wychowuje dzieci Swe, czy smuci, czy weseli.<br/>Nadejdzie czas, gdy każdy z nas na własne swoje oczy łaskawość Jego zoczy.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Z miłości jest, co czyni Pan! Spokojnie więc wychylę ten kielich,<br/>w którym widzę rad boleści gorzkich tyle.<br/>Na jego dnie ukrywa się przesłodkie pokrzepienie;<br/>pierzchnijcie smutku cienie!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Z miłości jest, co czyni Pan! Już przy tym pozostanę,<br/>choćby na nędzę, trud i śmierć me życie było zdane.<br/>Z ucisków, z burz mój Pan, mój Stróż cudownie mię wyzwoli,<br/>więc ufam Jego woli.</lines>
+    </verse>
+  </lyrics>
+</song>

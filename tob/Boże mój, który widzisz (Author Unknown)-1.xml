@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:25">
+  <properties>
+    <titles>
+      <title>Boże mój, który widzisz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="177"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boże mój,<br/>który widzisz serca mego łkanie<br/>I ten ciężki duszy mojej bój,<br/>Serce me do Cieie wznoszę, Panie,<br/>Rany zgój, rany zgój, rany zgój!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Boże mój,<br/>który wiele dla mnie masz miłości,<br/>Przytul mnie do serca Swego Ty,<br/>Ukój żal i wszystkie me gorzkości,<br/>Otrzyj łzy, otrzyj łzy, otrzyj łzy!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezu moj,<br/>któryś cierpiał dla mnie na Gogocie<br/>I otwarłeś dla mnie łaski drzwi,<br/>Gdy modliłeś się w Swym krwawym pocie,<br/>Pomóż mi, pomóż mi, pomóż mi!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Duszo spójrz!<br/>Ja dla ciebie wszystko wykonałem,<br/>Jest zgładzony grzech i ciężar twój,<br/>I zwycięstwo tobie zgotowałem;<br/>W wierze stój, w wierze stój, w wierze stój!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Panie mój,<br/>pomóż tarczę wiary wziąć i nosić,<br/>W uzbrojeniu Twoim chodzić wciąż,<br/>W mocy Ducha wiary plon przynosić<br/>Zawsze już, zawsze już, zawsze już!</lines>
+    </verse>
+  </lyrics>
+</song>

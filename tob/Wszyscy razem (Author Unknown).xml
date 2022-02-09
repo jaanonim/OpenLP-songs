@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:13">
+  <properties>
+    <titles>
+      <title>Wszyscy razem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="191"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Wszyscy razem, wszyscy razem<br/>W imię Pana spotkajmy się /x2<br/>Lud Jezusa idzie razem.<br/>Czy idziesz też?<br/>Dzielmy miłość między siebie!<br/>Czy czynisz to?<br/>Niech różnice nas nie dzielą.<br/>Czy starasz się?<br/>Niech Duch Jego nas napełnia.<br/>Czy masz już Go?</lines>
+    </verse>
+  </lyrics>
+</song>

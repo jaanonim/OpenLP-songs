@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:32">
+  <properties>
+    <titles>
+      <title>Rzeszo święta</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="50"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rzeszo święta, serce swe nastrój do modlenia,<br/>niechaj Duch, co z nieba tchnie,<br/>serca rozpromienia.<br/>Modłów woń w rajską błoń w każdej<br/>niech godzinie z głębi serca płynie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tę ofiarną modłów woń lud zasyła Boży,<br/>Jemu ją anielska dłoń na ołtarzu złoży.<br/>Chrystus Pan dla Swych ran<br/>jest tym Pośrednikiem i Orędownikiem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jeśli jednej duszy głos nie ominie celu,<br/>ale w niebo sięga wprost, cóż,<br/>gdy modłów wielu złączą zbór w jeden chór,<br/>cóż, gdy rzesze całe wznoszą Bogu chwałę?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tajemniczą mocą tchną świętych dusz modlenia,<br/>tłumią w sercu pychę czczą,<br/>strzegą od zwątpienia. Siła ta wiecznie trwa,<br/>wiernym dopomaga, nieprzyjaciół smaga.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Zechciejże więc, rzeszo,<br/>wznieść serce rozmodlone, do modlitwy ręce spleść,<br/>Panu poświęcone. Poświęćże modły swe,<br/>niech aż pod niebiosy wzbiją się ich głosy.</lines>
+    </verse>
+  </lyrics>
+</song>

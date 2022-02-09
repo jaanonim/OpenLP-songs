@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:44">
+  <properties>
+    <titles>
+      <title>Jak zwycięsko kroczy Jezus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="487"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak zwycięsko kroczy Jezus<br/>przez ten świat!<br/>Wierne Jemu wojsko idzie<br/>za Nim w ślad.<br/>A gdzie życie nowe wnosi<br/>Ducha wiew,<br/>Tam rozbrzmiewa chwały<br/>przeradosny śpiew:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bracia, siostry,<br/>pójdźcie z wszystkich stron,<br/>Wiedźcie grzesznych przed Baranka tron!<br/>Bracia, siostry,<br/>pójdźcie z wszystkich stron,<br/>Wiedźcie wszystkich grzesznych<br/>tam przed Pański tron!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ludu Boży, rodzie święty,<br/>zgromadź się,<br/>Podnoś w niebo wciąż<br/>przyczynne modły swe,<br/>Proś, zaświadczaj, pracuj,<br/>póki stanie tchu,<br/>Ślepych, chromych prowadź,<br/>śpiących budź ze snu!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy odwaga was opuszcza, gaśnie żar,<br/>To ożywi was na nowo Ducha dar!<br/>Spoglądajcie na Jezusa święty krzyż,<br/>On uzbroi Swoich świadków siłą z wyż!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jak radośnie dusze wołać z błędnych dróg<br/>I prowadzić je do świętych Zbawcy nóg!<br/>Jak to będzie, kiedy pośród rajskich pól<br/>Swoich gości na wesele zwoła Król!</lines>
+    </verse>
+  </lyrics>
+</song>

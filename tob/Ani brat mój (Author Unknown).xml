@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:36">
+  <properties>
+    <titles>
+      <title>Ani brat mój</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="7"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>. Ani brat mój ani siostra tylko Panie ja<br/>Muszę więcej modlić się./2x</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tak ja, tak Panie ja,<br/>Muszę więcej modlić się./2x</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ani ojciec ani matka tylko Panie ja,<br/>Muszę więcej modlić się./2x</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ani gość mój ani sąsiad tylko Panie ja,<br/>Muszę więcej modlić się./2x</lines>
+    </verse>
+  </lyrics>
+</song>

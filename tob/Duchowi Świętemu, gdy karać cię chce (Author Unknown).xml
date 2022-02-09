@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:29">
+  <properties>
+    <titles>
+      <title>Duchowi Świętemu, gdy karać cię chce</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="258"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Duchowi Świętemu, gdy karać cię chce,<br/>Co mocno sumienie poświadcza ci twe,<br/>Zaprzestań, człowiecze, sprzeciwiać już się,<br/>Gdy łaskę zaniedbasz, opuści On cię.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Już tobą nie władnie<br/>moc grzechu ni śmierć,<br/>Gdy On cię nawrócił<br/>i w łasce chce mieć;<br/>O, bądź pełen Ducha, nie zasmucaj Go,<br/>Naśladuj codziennie i przyjm światło to.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>W pielgrzymce się nieraz<br/>trud czuje i mdłość,<br/>że nawet tak ledwie tchu dusza ma dość.<br/>Nowego ci ognia tam z góry znów trza;<br/>Nie przytłumiaj Ducha, pociechę ci da.</lines>
+    </verse>
+  </lyrics>
+</song>

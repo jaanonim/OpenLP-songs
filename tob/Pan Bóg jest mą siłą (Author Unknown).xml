@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:35">
+  <properties>
+    <titles>
+      <title>Pan Bóg jest mą siłą</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="352"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pan Bóg jest mą siłą<br/>I obroną miłą,<br/>Stać bezpiecznie może,<br/>Gdy ma Ciebie, Boże,<br/>Ma dusza.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy nieprzyjaciele<br/>Chcą mię zgubić śmiele,<br/>Duch mój się nie trwoży,<br/>Bo mię strzegą<br/>Boży Anieli.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Choćby z całej siły<br/>Wojska uderzyły,<br/>Bać się nie mam czego,<br/>Bo wszystkiego tego<br/>Za mało.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bowiem przy mnie stoi,<br/>Który złych rozbroi:<br/>Szermierz ten waleczny;<br/>Pan i Bóg mój wieczny<br/>Mnie broni.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Chciej wysłuchać, Panie,<br/>Okaż zlitowanie<br/>I mnie strapionego,<br/>Ciebie proszącego<br/>Poratuj!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nie kryj twarzy Swojej,<br/>Lecz pociechę mojej<br/>Duszy spraw z litości,<br/>Wybaw mię z trudności,<br/>Mój Panie!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Wskaż mi proste drogi,<br/>Aby moje nogi<br/>Na tor bezbożników,<br/>Moich przeciwników,<br/>Nie poszły.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Za to chwalić Ciebie,<br/>Mój Obrońco w niebie,<br/>Będę ze wszystkimi<br/>Tobie oddanymi<br/>Na wieki.</lines>
+    </verse>
+  </lyrics>
+</song>

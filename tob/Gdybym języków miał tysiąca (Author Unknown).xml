@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:29">
+  <properties>
+    <titles>
+      <title>Gdybym języków miał tysiąca</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="18"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Gdybym języków miał tysiące<br/>i serc tysiące w piersi swej,<br/>wszystkie by ogniem pałające wznosiły Bogu,<br/>Władcy ziem, w zawody głośne pienia chwał za to,<br/>co w łasce wielkiej dał.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, niech me pienia głośne<br/>dążą aż do słonecznych niebiois stref!<br/>Strumienie krwi, co w żyłach krążą,<br/>niech triumfalny wzniosą śpiew.<br/>Niech w śpiew się każdy zmieni dech<br/>i płynie do niebieskich strzech.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Stworzenia wszystkie,<br/>chwałę nieście, o, niechaj nuci chwałę ptak.<br/>Ospałej duszy mej pomóżcie,<br/>bo jej do tego siły brak,<br/>bym godnie to wyśpiewać mógł,<br/>co wszędzie wielki zdziałał Bóg.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, Tobie Jezu, Tobie chwała,<br/>że Twoja zbawicielska dłoń łaskawie<br/>pomoc mi podała i mnie przez krew,<br/>przez śmierci toń wyrwała już z szatana rąk,<br/>co w swą niewolę był mnie wprzągł.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Chcę Twoją dobroć wielką głosić,<br/>dopóki służy język mi,<br/>chcę Ci radosne modły wznosić,<br/>dopóki w piersiach serce drży,<br/>gdy w ustach mi zabraknie sił,<br/>wzdychaniem będę Ciebie czcił.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ach, przyjmij chwałę mą z padołu,<br/>mój Boże, przyjmij w łasce Swej!<br/>W niebiesiech chwalić Cię pospołu<br/>z anielską rzeszą będzie lżej.<br/>Tam wzniesie Tobie dusza<br/>ma po tysiąckroć alleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

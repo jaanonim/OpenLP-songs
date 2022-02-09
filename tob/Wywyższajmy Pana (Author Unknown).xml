@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:35">
+  <properties>
+    <titles>
+      <title>Wywyższajmy Pana</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wywyższajmy Pana, alleluja,<br/>Jemu niech brzmi chwała, alleluja.<br/>Kwiaty, ptaki, drzewa, Boże dzieci też,<br/>Wznieśmy w górę ręce, i śpiewajmy pieśń.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Hej, hej, hej, la, la, la<br/>Hej, hej, hej, alleluja /2x</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bóg jest naszym Ojcem, alleluja.<br/>Stworzył gwiazdy, słońce, alleluja.<br/>Wiele pięknych rzeczy, Jego dziełem jest<br/>Za to że nas kocha tę śpiewajmy pieśń.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dał nam Syna Swego, alleluja<br/>Byś uwierzył w Niego, alleluja<br/>Jeśli On zamieszka dzisiaj w sercu twym<br/>Będziesz żył już wiecznie ten śpiewając hymn</lines>
+    </verse>
+  </lyrics>
+</song>

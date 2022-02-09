@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:25">
+  <properties>
+    <titles>
+      <title>Błogosławione jest Imię Twe</title>
+    </titles>
+    <copyright>2002 Thankyou Music</copyright>
+    <authors>
+      <author type="translate">Zbigniew Milczanowski</author>
+      <author type="words">Matt and Beth Redman</author>
+      <author type="music">Matt and Beth Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="41"/>
+    </songbooks>
+    <themes>
+      <theme>blessing</theme>
+      <theme>proclamation</theme>
+      <theme>keyboard</theme>
+      <theme>joy</theme>
+      <theme>meditation</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>thanksgiving</theme>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Błogosławione jest Imię Twe,<br/>Błogosławione jest Imię Twe,<br/>i wywyższone nad wszelką<br/>Chwałę i Cześć,<br/>Tyś jedynie Panem jest. // (x2) //</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Powstań!  i Pana chwal<br/>Chwal Go na wieki.<br/>Powstań!  chwal Boga wciąż<br/>On jedynie jest Panem.<br/>Powstań!  i Pana chwal<br/>chwal Go na wieki.<br/>Powstań!  chwal Boga wciąż,<br/>on Panem wszechświata jest.</lines>
+    </verse>
+  </lyrics>
+</song>

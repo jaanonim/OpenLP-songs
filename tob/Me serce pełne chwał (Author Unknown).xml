@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:20">
+  <properties>
+    <titles>
+      <title>Me serce pełne chwał</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="74"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Me serce pełne chwał<br/>Czci Boga w dzień i w noc.<br/>On Ducha Swego dał,<br/>Objawił Swoją moc.<br/>Ten święty łaski dar<br/>Rozpalił serce mi.<br/>Miłości Bożej żar<br/>W mym sercu odtąd lśni.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Miłości Bożej żar,<br/>Miłości Bożej żar!<br/>W mym sercu jasno lśni<br/>Miłości Bożej żar<br/>Duch Święty przyszedł wznieść<br/>Jezusa wieczną cześć;<br/>W mym sercu jasno lśni<br/>Miłości Bożej żar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Krzyż Jego - sztandar mój,<br/>Zwycięstwo przezeń mam;<br/>W ofierze żywot swój<br/>Na ołtarz Jemu dam.<br/>On mnie odkupił krwią<br/>I własność Swoją zna,<br/>Obficie łaskę Swą<br/>Dla mnie biednego ma.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O własną nie dbam cześć,<br/>Lecz łaskę sławić chcę<br/>I życie pragnę wieść,<br/>By Pan uwielbił się.<br/>O, chwalcież łaski moc,<br/>By każdy człek ją znał,<br/>By Ducha Twego chrzest<br/>Udziałem nam się stał..</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Duchu Święty, przyjdź<br/>I rozpal stadko Swe,<br/>W nim mocny ogień wznieć,<br/>By spalił wszystko złe!<br/>Niech z naszych płynie serc<br/>Potężny życia zdrój,<br/>By poznał cały świat<br/>Majestat sławny Twój.</lines>
+    </verse>
+  </lyrics>
+</song>

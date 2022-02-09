@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:07">
+  <properties>
+    <titles>
+      <title>Jedyny Boży Syn</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="37"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jedyny Boży Syn zostawił niebo,<br/>Na ziemię zstąpił tu, by zbawić nas.<br/>Na krzyżu On wyjednał mi zbawienie.<br/>Czy wiesz, że On i ciebie zbawić chcę?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mów mi znów o Zbawcy i o niebie.<br/>Mów mi znów, jak On ukochał nas,<br/>Że niedługo wezwie nas do siebie,<br/>Abyśmy wiecznie żyli z Nim wśród gwiazd.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przed świętym Ojcem swym On oręduje,<br/>Za tymi, którzy wciąż ufają w Nim.<br/>Ma dusza w Nim spoczynek swój znajduje,<br/>On mą radością, On jest szczęściem mym.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ach tęskni serce me, a Jezus zwleka.<br/>Pokoju nie zna świat, bo pokój w Nim,<br/>Stworzenie też powrotu Jego czeka,<br/>O, Panie Jezu przyjdź, czekamy przyjdź.</lines>
+    </verse>
+  </lyrics>
+</song>

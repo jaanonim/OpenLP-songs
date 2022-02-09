@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:57">
+  <properties>
+    <titles>
+      <title>O, świata zbawienie, miłości Twej zew</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="752"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, świata zbawienie, miłości Twej zew.<br/>Nam dasz przebaczenie, boś przelał Swą krew.<br/>Wszak nas Tyś odkupił i dał radość nam,<br/>/ Więc za to Ci śpiewam:!<br/>Więc za to Ci śpiewam pochwalny ten psalm.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Choć grzechy me wielkie, obumarł mój słuch,<br/>Lecz Słowa Bożego się dotknął mój duch.<br/>Wnet serce ożyło i łzy płyną me<br/>- [Ach, Jezus Zbawiciel, /x2 Ach,<br/>Jezus Zbawiciel przebaczył i mnie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niegodny grzeszniku, posłuchaj! Brzmi zew:<br/>Dla win odpuszczenia Pan przelał Swą krew!<br/>I grzechy już nasze rozproszył jak dym!<br/>{:Więc śpiewam dziś Jemu, /x2<br/>Więc śpiewam dziś Jemu pochwalny ten hymn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Modlitwy swe wznoszę gdzie święty jest Bóg,<br/>A wiary nie może naruszyć mej wróg.<br/>Światłością niebiańską oświeca nas Pan,<br/>{: „Hosanna" niech zabrzmi, /x2<br/>„Hosanna" niech zabrzmi, W Nim żywot nam dań.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Syn. Boży w męczarniach na Golgocie zmarł,<br/>By każdy z szpon grzechu i śmierci z Nim wstał.<br/>Choć świeckie rozkosze tu nęcą nas wciąż,<br/>/ Pan woła Swe dziecię, /x2<br/>Pan woła Swe dziecię: „Do nieba już dąż!"</lines>
+    </verse>
+    <verse name="v6">
+      <lines>W niebieskiej Ojczyźnie wśród pienia i chwał<br/>Koronę żywota i ja będę miał.<br/>Gdy chóry ze wszystkich połączą się stron,<br/>/ To śpiewać będziemy, /x2<br/>To śpiewać będziemy: - „Uczynił to On".</lines>
+    </verse>
+  </lyrics>
+</song>

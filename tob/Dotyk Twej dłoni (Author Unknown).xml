@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:27">
+  <properties>
+    <titles>
+      <title>Dotyk Twej dłoni</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="81"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dotyk Twej dłoni, o Panie mój,<br/>Serce ukoi me.<br/>Słowo jedyne z Twoich ust,<br/>Pokój do duszy śle.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dotyk Twej dłoni, o Panie mój,<br/>Zbudzi uśpioną pieśń.<br/>Nową melodię z pękniętych strun,<br/>Chcę Tobie, o Boże nieść.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dotyk Twej dłoni, o Panie mój,<br/>Ściszy wzburzoną toń.<br/>Wichry i burze w życiu mym,<br/>Twoja uśmierzy dłoń.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dotyk Twej dłoni, o Panie mój,<br/>Rany uleczy me.<br/>Bóle ukoi, otrze łzy,<br/>Mroczne rozjaśni dnie.</lines>
+    </verse>
+  </lyrics>
+</song>

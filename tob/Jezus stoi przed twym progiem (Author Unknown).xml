@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:35">
+  <properties>
+    <titles>
+      <title>Jezus stoi przed twym progiem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="122"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus stoi przed twym progiem,<br/>twoim gościem stać się chce,<br/>twoim Zbawcą, a nie wrogiem<br/>Otwórz Jemu serce swe!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, kto przyjmie kornie Boga,<br/>kto Mu serce swoje da?<br/>Słuchaj, czyż od twego proga<br/>nie przyjęty odejść ma?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Twoje serce tyle gości<br/>w sobie złudnych świata mar<br/>Przyjm Jezusa skarb miłości<br/>wdzięcznym będziesz za ten dar</lines>
+    </verse>
+    <verse name="c2">
+      <lines>O, kto przyjmie kornie Boga,<br/>kto Mu serce swoje da?<br/>Słuchaj, czyż od twego proga<br/>nie przyjęty odejść ma?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cz ma Jezus stać na próżno,<br/>gdy już przyszedł pod twój próg?<br/>Jutro może być za późno,<br/>może pójść od ciebie Bóg</lines>
+    </verse>
+    <verse name="c3">
+      <lines>O, kto przyjmie kornie Boga,<br/>kto Mu serce swoje da?<br/>Słuchaj, czyż od twego proga<br/>nie przyjęty odejść ma?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oddaj serce Jezusowi,<br/>póki łaska jeszcze trwa<br/>to o losie twym stanowi,<br/>bo któż zbawić ciebie ma?</lines>
+    </verse>
+    <verse name="c4">
+      <lines>O, kto przyjmie kornie Boga,<br/>kto Mu serce swoje da?<br/>Słuchaj, czyż od twego proga<br/>nie przyjęty odejść ma?</lines>
+    </verse>
+  </lyrics>
+</song>

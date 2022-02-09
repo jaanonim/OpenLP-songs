@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:11">
+  <properties>
+    <titles>
+      <title>Pasterzem dobrym</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="127"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pasterzem Dobrym jest mój Pan,<br/>więc nic nie braknie mi!<br/>Na niwach żyznych pasie mnie,<br/>do cichych wiedzie wód!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pokrzepia duszę moją wciąż,<br/>i Słowem karmi ją.<br/>Ścieżkami Swymi wiedzie mnie<br/>przez wielkie Imię Swe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Doliną ciemną choćbym szedł,<br/>nie będę lękać się.<br/>Boś ze mną jest,<br/>Twa laska, kij<br/>pociechą moją są.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Obficie stół zastawiasz mój,<br/>wśród nieprzyjaciól mych.<br/>Olejkiem Swym namaszczasz mnie,<br/>przepełniasz kubek mój.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A nadto dobroć, łaska Twa,<br/>wciąż ze mną będą szły.<br/>Aż wejdę tam, gdzie mieszka Pan<br/>i wiecznie będę żyć.</lines>
+    </verse>
+  </lyrics>
+</song>

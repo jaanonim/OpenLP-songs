@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:41">
+  <properties>
+    <titles>
+      <title>060 Jak dobrze jest dziękować Ci, Panie</title>
+    </titles>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jak dobrze jest dziękować Ci, Panie<br/>i śpiewać psalm Twojemu Imieniu,<br/>i opowiadać rano Twoje miłosierdzie, <br/>a w nocy wierność Twoją <br/>przy dziesięciostrunnej harfie i lutni<br/>i dźwięcznej cytrze.</lines>
+    </verse>
+  </lyrics>
+</song>

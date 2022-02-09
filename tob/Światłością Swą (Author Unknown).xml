@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:37">
+  <properties>
+    <titles>
+      <title>Światłością Swą</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="86"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Światłością Swą Ty rozjaśniasz ciemności,<br/>Dotknij mój wzrok widzieć chcę.<br/>Serce me jest przepełnione nadzieją,<br/>Z Tobą na wieki chcę żyć.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jestem by Cię wielbić, Jestem by Cię chwalić.<br/>Jestem by ogłaszać Tyś mój Bóg.<br/>Jesteś tak cudowny, jesteś tak wspaniały,<br/>Jesteś godzien przyjąć chwałę cześć.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Król mój i Pan wywyższony na wieki,<br/>Tobie należy się cześć.<br/>W pokorze Swej Ty przyszedłeś na ziemię,<br/>zanieść me grzechy na krzyż.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/ To miłość Twa sprawiła, że z mych grzechów<br/>Tyś uwolnił mnie /x2</lines>
+    </verse>
+  </lyrics>
+</song>

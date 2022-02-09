@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:16">
+  <properties>
+    <titles>
+      <title>Czarna Madonna</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="84"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jest zakątek na tej ziemi<br/>gdzie powracać każdy chce,<br/>gdzie króluje Jej oblicze,<br/>na nim cięte rysy dwie.<br/>Wzrok ma smutny zatroskany,<br/>jakby chciała prosić cię<br/>byś w matczyną Jej opiekę oddał się.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Madonno, Czarna Madonno<br/>jak dobrze Twym dzieckiem być.<br/>O pozwól Czarna Madonno<br/>w ramiona Twoje się skryć.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W jej ramionach znajdziesz spokój<br/>i uchronisz się od zła,<br/>bo dla wszystkich swoich dzieci<br/>Ona serce czułe ma.<br/>I opieką cię otoczy,<br/>gdy Jej serce oddasz swe,<br/>gdy powtórzysz Jej z radością słowa te:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dziś gdy wokół nas niepokój,<br/>gdzie się człowiek schronić ma,<br/>gdzie ma pójść jak nie do matki,<br/>która ukojenie da.<br/>Wiec błagamy, o Madonno,<br/>skieruj wzrok na dzieci swe<br/>i wysłuchaj, jak śpiewamy prosząc cię.</lines>
+    </verse>
+  </lyrics>
+</song>

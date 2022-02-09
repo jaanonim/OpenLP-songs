@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:00">
+  <properties>
+    <titles>
+      <title>O, gdzie żeńcy są, aby zebrać już</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="792"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, gdzie żeńcy są, aby zebrać już<br/>Obfity plon z pola, te łany zbóż?<br/>Wszak żeńców tak mało, a wielki trud,<br/>Niech przyjdzie żąć z nami nasz wszystek lud.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gdzie żeńcy, gdzie są? Kto gotów już,<br/>Niech idzie żąć z nami złote łany zbóż,<br/>Gdyż nastał żniwa wielkiego czas.<br/>O, nieście plon swój do gumien wraz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szukajcie też kłosów, gdzie rośnie chwast,<br/>Pszenicę, gdzie kąkol szukajcie wraz.<br/>Nie depczcie tych ziaren, co w pyle są.<br/>O, nieście je wszystkie w Ojcowski dom!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chwytajcie za sierpy i kosy wraz,<br/>Nastanie już żniwa wielkiego czas.<br/>Pracujcie, bo wkrótce nadejdzie Pan,<br/>I żeńców zabierze do niebios bram.</lines>
+    </verse>
+  </lyrics>
+</song>

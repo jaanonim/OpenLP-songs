@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:21">
+  <properties>
+    <titles>
+      <title>Zobacz, jak Pan go miłował</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="99"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zobacz, jak Pan go miłował,<br/>Nad nim Swą objawił moc,<br/>Kiedy z grobu go zawołał<br/>I rozjaśnił śmierci noc.<br/>Tenże Łazarz - cud prawdziwy -<br/>Powstał z śmierci, jak ze snu,<br/>I do Pana podszedł żywy,<br/>By na nowo służyć Mu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zobacz, jak Pan tych miłował,<br/>Co przybili na krzyż Go;<br/>Jak On winy im darował<br/>Za przestępstwo straszne to;<br/>Jak On synów Jeruzalem<br/>Pod Swe skrzydła skupić chciał<br/>I nad ich uporem z żalem<br/>Łzom, smutkowi folgę dał.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zobacz, jak Pan świat miłował,<br/>Ten grzeszników istny rój;<br/>Za ich grzechy ofiarował<br/>On najczystszy żywot Swój.<br/>Ach, przez Ojca opuszczony,<br/>Konał za nas Boży Syn<br/>Na Golgocie, krwią zbroczony,<br/>Gładząc bezmiar naszych win.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zobacz, jak Pan cię miłuje,<br/>A jak mało ty Go znasz!<br/>On cię kocha i żałuje,<br/>Że w swych grzechach zginąć masz.<br/>Teraz Jezus z wysokości<br/>Daje słyszeć ci głos Swój,<br/>W niewymownej Swej miłości<br/>Chce zbawienia dać ci zdrój.</lines>
+    </verse>
+  </lyrics>
+</song>

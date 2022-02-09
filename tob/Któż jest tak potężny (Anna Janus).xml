@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:23">
+  <properties>
+    <titles>
+      <title>Któż jest tak potężny</title>
+    </titles>
+    <authors>
+      <author type="words">Anna Janus</author>
+      <author type="music">Anna Janus</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="327"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Któż jest tak potężny jak nasz Pan?<br/>Któż w zwycięstwie wiedzie nas?<br/>Któż miłością Swą obdarza świat?<br/>Któż nam daje tyle łask?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>To Pan nasz Bóg,<br/>potężny Król w niebiosach,<br/>To Pan nasz Bóg,<br/>na ziemię do nas zszedł.<br/>To Pan nasz Bóg,<br/>zamieszkał w naszych sercach<br/>i miłością Swą<br/>zamienia smutek w śmiech. // x2 //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jego serce zawsze czułe jest.<br/>On usłyszy każdy szept.<br/>On przygarnia wszystkie dzieci swe<br/>i za rękę wiedzie nas.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>To Pan nasz Bóg,<br/>potężny Król w niebiosach,<br/>To Pan nasz Bóg,<br/>na ziemię do nas zszedł.<br/>To Pan nasz Bóg,<br/>zamieszkał w naszych sercach<br/>i miłością Swą<br/>zamienia smutek w śmiech.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>To Pan nasz Bóg,<br/>w Miłości nieskończonej,<br/>To Pan nasz Bóg,<br/>przychodzi do nas dziś.<br/>To Pan nasz Bóg,<br/>więc oddaj Jemu życie,<br/>a zobaczysz jak przemieni życie Twe.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>To Pan nasz Bóg,<br/>Niech chwały pieśń popłynie,<br/>To Pan nasz Bóg,<br/>Wywyższaj sercem Go.<br/>To Pan nasz Bóg,<br/>Uwielbiaj Jego Imię.<br/>Jemu składaj dzisiaj<br/>Chwałę, cześć i hołd.</lines>
+    </verse>
+  </lyrics>
+</song>

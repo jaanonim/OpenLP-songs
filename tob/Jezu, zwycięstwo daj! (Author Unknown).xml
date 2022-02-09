@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:46">
+  <properties>
+    <titles>
+      <title>Jezu, zwycięstwo daj!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="519"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezu, zwycięstwo daj! Książę żywota,<br/>Patrz, jak z otchłani powstaje nam wróg.<br/>Srożąc się piekło rozwarło swe wrota,<br/>Serce truchleje na widok tych trwóg.<br/>Szatan mię kusi i zdradę wciąż knuje,<br/>Trapi ź gnębi i zgubę gotuje.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezu, zwycięstwo daj w walce z kuszeniem,<br/>Ciała zwodniczą moc w sercu mym złam;<br/>Daj, aby duch mój tu żył tym pragnieniem<br/>Wzbić się ku górze, Ty kieruj nim Sam.<br/>Panie, Swój obraz racz we mnie odnowić,<br/>Ciało i duszę i ducha uzdrowić.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezu, zwycięstwo daj! Ratuj z otchłani!<br/>Gdy wkoło kłamstwo roztacza swą moc<br/>I gdy ułudnym swym blaskiem nas mami,<br/>Panie, Swym światłem, ach, rozprosz tę noc!<br/>Stój po prawicy mej. Książę pokoju,<br/>Gdy będę z zewnątrz i z wewnątrz stać w boju.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jezu, zwycięstwo daj w chwili ostatniej,<br/>Gdy mej pielgrzymki nadejdzie już kres,<br/>Bym godnym nieba dziedzicem był, Panie,<br/>Tak we wieczności, jak tu, w kraju łez.<br/>Tobie jam wiecznie i szczerze oddany,<br/>Ty daj zwycięstwo, mój Panie nad pany</lines>
+    </verse>
+  </lyrics>
+</song>

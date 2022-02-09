@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:27">
+  <properties>
+    <titles>
+      <title>Za ręce bierz mnie Panie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="396"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Za ręce bierz mię, Panie, I prowadź sam.<br/>Aż dusza moja stanie, u niebios bram.<br/>Nie zrobię ani kroku bez Ciebie, nie,<br/>stań Ty u mego boku I prowadź mię!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Do serca miłosiernie me serce tul, by<br/>zniosło wszystko wiernie i krzyż, i ból.<br/>Gdy dziecię Twe przybieży do Twoich nóg,<br/>Na słowo Ci uwierzy, boś Ty mój Bóg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A choćbyśmy Twej mocy nie czuli raz,<br/>Ty wiedziesz i wśród nocy do celu nas.<br/>Za ręce bierz mię, Panie i prowadź sam,<br/>Aż dusza moja stanie u niebios bram.</lines>
+    </verse>
+  </lyrics>
+</song>

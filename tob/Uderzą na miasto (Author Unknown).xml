@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:12">
+  <properties>
+    <titles>
+      <title>Uderzą na miasto</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Uderzą na miasto, zdobędą ten mur,<br/>Tak liczne zastępy posłuszne Mu są. /x2<br/>/ To Pan wydaje Swój głos,<br/>Przed wojskiem Swym. / x2<br/>Drużyno Syjonu, Syjonu,<br/>Stań rzędem na Mej górze świętej!<br/>Drużyno Syjonu, Syjonu,<br/>Na górze Mej stań!</lines>
+    </verse>
+  </lyrics>
+</song>

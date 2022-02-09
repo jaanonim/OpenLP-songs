@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:32">
+  <properties>
+    <titles>
+      <title>Powstań, ludu Boży</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="55"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Powstań, ludu Boży, bo się czeka bój,<br/>wróg ci zewsząd grozi,<br/>może wziąć skarb twój.<br/>Chrystus jest twym wodzem,<br/>za Nim tylko śpiesz,<br/>w walce z wrogiem praw<br/>twych służy ducha miecz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Naprzód! Chrystus woła,<br/>naprzód, z nami Bóg,<br/>z godłem krzyża naprzód!<br/>Padnie prawdy wróg. Amen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wielka armia Boża,<br/>dzielny święty lud,<br/>u Jego podnóża padnie złego gród.<br/>Duchem połączeni,<br/>Ducha mamy miecz,<br/>wiarą osłonie-ni, zwyciężymy więc.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Naprzód! Chrystus woła,<br/>naprzód, z nami Bóg,<br/>z godłem krzyża naprzód!<br/>Padnie prawdy wróg. Amen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Berła swe królowie<br/>u Jezusa nóg muszą złożyć kornie,<br/>bo On Król, nasz Bóg.<br/>Nasze jest królestwo,<br/>tak powiedział Pan,<br/>wkrótce Swe zwycięstwo On ogłosi nam.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Naprzód! Chrystus woła,<br/>naprzód, z nami Bóg,<br/>z godłem krzyża naprzód!<br/>Padnie prawdy wróg. Amen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Czy nie chcecie z nami wspólny udział brać?<br/>Dziś was zapraszamy,<br/>pójdźcie pomoc dać!<br/>Chrystus Pan uwielbi wieczną chwałą nas,<br/>tam w Ojczyźnie wierni oczekują was.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Naprzód! Chrystus woła,<br/>naprzód, z nami Bóg,<br/>z godłem krzyża naprzód!<br/>Padnie prawdy wróg. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

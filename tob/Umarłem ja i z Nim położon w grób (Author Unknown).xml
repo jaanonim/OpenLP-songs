@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:31">
+  <properties>
+    <titles>
+      <title>Umarłem ja i z Nim położon w grób</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="290"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Umarłem ja i z Nim położon w grób<br/>Odtąd, choć żyję, żyje we mnie On,<br/>Nie znam już ziemskich<br/>blasków szczęścia w sobie,<br/>Ni dręczy mnie narzekań świecki ton.<br/>Gdy grzech się zbliża, to mię Pan ogarnie,<br/>Gdy ciężka troska, niesie ją mój Stróż;<br/>Mu zaufać mogę niezachwianie,<br/>Więc piekła moc mnie nie zatrwoży już.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Umarłem już przez Twoją łaskę, Panie,<br/>Twój Duch uwolnił mię z własnego „ja".<br/>O, trzymaj mię, gdzie moja noga stanie,<br/>Niech słabego strzeże ręka Twa!<br/>Tobie Samemu mego życia życie,<br/>Tobie Samemu - mojej śmierci, śmierć,<br/>Pragnę należeć wiecznie, całkowicie,<br/>Tobie Samemu chcę nieść wieczną cześć.</lines>
+    </verse>
+  </lyrics>
+</song>

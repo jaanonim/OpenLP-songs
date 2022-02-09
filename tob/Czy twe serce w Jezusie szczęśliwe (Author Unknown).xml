@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:36">
+  <properties>
+    <titles>
+      <title>Czy twe serce w Jezusie szczęśliwe</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="140"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czy twe serce w Jezusie szczęśliwe?<br/>Czy już wiesz, jakie w Nim bogactwa są?<br/>Czyś już poznał to szczęście prawdziwe,<br/>które Jezus okupił Swoją krwią?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pójdź Doń pełen ufności i wiary!<br/>Na kwiecistą zawiedzie cię błoń.<br/>O, w Jezusie jest szczęście bez miary,<br/>w Nim błogości, pokoju jest toń.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szczęście ziemskie niczego nie warte,<br/>ono płytkie i krótko zawsze trwa;<br/>drzwi błogości w Jezusie otwarte,<br/>szczęście wieczne On tylko tobie da.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Pójdź Doń pełen ufności i wiary!<br/>Na kwiecistą zawiedzie cię błoń.<br/>O, w Jezusie jest szczęście bez miary,<br/>w Nim błogości, pokoju jest toń.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy ci jeszcze brak szczęścia pełnego,<br/>śpiesz do Zbawcy, posłusznym Jemu bądź!<br/>Kto utraci tu wszystko dla Niego,<br/>ten też wszystko z rąk Jego może wziąć.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Pójdź Doń pełen ufności i wiary!<br/>Na kwiecistą zawiedzie cię błoń.<br/>O, w Jezusie jest szczęście bez miary,<br/>w Nim błogości, pokoju jest toń.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Chociaż nieraz i troska się zjawi,<br/>Chociaż nawet w twym oku zalśni łza,<br/>To pokoju cię nic nie pozbawi;<br/>Wiecznie będzie szczęśliwą dusza twa.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Pójdź Doń pełen ufności i wiary!<br/>Na kwiecistą zawiedzie cię błoń.<br/>O, w Jezusie jest szczęście bez miary,<br/>w Nim błogości, pokoju jest toń.</lines>
+    </verse>
+  </lyrics>
+</song>

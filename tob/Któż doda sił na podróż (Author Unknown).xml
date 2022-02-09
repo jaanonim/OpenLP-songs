@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:38">
+  <properties>
+    <titles>
+      <title>Któż doda sił na podróż</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="395"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Któż doda sił na podróż<br/>W rajski, daleki świat?<br/>Kto wskaże mi na drodze<br/>Sidła ukrytych zdrad?<br/>Kto mi w obczyźnie smutnej<br/>Da dom rodzinny mój?<br/>- Bóg mój i Brat, Pan Jezus,<br/>Szczęścia mojego zdrój,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kto mi przy boku stanie<br/>W osamotnieniu mym?<br/>Gdzie swe rozgrzeję serce,<br/>W świecie zmrożone złym?<br/>W pokus godzinach ciężkich<br/>Na kogóż wołać mam?<br/>Kto weźmie mię na łono?<br/>- Mój Oblubieniec Sam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kto mi osłodzi trudy,<br/>Gdy się powodzi źle?<br/>Kto wśród zawodów gorzkich<br/>Siły pokrzepi mdłe?<br/>Kto tam nauczy wierzyć,<br/>Gdzie się to głupstwem zda?<br/>Anioł przymierza - Jezus<br/>- Ten zawsze pomoc da.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kto mi otworzy bramę,<br/>Gdy się zakończy bój?<br/>Kto trzyma w rękach Swoich<br/>Dla niebian jasny strój?<br/>Kto sprawi, że mi Ojciec<br/>Poda łaskawie dłoń?<br/>- Jezus mój, droga jasna<br/>Na mą ojczystą błoń!</lines>
+    </verse>
+  </lyrics>
+</song>

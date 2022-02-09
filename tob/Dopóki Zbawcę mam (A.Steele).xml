@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:40">
+  <properties>
+    <titles>
+      <title>Dopóki Zbawcę mam</title>
+    </titles>
+    <authors>
+      <author type="words">A.Steele</author>
+      <author type="music">A.Steele</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="443"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dopóki Zbawcę mam<br/>I w sile Jego trwam,<br/>Me serce nie zna trosk, ni trwóg;<br/>W nim miłość wznieca Bóg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On Dobry pasterz nasz,<br/>On do soczystych pasz<br/>I do błyszczących życia wód<br/>Swą owcę będzie wiódł.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy słońce skryje mgła,<br/>Gdy ryk usłyszę lwa,<br/>Mój Jezus skryje i wśród chmur<br/>Pod cieniem Swoich piór</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A gdyby mi ten świat<br/>Pod nogi sidła kładł,<br/>Do Zbawcy pośpieszyłbym wnet,<br/>On by uwolnił z bied.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Więc patrzę tylko Nań<br/>I żyję tylko Dlań;<br/>O, to przebłogim zyskiem mym,<br/>Że w raju będę z Nim.</lines>
+    </verse>
+  </lyrics>
+</song>

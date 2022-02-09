@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:04">
+  <properties>
+    <titles>
+      <title>Gdy słońce zajdzie nad naszą ziemią</title>
+    </titles>
+    <authors>
+      <author type="words">V.P.Brock</author>
+      <author type="music">V.P.Brock</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="857"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy słońce zajdzie nad naszą ziemią,<br/>Niebiański ranek zaświta nam,<br/>Przyjdzie kres wszystkim troskom, cierpieniom,<br/>Gdy słońce zajdzie u niebios bram.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy słońce zajdzie, nieba jasnego,<br/>Chmury, ni burze nie zaćmią już.<br/>O, dniu radośći, szczęścia wiecznego,<br/>Gdy słońce zajdzie wśród rajskich zórz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy słońce zajdzie, Bóg mnie powita;<br/>„O sługo dobry, skończyłeś bieg."<br/>Ma grzeszna przeszłość łaską zakryta,<br/>Gdy słońce zajdzie na tamten brzeg.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:39">
+  <properties>
+    <titles>
+      <title>Wierzyć mnie Panie ucz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="183"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wierzyć mię, Panie, ucz,<br/>prosić mię ucz!<br/>Ufnie, jak dziecię Twe,<br/>wierzyć mię ucz!<br/>Panie, niech w sercu mi<br/>płomień miłości lśni,<br/>bym dusze zyskał Ci,<br/>prosić mię ucz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wierzyć mię, Boże, ucz,<br/>prosić mię ucz!<br/>Wskaż mi kosztowność dusz,<br/>prosić mię ucz!<br/>Duchem mądrości wiedź,<br/>ogień miłości wznieć,<br/>chcę go w swym sercu mieć,<br/>prosić mię ucz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wierzyć mię, Panie, ucz,<br/>prosić mię ucz!<br/>Śpiesznie uchodzi czas,<br/>prosić mię ucz!<br/>Wejrzyj na słabość mą,<br/>weź małowierność mą;<br/>daj mi zwyciężyć ją,<br/>prosić mię ucz!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wierzyć mię, Panie, ucz,<br/>prosić mię ucz!<br/>Wszak rychło masz już przyjść,<br/>wierzyć mię ucz!<br/>Racz Panie, sądzić mię<br/>według litości Swej,<br/>ażebym ostał się;<br/>prosić mię ucz!</lines>
+    </verse>
+  </lyrics>
+</song>

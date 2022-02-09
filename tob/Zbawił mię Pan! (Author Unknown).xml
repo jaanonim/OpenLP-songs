@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:28">
+  <properties>
+    <titles>
+      <title>Zbawił mię Pan!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="236"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zbawił mię Pan! Mocą słowo to brzmi:<br/>Pan całkiem zbawił mię w Swej świętej krwi.<br/>Nic do zbawienia nie dodam, już nic,<br/>Mam więc brać, wierzyć, dziękować i czcić.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Zbawił mię Pan! On zbawił mię Sam,<br/>/ 0n tylko Sam. /x2<br/>Bądź Barankowi chwała i cześć,<br/>Ze zbawił mię On Sam!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zbawił mię Pan! Już spłacony mój dług,<br/>Krwią Barankową przebłagan już Bóg.<br/>On grzech odpuścił i wrzucił w głąb mórz;<br/>Przyjął na własność, szczęśliwym jest już!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zbawił mię Pan! Zakon już ze mnie zdjął,<br/>Ciało me, życie me dla Siebie wziął.<br/>Nie żyję ja, żyje we mnie mój Pan,<br/>Chwała i cześć! Jego żywot mi dan.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zbawił mię Pan! Wielbić zawsze Go chcę.<br/>Do wszelkiej prawdy prowadzi Duch mię.<br/>Aż Swym bogactwem obdarzy mię Pan,<br/>Duch Święty będzie obficie mi dan!</lines>
+    </verse>
+  </lyrics>
+</song>

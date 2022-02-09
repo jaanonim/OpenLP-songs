@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:39">
+  <properties>
+    <titles>
+      <title>Tobie tylko, Panie Jezu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="421"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tobie tylko, Panie Jezu,<br/>Całym sercem ufać chcę;<br/>Tyś jest źródłem hojnej łaski<br/>I niebem darzysz mnie.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tobie ufam, Panie Jezu,<br/>Ty mój najmilszy, najwspanialszy Zbawco;<br/>Tobie ufam, drogi, Panie Jezu,<br/>Ostoją mi słowo Twe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pragniesz z serca wykorzenić<br/>Moich żądz wabójczy siew;<br/>Wiem że szaty me wybieli<br/>Twa przenajświętsza krew.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wiernie będziesz Swą owieczkę<br/>Na zielonych niwach paść;<br/>Wiem, żę gdy mnie Ty prowadzisz,<br/>Nie mogę w zgubę wpaść.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Troskliwością mnie otaczasz,<br/>Dźwigasz brzemię cierpień mych.<br/>Ufam całkiem Twoim rządom,<br/>Bo widzę miłość w nich.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Panie, wesprzyj mnie Twą siłą,<br/>Bym nie robił wstydu Ci;<br/>Wierzę że się w Twojej mocy<br/>Ostoję, chociem mdły.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tobie ufam, Panie Jezu,<br/>Nie daj mi się cofać w tył!<br/>Ciebie wiarą w każdej chwili<br/>Chcę trzymać z całych sił.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:45">
+  <properties>
+    <titles>
+      <title>Nie omijaj mię</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="297"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie omijaj mię, o, Zbawco, z serca proszę Cię!<br/>Łaską wieluś już odbarzył, nie omijaj mię!<br/>Zbawco, Zbawco! Z serca proszę Cię,<br/>łaską wieluś już obdarzył, nie omijaj mię!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tam do tronu Twej dobroci duchem wzbijam się.<br/>Na kolanach błagam, proszę: Zbawco, ratuj mię!<br/>Zbawco, Zbawco! Z serca proszę Cię,<br/>na kolanach błagam, proszę, Zbawco, ratuj mię!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ufam tylko w Twych zasługach, szukam łaski Twej,<br/>pociesz ducha strapionego, w serce pokój wlej!<br/>Zbawco, Zbawco! Z serca proszę Cię,<br/>pociesz ducha strapionego, w serce pokój wlej!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ty, Krynico mej pociechy, z Ciebie czerpać chcę,<br/>sił daj do czystego życia, bym mógł ujrzeć Cię!<br/>Zbawco, Zbawco! Z serca proszę Cię,<br/>sił daj do czystego życia, bym mógł ujrzeć Cię!</lines>
+    </verse>
+  </lyrics>
+</song>

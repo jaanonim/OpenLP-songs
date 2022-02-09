@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:37">
+  <properties>
+    <titles>
+      <title>Od Boga zdala szlak mój szedł</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="145"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Od Boga z dala szlak mój szedł, teraz wracam już.<br/>Za długo mię usidlał grzech, teraz wracam już.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ojcze mój, wracam już! Przyjmij dziecię Swe!<br/>Do domu wracam z błędnych dróg. Dość już błąkać się.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tak wiele zmarnowałem lat, teraz wracam już.<br/>Me siły, młodość, zabrał świat, teraz wracam już.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ojcze mój, wracam już! Przyjmij dziecię Swe!<br/>Do domu wracam z błędnych dróg. Dość już błąkać się.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zmęczony grzechem ronię łzy, teraz wracam już.<br/>Twa miłość, wiem przebaczy mi, teraz wracam już!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Ojcze mój, wracam już! Przyjmij dziecię Swe!<br/>Do domu wracam z błędnych dróg. Dość już błąkać się.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Świat rozbił, złamał serce me, teraz wracam już.<br/>Ojcowski dom pokojem tchnie, teraz wracam już!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Ojcze mój, wracam już! Przyjmij dziecię Swe!<br/>Do domu wracam z błędnych dróg. Dość już błąkać się.</lines>
+    </verse>
+  </lyrics>
+</song>

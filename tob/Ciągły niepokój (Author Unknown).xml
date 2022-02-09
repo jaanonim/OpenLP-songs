@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:59">
+  <properties>
+    <titles>
+      <title>Ciągły niepokój</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="82"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ciągły niepokój na świecie<br/>Wojny i wojny bez końca.<br/>Jakże niepewna jest ziemia,<br/>Jękiem i gniewem drgająca.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pokój zostawiam wam,<br/>Pokój mój daję wam,<br/>Nie tak, jak daje dzisiaj świat,<br/>Powiedział do nas Pan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ciągły niepokój w człowieku.<br/>Ucieczka w hałas, zabawy.<br/>Szukamy wciąż nowych wrażeń,<br/>A w głębi ciszy pragniemy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pokój budować na co dzień,<br/>W sobie, w rodzinie, przy pracy,<br/>Nasze mozolne wysiłki,<br/>Pan swoją łaską wzbogaci.</lines>
+    </verse>
+  </lyrics>
+</song>

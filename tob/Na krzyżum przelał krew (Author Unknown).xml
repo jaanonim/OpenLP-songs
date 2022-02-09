@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:25">
+  <properties>
+    <titles>
+      <title>Na krzyżum przelał krew</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="186"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na krzyżum przelał krew,<br/>Skonałem pośród mąk,<br/>Byś wieczny żywot miał<br/>Z przebitych Moich rąk.<br/>Jam Swej nie szczędził krwi -<br/>A ty, co dałeś Mi?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wszak Jam na ziemi tej<br/>W ubóstwie, trudzie żył,<br/>Byś uczestnikiem chwał<br/>U Ojca Mego był.<br/>Jam tak ukochał cię -<br/>A ty, czy kochasz Mię?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jam rzucił niebios tron,<br/>Opuścił Ojca dom,<br/>By nieść twą hańbę, srom.<br/>Jam twe osuszył łzy -<br/>A coś uczynił ty?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jam ci zbawienie dał,<br/>Rozproszył ciemną moc,<br/>Uśmierzył walki szał,<br/>Szatana zgniotłem moc.<br/>To wszystko dałem ci -<br/>A ty, co dajesz mi?</lines>
+    </verse>
+  </lyrics>
+</song>

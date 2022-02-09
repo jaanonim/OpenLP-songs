@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:53">
+  <properties>
+    <titles>
+      <title>Duchu Boży</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="456"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Duchu Boży, zraszaj, zraszaj<br/>te obszary wyschłych niw,<br/>aby w sercach nowe życie<br/>wskrzesił Twój zbawienny wpływ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Duchu Życia, wzbudzaj, wzbudzaj,<br/>przez kościste pola wioń,<br/>by powstały martwe dusze,<br/>które więzi śmierci dłoń!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Duchu Jasny, spędzaj, spędzaj,<br/>Swymi blaski nocy cień,<br/>by już wnet pierzchnęły mroki<br/>i słoneczny nastał dzień!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Duchu Ognia, zapal, zapal,<br/>Swym płomieniem, grzechy spal,<br/>by się serca poświęciły w<br/>zdroju Twych płomiennych fal!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jezu Chryste, usłysz, usłysz<br/>naszych modłów korny śpiew,<br/>ześlij do naszego ludu ten<br/>ożywczy Ducha wiew!</lines>
+    </verse>
+  </lyrics>
+</song>

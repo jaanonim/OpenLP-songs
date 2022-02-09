@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:03">
+  <properties>
+    <titles>
+      <title>Pamiętam jeszcze dobrze</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="836"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pamiętam jeszcze dobrze,<br/>Gdym swawolnym dzieckiem był,<br/>Jak często ja mateczce swej<br/>boleści wieniec wił.<br/>Dziś ona w niebo wzniosła się,<br/>do wybawionych dusz<br/>O, Jezu, powiedz jej,<br/>żem Twoim już!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Błagalne modły jej,<br/>Płynące z duszy cnej,<br/>Sprawiły Jezu,<br/>żem na wieki Twój.<br/>Oglądać w niebie dasz<br/>Jej ukochaną twarz<br/>O, powiedz mej mateczce,<br/>żem jest Twój!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A chociaż nieraz serce jej<br/>raniła moja złość,<br/>To jednak dla mnie było w nim<br/>miłości zawsze dość.<br/>Dzieliła ze mną radość mą<br/>i mój dziecięcy krzyż;<br/>Że jestem Twój<br/>zawdzięczam mamie dziś!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdym potem ja, zgubiony syn,<br/>opuścił ojca dom,<br/>Pękało z żalu serce jej,<br/>nie było końca łzom,<br/>O łaskę, miłosierdzie Twe<br/>błagała nocą, dniem<br/>O, powiedz jej,<br/>żem już dziecięciem Twym!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I jeszcze raz ujrzałem ją,<br/>u łoża jeszcze kląkł,<br/>Lecz był to jej ostatni dzień,<br/>ostatnia chwila mąk.<br/>Przyrzekłem Tobie oddać się,<br/>nim śmierć zabrała ją<br/>O, Jezu, rzecz jej,<br/>żem własnością Twą!</lines>
+    </verse>
+  </lyrics>
+</song>

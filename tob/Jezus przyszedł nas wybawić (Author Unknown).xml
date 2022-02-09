@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:50">
+  <properties>
+    <titles>
+      <title>Jezus przyszedł nas wybawić</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="388"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus przyszedł nas wybawić, Panu bądź cześć!<br/>Przyszedł odpocznienie sprawić, Panu bądź cześć!<br/>Nic wam nie zaszkodzi grzech, gdy przyjmiecie łaskę<br/>Jego, dacie omyć się od złego, Panu bądź cześć!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Własna siła nie pomoże, Panu bądź cześć!<br/>Jezus tylko grzechy zmoże, Panu bądź cześć!<br/>On i ze mnie pęta zdjął, dał mi za to życie nowe,<br/>siłę, pokój, serce zdrowe, Panu bądź cześć!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wszystkim niebo zgotowane, Panu bądź, cześć!<br/>Do zwycięstwa siły dane, Panu bądź cześć!<br/>Nikt nie musi w grzechu żyć.<br/>Głoście to na wszystkie strony:<br/>Kto chce, może być zbawiony, Panu bądź cześć!</lines>
+    </verse>
+  </lyrics>
+</song>

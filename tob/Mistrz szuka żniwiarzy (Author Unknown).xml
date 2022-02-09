@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:45">
+  <properties>
+    <titles>
+      <title>Mistrz szuka żniwiarzy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="490"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mistrz szuka żniwiarzy,<br/>bo biały już kłos,<br/>A rozkaz brzmi: „Idźcie, już czas!"<br/>Więc pójdźmy z radością,<br/>gdzie brzmi Jego głos,<br/>I dokąd prowadzi On nas.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mistrz szuka żniwiarzy,<br/>Co miłość chcą nieść,<br/>Zgubionych ratować,<br/>Do Niego ich wieść.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mistrz szuka żniwiarzy,<br/>nagrodę już znasz,<br/>Gdy skończysz, ozdobi ci skroń;<br/>Więc daj Mu swe siły,<br/>twój czas i co masz,<br/>I sierp ujmij mocno w swą dłoń!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mistrz szuka żniwiarzy,<br/>do pracy wciąż zwie,<br/>By zebrać obfity Mu plon,<br/>O czynie najmniejszym<br/>pamiętać Mistrz chce,<br/>Tak jakby dla Niego był on.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mistrz szuka żniwiarzy,<br/>kosztowny to czas,<br/>Spoczynek zmęczonym Pan śle,<br/>Więc żnijmy wytrwale ze Zbawcą swym wraz,<br/>Do stóp znośmy Mu snopy swe</lines>
+    </verse>
+  </lyrics>
+</song>

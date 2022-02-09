@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:38">
+  <properties>
+    <titles>
+      <title>003 Ja wierzę, że to Jezus</title>
+    </titles>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ja wierzę, że to Jezus.<br/>Wierzę, że On Synem Boga jest.<br/>On zmarł i powstał, aby żyć<br/>I za cenę śmierci życie dał.</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Wierzę, że jest tu teraz (On tu teraz jest).<br/>Stoi pośród nas,<br/>Ma moc nas teraz uzdrawiać (Uzdrowienia moc)<br/>Ma przebaczenia dar.</lines>
+    </verse>
+  </lyrics>
+</song>

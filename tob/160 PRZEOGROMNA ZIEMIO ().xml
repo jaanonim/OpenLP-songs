@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:46">
+  <properties>
+    <titles>
+      <title>160 PRZEOGROMNA ZIEMIO</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przeogromna ziemio wyszłaś z Bożych rąk,<br/>Wykrzykuj radośnie, śpiewaj Mu i graj,<br/>Świetlisty księżycu, niebo pełne gwiazd<br/>I ogromne słońce przed Panem swym tańcz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O Najwyższy nasz, <br/>na dłonie wzniesione me spójrz. <br/>Niech płynie chwała jak kadzideł dym.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niech morze swym szumem Pana niebios czci<br/>Potoki niech mruczą, jezior tafla lśni,<br/>A szczytów majestat sięgający chmur<br/>Niech kornie przyklęknie, psalmy nucąc mu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sam długo błądziłem, szukając Twych dróg,<br/>Patrzyłem na piękno, Twoich palców cud,<br/>Aż wreszcie odkryłem, żeś Ty stworzył nas,<br/>Że ludzie to owce, a Ty pasterz nasz.</lines>
+    </verse>
+  </lyrics>
+</song>

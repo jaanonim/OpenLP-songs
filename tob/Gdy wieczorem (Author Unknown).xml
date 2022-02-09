@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:49">
+  <properties>
+    <titles>
+      <title>Gdy wieczorem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="373"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy wieczorem gwiazdki płoną na wysokim niebios tle,<br/>zda się, że aniołów grono duszę mą do nieba zwie.<br/>Tęskne wtedy z serca płyną, tęskne myśli w niebios tło,<br/>gdzie w ojczyźnie bóle giną, łzy tęsknoty prędko schną.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wprawdzie jeszcze moje ciało mieszka w ciemnym dole łez,<br/>lecz me oko już dojrzało kraj, gdzie smutku, żalu kres.<br/>W tym promiennym wiary kraju nie ma cieni, nie ma nędz,<br/>tam pielgrzymi już mieszkają, w szacie z lśniąco białych przędz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gwiazdy złote, jasno lśnijcie wszystkim biednym w ziemski kraj,<br/>smutnych synów ludzkich zwijcie wznosić serca w jasny raj!<br/>By w nadziei, żywej wierze mogli się w niebiosa wzbić,<br/>całym sercem swym i szczerze Boga pieśnią chwały czcić.</lines>
+    </verse>
+  </lyrics>
+</song>

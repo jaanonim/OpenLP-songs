@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:36">
+  <properties>
+    <titles>
+      <title>Jesteśmy Panie kapłaństwem Twym</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesteśmy Panie kapłaństwem Twym,<br/>By wielbić majestat Twój.<br/>By ogłaszać Twoje dzieła dziś,<br/>By każdy Ciebie poznać mógł.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niebo i Ziemia wciąż głoszą Twą chwałę,<br/>A gwiazdy oddają Ci cześć.<br/>Tyś jest wszechmocny, wielki Pan,<br/>Twa władza i moc wiecznie trwa, wiecznie trwa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niech świątynia Twoja<br/>Wypełnia się chwałą.<br/>Niech nasze głosy Ciebie czczą.<br/>Niech świątynia Twoja wypełnia się chwałą,<br/>Niech głośno instrumenty brzmią.</lines>
+    </verse>
+  </lyrics>
+</song>

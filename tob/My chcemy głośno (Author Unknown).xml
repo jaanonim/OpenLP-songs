@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:59">
+  <properties>
+    <titles>
+      <title>My chcemy głośno</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="78"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My chcemy głośno wśród bliźnich ogłaszać,<br/>Jak bardzo Jezus miłuje ten świat,<br/>Że rzucił w otchłanie mórz winę naszą,<br/>Gdy śmierci cios nań na krzyżu spadł.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>On niewymownym pokojem obdarza<br/>Tych, co przyjęli Go już<br/>Daje radosne twarze i pewność zbawienia dusz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu się o życie twe wieczne rozchodzi,<br/>Przyjmij Jezusa, gdy czas łaski trwa,<br/>Bo spadnie nagle dzień Pański, jak złodziej,<br/>Jedyna minie sposobność twa!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Więc się nie wahaj decyzji tej podjąć,<br/>Choć szatan będzie chciał zwieść sprytnie cię<br/>Patrz na Jezusa wzwyż z całą swobodą,<br/>I mocnym gestem tor życia zmień.</lines>
+    </verse>
+  </lyrics>
+</song>

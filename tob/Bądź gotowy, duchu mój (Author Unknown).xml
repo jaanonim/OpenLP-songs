@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:49">
+  <properties>
+    <titles>
+      <title>Bądź gotowy, duchu mój</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="379"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bądź gotowy, duchu mój! Czuwaj rozmodlony,<br/>byś, gdy nagły przyjdzie bój, stanął uzbrojony.<br/>Z różnych stron, swoich szpon chytry wróg<br/>próbuje, wiernym bój gotuje.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zbudź się, bo nie ujrzysz już chwały bożych dzieci,<br/>bo ci światło wiecznych zórz więcej nie zaświeci.<br/>Gdy się Bóg do Swych sług z darem łaski chyli,<br/>chce, by czujni byli.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Módl się także, wiernie módl, kiedy brak czujności,<br/>Pan uwolni cię od szkód szatanowej złości,<br/>gdyby zgnieść cię i wpleść chciały w swoje sidła,<br/>grzesznych żądz mamidła.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Chciejmy więc usilnie wciąż, prosić, błagać, czuwać,<br/>aby nie mógł chytry wąż naszych serc zatruwać.<br/>Blisko nas jest ten czas, kiedy na tę<br/>ziemię spadnie sądów brzemię.</lines>
+    </verse>
+  </lyrics>
+</song>

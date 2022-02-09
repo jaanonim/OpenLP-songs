@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:51">
+  <properties>
+    <titles>
+      <title>Toruj, Jezu, sam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="400"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Toruj, Jezu, sam drogę życia nam. My, gdy<br/>Wodzem Cię ujrzymy, śladem Twoim podgżymy;<br/>Ty dłoń naszą mdłą wesprzyj ręką Swą.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W utrapienia czas, Panie, wesprzyj nas, kiedy<br/>boleść serce targa, niech w nim nie powstanie<br/>skarga, wszak przez krzyż i znój tor prowadzi Twój.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy nam własny los niesie ciężki cios, lub gdy<br/>widok: bratniej doli w głębi serca nas zaboli,<br/>wskaż nam naszych łez ostateczny kres.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Życiem naszym rządź, Jezu, przy nas bądź.<br/>Gdy po cierniach każesz kroczyć, racz opieką nas<br/>otoczyć; po upływie dni otwórz niebios drzwi.</lines>
+    </verse>
+  </lyrics>
+</song>

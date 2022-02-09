@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:37">
+  <properties>
+    <titles>
+      <title>Bez Boga w swych grzechach jam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="157"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bez Boga w swych grzechach jam żył wiele lat,<br/>lecz szczęścia trwałego mi nie mógł dać świat,<br/>z daleka od Bożych błąkałem się dróg,<br/>nie wiedząc jak dobry w Swej łasce jest Bóg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lecz Jezus, mój Zbawca, mi poznać się dał,<br/>On Pasterz mój dobry, niedolę mą znał, i wołał mnie:<br/>duszo błądząca, o, słysz, wróć do mnie,<br/>ja za cię dźwigałem Swój krzyż.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Poszedłem, gdy wzywał mnie dobry mój Bóg,<br/>On dał mi Swój pokój, pozbawił mnie trwóg,<br/>On drogę ku szczęściu wskazuje mi sam,<br/>w Nim życie mam nowe i radość w Nim mam.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, cały ku Niemu bym przywieść chciał świat,<br/>bo wszystkich Bóg kocha, przebacza im rad,<br/>od grzechów chce wszystkich uwolnić i win<br/>i z Ojcem pojednać nas chce Boży Syn.</lines>
+    </verse>
+  </lyrics>
+</song>

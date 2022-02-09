@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:58">
+  <properties>
+    <titles>
+      <title>Dzięki Ojcze</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="70"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dzięki, kochany Ojcze z nieba,<br/>Dzięki za każdy nowy dzień.<br/>Dzięki za gwiazdy, promień słońca,<br/>Którym darzysz mnie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dzięki za wiernych mych przyjaciół,<br/>Dzięki za ludzi dobrych serc.<br/>Dzięki, że każesz nam dać wrogom,<br/>Dłoń na zgodę też.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dzięki za miejsce pracy mojej,<br/>Dzięki za każdy szczęścia wiew,<br/>Dzięki, że w domu mam podwoje,<br/>I radosny śpiew.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dzięki za Twą pociechę w bólu,<br/>Dzięki za Twoją dobrą dłoń.<br/>Dzięki, że mnie do siebie tulisz<br/>I mą chłodzisz skroń.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dzięki za Twoje mocne Słowo,<br/>Dzięki, że dajesz łaski czas.<br/>Dzięki, że miłość Twa na nowo,<br/>Wciąż pociąga nas.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dzięki, że łaska Twa tak hojna,<br/>Dzięki, że mogę z niej tu żyć.<br/>Dzięki, że dusza ma spokojna<br/>Może wdzięczną być.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:26">
+  <properties>
+    <titles>
+      <title>Prócz liści nic</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="197"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Prócz liści nic!<br/>Ach marny plon!<br/>Patrz, Zbawca roni łzy!<br/>Tak cię gorąco kochał On,<br/>Dla ciebie męczeński poniósł zgon.<br/>Cóż Mu przynosisz ty?<br/>/ Prócz liści nic! / x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Prócz liści nic!<br/>A owoc gdzie,<br/>Coś w życiu przynieść miał?<br/>Cierpliwość Pańska kończy się,<br/>I wkrótce Bóg potępi cię,<br/>Gdy będziesz przed Nim stał,<br/>Nie mając nic.<br/>Prócz liści nic!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Prócz liści nic!<br/>I wstyd, i strach!<br/>Tak szybko życie mknie.<br/>Zburzyłeś szczęścia swego gmach<br/>I będziesz wieczność spędzać w łzach.<br/>Gdzież korzyść? Pytam śię.<br/>/ Prócz liści nic! / x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Prócz liści nic!<br/>W niewierze trwasz.<br/>Ach, uwierz, człeku zły!<br/>Gdy nie uwierzysz, dobrze zważ,<br/>Usłyszeć straszny wyrok masz.<br/>Idź presz ode Mnie ty!<br/>/ Prócz liści nic! / x2</lines>
+    </verse>
+  </lyrics>
+</song>

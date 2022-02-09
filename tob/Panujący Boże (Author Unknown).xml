@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:54">
+  <properties>
+    <titles>
+      <title>Panujący Boże</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="474"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panujący Boże, Wielki jesteś Ty, nikt Ci<br/>nie dorówna - próżne są to sny, dzieła Twe<br/>nam świadczą, mówi cały świat, niebo,<br/>ziemia, morze, mówi każdy kwiat.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>// Siej nieustannie wieść tę, bracie miły,<br/>zbierzesz plon obfity, Pan ci doda siły. //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pod Twym przewodnictwem świat przemierza<br/>bieg, cicho i spokojnie płynie każdy wiek,<br/>cicho wstaje słońce, cicho pada cień,<br/>cicho płyną rzeki, ciszę, bracie, ceń.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>// Siej nieustannie wieść tę, bracie miły,<br/>zbierzesz plon obfity, Pan ci doda siły. //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cicho w łonie ziemi ziarna rodzą się,<br/>cicho dojrzewają na powierzchni ziem,<br/>cicho umierają, gdy żniwiarze tną, cicho<br/>zmartwychwstają, zgodnie z wolą Twą.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>// Siej nieustannie wieść tę, bracie miły,<br/>zbierzesz plon obfity, Pan ci doda siły. //</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bogactw z ziaren wielu obfitości róg,<br/>może z nich korzystać dobry druh i wróg.<br/>Ucz nas, Boże, wielbić Cię za wiele łask,<br/>niech z tej chwały świta nowej łaski brzask.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>// Siej nieustannie wieść tę, bracie miły,<br/>zbierzesz plon obfity, Pan ci doda siły. //</lines>
+    </verse>
+  </lyrics>
+</song>

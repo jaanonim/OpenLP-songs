@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:11">
+  <properties>
+    <titles>
+      <title>Przed Tronem Twym stoimy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przed Tronem Twym stoimy,<br/>Wpatrzeni w Twej Miłości blask.<br/>Do Ciebie, Panie podobni<br/>Stajemy się widząc Twą twarz.<br/>Chwała Twa wypełnia nas,<br/>Obecności Twojej blask,<br/>Gdy wielbimy Ciebie,<br/>Wiem, jesteś tu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chwała, cześć, mądrość, moc,<br/>Błogosławieństwo na wieki, na wieki!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:34">
+  <properties>
+    <titles>
+      <title>Rdośc zbawienia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="94"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Radość zbawienia,<br/>z serc płynie chwały głos uratowanych szczęsny,<br/>przedziwny los, szczęsny przedziwny los.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Krwią Swoją świętą wyrwał z upadku nas.<br/>Ileż wycierpiał, by rozbić serca głaz,<br/>by rozbić serca głaz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Smutkiem Golgoty rząd śmierci zwalczył On.<br/>Zwycięstwo, wierność w sercu zajęły tron,<br/>w sercu zajęły tron.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dzisiaj śpiewajmy Bogu pochwalną pieśń.<br/>Na ziemi, w niebie niech Jemu płynie cześć!<br/>Niech Jemu płynie cześć!</lines>
+    </verse>
+  </lyrics>
+</song>

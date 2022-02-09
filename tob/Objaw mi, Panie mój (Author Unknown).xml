@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:08">
+  <properties>
+    <titles>
+      <title>Objaw mi, Panie mój</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="78"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Objaw mi, Panie mój, czym naprawdę<br/>jest Twój Krzyż. Jezusowa miłość<br/>niech napełnia mnie. Usta me niech<br/>wciąż głoszą wielką chwałę Twą!<br/>Panie, chcę wszystkie dni<br/>dla Ciebie żyć!</lines>
+    </verse>
+  </lyrics>
+</song>

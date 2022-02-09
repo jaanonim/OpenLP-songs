@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:55">
+  <properties>
+    <titles>
+      <title>Wiem, nie zawiedzie mnie Pan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="505"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wiem, nie zawiedzie mnie Pan, Jemu ufac chcę.<br/>Wiem, nie zawiedzie mnie Pan, zawsze wesprze mnie.<br/>Chociaż grozi burzą chmur zwał, wicher zrywa się.<br/>Ja w Bogu ufność wciąż mam, nie zawiedzie mnie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On przyjaciel mój, wierny aż po zgon.<br/>Zawieść może świat, ale nigdy On.<br/>Chociaż grozi burzą chmur zwał,<br/>wicher zrywa się.<br/>Ja w Bogu ufność wciąż mam,<br/>nie zawiedzie mnie.</lines>
+    </verse>
+  </lyrics>
+</song>

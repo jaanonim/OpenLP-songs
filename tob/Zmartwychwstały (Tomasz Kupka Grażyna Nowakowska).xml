@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:33">
+  <properties>
+    <titles>
+      <title>Zmartwychwstały</title>
+    </titles>
+    <authors>
+      <author type="words">Tomasz Kupka Grażyna Nowakowska</author>
+      <author type="music">Tomasz Kupka Grażyna Nowakowska</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="789"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przyszedł<br/>przez zamknięte strachem drzwi,<br/>rany poddaje dotknięciu Tomasza.<br/>Tańczy, tańczy radość w sercach uczniów.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>To On! To Pan! Zbawiciel,<br/>żyje, zmartwychwstał!<br/>Jezus pełen blasku<br/>pokój Swój daje nam.<br/>Alleluja,  Alleluja<br/>Alleluja, Alleluja</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dzisiaj<br/>jest czas twojej wiary,<br/>teraz, teraz dotyka cię Miłość.<br/>Co dnia w twoim sercu<br/>Duch woła "przyjdź".</lines>
+    </verse>
+  </lyrics>
+</song>

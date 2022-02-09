@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:45">
+  <properties>
+    <titles>
+      <title>Jako Daniel wiernym bądź</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="510"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jako Daniel wiernym bądź,<br/>Strzegąc Bożych dróg!<br/>Choć najcięższy krzyż i bój,<br/>Pan cię wyrwie z trwóg.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jako Daniel stałym bądź<br/>W każdym czynie twym,<br/>Jako dziecię Boże chodź<br/>Wiernie w świecie tym.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wszak mężowie pełni sił<br/>Nie ostoją się,<br/>Gdy im gotowości brak<br/>W śmierć dać życie swe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jednak kto jak Daniel trwa<br/>Mocno w Panu swym,<br/>Wierząc Słowu, siłę ma<br/>Światu oprzeć się.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sztandar Chrystusowy więc<br/>Wznoście w święty bój!<br/>Szatan w końcu musi lec,<br/>Skończy się nasz znój.</lines>
+    </verse>
+  </lyrics>
+</song>

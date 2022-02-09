@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:21">
+  <properties>
+    <titles>
+      <title>Znasz ty już ten kraj</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="88"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Znasz ty już ten kraj,<br/>który w słońcu lśni,<br/>Gdzie strumieniem wciąż<br/>spływa pokój ci<br/>I gdzie wiary męstwo<br/>w twym sercu tli,<br/>Ogień święty i Ducha moc?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chodź, o, chodź do Tego,<br/>co ogniem chrzci,<br/>Wolnością cię darzy<br/>przez moc krwi?<br/>Jezus Duchem Świętym<br/>cię ochrzcić chce,<br/>Jego moc wlać tu w serce twe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Patrz, jak pragnie cię,<br/>daj Mu serce twe,<br/>W Jego grobie złóż<br/>stare życie swe;<br/>Zmartwychwstania moc<br/>jest dla ciebie, mnie<br/>W kraju, który zgotował Pan.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Patrz, jak lśni ten kraj!<br/>To Ojczyzna twa,<br/>Twoja dusza tam<br/>wciąż przy Panu trwa.<br/>Błogosławieństw zdrój<br/>On dla ciebie ma,<br/>Pragnie ochrzcić cię Duchem Swym.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O mój Królu, spójrz!<br/>Chcę już w Tobie żyć,<br/>Pragnę szczerze Tobie<br/>podobnym być,<br/>Zmienion w obraz Twój<br/>Twą istotą lśnić,<br/>Napełniony być Duchem Twym.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Przeto proszę,<br/>Ducha mię ogniem chrzcij,<br/>Swą miłość i wiarę<br/>w duszę tchnij;<br/>Jak w dzień pięćdziesiąty<br/>dziś z łaski Swej<br/>Świętą moc na nas<br/>wszystkich zlej!</lines>
+    </verse>
+  </lyrics>
+</song>

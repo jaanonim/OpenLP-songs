@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:04">
+  <properties>
+    <titles>
+      <title>IX. Prowadź, prowadź mnie Sam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Prowadź, prowadź mnie Sam,<br/>Prowadź do Niebios bram.<br/>Przez życie me, ach proszę Cię,<br/>Mój drogi Zbawco - poprowadź mnie!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Prowadź, Sam prowadź mnie.<br/>Prowadź, jak dziecię Swe;<br/>Za rękę weź i ciągle wiedź -<br/>Proszę Cię, Jezu, zawsze mnie wiedź.</lines>
+    </verse>
+  </lyrics>
+</song>

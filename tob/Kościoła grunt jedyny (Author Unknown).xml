@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:50">
+  <properties>
+    <titles>
+      <title>Kościoła grunt jedyny</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="608"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kościoła grunt jedyny<br/>Jest Jezus Chrystus Sam,<br/>Więc gromów się nie boi,<br/>Ni piekieł groźnych bram.<br/>Sam Chrystus go założył.<br/>Poświęcił Swoją krwią,<br/>Oblubienicą nazwał;<br/>Miłuje wiecznie ją.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Z narodów wszech wybrany,<br/>Narodem jednym jest.<br/>Pan jeden, jedna wiara,<br/>I jeden Ducha chrzest,<br/>I jedno święte imię,<br/>l jeden Pański stół;<br/>I jedną też nadzieję,<br/>2e przyjdzie, w niego tchnął.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dla wiary wyszydzany<br/>Przez dumny, pyszny świat,<br/>Rozdarty uciskany<br/>Od wielu, wielu lat;<br/>W uciskach woła: Panie,<br/>Ach, kiedyż przyjdzie czas,<br/>Gdy Twoje królowanie<br/>Z ucisków wyrwie nas?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>On w bojach i zmaganiach<br/>Od wieków pędzi dni,<br/>Do dziś w prześladowaniach,<br/>W ubóstwie i bez czci.<br/>Więc jest mu odłożona,<br/>Jak to Zbawiciel rzekł,<br/>Za dobry bój korona,<br/>Za wierny życia bieg.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>On żyje w społeczności<br/>Z Tym, który wiecznie trwa,<br/>I w niebios wspaniałości<br/>Odwieczny udział ma.<br/>Gdy Jezus przyjdzie w chwale,<br/>Wybraną weźmie Swą,<br/>A ona będzie stale<br/>Uwielbiać w niebie Go</lines>
+    </verse>
+  </lyrics>
+</song>

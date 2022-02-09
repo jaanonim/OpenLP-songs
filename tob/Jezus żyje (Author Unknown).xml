@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:53">
+  <properties>
+    <titles>
+      <title>Jezus żyje</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="443"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus żyje, w Nim i ja! Śmierci, gdzie są trwóg Twych cienie?<br/>Jezus żyje, więc mi da Zmartwychwstanie i zbawienie,<br/>wzniesie do światłości mię, tej ufności trzymam się.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezus żyje; Jemu dań wszystek świata rząd całego,<br/>Jegom sługą, On mój Pan, dział mieć będę w słowie Jego.<br/>Dał mi obietnicę tę, tej ufności trzymam się.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezus żyje; wątpisz ty? Wtedy Bogu czci ujmujesz,<br/>łaskę Bóg przyrzeka ci, jeśli szczerze pokutujesz.<br/>Bóg mi otrze żalu łzę, tej ufności trzymam się.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jezus żyje, pewność miej! Nie odłączy cię od Niego<br/>żaden powab ziemi tej, żaden ucisk świata tego,<br/>On wytrwanie w serce tchnie, tej ufności trzymam się".</lines>
+    </verse>
+  </lyrics>
+</song>

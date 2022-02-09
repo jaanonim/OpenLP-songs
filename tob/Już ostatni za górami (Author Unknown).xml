@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:50">
+  <properties>
+    <titles>
+      <title>Już ostatni za górami</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="397"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Już ostatni za górami promień słońca zgasł.<br/>Zbawicielu, zostań z nami, nie opuszczaj nas!<br/>W nocnej kryją się zasłonie nędza, grzech i strach;<br/>niechże, Jezu, na Twym łonie usnę w błogich snach.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Już pasterze poją trzody, wracające z pasz;<br/>Ty pragnącym żywej wody i pokoju dasz.<br/>Przyjdź ze słodkim ukojeniem, grzeszne myśli spłosz,<br/>niech otoczy swym ramieniem wiernych Anioł Stróż.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Już ogarnia ziemskie kraje nieprzejrzany mrok;<br/>do niecnego dzieła wstaje stary, chytry wróg.<br/>Gdy zapragnie ten morderca w nocy kąkol siać,<br/>Ty mu zamknij wszystkie serca, sprawę jego zgładź!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Już spogląda na tę ziemię złotych gwiazdek rój.<br/>Kiedy snem ujęty drzemię, czuwaj, Jezu mój,<br/>pierzchną wnet na Twe spojrzenie niespokojne sny,<br/>zniknie senne przywidzenie, w którym serce drży.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Już ostatni za górami promień słońca zgasł.<br/>Zbawicielu, zostań z nami, nie opuszczaj nas!<br/>Gdy zapadną śmierci cienie, Ty w ciemności świeć,<br/>daj pokoju w me sumienie, do ojczyzny wiedź!</lines>
+    </verse>
+  </lyrics>
+</song>

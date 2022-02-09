@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:11">
+  <properties>
+    <titles>
+      <title>Godzien jest chwały</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="129"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Godzien jest chwały<br/>Zmartwychwstały Pan! On<br/>zwyciężył diabła, śmierci zniszczył<br/>moc! Anioł w jasnej szacie z grobu<br/>kamień zdjął. Patrzcie: Grób jest<br/>pusty, bo zmartwychwstał Pan!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Godzien jest Chwały<br/>Zmartwychwstały Pan!<br/>On zwyciężył diała,<br/>śmierci zniszczył moc!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pan Jezus żyje!<br/>Zostawił pusty gróg! I spójrz dziś<br/>na Niego, zniknie lęk i strach!<br/>Zaśpiewajmy głośno triumfalną pieśń,<br/>że nasz Pan zmartwychwstał i na<br/>Tronie jest!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pan zmartwychwstały Królem życia<br/>jest! W wielkim Swym zwycięstwie<br/>pełnię życia dał. Panie,<br/>pragne zawsze w Twym zwycięstwie<br/>trwać! A gdy w krótce przyjdziesz,<br/>wieniec życia dasz!</lines>
+    </verse>
+  </lyrics>
+</song>

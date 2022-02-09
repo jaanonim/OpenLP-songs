@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:50">
+  <properties>
+    <titles>
+      <title>Jako pasterz dobry, Panie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="601"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jako pasterz dobry, Panie,<br/>Zawitałeś pośród nas.<br/>W radość hojny, w zmiłowanie,<br/>Będziesz trzodę Swoją pasł.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Któż to pojmie, któż wysłowi<br/>Czym dla Swoich jesteś trzód?<br/>Ty zaradzisz wnet brakowi,<br/>Wiedziesz je do 'cichych wód.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wiedziesz na zielone pasze<br/>Znalezione owce Swe,<br/>- Wiernie dbasz o dusze nasze,<br/>Od upadków chronisz je.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy złośliwy wróg ogarnie,<br/>Ty potęgę jego zgnieć;<br/>Coraz większe w Swą owczarnię,<br/>Coraz większe rzesze wiedź!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:27">
+  <properties>
+    <titles>
+      <title>On jest moim życiem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="482"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>On jest moim życiem,<br/>On jest moją siłą,<br/>On jest mą nadzieją,<br/>Jezus mój Pan! // x2 //</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Wielbić Cię chcę życiem mym,<br/>Wielbić Cię chcę pieśnią mą.<br/>Ze wszystkich mych sił,<br/>Uwielbiać Cię chcę,<br/>Moja nadzieja to Ty!</lines>
+    </verse>
+  </lyrics>
+</song>

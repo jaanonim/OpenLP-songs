@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:10">
+  <properties>
+    <titles>
+      <title>Panie nasz potrzebujemy Cię</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie nasz potrzebujemy Cię<br/>Bo nie ma w nas siły<br/>Boże nasz szukamy Cię<br/>Zmieniaj nas zawsze<br/>Panie nasz pragniemy być, jak Ty<br/>Ty dajesz nam wolność<br/>My biegniemy, by poznać Cię<br/>My biegniemy, by zyskać życie swe</lines>
+    </verse>
+  </lyrics>
+</song>

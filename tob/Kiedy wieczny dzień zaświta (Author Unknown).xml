@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:47">
+  <properties>
+    <titles>
+      <title>Kiedy wieczny dzień zaświta</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="546"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kiedy wieczny dzień zaświta,<br/>A czas już zakończy się,<br/>Kiedy z grobów<br/>Pan zawoła wszystkich Sam,<br/>Miliony muszą stanąć<br/>przed tron Boga z wszystkich ziem;<br/>A gdy Swoich Pan zawoła, będę tam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gdy Swych wiernych Pan zawoła,<br/>/ Gdy Swych wiernych Pan zawoła, /x2<br/>Przez zasługę mego Zbawcy będę tam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy zapłonie świat płomieniem sądów<br/>W strasznym Pańskim dniu,<br/>Wrogom Swoim:<br/>Idźcie precz Pan powie Sam,<br/>Lecz się mile do tych skłoni,<br/>co są po prawicy Mu;<br/>Kiedy ich zawoła, będę także tam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Więc z powagą i pilnością<br/>myślmy o dniu Pańskim tym,<br/>Wypełniajmy to, co Pismo mówi nam,<br/>Byśmy mogli prosić:<br/>„Przyjdź wnet, jam gotowym sługą Twym!"<br/>A gdy Swoich Pan zawoła, będę tam.</lines>
+    </verse>
+  </lyrics>
+</song>

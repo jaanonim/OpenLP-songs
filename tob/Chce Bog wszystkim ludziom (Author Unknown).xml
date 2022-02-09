@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:35">
+  <properties>
+    <titles>
+      <title>Chce Bog wszystkim ludziom</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="120"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chce Bóg wszystkim ludziom<br/>łaskę swoją dać,<br/>błogą wieść do serca<br/>chce każdemu wlać.<br/>Serca drzwi więc otwórz<br/>i słoneczko wpuść<br/>życie swe na Pana złóż!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wpuść słoneczko z nieba wpuść!<br/>Wpuść słoneczko z nieba wpuść!<br/>Serca drzwi więc otwórz<br/>i słoneczko wpuść<br/>życie swe na Pana złóż!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To słoneczko - Chrystus<br/>przyszedł na ten świat<br/>lecz nie każdy Jego<br/>do się przyjąć rad przyjąć rad.<br/>Serca drzwi więc otwórz<br/>i słoneczko wpuść<br/>życie swe na Pana złóż!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Wpuść słoneczko z nieba wpuść!<br/>Wpuść słoneczko z nieba wpuść!<br/>Serca drzwi więc otwórz<br/>i słoneczko wpuść<br/>życie swe na Pana złóż!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Błądzisz w pustce zdań<br/>i chciałbyś wyjście mieć,<br/>wiedz że takich Chrystus<br/>chce do raju wieść.<br/>Serca drzwi więc otwórz<br/>i słoneczko wpuść<br/>życie swe na Pana złóż!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Wpuść słoneczko z nieba wpuść!<br/>Wpuść słoneczko z nieba wpuść!<br/>Serca drzwi więc otwórz<br/>i słoneczko wpuść<br/>życie swe na Pana złóż!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Choć tu ciemno<br/>lecz Pan zawsze świeci nam,<br/>w mroku ziemskim<br/>radę daje Pan Bóg sam.<br/>Serca drzwi więc otwórz<br/>i słoneczko wpuść<br/>życie swe na Pana złóż!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Wpuść słoneczko z nieba wpuść!<br/>Wpuść słoneczko z nieba wpuść!<br/>Serca drzwi więc otwórz<br/>i słoneczko wpuść<br/>życie swe na Pana złóż!</lines>
+    </verse>
+  </lyrics>
+</song>

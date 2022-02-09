@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:55">
+  <properties>
+    <titles>
+      <title>269 Mario czy Ty wiesz?</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mario, czy ty wiesz, kim okaże się<br/>twój Syn, twój mały chłopiec? <br/>Mario, czy ty wiesz, że te stópki dwie <br/>po wodzie będą kroczyć? <br/>Czy ty wiesz, że ta mała dłoń <br/>powstrzyma wielki wiatr?<br/>Że dałaś życie temu,<br/>kto tobie życie da?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mario, czy ty wiesz, że pewnego dnia <br/>przywróci wzrok ślepemu?<br/>Mario, czy ty wiesz, że twój Synek ma <br/>wybawić nas od złego?<br/>Czy ty wiesz, że twój chłopiec już <br/>niebiańskie ścieżki zna?<br/>Że patrząc w Jego oczy <br/>- najświętszą widzisz twarz?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ślepemu wzrok, głuchemu dźwięk, <br/>Zmarłemu życia dar<br/>Chromemu krok, niememu pieśń, 	<br/>Przynosi Chrystus Pan.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mario czy ty wiesz, kim naprawdę jest <br/>maleńki twój bohater?<br/>Mario czy ty wiesz, że pewnego dnia <br/>rządzić będzie światem?<br/>Czy ty wiesz, że to właśnie On <br/>pokona grzech i śmierć?<br/>Dziecko śpiące w twych ramionach, <br/>na imię ma<br/>Jam jest!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:40">
+  <properties>
+    <titles>
+      <title>054 O Piękności niestworzona</title>
+    </titles>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="p">
+        <open>&lt;p&gt;</open>
+        <close>&lt;/p&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="o1">
+      <lines>O Piękności niestworzona, Kto Ciebie raz pozna, <br/>Ten nic innego pokochać nie może.<br/>Czuję, że tonę w Nim jako jedno ziarenko<br/>piasku w bezdennym oceanie. <br/>Czuję, że nie ma ani jednej kropli <br/>Krwi we mnie, która by nie płonęła<br/>Miłością ku Tobie. <br/><tag name="p"/><br/>Miłosierdzie Boże. /x3</lines>
+    </verse>
+  </lyrics>
+</song>

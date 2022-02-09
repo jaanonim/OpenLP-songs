@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:53">
+  <properties>
+    <titles>
+      <title>506 MY CYGANIE</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My Cyganie co pędzimy z wiatrem,<br/>my Cyganie znamy cały świat!<br/>My Cyganie wszystkim gramy,<br/>a śpiewamy sobie tak:</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Ore, ore sza ba da ba da amore.<br/>Hej! Amore sza ba da ba da.<br/>O muriaty, o szagriaty,<br/>hajda trojka na mienia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Kiedy tańczę, niebo tańczy ze mną.<br/>Kiedy gwiżdżę, gwiżdże ze mną wiatr<br/>Zamknę oczy, liście więdną,<br/>kiedy milknę, milczy świat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Gdy śpiewamy, słucha cała Ziemia.<br/>Gdy śpiewamy, śpiewa każdy ptak<br/>Niechaj każdy z nami śpiewa,<br/>niech rozbrzmiewa piosnka ta.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Kiedy słucham, słucha cała ziemia<br/>i jak śpiewam, śpiewa każdy z nas <br/>gdy ucichnę wiatru nie ma<br/>Zamknę oczy nie ma gwiazd</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Będzie prościej, będzie jaśniej;<br/>całą radość damy wam.<br/>Będzie prościej, będzie jaśniej,<br/>gdy zaśpiewa każdy z was:</lines>
+    </verse>
+  </lyrics>
+</song>

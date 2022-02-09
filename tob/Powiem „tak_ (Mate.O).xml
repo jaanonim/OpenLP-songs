@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:08">
+  <properties>
+    <titles>
+      <title>Powiem „tak"</title>
+    </titles>
+    <authors>
+      <author type="words">Mate.O</author>
+      <author type="music">Mate.O</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Co powiedzieć mam, co powiedzieć mam?<br/>To anioł przyszedł do mnie dziś!<br/>Jak to może być, że Bóg wybrał mnie,<br/>bym Jego Syna mamą miała być?!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Co powiedzieć mam, co powiedzieć mam?<br/>To anioł przyszedł do mnie dziś!<br/>Bóg ma taki plan, aby zbawić świat<br/>Ja częścią Jego woli mogę być...<br/>Jeśli otworzę serce swe.....</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Powiem tak Tobie Panie!<br/>Zapraszam Cie.<br/>Powiem „tak" Tobie Panie!<br/>Tobie ufać chcę.<br/>Twojej woli dziś poddaje się, poddaję się....<br/>Na na na na na na na na na na</lines>
+    </verse>
+  </lyrics>
+</song>

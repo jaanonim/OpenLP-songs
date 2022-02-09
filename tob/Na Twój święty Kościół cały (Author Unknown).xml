@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:20">
+  <properties>
+    <titles>
+      <title>Na Twój święty Kościół cały</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="73"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na Twój święty Kościół cały<br/>Łaski Swej strumienie<br/>Zesłać racz, o Panie chwały<br/>Spełnij przyrzeczenie!<br/>Ufnie dzieci Twe zginają<br/>Swe kolana i błagają:<br/>Jezu, chciej być z nami!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Światła Twego ześlij zorze,<br/>Ducha udziel Panie,<br/>Niech On w modłach nas wspomoże,<br/>Mocą w nas się stanie!<br/>Sam sercami rządź naszymi,<br/>Obdarz zbór Twój tu na ziemi<br/>Rychło już zwycięstwem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niechaj Ewangelia bieży<br/>Z wschodu do zachodu,<br/>Wszędzie niech się jeden szerzy<br/>Śpiew ludzkiego rodu.<br/>Wszystkie ludy razem z nami<br/>Niech wołają: Nad królami<br/>Królem Jezus Chrystus!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>To chwalebne imię Twoje<br/>Niech głoszone będzie,<br/>By przez posłów Twych podboje<br/>Noc pierzchała wszędzie;<br/>By, skłaniając swe kolana,<br/>Ludy wszystkie Ciebie,<br/>Pana Czciły wielkim głosem.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mnóż zdobycze pokojowe<br/>Wciąż Kościoła Twego,<br/>Dary Twe i siły nowe<br/>Zlej na członków Jego,<br/>Byśmy łaską Twą, wzmocnieni<br/>Z Tobą, Panie, połączeni,<br/>Doszli do zbawienia!</lines>
+    </verse>
+  </lyrics>
+</song>

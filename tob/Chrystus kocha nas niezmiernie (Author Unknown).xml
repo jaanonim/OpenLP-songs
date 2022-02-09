@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:21">
+  <properties>
+    <titles>
+      <title>Chrystus kocha nas niezmiernie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="92"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chrystus kocha nas niezmiernie,<br/>tak kocha On!<br/>Wiecznie, czule, stale, wiernie,<br/>tak kocha On!<br/>Szczęście świata krótkotrwałe,<br/>Węzły ludzkie nie są stałe,<br/>On zaś kocha życie całe.<br/>Tak kocha On.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Życie Swoje za nas stracił,<br/>tak kocha On!<br/>Długi naszekrwią zapłacił,<br/>tak kocha On!<br/>Kto tą wiarą jest natchniony,<br/>Z grzechu już jest wykupiony<br/>I radością napełniony.<br/>Tak kocha On!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kto to wiarą chętnie pozna,<br/>jak kocha On,<br/>Ten radości bezmiar dozna.<br/>Jak kocha On!<br/>Pan nasz, Jezus, Syn człowieczy<br/>Wszystkie rany nasze leczy;<br/>On nas zawsze ma w Swej pieczy.<br/>Tak kocha On!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Miłość Jego jest gorąca,<br/>tak kocha On!<br/>On nikogo nie odtrąca,<br/>tak kocha On!<br/>On do raju wszystkich wzywa,<br/>Najgroźniejszysch On zdobywa,<br/>Dobroć Jego nas porywa.<br/>Tak kocha On!</lines>
+    </verse>
+  </lyrics>
+</song>

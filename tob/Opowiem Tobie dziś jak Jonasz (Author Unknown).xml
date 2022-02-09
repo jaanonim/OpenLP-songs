@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:10">
+  <properties>
+    <titles>
+      <title>Opowiem Tobie dziś jak Jonasz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Opowiem Tobie dziś<br/>Jak Jonasz w rybie był<br/>Gdzieś tam w głębi mórz i oceanów<br/>I jak się dostał tam<br/>Dlaczego siedział sam</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gdzieś tam w głębi mórz i oceanów</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miał do Niniwy iść<br/>Zwiastować Bożą wieść<br/>Lecz nie posłuchał się<br/>Zrobił niemądrze<br/>Więc Bóg przebaczył mu<br/>Zbawienie zesłał mu<br/>Gdzie?</lines>
+    </verse>
+  </lyrics>
+</song>

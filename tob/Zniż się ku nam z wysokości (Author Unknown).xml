@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:59">
+  <properties>
+    <titles>
+      <title>Zniż się ku nam z wysokości</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="771"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zniż się ku nam z wysokości,<br/>Do serc naszych głębokości,<br/>Duchu Boży, Ty światłości,<br/>Zechciej Ty oświecić nas.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W każdej dobie, w każdej chwili,<br/>Pomóż, byśmy Boga czcili,<br/>Życiem swoim Go wielbili,<br/>Zechciej błogosławić nas.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A gdy w życiu smutne chwile<br/>„Wniosą do serc zmartwień wiele,<br/>Rządź i panu] w Swym Kościele,<br/>Zechciej Ty pocieszyć nas.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Niech w Kościele Twoim, Chryste,<br/>Każdy głosi słowo czyste,<br/>Pomóż w tym, o Wiekuisty,<br/>Zechciej Ty poświęcić nas.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:11">
+  <properties>
+    <titles>
+      <title>Schowaj mnie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Schowaj mnie pod skrzydła swe<br/>Ukryj mnie, w silnej dłoni swej /2x</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kiedy fale mórz chcą porwać mnie<br/>Z Tobą wzniosę się poniesiesz mnie<br/>Panie Królem Tyś spienionych wód<br/>Ja ufam Ci, Ty jesteś Bóg</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Odpocznę dziś ramionach Twych<br/>Dusza ma w pokoju będzie trwać</lines>
+    </verse>
+  </lyrics>
+</song>

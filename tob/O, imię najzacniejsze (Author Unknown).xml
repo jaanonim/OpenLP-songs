@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:29">
+  <properties>
+    <titles>
+      <title>O, imię najzacniejsze</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="266"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, imię najzacniejsze,<br/>O światło najjaśniejsze,<br/>O życie najcudniejsze,<br/>Pan mój, Jezus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On daje pokój Boży,<br/>On czystość w sercu tworzy,<br/>On radość w duszy mnoży,<br/>Pan mój, Jezus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On jest pociechą moją,<br/>Mą skałą w niepokoju,<br/>Mą siłą w każdym boju,<br/>Pan mój, Jezus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>On drogą wzwyż idącą,<br/>On gwiazdą nie gasnącą,<br/>On prawdą jaśniejącą,<br/>Pan mój, Jezus.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>On moim jest zbawieniem,<br/>Duchowym poświęceniem,<br/>Nadzieją, odkupieniem,<br/>Pan mój, Jezus.</lines>
+    </verse>
+  </lyrics>
+</song>

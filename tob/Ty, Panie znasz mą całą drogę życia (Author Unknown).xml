@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:40">
+  <properties>
+    <titles>
+      <title>Ty, Panie znasz mą całą drogę życia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="206"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ty, Panie znasz mą całą drogę życia,<br/>świadomość ta mi daje pokój Twój,<br/>/zachowaj serce moje od rozbicia,<br/>na wszystkich ścieżkach zawsze przy mnie stój./x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ty, Panie, wiesz, skąd groźne wiatry wieją,<br/>i burze życia uspokajasz Ty<br/>/i chociaż dobrze drogi mojej nie znam,<br/>spokojny jestem drogę mą znasz Ty./x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ty, Panie, znasz granice czasu mego,<br/>w Twym Boskim planie umieściłeś to,<br/>/dlatego chwalić będę Zbawcę mego<br/>za radość i szczęśliwą dolę mą./x2</lines>
+    </verse>
+  </lyrics>
+</song>

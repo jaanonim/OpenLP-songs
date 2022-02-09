@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:17">
+  <properties>
+    <titles>
+      <title>Duchu Święty, Boże przyjdź</title>
+    </titles>
+    <copyright>© Editions Cahier du Renouveau</copyright>
+    <authors>
+      <author type="words">Fr. Andre Gouze GOCAM</author>
+      <author type="music">Fr. Andre Gouze GOCAM</author>
+      <author type="words">Andre Gouze</author>
+      <author type="music">Gocam</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="123"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Duchu Święty, Boże przyjdź,<br/>przyjdź Duchu światło,<br/>Duchu Ogniu przyjdź,<br/>przyjdź i rozpal nas.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Przyjdź Duchu Ojca<br/>bądź naszym światłem,<br/>niech promienieje<br/>Twej Chwały blask.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O świadku prawdziwy<br/>umocnij nas,<br/>chcemy rozgłaszać:<br/>Zmartwychwstał Pan!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Przyjdź Źródło niebieskie,<br/>przyjdź zdroju Życia,<br/>bądź nam uzdrowieniem<br/>moc sercom daj.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Duchu radości<br/>rozraduj Kościół,<br/>niech płynie z serc naszych<br/>Baranka pieśń.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ty daj nam doświadczyć<br/>Miłości Ojca,<br/>oblicze Chrystusa<br/>objawiaj nam.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bądź nam tchnieniem życia,<br/>światła promieniem,<br/>przez Ciebie jaśnieje<br/>Chrystusa Krzyż.</lines>
+    </verse>
+  </lyrics>
+</song>

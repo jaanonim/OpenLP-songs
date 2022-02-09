@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:28">
+  <properties>
+    <titles>
+      <title>Jezusa uczniem być</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="256"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Jezusa uczniem być<br/>Z Jezusem wiecznie żyć.<br/>O wiecznym szczęściu śnić<br/>Ty możesz.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>W Jezusa szkole możesz uczyć się<br/>Czy życie z Bogiem obchodzi cię.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W modlitwie szczerej do Boga mów<br/>Chociaż On ciebie rozumie bez słów.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezus przebaczy ci każdy twój grzech,<br/>Twój żal, smutek zamieni się w śmiech.</lines>
+    </verse>
+  </lyrics>
+</song>

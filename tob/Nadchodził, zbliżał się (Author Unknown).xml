@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:18">
+  <properties>
+    <titles>
+      <title>Nadchodził, zbliżał się</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="30"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nadchodził, zbliżał się,<br/>aż nadszedł czas wybrany,<br/>Od tylu wieków nam przez<br/>Boga obiecany<br/>Zbawienia wielki dzień,<br/>dzień pożądany tuż;<br/>Kto doń sposobić miał,<br/>na zstąpił już.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I słychać było głos,<br/>a był to głos radości:<br/>Już przybył światów Pan<br/>i między nami gości!<br/>Torujcie drogę Mu<br/>i pokutujcie wczas,<br/>Ażeby Chrystus Pan<br/>godnym zastał was!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>W Nim szczęście trwałe śle<br/>Przedwieczny dla Swych dzieci,<br/>A świętej prawdy blask<br/>na drogach Jego świeci;<br/>On schodzi,<br/>aby świat wybawić z mocy złej<br/>I łaskę Swoją zlać<br/>na nędzę ziemi tej</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Niech wstanie wszystek lud,<br/>radosne wzniesie pienia;<br/>I dziś wypełnia Pan<br/>Swe święte przyrzeczenia.<br/>Potęga Jego słów<br/>przez wieki przetrwa lat,<br/>Choć góry padną w proch,<br/>choć zginie cały świat.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Radości! Z nami Bóg,<br/>my miłe Jego dzieci!<br/>Nowego świata dzień<br/>już nad tą ziemią świeci.<br/>Więc, ludy, zbierzcie się,<br/>do Pana śpieszcie wraz<br/>I chwały wznieście pieśń,<br/>w zbawienia czas!</lines>
+    </verse>
+  </lyrics>
+</song>

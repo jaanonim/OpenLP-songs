@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:00">
+  <properties>
+    <titles>
+      <title>Dusz rybakami uczynię was</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="788"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dusz rybakami uczynię was,<br/>uczynię was, uczynię was,<br/>Dusz rybakami uczynię was,<br/>pójdźcie za Mną w ślad!<br/>/ Pójdźcie za Mną w ślad, /x2<br/>Dusz rybakami uczynię was,<br/>pójdźcie za Mną w ślad!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pan żeńców szuka, gdy biały kłos,<br/>dojrzały kłos, dojrzały kłos,<br/>Pan żeńców szuka, gdy biały kłos,<br/>„Idźcie", wzywa już.<br/>/ „Idźcie wzywa już, /x2<br/>Pan żeńców szuka, gdy biały kłos,<br/>„Idźcie!" wzywa już!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zbłąkanym duszom pomoc swą nieś,<br/>pomoc swą nieś, pomoc swą nieś!<br/>Zbłąkanym duszom pomoc swą nieś,<br/>Z Ewangelią śpiesz.<br/>/ Z Ewangelią śpiesz, /x2<br/>Zbłąkanym duszom pomoc swą nieś,<br/>Z Ewangelią śpiesz!</lines>
+    </verse>
+  </lyrics>
+</song>

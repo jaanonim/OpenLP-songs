@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:42">
+  <properties>
+    <titles>
+      <title>086 Z dawna Polski Tyś Królową, Maryjo!</title>
+    </titles>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z dawna Polski Tyś Królową, Maryjo!<br/>Ty za nami przemów słowo, Maryjo!<br/>Ociemniałym podaj rękę,<br/>Niewytrwałym skracaj mękę,<br/>Twe Królestwo weź w porękę, Maryjo!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdyś pod krzyżem Syna stała, Maryjo!<br/>Tyleś, Matko, wycierpiała, Maryjo!<br/>Przez Twego Syna konanie<br/>Uproś sercom zmartwychwstanie,<br/>W ojców wierze daj wytrwanie, Maryjo!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z dawna Polski Tyś Królową, Maryjo! <br/>Ty za nami przemów słowo, Maryjo! <br/>Miej w opiece naród cały,<br/>Który żyje dla Twej chwały,<br/>Niech rozwija się wspaniały, Maryjo!</lines>
+    </verse>
+  </lyrics>
+</song>

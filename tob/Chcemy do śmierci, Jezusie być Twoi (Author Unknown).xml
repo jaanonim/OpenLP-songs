@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:32">
+  <properties>
+    <titles>
+      <title>Chcemy do śmierci, Jezusie być Twoi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="51"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chcemy do śmierci,<br/>Jezusie być Twoi,<br/>chcemy do śmierci<br/>wiernymi Ci być!<br/>Z Tobą się wierna<br/>drużyna ostoi,<br/>Ciebie przed światem<br/>gotowiśmy czcić</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chcemy posłusznie,<br/>bez wszelkiej obawy,<br/>z Tobą Baranku,<br/>w krzyżowy iść ślad!<br/>Za nas stoczyłeś<br/>bój ciężki i krwawy,<br/>za nas do grobu<br/>ciemnegoś się kładł.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Myśmy pod Twoim<br/>się krzyżem zebrali,<br/>świętym przymierzem<br/>połączył nas krzyż!<br/>Tobieśmy wiecznie<br/>swe serca oddali,<br/>przyjmij i w księgi<br/>żywota je wpisz!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kiedy nas pokus<br/>nawała oblęże,<br/>Ty do zwycięstwa<br/>sam będziesz nas wiódł,<br/>w życiu i w śmierci<br/>przez Twoje oręże<br/>pewnie z piekielnych<br/>wydrzemy się wrót.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Chcemy do śmierci<br/>być Tobie oddani,<br/>chcemy należeć<br/>do wiernych Twych rzesz,<br/>bo nas prowadzisz<br/>do pewnej przystani,<br/>bo nas do zwycięstw<br/>i chwały Swej zwiesz</lines>
+    </verse>
+  </lyrics>
+</song>

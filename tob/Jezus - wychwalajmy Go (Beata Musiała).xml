@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:21">
+  <properties>
+    <titles>
+      <title>Jezus - wychwalajmy Go</title>
+    </titles>
+    <authors>
+      <author type="words">Beata Musiała</author>
+      <author type="music">Beata Musiała</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="297"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus, Jezus  wychwalajmy Go<br/>wywyższajmy Jego Święte Imię Amen. // x2<br/>Alleluja, Alleluja, Alleluja, Alleluja. //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezus, Jezus radujmy się<br/>Pan ma wielką moc Amen.<br/>Alleluja, Alleluja ,Alleluja, Alleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezus , Jezus On przychodzi tu,<br/>On zwycięzcą jest Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:47">
+  <properties>
+    <titles>
+      <title>Już się zdobią drzewa W swe Zielone liście</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="543"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Już się zdobią drzewa W swe Zielone liście,<br/>Ptaszek już zwiastuje Wonnej wiosny przyjście.<br/>W górę, serca, w górę, Nućmy pieśń radosną,<br/>Przyjdzie Pan na zie¬mię Wnet z niebieską wiosną!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Witaj, upragniona, Cudna Boża wiosno!<br/>Błogą już nadzieją Serca nasze rosną;<br/>Skoro z wyżyn rajskich Święty Duch powieje,<br/>Ziemia się cudowną Krasą przyodzieje.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>W Jezusowej ręce Spocznie ziemia cała,<br/>Na niej Boża sprawa Będzie rozkwitała.<br/>Książę świata będzie Strąceń do otchłani,<br/>Do dziedzictwa chwały Cisi zawezwani.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ach, utwierdzaj, Panie, W sercach te nadzieje,<br/>Wszędzie złość panuje, W nas otucha mdleje!<br/>Pomóż nam we wierze Zmóc ciemności księstwa,<br/>Małe Swe stadeczko Prowadź do zwycięstwa!</lines>
+    </verse>
+  </lyrics>
+</song>

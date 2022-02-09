@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:35">
+  <properties>
+    <titles>
+      <title>Jako rzeka zwiększa głębię swoich fal</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="336"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jako rzeka zwiększa głębię swoich fal,<br/>Tocząc nurt zwycięski w niezmierzoną dal,<br/>Tak i pokój błogi, który Bóg mi śle,<br/>Co dnia głębiej, szerzej toczy nurty swe.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gdy spoczywam w Panu, gdy mą skałą Bóg,<br/>Pokój doskonały strzeże moich dróg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kogo tu nakrywa<br/>można Pańska dłoń,<br/>Ten zdradliwym wrogom<br/>snadnie stawi skroń.<br/>Ni strach, ni udręka,<br/>ni złej troski cień<br/>Ciszy mej nie zmącą tak w noc,<br/>jak i w dzień.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Czy ból, czyli radość tu spotyka mnie,<br/>Wiem, że mi je dobry Zbawca z nieba śle,<br/>Mogę ufać Jemu: tylko dobro da;<br/>Kto zaufa w pełni, pełnię łaski zna</lines>
+    </verse>
+  </lyrics>
+</song>

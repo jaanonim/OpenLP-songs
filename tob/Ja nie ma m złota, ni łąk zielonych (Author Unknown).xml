@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:02">
+  <properties>
+    <titles>
+      <title>Ja nie ma m złota, ni łąk zielonych</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="826"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ja nie ma m złota, ni łąk zielonych<br/>Lecz mam to prawo, by zwać się Twym<br/>/ Choć przyjaciele mię opuścili,<br/>Mam jednak prawo, by zwać się Twym.:!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdym opuszczony, osamotniony,<br/>Mam jednak prawo, by zwać się Twym.<br/>/ Twój krzyż, o Jezu, ucieczką moją,<br/>Bo Tyś jest moim, a jam jest Twój. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chcę tobie służyć, mój Zbawicielu,<br/>Boś Ty jest moim, a jam jest Twój,<br/>/ Już tu na ziemi, a potem w niebie<br/>Mam prawo nazwać się dzieckiem Twym! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

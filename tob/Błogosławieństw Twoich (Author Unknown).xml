@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:41">
+  <properties>
+    <titles>
+      <title>Błogosławieństw Twoich</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="218"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Błogosławieństw Twoich zdroje wszędzie na pragnących ślesz,<br/>jakże pragnie serce moje, byś je błogosławił też.<br/>Abyś też, abyś też, byś je błogosławił też.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chociaż jestem bardzo grzeszny Ojcze nie omijaj mnie!<br/>W miłosierdziu Boże wieczny i nade mną zmiłuj się.<br/>Zmiłuj się, zmiłuj się, i nade mną zmiłuj się.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nieodmienną miłość Boga Chrystus już objawił nam;<br/>że chce zbawić rawet wroga; dziś mię przyjął z łaski Sam.<br/>Z łaski Sam, z łaski Sam, dziś mię przyjął z łaski Sam.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dzięki Boże! żeś mię znalazł, kiedym w trwodze szukał Cię!<br/>Teraz mi już zginąć nie dasz! Weź w ofierze życie me.<br/>Życie me, życie me, weź w ofierze życie me. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:34">
+  <properties>
+    <titles>
+      <title>Nic nie może szczęścia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="84"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nic nie może szczęścia odjąć mojej duszy,<br/>nic spokoju serca odtąd nie naruszy,<br/>moim przyjacielem Sędzia sprawiedliwy,<br/>Ducha dał mi Swego, Jezus litościwy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Duch ten mię pociesza, kiedy zatrwożony,<br/>daje mi tę pewność, żem jest wybawiony.<br/>Gdy cierpienia dotkną, On me łzy łagodzi,<br/>Swoją obecnością boleść moją słodzi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mimo burz i gromów Jezus, co, mną włada,<br/>owcy nie odłączy od swojego stada.<br/>Choćbym wszystko stracić miał dla Mistrza swego,<br/>Doń ja chcę należeć, nie odstąpię Jego.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy pokusy złudne oczom świat rozściela,<br/>z wiarą ja na swego, patrzę Zbawiciela.<br/>Choćby anioł z nieba wiódł mię w pokuszenie,<br/>trwać przy Bogu moim chcę nieporuszenie.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Świętych ja radości w Panu swym doznaję,<br/>na zbawiennej drodze w Jego mocy staję.<br/>Jezus jest światłością w sercu mym świecącą,<br/>jasną mą jutrzenką, noc rozpraszającą.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:39">
+  <properties>
+    <titles>
+      <title>Chcę do Jezusa mego podobnym</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="193"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chcę do Jezusa mego podobnym zawsze być,<br/>chcę o Nim śpiewać wszędzie dopóki będę żyć.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>On przyszedł by nas zbawić, na śmierć oddając się,<br/>chcę chętnie o tym świadczyć, jak On wybawił mnie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chcę tak być wiernym Jemu jak On jest Słowom Swym,<br/>niech wie ten świat, że Jezus jest ideałem mym.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>On przyszedł by nas zbawić, na śmierć oddając się,<br/>chcę chętnie o tym świadczyć, jak On wybawił mnie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chcę być czystego serca, by Pana ujrzeć tam,<br/>gdzie On i dla mnie miejsce zgotować poszedł Sam.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>On przyszedł by nas zbawić, na śmierć oddając się,<br/>chcę chętnie o tym świadczyć, jak On wybawił mnie.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:27">
+  <properties>
+    <titles>
+      <title>W niebie wielka radość</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="218"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W niebie wielka radość,<br/>święci, wznieście śpiew!<br/>Grzesznik się nawrócił<br/>z błędnych dróg.<br/>Oto nie był próżny<br/>Ewangelii zew,<br/>Jakże się raduje Ojciec Bóg.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chwała Bogu!<br/>brzmi anielski chór,<br/>Chwała Bogu!<br/>wtórzy wiernych zbór.<br/>W jeden święty akord<br/>się złączyły dziś -<br/>Niebo, ziemia chwalą Boga, słysz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W niebie wielka radość,<br/>dziś radości dzień,<br/>Dusza uwolniona<br/>z śmierci trwóg!<br/>Światło zajaśniało,<br/>gdzie był dotąd cień,<br/>Grzesznikowi pokój daje Bóg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>W niebie wielka radość,<br/>bracia, cieszcie się!<br/>Siostry, pieśń radości<br/>nućcie znów!<br/>Grzesznik Chrystusowi<br/>oddał serce swe,<br/>Padł w ramiona Ojca<br/>szczęśliw, zdrów!</lines>
+    </verse>
+  </lyrics>
+</song>

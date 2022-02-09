@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:37">
+  <properties>
+    <titles>
+      <title>W Chrystusie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="78"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nadzieję odnalazłem w Nim,<br/>On moją siłą, światłem mym.<br/>On fundamentem, twierdzą tą,<br/>Co zniesie najstraszniejszy grom.<br/>Miłości szczyt, pokoju Bóg,<br/>Uciszy strach, nasyci głód.<br/>On pocieszyciel, życia sens,<br/>W Jego miłości schronię się.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W Chrystusie Bóg objawił się<br/>W bezbronnym dziecku w Betlejem.<br/>Na ziemię zszedł by zbawić nas,<br/>By przebaczenia nastał czas.<br/>Na krzyżu zmarł za każdy grzech,<br/>By uspokoić Boży gniew.<br/>Uwolnił mnie z ciężaru win,<br/>Umarłem z Nim i żyję w Nim.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zatryumfował stary wróg,<br/>Gdy w ciemnym grobie spoczął Bóg.<br/>Lecz krótko trwała Złego moc,<br/>Zmartwychwstał Pan, minęła noc.<br/>Przez swoją śmierć uwolnił mnie,<br/>Umierać z Nim i żyć z Nim chcę.<br/>Przekleństwo zdjął, odkupił z win,<br/>On we mnie jest ja jestem w Nim.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>W Nim nawet śmierć nie straszna jest,<br/>Chrystusa moc ochrania mnie.<br/>Od pierwszych chwil po życia kres<br/>Wytycza drogi mojej bieg.<br/>Ni grzechu zło, ni ludzki sąd<br/>Nie wydrze mnie z Chrystusa rąk.<br/>A gdy mnie weźmie, gdzie mój dom<br/>Z radością pójdę tam, gdzie On.</lines>
+    </verse>
+  </lyrics>
+</song>

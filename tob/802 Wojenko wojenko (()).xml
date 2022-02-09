@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:51">
+  <properties>
+    <titles>
+      <title>802 Wojenko wojenko</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wojenko, wojenko, cóżeś ty za pani,<br/>Że za tobą idą, że za tobą idą<br/>Chłopcy malowani?<br/>Że za tobą idą, że za tobą idą<br/>Chłopcy malowani?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chłopcy malowani, sami wybierani,<br/>Wojenko, wojenko, wojenko, wojenko,<br/>Cóżeś ty za pani?<br/>Wojenko, wojenko, wojenko, wojenko,<br/>Cóżeś ty za pani?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na wojence ładnie, kto Boga uprosi,<br/>Żołnierze strzelają, żołnierze strzelają,<br/>Pan Bóg kule nosi.<br/>Żołnierze strzelają, żołnierze strzelają,<br/>Pan Bóg kule nosi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Maszeruje wiara, pot się krwawy leje,<br/>Raz dwa stąpaj bracie, raz dwa stąpaj bracie,<br/>Bo tak Polska grzeje.<br/>Raz dwa stąpaj bracie, raz dwa stąpaj bracie,<br/>Bo tak Polska grzeje.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:31">
+  <properties>
+    <titles>
+      <title>Uwielbiam Imię Twoje Panie</title>
+    </titles>
+    <authors>
+      <author type="words">Sławomir Butenko</author>
+      <author type="music">Sławomir Butenko</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="686"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uwielbiam Imię Twoje Panie.<br/>Wywyższam Cię i daję Ci hołd.<br/>W przedsionku chwały Twej staję,<br/>z radością śpiewam Ci pieśń. // x2 //</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O Panie Jezu chcę wyznać, że<br/>Ja kocham Ciebie, Ty zmieniasz mnie.<br/>Chcę Ci dziękować dziś ze wszystkich sił,<br/>Dajesz mi Siebie, bym na wieki żył.</lines>
+    </verse>
+  </lyrics>
+</song>

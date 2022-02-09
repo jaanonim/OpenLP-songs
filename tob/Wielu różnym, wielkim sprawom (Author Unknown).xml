@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:00">
+  <properties>
+    <titles>
+      <title>Wielu różnym, wielkim sprawom</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="102"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wielu różnym, wielkim sprawom,<br/>Dziś hołduje świat,<br/>Złudne hasła i idee, propaguje rad.<br/>Często tłum dla spraw nieważnych,<br/>Nie żałuje rąk,<br/>Więc tym bardziej dzieci Boże,<br/>Nieśmy prawdę wkrąg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niech wie cały świat, że my Boży lud,<br/>Niech wie cały świat, On nasz wódz i Bóg<br/>On nam nowe życie dał,<br/>W swym Królestwie wieczny dział,<br/>Zwrócił krok do niebios bram,<br/>Niech wie cały świat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niech wie cały świat, praca czeka nas.<br/>Niech wie cały świat, dziś zbawienia czas.<br/>Jak latarnia w ciemną noc,<br/>Promieniujmy Bożą moc,<br/>W gwarze, zgiełku brzmi nasz głos,<br/>/ Niech wie cały świat! /x3</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:22">
+  <properties>
+    <titles>
+      <title>Gdy się Chrystus rodzi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="1010"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy się Chrystus rodzi,<br/>I na świat przychodzi,<br/>Ciemna noc w jasności<br/>Promienistej brodzi.<br/>Aniołowie się radują,<br/>Pod niebiosy wyśpiewują;<br/>Gloria, gloria, gloria,<br/>In excelsis Deo!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mówią do pasterzy,<br/>Którzy trzód swych strzegli,<br/>Aby do Betlejem<br/>Czym prędzej pobiegli.<br/>Bo się narodził Zbawiciel<br/>Wszego świata Odkupiciel,<br/>Gloria, gloria, gloria,<br/>In excelsis Deo!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O niebieskie Duchy<br/>I posłowie nieba,<br/>Powiedzcie wyraźnie<br/>Co nam czynić trzeba,<br/>Bo my nic nie pojmujemy<br/>Ledwo od strachu żyjemy<br/>Gloria, gloria, gloria,<br/>In excelsis Deo!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Idźcie do Betlejem,<br/>Gdzie Dziecię zrodzone<br/>W pieluszki powite,<br/>W żłobie położone,<br/>Oddajcie Mu pokłon Boski,<br/>On osłodzi wasze troski.<br/>Gloria, gloria, gloria,<br/>In excelsis Deo!</lines>
+    </verse>
+  </lyrics>
+</song>

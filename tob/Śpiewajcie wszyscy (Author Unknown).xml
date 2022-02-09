@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:26">
+  <properties>
+    <titles>
+      <title>Śpiewajcie wszyscy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="140"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Śpiewajcie wszyscy Panu pieśń<br/>nową, bo dziwne rzeczy uczynił On.<br/>Prawica Jego i święta dłoń<br/>w zwycięstwie dopomogły Mu.<br/>Pan okazał zbawienie Swoje<br/>i objawił sprawiedliwość Swą<br/>przed oczyma narodów.<br/>Śpiweajcie Panu<br/>Nową pieśń!</lines>
+    </verse>
+  </lyrics>
+</song>

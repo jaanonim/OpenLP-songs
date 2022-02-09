@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:26">
+  <properties>
+    <titles>
+      <title>Hymn wdzięczności płynie z duszy</title>
+    </titles>
+    <authors>
+      <author type="words">F.H.Rowley</author>
+      <author type="music">F.H.Rowley</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="202"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hymn wdzięczności płynie z duszy.<br/>Jezus za mnie życie dał;<br/>Srogie poniósł Sam katusze,<br/>Bym ja grzeszny szczęście miał.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Duszo ma, uwielbiaj Pana,<br/>Zesłał On zbawienie ci,<br/>Byłaś grzechem pokalana,<br/>On cię obmył w Swojej krwi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On całego władca świata,<br/>On najwyższy Pan i Król.<br/>Jakaż godna Go zapłata<br/>Za męczeństwo, krzyż i ból?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On nie oragnie mieć ołtarzy,<br/>Ni kłamanych ludzkich chwał,<br/>Ale żąda, by Mu w darze<br/>Serce czyste każdy dał.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jezu, Królu mój wspaniały!<br/>Wiem, jak spłacić mogę dług:<br/>Tobie sercem się oddaję;<br/>Zalicz mnie do Twoich sług.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Przyjm, Jezusie, mą ofiarę,<br/>Przyjmij mój niegodny dar;<br/>Mą nadzieję, miłość, wiarę,<br/>Szczerych uczuć moicj żar!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:43">
+  <properties>
+    <titles>
+      <title>Wędrujemy raźno w ojczyznę swą</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="465"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wędrujemy raźno w ojczyznę swą<br/>Po tej wąskiej drodze wzwyż.<br/>Tu zwątpienia, żale nieznane są<br/>Na tej wąskiej drodze wzwyż.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jeden nie opuści nas, choć walka wre,<br/>On daruje męstwo nam i pomoc śle,<br/>On też śledzi bacznie każdy krok i czyn,<br/>- Jezus, On Boży Syn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mamy Słowo Boże, to światło, miecz<br/>Na tej wąskiej drodze wzwyż;<br/>Ono moc ciemności odpędza precz,<br/>Na tej wąskiej drodze wzwyż.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kiedy bojaźń, smutek utrudnia krok<br/>Na tej wąskiej drodze wzwyż,<br/>My z ufnością w górę wznosimy wzrok<br/>Na tej wąskiej drodze wzwyż.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Choć niejeden trud by nas wstrzymać chciał<br/>Na tej wąskiej drodze wzwyż,<br/>To dojdziemy wnet<br/>do niebieskich chwał<br/>Po tej wąskiej drodze wzwyż.</lines>
+    </verse>
+  </lyrics>
+</song>

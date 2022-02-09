@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:53">
+  <properties>
+    <titles>
+      <title>503 UKRAINA</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hej tam gdzieś znad Czarnej Wody<br/>Siada na koń Kozak młody<br/>Czule żegna się z dziewczyną<br/>Jeszcze czulej z Ukrainą</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hej, hej, hej sokoły<br/>Omijajcie góry, lasy, pola, doły<br/>Dzwoń, dzwoń, dzwoń dzwoneczku<br/>Mój stepowy skowroneczku<br/>… <br/>Mój stepowy dzwoń, dzwoń, dzwoń</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pięknych dziewcząt jest niemało <br/>Lecz najwięcej w Ukrainie <br/>Tam me serce pozostało <br/>Przy kochanej mej dziewczynie </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ona jedna tam została <br/>Przepióreczka moja mała <br/>A ja tutaj w obcej stronie <br/>Dniem i nocą tęsknię do niej </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Żal, żal, za dziewczyną <br/>Za zieloną Ukrainą <br/>Żal, żal, serce płacze <br/>Że jej więcej nie zobaczę </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wina, wina, wina dajcie <br/>A jak umrę pochowajcie <br/>Na zielonej Ukrainie <br/>Przy kochanej mej dziewczynie.</lines>
+    </verse>
+  </lyrics>
+</song>

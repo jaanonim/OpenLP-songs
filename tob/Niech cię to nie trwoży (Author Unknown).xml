@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:40">
+  <properties>
+    <titles>
+      <title>Niech cię to nie trwoży</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="455"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niech cię to nie trwoży,<br/>Że przez wiele boju<br/>Dojdzie chrześcijanin<br/>Do błogości zdroju.<br/>Pomnij, co ustami<br/>Boga było wyrzeczone;<br/>Temu, kto zwycięży,<br/>Pan Sam da koronę.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niech cię to nie trwoży,<br/>że przez groźne wały<br/>Musi dziecko Boże<br/>Iść do wiecznej chwały;<br/>Ach, wie ono dobrze,<br/>Ze się w górze słońce żarzy;<br/>Wynagrodzi wszystko<br/>Blask Chrystusa twarzy,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niech cię to nie smuci,<br/>Żeś nie zrozumiany,<br/>Że tu każdy krok twój<br/>źłe jest pomawiany;<br/>Przecież ludzkie zdanie<br/>Gwiazdę wcale nie obchodzi,<br/>Ona światło siejąc<br/>Po swej drodze chodzi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Niech cię to me smuci,<br/>Że świat cię wyśmiewa,<br/>Że na ciebie chętnie<br/>Gniew, swój on wylewa.<br/>Znoś cierpliwie wszystko!<br/>Pan rzekł, że i to raz minie.<br/>Ty żyć będziesz wiecznie<br/>- świat na wieki zginie.</lines>
+    </verse>
+  </lyrics>
+</song>

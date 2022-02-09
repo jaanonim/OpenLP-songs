@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:32">
+  <properties>
+    <titles>
+      <title>Ześlij deszcz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="783"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ześlij deszcz, o Panie ześlij deszcz<br/>niech Twój Święty Duch<br/>oczyszcza nas.<br/>Przygotuj nas, dziś wesela Twego czas,<br/>przyodziej sługi w Imię Twoje.<br/>    </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Allelu- o Alle- Alle-lu<br/>Allelu- Al-le-lu-ja. // x2 //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Umocnij nas,<br/>lament zmień w radosną pieśń,<br/>niech kajdany opadną z naszych<br/>zimnych serc.<br/>Tyś Boży Syn,<br/>do zwycięstwa wiedziesz nas,<br/>Twoje Słowo jest światłem naszej drogi</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wysławiajmy Go,<br/>bo w Jezusie nasza moc,<br/>niech Izrael odda Jemu chwałę.<br/>Mesjasz Król, On ukoi wszelki ból,<br/>Bóg Jakuba, Święty Bóg.</lines>
+    </verse>
+  </lyrics>
+</song>

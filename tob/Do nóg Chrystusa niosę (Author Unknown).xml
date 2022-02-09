@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:55">
+  <properties>
+    <titles>
+      <title>Do nóg Chrystusa niosę</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="724"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Do nóg Chrystusa niosę<br/>Mych grzechów długi zwój,<br/>Tam ulgę ja odczuję<br/>Tam przebaczenie zdrój.<br/>Najświętsza krew obmyje<br/>Me serce z wszelkich wad,<br/>A mnóstwo plam zakryje,<br/>/ I zniknie grzechów ślad. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przed Tobą wyznam szczerze<br/>Mą całą nędzę, brud,<br/>Wszak słowu Twemu wierzę,<br/>Okażesz mi swój cud.<br/>Boleści me i grzechy<br/>Zaniosłeś na krzyż Sam;<br/>W uciskach mych pociechę<br/>/ Znajduję teraz tam. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na fundamencie stałym<br/>Spokojnie dusza trwa,<br/>Mieszkanie Jego wiecznie,<br/>Na zawsze ona ma.<br/>Więc Imię Jego sławię,<br/>Bo On jest Zbawcą mym,<br/>On pierwszy i ostatni,<br/>/ Chce mieszkać z ludem Swym. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:32">
+  <properties>
+    <titles>
+      <title>Wierzę w Boga Ojca</title>
+    </titles>
+    <authors>
+      <author type="words">Graham Kendrick</author>
+      <author type="music">Graham Kendrick</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="751"/>
+    </songbooks>
+    <themes>
+      <theme>kids</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wierzę w Boga Ojca Stwórcę,<br/>wszechświat dziełem Jego jest.<br/>I w Jezusa Jego Syna,<br/>co z Dziewicy zrodził się.<br/>On na krzyżu za nas umarł,<br/>wziął na Siebie świata grzech.<br/>Lecz zwycięsko z grobu powstał,<br/>po prawicy Ojca siadł.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jezus świata Pan, świata Pan<br/>Jezus świata Pan, świata Pan<br/>Jezus świata Pan, świata Pan<br/>Jezus świata Pan, świata Pan<br/>najwyższe Imię, najwyższe Imię.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On Swojego Ducha zesłał,<br/>Kościołowi dary dał.<br/>Potwierdzając Swoje Słowo<br/>do narodów posłał nas.<br/>Przyjdzie w chwale by osądzić<br/>z tronu Swego cały świat.<br/>Przed Nim ugną się kolana,<br/>każdy język wyzna to:</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:46">
+  <properties>
+    <titles>
+      <title>Powstańcież dziś do boju</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="531"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Powstańcież dziś do boju,<br/>O dzieci Boże, wraz,<br/>Pośpieszcie w zbrojnym stroju,<br/>Bo Już ostatni czas!<br/>Rozwinął Król sztandary,<br/>Do boju wiedzie nas;<br/>On daje pewność wiary,<br/>Że z Nim zwyciężym wraz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Powstańcież dziś do boju!<br/>Potężny jest nasz wróg;<br/>U jego boku stoją<br/>Piekielnych rzesze sług.<br/>Odważnie w wierze stójcie,<br/>Choć groźny ryczy lew;<br/>W moc Ducha się uzbrójcie,<br/>- Was zbawia Pańska brew.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Powstańcież dziś do boju,<br/>Wszak z nami jest tu Bóg!<br/>Już idzie Król pokoju,<br/>A precz ucieka wróg.<br/>Zwycięzcę czeka w górze<br/>Nagroda wiary tej;<br/>Koronę tam żywota<br/>Pan da mu w chwale Swej.</lines>
+    </verse>
+  </lyrics>
+</song>

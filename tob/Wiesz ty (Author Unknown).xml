@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:55">
+  <properties>
+    <titles>
+      <title>Wiesz ty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="489"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wiesz tym kto cię tak miłuje, że mi brak podziwu słów?<br/>Kto na łonie cię piastuje, rano budzi z rajskich snów?<br/>Kto przywodzi dzionek złoty, kto matuli dał pieszczoty,<br/>kto serduszko twoje zna i w Swym sercu ciebie ma?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wiesz ty, kogo umęczyli na Golgocie ludzie źli?<br/>Kto tam w tej okropnej chwili dał za ciebie życie Swe?<br/>O, ty dobrze znasz swojego Zbawiciela kochanego,<br/>który cię prowadzić chce i owieczką Swoją zwie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z całej duszy swej dziecięcej, z całej duszy kochaj Go!<br/>Nie zasmucaj Go już więcej grzechem, ani myślą złą!<br/>Wtedy po łagodnym zgonie, wzniesie cię w niebieskie błonie<br/>na swych skrzydłach anioł-stróż; tam Jezusa ujrzysz już.</lines>
+    </verse>
+  </lyrics>
+</song>

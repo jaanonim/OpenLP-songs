@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:50">
+  <properties>
+    <titles>
+      <title>Pobłogosław Panie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="614"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pobłogosław Panie, Okaż zmiłowanie,<br/>Ku nam zwróć oblicze Swe, Niech nam<br/>Światło Twe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Udziel nam pokoju w te dni pełne znoju!<br/>Duchu święty, Ty nam świeć, Pod Chrystusa<br/>Krzyż nas wiedź!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amen, amen, amen, Jezus Chrystus Panem!<br/>Cześć i chwałę niechaj ma On, co był i wiecznie<br/>Trwa.</lines>
+    </verse>
+  </lyrics>
+</song>

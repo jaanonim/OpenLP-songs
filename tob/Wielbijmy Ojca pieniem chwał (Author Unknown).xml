@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:18">
+  <properties>
+    <titles>
+      <title>Wielbijmy Ojca pieniem chwał</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="26"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wielbijmy Ojca pieniem chwał,<br/>Ze na świat Syna Swego dał,<br/>A On wśród krwawych krzyża mąk<br/>Wychylił kielich z Ojca rąk.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, tylko moc Chrystusa krwi<br/>Otwiera nam do raju drzwi;<br/>Tak cudny dar w Nim Bóg nam dał;<br/>Wielbijmy Go swym pieniem chwał!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miłości świętej tryska zdrój;<br/>W niej znajdą grzeszni pokój swój;<br/>Zbawiciel z serc ich spędził strach,<br/>Prowadził ich w niebieski gmach.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z grzechowych pęt nas w wolność wwiódł<br/>Osładza nam pielgrzymki trud,<br/>On też co dnia w pustyni tej<br/>Nas manną karmi z łaski Swej.</lines>
+    </verse>
+  </lyrics>
+</song>

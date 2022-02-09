@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:23">
+  <properties>
+    <titles>
+      <title>Czemuż dusza twoja lgnie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="124"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czemuż dusza twoja lgnie<br/>Do światowych znikomości,<br/>Które w proch rozsypią się,<br/>W których śmierci robak gości?<br/>Szukaj Zbawcy! Tylko z Nim<br/>Znajdziesz, pokój w świecie złym.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rozproszone myśli zbierz,<br/>By do Boga się podniosły;<br/>Ścieżek prawdy wiernie strzeż,<br/>By owoce łaski wzrosły!<br/>Szukaj Zbawcy! Tylko z Nim<br/>Znajdziesz światło w świecie złym.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kiedy tęsknisz, pragniesz cisz,<br/>Ulgi w bólu, pokrzepienia,<br/>To się do strumienia zbliż,<br/>W którym ból się w radość zmienia!<br/>Szukaj Zbawcy! Tylko z Nim<br/>Ujdziesz grzechu w świecie złym.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Czy nie widzisz, że ten świat<br/>Nosi w sobie śmierci znamię,<br/>Depcze niewinności kwiat<br/>I przymierze Boże łamie?<br/>Szukaj Zbawcy! Tylko z Nim<br/>Ujdziesz grzechu w świecie złym.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wzbij się duchem swoim, wzbij<br/>Do Barankowego tronu<br/>I w gorliwych modłach pij<br/>Wodę życia upragnioną!<br/>Szukaj Zbawcy! Tylko w Nim<br/>W świecie się pokrzepisz złym.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Więc majestat Bożych chwał<br/>Miej przed okiem wciąż, w pamięci,<br/>Byś w modlitwach odpór dał,<br/>Gdy cię świat do grzechu nęci.<br/>Szukaj Zbawcy! Tylko z Nim<br/>Znajdziesz niebo w świecie złym.</lines>
+    </verse>
+  </lyrics>
+</song>

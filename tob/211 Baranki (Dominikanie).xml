@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:48">
+  <properties>
+    <titles>
+      <title>211 Baranki</title>
+    </titles>
+    <verseOrder>c1 v1 v2 c1 v3 v4 c1 v5 v6 c1 v7 v8 c1</verseOrder>
+    <authors>
+      <author>Dominikanie</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Oto są baranki młode,<br/>oto ci, co zawołali alleluja!<br/>Dopiero przyszli do zdrojów,<br/>światłością się napełnili,  <br/>Alleluja, alleluja!<br/> </lines>
+    </verse>
+    <verse name="v1">
+      <lines>Na Baranka Pańskich godach,<br/>W szat świątecznych czystej bieli,  <br/>Po krwawego morza wodach<br/>Nieśmy Panu pieśń weseli.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W swej miłości wiekuistej<br/>On nas swoją Krwią częstuje,<br/>Nam też Ciało swe przeczyste<br/>Chrystus kapłan ofiaruje.<br/> </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na drzwi świętą Krwią skropione<br/>Anioł mściciel z lękiem wziera,<br/>Pędzi morze rozdzielone,<br/>Wrogów w nurtach swych pożera</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Już nam Paschą Tyś, o Chryste,<br/>Wielkanocną też ofiarą,<br/>Tyś Przaśniki nasze czyste <br/>Dla dusz prostych z szczerą wiarą.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O Ofiaro niebios święta,<br/>Ty moc piekła pokonywasz,<br/>Zrywasz ciężkie śmierci pęta,<br/>Wieniec życia nam zdobywasz.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Chrystus piekło pogromiwszy<br/>Swój zwycięski znak roztacza,<br/>Niebo ludziom otworzywszy<br/>Króla mroków w więzy wtłacza.<br/> </lines>
+    </verse>
+    <verse name="v7">
+      <lines>Byś nam wiecznie, Jezu drogi, <br/>Wielkanocną był radością,<br/>Strzeż od grzechu śmierci srogiej <br/>Odrodzonych Twą miłością.<br/> </lines>
+    </verse>
+    <verse name="v8">
+      <lines>Chwała Ojcu i Synowi, <br/>który z martwych żywy wstaje<br/>I Świętemu też Duchowi <br/>Niech na wieki nie ustaje.</lines>
+    </verse>
+  </lyrics>
+</song>

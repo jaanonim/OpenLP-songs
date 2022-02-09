@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:27">
+  <properties>
+    <titles>
+      <title>Jam Twą własnością!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="226"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jam Twą własnością! Dzięki Ci, Panie<br/>O Zbawicielu, przyjmij wyznanie:<br/>Ja Cię miłuję, czczę Cię z radością,<br/>Ciebie uwielbiam, jam Twą własnością.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W ścieżkach zwątpienia ciężko błądziłem,<br/>Zaród już śmierci w piersi nosiłem,<br/>Lecz Tyś mię olśnił Swoją światłością,<br/>Tak iż rzec mogę: jam Twą własnością.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niegdyś ja w mocy świata bywałem,<br/>Teraz Cię swoim Królem obrałem.<br/>Twoje łagodne jarzmo z radością<br/>Nosić chcę odtąd. jam Twą własnością.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nikt mnie ze świętych ksiąg nie wymaże,<br/>Nikt mi już innej drogi nie wskaże.<br/>Pod Twoim okiem żyć jest błogością,<br/>Umrzeć mi zyskiem, jam Twą własnością.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O mój Pasterzu, w Swoje ramiona<br/>Bierzesz owieczkę, tuląc do łona,<br/>Przeto do Ciebie śpiesząc z wdzięcznością,<br/>Wołam szczęśliwy: jam Twą własnością.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>W Tobie, o Jezu, dobra mam wszelkie,<br/>Z Ciebie mi płynie szczęście to wielkie,<br/>W Tobie spoczywam już z bezpiecznością<br/>W błogim pokoju, jam Twą własnością.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Póki na ziemi dajesz mieszkanie,<br/>Jam Twą własnością, Zbawco i Panie;<br/>Kiedyś zaś w niebie, odzian świętością,<br/>Wiecznie zaśpiewam: jam Twą własnością.</lines>
+    </verse>
+  </lyrics>
+</song>

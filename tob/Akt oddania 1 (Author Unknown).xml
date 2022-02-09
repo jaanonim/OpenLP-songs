@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:14">
+  <properties>
+    <titles>
+      <title>Akt oddania 1</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie Jezu Chryste,<br/>chcę należeć do Ciebie<br/>od tej chwili.<br/>Chcę wyzwolić się od panowania<br/>ciemności i spod władzy szatana<br/>i chcę wejść do Królestwa i stać<br/>się częścią Twego Ludu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Odwrócę się od wszelkiego zła.<br/>Proszę o przebaczenie<br/>wszystkich grzechów,<br/>które popełniłem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ofiaruję Ci moje życie<br/>i obiecuję słuchać Cię, jako mego Pana.<br/>Przez ręce Maryi Twojej i mojej Matki,<br/>proszę Cię wylej na mnie Ducha Świętego.</lines>
+    </verse>
+  </lyrics>
+</song>

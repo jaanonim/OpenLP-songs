@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:50">
+  <properties>
+    <titles>
+      <title>Serce pójdź w cierpieniu Pana</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="595"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Serce pójdź w cierpieniu Pana,<br/>Jest dla ciebie studnia dana;<br/>Tu uśmierzysz głód, pragnienie,<br/>We krwi Jego twe zbawienie.<br/>Że posiadam Zbawiciela,<br/>Który dziś mi się udziela<br/>Z Swą zasługą i z Swym strojem,<br/>To radością duszy mojej.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On naprawdę co dzień moim jest,<br/>Gdy pod krwią Jego stoję,<br/>On w pielgrzymce mej do nieba<br/>Daje codzień duszy chleba<br/>Źródłem mego On wesela,<br/>I nic więcej nie chcę wiedzieć,<br/>Tylko u stóp Jego siedzieć.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pragnę z głębi serca mego<br/>Łamać chleb u stołu Jego,<br/>Tu Go dusza spożyć może,<br/>Tu w pamięci swej to złożę,<br/>Ze posiadam Zbawiciela,<br/>Duszy Oswobodziciela;<br/>Jego krzyż i zmartwychwstanie<br/>Mą własnością pozostanie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Błogosławiona Miłości,<br/>Żeś Ty w Swojej mię wierności<br/>Z wszelkich zwątpień uwolniła,<br/>Kiedy ciemność mię okryła;<br/>Ja posiadam Zbawiciela,<br/>Który w śmierci się udziela<br/>I w najgłębszą otchłań nocy<br/>Wszedł, mię wyrwać z grzechu mocy.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gdyby mię coś trwożyć chciało,<br/>Gdyby czegoś brakowało,<br/>Czy w pokusie, czy w chorobie,<br/>Chcę to uświadomić sobie,<br/>Ze mam Zbawiciela z sobą<br/>Od kołyski aż do grobu,<br/>Aż do tronu Jego chwały,<br/>Gdzie brzmi wiecznie hymn wspaniały</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:53">
+  <properties>
+    <titles>
+      <title>Prowadź nas</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="462"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Prowadź nas, o, wielki Boże,<br/>przez pustynię ziemi tej!<br/>Słabiśmy, lecz Tyś Wszechmocy,<br/>wiedź nas mocą ręki Swej.<br/>// Manną z nieba //  pokrzep<br/>Swój słabnący lud.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Otwórz skałę, niechaj woda<br/>życiodajna spłynie nam!<br/>Słupem ognia przed wrogami,<br/>których pełno, chroń nas sam;<br/>// Wielki Zbawco //  tarczą<br/>bądź dla naszych dusz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy nad brzeg Jordanu przyjdziem,<br/>pomóż przejść nam pośród wód,<br/>w obiecanym Chanaanie wierny Twój<br/>niech spocznie lud. // Dziękczynienia //<br/>wzlecą wtedy przed Twój tron!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:06">
+  <properties>
+    <titles>
+      <title>Dziękować Ci Panie chcę</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dziękować Ci Panie chcę<br/>Dziękować, boś świętym jest<br/>Dziękować, boś Jezusa Syna swego nam dał /x2<br/>A dziś słaby powie mam Twą moc<br/>Biedny powie wszystko mam<br/>Bo Panie Ty to dałeś nam, Ty sam /x2</lines>
+    </verse>
+  </lyrics>
+</song>

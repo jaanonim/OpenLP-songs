@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:26">
+  <properties>
+    <titles>
+      <title>Gdzieżeś, ukochany mój Jezu Chryste?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="200"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdzieżeś, ukochany mój Jezu Chryste?<br/>Gdzie Cię szukać będę, znajdę zaiste?<br/>Wydaj z Siebie światłość, boś Ty jasny!<br/>2yć bez Ciebie nie chcę, boś Ty krasny!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ciebie, Jezu, znaleźć me serce, żąda,<br/>Ciebie każdej chwili tęsknie wygląda.<br/>O, wróć do mnie znowu, skarbie drogi,<br/>Wybaw moje serce z wszelkiej trwogi!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Póki Cię nie znajdę, szukać Cię będę,<br/>We dnie jak i w nocy tak wołać będę:<br/>Ukaż się, Jezusie, mnie smutnemu,<br/>Racz dać pocieszenie mnie grzesznemu!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jeśli Cię nie znajdę, mój miły Chryste,<br/>W grzechu mym na wieki zginę zaiste.<br/>Ach, śpiesz się i przybądź Ty niezwłocznie.<br/>Niech się pomoc moja z Tobą pocznie.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Z Tobą się połączyć chce serce moje,<br/>Dłużej się bez Ciebie już nie ostoję,<br/>Życie me bez Ciebie jest tu niczym -<br/>Z Tobą, mój Jezusie, śmierć jest życiem.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dokądkolwiek pójdziesz, za Tobą pójdę,<br/>Z Tobą wiecznej chwały ja pewnie dojdę,<br/>Gdy mieć Ciebie będę, zacny Panie,<br/>Już mi nic nie braknie, me kochanie!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:48">
+  <properties>
+    <titles>
+      <title>Przebudź się, duszo, ze snu ciężkiego</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="552"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przebudź się, duszo, ze snu ciężkiego,<br/>Byś oglądała Pana swojego!<br/>Długa noc dobiega końca,<br/>Dnia nowego widać gońca;<br/>Niespodzianie u nas stanie<br/>Nasz Oblubieniec „miły.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sam Pan oświadcza świętymi słowy,<br/>Że błogo temu, kto jest gotowy;<br/>Komu w lampie olej płonie,<br/>Kogo senność nie pochłonie,<br/>Ten pospołu z Nim do stołu<br/>W niebieskiej siądzie chwale.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zbliża się, zbliża dzień Chrystusowy,<br/>Znaki wołają; Bądźże gotowy!<br/>Latorośle już pękają,<br/>Nowe lato oznajmiają;<br/>Pokój trwały, doskonały<br/>Wierzącym już zakwita.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy zaś w dzień przyjścia Twojego,<br/>Panie, Dusza ma z ziemi przed Tobą stanie,<br/>A głos trąby archanioła<br/>Żywych i umarłych zwoła,<br/>Okaż, Panie, zmiłowanie,<br/>Bym stanął po prawicy!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:53">
+  <properties>
+    <titles>
+      <title>Szybko życia mija czas</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="460"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szybko życia mija czas<br/>jak dnie za dniami mkną!<br/>I nie spostrzeże żaden z nas,<br/>jak przeżył wiosnę swą.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Rok za rokiem, dzień za dniem,<br/>my do kresu trosk swych mkniem,<br/>aż ostatni przyjdzie czas,<br/>i Zbawiciel przyjmie nas.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kto kochał, wierzył w życiu tym,<br/>kto w Panu zawsze trwał,<br/>dla tego Zbawca w Słowie<br/>Swym obiecał wieniec chwał.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A gdy wybije dla mnie<br/>dzwon ostatnich .ycia dni,<br/>to wtedy wspomnij duszę mą,<br/>omytą w Twojej krwi!</lines>
+    </verse>
+  </lyrics>
+</song>

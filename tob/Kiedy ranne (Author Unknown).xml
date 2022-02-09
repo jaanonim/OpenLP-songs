@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:28">
+  <properties>
+    <titles>
+      <title>Kiedy ranne</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="7"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kiedy ranne wstają zorze,<br/>Tobie ziemia Tobie morze,<br/>Tobie śpiewa żywioł wszelki:<br/>Bądź pochwalon, Boże wielki!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Człowiek zaś, który bez miary<br/>obsypany Twymi dary,<br/>coś go stworzył i ocalił,<br/>czemużby Cię on nie chwalił?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ledwie oczy przetrzeć zdołam,<br/>wnet do mego Pana wołam,<br/>do mojego Boga w niebie<br/>i szukam Go koło siebie,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wielu śmierci snem upadli,<br/>co się wczoraj spać pokładli.<br/>My się jeszcze obudzili,<br/>byśmy Bożę cię chwalili.</lines>
+    </verse>
+  </lyrics>
+</song>

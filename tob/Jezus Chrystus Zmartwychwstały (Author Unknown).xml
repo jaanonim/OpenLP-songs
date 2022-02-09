@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:53">
+  <properties>
+    <titles>
+      <title>Jezus Chrystus Zmartwychwstały</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="444"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus Chrystus Zmartwychwstały w : mocy<br/>i światłości Swej, przezwyciężył grzechu skały,<br/>niosąc radość ziemi tej. Większe szczęście niż<br/>Maryję mię spotkało w świecie tym, do stóp Tego,<br/>który żyje dziś przybiegam duchem mym.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Zmartwychwstał! Chrystus Pan!<br/>Jemu wieczna chwała cześć! Amen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zmartwychwstałeś z więzów mocy, Twą potęgą<br/>kruszysz je, światło błysło wpośród nocy,<br/>zmartwychwstały dusze cne. Zmartwychwstałeś,<br/>aby wiernym białe szaty dać już tu, by ich Duchem<br/>nieśmiertelnym wnet powołać z śmierci snu.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Zmartwychwstał! Chrystus Pan!<br/>Jemu wieczna chwała cześć! Amen!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pomóż, aby stale jaśniej Twe oblicze lśniło nam,<br/>kiedy ziemskie życie zgaśnie spotkaj nas u niebios bram.<br/>Wiek doczesny wtedy minie, ciało nasze zmieni kształt,<br/>już będziemy w tej krainie, gdzie się kończy wszelki gwałt.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Zmartwychwstał! Chrystus Pan!<br/>Jemu wieczna chwała cześć! Amen!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:45">
+  <properties>
+    <titles>
+      <title>Ach, potrzebuję Cię</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="283"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ach, potrzebuję Cię, Łaskawy Panie mój;<br/>Twe Imię skałą mą, w nim jest pociechy zdrój.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, Panie, drogi Panie, potrzebuję Ciebie,<br/>ja muszę mieć Cię zawsze, błogosław mi!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ach, potrzebuję Cię, o, Jezu, przy mnie stój,<br/>bym został wiernym Ci przez cały życia bój.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ach, potrzebuję Cię, jak Ty chcesz, tak mię wiedź,<br/>bo wiem, że w słowie Twym nadzieję mogę mieć.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ach, potrzebuję Cię, w dniach dobrych jak i złych,<br/>Tyś słońcem, tarczą mą na wszystkich drogach mych.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ach, potrzebuję Cię, bez Ciebie jakże żyć?<br/>O, daj, bym w raju też, mógł wiecznie z Tobą być.</lines>
+    </verse>
+  </lyrics>
+</song>

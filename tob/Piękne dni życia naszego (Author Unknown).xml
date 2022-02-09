@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:03">
+  <properties>
+    <titles>
+      <title>Piękne dni życia naszego</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="837"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Piękne dni życia naszego,<br/>Siły młodości, wiosenny czas,<br/>My poświęcimy dla Zbawcy,<br/>Młodość swą dajmy Mu wraz!<br/>Cóż może być piękniejszego,<br/>Jak w służbie dla Pana trwać?<br/>On celem życia naszego,<br/>Serca swe chciejmy Mu dać.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Słyszysz jak Chrystus nas wzywa?<br/>Służmy Mu wiernie więc wszyscy wraz.<br/>Dłużej nam zwlekać nie wolno,<br/>Krótko wszak łaski trwa czas.<br/>Sztandar z imieniem Chystusa<br/>Wznieśmy odważnie więc wzwyż,<br/>Idźmy śladami Jezusa,<br/>Patrząc na Zbawcy ten krzyż.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Śmiało z imieniem Chrystusa,<br/>Bracia, pójdzemy z nieprawdą w bój.<br/>W grzechach tysiące dusz ginie,<br/>Nieśmy pociechy im zdrój.<br/>Chociaż nas tu nie przyjmują<br/>I śmiercią grożą też nam,<br/>Z pieśnią radosną na ustach,<br/>Złamiem złą moc piekieł bram.</lines>
+    </verse>
+  </lyrics>
+</song>

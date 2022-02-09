@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:51">
+  <properties>
+    <titles>
+      <title>Niepojęte dary</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="408"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niepojęte dary dla nas daje,<br/>dzisiaj z nieba Ojciec łaskawy,<br/>gdy się wieczne Słowo Ciałem staje,<br/>mocą swojej cudownej sprawy.<br/>Nędze świata precz odmiata,<br/>a płaczliwe jęczenia, w dźwięków<br/>głosy pod niebiosy i w wesele zamienia.<br/>Skąd dziś wszyscy weseli, wyśpiewują anieli:<br/>Niechaj chwała Bogu będzie w niebie,<br/>a na ziemi pokój ludowi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niebo dzisiaj z ziemią połączone,<br/>wyśpiewuje wdzięczności pienie.<br/>Dzięki Bogu czyni nieskończone,<br/>za zjawione ludziom zbawienie;<br/>Radość nasza z Mesjasza i<br/>wszystkiemu stworzeniu!<br/>Że Pan chwały, śmierci strzały,<br/>skruszył w Swem narodzeniu.<br/>Brzmijże świecie wesoło,<br/>wyśpiewujże wokoło.<br/>Niechaj chwała Bogu będzie w<br/>niebie, a na ziemi pokój ludowi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aby człowiek Bogiem był nazwany,<br/>Jego postać Bóstwo przybrało;<br/>aby skruszyć niewoli kajdany,<br/>Słowo Ojca ciałem się stało.<br/>Sługa z Pana, ach odmiana!<br/>Niesłychane przykłady!<br/>By z wdzięczności dla miłości<br/>człowiek w Boga szedł ślady.<br/>Więc niech pienia odgłosy<br/>idą aż pod niebiosy:<br/>Niechaj chwała Bogu będzie w<br/>niebie, a na ziemi pokój ludowi.</lines>
+    </verse>
+  </lyrics>
+</song>

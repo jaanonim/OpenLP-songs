@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:33">
+  <properties>
+    <titles>
+      <title>Zobaczcie jak wielką miłością</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="791"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zobaczcie jak wielką Miłością<br/>obdarzył nas Ojciec.<br/>Śpiewajmy dobremu Bogu,<br/>Alleluja. // 2x //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On nazwał nas Swymi dziećmi<br/>i rzeczywiście nimi jesteśmy<br/>Śpiewajmy dobremu Bogu,<br/>Alleluja. // 2x //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wiemy, że gdy się objawi<br/>będziemy do Niego podobni<br/>Śpiewajmy dobremu Bogu,<br/>Alleluja. // 2x //</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Będziemy widzieć Pana<br/>takiego jakim jest<br/>Śpiewajmy dobremu Bogu,<br/>Alleluja. // 2x //</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Każdy kto ma w Nim nadzieję<br/>podobnie jak On jest święty<br/>Śpiewajmy dobremu Bogu,<br/>Alleluja. // 2x //</lines>
+    </verse>
+  </lyrics>
+</song>

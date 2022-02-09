@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:46">
+  <properties>
+    <titles>
+      <title>Choćby góry wysokie i strome</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="514"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Choćby góry wysokie i strome<br/>Odgradzały od celu tu nas<br/>- Idziem naprzód z radością we wierze,<br/>- Zwycięstwo da Pan w każdy czas.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Przez naszą mocną wiarę się to stanie, /x2<br/>Że góry znikną nam, gdy śpieszyć będziem tam.<br/>Więc naprzód w wierze za swym Panem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I w godzinie największej pokusy,<br/>Gdy się zda, iż nie słyszy Bóg nas,<br/>Stójmy mocno na Bożym wciąż słowie;<br/>O, wierz, olśni cię Jego blaski</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kiedy w dniach gorącego ucisku<br/>Wróg namnoży napaści i zdrad,<br/>To szukajmy w Nim tylko ratunku,<br/>A Pan wiernych Swych wyrwie rad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Więc pragniemy Go wielbić we wierze,<br/>Bo ufamy Mu, kiedy bój wre;<br/>Chcemy służyć Mu, służyć wciąż szczerze,<br/>Gdyż pewne zwycięstwo nam śle</lines>
+    </verse>
+  </lyrics>
+</song>

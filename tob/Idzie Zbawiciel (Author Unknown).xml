@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:47">
+  <properties>
+    <titles>
+      <title>Idzie Zbawiciel</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="551"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Idzie Zbawiciel by zabrać nas.<br/>Wierni czuwajcie przed Panem wraz.<br/>Na każdym miejscu i w każdy czas!<br/>Czujcie Pan przyjdzie wnet!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Panie zawsze czuwa Twoja straż.<br/>Nasze modły i tęsknotę znasz.<br/>Twoją pragniemy raz ujrzeć twarz,<br/>Gdy zbierzesz wiernych swych.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Idzie Zbawiciel! Tej prawdy treść<br/>Serca powinna do nieba wznieść.<br/>W żadną się marność nie dajcie wpleść.<br/>Czujcie Pan przyjdzie wnet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Idzie Zbawiciel, o zborze słysz!<br/>Tęskne spojrzenie swe skieruj wzwyż.<br/>Ocuć się ze snu, Ty który śpisz.<br/>Czuwaj Pan przyjdzie wnet!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Idzie Zbawiciel! kto czujnym był,<br/>Wierność zachował, dla Niego żył-<br/>Ten też w koronie tam będzie lśnił.<br/>Czujcie Pan przyjdzie wnet!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Idzie Zbawiciel! Stąd weźmie On<br/>Oblubienicę Swą przed Swój tron.<br/>Na wieki się połączy już z nią.<br/>Czujcie Pan przyjdzie wnet!</lines>
+    </verse>
+  </lyrics>
+</song>

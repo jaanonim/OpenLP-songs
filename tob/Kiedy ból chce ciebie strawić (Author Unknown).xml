@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:40">
+  <properties>
+    <titles>
+      <title>Kiedy ból chce ciebie strawić</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="446"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kiedy ból chce ciebie strawić,<br/>W wierze w Pana mocno stój!<br/>On chce w ogniu cię przepławić,<br/>Przekształtować w obraz Swój.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nie rozpaczaj w ciemnej chwili,<br/>Przed zwątpieniem duszę strzeż;<br/>Co On przyrzekł, to wypełni,<br/>Wierz więc tylko, mocno wierz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie daj, aby wróg twój srogi<br/>Zwiódł cię - ufaj w Pańską moc.<br/>Pomnij, że twój Zbawca drogi<br/>Musiał też przejść ciemną noc.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jeśli z Zbawcą chcesz żyć wiecznie,<br/>Umrzeć musi twoje „ja";<br/>Chcesz Dlań działać użytecznie,<br/>Przez śmierć pójdzie droga twa.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Rzuć więc wszelkie wątpliwości,<br/>Mocno się Jezusa chwyć!<br/>Wszak On tylko to dopuści,<br/>Co zbawiennym może być</lines>
+    </verse>
+  </lyrics>
+</song>

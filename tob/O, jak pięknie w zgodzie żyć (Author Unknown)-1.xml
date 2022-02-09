@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:01">
+  <properties>
+    <titles>
+      <title>O, jak pięknie w zgodzie żyć</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="814"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, jak pięknie w zgodzie żyć,<br/>W Panu wciąż złączonym być,<br/>W bratnim gronie Jemu cześć,<br/>Chwałę, uwielbienie nieść!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wszyscy społem głoszą tam:<br/>„Ja też w Panu pokój mam!<br/>Łączy nas Jezusa Duch,<br/>Jam twój brat, a tyś mój druh."</lines>
+    </verse>
+    <verse name="v3">
+      <lines>W Nim zjednani wszyscy są,<br/>Miłość, łaskę Jego czczą,<br/>Dobroć, którą z każdym dniem<br/>Wznawia dla nich w sercu Swym.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jezus Sam, Przyjaciel dusz,<br/>Co Swych wiernych złączył już,<br/>Bierze chętnie święty zbór<br/>Pod opiekę Swoich piór.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tę społeczność świętą Pan<br/>Mocą Swoich spaja ran,<br/>Do cudownych życia wód<br/>Wiedzie rzesze Swoich sług.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Alleluja! Tobie cześć<br/>Tu docześnie chcemy nieść;<br/>Tam na wieki będziem Cię<br/>Wielbić, sławić Imię Twe.</lines>
+    </verse>
+  </lyrics>
+</song>

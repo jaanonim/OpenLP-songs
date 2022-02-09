@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:40">
+  <properties>
+    <titles>
+      <title>Niegdyś, gdy byłem w kajdanach grzechu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="203"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niegdyś, gdy byłem w kajdanach grzechu,<br/>napróżno chciałem wyzwolić się,<br/>ale mi Jezus dał cudną wolność,<br/>gdy z kajdan moich wydźwignął mię!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cudowna wolność, wspaniała wolność,<br/>już więcej w grzechu nie będę schnął;<br/>wszak Jezus sprawił mą złotą wolność,<br/>teraz i wiecznie Pan włada mną!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wolność od ciała pożądliwości,<br/>od nienawiści, kłótni i zwad,<br/>wolność od próżnych świeckich ambicji,<br/>przez nie wróg życie zasmucał rad.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Cudowna wolność, wspaniała wolność,<br/>już więcej w grzechu nie będę schnął;<br/>wszak Jezus sprawił mą złotą wolność,<br/>teraz i wiecznie Pan włada mną!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wolność od pychy i grzesznych szaleństw,<br/>od manii złota i zdobnych szat;<br/>wolność od złości i rozdrażnienia,<br/>jest mi ucieczką, ta wolność ma!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Cudowna wolność, wspaniała wolność,<br/>już więcej w grzechu nie będę schnął;<br/>wszak Jezus sprawił mą złotą wolność,<br/>teraz i wiecznie Pan włada mną!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wolność od strachu srogiej udręki,<br/>od trosk co męczą boleścią cię,<br/>wolność w Jezusie mym Zbawicielu,<br/>co z kajdan moich wydźwignął mnie!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Cudowna wolność, wspaniała wolność,<br/>już więcej w grzechu nie będę schnął;<br/>wszak Jezus sprawił mą złotą wolność,<br/>teraz i wiecznie Pan włada mną!</lines>
+    </verse>
+  </lyrics>
+</song>

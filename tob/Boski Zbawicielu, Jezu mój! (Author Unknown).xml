@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:41">
+  <properties>
+    <titles>
+      <title>Boski Zbawicielu, Jezu mój!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="239"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boski Zbawicielu, Jezu mój!<br/>Ty przy boku moim zawsze stój,<br/>/bo pociechą jesteś, Panie, mą<br/>źródła mego szczęścia w Tobie są./x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Już nie szukam szczęścia w świecie tym,<br/>wszystko jest obłudą, fałszem w nim<br/>/Jezu Tyś prawdziwą perłą mą<br/>wszystkie źródła szczęścia w Tobie są./x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezu mój, kochany Zbawco mój!<br/>Radość moja wielka, żem jest Twój<br/>/Ciebie chcę się trzymać duszą mą<br/>bo me źródła szczęścia w Tobie są./x2</lines>
+    </verse>
+  </lyrics>
+</song>

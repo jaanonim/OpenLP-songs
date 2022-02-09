@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:59">
+  <properties>
+    <titles>
+      <title>Gdy szukasz Boga</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="77"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy szukasz Boga, popatrz na kwiaty,<br/>Popatrz na góry i ciemny las.<br/>Z każdej wędrówki wrócisz bogaty<br/>I nową treścią wypełnisz swój czas.<br/>Bo cały świat jest pełen śladów Boga,<br/>I każda rzecz zawiera Jego myśl,<br/>Wspaniały szczyt, błotnista wiejska droga,<br/>To Jego znak, który zostawił ci.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy szukasz Boga, popatrz na ludzi,<br/>Spójrz, jak taternik zdobywa szczyt,<br/>Zobacz, jak matka w domu się trudzi,<br/>Spójrz w oczy dziecka a powiedzą ci,<br/>Że każdy z nas, zamieszkać pragnie Bóg<br/>By dobra wieść była przekazywana<br/>By miłość swą objawić przez nas mógł.</lines>
+    </verse>
+  </lyrics>
+</song>

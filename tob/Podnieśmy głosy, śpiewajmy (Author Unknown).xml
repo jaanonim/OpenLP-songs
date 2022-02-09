@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:14">
+  <properties>
+    <titles>
+      <title>Podnieśmy głosy, śpiewajmy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="242"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Podnieśmy głosy, śpiewajmy razem!<br/>Wielbijmy Boga jak Abraham, Izaak i Jakub!<br/>Bo Pan Zastępów jest naszym Zbawcą<br/>I On okazał wierność Swą<br/>Nad całym ludem Bożym już!<br/>Pójdźmy, razem śpiewajmy Bogu na chwałę!<br/>Bowiem Pan wyzwolił synów Swych!<br/>A Jego lud ma czcić Go pieśnią wciąż!</lines>
+    </verse>
+  </lyrics>
+</song>

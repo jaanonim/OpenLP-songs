@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:21">
+  <properties>
+    <titles>
+      <title>Jeśli nie ja</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="277"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Jeśli nie ja,  jeśli nie ty<br/>dziś nie będziemy Jezusa czcić,<br/>jeśli dziś nasz, nie zabrzmi śpiew,<br/>to kamienie wzniosą swój krzyk.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Błogosławię Cię,<br/>Panie i Boże mój<br/>odbierz królewską cześć,<br/>boś Ty godzien by sławić Cię.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Okazujesz swą moc,<br/>Błogosławisz mój dzień<br/>przyjmij dziękczynną pieśń<br/>boś Ty godzien by sławić Cię.</lines>
+    </verse>
+  </lyrics>
+</song>

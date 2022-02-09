@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:29">
+  <properties>
+    <titles>
+      <title>Gdy spojrzę tylko na cudowny krzyż</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="255"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy spojrzę tylko na cudowny krzyż,<br/>Na którym skonał w mękach Książę chwał,<br/>Znikają całkiem blaski zasług mych,<br/>Blednieje to, czym chlubić bym się chciał.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie dozwól, Jezu, żebym chlubił się<br/>Czymkolwiek innym, a nie śmiercią Twą!<br/>Wyrzekam się dla Twej najdroższej krwi<br/>Złud tych, do których serca zwykle lgną.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Patrz, z głowy Jego, z boku, z rąk i stóp<br/>Miłości ból strumieniem spływa krwi.<br/>Cudniejszy wieniec czy kto kiedy splótł<br/>Z ostrego ciernia, które w skroniach tkwi?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A choćby wszechświat był własnością mą,<br/>Wdzięczności byłby to zbyt lichy dar<br/>On pragnie życia mego, duszy mej,<br/>Miłości tak cudownej Boski żar</lines>
+    </verse>
+  </lyrics>
+</song>

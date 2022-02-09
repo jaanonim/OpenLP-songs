@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:36">
+  <properties>
+    <titles>
+      <title>Tylko Tyś jest godzien chwały</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tylko Tyś jest godzien chwały,<br/>Tylko Tyś jest godzien czci.<br/>Tylko Tobie wszelki honor,<br/>Oddajemy Panie dziś.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wielkie Twe imię,<br/>Wielkie Twe dzieła są, Panie nasz.<br/>Każdego dnia Swą łaskę na nowo dajesz nam.<br/>Któż taki jest jak Ty?<br/>Kto nas kocha tak jak Ty?<br/>O, Jahwe!</lines>
+    </verse>
+  </lyrics>
+</song>

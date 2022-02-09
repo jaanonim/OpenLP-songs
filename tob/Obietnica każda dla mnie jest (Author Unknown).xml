@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:02">
+  <properties>
+    <titles>
+      <title>Obietnica każda dla mnie jest</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="158"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Obietnica każda dla mnie jest.<br/>Każdy rozdział w Biblii, każdy wiersz,<br/>Dla mnie są błogosławieństwa też,<br/>Obietnica każda dla mnie jest!</lines>
+    </verse>
+  </lyrics>
+</song>

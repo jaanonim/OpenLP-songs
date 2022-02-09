@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:59">
+  <properties>
+    <titles>
+      <title>Tak jak jeleń do potoku z utęsknieniem szybko mknie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="767"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tak jak jeleń do potoku z utęsknieniem szybko mknie,<br/>Tak i ja za Biblią tęsknię, Ona wszystkim jest dla mnie.<br/>Kiedym smutny, pocieszenie wlewa w serce księga ta;<br/>Gdym zbolały, ukojenie Biblia mi na pewno da.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Słowem Bożym przezwyciężę mojej duszy każdy grzech,<br/>Bowiem w księdze tej czytałem, że mię Jezus będzie strzegł.<br/>Z Biblią śmiało w życie idę: wiem, że mnie nie zmoże wróg,<br/>Bo mi Biblia moja mówi, że nade mną czuwa Bóg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Biblia moja mię prowadzi poprzez mroki, ciężki znój.<br/>Ona drogę mą rozjaśnia; Księga ta - to świecznik mój.<br/>Słowo Boże dla mnie droższe ponad skarby ziemi tej,<br/>Bo mi ono radość daje w ciężkich chwałach, w doli złej.</lines>
+    </verse>
+  </lyrics>
+</song>

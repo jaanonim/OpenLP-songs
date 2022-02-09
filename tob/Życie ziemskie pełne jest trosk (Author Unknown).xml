@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:36">
+  <properties>
+    <titles>
+      <title>Życie ziemskie pełne jest trosk</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="128"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Życie ziemskie pełne jest trosk,<br/>serce płacze i drży</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tam, na Golgocie pozbędziesz się<br/>Wszystkich ciężarów swych.<br/>Tam, na Golgocie pozbędziesz się<br/>Grzechów swych, brzemion swych.<br/>Tam, na Golgocie pozbędziesz się<br/>Wszystkich ciężarów swych.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Złóż na Pana troski i ból,<br/>wszystek ciężar i łzy.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Tam, na Golgocie pozbędziesz się<br/>Wszystkich ciężarów swych.<br/>Tam, na Golgocie pozbędziesz się<br/>Grzechów swych, brzemion swych.<br/>Tam, na Golgocie pozbędziesz się<br/>Wszystkich ciężarów swych.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezus dobrze troski twe zna,<br/>przyjdź do Niego pod krzyż.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Tam, na Golgocie pozbędziesz się<br/>Wszystkich ciężarów swych.<br/>Tam, na Golgocie pozbędziesz się<br/>Grzechów swych, brzemion swych.<br/>Tam, na Golgocie pozbędziesz się<br/>Wszystkich ciężarów swych.</lines>
+    </verse>
+  </lyrics>
+</song>

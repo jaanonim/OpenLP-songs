@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:46">
+  <properties>
+    <titles>
+      <title>O, życia zdroju, Jezu nasz!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="324"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, życia zdroju, Jezu nasz! Dla Ciebie chcemy żyć;<br/>gdy nas za dzieci Swoje masz, racz z nami teraz być.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Łam Ty ten chleb, jak zwykłeś wprzód i daj nam z Swoich rąk:<br/>Boś męką Swoją zbawił lud, ratując z wiecznych mąk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I kielich ten - pamiątkę krwi, coś przelał w męce Swej,<br/>kosztować dozwól ku Twej czci nam z Tobą w chwili tej.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jak latorośle w winny krzew zrastamy z Tobą się,<br/>bośmy Twe ciało, Twoja krew - nasz owoc chwali Cię.</lines>
+    </verse>
+  </lyrics>
+</song>

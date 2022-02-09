@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:58">
+  <properties>
+    <titles>
+      <title>Na Pana złóż swe drogi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="69"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na Pana złóż swe drogi i zaufaj Jemu!<br/>On ci wszystko da, prośby twoje zna.<br/>On twój Pan i twój Bóg!</lines>
+    </verse>
+  </lyrics>
+</song>

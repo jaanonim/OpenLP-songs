@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:15">
+  <properties>
+    <titles>
+      <title>Choćby figi nie zakwitły</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="73"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Choćby figi nie zakwitły,<br/>a urodzaj winnic by znikł.<br/>Oliwy owoc wygniłby,<br/>ziemia dała marny plon.<br/>Choćby owce wszystkie wybił ktoś,<br/>a w oborach brakłoby krów.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jednak w Panu radość będę miał,<br/>Jednak w Panu radość będę miał.<br/>Rozraduję się w Bogu zbawienia mego<br/>moją mocą jest Pan.</lines>
+    </verse>
+  </lyrics>
+</song>

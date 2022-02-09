@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:12">
+  <properties>
+    <titles>
+      <title>Gdy Pan jest ze mną</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="76"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy Pan jest ze mną, nie lękam się wcale.<br/>Cóż może uczynić mi człowiek.<br/>Gdy Pan jest ze mną, nie lękam się wcale.<br/>Cóż może uczynić mi człowiek.<br/>On rzekł: nie bój się,<br/>Z tobą Ja, nie lękaj się,<br/>Jam Bogiem twoim<br/>Wesprę cię.</lines>
+    </verse>
+  </lyrics>
+</song>

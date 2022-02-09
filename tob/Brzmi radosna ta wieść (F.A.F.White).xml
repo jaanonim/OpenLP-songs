@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:47">
+  <properties>
+    <titles>
+      <title>Brzmi radosna ta wieść</title>
+    </titles>
+    <authors>
+      <author type="words">F.A.F.White</author>
+      <author type="music">F.A.F.White</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="564"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Brzmi radosna ta wieść,<br/>Że cudowny kraj jest,<br/>Opisany przez Biblię tu nam.<br/>W kraju tym nie ma łez,<br/>W kraju tym złego kres,<br/>A każdy szczęśliwy jest tam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tam, gdzie cudny kraj,<br/>Wiecznie kwitnie tam maj,<br/>A burzy nie dojdzie tam huk.<br/>Ulice tam są,<br/>Od złota się lśnią;<br/>Słońcem jego Sam wieczny Bóg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tam nie więdnie liść drzew,<br/>Miły wiatru tchnie wiew,<br/>Złoty owoc uśmiecha się nam;<br/>Cudne harfy dla nas<br/>W ziemi pełnej tych kras,<br/>A każdy szczęśliwy jest tam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tam ojcowski nasz dom,<br/>Boże dzieci w nim są,<br/>Jezus życiem, radością jest Sam.<br/>Wiecznej wiosny tu wiew.<br/>Uwielbiania brzmi śpiew,<br/>A każdy szczęśliwy jest tam.</lines>
+    </verse>
+  </lyrics>
+</song>

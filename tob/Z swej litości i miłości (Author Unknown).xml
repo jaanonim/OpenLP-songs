@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:45">
+  <properties>
+    <titles>
+      <title>Z swej litości i miłości</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="303"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z swej litości i miłości, jakim jestem,<br/>przyjmij mię. O mój Zbawco,<br/>łaski Dawco, jakże potrzebuję Cię .</lines>
+    </verse>
+    <verse name="c1">
+      <lines>W Tobie szuka Twoje dziecię siły,<br/>kiedy ciężar gnie, wszak pobłogosławisz<br/>przecie i pocieszysz w smutku je.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ciemno wszędzie, niechże<br/>będzie łaska Twoja, światłem mi,<br/>niechaj zawsze Boże prawdy,<br/>blask Twój mi w ciemnościach lśni.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>W Tobie szuka Twoje dziecię siły,<br/>kiedy ciężar gnie, wszak pobłogosławisz<br/>przecie i pocieszysz w smutku je.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wiarę mając, Ciebie znając,<br/>naśladować Ciebie chcę.<br/>Droga krzyża niech przybliża,<br/>Zbawco mój, do Ciebie mnie.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>W Tobie szuka Twoje dziecię siły,<br/>kiedy ciężar gnie, wszak pobłogosławisz<br/>przecie i pocieszysz w smutku je.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ku Twej chwale niech wytrwale,<br/>dążę do niebieskich bram.<br/>Kiedy oczy śmierć zamroczy,<br/>chwałę Twoją ujrzę tam .</lines>
+    </verse>
+    <verse name="c4">
+      <lines>W Tobie szuka Twoje dziecię siły,<br/>kiedy ciężar gnie, wszak pobłogosławisz<br/>przecie i pocieszysz w smutku je.</lines>
+    </verse>
+  </lyrics>
+</song>

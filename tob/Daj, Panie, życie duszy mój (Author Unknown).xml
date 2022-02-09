@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:40">
+  <properties>
+    <titles>
+      <title>Daj, Panie, życie duszy mój</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="302"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Daj, Panie, życie duszy mój, stwórz we mnie serce myśli czyste,<br/>darować wszystko możesz mi, na nędzę moją spójrz, o, Chryste!<br/>Bezradny jestem, nie mam sił, Ty spraw bym wciąż dla Ciebie żył.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Daj, Panie, życie duszy mej, weź ją na własność Swą na wieki,<br/>krwi nie pożałowałeś Swej, zniżyłeś się, cierpiałeś męki.<br/>Więc niech zbawiona dusza ma Twa będzie wiecznie, cześć Ci da.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Daj, Panie, życie duszy mej, daj do zwycięstwa wiele siły,<br/>nie dopuść do mnie mocy złej, bym był Ci wierny do mogiły.<br/>Chcę w społeczności Twojej żyć, na wieki z Tobą w niebie być.</lines>
+    </verse>
+  </lyrics>
+</song>

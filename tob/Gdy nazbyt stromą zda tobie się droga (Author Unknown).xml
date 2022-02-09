@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:40">
+  <properties>
+    <titles>
+      <title>Gdy nazbyt stromą zda tobie się droga</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="442"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy nazbyt stromą zda tobie się droga,<br/>W trudzie pielgrzymki pot spływa ci z czoła,<br/>Tak ciężką walka, tak wielką jest trwoga,<br/>Ze nie wiesz, zali twa słabość podoła,<br/>- Panu to powiedz; twój Zbawiciel stoi<br/>Pośród strudzonych, krzepi ich i koi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Panu to powiedz, gdy wkoło twej łodzi<br/>Srożą się wichry i piętrzą się fale,<br/>Kiedy cię własne twe ramię zawodzi,<br/>Próżne wysiłki, daremne twe żale,<br/>Wśród fal spienionych twój Zbawiciel stoi,<br/>Burzę ucisza i twą trwogę koi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy cierpisz nad tym, żeś skuty w łańcuchy<br/>Grzechu swojego i swojej niemocy,<br/>2eś na głos Zbawcy swojego tak głuchy,<br/>I miasto światła obierasz cień nocy,<br/>- Panu to powiedz; Spójrz, pod krzyżem stoi<br/>Ten, co cię zbawi, twe cierpienia koi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Panu to powiedz, żeś duchem ubogi,<br/>Gdy się z Nim modlić, gdy czuwać z Nim trzeba;<br/>że mało łakniesz wśród ciężkiej swej drogi<br/>Manny niebieskiej i żywota chleba.<br/>Patrz tam, w ogrójcu twój Zbawiciel stoi,<br/>Dla ciebie walczy i twój smutek koi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kiedyś wśród walki pozostał samotny,<br/>Kiedy najbliżsi cię opuścili,<br/>Gdy dzielisz Zbawcy los ciężki, sromotny,<br/>Boś tak opuszczon, jak On, w śmierci chwili,<br/>- Panu to powiedz: Ten w pobliżu stoi,<br/>Co łzy twe liczy i twój smutek koi</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:45">
+  <properties>
+    <titles>
+      <title>Daj nam, Panie, wytrwać w czasie burz</title>
+    </titles>
+    <authors>
+      <author type="words">M.Roy</author>
+      <author type="music">M.Roy</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="509"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Daj nam, Panie, wytrwać w czasie burz,<br/>Byśmy tam przed Twoim tronem,<br/>Przed rycerstwem niezwalczonym<br/>Wieniec chwały otrzymali już!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Trzymaj się, trzymaj się!<br/>Bracie, siostro, wiernym w boju bądź!<br/>Trzymaj się, trzymaj się,<br/>Byś mógł wieniec wiecznej chwały wziąć!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wąska wiedzie ścieżka w niebios strop;<br/>Szczęśliw ten, kto z niej nie zboczy,<br/>Kto się grzechem znów nie zbroczy,<br/>Kto nie padnie pod brzemieniem prób.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wszystką trwogę, bojaźń świata zmóż,<br/>Bojaźliwie bowiem ramię<br/>Mocy piekieł nie przełamie;<br/>Pan trwożliwych nie uwieńczy dusz!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>W niebo niech się wzniosą myśli twe,<br/>Patrz, tam Ojciec mieszka mocny;<br/>On ci wciąż chce być pomocny,<br/>On miłości ci spojrzenie śle.</lines>
+    </verse>
+  </lyrics>
+</song>

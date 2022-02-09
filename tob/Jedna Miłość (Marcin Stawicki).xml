@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:20">
+  <properties>
+    <titles>
+      <title>Jedna Miłość</title>
+    </titles>
+    <authors>
+      <author type="words">Marcin Stawicki</author>
+      <author type="music">Marcin Stawicki</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="271"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jedna miłość, jedno niebo<br/>Jeden Jezus, Jeden  Bóg<br/>Jedna łaska, Jedna radość<br/>Jeden Kościół, Jeden Duch.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nasze życie w Twoich rękach<br/>co chcesz, możesz zrobić z nim<br/>W Twoich ranach nasze zdrowie<br/>Nasza wolność w Twojej krwi.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Przyjdźmy wszyscy przed Jego tron<br/>Chwałę oddać Mu<br/>niech króluje nad nami<br/>Boży Syn // x3 //</lines>
+    </verse>
+  </lyrics>
+</song>

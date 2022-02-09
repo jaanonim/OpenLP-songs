@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:29">
+  <properties>
+    <titles>
+      <title>O, błogosławiony</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="405"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, błogosławiony,<br/>Łaską nam wsławiony<br/>Narodzenia Bożego czas!<br/>Na ten świat stracony<br/>Chrystus narodzony!<br/>Cieszcie, cieszcie się,<br/>chrześcijanie, wraz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, błogosławiony,<br/>Łaską nam wsławiony<br/>Narodzenia Bożego czas!<br/>Chrystus nam się zjawił,<br/>aby nas wybawił,<br/>Cieszcie, cieszcie się,<br/>chrześcijanie, wraz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, błogosławiony,<br/>Łaską nam wsławiony<br/>Narodzenia Bożego czas!<br/>Ku Twej czci niebianie<br/>Wznoszą dziś śpiewanie.<br/>Cieszcie, cieszcie się,<br/>chrześcijanie, wraz!</lines>
+    </verse>
+  </lyrics>
+</song>

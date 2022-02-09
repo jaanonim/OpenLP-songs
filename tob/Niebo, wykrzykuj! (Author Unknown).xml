@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:51">
+  <properties>
+    <titles>
+      <title>Niebo, wykrzykuj!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="414"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niebo, wykrzykuj! Aniołów radujcie się chóry!<br/>Chwałę Pasterza wiernego podnoście nad chmury!<br/>Patrzcie, jak Bóg do zagubionych Swych sług<br/>zniża się pełen pokory!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niebo, wykrzykuj i wesel się z ziemi krańcami!<br/>Pan Bóg w godzinie tej jedna się już z grzesznikami.<br/>Pokoju wieść wszystkim anioły chcą nieść,<br/>cieszcie się z dobrej nowiny!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cud oglądajcie, jak bardzo sam Bóg się uniża!<br/>Miłość gorąca się do nas w Dzieciątku<br/>przybliża z niebiańskich stref.<br/>Bierze na Siebie nasz grzech, idąc od żłóbka do krzyża!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bóg jest wcielony! Któż pojmie tajemnic tych kartę?<br/>Bramy żywota dla wszystkich na oścież otwarte.<br/>Patrzą j i stój, w serce głęboko swe wpój<br/>Słowa na prawdzie oparte.</lines>
+    </verse>
+  </lyrics>
+</song>

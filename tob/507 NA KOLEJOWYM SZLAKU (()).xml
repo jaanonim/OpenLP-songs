@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:53">
+  <properties>
+    <titles>
+      <title>507 NA KOLEJOWYM SZLAKU</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1840 był rok, <br/>Gdy pomyślałem: czas zrobić ten krok<br/>Gdy pomyślałem: czas ruszyć się<br/>By przeżyć coś na szlaku.</lines>
+    </verse>
+    <verse name="c1">
+      <lines> <br/>Fila li luli lula hej! x3<br/>Na kolejowym szlaku.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>A w 1842 <br/>Wiedziałem już, że cholernie to lubię<br/>Wiedziałem już, że pokochałem<br/>To podłe życie na szlaku.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>A w 1843 <br/>Poznałem swoją dziewczynę Betty<br/>Poznałem jasnowłosą Betty<br/>Poznałem ją na szlaku.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>A w 1844 <br/>Zagrałem z nią w otwarte karty<br/>I powiedziałem jej, że tramp<br/>Samotnie żyć musi na szlaku.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Nieważne, który to będzie rok<br/>Gdy zechcesz w końcu zrobić ten krok<br/>Gdy zechcesz w końcu ruszyć się<br/>By przeżyć coś na szlaku.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Nieważne ile mieć będziesz lat<br/>Gdy znudzi cię twój spokojny świat<br/>Gdy zechcesz mocno po męsku żyć<br/>A tak się żyje na szlaku.</lines>
+    </verse>
+  </lyrics>
+</song>

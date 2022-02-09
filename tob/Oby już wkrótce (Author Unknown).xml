@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:27">
+  <properties>
+    <titles>
+      <title>Oby już wkrótce</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="458"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oby już wkrótce rozgorzały płomienie<br/>jasne z Bożych skier, by świat nareszcie<br/>poznał cały, że bierzesz w ręce rządów ster!<br/>Już ognie Ducha ogarnęły i wschodni<br/>i zachodni ląd, Twe rzesze już kolana<br/>zgięły w przededniu Twych Zielonych Świąt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ach, ożyw, oświeć i rozpłomień już cały<br/>ten szeroki świat, by wody żywej zbawczy<br/>strumień i do najdalszych sięgnął chat.<br/>A wtedy pienia milionów w triumfu się<br/>połączą ton, i nawet możni zstąpią z tronów,<br/>by w hołdzie Twój otoczyć Tron.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:23">
+  <properties>
+    <titles>
+      <title>Idź pod krzyż z ciężary swymi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="122"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Idź pod krzyż z ciężary swymi,<br/>Mdły pielgrzymie, idź!<br/>Tam się nędzni z całej ziemi<br/>Mogą skryć.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na Baranka tam bez zmazy<br/>Spada sądu bicz;<br/>Wszystkie krwawe sińce, razy<br/>Zobacz, zlicz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niósł na krzyżu ten przeczysty<br/>Ciężar toich win;<br/>Patrz, jak kocha wiekuisty<br/>Boży Syn!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tam ukoi twe pragnienia,<br/>Twój uciszy ból,<br/>Pokój w serce da jedynie<br/>Jezus - Król!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Życie wieczne, odpuszczenie<br/>Daje zbawczy krzyż;<br/>Wiedzie w wieczne odpocznienie,<br/>Wiedzie wzwyż.</lines>
+    </verse>
+  </lyrics>
+</song>

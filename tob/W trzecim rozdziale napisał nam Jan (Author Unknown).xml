@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:54">
+  <properties>
+    <titles>
+      <title>W trzecim rozdziale napisał nam Jan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="699"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W trzecim rozdziale napisał nam Jan,<br/>Że nas grzeszników miłuje Sam Pan;<br/>Jest to największy na świecie tym cud,<br/>Że umiłował Bóg grzeszny Swój lud!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ 0, szczęście me, Bóg kocha mnie, /x2<br/>W trzecim rozdziale napisał nam Jan,<br/>Że mnie grzesznika miłuje Sam Pan!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Z miłości do mnie opuścił Swój tron,<br/>A wybrał męki straszliwe i zgon;<br/>Dlatego wierzę, że kocha mię Pan,<br/>Wszak z Jezusowych wynika to ran.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A gdy pobłądzę wnet Jezus mnie z dróg,<br/>Zgubnych zawraca - Pasterzem jest Bóg.<br/>Do trzody Swojej z tęsknotą mię zwie,<br/>Bo dobry Jezus miłuje też mnie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>W Jego miłości na zawsze chcę trwać<br/>Szatan miłości tej będzie się bać.<br/>Grzechu pokusa rozproszy się wnet.<br/>Gdy sobie wspomnę, jak wyrwał mnie z bied!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Uwierzcież, bracia, że kocha, was Bóg,<br/>A wnet ucieknie i dusz waszych wróg:<br/>Poznacie wtedy, jak słodki jest Pan,<br/>Wszak dla was Zbawca z miłości jest dań.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Błogim pokojem uwieńczy swą skroń.<br/>Każdy, kto z wiarą przybliży się Doń.<br/>Duch Boży wleje do serca ten dar:<br/>Kochać nawzajem Jezusa bez miar.</lines>
+    </verse>
+  </lyrics>
+</song>

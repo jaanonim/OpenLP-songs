@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:37">
+  <properties>
+    <titles>
+      <title>O, bracie, czas już ze snu powstać</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="150"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, bracie, czas już ze snu powstać,<br/>z obłudy, w której grzęźnie świat,<br/>z grzechami się na zawsze rozstać,<br/>coś spędził w nich tak wiele lat.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bóg woła cię, pośpieszże Doń,<br/>nie wzbraniaj się. to Zbawca twój,<br/>On czeka też miłości twej.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On już od wieków cię miłował:<br/>śmierć za cię poniósł Boży Syn,<br/>od zguby twej On cię ratował<br/>i zmazał mnóstwo twoich win.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Bóg woła cię, pośpieszże Doń,<br/>nie wzbraniaj się. to Zbawca twój,<br/>On czeka też miłości twej.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy Jezus za nas cierpiał karę,<br/>miłością pałał Jego wzrok.<br/>Swą krew przelewał na ofiarę,<br/>by spędzić grzechów twoich mrok.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Bóg woła cię, pośpieszże Doń,<br/>nie wzbraniaj się. to Zbawca twój,<br/>On czeka też miłości twej.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ta święta krew obmywa dusze,<br/>w niebieski nas wprowadza kraj,<br/>zgryzoty serca i katusze<br/>zamienia w cichy, błogi raj.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Bóg woła cię, pośpieszże Doń,<br/>nie wzbraniaj się. to Zbawca twój,<br/>On czeka też miłości twej.</lines>
+    </verse>
+  </lyrics>
+</song>

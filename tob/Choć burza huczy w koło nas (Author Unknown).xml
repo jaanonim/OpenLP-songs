@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:46">
+  <properties>
+    <titles>
+      <title>Choć burza huczy w koło nas</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="512"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Choć burza huczy w koło nas,<br/>My nie lękajmy się!<br/>Gdy tylko z nami w łodzi Pan,<br/>Nie utoniemy, nie.<br/>Gdy się spieniona burzy toń,<br/>Pan możną Swą wyciągnie dłoń,<br/>Zwycięską ciszę śle,<br/>Choć boleść serce rwie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nim burzy cię zaskoczy noc,<br/>Drużyno wierna, czuj!<br/>Zwycięsko wyjdziesz pewnie z walk,<br/>We wierze tylko stój!<br/>Gdy serce w łonie z bólu drży,<br/>A zda się, że Zbawiciel śpi,<br/>W gorliwych modłach czuj<br/>I prowadź wiary bój!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Idź tylko, dokąd woła Mistrz,<br/>Posłusznie. śmiało idź!<br/>Do głębin wód, do walk, pod krzyż;<br/>Pan przyrzekł z tobą być.<br/>Do chwały wiedzie droga prób<br/>Za śladem Pańskich krwawych stóp!<br/>Drużyno Boża, idź!<br/>- Pan przyrzekł z tobą być!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, spędźmy, spędźmy smutek z dusz,<br/>Podnieśmy w górę skroń!<br/>Wspaniały Zbawca w serca wniósł<br/>Pokoju rajską błoń.<br/>Już nam jaśnieje sponad chmur<br/>Promienny blask syjońskich gór,<br/>Radujmy, bracia, się, Nie utoniemy, nie!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:30">
+  <properties>
+    <titles>
+      <title>Psalm 148 (Niech zabrzmi Panu)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="540"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Alleluja, Alleluja, Alleluja, Alleluja.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Niech zabrzmi Panu<br/>Chwała w niebiosach,<br/>Na wysokościach cześć niech oddadzą!<br/>Wielbijcie Pana duchy niebieskie,<br/>wielbijcie Pana Jego zastępy!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Słońce, księżycu, wielbijcie Pana,<br/>gwiazdy świecące wielbijcie Pana,<br/>niebiosa niebios wielbijcie Pana,<br/>góry podniebne wielbijcie Pana.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niech wszyscy wielbią Imię Pana,<br/>bo Jego Słowo stwarza wciąż wszystko,<br/>bo tylko Jego Imię jest wzniosłe,<br/>niechaj na wieki brzmi Jego chwała!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>On daje siłę swemu ludowi,<br/>z prochu podnosi Swoich przyjaciół,<br/>jest Bogiem bliskim dla Izraela,<br/>swoich wybranych On sam umacnia.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Niech zabrzmi chwała<br/>Ojcu co stwarza,<br/>Jego Synowi, który jest Panem,<br/>Duchowi, który w nas zamieszkuje<br/>po wszystkie wieki, wieków, Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

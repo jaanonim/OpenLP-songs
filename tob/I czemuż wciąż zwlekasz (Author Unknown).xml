@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:35">
+  <properties>
+    <titles>
+      <title>I czemuż wciąż zwlekasz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="112"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I czemuż wciąż zwlekasz, ma duszo,<br/>o, chciejże czym prędzej już wstać!<br/>Twój Zbawca od dawna cię woła,<br/>chce błogi Swój pokój ci dać.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Czemu, czemu, czemu ty nie chcesz Doń przyjść?<br/>Czemu nie chcesz do Jego pokoju wnijść?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na cóż ci zwlekanie się przyda!<br/>Dlaczego na dworze masz stać?<br/>Gdy Jezus sam Jezus, twój Zbawca,<br/>chce wieczny Swój pokój ci dać.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Czemu, czemu, czemu ty nie chcesz Doń przyjść?<br/>Czemu nie chcesz do Jego pokoju wnijść?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Więc czemu nie śpieszysz Doń,<br/>duszo, nim przyjdzie twa śmierć i twój sąd?<br/>Jezusa krew jeszcze cię zbawi,<br/>lecz zwlekać to zgubny jest błąd.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Czemu, czemu, czemu ty nie chcesz Doń przyjść?<br/>Czemu nie chcesz do Jego pokoju wnijść?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nie czujeszże w sercu, ma duszo,<br/>jak Święty Duch ciągnie cię Doń?<br/>Czy nie chcesz być wolną od grzechów?<br/>Czy niebios nie wabi cię błoń?</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Czemu, czemu, czemu ty nie chcesz Doń przyjść?<br/>Czemu nie chcesz do Jego pokoju wnijść?</lines>
+    </verse>
+  </lyrics>
+</song>

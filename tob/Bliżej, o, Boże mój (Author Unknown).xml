@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:28">
+  <properties>
+    <titles>
+      <title>Bliżej, o, Boże mój</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="8"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bliżej, o, Boże mój, Ciebie chcę być,<br/>choć muszę się jak czerw wciąż w prochu wić!<br/>Choć mię przygniata krzyż, do Ciebie śpieszę wzwyż,<br/>bliżej, o Boże mój, Ciebie chcę być!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy mię w pielgrzymce noc położy snem<br/>I tylko będzie głaz wezgłowiem mym,<br/>daj by wśród sennych mar mych tęsknych myśli<br/>żar do Ciebie, Boże mój, ulatał wzwyż!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, tę przebłogą wieść w me serce włóż,<br/>żeś z niebem ziemię tę połączył już!<br/>Anioły w górze lśnią wołają duszę mą.<br/>O, Boże, sam się zniż i do mnie zbliż!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A kiedy wstanę znów, ten kamień bied<br/>na święty ołtarz Twój przemienię wnet,<br/>tu będę Betel miał i złożę pienia chwał<br/>do Twoich wdzięcznie stóp, o, Boże mój!</lines>
+    </verse>
+  </lyrics>
+</song>

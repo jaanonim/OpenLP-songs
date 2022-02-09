@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:52">
+  <properties>
+    <titles>
+      <title>Swej miłości ogniwem połączył was Pan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="646"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Swej miłości ogniwem połączył was Pan,<br/>W wasze serca On łaskę Swą wlał,<br/>By nowego żywota zdrój w Nim był wam znan;<br/>Przewodnikiem wam w życiu się stał.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Miłość ta wiecznie trwa,<br/>Którą wam jest On Sam;<br/>W waszych sercach On stale chce żyć,<br/>A gdy was we swój czas<br/>Przed Swój tron wezwie On,<br/>Jego miłość będziecie wciąż czcić.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dziś nad wami Pan Jezus podnosi Swą dłoń,<br/>Błogosławiąc wam wśród wdzięcznych pień,<br/>Lecz ozdobi Swą chwałą, uwieńczy wam skroń,<br/>Gdy wiernymi was znajdzie w Swój dzień.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pielgrzymujcie w czujności przez ten życia bieg<br/>- Wiele zdrad, sideł jest w świecie tym.<br/>Wiarą wprzód, aż by wróg pokonany już legł,<br/>By z was chwałę miał Pan w ludzie Swym.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Na wesele oboje Pan w górę was zwie,<br/>W rychłe zabrzmi głos Jego: Pójdź już!<br/>Do królewskich, weselnych szat ubrać was chce,<br/>Byście wiecznie przed Nim stali wciąż</lines>
+    </verse>
+  </lyrics>
+</song>

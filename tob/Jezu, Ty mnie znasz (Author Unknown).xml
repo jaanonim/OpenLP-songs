@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:02">
+  <properties>
+    <titles>
+      <title>Jezu, Ty mnie znasz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="173"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, jak szybko płynie czas,<br/>Do wieczności zbliża nas,<br/>Jezus Pan nadchodzi po swój wierny lud.<br/>Teraz ja uchwycę się, mojego Pana, bo On wie,<br/>O słabości mojej, która we mnie jest.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jezu, Ty mnie znasz i dobrze wiesz,<br/>Że ja z tęsknotą czekam cię<br/>O Jezu pomóż przejść, próby czas ten<br/>Prośbę tę o Panie ja do Ciebie ślę.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cudna będzie chwila ta<br/>Kiedy Jezus wieczność da<br/>I nastąpi nowej ery błogi dzień<br/>Chcę pracować, póki czas<br/>Z Panem moim zawsze wraz<br/>By przyspieszyć dzień<br/>Nadejścia Pana Chwał.</lines>
+    </verse>
+  </lyrics>
+</song>

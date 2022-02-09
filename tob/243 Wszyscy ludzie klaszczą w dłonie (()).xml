@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:50">
+  <properties>
+    <titles>
+      <title>243 Wszyscy ludzie klaszczą w dłonie</title>
+    </titles>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wszyscy ludzie klaszczą w dłonie<br/>cała ziemia śpiewa, śpiewa<br/>Wielka radość na Syjonie<br/>Król zstępuje z nieba, z nieba</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nadejdzie dzień, nadejdzie dzień <br/>Zobaczy to (zobaczy to) każdy z nas <br/>Nadejdzie dzień, nadejdzie dzień<br/>Uwielbi Go (uwielbi go) cały świat</lines>
+    </verse>
+  </lyrics>
+</song>

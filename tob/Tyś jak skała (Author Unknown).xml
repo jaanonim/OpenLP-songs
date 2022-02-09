@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:28">
+  <properties>
+    <titles>
+      <title>Tyś jak skała</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="65"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tyś jak skała, Tyś jak wzgórze<br/>Panie nasz, Boże nasz.<br/>Tyś jak wiatr w swej naturze,<br/>Tyś jest stwórcą wszystkich nas.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Światłem swym rozświetlasz drogę,<br/>Która prosto wiedzie nas.<br/>Tam, gdzie źródło Twej miłości,<br/>Gdzie radośnie płynie czas.<br/>/ Allelu, Alleluja, Allelu, Alleluja /x2</lines>
+    </verse>
+  </lyrics>
+</song>

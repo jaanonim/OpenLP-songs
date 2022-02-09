@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:39">
+  <properties>
+    <titles>
+      <title>Po bezbrzeżnym oceanie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="186"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Po bezbrzeżnym oceanie my do domu płyńmy wraz,<br/>cudne już słyszymy granie, bo tam oczekują nas.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>My się nie lękamy gromu, wkrótce już będziemy w domu!<br/>Po bezbrzeżnym oceanie my do domu płyńmy wraz,<br/>cudne już słyszymy granie, bo tam oczekują nas.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wszak miliony już dotarły do ojczystych niebios bram,<br/>lecz dla wszystkich żeglujących wolne miejsce będzie tam.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>My się nie lękamy gromu, wkrótce już będziemy w domu!<br/>Po bezbrzeżnym oceanie my do domu płyńmy wraz,<br/>cudne już słyszymy granie, bo tam oczekują nas.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy kotwicę zarzucimy, zaśpiewamy: „Troskom kres!"<br/>Cudne miasto wnet ujrzymy, tam nie będzie smutku, łez.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>My się nie lękamy gromu, wkrótce już będziemy w domu!<br/>Po bezbrzeżnym oceanie my do domu płyńmy wraz,<br/>cudne już słyszymy granie, bo tam oczekują nas.</lines>
+    </verse>
+  </lyrics>
+</song>

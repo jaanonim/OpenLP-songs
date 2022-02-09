@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:35">
+  <properties>
+    <titles>
+      <title>Przyjdźmy tam gdzie miejsce najświętsze</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przyjdźmy tam gdzie miejsce najświętsze,<br/>Przez Baranka krew wejdźmy tam,<br/>Przyjdźmy doń śpiewaniem Go wielbiąc,<br/>Wywyższając Boży tron.<br/>Wznosząc ręce swe, wielbiąc Króla chwał.<br/>Chwała Ci, Jezu!<br/>Chwała Ci, Jezu!</lines>
+    </verse>
+  </lyrics>
+</song>

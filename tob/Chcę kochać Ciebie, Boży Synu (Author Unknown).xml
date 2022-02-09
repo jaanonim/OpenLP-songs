@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:27">
+  <properties>
+    <titles>
+      <title>Chcę kochać Ciebie, Boży Synu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="224"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chcę kochać Ciebie, Boży Synu,<br/>Chcę kochać Ciebie, siło ma,<br/>Chcę kochać Ciebie mocą czynu<br/>I żądzą, która wiecznie trwa;<br/>Chcę kochać Ciebie, Panie mój,<br/>Aż wyschnie życia zdrój!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ach, czemum poznał Cię tak późno<br/>I Twej piękności Boskiej blask?<br/>Dlaczegom życie tracił próżno<br/>Bez Ciebie i bez Twoich łask?<br/>Żem późno tak ukochał Cię,<br/>O, jakże smuci mię!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Błądziłem, dążąc w różne strony,<br/>Tęsknota za czymś gnała mnie,<br/>Od Ciebie byłem odwrócony,<br/>Kochałem w świecie blaski czcze.<br/>Za Twoją sprawą stało się,<br/>Żem poznał światło Twe!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dziękuję Ci, niebiańskie słońce,<br/>Ze Twój mnie opromienił blask<br/>I że światłości Twojej gońce<br/>Przyniosły mi zbawienia brzask!<br/>Dziękuję, Panie Jezu, Ci,<br/>że dałeś światło mi!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Chcę kochać Ciebie, ma korono,<br/>mój Zbawco drogi, kocham Cię!<br/>Nie za nagrodę przyrzeczoną,<br/>Lecz za to, że zbawiłeś mię.<br/>Chcę kochać Ciebie, Panie mój,<br/>Aż wyschnie życia zdrój</lines>
+    </verse>
+  </lyrics>
+</song>

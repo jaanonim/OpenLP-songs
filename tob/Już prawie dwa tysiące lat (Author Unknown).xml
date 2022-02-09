@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:00">
+  <properties>
+    <titles>
+      <title>Już prawie dwa tysiące lat</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="95"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Już prawie dwa tysiące lat, jak Jezus zmarł,<br/>Za ludzki grzech, za winy wszech.<br/>A Jego krew ma taką moc, jak dawniej,<br/>/ Gdy jednym Słowem, wszystko czynił wkrąg /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Już prawie dwa tysiące lat, jak zmartwychwstał,<br/>W tryumfie tam, u grobu bram.<br/>A Jego krew ma teką moc, jak dawniej,<br/>/ Gdy jednym Słowem wszystko czynił wkrąg /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I dzisiaj także dobry Bóg, chce zbawić cię,<br/>Grzechy twe zmyć, byś mógł w Nim żyć.<br/>A Jego krew ma taką moc, jak dawniej<br/>/ Gdy jednym Słowem wszystko czynił wkrąg /x2</lines>
+    </verse>
+  </lyrics>
+</song>

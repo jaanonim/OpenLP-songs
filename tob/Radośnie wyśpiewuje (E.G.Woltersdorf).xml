@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:32">
+  <properties>
+    <titles>
+      <title>Radośnie wyśpiewuje</title>
+    </titles>
+    <authors>
+      <author type="words">E.G.Woltersdorf</author>
+      <author type="music">E.G.Woltersdorf</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="312"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Radośnie wyśpiewuje<br/>To Boże miasto wciąż.<br/>Krew Pańska to sprawuje,<br/>Że trwigo nie zna już,<br/>Bo Pan Bóg Sam w nim mieszka,<br/>Wspomaga w dzień i w noc,<br/>Dlatego strach zeń pierzcha,<br/>A rośnie modłów moc.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kto wątpi, niech doświadczy,<br/>Czy jest mu ojcem Bóg.<br/>Kto wierzy, ten zaświadczy<br/>Wśród wszelkich życia dróg:<br/>Znalazłem ja zbawienie,<br/>Odczuwam błogość tę;<br/>Przez Pana umęczenie<br/>Ja w niebie znajdę się!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Prawdziwie ten szczęśliwy,<br/>Kto w sercu Pana ma,<br/>Kto dług swój i swe winy,<br/>Stracone życie zna,<br/>A którry nienawidzi,<br/>Co ciało żąda, chce,<br/>Jezusa wiarą czci,<br/>Da Jemu serce swe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Błogosławienie wszyscy,<br/>Co fałszu nie ma w nich.<br/>O, gdyby to grzesznicy<br/>Poznali w drogach swych!<br/>Któż tak bogaty, strojny,<br/>Tak czysty i wśród zła,<br/>Szczęśliwy i spokojny,<br/>Jak ten, kto wiarę ma?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Zatrzymaj, świecie, swoje;<br/>Twych rzeczy krótki wiek.<br/>W Jezusie łaski zdroje,<br/>W nich jest mój w niebo bieg.<br/>Gdy możni łaknąć będą,<br/>Książęta żebrać wciąż,<br/>Ja u stóp Pana siędę,<br/>Swój snop Dlań złożę już.</lines>
+    </verse>
+  </lyrics>
+</song>

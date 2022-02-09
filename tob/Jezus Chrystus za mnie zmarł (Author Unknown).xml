@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:01">
+  <properties>
+    <titles>
+      <title>Jezus Chrystus za mnie zmarł</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="132"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus Chrystus za mnie zmarł,<br/>I za ciebie Chrystus zmarł<br/>On za cały świat na krzyżu zmarł<br/>I na siebie winę wziął.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Panie dzięki Ci że kochasz mnie<br/>Twoja łaska dla mnie jest<br/>Dzięki Ci, że zmyłeś winę mą<br/>Ja chcę zawsze z Tobą być.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezus dla mnie drogą jest<br/>I dla ciebie drogą jest<br/>On do Ojca przeprowadzi nas<br/>On na Siebie winę wziął</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezus Chrystus woła mnie<br/>Jezus Chrystus woła cię.<br/>Powstań więc i idź naśladuj Go<br/>On na Siebie winę wziął.</lines>
+    </verse>
+  </lyrics>
+</song>

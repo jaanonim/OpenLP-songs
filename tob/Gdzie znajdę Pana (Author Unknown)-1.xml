@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:25">
+  <properties>
+    <titles>
+      <title>Gdzie znajdę Pana</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="180"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdzie znajdę Pana,<br/>gdzie znajdę pokój?<br/>O kto mi powie,<br/>gdzie znajdę Go?<br/>Pan pokój da.<br/>O, gdzie jest Pan,<br/>Tam już niebieski, błogi stan.<br/>Weselny strój mej duszy dan!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chceszli Go znaleźć,<br/>Chceszli Go posiąść? -<br/>W komórce podnieś<br/>błagalną dłoń<br/>W komórce swej<br/>w modlitwie łkaj<br/>I proś: O Jezu, przyjdź i daj<br/>W me serce Ty pokoju raj!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kto tylko szuka,<br/>ten pewnie znajdzie;<br/>Zbawiciel szczerych<br/>wysłucha próśb.<br/>Zapukaj więc<br/>w niebieski sklep,<br/>A Pan ci poda życia chleb<br/>I w niebo ci otworzy wstęp.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Chcę Go przebłagać,<br/>Chcę Doń zapukać,<br/>Chcę Doń zawołać:<br/>O Panie, słysz!<br/>Cierpliwieś niósł<br/>mą wielką złość,<br/>Więc ścieżki moje błędne sprość<br/>I z łaską Swoją w sercu gość!</lines>
+    </verse>
+  </lyrics>
+</song>

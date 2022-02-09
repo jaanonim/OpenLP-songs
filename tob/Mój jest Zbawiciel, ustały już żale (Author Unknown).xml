@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:31">
+  <properties>
+    <titles>
+      <title>Mój jest Zbawiciel, ustały już żale</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="307"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mój jest Zbawiciel, ustały już żale!<br/>W Nim radość, wytchnienie, On koi me łzy.<br/>O Jego ja muszę powiedzieć ci chwale,<br/>Gorąco cię wezwać: O, pójdź Doń i ty!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>On wszystkich miłuje, w ofierze się dał<br/>Bo wyrwać cię z śmierci i zbawić cię chciał.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Moim jest Ojciec,<br/>zaufam Mu śmiele;<br/>Że mnie ta nadzieja nie zwodzi,<br/>to wiem.<br/>Zobaczę Go kiedyś<br/>w chwalebnym już ciele.<br/>I ciebie bym znaleźć<br/>tam w świetle chciał tym,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Moim jest niebo, tam stanę ubrany<br/>W jasności słoneczne mieniących się szat.<br/>Ten klejnot ci, bracie, też może być dany,<br/>I ty możesz kiedyś w niebieski wejść świat.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Moim jest pokój<br/>w burzliwym żywocie,<br/>Me bóle On koi,<br/>odwilżą mi skroń.<br/>Nie kupisz go w świecie<br/>za skarby i krocie,<br/>Pan dać go chce darmo,<br/>więc spiesznie idź Doń.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Moim jest wszystko<br/>przez gorzką śmierć Pana.<br/>Wierz tylko,<br/>On wszystko i tobie chce dać.<br/>Czyż krew Jego próżno<br/>za ciebie wylana,<br/>Czyż wiecznie byś w rzędzie<br/>zgubionych miał stać?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Gdy kiedyś Zbawca<br/>twe serce zdobędzie,<br/>O, nie milcz, lecz, bracie,<br/>rozgłaszaj to wciąż;<br/>Zwycięskiej miłości moc<br/>dziwną sław wszędzie,<br/>Rozpalaj nią serca,<br/>z Jezusem je wiąż!</lines>
+    </verse>
+  </lyrics>
+</song>

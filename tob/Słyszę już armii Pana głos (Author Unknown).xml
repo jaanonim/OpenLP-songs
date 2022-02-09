@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:12">
+  <properties>
+    <titles>
+      <title>Słyszę już armii Pana głos</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Słyszę już armii Pana głos /x2<br/>Słyszę chwały głos, słyszę wojny głos<br/>To idzie armia Pana, to idzie armia Pana<br/>To idzie armia Pana uwielbiając Go</lines>
+    </verse>
+  </lyrics>
+</song>

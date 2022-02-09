@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:33">
+  <properties>
+    <titles>
+      <title>Bogu niech będą dzięki</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="267"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bogu niech będą dzięki za każdy nowy dzień<br/>Wszystko Mu chwałę oddaje<br/>W słonecznym blasku dnia.<br/>I my Mu chcemy śpiewać swój pochwalny hymn<br/>Prosić by nas błogosławił przez cały dzień.</lines>
+    </verse>
+  </lyrics>
+</song>

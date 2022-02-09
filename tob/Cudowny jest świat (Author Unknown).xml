@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:00">
+  <properties>
+    <titles>
+      <title>Cudowny jest świat</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="99"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Cudowny jest świat ten, który stworzyłeś<br/>Panie Słowem swym. Dzieło Twych rąk<br/>Przewyższa cały ludzki ród /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wielu ludzi pragnie wciąż,<br/>Zniszczyć prawdy wiecznej moc,<br/>Ale dzieła Twoje, wciąż żywe są,<br/>Każdy człowiek widzi na co dzień to,<br/>Przecież Ty stworzyłeś najmniejszy twór,<br/>Każda gwiazda wie, kto Ty.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Twoim dziełem człowiek też,<br/>Któż zaprzeczyć zdoła, kto?<br/>Któż tak doskonały na ziemi jest,<br/>Żaden stwór nie może przyrównać się,<br/>Boże, to Twe dzieło, ja wiem to Ty,<br/>Ty stworzyłeś cały świat.</lines>
+    </verse>
+  </lyrics>
+</song>

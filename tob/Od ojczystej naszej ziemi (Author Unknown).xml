@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:01">
+  <properties>
+    <titles>
+      <title>Od ojczystej naszej ziemi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="813"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Od ojczystej naszej ziemi,<br/>aż do krańców wielkich mórz,<br/>Wszerz i wzdłuż Pan głośno woła:<br/>„Idę rychło, idę już".</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, za jedność dzieci Bożych<br/>całą duszą stańmy wszyscy społem<br/>I wzmagając śmiało bitwę z kłamstwem,<br/>zło i grzech zmożemy wnet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Czas usunąć zło, przeszkody:<br/>podział wyznań - pychę swą,<br/>„Dziecię Boże" Pan dal nazwę,<br/>ona jest też chlubą mą.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bóg jest jeden, jeden Zbawca,<br/>jedna wiara, jeden chrzest,<br/>Kościół Boży - tylko jeden,<br/>nazwa jego: „Żywy" jest.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Choć ciemności mrok ogarnia,<br/>umęczoną ziemię tę,<br/>Służąc Panu bądźmy wierni,<br/>On nas strzeże mocą Swą.</lines>
+    </verse>
+  </lyrics>
+</song>

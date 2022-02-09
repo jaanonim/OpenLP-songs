@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:44">
+  <properties>
+    <titles>
+      <title>132 Eli, Eli, Lema sabachthani</title>
+    </titles>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="p">
+        <open>&lt;p&gt;</open>
+        <close>&lt;/p&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eli, Eli, Lema sabachthani    x 4<br/><tag name="p"/><br/>Boże mój wołam przez dzień, <br/>Boże mój wołam i nocą <br/>Ty mi nie odpowiadasz <br/>i nie zaznaję pokoju <br/>Przecież Ty mieszkasz w świątyni, <br/>Tobie ufali przodkowie <br/>Do Ciebie wołali, zostali zbawieni <br/>i nie doznali wstydu!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eli, Eli, Lema sabachthani    x 4<br/><tag name="p"/><br/>Ja zaś jestem jak robak, nie człowiek, <br/>wyśmiany, wzgardzony<br/>Szydzą ze mnie ci, którzy mnie znają <br/>i potrząsają głowami <br/>Rozlany jestem jak woda, <br/>jak wosk topnieje me serce<br/>Moje gardło jest jak skorupa, <br/>kładziesz mnie w prochu śmierci!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eli, Eli, Lema sabachthani    x 4<br/><tag name="p"/><br/>Sfora psów mnie opadła, <br/>przebili mi ręce i nogi<br/>Policzyć mogę wszystkie moje kości, <br/>oni patrzą na moją nagość <br/>Moje szaty dzielą między siebie, <br/>los rzucają o mą suknie<br/>Ojcze, Abba, nie stój daleko, <br/>Tatusiu proszę ocal mi życie!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Eli, Eli, Lema sabachthani    x 4<br/><tag name="p"/><br/>Będziesz głosił swoim braciom <br/>wybawienie, Synku mój <br/>Oni zobaczą i uwierzą Twojemu świadectwu! <br/>Ubogi będzie nakarmiony <br/>Biedak zostanie wysłuchany<br/>Smutny będzie pocieszony <br/>Cichy posiądzie ziemię<br/>Cierpiący jest na drodze do Królestwa <br/>Śpiący w ziemi powstanie do życia<br/>Bo tak uczynił Pan! <br/><tag name="p"/><br/>Pan tak uczynił! 3x</lines>
+    </verse>
+  </lyrics>
+</song>

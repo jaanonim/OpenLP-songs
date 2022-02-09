@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:00">
+  <properties>
+    <titles>
+      <title>Tęsknota</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="112"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezu, Tyś słońcem moim, weselem moim,<br/>Ty kochasz mnie, Ty kochasz mnie.<br/>Radość tu w moim życiu, Tyś dał mi Jezu,<br/>To szczęście me, to szczęście me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Tęsknoto, wiedź mnie bliżej Jezusa,<br/>Tęsknoto, do domu prowadź mnie. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kraju, gdzie w morzu światła,<br/>Lud święty śpiewa, tam pójdę ja, tam pójdę ja.<br/>Chodzić po złotych drogach<br/>Przepięknych błoniach,<br/>Cudowne tam, cudowne tam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezu, przyciągaj Ty mnie. Wysiłki moje<br/>Tak słabe są, tak słabe są.<br/>Płyną nieraz łzy gorzkie,<br/>Lecz ja wciąż tęsknię,<br/>Przy Tobie być, przy Tobie być.</lines>
+    </verse>
+  </lyrics>
+</song>

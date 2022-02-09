@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:44">
+  <properties>
+    <titles>
+      <title>Chociaż słabi, jednak śmiemy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="473"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chociaż słabi, jednak śmiemy<br/>Wznosić tu Syjonu gród:<br/>Wszelką ufność złożyć chcemy<br/>W Panu - On nas będzie wiódł.<br/>Wszelki trud On niesie Sam,<br/>Że nas przyjmie, przyrzekł nam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chwała Tobie, Boży Synu,<br/>Iżeś tak ukochał nas<br/>I obrałeś za świątynię,<br/>Gdzie chcesz mieszkać w każdy czas.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wielu błędną drogą kroczy,<br/>Chcąc bez wiary iść przez świat;<br/>Jednak Pan ich jasno uczy,<br/>Ze nie ujdą grzechu zdrad.<br/>Pan nas wzywa słowem Swym<br/>W Jego dom budować się.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oby rychło na tej ziemi<br/>Żywy Kościół stanął już,<br/>Gdzie Pan miłość z dary Swymi<br/>Wlewa w serca szczerych dusz.<br/>Panie, zbór Twój ziemi tej<br/>Niechaj stanie w mocy Twej.</lines>
+    </verse>
+  </lyrics>
+</song>

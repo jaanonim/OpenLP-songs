@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:22">
+  <properties>
+    <titles>
+      <title>Nic dodać nie możesz do łaski</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="112"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nic dodać nie możesz do łaski,<br/>Gdyż łaska, to Pański jest dar;<br/>On nowe Ci życia śle blaski,<br/>Uwolnił z grzechowych cię kar.<br/>Nie dodasz już nic do zbawienia;<br/>W Nim wszystko gotowe, o, wierz!<br/>Ratunek z wiecznego zginienia<br/>Przez wiarę w pokorze ty bierz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nic dodać nie możesz do szaty<br/>Swej białej, omytej we krwi,<br/>Lecz wiara ją przyjm, bez zapłaty;<br/>Twa świętość przed Bogiem niech lśni.<br/>Nie dodasz już nic do mieszkania,<br/>Co w Salem wzniósł dla nas Bóg Sam;<br/>Pójdź tylko, Duch Boży cię skłania,<br/>A wszystko gotowe jest tam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nic dodać nie możesz do nieba,<br/>Wspaniałej ojczyzny wśród chwał.<br/>Wytężać ci sił nie potrzeba;<br/>Bóg kraj ten w dziedzictwo nam dał.<br/>Nie dodasz już nic do godności,<br/>By zdobić koroną swą skroń,<br/>Więc złóż ją przed tronem w wieczności<br/>I kornie tej łasce się skłoń!</lines>
+    </verse>
+  </lyrics>
+</song>

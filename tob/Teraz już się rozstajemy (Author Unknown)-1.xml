@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:01">
+  <properties>
+    <titles>
+      <title>Teraz już się rozstajemy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="819"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Teraz już się rozstajemy,<br/>Błogo czas upłynął nam;<br/>Lecz rozważać nadal chcemy,<br/>Coś nam, Jezu, mówił Sam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Alleluja, alleluja,<br/>Barankowi chwała, cześć,<br/>Alleluja, alleluja,<br/>Jemu chcemy chwałę nieść.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Serca nasze racz kojarzyć,<br/>Coraz silniej mocą Swą,<br/>Siłą Ducha racz nas darzyć,<br/>Byśmy nie szli drogą złą.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ach, pragniemy umiłować<br/>Ponad wszystko, Panie, Cię,<br/>Miłość bliźnim też zachować,<br/>Jak nam Słowo głosi Twe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pomóż nam wieść święte życie,<br/>Takie, Jezu, jak i Ty;<br/>Sił użyczaj nam obficie,<br/>Byśmy wciąż służyli Ci.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wiecznie będziem się radować<br/>W gronie świętych Twoich sług<br/>I ze wszech miar się też dziwić,<br/>2e nas tak miłował Bóg.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Gdy się teraz rozstaniemy,<br/>Bądź nam nadal Wodzem Ty,<br/>My za Tobą iść będziemy,<br/>Żyjąc tylko ku Twej czci.</lines>
+    </verse>
+  </lyrics>
+</song>

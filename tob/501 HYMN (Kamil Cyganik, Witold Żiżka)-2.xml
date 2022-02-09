@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:57">
+  <properties>
+    <titles>
+      <title>501 HYMN</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Kamil Cyganik, Witold Żiżka</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy do drzwi zapuka człowiek<br/>Otulony w ciemną noc<br/>Czy za drzwiami zamkniętymi<br/>Zgodzisz się na zło?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ref.: Co zrobię ja, co zrobisz ty,<br/>Gdy cały świat stanie u drzwi?<br/>Co zrobisz ty, co zrobię ja,<br/>Aby ocalić cały świat?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy do drzwi zapuka człowiek<br/>Drżący jak zraniony ptak<br/>Czy, ratując jego życie,<br/>Uratujesz świat?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nie odwrócę się od bólu<br/>Nie odwrócę się od łez<br/>Nie odwrócę się od ludzi<br/>Nad którymi śmierć.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Choćby wszyscy dookoła<br/>Odrzucili także mnie<br/>Od słabego, od bitego<br/>Nie odwrócę się.</lines>
+    </verse>
+  </lyrics>
+</song>

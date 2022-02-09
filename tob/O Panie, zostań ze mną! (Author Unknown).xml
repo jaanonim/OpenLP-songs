@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:53">
+  <properties>
+    <titles>
+      <title>O Panie, zostań ze mną!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="665"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Panie, zostań ze mną!<br/>Nadchodzi wieczór już,<br/>Lecz Tyś i w noc tę ciemna<br/>Mej duszy wierny Stróż.<br/>Choć ciemno dookoła,<br/>Ni grzech, ni śmierć, ni wróg<br/>Zatrwożyć mnie nie zdoła,<br/>Gdy ze mną Pan, mój Bóg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ach, zostań ze mną, Zbawco,<br/>Nachylił się już dzień,<br/>Lecz Ty, światłości Dawco,<br/>Spłoszyłeś nocy cień;<br/>Tyś trwogę spłoszył, Panie,<br/>Pokonał grzechu moc,<br/>Więc w Tobie me ufanie<br/>W dzień jasny, w ciemną noc.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Jezu, zostań ze mną,<br/>Twą mocą wspierać chciej!<br/>Wszak walka ta daremną<br/>Bez łaski, Panie, Twej,<br/>Nic strwożyć mnie nie zdoła,<br/>Ni grzech, ni śmierć, ni wróg;<br/>Choć ciemno dookoła,<br/>Jest ze mną Pan, mój Bóg.</lines>
+    </verse>
+  </lyrics>
+</song>

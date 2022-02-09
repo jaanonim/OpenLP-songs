@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:00">
+  <properties>
+    <titles>
+      <title>Myśmy, bracia, Chrystusa żołnierze</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="796"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Myśmy, bracia, Chrystusa żołnierze<br/>Za Chrystusem pójdziemy i w bój,<br/>I oddamy swe życie w ofierze<br/>/ Na cierpienia, trudności i znój. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nic nie może nam stawić przeszkody,<br/>Żadna siła szatańska - toć wróg.<br/>My przejdziemy przez ogień, przez wody.<br/>/ Z nami w boju jest Sam Chrystus, Bóg. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nam nie trzeba uznania, ni sławy,<br/>Gdyż jak kwiat więdnie ziemski nasz stan;<br/>Za nas Chrystus przechodził bój krwawy,<br/>/ Za nas cierpiał Niebiański nasz Pan. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nas tam czeka w niebiesiech zapłata,<br/>Za uczynki, za pracę i trud,<br/>Będzie dana czystości nam szata.<br/>/ Pan zgotował niebiański nam Gród! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:51">
+  <properties>
+    <titles>
+      <title>809 PAŁACYK MICHLA</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pałacyk Michla, Żytnia, Wola,<br/>bronią się chłopcy spod „Parasola”,<br/>choć na „tygrysy” mają visy —<br/>to warszawiaki, fajne chłopaki — są!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Czuwaj wiaro i wytężaj słuch,<br/>pręż swój młody duch, pracując za dwóch!<br/>Czuwaj wiaro i wytężaj słuch,<br/>pręż swój młody duch, jak stal!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Każdy chłopaczek chce być ranny...<br/>sanitariuszki — morowe panny,<br/>i gdy cię kula trafi jaka,<br/>poprosisz pannę — da ci buziaka — hej!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z tyłu za linią dekowniki,<br/>intendentura, różne umrzyki,<br/>gotują zupę, czarną kawę —<br/>i tym sposobem walczą za sprawę — hej!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Za to dowództwo jest morowe,<br/>bo w pierwszej linii nadstawia głowę,<br/>a najmorowszy z przełożonych,<br/>to jest nasz „Miecio” w kółko golony — hej!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wiara się bije, wiara śpiewa,<br/>szkopy się złoszczą, krew ich zalewa,<br/>różnych sposobów się imają,<br/>co chwilę „szafę” nam posuwają — hej!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Lecz na nic „szafy” i granaty,<br/>za każdym razem dostają baty<br/>i co dzień się przybliża chwila,<br/>że zwyciężymy! I do cywila — hej!</lines>
+    </verse>
+  </lyrics>
+</song>

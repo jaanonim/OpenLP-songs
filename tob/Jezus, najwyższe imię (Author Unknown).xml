@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:13">
+  <properties>
+    <titles>
+      <title>Jezus, najwyższe imię</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="133"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus, najwyższe imię.<br/>Nasz Zbawiciel, Książe pokoju!<br/>Emanuel, Bóg jest z nami,<br/>Odkupiciel, Słowo Żywota!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Święty Bóg, Mesjasz Prawdziwy,<br/>Jedyny Ojca Syn umiłowany.<br/>Zgładził grzech Baranek na wieki,<br/>Królów Król, panów Pan!</lines>
+    </verse>
+  </lyrics>
+</song>

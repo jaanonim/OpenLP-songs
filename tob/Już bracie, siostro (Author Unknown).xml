@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:23">
+  <properties>
+    <titles>
+      <title>Już bracie, siostro</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="142"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Już bracie, siostro, bądź gotowy<br/>I powstań, wbudź się z grzechów snu!<br/>Patrz, Chrystus daje żywot nowy,<br/>On cię miłuje, ufaj Mu!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Więc śpieszże Doń<br/>Na wieki miłość Jego trwa<br/>W błogości toń,<br/>On tobie wieczne szczęście da!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tak dawno On cię już miłoje,<br/>Za ciebie niósł śmiertelny krzyż;<br/>Swój cudny pokój ci daruje,<br/>Z doliny łez prowadzi wzwyż.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z ran Jego święta krew się lała,<br/>Jak wielkiej to miłości czyn!<br/>I niwinnego śmierć spotkała<br/>Dla naszych</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oczyszcza wszystkich krew ta święta,<br/>Uzdrawia serca, słodzi znój,<br/>Wolnością darzy, kruszy pęta;<br/>Pan przez nią zlewa pokój Swój.</lines>
+    </verse>
+  </lyrics>
+</song>

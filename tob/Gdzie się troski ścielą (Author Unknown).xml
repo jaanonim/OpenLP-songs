@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:39">
+  <properties>
+    <titles>
+      <title>Gdzie się troski ścielą</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="187"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdzie się troski ścielą w tym padole nędz,<br/>bez pokoju wielu musi w życiu biec,<br/>serca pocieszajcie zdrojem Bożych łask,<br/>w ciemność ich rzucajcie złoty słońca blask!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>// Słońca promienie ścielcie w znój i krzyż,<br/>na miłości skrzydłach nieście serca wzwyż! // .</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miłość małym czynem wiele zgoi ran;<br/>Wspierać, nieść wesele - to przykazał Pan.<br/>Wielce szczęśliw będzie, da tym Bogu cześć,<br/>ten kto w każdej biedzie umie pomoc nieść.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>// Słońca promienie ścielcie w znój i krzyż,<br/>na miłości skrzydłach nieście serca wzwyż! // .</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Miejcie twarz radosną, zwyciężajcie mgły,<br/>idźcie z Bożą wiosną w beznadziejne dni.<br/>W życia udręczenie nieście wiary moc,<br/>z nieba pocieszenie wnieście w ziemską noc!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>// Słońca promienie ścielcie w znój i krzyż,<br/>na miłości skrzydłach nieście serca wzwyż! // .</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Chociaż posiew łzawy miłość rzuca w świat,<br/>Pan się do jej sprawy zawsze przyzna rad.<br/>Miłość leczy bóle, daje wieczny zysk,<br/>nieście więc w niedolę jasny słońca błysk!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>// Słońca promienie ścielcie w znój i krzyż,<br/>na miłości skrzydłach nieście serca wzwyż! // .</lines>
+    </verse>
+  </lyrics>
+</song>

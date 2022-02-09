@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:45">
+  <properties>
+    <titles>
+      <title>153 GWIAZDY TAŃCZYŁY</title>
+    </titles>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="p">
+        <open>&lt;p&gt;</open>
+        <close>&lt;/p&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gwiazdy tańczyły w noc, gdy przyszedł Pan. <br/>Ziema śpiewała w takt niebiańskich gam.<br/><tag name="p"/><br/>Ref.: Raduj się, śpiewaj pieśń<br/>Oto Król narodził się, Jemu cześć.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Marja cieszyła się, widząc Króla ziem.<br/>Pasterze w pokłonie chylili głowy swe.<br/><tag name="p"/><br/>Ref.: Raduj się, śpiewaj pieśń<br/>Oto Król narodził się, Jemu cześć.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mędrcy przybyli, znając miejsce to.<br/>Złożyli dary, uwielbiając Go.<br/><tag name="p"/><br/>Ref.: Raduj się, śpiewaj pieśń<br/>Oto Król narodził się, Jemu cześć.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Śpiewam o Panie sławiąc imię Twe.<br/>U Twego żłóbka składam serce swe.<br/><tag name="p"/><br/>Ref.: Raduj się, śpiewaj pieśń<br/>Oto Król narodził się, Jemu cześć.</lines>
+    </verse>
+  </lyrics>
+</song>

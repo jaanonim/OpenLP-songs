@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:43">
+  <properties>
+    <titles>
+      <title>101 Niechaj zstąpi Duch Twój i odnowi ziemię</title>
+    </titles>
+    <ccliNo>No.</ccliNo>
+    <authors>
+      <author/>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niechaj zstąpi Duch Twój i odnowi ziemię,<br/>Życiodajny spłynie deszcz na spragnione serce.<br/>Obmyj mnie i uświęć mnie, <br/>Uwielbienia niech popłynie pieśń</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chwała Jezusowi, który za mnie życie dał,<br/>Chwała Temu, który pierwszy umiłował mnie. <br/>Jezus, tylko Jezus Panem jest.</lines>
+    </verse>
+  </lyrics>
+</song>

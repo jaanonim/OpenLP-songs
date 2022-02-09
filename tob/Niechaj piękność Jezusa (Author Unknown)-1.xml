@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:35">
+  <properties>
+    <titles>
+      <title>Niechaj piękność Jezusa</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="348"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niechaj piękność Jezusa się we mnie lśni,<br/>Niech w odblasku jej płyną me życia dni,<br/>O, niech Duch mocą Swą kieruje zawsze mną;<br/>Niechaj piękność Jezusa się we mnie lśni.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niechaj oień Jezusa przepali mnie,<br/>Niech przekształci me serce, poświęci je,<br/>By mógł w nim tylko<br/>On wznieść chwały Swojej tron;<br/>Niechaj oień Jezusa przepali mnie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niechaj życie Jezusa jest działem mym,<br/>Niechaj w Jego istocie zanurzę się,<br/>Niech strumień Jego krwi omywa serce mi;<br/>Niechaj życie Jezusa jest działem mym.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Niechaj zawsze Jezusa w swym sercu mam,<br/>Niech mym życiem kieruje, jak chce,<br/>On Sam, przenika mnie na wskroś,<br/>Niechaj zawsze Jezusa w swym sercu mam.</lines>
+    </verse>
+  </lyrics>
+</song>

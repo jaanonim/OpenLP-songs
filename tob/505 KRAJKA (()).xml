@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-14T17:15:53">
+  <properties>
+    <titles>
+      <title>505 KRAJKA</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>()</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chorałem dzwonków dzień rozkwita <br/>Jeszcze od rosy rzęsy ciężkie<br/>We mgle turkocze pierwsza bryka <br/>Słońce wyrusza na włóczęgę. <br/><br/>Drogą pylistą, drogą polną <br/>Jak kolorowa panny krajka <br/>Słońce się wznosi nad stodołą <br/>Będzie tańczyć walca.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A ja mam swoją gitarę <br/>Spodnie wytarte i buty stare <br/>Wiatry niosą mnie. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zmoknięte świerszcze stroją skrzypce ,<br/>Żuraw się wsparł o cembrowinę <br/>Wiele nanosi wody jeszcze <br/>Wielu się ludzi z niej napije.<br/><br/>Drogą pylistą, drogą polną <br/>Jak kolorowa panny krajka <br/>Słońce się wznosi nad stodołą <br/>Będzie tańczyć walca.</lines>
+    </verse>
+  </lyrics>
+</song>

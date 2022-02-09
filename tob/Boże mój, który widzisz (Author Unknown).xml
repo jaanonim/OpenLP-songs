@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:45">
+  <properties>
+    <titles>
+      <title>Boże mój, który widzisz</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="300"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boże mój, który widzisz serca mego łkanie,<br/>I ten ciężki duszy mojej ból.<br/>Nie mam komu się wyżalić, Panie,<br/>Rany zgój, rany zgój, rany zgój!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Boże mój, który wiele dla mnie masz miłości,<br/>Przytul mnie do serca Swego Ty,<br/>Ukój ból i w sercu mym gorzkości,<br/>Otrzyj łzy, otrzyj łzy, otrzyj łzy!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezu mój, któryś cierpiał za mnie na Golgocie<br/>I przelałeś za mnie Swoją krew,<br/>I modliłeś się w Swym krwawym pocie,<br/>Zbaw i mnie, zbaw i mnie, zbaw i mnie!</lines>
+    </verse>
+  </lyrics>
+</song>

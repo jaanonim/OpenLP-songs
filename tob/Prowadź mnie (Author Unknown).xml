@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:06">
+  <properties>
+    <titles>
+      <title>Prowadź mnie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="292"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Prowadź mnie przez cały dzień<br/>O to dzisiaj modlę się<br/>Prowadź mnie bym pokusom oparł się.<br/>Prowadź mnie przez ciemną noc,<br/>Niech Twój blask przyświeca mi<br/>Twoją wolę wypełniać zawsze chcę.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Choć upadłem nisko w grzech<br/>Jednak Jezus spostrzegł mnie<br/>Przebaczył wszystkie przewinienia me.<br/>Teraz widzę Jego twarz,<br/>Potrzebuję Jego łask<br/>On prowadził ścieżką, którą wybrał sam</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bóg miłuje wszystkich nas<br/>Jedynego Syna dał.<br/>Na krzyżu zmarł by nam zbawienie dać.<br/>Jemu dziś zaufać chciej<br/>On poniesie brzemię twe<br/>On potęgę swą objawi w życiu twym.</lines>
+    </verse>
+  </lyrics>
+</song>

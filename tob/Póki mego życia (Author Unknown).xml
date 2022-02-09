@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:27">
+  <properties>
+    <titles>
+      <title>Póki mego życia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="208"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Póki mego życia<br/>Panu śpiewać chcę,<br/>Grać memu Bogu<br/>Póki życia starczy mi.<br/>Niech Ci będzie Panie<br/>Miła moja pieśń,<br/>Będę radować się w Bogu,<br/>Panu mym!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/ Błogosław duszo moja Panu, Alleluja!<br/>Błogosław duszo moja Panu, Alleluja! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:11">
+  <properties>
+    <titles>
+      <title>Jest wspaninały górny</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pieśni Nowego Życia" entry="118"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jest wspaniały, górny kraj, jest<br/>wspaniały górny kraj, jest wspaniały<br/>górny kraj, gdzie Ojca dom! Jest<br/>wspaniały górny kraj, jest wspaniały<br/>górny kraj, jest wspaniały górny<br/>kraj, gdzie Ojca dom!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>{Nie ma bólu, smutku,łez} 3x<br/>gdzie Ojca dom!<br/>{Nie ma bólu, smutki, łez} 3x<br/>gdzie Ojca dom!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>{Wieczne szczęście tam już trwa} 3x<br/>gdzie Ojca dom!<br/>{Wieczne szczęście tam juz trwa} 3x<br/>gdzie Ojca dom!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>{Waską ścieszką dojdziesz tam} 3x<br/>gdzie Ojca dom!<br/>{Wąską ścieszką dojdziesz tam} 3x<br/>gdzie Ojca dom!</lines>
+    </verse>
+  </lyrics>
+</song>

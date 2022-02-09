@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:36">
+  <properties>
+    <titles>
+      <title>Jezus grzeszników do się woła dziś</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="129"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus grzeszników do się woła dziś;<br/>On woła dziś, On woła dziś!<br/>Łaskawie chce ich On przyjąć,<br/>o słysz, do Jego objęć się zbliż.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Woła cię dziś! Woła cię dziś!<br/>Pójdź, Jezus cię woła!<br/>Tkliwie cię woła On dziś.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wielkie są grzechy twe, ty o tym wiesz,<br/>nawróć się dziś! Nawróć się dziś!<br/>Póki czas łaski trwa do Boga idź,<br/>nawróć się, nawróć się dziś!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Woła cię dziś! Woła cię dziś!<br/>Pójdź, Jezus cię woła!<br/>Tkliwie cię woła On dziś.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ty chcesz być zbawiony, chcesz w niebie być,<br/>nawróć się dziś, nawróć się dziś.<br/>Doczekaszli jutra, o tym nie wiesz,<br/>chciej łaski dostąpić dziś1.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Woła cię dziś! Woła cię dziś!<br/>Pójdź, Jezus cię woła!<br/>Tkliwie cię woła On dziś.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:53">
+  <properties>
+    <titles>
+      <title>O jak powitać Ciebie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="441"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O jak powitać Ciebie i przyjąć w porze tej?<br/>Odwieczny Królu w niebie, ozdobo duszy mej!<br/>O, Jezu, drogi Panie, bądź sam pochodnią mi,<br/>wskaż, czym na powitanie dziś radość sprawić Ci.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hosanna! Syjon śpiewa i ściele zieleń palm,<br/>w mym sercu zaś rozbrzmiewa pochwalny Tobie<br/>psalm, to serce ku Twej chwale chce dziś poświęcić<br/>się i służyć Tobie stale, o, przyjm ofiarę tą!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ach, czegoś nie uczynił, bym pocieszenie miał!<br/>Gdym za to, com przewinił, przed gniewem Bożym drżał,<br/>grzech raju mnie pozbawił, gdzie nie ma trwóg i łez,<br/>Tyś, Zbawco mój, się stawił, mej nędzy kładąc kres.</lines>
+    </verse>
+  </lyrics>
+</song>

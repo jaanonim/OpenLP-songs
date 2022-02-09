@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:47">
+  <properties>
+    <titles>
+      <title>Prawdy nasienie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="341"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Prawdy nasienie ty tylko siej,<br/>Jezus niech pracy pomaga twej.<br/>Siej, choćbyś plonu nie widzieć miał,<br/>szczęśliw, kto ziarno w nadziei siał.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>// Przyjdą błogie czasy żniw! //<br/>Czyś ziarno siał w światła blask albo w mgłę?<br/>Czyś rzucał je w pełni sił, albo nie?<br/>Czy będziesz tam albo tu zbierał plon,<br/>Twoim pewnie będzie on!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Padnięć ziarenko na miedzy brzeg,<br/>inne na skale już upał spiekł,<br/>inne ma z cierniem pospołu róść,<br/>lecz i podatna się znajdzie włość.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>// Przyjdą błogie czasy żniw! //<br/>Czyś ziarno siał w światła blask albo w mgłę?<br/>Czyś rzucał je w pełni sił, albo nie?<br/>Czy będziesz tam albo tu zbierał plon,<br/>Twoim pewnie będzie on!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Siej, choć w ucisku zabraknie sił, siej,<br/>choćby wiecher niszczący wył, siej,<br/>choć się pieni ze złości wróg.<br/>Nie trać nadziei, pomoże Bóg!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>// Przyjdą błogie czasy żniw! //<br/>Czyś ziarno siał w światła blask albo w mgłę?<br/>Czyś rzucał je w pełni sił, albo nie?<br/>Czy będziesz tam albo tu zbierał plon,<br/>Twoim pewnie będzie on!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nieraz powodzie zaleją siew, zrosi<br/>gorąca go łza i krew, lecz siej w nadziei,<br/>że przyjdzie dzień, gdy hojnych<br/>plonów doczekasz się.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>// Przyjdą błogie czasy żniw! //<br/>Czyś ziarno siał w światła blask albo w mgłę?<br/>Czyś rzucał je w pełni sił, albo nie?<br/>Czy będziesz tam albo tu zbierał plon,<br/>Twoim pewnie będzie on!</lines>
+    </verse>
+  </lyrics>
+</song>

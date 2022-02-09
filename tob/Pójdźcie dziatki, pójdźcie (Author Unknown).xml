@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:03">
+  <properties>
+    <titles>
+      <title>Pójdźcie dziatki, pójdźcie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="838"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pójdźcie dziatki, pójdźcie,<br/>Jezus woła was!<br/>Spieszcie się do Zbawcy,<br/>/ Póki jeszcze czas. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uczcie się od Niego,<br/>W Nim jest źródło łask,<br/>W Nim jest rozkosz życia,<br/>/ Z Niego bije blask. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szczęście to, gdy dziatki<br/>W szkółce mogą być,<br/>Uczyć się od Zbawcy,<br/>/ Jak dla Boga żyć. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I my, Zbawco drogi,<br/>U Twych świętych nóg<br/>Uczyć się pragniemy,<br/>/ 2dążać w niebios próg. /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Daj nam serce mądre,<br/>Do nauki chęć,<br/>Życie nasze całe<br/>/ W prawdzie Twojej święć. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

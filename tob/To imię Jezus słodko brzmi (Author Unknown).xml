@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:36">
+  <properties>
+    <titles>
+      <title>To imię Jezus słodko brzmi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="359"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To imię Jezus słodko brzmi<br/>Któż powab ten opisze mi?<br/>O, jakże cenne imię to!<br/>Przewyższa wszystko krasą swą.<br/>/ Mą chlubą, Jezu, imię Twe,<br/>Tyś miłość i zbawienie me. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Jezu, imię Twe - to moc;<br/>W poranek ono zmienia noc,<br/>Dla martwych ono żywot ma,<br/>Grzesznikom pewność nieba da<br/>/ 0, dzięki Ci za światła zdrój,<br/>Za miłość Twą i pokój Twój. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Do łaski tronu w imię to<br/>Przystąpić mogę w chwilę złą;<br/>Zwyciężam ja w imieniu tym,<br/>Unikam nieszczęść, gdym jest z Nim;<br/>/ Nad imię wszelkie - imię Twe,<br/>Wysławiać, Jezu, pragnę je. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>W imieniu tym jest życia zdrój,<br/>Obfitość łaski, pokój mój.<br/>A kiedy już z Jordanu fal<br/>Wynijdę do niebiańskich sal,<br/>/ To, Jezu, wiecznie imię Twe<br/>Opiewać będą usta me. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

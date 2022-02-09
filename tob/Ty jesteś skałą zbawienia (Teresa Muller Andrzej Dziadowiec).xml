@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:31">
+  <properties>
+    <titles>
+      <title>Ty jesteś skałą zbawienia</title>
+      <title>Rock of my salvetion</title>
+    </titles>
+    <authors>
+      <author type="words">Teresa Muller Andrzej Dziadowiec</author>
+      <author type="music">Teresa Muller Andrzej Dziadowiec</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="650"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ty jesteś skałą zbawienia mego,<br/>w Tobie ma siła i moc.<br/>Tyś mą nadzieją i mym natchnieniem,<br/>wznoszę do Ciebie mój głos.<br/>Panie wierzę Ci, tak wierzę Ci,<br/>bo Twa miłość wierna jest.<br/>Tyś pomocą mą w potrzebach mych,<br/>Panie przy Tobie chcę być.<br/>Panie przy Tobie chcę być.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:22">
+  <properties>
+    <titles>
+      <title>Czy znasz to imię</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="104"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czy znasz to imię, w którym jest zbawienie,<br/>Dane nam przez Bożą moc?<br/>Tchnie ziemia, morze cudnym tym pragnieniem<br/>Wielbić je i w dzień i w noc.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Imię Jezus, cudne imię Jezus!<br/>Czyż kto zacniejsze nad nie zna?<br/>Wszak nad imiona wszystkie imię Jezus<br/>Głośnym echem w niebie gra.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To imię Jezus zawsze jasno świeci<br/>W pośród nocy, bólów, bied.<br/>Wciąż tli nadziei promyk Bożych dzieci,<br/>w Nim odwagę wzmocnisz wnet</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy się złamane serce w nim zanurzy,<br/>Znajdzie tam cudowny lek,<br/>Choć głębią miota orkan strasznej burzy,<br/>Pan uciszy wichru jęk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy przyjdzie czas imiona sławne zgasną-<br/>Imię Jezus będzie żyć;<br/>Jak purpurowy odblask zorzy jasnej<br/>Będzie we wieczności lśnić.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:44">
+  <properties>
+    <titles>
+      <title>Mnie do nieba dążyć trzeba</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="275"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mnie do nieba dążyć trzeba, abym zbawioN był.<br/>Chcę bojować, nie ustawać póki starczy sił.<br/>Nikt przeszkodzić nie śmie mi; gdy zemdleję,<br/>hasło brzmi: Dalej bojuj, świat ten zwojuj,<br/>byś osiągnął cel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wskazuj, Panie, nieustannie ten niebieski cel;<br/>gdyby siły opuściły, Ty Swą pomoc zlej. Ostrzeż mię,<br/>gdy wabi świat, gdy nie widzę swoich wad,<br/>racz zachować mię i prowadź Swoją drogą wprost.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wspieraj, Panie, jam nie w stanie swej słabości zmóc,<br/>dusza czuje, że brakuje męstwa jej i sił,<br/>lecz Twe słowo życie da, tchnie Twym Duchem dusza ma.<br/>Niech w niebiosy zabrzmią głosy: Dobry jest nasz Bóg!</lines>
+    </verse>
+  </lyrics>
+</song>

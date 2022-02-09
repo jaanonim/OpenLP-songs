@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:52">
+  <properties>
+    <titles>
+      <title>W górze, powyżej gwiazd</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="654"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W górze, powyżej gwiazd<br/>Miasto prześliczne znam,<br/>/ Błogie mieszkanie /x2<br/>Jezus gotuje tam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pierzchła ponura noc,<br/>Jasnym spłoszona dniem;<br/>/ Grzech nie zamąci /x2<br/>Pląsów radosnych w nim.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ustał tam płacz i jęk,<br/>Nie ma bolesnych łkań,<br/>[;Tam odpoczynek, /x2<br/>Śmierci spłacona dań.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Miłych nie zrani serc<br/>Tam rozłączenia ból,<br/>/ Bo żyją wiecznie /x2<br/>Wśród błogich, rajskich pól.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kto mię zawiedzie, kto,<br/>W ten przeradosny świat,<br/>/ Gdzie nieprawości /x2<br/>Już nie znasz, ani wad?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kto zaprowadzi mnie<br/>Do tych perłowych bram?<br/>/ Może to tylko /x2<br/>Jezus uczynić Sam</lines>
+    </verse>
+  </lyrics>
+</song>

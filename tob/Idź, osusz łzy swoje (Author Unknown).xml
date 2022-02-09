@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:40">
+  <properties>
+    <titles>
+      <title>Idź, osusz łzy swoje</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="213"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Idź, osusz łzy swoje, nie troszcz się, jak świat!<br/>Pan Jezus twe znoje uleczyć chce rad!<br/>Gdy sercem twym włada udręka i mrok,<br/>u Pana jest rada: Wybawi cię z trwóg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On zna twe starania, więc patrz tylko Nań!<br/>Ku tobie się skłania, ze smutków swych wstań!<br/>Wnet słońce wypłynie znad mgieł,<br/>spoza chmur w łez ciemnej dolinie rozjaśni twój tor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy smutkiem zoraną gdzieś ujrzałbyś twarz,<br/>to zwróć ją ku Panu, nadzieję jej wskaż!<br/>Strapionym pomagaj, do Pana ich zwij,<br/>zapraszaj i błagaj, On otrze ich łzy!</lines>
+    </verse>
+  </lyrics>
+</song>

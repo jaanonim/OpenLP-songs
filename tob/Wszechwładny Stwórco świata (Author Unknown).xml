@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:54">
+  <properties>
+    <titles>
+      <title>Wszechwładny Stwórco świata</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="465"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wszechwładny Stwórco świata! Ty masz w Swej mocy czas!<br/>Tyś nam oznaczył lata i w nich prowadzisz nas.<br/>A choć przyszłości chwile nieznane nigdy nam,<br/>ufamy Twojej sile, boś zawsze jest ten sam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tyś nas w Swej opatrzności i dotąd,<br/>Boże, miał, Tyś nam wśród przeciwności<br/>skuteczną pomoc dał, a bacznie gdy<br/>śledzimy koleje naszych dróg, w pokorze<br/>rzec musimy: łaskawym był nam Bóg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Odwieczny! Za te dary, o któżby nie chciał<br/>Ci wdzięczności nieść ofiary przez wszystkie życia dni?<br/>Kto nie miałby ufności, rzucając w przyszłość wzrok,<br/>że nas w Swej opatrzności chcesz mieć i przez ten rok?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Daj, Ojcze, Ducha Twego i wspieraj mocą Twą!<br/>Chciej ustrzec nas od złego i pokrzep wolę mdłą.<br/>Niech głos Chrystusa wszędzie oddala błędu mrok,<br/>niech nam pociechą będzie przez nowy życia rok.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gdzie w smutku pogrążony do Ciebie wznosi głos,<br/>gdzie chory, opuszczony narzeka na swój los,<br/>gdzie nędzarz w niedostatku ku Tobie zwraca wzrok,<br/>tam, Boże, nieszczęść Świadku, daj pomoc w Nowy Rok!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Wszak Ty, nasz Ojcze, w niebie, najlepiej wszystko znasz,<br/>wiesz, w jakiej nam potrzebie przychodzić w pomoc masz.<br/>Nasz los Ci poruczamy na cały życia czas,<br/>aż biegu dokonamy i w chwale przyjmiesz nas.</lines>
+    </verse>
+  </lyrics>
+</song>

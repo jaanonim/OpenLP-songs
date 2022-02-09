@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:19">
+  <properties>
+    <titles>
+      <title>Pośpieszcie, o, wierni</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="42"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pośpieszcie, o, wierni,<br/>głośno triumfując,<br/>By ujrzeć cudowne to Betlejem!<br/>Ujrzeć dzieciątko,<br/>dla nas narodzone!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>[Oddajmy pokłon Jemu, /x2<br/>Oddajmy pokłon Jemu - Królowi!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Królu światłości,<br/>Panie wojsk anielskich,<br/>Spoczywasz we żłóbku, ubogi, mdły<br/>Boże prawdziwy,<br/>zrodzon od wieczności!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Śpiewajcie Królowi,<br/>chóry archanielskie!<br/>Śpiewajmy z zastępem zbawionych rzesz:<br/>Chwała w niebiesiech<br/>Bogu i na ziemi!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tak, Tobie, co dla nas<br/>stałeś się człowiekiem,<br/>Jezusie, niech będzie oddana cześć!<br/>Słowo wcielone<br/>Ojca od wieczności!</lines>
+    </verse>
+  </lyrics>
+</song>

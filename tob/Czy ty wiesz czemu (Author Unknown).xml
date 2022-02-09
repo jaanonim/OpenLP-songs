@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:36">
+  <properties>
+    <titles>
+      <title>Czy ty wiesz czemu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="5"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czy ty wiesz czemu tak gwiazdy lśnią,<br/>Lub czemu listki na wietrze drżą?<br/>Dlaczego niebo niebieszczy się,<br/>I czemu kocha Bóg ciebie i mnie?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja nie wiem, czemu tak gwiazdy lśnią<br/>Lub czemu listki na wietrze drżą.<br/>Ja nie wiem czemu tak dzieje się,<br/>Lecz jak to dobrze, że Bóg kocha mnie.</lines>
+    </verse>
+  </lyrics>
+</song>

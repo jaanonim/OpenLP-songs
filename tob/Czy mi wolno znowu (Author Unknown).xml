@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:37">
+  <properties>
+    <titles>
+      <title>Czy mi wolno znowu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="156"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czy mi wolno znowu z grzechem moim przyjść?<br/>Wolno Tobie ufać, w progi Twoje wnijść?<br/>Czyli Twa cierpliwość jeszcze dalej trwa?<br/>Czy co dzień się wznawia, Panie, łaska Twa?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy do Ciebie wznoszę pytający wzrok,<br/>Ty mi ukazujesz Swój otv:arty bok;<br/>Miłość, tylko miłość tam przyjmuje mię,<br/>miłość, której człowiek nie wymarzyłby.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Łaska, odpuszczenie! taki wyrok Twój,<br/>który w raj przemienia nędzę im i znój, który z,<br/>kwiatów raju daje wieńce wić, tak,<br/>że już na ziemi mogę zbawion być.</lines>
+    </verse>
+  </lyrics>
+</song>

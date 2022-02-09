@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:11">
+  <properties>
+    <titles>
+      <title>Royalski</title>
+    </titles>
+    <authors>
+      <author type="words">TGD</author>
+      <author type="music">TGD</author>
+    </authors>
+    <songbooks>
+      <songbook name="Różnymi Pieśniami"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>WSZYSCY LUDZIE KLASZCZĄ W DŁONIE,<br/>CAŁA ZIEMIA ŚPIEWA, ŚPIEWA<br/>WIELKA RADOŚĆ NA SYJONIE<br/>KRÓL ZSTĘPUJE Z NIEBA, Z NIEBA /x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>NADEJDZIE DZIEŃ (nadejdzie dzień)<br/>NADEJDZIE DZIEŃ (nadejdzie dzień)<br/>ZOBACZY TO (zobaczy to)<br/>KAŻDY Z NAS<br/>NADEJDZIE DZIEŃ (nadejdzie dzień)<br/>NADEJDZIE DZIEŃ (nadejdzie dzień)<br/>UWIELBI GO, CAŁY ŚWIAT!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>NASZ PAN, POTĘŻNY I GROŹNY<br/>(królem całej ziemi jest)<br/>A NAM, ODDAJE NARODY<br/>(słychać już zwycięstwa pieśń)</lines>
+    </verse>
+    <verse name="b1">
+      <lines>NADEJDZIE DZIEŃ (nadejdzie dzień)<br/>NADEJDZIE DZIEŃ (nadejdzie dzień)<br/>ZOBACZY TO (zobaczy to)<br/>KAŻDY Z NAS<br/>NADEJDZIE DZIEŃ (nadejdzie dzień)<br/>NADEJDZIE DZIEŃ (nadejdzie dzień)<br/>UWIELBI GO, CAŁY ŚWIAT!</lines>
+    </verse>
+  </lyrics>
+</song>

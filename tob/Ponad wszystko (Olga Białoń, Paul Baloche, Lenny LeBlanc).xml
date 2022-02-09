@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:29">
+  <properties>
+    <titles>
+      <title>Ponad wszystko</title>
+    </titles>
+    <authors>
+      <author type="translate">Olga Białoń</author>
+      <author type="words">Paul Baloche</author>
+      <author type="music">Paul Baloche</author>
+      <author type="words">Lenny LeBlanc</author>
+      <author type="music">Lenny LeBlanc</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="528"/>
+    </songbooks>
+    <themes>
+      <theme>meditation</theme>
+      <theme>piano</theme>
+      <theme>love</theme>
+      <theme>gospel</theme>
+      <theme>worship</theme>
+      <theme>difficulties</theme>
+      <theme>crucifixion</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ponad trony, ponad moc<br/>ponad wszystko, co żyje w świecie tym,<br/>nad mądrością i tym co człowiek wie,<br/>Ty byłeś zanim powstał ten świat.<br/>Nad kólestwa i ich moc,<br/>ponad wszystkie cuda, które poznał świat,<br/>nad bogactwem i skarbami ziemi tej,<br/>nie ma miary, która zmierzy  Cię.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Na krzyżu zmarł, za mnie poniósł śmierć.<br/>Przyszedł tu, by umrzeć za mój grzech.<br/>On wie czym samotność jest.<br/>Uwolnił mnie, za mnie zmarł,<br/>za wszystkich nas.</lines>
+    </verse>
+  </lyrics>
+</song>

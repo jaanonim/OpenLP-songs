@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:23">
+  <properties>
+    <titles>
+      <title>Głośno biją niebios dzwony</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="138"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Głośno biją niebios dzwony<br/>W świat daleki z rajskich kras.<br/>Ich donośne, wzniosłe tony<br/>Głoszą hojny łaski czas.<br/>Wysławiajmyż miłość Bożą,<br/>W której nam Jezusa dał;<br/>Już nas groby nie zatrwożą,<br/>Gdy z Nim mamy życia dział.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dzwonów jęk, Śpiewu dźwięk<br/>Płynie z ust anielskich w dół.<br/>Słodki ton Z górnych stron:<br/>Dziś weselny stroją stół!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niebios dzwony zapraszają<br/>Na wesele w rajską włość.<br/>Wszystkie bóle tam znikają,<br/>Miejsce znajdzie każdy gość.<br/>Jezus darzy życia chlebem,<br/>Złóżcie Jemu ciężar swój!<br/>Wiara was połączy z niebem,<br/>Gdzie bogactwa macie zdrój.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niebios dzwony ślą przestrogi<br/>Dla oziębłych, gnuśnych dusz:<br/>O, nie dajcie zwieść się z drogi<br/>Do Syjonu jasnych wzgórz!<br/>Jeszcze brama się otwiera,<br/>Ciasna jest, a wąski tor;<br/>Wewnątrz miłość płonie szczera,<br/>Zewnątrz potępionych zbiór.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Głośno dzwony ogłaszają:<br/>Nadszedł Pański rok nam już!<br/>Niech wybrani wyśpiewują<br/>Z chórem rzesz zbawionych dusz!<br/>Prędko Król nasz się okaże,<br/>Patrzcie, oto idzie już!<br/>Nieście Jemu życie w darze,<br/>Wierni, by koronę wziąć,</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:44">
+  <properties>
+    <titles>
+      <title>Bracia, sztandar Chrystusowy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="507"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bracia, sztandar Chrystusowy<br/>W nowy zwie nas bój!<br/>Za broń każdy, a w tej zbroi<br/>W pogotowiu stój!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>„Pan Bóg z nami!" - hasłem naszym;<br/>Naprzód, bo już czas!<br/>Alleluja! Tam zwycięstwa wieniec wita nas.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nieprzyjaciel silnym hufcem<br/>Nas otoczył w krąg,<br/>A tu tylu naszym wypadł<br/>Oręż Ducha z rąk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Spójrz na święte godło krzyża,<br/>Hasło Zbawcy znasz;<br/>W imię Boga przedwiecznego<br/>Ty zwyciężyć masz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>„Wiernym bądź!" tak woła Jezus,<br/>„Dzień już Bliski Mój!"<br/>Weź, o Panie, serca nasze<br/>Z Sobą mocno spój!</lines>
+    </verse>
+  </lyrics>
+</song>

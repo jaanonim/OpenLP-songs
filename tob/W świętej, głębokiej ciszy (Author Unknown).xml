@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:36">
+  <properties>
+    <titles>
+      <title>W świętej, głębokiej ciszy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="367"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W świętej, głębokiej ciszy<br/>Do mnie się, Panie, skłoń,<br/>/ Twej woli roznieć światło,<br/>Ja pójdę doń, /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Weź mię w niewolę Swoją,<br/>Bym zawsze w Tobie żył,<br/>/ Ukój tęsknotę moją,<br/>Bym Twoim był! /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cóż mam Ci więcej przynieść?<br/>Ty znasz mój każdy ból.<br/>/ Chcę Tobie dać się zanieść<br/>Do rajskich pól. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>W Tobie się ukryć mogę.<br/>Tyś jest pokojem mym,<br/>/ Mów do mnie, Panie drogi,<br/>Ja słuchać chcę! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

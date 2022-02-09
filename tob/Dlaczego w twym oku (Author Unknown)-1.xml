@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:45">
+  <properties>
+    <titles>
+      <title>Dlaczego w twym oku</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="515"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dlaczego w twym oku<br/>tak często jest łza,<br/>Dlaczego twa dusza<br/>tak rwie się i łka?<br/>/ Zwątpienie i smutek<br/>przygniata cię tak,<br/>Że siły do życia<br/>i walki ci brak. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Za mało masz wiary,<br/>za dużo masz trwóg,<br/>Za mało ty ufasz,<br/>że dobry jest Bóg.<br/>/ Że Bóg twój jest wielki,<br/>pamiętaj to wciąż<br/>I zawsze z modlitwą<br/>do Niego ty dąż! /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pod krzyż Zbawiciela<br/>śpiesz ufnie w złe dni -<br/>Zabierze twe troski,<br/>osuszy twe łzy,<br/>/ Ukoi cierpienia,<br/>utuli twój żal,<br/>I wszystkie tęsknoty<br/>ulecą gdzieś w dal. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

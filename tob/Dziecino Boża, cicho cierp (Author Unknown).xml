@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:39">
+  <properties>
+    <titles>
+      <title>Dziecino Boża, cicho cierp</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="438"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dziecino Boża, cicho cierp,<br/>Choć ścieżkę pokrył mrok,<br/>I Temu się z ufnością zwierz,<br/>Co zna tysiące dróg!<br/>A gdy się chmur ulewnych czerń<br/>Nad górski wzniesie grzbiet,<br/>Za Panem tylko ufnie krocz,<br/>A światło błyśnie wnet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, śmiało się na Ojca pierś,<br/>Dziecino Boża, rzuć,<br/>Wszak tyś własnością Jego jest,<br/>Więc Doń się ufnie zwróć!<br/>A choćby się nie wiedzieć jak<br/>Przewlekła długa noc,<br/>Zwycięży przecie ranny blask,<br/>Więc się nie pozwól zmóc!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A gdy z ufnością poddasz się<br/>Pod Jego święty wpływ,<br/>On towarzyszem będzie twym<br/>Wśród cichych, błogich niw!<br/>Więc ufaj Mu i cicho bądź,<br/>Choć wszędzie nocne mgły,<br/>Na Wodza swego tylko patrz,<br/>A światło wzejdzie ci!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:52">
+  <properties>
+    <titles>
+      <title>Za ręce bierz ich, Panie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="647"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Za ręce bierz ich, Panie,<br/>Sam prowadź ich;<br/>Wiedź w nowym życia stanie<br/>/ Po drogach Twych /x2<br/>Tych, którzy teraz stoją<br/>U Twoich stóp,<br/>Miłością połącz Swoją<br/>/ Aż poza grób! /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niech miłość ich owionie<br/>Twa w każdy dzień,<br/>Ich troski serc rozwionie<br/>/ I smutku cień; /x2<br/>Swe opiekuńcze skrzydła<br/>Nad nimi wznieś,<br/>By miłość ich nie stygła<br/>/ Do Ciebie, strzeż! /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich każdą życia drogę<br/>Błogosław Sam,<br/>Po wąskiej ścieżce nogę<br/>/ Zaprowadź tam, /x2<br/>Gdzie pokój wieczny płynie<br/>po trudach już<br/>I wszelka trwoga zginie<br/>/ Wśród rajskich zórz! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

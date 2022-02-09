@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:59">
+  <properties>
+    <titles>
+      <title>Przedwieczne Twe Słowo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="766"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przedwieczne Twe Słowo, o Panie!<br/>Pochodnią jest stopom mym,<br/>To Słowo od złego ochrania<br/>W pielgrzymce mej, w świecie złym!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ażeby już więcej nie grzeszyć,<br/>Do serca złożyłem Twe Słowo,<br/>/ By grzechu się strzec<br/>I święcie móc żyć,<br/>Twe Słowo wciąż w sercu chcę mieć! /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Panie! Twe Słowo niezmiennie,<br/>Od wieków na wieki trwa,<br/>W nim postać nam Swą odzwierciedlasz,<br/>Taką łaskę nam Ono da!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z poranku, w południe, wieczorem<br/>Uwielbiam wspaniałość Twą,<br/>Tyś moim dziedzictwem, mym wzorem<br/>I szczęściem, radością mą!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Przyrzekłeś zlać moc Ducha Łaski<br/>Nad nami okazać cud,<br/>Daj dzisiaj nam odczuć wyraźnie,<br/>Że nasz już nawiedzasz lud.</lines>
+    </verse>
+  </lyrics>
+</song>

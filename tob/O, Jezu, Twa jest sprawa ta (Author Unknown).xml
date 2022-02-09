@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:32">
+  <properties>
+    <titles>
+      <title>O, Jezu, Twa jest sprawa ta</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="56"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, Jezu, Twa jest sprawa ta,<br/>przed którą stoimy, a że to,<br/>Jezu, sprawa Twa, nie dasz zaginąć jej,<br/>lecz ziarnko pszenne musi<br/>plon do światła wznieść przez własny zgon;<br/>nim wzejdzie, wprzód się w ziemi skryć,<br/>istoty swej się w śmierci zbyć,<br/>w ukryciu żyć, istoty swej się zbyć.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tyś, Jezu, drogą cierpień wszedł w niebieską chwałę Swą,<br/>taż wiedziesz drogą mąk i bied Tych, którzy wierzyć chcą.<br/>Ach, prowadź nas,<br/>by każdy miał w Twym krzyżu i królestwie dział;<br/>swej śmierci bramą prowadź nas do światła, z Twoją sprawą wraz, z Twą sprawą wraz, do światła prowadź nas!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tyś umarł sam i sam się w grób jak ziarnko pszenne wsiał;<br/>tak samo ożyw, nowym zrób świat, który Bóg Ci dał!<br/>I daj nam posłów wiernych, daj,<br/>by wkrótce w każdy ziemi kraj rozsławiać Twoje imię szli!<br/>I my też chcemy służyć Ci,<br/>o, służyć Ci po wszystkie życia dni!</lines>
+    </verse>
+  </lyrics>
+</song>

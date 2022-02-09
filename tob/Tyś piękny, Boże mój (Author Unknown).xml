@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:29">
+  <properties>
+    <titles>
+      <title>Tyś piękny, Boże mój</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="17"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tyś piękny, Boże mój! I dzieła Twe prześliczne,<br/>a Twój wspaniały tron w jasności ustawicznej.<br/>Przepiękny pałac Twój, ach cudów pełno w nim,<br/>lecz najpiękniejszyś Ty sam w majestacie Swym.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tyś mocny, Boże mój, i godzien wszelkiej chwały;<br/>anielski orszak Twój w potędze okazały.<br/>Gdzie koniec Twoich ziem? Gdzie w Twym królestwie noc?<br/>Przedziwne dzieła Twe i niezgłębiona moc.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tyś dobry, Boże mój! Dla grzesznych Tyś łaskawy,<br/>z ojcowskiej ręki Twej jest krzyż, co serce krwawi.<br/>Zbawienna wola Twa, Twe słowo jako miód;<br/>spragnione rzesze Swe do żywych wiedziesz wód.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mój Boże, Tyś to sam Bóg żywy, Ojciec w niebie,<br/>nie pragnę nigdy mieć innego, oprócz Ciebie,<br/>Wszechmocny, Tobie cześć za Twej miłości zdrój;<br/>o dzięki, dzięki Ci, że w Tobie żywot mój.</lines>
+    </verse>
+  </lyrics>
+</song>

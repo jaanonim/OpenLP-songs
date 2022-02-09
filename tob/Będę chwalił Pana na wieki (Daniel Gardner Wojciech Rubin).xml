@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:15">
+  <properties>
+    <titles>
+      <title>Będę chwalił Pana na wieki</title>
+      <title>I will bless the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Daniel Gardner Wojciech Rubin</author>
+      <author type="music">Daniel Gardner Wojciech Rubin</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="35"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Będę chwalił Pana na wieki<br/>chwalił Pana na wieki,<br/>bez końca me usta<br/>niech wielbią Go. // x2<br/>Wysławiaj Pana ze mną i razem<br/>wywyższajmy Jego Imię. Będę..... //</lines>
+    </verse>
+  </lyrics>
+</song>

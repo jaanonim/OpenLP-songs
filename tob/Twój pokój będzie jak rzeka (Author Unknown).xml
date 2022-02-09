@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:13">
+  <properties>
+    <titles>
+      <title>Twój pokój będzie jak rzeka</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Wędrowiec" entry="183"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Twój pokój będzie jak rzeka<br/>I chwałę Bóg da,<br/>Gdy zakosztujesz tej wody,<br/>Która wina ma smak.<br/>Poznasz pełnię miłości<br/>I radość co trwa.<br/>Wiecznego życia dla ciebie<br/>On ma dar.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Wszyscy szukajcie dziś Pana!<br/>Wzywaj Go, póki jest czas!<br/>Niech bezbożny opuści swój grzech<br/>I niech powróci Doń dziś!<br/>Chodźcie więc, wszyscy pragnący,<br/>Pójdźcie do wód życia pić!<br/>Przyjdź, wina i mleka w Nim zdrój,<br/>Przyjdź, bez pieniędzy i pij!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Będziesz z radością już iść,<br/>Pokój będzie cię strzec.<br/>I góry, pagórki zanucą swą pieśń,<br/>I drzewa klaskaniem swych rąk!<br/>Gdzie głóg był, cyprysy wyrosną,<br/>I pokrzyw nie będzie, lecz mirt.<br/>Będzie to Panu ku sławie i czci<br/>Na Jego wieczny znak!</lines>
+    </verse>
+  </lyrics>
+</song>

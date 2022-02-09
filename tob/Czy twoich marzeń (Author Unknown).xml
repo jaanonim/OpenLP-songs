@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:34">
+  <properties>
+    <titles>
+      <title>Czy twoich marzeń</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="24"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czy twoich marzeń sen jasny prysł?<br/>Czy zgasł ostatni słoneczny błysk?<br/>Co by nie było wzrok w górę wznieś,<br/>Bóg ci obiecał z pomocą przyjść.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wszak jest najciemniej przed świtem tuż,<br/>Cierpliwie czekaj porannych zórz.<br/>Bóg nie zawiedzie, wnet słońce wzejdzie,<br/>Wszak jest najciemniej przed świtem tuż.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On zna twe troski, zna wszystkie łzy,<br/>I tylko czeka, by pomóc ci.<br/>Więc nie rozpaczaj, uśmiechnij się,<br/>Bóg cię pamięta, On kocha cię.</lines>
+    </verse>
+  </lyrics>
+</song>

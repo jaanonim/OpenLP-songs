@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:29">
+  <properties>
+    <titles>
+      <title>Podnieśmy sztandary miłości</title>
+      <title>Lift High the banners of Love</title>
+    </titles>
+    <authors>
+      <author type="words">Rick Gillard</author>
+      <author type="music">Rick Gillard</author>
+    </authors>
+    <songbooks>
+      <songbook name="TomaszKupka" entry="526"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Podnieśmy sztandary miłości,<br/>Alleluja!<br/>A trąby niech grają do boju!<br/>Chrystus nam daje zwycięstwo,<br/>Alleluja!<br/>Jerycho upadnie! // x2 //</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ciało Chrystusa jest armią zbrojną,<br/>co zwalcza moce ciemności,<br/>wyzwala ona więźniów,<br/>mocą Imienia Chrystusa Króla.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bracia, dziś Chrystus nas wzywa<br/>do Siebie,<br/>by walczyć przy Jego boku.<br/>To On nam daje życie,<br/>by zanosić je tam gdzie go brak.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bracia, zostańmy w jedności ze sobą<br/>i Ducha złączeni mocą.<br/>Zebrani wokół Pana<br/>walczmy do dnia,<br/>gdy On znów powróci.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Głośmy, że Chrystus<br/>zmartwychwstał,<br/>że śmierć nie ma<br/>nad Nim już swej mocy.<br/>ciemnościom stawmy czoła,<br/>Ducha zbroję przywdziejmy na siebie.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>W Imieniu Boga, naszego ojca,<br/>w Imieniu Chrystusa Pana,<br/>w Imieniu Ducha mocy,<br/>toczmy walkę do końca swych dni.</lines>
+    </verse>
+  </lyrics>
+</song>

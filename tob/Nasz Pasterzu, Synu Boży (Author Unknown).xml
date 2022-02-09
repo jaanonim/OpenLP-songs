@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:46:33">
+  <properties>
+    <titles>
+      <title>Nasz Pasterzu, Synu Boży</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Głos Wiary" entry="77"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nasz Pasterzu, Synu Boży, Jezu miłosierny,<br/>zawsze pełen troskliwości, stale owcom wierny,<br/>do wód cichych, źródeł czystych, na zielone pasze<br/>// dnia każdego i w czas święta wiedziesz dusze nasze // .</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wołasz owce po imieniu, one głos Twój znają.<br/>Liczysz, wiedziesz do owczarni, tam odpoczywają.<br/>Osłabione, poranione, miłe swe jagnięta<br/>// niesiesz, tulisz w swych ramionach małe niebożęta // .</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jeśli jedna Ci zaginie, idziesz szukać, Panie,<br/>aż ją znajdziesz i zaniesiesz do Swego mieszkania.<br/>Radość wtedy niewymowna wśród aniołów bywa,<br/>// jak wśród żeńców pośród lata, gdy bogate żniwa // .</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Miłość Swoją do zbłąkanych życiem zapłaciłeś,<br/>krwią Swą czystą, drogocenną, z grzechu wykupiłeś.<br/>Ucz nas cenić Twoją miłość, dobry nasz Pasterzu,<br/>// niechże dusze nasze co dzień trwają w Tw^m przymierzu // ,</lines>
+    </verse>
+  </lyrics>
+</song>

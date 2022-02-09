@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:37">
+  <properties>
+    <titles>
+      <title>Jezus zawieść mię nie może</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="387"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus zawieść mię nie może,<br/>Bo On dla mnie skarbem jest<br/>Droższym, niźli myśleć mogłem,<br/>- Bo któż jak On wiernym jest?<br/>Im poznaję lepiej Jego,<br/>Tym wierniejszym zda się być,<br/>/ I tym większy zapał czuję<br/>Innych też do Niego wieść. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezus zawieść mię nie może,<br/>On, co śmierci wydarł mnie,<br/>On, co grzechu dług mój spłacił,<br/>Dług, co dręczył serce me.<br/>On też Swoją świętą, cichą<br/>Obecnością pełną łask,<br/>/ 0dkrył w pełni sercu memu<br/>Swej miłości jasny blask. /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezus zawieść mię nie może,<br/>On znów przyjdzie, On mój Pan.<br/>W głębi serca mego czuję,<br/>Że się zbliża błogi stan.<br/>Niech tam świat się z tego śmieje,<br/>Nie zna On radości mej;<br/>/ Lecz ja wiem: mój Król jest blisko,<br/>Wkrótce przyjdzie w chwale Swej. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jezus zawieść mię nie może,<br/>On jest wszystkim w życiu mym;<br/>Panem, Wodzem, Przyjacielem,<br/>Zbawicielem w świecie tym.<br/>On zagarnął serce moje,<br/>Zawsze o mnie troszczy się;<br/>Nie, On zawieść mię nie może,<br/>- Doskonale zbawił mię! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

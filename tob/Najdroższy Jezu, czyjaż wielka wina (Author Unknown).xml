@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:19">
+  <properties>
+    <titles>
+      <title>Najdroższy Jezu, czyjaż wielka wina</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="50"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Najdroższy Jezu, czyjaż wielka wina<br/>Na krzyż Bożego, Ciebie, wiodła Syna,<br/>Z jakiej przyczyny spadło tyle złego<br/>Na niewinnego?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Łasko wielka, Miłości bez miary,<br/>Tyś za nas cierpiał, gdy my godni kary!<br/>Za winy nasze, Tyś, nasz Pan nad pany,<br/>Na śmierć był dany.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rozumem swoim pojąć jam nie w stanie<br/>Twojej miłości i dobroci, Panie!<br/>Jakąż Ci wdzięczność, Zbawco mój, okażę?<br/>Co dam Ci w darze?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Serce Ci daję swe, Baranku Boży,<br/>Żaden mnie odtąd wróg już nie zatrwoży;<br/>Z głębi swej duszy wielbię Ciebie, Panie,<br/>Za Twe kochanie.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A gdy przed tronem Twojej stanę chwały,<br/>Gdzie chóry świętych będą Ci śpiewały,<br/>Po wieki wieków będę wielbił Ciebie<br/>Z świętymi w niebie.</lines>
+    </verse>
+  </lyrics>
+</song>

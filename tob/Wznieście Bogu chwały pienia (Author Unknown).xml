@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:47:19">
+  <properties>
+    <titles>
+      <title>Wznieście Bogu chwały pienia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Pielgrzyma" entry="45"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wznieście Bogu chwały pienia,<br/>Wznieście, aniołowie!<br/>Niech o wieści wybawienia<br/>Cały świat się dowie!<br/>Wielkie, wielkie się ludzkości<br/>Miłosierdzie stało.<br/>Boży Syn na ziemi gości,<br/>Ludzkie przyjął ciało!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sprawiedliwy Król Syjonu<br/>Niebo nam odmyka<br/>I zstępuje z Swego tronu<br/>W kształcie niewolnika.<br/>Do nas się grzeszników zbliża<br/>Z łaską i pociechą,<br/>Aby nas cierpieniem krzyża<br/>Wyswobodzić z grzechu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>W stajni spoczął Syn człowieczy<br/>Jako słabe dziecię;<br/>Jednak z nędzy On wyleczy<br/>Ciebie, grzeszny świecie.<br/>Niechaj tylko Jezusowi<br/>Serca się otworzą -<br/>On zagoi, On uzdrowi<br/>Rany mocą Bożą.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Skłońcie, dumni, swe kolana,<br/>Zdóbcie się pokorą,<br/>Bo u żłóbka tego Pana<br/>gaśnie blask pozoru!<br/>Kiedy możni już zaniemią,<br/>Wiatr ich prochy zmiecie,<br/>Wtedy rządzić będzie ziemią<br/>Betlejemskie dziecię.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Biedni świata, prostaczkowie,<br/>O, przychodźcie śmiało,<br/>A znajdziecie w Jego słowie<br/>Pomoc doskonałą!<br/>Teraz w sercach naszych trony<br/>Pragnie pozakładać,<br/>Potem, w chwale uwielbiony,<br/>Z nami wiecznie władać.</lines>
+    </verse>
+  </lyrics>
+</song>

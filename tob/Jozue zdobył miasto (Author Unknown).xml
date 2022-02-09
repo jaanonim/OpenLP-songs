@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-15T17:48:36">
+  <properties>
+    <titles>
+      <title>Jozue zdobył miasto</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zborowy" entry="48"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Jozue zdobył miasto wielkie<br/>Jerycho, Jerycho, Jerycho,<br/>Jozue zdobył miasto wielkie Jerycho,<br/>Gdyż miał ufność w Bogu swym.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Gdy z trudem szedł by zdobyć je<br/>Obchodził miasto wciąż,<br/>Siódmego dnia obiecał Bóg,<br/>Że On zburzy Jerycho.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Więc szedł z odgłosem głośnych trąb,<br/>By głosić światu w krąg,<br/>Że rzeczą łatwą z Bogiem jest<br/>Zdobyć miasto Jerycho.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On niezachwianie wierzył w to,<br/>Że Bóg swą pomoc da,<br/>Okaże wielką swoją moc,<br/>Padną mury Jerycha.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy wierząc tak obchodził je,<br/>Trzynasty z rzędu raz,<br/>Bóg spełnił obietnicę swą,<br/>Padły mury Jerycha.</lines>
+    </verse>
+  </lyrics>
+</song>
